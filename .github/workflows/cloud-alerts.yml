@@ -6,6 +6,9 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch: # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   alerts:
     runs-on: ubuntu-latest
@@ -34,8 +37,8 @@ jobs:
 
     - name: Commit dashboard data
       run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add cloud_data/
         git diff --cached --quiet || git commit -m "Update cloud data [skip ci]"
         git push
