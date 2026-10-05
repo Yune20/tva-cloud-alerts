@@ -28,4 +28,14 @@ jobs:
         BOT1_CHAT: ${{ secrets.BOT1_CHAT }}
         BOT2_TOKEN: ${{ secrets.BOT2_TOKEN }}
         BOT2_CHAT: ${{ secrets.BOT2_CHAT }}
+        BOT3_TOKEN: ${{ secrets.BOT3_TOKEN }}
+        BOT3_CHAT: ${{ secrets.BOT3_CHAT }}
       run: python cloud_alerts.py --once
+
+    - name: Commit dashboard data
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add cloud_data/
+        git diff --cached --quiet || git commit -m "Update cloud data [skip ci]"
+        git push

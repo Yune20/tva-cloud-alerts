@@ -21,6 +21,8 @@ CONFIG = {
     "bot1_chat": os.getenv("BOT1_CHAT", ""),
     "bot2_token": os.getenv("BOT2_TOKEN", ""),
     "bot2_chat": os.getenv("BOT2_CHAT", ""),
+    "bot3_token": os.getenv("BOT3_TOKEN", ""),
+    "bot3_chat": os.getenv("BOT3_CHAT", ""),
 
     # Intervals (seconds)
     "analysis_interval": int(os.getenv("ANALYSIS_INTERVAL", "900")),  # 15 min
@@ -387,6 +389,45 @@ def filter_news(items: list, keywords: list, max_items: int = 5):
 
 # ─── MAIN FUNCTIONS ───────────────────────────────────────────────────────────
 
+def save_dashboard_data(all_analysis):
+    """Save analysis + OHLCV data to JSON for dashboard."""
+    try:
+        import os
+        os.makedirs("cloud_data", exist_ok=True)
+        
+        # Save analysis data
+        dashboard_data = {
+            "updated_at": datetime.now(timezone.utc).isoformat(),
+            "symbols": [],
+        }
+        
+        for item in all_analysis:
+            # Trim OHLCV to last 100 candles to keep file small
+            ohlcv = item["ohlcv"]
+            trim = 100
+            dashboard_data["symbols"].append({
+                "symbol": item["symbol"],
+                "name": item["name"],
+                "ohlcv": {
+                    "open": ohlcv["open"][-trim:],
+                    "high": ohlcv["high"][-trim:],
+                    "low": ohlcv["low"][-trim:],
+                    "close": ohlcv["close"][-trim:],
+                    "volume": ohlcv["volume"][-trim:],
+                },
+                "analysis_text": item["analysis"],
+            })
+        
+        # Write to cloud_data/dashboard.json
+        filepath = os.path.join("cloud_data", "dashboard.json")
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(dashboard_data, f, ensure_ascii=False, indent=2)
+        
+        print(f"Dashboard data saved: {filepath} ({len(dashboard_data['symbols'])} symbols)")
+    except Exception as e:
+        print(f"Save dashboard data error: {e}")
+
+
 def run_analysis():
     """Run analysis on all symbols and send to bots."""
     print(f"[{datetime.now(timezone.utc).isoformat()}] Running analysis...")
@@ -397,6 +438,7 @@ def run_analysis():
         "",
     ]
 
+    all_analysis = []  # For dashboard
     sent_count = 0
     for name, coingecko_id, yahoo_sym, tv_sym in CONFIG["symbols"]:
         data = None
@@ -415,6 +457,13 @@ def run_analysis():
                 lines.append(analysis)
                 sent_count += 1
                 print(f"  OK: {name}")
+                # Store for dashboard
+                all_analysis.append({
+                    "symbol": tv_sym,
+                    "name": name,
+                    "ohlcv": data,
+                    "analysis": analysis,
+                })
             else:
                 print(f"  Analyze failed: {name}")
         else:
@@ -430,6 +479,9 @@ def run_analysis():
     text = "\n".join(lines)
     print(f"Message length: {len(text)} chars")
 
+    # Save data for dashboard
+    save_dashboard_data(all_analysis)
+
     # Send to BOT1
     if CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
         ok1 = send_telegram(CONFIG["bot1_token"], CONFIG["bot1_chat"], text)
@@ -439,6 +491,11 @@ def run_analysis():
     if CONFIG["bot2_token"] and CONFIG["bot2_chat"]:
         ok2 = send_telegram(CONFIG["bot2_token"], CONFIG["bot2_chat"], text)
         print(f"BOT2: {'OK' if ok2 else 'FAIL'}")
+
+    # Send to BOT3
+    if CONFIG["bot3_token"] and CONFIG["bot3_chat"]:
+        ok3 = send_telegram(CONFIG["bot3_token"], CONFIG["bot3_chat"], text)
+        print(f"BOT3: {'OK' if ok3 else 'FAIL'}")
 
     state["last_analysis"] = time.time()
 
@@ -485,8 +542,12 @@ def run_news():
 
     text = "\n".join(lines)
 
-    # Send to BOT3 (news) - or BOT1 if you prefer
-    if CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
+    # Send to BOT3 (news)
+    if CONFIG["bot3_token"] and CONFIG["bot3_chat"]:
+        ok = send_telegram(CONFIG["bot3_token"], CONFIG["bot3_chat"], text)
+        print(f"News -> BOT3: {'OK' if ok else 'FAIL'}")
+    # Fallback to BOT1 if BOT3 not configured
+    elif CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
         ok = send_telegram(CONFIG["bot1_token"], CONFIG["bot1_chat"], text)
         print(f"News -> BOT1: {'OK' if ok else 'FAIL'}")
 

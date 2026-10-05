@@ -35,6 +35,9 @@ data/cache/
 *.db
 *.sqlite
 
+# Cloud data (dashboard - commit this)
+!cloud_data/
+
 # Charts (generated)
 charts/
 *.png
@@ -47,6 +50,7 @@ node_modules/
 *secret*
 *token*
 *key*
+!cloud_data/dashboard.json
 
 # PID files
 *.pid
