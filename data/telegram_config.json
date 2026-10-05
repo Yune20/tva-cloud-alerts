@@ -1,0 +1,60 @@
+{
+  "signal_bot": {
+    "enabled": true,
+    "bot_token": "8756578403:AAELaPnA-YmC3ZuNXBd9vGpL1AkpQMjhiGg",
+    "chat_id": "5575146754",
+    "min_strength": 0.7,
+    "send_interval": 600,
+    "plan_enabled": true,
+    "plan_interval": 1800,
+    "chart_enabled": true,
+    "chart_interval": 600,
+    "chart_symbols": [
+      "OANDA:XAUUSD",
+      "BINANCE:ETHUSDT",
+      "BINANCE:BTCUSDT"
+    ]
+  },
+  "price_feed_bot": {
+    "enabled": true,
+    "bot_token": "8943977178:AAHr2YvNjBKcTNGaB1jwpxdR0SRBiZ-7dGo",
+    "chat_id": "5575146754",
+    "symbols": [
+      "OANDA:XAUUSD",
+      "BINANCE:BTCUSDT",
+      "FX:GBPUSD",
+      "NYMEX:CL1!"
+    ],
+    "timeframes": [
+      "5m",
+      "15m",
+      "30m",
+      "1H",
+      "4H"
+    ],
+    "interval": 300
+  },
+  "market_news_bot": {
+    "enabled": true,
+    "bot_token": "8202821682:AAGdYN9Y0vGPTpVMDxaJVIa0FT8QMD_IaLE",
+    "chat_id": "5575146754",
+    "keywords": [
+      "XAUUSD",
+      "GOLD",
+      "DXY",
+      "USD",
+      "WTI",
+      "OIL",
+      "USOIL",
+      "FED",
+      "FOMC",
+      "CPI",
+      "NFP",
+      "POWELL",
+      "INFLATION",
+      "INTEREST RATE"
+    ],
+    "interval": 600,
+    "max_news": 5
+  }
+}

@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  cloud-alerts:
+    build: .
+    container_name: tva-cloud-alerts
+    restart: unless-stopped
+    environment:
+      # BOT1 - Signal Bot
+      - BOT1_TOKEN=${BOT1_TOKEN}
+      - BOT1_CHAT=${BOT1_CHAT}
+      # BOT2 - Price Feed Bot
+      - BOT2_TOKEN=${BOT2_TOKEN}
+      - BOT2_CHAT=${BOT2_CHAT}
+      # Intervals (seconds)
+      - ANALYSIS_INTERVAL=${ANALYSIS_INTERVAL:-900}
+      - NEWS_INTERVAL=${NEWS_INTERVAL:-900}
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

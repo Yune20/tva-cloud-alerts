@@ -1,0 +1,31 @@
+name: TVA Cloud Alerts
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  alerts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run analysis & send to Telegram
+      env:
+        BOT1_TOKEN: ${{ secrets.BOT1_TOKEN }}
+        BOT1_CHAT: ${{ secrets.BOT1_CHAT }}
+        BOT2_TOKEN: ${{ secrets.BOT2_TOKEN }}
+        BOT2_CHAT: ${{ secrets.BOT2_CHAT }}
+      run: python cloud_alerts.py --once

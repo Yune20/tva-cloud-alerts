@@ -1,0 +1,61 @@
+[project]
+name = "tradingview-analyzer"
+version = "0.1.0"
+description = "Realtime price board + MTF analysis engine (FastAPI + Streamlit)"
+requires-python = ">=3.11"
+
+# NOTE: this file exists for tooling config only (ruff / pytest / pyright).
+# The app is NOT installed as a package - nothing here changes runtime behaviour.
+
+[tool.pytest.ini_options]
+# CRITICAL: the repo has ~20 legacy `test_*.py` files at the root and in scripts/
+# that are NOT pytest tests (no test_* functions, no asserts, mostly print()).
+# Without this line pytest would try to collect them and execute module-level
+# network calls. Real tests live in tests/ only.
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-ra --strict-markers"
+norecursedirs = [".venv", "data", "web", "node_modules", "__pycache__", ".serena"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+exclude = [".venv", "data", "web", "node_modules", "__pycache__"]
+
+[tool.ruff.lint]
+# Deliberately conservative: this is a legacy codebase. Start with errors that
+# catch real mistakes, not style churn.
+select = ["E4", "E7", "E9", "F", "B", "W6"]
+ignore = [
+    "E501",   # line length handled by formatter
+    "B008",   # FastAPI Depends() in defaults is idiomatic
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Legacy manual scripts: leave them alone, we are not making them tests.
+"scripts/*" = ["F401", "F841", "E722"]
+"test_apptest.py" = ["F401", "F841"]
+"test_bt.py" = ["F401", "F841"]
+"test_run.py" = ["F401", "F841"]
+"test_symbols*.py" = ["F401", "F841"]
+
+[tool.pyright]
+include = ["core", "server.py", "realtime.py", "app.py"]
+exclude = ["**/.venv/**", "**/__pycache__/**", "**/node_modules/**"]
+pythonVersion = "3.11"
+# Start lenient: turning strict on a codebase with no annotations produces noise
+# that gets ignored, which is worse than no type checking at all.
+typeCheckingMode = "basic"
+reportMissingImports = true
+
+[tool.coverage.run]
+source = ["core"]
+omit = [
+    "core/telegram_bot.py",   # 1995 lines of Telegram plumbing, needs network
+    "core/tv_fetcher.py",
+    "core/tv_ws.py",
+    "core/free_apis.py",
+    "core/ai_advisor.py",
+    "core/database.py",
+    "core/ohlcv_cache.py",
+]

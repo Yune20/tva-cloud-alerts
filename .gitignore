@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data/cache
+data/cache/
+*.db
+*.sqlite
+
+# Charts (generated)
+charts/
+*.png
+*.jpg
+
+# Node (if any)
+node_modules/
+
+# Secrets
+*secret*
+*token*
+*key*
+
+# PID files
+*.pid
+
+# Test outputs
+test_*.py
+pytest_cache/
