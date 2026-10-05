@@ -58,3 +58,5 @@ node_modules/
 # Test outputs
 test_*.py
 pytest_cache/
+server_out.txt
+server_err.txt
