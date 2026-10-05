@@ -26,19 +26,19 @@ CONFIG = {
     "analysis_interval": int(os.getenv("ANALYSIS_INTERVAL", "900")),  # 15 min
     "news_interval": int(os.getenv("NEWS_INTERVAL", "900")),  # 15 min
 
-    # Priority symbols: (display_name, binance_symbol, yahoo_symbol, tv_symbol)
+    # Priority symbols: (display_name, coingecko_id, yahoo_symbol, tv_symbol)
     "symbols": [
-        ("Gold",      "PAXGUSDT",  "GC=F",        "OANDA:XAUUSD"),
-        ("USOIL",     None,        "CL=F",        "NYMEX:CL1!"),
-        ("Bitcoin",   "BTCUSDT",   "BTC-USD",     "BINANCE:BTCUSDT"),
-        ("Ethereum",  "ETHUSDT",   "ETH-USD",     "BINANCE:ETHUSDT"),
-        ("US30",      None,        "^DJI",        "TVC:DJI"),
-        ("GBP/USD",   None,        "GBPUSD=X",    "FX:GBPUSD"),
-        ("EUR/USD",   None,        "EURUSD=X",    "FX:EURUSD"),
-        ("USD/JPY",   None,        "USDJPY=X",    "FX:USDJPY"),
-        ("DXY",       None,        "DX-Y.NYB",    "TVC:DXY"),
-        ("JPY Index", None,        "JPY=X",       "TVC:JPY"),
-        ("US 10Y",    None,        "^TNX",        "TVC:US10Y"),
+        ("Gold",      "pax-gold",   "GC=F",        "OANDA:XAUUSD"),
+        ("USOIL",     None,         "CL=F",        "NYMEX:CL1!"),
+        ("Bitcoin",   "bitcoin",    "BTC-USD",     "BINANCE:BTCUSDT"),
+        ("Ethereum",  "ethereum",   "ETH-USD",     "BINANCE:ETHUSDT"),
+        ("US30",      None,         "^DJI",        "TVC:DJI"),
+        ("GBP/USD",   None,         "GBPUSD=X",    "FX:GBPUSD"),
+        ("EUR/USD",   None,         "EURUSD=X",    "FX:EURUSD"),
+        ("USD/JPY",   None,         "USDJPY=X",    "FX:USDJPY"),
+        ("DXY",       None,         "DX-Y.NYB",    "TVC:DXY"),
+        ("JPY Index", None,         "JPY=X",       "TVC:JPY"),
+        ("US 10Y",    None,         "^TNX",        "TVC:US10Y"),
     ],
 
     # News keywords
@@ -61,24 +61,27 @@ state = {
 
 # ─── DATA FETCHERS ────────────────────────────────────────────────────────────
 
-def fetch_binance_klines(symbol: str, interval: str = "1h", limit: int = 100):
-    """Fetch OHLCV from Binance REST API."""
+def fetch_coingecko_ohlc(coin_id: str, vs_currency: str = "usd", days: int = 5):
+    """Fetch OHLC from CoinGecko (free, no API key, works from US IPs)."""
     try:
-        url = "https://api.binance.com/api/v3/klines"
-        params = {"symbol": symbol, "interval": interval, "limit": limit}
-        resp = requests.get(url, params=params, timeout=10)
+        url = f"https://api.coingecko.com/api/v3/coins/{coin_id}/ohlc"
+        params = {"vs_currency": vs_currency, "days": days}
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+        resp = requests.get(url, params=params, headers=headers, timeout=15)
         resp.raise_for_status()
         data = resp.json()
-        # Convert to OHLCV arrays
+        # CoinGecko returns [[timestamp, open, high, low, close], ...]
+        if not data or len(data) < 30:
+            return None
         return {
-            "open": [float(k[1]) for k in data],
-            "high": [float(k[2]) for k in data],
-            "low": [float(k[3]) for k in data],
-            "close": [float(k[4]) for k in data],
-            "volume": [float(k[5]) for k in data],
+            "open": [float(c[1]) for c in data],
+            "high": [float(c[2]) for c in data],
+            "low": [float(c[3]) for c in data],
+            "close": [float(c[4]) for c in data],
+            "volume": [0] * len(data),  # CoinGecko OHLC doesn't include volume
         }
     except Exception as e:
-        print(f"Binance fetch error {symbol}: {e}")
+        print(f"CoinGecko fetch error {coin_id}: {e}")
         return None
 
 
@@ -87,12 +90,20 @@ def fetch_yahoo_chart(symbol: str, interval: str = "1h", range_: str = "5d"):
     try:
         url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}"
         params = {"interval": interval, "range": range_}
-        headers = {"User-Agent": "Mozilla/5.0"}
-        resp = requests.get(url, params=params, headers=headers, timeout=10)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "application/json",
+        }
+        resp = requests.get(url, params=params, headers=headers, timeout=15)
         resp.raise_for_status()
         data = resp.json()
 
-        result = data.get("chart", {}).get("result", [{}])[0]
+        chart = data.get("chart", {})
+        if chart.get("error"):
+            print(f"Yahoo error for {symbol}: {chart['error']}")
+            return None
+
+        result = chart.get("result", [{}])[0]
         indicators = result.get("indicators", {}).get("quote", [{}])[0]
 
         opens = indicators.get("open", [])
@@ -106,6 +117,7 @@ def fetch_yahoo_chart(symbol: str, interval: str = "1h", range_: str = "5d"):
                  if o is not None and h is not None and l is not None and c is not None]
 
         if not valid:
+            print(f"Yahoo no valid data for {symbol}")
             return None
 
         return {
@@ -372,12 +384,12 @@ def run_analysis():
     ]
 
     sent_count = 0
-    for name, binance_sym, yahoo_sym, tv_sym in CONFIG["symbols"]:
+    for name, coingecko_id, yahoo_sym, tv_sym in CONFIG["symbols"]:
         data = None
 
-        # Try Binance first for crypto
-        if binance_sym:
-            data = fetch_binance_klines(binance_sym, "1h", 100)
+        # Try CoinGecko for crypto/gold
+        if coingecko_id:
+            data = fetch_coingecko_ohlc(coingecko_id, "usd", 5)
 
         # Fallback to Yahoo
         if not data and yahoo_sym:
@@ -388,6 +400,11 @@ def run_analysis():
             if analysis:
                 lines.append(analysis)
                 sent_count += 1
+                print(f"  OK: {name}")
+            else:
+                print(f"  Analyze failed: {name}")
+        else:
+            print(f"  No data: {name}")
 
     if sent_count == 0:
         print("No data fetched, skipping...")
@@ -397,6 +414,7 @@ def run_analysis():
     lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M:%S %d/%m/%Y')} UTC | {sent_count} mã")
 
     text = "\n".join(lines)
+    print(f"Message length: {len(text)} chars")
 
     # Send to BOT1
     if CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
