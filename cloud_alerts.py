@@ -61,7 +61,7 @@ state = {
 
 # ─── DATA FETCHERS ────────────────────────────────────────────────────────────
 
-def fetch_coingecko_ohlc(coin_id: str, vs_currency: str = "usd", days: int = 5):
+def fetch_coingecko_ohlc(coin_id: str, vs_currency: str = "usd", days: int = 7):
     """Fetch OHLC from CoinGecko (free, no API key, works from US IPs)."""
     try:
         url = f"https://api.coingecko.com/api/v3/coins/{coin_id}/ohlc"
@@ -72,6 +72,7 @@ def fetch_coingecko_ohlc(coin_id: str, vs_currency: str = "usd", days: int = 5):
         data = resp.json()
         # CoinGecko returns [[timestamp, open, high, low, close], ...]
         if not data or len(data) < 30:
+            print(f"CoinGecko insufficient data for {coin_id}: {len(data) if data else 0} points")
             return None
         return {
             "open": [float(c[1]) for c in data],
@@ -313,6 +314,7 @@ def analyze_symbol(name: str, tv_symbol: str, data: dict):
 def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdown"):
     """Send message via Telegram Bot API."""
     if not token or not chat_id:
+        print(f"  Telegram: missing token/chat_id (token={bool(token)}, chat={bool(chat_id)})")
         return False
     try:
         url = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -321,9 +323,21 @@ def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdo
             "text": text,
             "parse_mode": parse_mode,
         }
-        resp = requests.post(url, json=payload, timeout=10)
+        resp = requests.post(url, json=payload, timeout=15)
         data = resp.json()
-        return data.get("ok", False)
+        if not data.get("ok"):
+            print(f"  Telegram API error: {data.get('error_code')}: {data.get('description')}")
+            # Retry without parse_mode (Markdown can fail on special chars)
+            if parse_mode:
+                payload["parse_mode"] = None
+                resp2 = requests.post(url, json=payload, timeout=15)
+                data2 = resp2.json()
+                if data2.get("ok"):
+                    print(f"  Telegram retry (no parse_mode): OK")
+                    return True
+                print(f"  Telegram retry also failed: {data2.get('error_code')}: {data2.get('description')}")
+            return False
+        return True
     except Exception as e:
         print(f"Telegram send error: {e}")
         return False
@@ -389,7 +403,7 @@ def run_analysis():
 
         # Try CoinGecko for crypto/gold
         if coingecko_id:
-            data = fetch_coingecko_ohlc(coingecko_id, "usd", 5)
+            data = fetch_coingecko_ohlc(coingecko_id, "usd", 7)
 
         # Fallback to Yahoo
         if not data and yahoo_sym:
