@@ -68,6 +68,9 @@ async def lifespan(app: FastAPI):
     global engine
     engine = RealtimeEngine()
     engine.start()
+    # Start cloud data sync background task
+    cloud_task = asyncio.create_task(_sync_cloud_data())
+    print("[Cloud] Background sync started (fetches from GitHub every 5 min)")
     # Start Telegram bot polling (signal_bot + price_feed_bot + market_news_bot)
     try:
         from core.telegram_bot import start_polling, _state as tg_state
@@ -82,6 +85,7 @@ async def lifespan(app: FastAPI):
     except Exception as e:
         print(f"[TG] Bot polling start failed: {e}")
     yield
+    cloud_task.cancel()
     engine.stop()
 
 
@@ -126,6 +130,62 @@ def watchlist():
 @app.get("/api/quotes")
 def quotes():
     return {"quotes": engine.snapshot(), "time": time.time()}
+
+
+# ─── CLOUD DATA SYNC (GitHub Actions) ─────────────────────────────────────────
+
+_cloud_data = {"data": None, "last_fetch": 0, "source": "none"}
+CLOUD_DATA_URL = "https://raw.githubusercontent.com/Yune20/tva-cloud-alerts/master/cloud_data/dashboard.json"
+CLOUD_SYNC_INTERVAL = 300  # 5 minutes
+
+
+def _fetch_cloud_data_sync():
+    """Fetch cloud data from GitHub (blocking, run in executor)."""
+    import requests as req
+    try:
+        resp = req.get(CLOUD_DATA_URL, timeout=15)
+        if resp.status_code == 200:
+            data = resp.json()
+            _cloud_data["data"] = data
+            _cloud_data["last_fetch"] = time.time()
+            _cloud_data["source"] = "github_actions"
+            print(f"[Cloud] Synced: {len(data.get('symbols', []))} symbols from GitHub")
+        else:
+            print(f"[Cloud] GitHub returned {resp.status_code}")
+    except Exception as e:
+        print(f"[Cloud] Sync error: {e}")
+
+
+async def _sync_cloud_data():
+    """Background task: fetch cloud data from GitHub every 5 min."""
+    loop = asyncio.get_event_loop()
+    while True:
+        try:
+            await loop.run_in_executor(None, _fetch_cloud_data_sync)
+        except Exception as e:
+            print(f"[Cloud] Background task error: {e}")
+        await asyncio.sleep(CLOUD_SYNC_INTERVAL)
+
+
+@app.get("/api/cloud-data")
+def get_cloud_data():
+    """Get latest cloud analysis data from GitHub Actions."""
+    if not _cloud_data["data"]:
+        return JSONResponse({"error": "No cloud data yet", "last_fetch": _cloud_data["last_fetch"]}, status_code=404)
+    return {
+        "data": _cloud_data["data"],
+        "last_fetch": _cloud_data["last_fetch"],
+        "source": _cloud_data["source"],
+        "age_seconds": time.time() - _cloud_data["last_fetch"] if _cloud_data["last_fetch"] else None,
+    }
+
+
+@app.post("/api/cloud-data/refresh")
+def refresh_cloud_data():
+    """Manually trigger cloud data refresh."""
+    import threading
+    threading.Thread(target=_fetch_cloud_data_sync, daemon=True).start()
+    return {"ok": True, "message": "Refreshing cloud data..."}
 
 
 @app.websocket("/ws/quotes")

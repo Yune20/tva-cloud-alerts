@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import Board from './Board.jsx'
 import SymbolView from './SymbolView.jsx'
 import AlertPanel from './AlertPanel.jsx'
+import CloudPanel from './CloudPanel.jsx'
 
 export const fmt = (v, cat) => {
   if (v === null || v === undefined) return '—'
@@ -83,6 +84,17 @@ export default function App() {
       {groups && (
         <Board groups={groups} quotes={quotes} fmt={fmt} focus={focus} onSelect={setSel} />
       )}
+      <CloudPanel onSelectSymbol={(sym, name) => {
+        // Try to find and select the symbol in the board
+        if (groups) {
+          for (const g of groups) {
+            const item = g.items.find(i => i.sym === sym || i.sym.includes(sym.replace(':', '')))
+            if (item) { setSel(item); return }
+          }
+        }
+        // If not found, create a minimal selection
+        setSel({ sym, name })
+      }} />
       {sel && <SymbolView sym={sel.sym} name={sel.name} fmt={fmt} catOf={catOf} quote={quoteFor(sel.sym)} onClose={() => setSel(null)} />}
       <AlertPanel onSelectSymbol={(sym) => {
         if (groups) {
