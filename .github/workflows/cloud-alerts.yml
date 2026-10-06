@@ -2,8 +2,12 @@ name: TVA Cloud Alerts
 
 on:
   schedule:
-    # Run every 15 minutes
-    - cron: '*/15 * * * *'
+    # Two offset cron entries: GitHub drops queued schedule jobs during high
+    # load (start of every :00/:15/:30/:45) — offset minutes + redundancy.
+    # Script self-throttles via state.json (>=900s between sends), so extra
+    # fires are harmless.
+    - cron: '7,22,37,52 * * * *'
+    - cron: '13,43 * * * *'
   workflow_dispatch: # Manual trigger
 
 permissions:
@@ -35,10 +39,16 @@ jobs:
         BOT3_CHAT: ${{ secrets.BOT3_CHAT }}
       run: python cloud_alerts.py --once
 
-    - name: Commit dashboard data
+    - name: Commit dashboard data & state
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add cloud_data/
-        git diff --cached --quiet || git commit -m "Update cloud data [skip ci]"
-        git push
+        git add cloud_data 2>/dev/null || true
+        git add state.json 2>/dev/null || true
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update cloud data [skip ci]"
+          git pull --rebase origin master || true
+          git push || echo "Push failed (likely concurrent run) - will sync next run"
+        fi
