@@ -12,11 +12,12 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   alerts:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 25
 
     steps:
     - uses: actions/checkout@v4
@@ -37,7 +38,7 @@ jobs:
         BOT2_CHAT: ${{ secrets.BOT2_CHAT }}
         BOT3_TOKEN: ${{ secrets.BOT3_TOKEN }}
         BOT3_CHAT: ${{ secrets.BOT3_CHAT }}
-      run: python cloud_alerts.py --once
+      run: timeout 240 python cloud_alerts.py --once
 
     - name: Commit dashboard data & state
       run: |
@@ -52,3 +53,48 @@ jobs:
           git pull --rebase origin master || true
           git push || echo "Push failed (likely concurrent run) - will sync next run"
         fi
+
+    # Self-chaining: GitHub's platform-wide `schedule` outage (since 2026-08-26,
+    # community discussions #206134/#206019) means cron fires are dropped.
+    # Workaround: every run tries to claim a 900s lease on state.json
+    # (chain_lease_until) via git-push-as-CAS; the sole winner dispatches the
+    # next run with GITHUB_TOKEN (workflow_dispatch always creates runs even
+    # from GITHUB_TOKEN). Successor runs wait out the lease, so the chain
+    # self-sustains ~15-16 min cycles 24/7 — independent of GitHub cron and
+    # of the local PC. All entry points (local TVADispatch task, cron, manual)
+    # funnel into the same single chain; push race guarantees no forks.
+    - name: Chain next run (scheduler-outage workaround)
+      if: always()
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add state.json cloud_data 2>/dev/null || true
+        git commit -m "sync before lease [skip ci]" >/dev/null 2>&1 || true
+        git pull --rebase origin master >/dev/null 2>&1 || true
+        LEASE=900
+        for i in $(seq 1 18); do
+          NOW=$(date +%s)
+          UNTIL=$(python3 -c "import json;print(json.load(open('state.json')).get('chain_lease_until',0))" 2>/dev/null || echo 0)
+          if [ "$NOW" -ge "$UNTIL" ]; then
+            git pull --rebase origin master >/dev/null 2>&1 || true
+            UNTIL=$(python3 -c "import json;print(json.load(open('state.json')).get('chain_lease_until',0))" 2>/dev/null || echo 0)
+            NOW=$(date +%s)
+            if [ "$NOW" -ge "$UNTIL" ]; then
+              python3 -c "import json,time;p='state.json';d=json.load(open(p));d['chain_lease_until']=int(time.time())+$LEASE;json.dump(d,open(p,'w'),indent=2)"
+              git add state.json
+              if git commit -m "chain lease [skip ci]" >/dev/null 2>&1 && git push origin master; then
+                gh workflow run cloud-alerts.yml --repo "$GITHUB_REPOSITORY"
+                echo "Chain continued (lease ${LEASE}s)"
+                exit 0
+              else
+                echo "Lost lease race - the winner continues the chain"
+                exit 0
+              fi
+            fi
+          fi
+          sleep 60
+        done
+        echo "Lease not claimable within wait window - successor will claim"
+        exit 0
