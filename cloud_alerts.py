@@ -86,13 +86,24 @@ def load_state():
 
 
 def save_state():
-    """Save state to state.json (committed by GitHub Actions)."""
+    """Save state to state.json (committed by GitHub Actions).
+
+    Preserves extra keys such as chain_lease_until (workflow self-chain lease)
+    so periodic saves never break the chain.
+    """
     try:
         data = {
-            "last_analysis": state["last_analysis"],
-            "last_news": state["last_news"],
-            "seen_news": list(state["seen_news"])[-500:],
+            k: v
+            for k, v in state.items()
+            if k not in ("last_analysis", "last_news", "seen_news")
         }
+        data.update(
+            {
+                "last_analysis": state["last_analysis"],
+                "last_news": state["last_news"],
+                "seen_news": list(state["seen_news"])[-500:],
+            }
+        )
         with open(STATE_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)
     except Exception as e:
