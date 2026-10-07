@@ -76,7 +76,7 @@ CONFIG = {
 state = {
     "last_analysis": 0,
     "last_news": 0,
-    "seen_news": set(),
+    "seen_news": [],
 }
 
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
@@ -88,7 +88,7 @@ def load_state():
         if os.path.exists(STATE_FILE):
             with open(STATE_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            data["seen_news"] = set(data.get("seen_news", []))
+            data["seen_news"] = list(data.get("seen_news", []))
             state.update(data)
             print(f"Loaded state: {len(state['seen_news'])} seen news")
     except Exception as e:
@@ -728,9 +728,9 @@ def fetch_rss_news():
     return items
 
 
-def filter_news(items: list, keywords: list, max_items: int = 5):
-    """Tag news with matched keywords (feeds are finance-specific, so all new
-    items pass through; keywords are only used for display tags)."""
+def filter_news(items: list, keywords: list, max_items: int = None):
+    """Tag news with matched keywords (feeds are finance-specific, so all items
+    pass through; keywords are only used for display tags)."""
     filtered = []
     for item in items:
         title_upper = item["title"].upper()
@@ -738,7 +738,7 @@ def filter_news(items: list, keywords: list, max_items: int = 5):
         item["title_vi"] = translate_to_vietnamese(item["title"])
         item["matched"] = matched[:3] or ["Thị trường"]
         filtered.append(item)
-        if len(filtered) >= max_items:
+        if max_items and len(filtered) >= max_items:
             break
     return filtered
 
@@ -887,19 +887,24 @@ def run_news():
     print(f"[{datetime.now(timezone.utc).isoformat()}] Running news...")
 
     items = fetch_rss_news()
-    filtered = filter_news(items, CONFIG["news_keywords"], max_items=6)
+    tagged = filter_news(items, CONFIG["news_keywords"])
 
-    # Filter out seen news
+    # Dedup against seen_news FIRST, then cap — otherwise the cap would only
+    # consider the first N pool items and miss fresh news deeper in the pool.
+    # seen_news is an insertion-ordered list so trimming keeps the NEWEST keys.
     new_items = []
-    for item in filtered:
+    for item in tagged:
         key = item["title"][:80]
-        if key not in state["seen_news"]:
-            new_items.append(item)
-            state["seen_news"].add(key)
+        if key in state["seen_news"]:
+            continue
+        state["seen_news"].append(key)
+        new_items.append(item)
+        if len(new_items) >= 6:
+            break
 
-    # Keep only last 200 seen
-    if len(state["seen_news"]) > 200:
-        state["seen_news"] = set(list(state["seen_news"])[-200:])
+    # Keep only last 300 seen (newest last)
+    if len(state["seen_news"]) > 300:
+        state["seen_news"] = state["seen_news"][-300:]
 
     if not new_items:
         print("  No new news items")
