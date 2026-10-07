@@ -28,7 +28,7 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: pip install requests
+      run: pip install requests matplotlib
 
     - name: Run analysis & send to Telegram
       env:
@@ -38,6 +38,8 @@ jobs:
         BOT2_CHAT: ${{ secrets.BOT2_CHAT }}
         BOT3_TOKEN: ${{ secrets.BOT3_TOKEN }}
         BOT3_CHAT: ${{ secrets.BOT3_CHAT }}
+        BOT4_TOKEN: ${{ secrets.BOT4_TOKEN }}
+        BOT4_CHAT: ${{ secrets.BOT4_CHAT }}
       run: timeout 240 python cloud_alerts.py --once
 
     - name: Commit dashboard data & state

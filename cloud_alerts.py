@@ -23,10 +23,17 @@ CONFIG = {
     "bot2_chat": os.getenv("BOT2_CHAT", ""),
     "bot3_token": os.getenv("BOT3_TOKEN", ""),
     "bot3_chat": os.getenv("BOT3_CHAT", ""),
+    "bot4_token": os.getenv("BOT4_TOKEN", ""),
+    "bot4_chat": os.getenv("BOT4_CHAT", ""),
 
     # Intervals (seconds)
     "analysis_interval": int(os.getenv("ANALYSIS_INTERVAL", "300")),  # 5 min
     "news_interval": int(os.getenv("NEWS_INTERVAL", "300")),  # 5 min
+    "bot4_interval": int(os.getenv("BOT4_INTERVAL", "600")),  # chart+plan cadence
+    # Per-run menu long-poll budget (seconds from process start). GitHub's
+    # step runs `timeout 240 python cloud_alerts.py --once`, so keep this
+    # below 225 to leave the kill window unused.
+    "menu_poll_sec": int(os.getenv("MENU_POLL_SEC", "215")),
 
     # Priority symbols: (display_name, coingecko_id, yahoo_symbol, tv_symbol)
     "symbols": [
@@ -42,6 +49,22 @@ CONFIG = {
         ("JPY Index", None,         "JPY=X",       "TVC:JPY"),
         ("US 10Y",    None,         "^TNX",        "TVC:US10Y"),
     ],
+
+    # Extra symbols offered in the Telegram menu (display, yahoo, tv).
+    # On-demand chart/plan only — not part of the periodic BOT1/BOT2 sweep.
+    "menu_extra": [
+        ("Silver",     "SI=F",    "TVC:SILVER"),
+        ("S&P 500",    "^GSPC",   "TVC:SPX"),
+        ("NASDAQ 100", "^NDX",    "TVC:NDX"),
+        ("VIX",        "^VIX",    "TVC:VIX"),
+        ("Brent",      "BZ=F",    "NYMEX:BRN1!"),
+        ("AAPL",       "AAPL",    "NASDAQ:AAPL"),
+        ("TSLA",       "TSLA",    "NASDAQ:TSLA"),
+        ("NVDA",       "NVDA",    "NASDAQ:NVDA"),
+    ],
+
+    # Symbols BOT4 tracks when the user has not customized the menu yet
+    "default_watch": ["Gold", "Bitcoin", "US30"],
 
     # News keywords (used for tagging; feeds are finance-specific so all new
     # items are sent even without a keyword match)
@@ -82,6 +105,12 @@ state = {
     "last_analysis": 0,
     "last_news": 0,
     "seen_news": [],
+    # Bot4 / menu state (persisted across GitHub Actions runs via state.json)
+    "last_bot4": 0,
+    "watch_symbols": [],          # user-selected symbols from the menu
+    "sym_report_ts": {},          # per-symbol last chart+plan send (unix ts)
+    "bot_chats": {},              # chat ids discovered via /start per bot key
+    "tg_offsets": {},             # getUpdates offsets per bot key
 }
 
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
@@ -291,8 +320,12 @@ def calc_adx_simple(highs, lows, closes, period=14):
 
 # ─── ANALYSIS ─────────────────────────────────────────────────────────────────
 
-def analyze_symbol(name: str, tv_symbol: str, data: dict):
-    """Analyze a symbol with detailed trading plan."""
+def compute_analysis(name: str, tv_symbol: str, data: dict):
+    """Compute all analysis values for a symbol. Returns a dict (or None).
+
+    Shared by format_analysis (BOT1 classic text), build_detailed_plan
+    (BOT4 detailed plan) and render_chart_png (BOT4 chart levels).
+    """
     if not data or len(data.get("close", [])) < 30:
         return None
 
@@ -423,6 +456,69 @@ def analyze_symbol(name: str, tv_symbol: str, data: dict):
     def fmt_p(p):
         return f"{p:,.4f}" if p < 100 else f"{p:,.2f}"
 
+    return {
+        "name": name,
+        "tv_symbol": tv_symbol,
+        "price": price,
+        "chg": chg,
+        "icon": icon,
+        "ema21": ema21,
+        "ema50": ema50,
+        "rsi": rsi,
+        "adx_val": adx_val,
+        "adx_sig": adx_sig,
+        "plus_di": plus_di,
+        "minus_di": minus_di,
+        "trend": trend,
+        "trend_dir": trend_dir,
+        "macd_sig": macd_sig,
+        "macd_hist": macd_hist,
+        "recent_high": recent_high,
+        "recent_low": recent_low,
+        "pivot": pivot,
+        "r1": r1,
+        "r2": r2,
+        "s1": s1,
+        "s2": s2,
+        "atr": atr,
+        "entry": entry,
+        "sl": sl,
+        "tp1": tp1,
+        "tp2": tp2,
+        "action": action,
+        "reason": reason,
+        "rr1": rr1,
+        "psyc": psyc,
+        "score": score,
+        "signal_strength": signal_strength,
+        "fmt_p": fmt_p,
+    }
+
+
+def format_analysis(d: dict) -> str:
+    """Format the analysis dict into the classic BOT1 Markdown text.
+
+    Output is byte-identical to the original analyze_symbol() text.
+    """
+    fmt_p = d["fmt_p"]
+    name = d["name"]
+    tv_symbol = d["tv_symbol"]
+    price = d["price"]
+    chg = d["chg"]
+    icon = d["icon"]
+    ema21 = d["ema21"]
+    ema50 = d["ema50"]
+    rsi = d["rsi"]
+    adx_val = d["adx_val"]
+    adx_sig = d["adx_sig"]
+    trend = d["trend"]
+    macd_sig = d["macd_sig"]
+    psyc = d["psyc"]
+    r1, r2, s1, s2, atr = d["r1"], d["r2"], d["s1"], d["s2"], d["atr"]
+    entry, sl, tp1, tp2 = d["entry"], d["sl"], d["tp1"], d["tp2"]
+    action, reason, rr1 = d["action"], d["reason"], d["rr1"]
+    score, signal_strength = d["score"], d["signal_strength"]
+
     lines = [
         f"*{name}* ({tv_symbol})",
         f"━━━━━━━━━━━━━━━━━━",
@@ -454,6 +550,100 @@ def analyze_symbol(name: str, tv_symbol: str, data: dict):
     # Remove empty lines
     lines = [l for l in lines if l != ""]
     return "\n".join(lines)
+
+
+def analyze_symbol(name: str, tv_symbol: str, data: dict):
+    """Analyze a symbol with detailed trading plan (classic BOT1 text)."""
+    d = compute_analysis(name, tv_symbol, data)
+    return format_analysis(d) if d else None
+
+
+def build_detailed_plan(name: str, tv_symbol: str, data: dict):
+    """BOT4: comprehensive trading plan (dict + formatted text).
+
+    Returns (details_dict, plan_text) or (None, None).
+    """
+    d = compute_analysis(name, tv_symbol, data)
+    if not d:
+        return None, None
+    fmt = d["fmt_p"]
+    bars = len(data["close"])
+
+    # RSI zone wording for the momentum block
+    rsi = d["rsi"]
+    if rsi is None:
+        rsi_zone = "N/A"
+    elif rsi < 30:
+        rsi_zone = "quá bán — vùng phản ứng tăng"
+    elif rsi < 45:
+        rsi_zone = "yếu, nghiêng bán"
+    elif rsi < 55:
+        rsi_zone = "trung tính — chưa cóedge"
+    elif rsi < 70:
+        rsi_zone = "mạnh, nghiêng mua"
+    else:
+        rsi_zone = "quá mua — cảnh báo điều chỉnh"
+
+    # Scenarios depend on the active trend
+    if d["trend_dir"] == "LONG":
+        scenario = (
+            f"• *Tiếp diễn:* giữ trên `{fmt(d['s1'])}` → hướng R1 `{fmt(d['r1'])}`, xa hơn R2 `{fmt(d['r2'])}`\n"
+            f"• *Phá kháng cự:* đóng nến 1H trên `{fmt(d['r1'])}` → momentum tăng, target R2\n"
+            f"• *Hủy setup:* mất `{fmt(d['s1'])}` (đặc biệt `{fmt(d['s2'])}`) → chuyển trung tính, đứng ngoài"
+        )
+    elif d["trend_dir"] == "SHORT":
+        scenario = (
+            f"• *Tiếp diễn:* giữ dưới `{fmt(d['r1'])}` → hướng S1 `{fmt(d['s1'])}`, xa hơn S2 `{fmt(d['s2'])}`\n"
+            f"• *Phá hỗ trợ:* đóng nến 1H dưới `{fmt(d['s1'])}` → momentum giảm, target S2\n"
+            f"• *Hủy setup:* vượt `{fmt(d['r1'])}` (đặc biệt `{fmt(d['r2'])}`) → chuyển trung tính, đứng ngoài"
+        )
+    else:
+        scenario = (
+            f"• *Biên:* dao động `{fmt(d['s1'])}` – `{fmt(d['r1'])}`, chưa có lệnh\n"
+            f"• *Mua.breakout:* đóng nến 1H trên `{fmt(d['r1'])}` → target `{fmt(d['r2'])}`\n"
+            f"• *Bán.breakdown:* đóng nến 1H dưới `{fmt(d['s1'])}` → target `{fmt(d['s2'])}`"
+        )
+
+    now = datetime.now(timezone.utc).strftime("%H:%M %d/%m/%Y")
+    lines = [
+        f"📋 *PLAN GIAO DỊCH CHI TIẾT*",
+        f"*{name}* ({d['tv_symbol']}) · Khung 1H · {bars} nến",
+        f"⏰ {now} UTC",
+        f"━━━━━━━━━━━━━━━━━━",
+        f"💰 Giá: `{fmt(d['price'])}` {d['icon']} {d['chg']:+.2f}%",
+        f"🧭 Xu hướng: {d['trend']} | Điểm tín hiệu: `{d['score']}/100` {d['signal_strength']}",
+        f"",
+        f"📊 *ĐỘNG LƯỢNG*",
+        f"  • RSI(14): `{rsi:.1f}` — {rsi_zone}" if rsi else "  • RSI(14): N/A",
+        f"  • MACD: {d['macd_sig']} (hist `{d['macd_hist']:+.4f}`)",
+        f"  • ADX: `{d['adx_val']:.0f}` ({d['adx_sig']}) | DI+: `{d['plus_di']:.0f}` | DI-: `{d['minus_di']:.0f}`",
+        f"  • Tâm lý: {d['psyc']}",
+        f"",
+        f"📐 *VÙNG GIÁ (pivot 20 nến)*",
+        f"  • R2 `{fmt(d['r2'])}` — R1 `{fmt(d['r1'])}` — pivot `{fmt(d['pivot'])}`",
+        f"  • S1 `{fmt(d['s1'])}` — S2 `{fmt(d['s2'])}` | ATR `{fmt(d['atr'])}`",
+        f"",
+        f"🎯 *KẾ HOẠCH VÀO LỆNH*",
+        f"  • Hướng: {d['action']}",
+        f"  • Entry: `{fmt(d['entry'])}` ({d['reason']})",
+        f"  • Stop Loss: `{fmt(d['sl'])}` (1.5×ATR)",
+        f"  • Take Profit 1: `{fmt(d['tp1'])}`",
+        f"  • Take Profit 2: `{fmt(d['tp2'])}`",
+        f"  • Risk/Reward: `1:{d['rr1']:.1f}`",
+        f"",
+        f"🧩 *KỊCH BẢN*",
+        scenario,
+        f"",
+        f"✅ *CHECKLIST*",
+        f"  1. Chờ giá chạm vùng entry, không FOMO đuổi giá",
+        f"  2. RSI chưa ở vùng cực trị ({rsi_zone})",
+        f"  3. Cắt lỗ đúng SL tại `{fmt(d['sl'])}`, không kéo SL",
+        f"  4. Rủi ro tối đa 1–2% vốn/lệnh",
+        f"  5. Hủy lệnh nếu kịch bản Hủy setup kích hoạt",
+        f"",
+        f"⚠️ Phân tích tự động 1H — không phải tư vấn đầu tư.",
+    ]
+    return d, "\n".join(lines)
 
 
 # ─── TELEGRAM ─────────────────────────────────────────────────────────────────
@@ -522,6 +712,429 @@ def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdo
     except Exception as e:
         print(f"Telegram send error: {e}")
         return False
+
+
+# ─── BOT4: CHARTS, DETAILED PLANS, MENU ──────────────────────────────────────
+
+MENU_TEXT = (
+    "📋 MENU TÍN HIỆU\n"
+    "━━━━━━━━━━━━━━━━━━\n"
+    "Chạm vào mã để CHỌN hoặc BỎ theo dõi:\n"
+    "▫️ chưa chọn   ✅ đang theo dõi\n\n"
+    "Mã đã ✅: BOT4 gửi BIỂU ĐỒ + PLAN phân tích chi tiết\n"
+    "cho mã đó định kỳ (~10 phút) và gửi ngay khi bạn chọn.\n"
+    "Chạm «📩 Gửi ngay» để nhận lại tất cả mã ✅.\n\n"
+    "💬 Gõ /menu để mở lại bảng này."
+)
+
+
+def menu_entries():
+    """(name, coingecko_id|None, yahoo, tv) for every symbol in the menu."""
+    entries = [(n, cg, y, tv) for (n, cg, y, tv) in CONFIG["symbols"]]
+    entries += [(n, None, y, tv) for (n, y, tv) in CONFIG["menu_extra"]]
+    return entries
+
+
+def find_menu_entry(name):
+    for e in menu_entries():
+        if e[0] == name:
+            return e
+    return None
+
+
+def menu_keyboard():
+    """Inline keyboard: each symbol button toggles its watch state."""
+    watch = set(state.get("watch_symbols") or [])
+    rows = []
+    row = []
+    for name, *_ in menu_entries():
+        mark = "✅ " if name in watch else "▫️ "
+        row.append({"text": mark + name, "callback_data": f"m:{name}"})
+        if len(row) == 2:
+            rows.append(row)
+            row = []
+    if row:
+        rows.append(row)
+    rows.append([{"text": "📩 Gửi ngay các mã ✅", "callback_data": "m:!now"}])
+    return {"inline_keyboard": rows}
+
+
+def render_chart_png(name: str, tv_symbol: str, data: dict, details: dict = None):
+    """Dark-theme candlestick chart (PNG bytes) for Telegram sendPhoto.
+
+    Returns bytes, or None when matplotlib is unavailable / render fails.
+    """
+    try:
+        import matplotlib
+        matplotlib.use("Agg")
+        import matplotlib.pyplot as plt
+        from matplotlib.patches import Rectangle
+        import io
+    except Exception as e:
+        print(f"  Chart skip (matplotlib unavailable): {e}")
+        return None
+
+    try:
+        n = min(80, len(data["close"]))
+        o = data["open"][-n:]
+        h = data["high"][-n:]
+        l = data["low"][-n:]
+        c = data["close"][-n:]
+        vol = data.get("volume") or []
+        v = vol[-n:] if len(vol) >= n else [0] * n
+        xs = list(range(n))
+
+        BG, GRID, UP, DOWN = "#0e1117", "#2a2e39", "#26a69a", "#ef5350"
+        EMA21C, EMA50C = "#f0b90b", "#e040fb"
+
+        fig, (ax, axv) = plt.subplots(
+            2, 1, figsize=(10, 6.2), sharex=True,
+            gridspec_kw={"height_ratios": [3, 1]},
+        )
+        fig.patch.set_facecolor(BG)
+        for a in (ax, axv):
+            a.set_facecolor(BG)
+            a.grid(True, color=GRID, linewidth=0.5, alpha=0.6)
+            for s in a.spines.values():
+                s.set_color(GRID)
+            a.tick_params(colors="#9aa0aa", labelsize=8)
+
+        for i in xs:
+            col = UP if c[i] >= o[i] else DOWN
+            ax.vlines(i, l[i], h[i], color=col, linewidth=0.9, zorder=2)
+            lo, hi = min(o[i], c[i]), max(o[i], c[i])
+            body = max(hi - lo, (h[i] - l[i]) * 0.003)  # keep dojis visible
+            ax.add_patch(Rectangle((i - 0.35, lo), 0.7, body,
+                                   facecolor=col, edgecolor=col, zorder=3))
+
+        ax.plot(xs, _ema_series(c, 21), color=EMA21C, linewidth=1.2, label="EMA21")
+        ax.plot(xs, _ema_series(c, 50), color=EMA50C, linewidth=1.2, label="EMA50")
+
+        if details:
+            w_lo, w_hi = min(l), max(h)
+            for lv, lab, col in ((details["r1"], "R1", DOWN),
+                                 (details["s1"], "S1", UP)):
+                if w_lo * 0.99 < lv < w_hi * 1.01:
+                    ax.axhline(lv, color=col, linestyle="--", linewidth=0.9, alpha=0.85)
+                    ax.text(0.5, lv, f" {lab} ", color=col, fontsize=8,
+                            va="center", ha="left",
+                            transform=ax.get_yaxis_transform())
+
+        price = c[-1]
+        chg = ((c[-1] - c[0]) / c[0] * 100) if c[0] else 0
+        ax.set_title(
+            f"{name} · 1H · {tv_symbol}    {price:,.2f} ({chg:+.2f}% · {n} bars)",
+            color="#e6e9ef", fontsize=11, loc="left",
+        )
+        ax.legend(loc="upper left", fontsize=8, facecolor=BG,
+                  edgecolor=GRID, labelcolor="#e6e9ef")
+        ax.set_xlim(-1, n)
+
+        vols = [UP if c[i] >= o[i] else DOWN for i in xs]
+        axv.bar(xs, v, color=vols, width=0.7, alpha=0.75)
+        axv.set_ylabel("Vol", color="#9aa0aa", fontsize=8)
+
+        fig.tight_layout()
+        buf = io.BytesIO()
+        fig.savefig(buf, format="png", dpi=110, facecolor=BG)
+        plt.close(fig)
+        buf.seek(0)
+        return buf.read()
+    except Exception as e:
+        print(f"  Chart render error: {e}")
+        try:
+            plt.close("all")
+        except Exception:
+            pass
+        return None
+
+
+def _ema_series(vals, period):
+    """EMA over a full series (chart overlay); None until warm-up completes."""
+    if len(vals) < period:
+        return [None] * len(vals)
+    k = 2 / (period + 1)
+    out = [None] * (period - 1)
+    e = sum(vals[:period]) / period
+    out.append(e)
+    for v in vals[period:]:
+        e = (v - e) * k + e
+        out.append(e)
+    return out
+
+
+def send_telegram_photo(token: str, chat_id: str, photo_bytes: bytes, caption: str = ""):
+    """Send a photo to Telegram (BOT4 charts)."""
+    if not token or not chat_id:
+        print(f"  Photo skip (token={bool(token)}, chat={bool(chat_id)})")
+        return False
+    try:
+        url = f"https://api.telegram.org/bot{token}/sendPhoto"
+        payload = {"chat_id": chat_id}
+        if caption:
+            payload["caption"] = caption[:1020]
+        resp = requests.post(
+            url, data=payload,
+            files={"photo": ("chart.png", photo_bytes, "image/png")},
+            timeout=30,
+        )
+        data = resp.json()
+        if not data.get("ok"):
+            print(f"  Photo API error: {data.get('error_code')}: {data.get('description')}")
+            return False
+        return True
+    except Exception as e:
+        print(f"  Photo send error: {e}")
+        return False
+
+
+def _tg_api(token: str, method: str, **params):
+    """POST a Telegram Bot API method; returns parsed JSON ({} on error)."""
+    try:
+        resp = requests.post(
+            f"https://api.telegram.org/bot{token}/{method}",
+            data=params, timeout=15,
+        )
+        return resp.json()
+    except Exception as e:
+        print(f"  TG {method} error: {e}")
+        return {}
+
+
+def send_symbol_report(token: str, chat, entry, force: bool = False) -> bool:
+    """BOT4 report for one symbol: chart photo + detailed plan text."""
+    name, cg, yahoo, tv = entry
+    now = time.time()
+    if not force:
+        last = float((state.get("sym_report_ts") or {}).get(name, 0) or 0)
+        if now - last < 900:
+            print(f"  Report skip {name}: sent {int(now - last)}s ago (< 900s)")
+            return False
+
+    data = None
+    if cg:
+        data = fetch_coingecko_ohlc(cg, "usd", 7)
+    if not data and yahoo:
+        data = fetch_yahoo_chart(yahoo, "1h", "5d")
+    if not data:
+        print(f"  Report: no data for {name}")
+        return False
+
+    d, plan = build_detailed_plan(name, tv, data)
+    if not plan or not d:
+        print(f"  Report: analysis failed for {name}")
+        return False
+
+    chart = render_chart_png(name, tv, data, d)
+    photo_ok = False
+    if chart:
+        caption = f"{name} · 1H · {d['price']:,.2f} {d['icon']} {d['chg']:+.2f}%"
+        photo_ok = send_telegram_photo(token, chat, chart, caption)
+    text_ok = send_telegram(token, chat, plan)
+    print(f"  Report {name}: chart={'OK' if photo_ok else 'no'} plan={'OK' if text_ok else 'FAIL'}")
+    if photo_ok or text_ok:
+        state.setdefault("sym_report_ts", {})[name] = time.time()
+        return True
+    return False
+
+
+def bot4_chats():
+    """Chat ids BOT4 can post to: BOT4_CHAT env + /start discovery."""
+    chats = []
+    if CONFIG["bot4_chat"]:
+        chats.append(str(CONFIG["bot4_chat"]))
+    chats += [str(c) for c in (state.get("bot_chats") or {}).get("bot4", [])]
+    out, seen = [], set()
+    for c in chats:
+        if c and c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
+
+
+def run_bot4():
+    """Periodic BOT4: chart + detailed plan for the watched symbols."""
+    print(f"[{datetime.now(timezone.utc).isoformat()}] Running bot4 chart/plan...")
+    if not CONFIG["bot4_token"]:
+        print("  BOT4_TOKEN not configured - skip")
+        return
+    chats = bot4_chats()
+    if not chats:
+        print("  Bot4: no chat yet - send /start to @Bantintaichinh25j_bot first")
+        state["last_bot4"] = time.time()
+        save_state()
+        return
+    watch = list(state.get("watch_symbols") or []) or list(CONFIG["default_watch"])
+    watch = [n for n in watch if find_menu_entry(n)]
+    if not watch:
+        print("  Bot4: empty watch list - skip")
+        state["last_bot4"] = time.time()
+        save_state()
+        return
+
+    # Rotate the start symbol each interval so >2 watched symbols all get
+    # covered within a few cycles (max 2 full reports per run).
+    offset = int(time.time() // max(CONFIG["bot4_interval"], 1)) % len(watch)
+    ordered = watch[offset:] + watch[:offset]
+    sent = 0
+    for name in ordered:
+        if sent >= 2:
+            break
+        if send_symbol_report(CONFIG["bot4_token"], chats[0], find_menu_entry(name)):
+            sent += 1
+    print(f"  Bot4: {sent} report(s) sent, watch={watch}")
+    state["last_bot4"] = time.time()
+    save_state()
+
+
+def _report_token(src_key: str, src_token: str, chat: str) -> str:
+    """Prefer BOT4 for chart/plan replies when bot4 knows this chat."""
+    if CONFIG["bot4_token"] and chat:
+        known = [str(c) for c in (state.get("bot_chats") or {}).get("bot4", [])]
+        if chat in known or chat == str(CONFIG["bot4_chat"]):
+            return CONFIG["bot4_token"]
+    return src_token
+
+
+def _edit_menu(token: str, cb: dict):
+    """Refresh the inline keyboard in place after a toggle."""
+    msg = cb.get("message") or {}
+    mid = msg.get("message_id")
+    chat = str((msg.get("chat") or {}).get("id") or "")
+    if not mid or not chat:
+        return
+    _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
+            text=MENU_TEXT, reply_markup=json.dumps(menu_keyboard()))
+
+
+def menu_update_handler(key: str, token: str, upd: dict):
+    """Handle /menu commands and menu callback queries for one bot."""
+    msg = upd.get("message") or {}
+    chat = str((msg.get("chat") or {}).get("id") or "")
+    text = (msg.get("text") or "").strip()
+
+    if text in ("/start", "/menu", "/help", "menu"):
+        if chat:
+            chats = state.setdefault("bot_chats", {}).setdefault(key, [])
+            if chat not in chats:
+                chats.append(chat)
+                save_state()
+            if key == "bot4":
+                print(f"  Bot4 chat discovered: {chat}")
+        _tg_api(token, "sendMessage", chat_id=chat, text=MENU_TEXT,
+                reply_markup=json.dumps(menu_keyboard()))
+        return
+
+    cb = upd.get("callback_query")
+    if not cb:
+        return
+    data = cb.get("data") or ""
+    cb_id = cb.get("id") or ""
+    cb_msg = cb.get("message") or {}
+    cb_chat = str((cb_msg.get("chat") or {}).get("id") or chat)
+    if not data.startswith("m:"):
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id)
+        return
+    pick = data[2:]
+    watch = list(state.get("watch_symbols") or [])
+
+    if pick == "!now":
+        if not watch:
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                        text="Bạn chưa chọn mã nào - chạm một mã để ✅", show_alert=True)
+            return
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                    text="Đang gửi biểu đồ + plan...")
+        rtoken = _report_token(key, token, cb_chat)
+        for name in watch[:4]:
+            e = find_menu_entry(name)
+            if e:
+                send_symbol_report(rtoken, cb_chat, e, force=True)
+        _edit_menu(token, cb)
+        return
+
+    if pick not in [e[0] for e in menu_entries()]:
+        return
+
+    if pick in watch:
+        watch.remove(pick)
+        note = f"Đã bỏ theo dõi {pick}"
+    else:
+        watch.append(pick)
+        note = f"Đang theo dõi {pick} - đang gửi báo cáo..."
+    state["watch_symbols"] = watch
+    save_state()
+    _edit_menu(token, cb)
+    if cb_id:
+        _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id, text=note)
+    if pick in watch:
+        e = find_menu_entry(pick)
+        if e:
+            rtoken = _report_token(key, token, cb_chat)
+            send_symbol_report(rtoken, cb_chat, e, force=True)
+
+
+def poll_menu(deadline: float):
+    """Long-poll getUpdates on every configured bot until `deadline` (unix ts).
+
+    Answers /menu commands and inline-keyboard taps. GitHub Actions runs this
+    every ~5 min so taps are typically answered within a minute. Concurrent
+    runs collide with HTTP 409 (Telegram allows one getUpdates consumer per
+    bot) - we back off briefly; no updates are lost because offsets advance
+    only for updates we actually received.
+    """
+    bots = [(k, t) for k, t in [
+        ("bot1", CONFIG["bot1_token"]),
+        ("bot2", CONFIG["bot2_token"]),
+        ("bot3", CONFIG["bot3_token"]),
+        ("bot4", CONFIG["bot4_token"]),
+    ] if t]
+    if not bots:
+        print("Menu poll: no bot tokens configured")
+        return
+    offsets = state.setdefault("tg_offsets", {})
+    print(f"Menu poll: {len(bots)} bot(s), budget {max(0, int(deadline - time.time()))}s")
+    while time.time() < deadline:
+        for key, token in bots:
+            if time.time() >= deadline:
+                break
+            off = int(offsets.get(key, 0) or 0)
+            try:
+                resp = requests.get(
+                    f"https://api.telegram.org/bot{token}/getUpdates",
+                    params={"timeout": 20, "offset": off},
+                    timeout=28,
+                )
+            except Exception as e:
+                print(f"  Poll {key} error: {e}")
+                time.sleep(3)
+                continue
+            if resp.status_code == 409:
+                print(f"  Poll {key}: 409 conflict (another poller active), pause 15s")
+                time.sleep(15)
+                continue
+            if not resp.ok:
+                print(f"  Poll {key}: HTTP {resp.status_code}")
+                time.sleep(5)
+                continue
+            try:
+                updates = resp.json().get("result", [])
+            except Exception:
+                updates = []
+            if not updates:
+                continue
+            print(f"  Poll {key}: {len(updates)} update(s)")
+            for upd in updates:
+                offsets[key] = int(upd.get("update_id", 0)) + 1
+                try:
+                    menu_update_handler(key, token, upd)
+                except Exception as e:
+                    print(f"  Menu handler {key} error: {e}")
+                save_state()
+    print("Menu poll: done")
 
 
 # ─── NEWS ─────────────────────────────────────────────────────────────────────
@@ -994,6 +1607,8 @@ def main():
     """Main loop. Supports --once flag for GitHub Actions."""
     load_state()
     once = "--once" in sys.argv
+    no_poll = "--no-poll" in sys.argv
+    start_ts = time.time()
 
     print("=" * 50)
     print("Cloud Alerts V2 - Starting...")
@@ -1023,6 +1638,26 @@ def main():
                 print(f"News error: {e}")
         else:
             print(f"Skip news: last run {int(age_news)}s ago (< {CONFIG['news_interval']}s)")
+
+        # BOT4: chart + detailed plan for watched symbols
+        age_bot4 = now - float(state.get("last_bot4", 0) or 0)
+        if age_bot4 >= CONFIG["bot4_interval"]:
+            try:
+                run_bot4()
+            except Exception as e:
+                print(f"Bot4 error: {e}")
+        else:
+            print(f"Skip bot4: last run {int(age_bot4)}s ago (< {CONFIG['bot4_interval']}s)")
+
+        # Menu poll: answer /menu + inline taps until close to the 240s
+        # workflow timeout (analysis+news+bot4 typically eat the first ~60-90s)
+        if not no_poll:
+            deadline = min(start_ts + CONFIG["menu_poll_sec"], start_ts + 225)
+            try:
+                poll_menu(deadline)
+            except Exception as e:
+                print(f"Menu poll error: {e}")
+
         print("Done!")
         return
 
@@ -1049,6 +1684,18 @@ def main():
                 run_news()
             except Exception as e:
                 print(f"News error: {e}")
+
+        if now - float(state.get("last_bot4", 0) or 0) >= CONFIG["bot4_interval"]:
+            try:
+                run_bot4()
+            except Exception as e:
+                print(f"Bot4 error: {e}")
+
+        # Serve menu taps briefly each loop iteration
+        try:
+            poll_menu(time.time() + 30)
+        except Exception as e:
+            print(f"Menu poll error: {e}")
 
         time.sleep(10)
 
