@@ -60,7 +60,7 @@ jobs:
     # (chain_lease_until) via git-push-as-CAS; the sole winner dispatches the
     # next run with GITHUB_TOKEN (workflow_dispatch always creates runs even
     # from GITHUB_TOKEN). Successor runs wait out the lease, so the chain
-    # self-sustains ~15-16 min cycles 24/7 — independent of GitHub cron and
+    # self-sustains ~5-min cycles 24/7 — independent of GitHub cron and
     # of the local PC. All entry points (local TVADispatch task, cron, manual)
     # funnel into the same single chain; push race guarantees no forks.
     - name: Chain next run (scheduler-outage workaround)
@@ -73,7 +73,7 @@ jobs:
         git add state.json cloud_data 2>/dev/null || true
         git commit -m "sync before lease [skip ci]" >/dev/null 2>&1 || true
         git pull --rebase origin master >/dev/null 2>&1 || true
-        LEASE=900
+        LEASE=300
         for i in $(seq 1 18); do
           NOW=$(date +%s)
           UNTIL=$(python3 -c "import json;print(json.load(open('state.json')).get('chain_lease_until',0))" 2>/dev/null || echo 0)

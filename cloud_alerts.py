@@ -25,8 +25,8 @@ CONFIG = {
     "bot3_chat": os.getenv("BOT3_CHAT", ""),
 
     # Intervals (seconds)
-    "analysis_interval": int(os.getenv("ANALYSIS_INTERVAL", "900")),  # 15 min
-    "news_interval": int(os.getenv("NEWS_INTERVAL", "900")),  # 15 min
+    "analysis_interval": int(os.getenv("ANALYSIS_INTERVAL", "300")),  # 5 min
+    "news_interval": int(os.getenv("NEWS_INTERVAL", "300")),  # 5 min
 
     # Priority symbols: (display_name, coingecko_id, yahoo_symbol, tv_symbol)
     "symbols": [
@@ -43,20 +43,30 @@ CONFIG = {
         ("US 10Y",    None,         "^TNX",        "TVC:US10Y"),
     ],
 
-    # News keywords
-    "news_keywords": ["XAUUSD", "GOLD", "DXY", "USD", "WTI", "OIL", "FED", "FOMC", "CPI", "NFP", "BTC", "ETH", "BTC-USD", "ETH-USD", "USOIL", "BRENT", "EURUSD", "GBPUSD", "USDJPY"],
+    # News keywords (used for tagging; feeds are finance-specific so all new
+    # items are sent even without a keyword match)
+    "news_keywords": [
+        "XAUUSD", "XAU", "GOLD", "DXY", "USD", "WTI", "OIL", "BRENT", "OPEC",
+        "FED", "FOMC", "ECB", "BOJ", "BOE", "POWELL", "CPI", "PPI", "NFP",
+        "JOBS", "UNEMPLOYMENT", "RATE", "RATES", "INFLATION", "GDP", "PCE",
+        "RECESSION", "TARIFF", "TRADE", "STOCK", "STOCKS", "NASDAQ", "S&P",
+        "DOW", "RALLY", "CRASH", "YIELD", "TREASURY", "BOND", "DOLLAR",
+        "EURO", "POUND", "YEN", "BTC", "BITCOIN", "ETH", "ETHEREUM", "CRYPTO",
+        "BANK", "BANKING", "EARNINGS", "MARKET", "ECONOMY", "ECONOMIC",
+        "GROWTH", "DEBT", "ENERGY", "GAS", "SILVER", "COMMODITY", "FOREX",
+        "CURRENCY", "STIMULUS", "SANCTIONS", "ETF", "FUTURES",
+    ],
     "news_feeds": [
         "https://feeds.marketwatch.com/marketwatch/topstories/",
+        "https://feeds.content.dowjones.io/public/rss/mw_topstories",
         "https://www.cnbc.com/id/100003114/device/rss/rss.html",
         "https://www.cnbc.com/id/10000664/device/rss/rss.html",
-        "https://www.cnbc.com/id/10000664/device/rss/rss.xml",
-        "https://finance.yahoo.com/news/rssindex",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
         "https://oilprice.com/rss/main",
         "https://www.investing.com/rss/news_1.rss",
         "https://www.investing.com/rss/news_25.rss",
         "https://www.investing.com/rss/news_14.rss",
         "https://www.fxstreet.com/rss/news",
-        "https://www.dailyfx.com/feeds/market-news",
         "https://www.forexlive.com/feed",
         "https://www.forexlive.com/feed/news",
     ],
@@ -471,17 +481,15 @@ def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdo
 
             all_ok = True
             for i, part in enumerate(parts, 1):
-                payload = {
-                    "chat_id": chat_id,
-                    "text": part,
-                    "parse_mode": parse_mode,
-                }
+                payload = {"chat_id": chat_id, "text": part}
+                if parse_mode:
+                    payload["parse_mode"] = parse_mode
                 resp = requests.post(url, json=payload, timeout=15)
                 data = resp.json()
                 if not data.get("ok"):
                     print(f"  Telegram part {i}/{len(parts)} error: {data.get('error_code')}: {data.get('description')}")
-                    # Retry without parse_mode
-                    payload["parse_mode"] = None
+                    # Retry as plain text (key must be omitted, not null)
+                    payload.pop("parse_mode", None)
                     resp2 = requests.post(url, json=payload, timeout=15)
                     data2 = resp2.json()
                     if not data2.get("ok"):
@@ -489,18 +497,16 @@ def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdo
                         print(f"  Telegram part {i}/{len(parts)} retry failed: {data2.get('error_code')}")
             return all_ok
 
-        payload = {
-            "chat_id": chat_id,
-            "text": text,
-            "parse_mode": parse_mode,
-        }
+        payload = {"chat_id": chat_id, "text": text}
+        if parse_mode:
+            payload["parse_mode"] = parse_mode
         resp = requests.post(url, json=payload, timeout=15)
         data = resp.json()
         if not data.get("ok"):
             print(f"  Telegram API error: {data.get('error_code')}: {data.get('description')}")
-            # Retry without parse_mode
+            # Retry as plain text (key must be omitted, not null)
             if parse_mode:
-                payload["parse_mode"] = None
+                payload.pop("parse_mode", None)
                 resp2 = requests.post(url, json=payload, timeout=15)
                 data2 = resp2.json()
                 if data2.get("ok"):
@@ -723,19 +729,17 @@ def fetch_rss_news():
 
 
 def filter_news(items: list, keywords: list, max_items: int = 5):
-    """Filter news by keywords and translate to Vietnamese."""
+    """Tag news with matched keywords (feeds are finance-specific, so all new
+    items pass through; keywords are only used for display tags)."""
     filtered = []
     for item in items:
         title_upper = item["title"].upper()
         matched = [kw for kw in keywords if kw.upper() in title_upper]
-        if matched:
-            # Translate title to Vietnamese
-            title_vi = translate_to_vietnamese(item["title"])
-            item["title_vi"] = title_vi
-            item["matched"] = matched[:3]
-            filtered.append(item)
-            if len(filtered) >= max_items:
-                break
+        item["title_vi"] = translate_to_vietnamese(item["title"])
+        item["matched"] = matched[:3] or ["Thị trường"]
+        filtered.append(item)
+        if len(filtered) >= max_items:
+            break
     return filtered
 
 
@@ -904,7 +908,7 @@ def run_news():
         return
 
     lines = [
-        "📰 *TIN TỨC THỊ TRƯỜNG*",
+        "📰 TIN TỨC THỊ TRƯỜNG",
         "━" * 28,
         "",
     ]
@@ -912,11 +916,13 @@ def run_news():
     for i, item in enumerate(new_items, 1):
         keywords_str = ", ".join(item["matched"][:3])
         # Use Vietnamese title if available, otherwise original
-        title = item.get("title_vi", item["title"])[:120]
-        lines.append(f"*{i}. {title}*")
+        title = item.get("title_vi", item["title"])[:150]
+        lines.append(f"{i}. {title}")
         lines.append(f"   🏷️ {keywords_str} | 📡 {item['source']}")
         if item.get("url"):
-            lines.append(f"   🔗 [Đọc thêm]({item['url']})")
+            # Bare URL: Telegram auto-linkifies plain text, so the link stays
+            # clickable even when parse_mode Markdown fails and is dropped.
+            lines.append(f"   🔗 {item['url']}")
         lines.append("")
 
     lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M:%S %d/%m/%Y')} UTC")
@@ -924,13 +930,13 @@ def run_news():
     text = "\n".join(lines)
     print(f"  News message: {len(text)} chars, {len(new_items)} items")
 
-    # Send to BOT3 (news)
+    # Send to BOT3 (news) as plain text so bare URLs remain clickable
     if CONFIG["bot3_token"] and CONFIG["bot3_chat"]:
-        ok = send_telegram(CONFIG["bot3_token"], CONFIG["bot3_chat"], text)
+        ok = send_telegram(CONFIG["bot3_token"], CONFIG["bot3_chat"], text, parse_mode=None)
         print(f"  News -> BOT3: {'OK' if ok else 'FAIL'}")
     # Fallback to BOT1 if BOT3 not configured
     elif CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
-        ok = send_telegram(CONFIG["bot1_token"], CONFIG["bot1_chat"], text)
+        ok = send_telegram(CONFIG["bot1_token"], CONFIG["bot1_chat"], text, parse_mode=None)
         print(f"  News -> BOT1: {'OK' if ok else 'FAIL'}")
 
     state["last_news"] = time.time()
