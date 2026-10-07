@@ -69,6 +69,11 @@ CONFIG = {
         "https://www.fxstreet.com/rss/news",
         "https://www.forexlive.com/feed",
         "https://www.forexlive.com/feed/news",
+        # Vietnamese sources + TradingView news (via Google News site queries —
+        # cafef has native RSS; vietstock/TV have no working public RSS)
+        "https://cafef.vn/home.rss",
+        "https://news.google.com/rss/search?q=site%3Afinance.vietstock.vn&hl=vi&gl=VN&ceid=VN%3Avi",
+        "https://news.google.com/rss/search?q=site%3Atradingview.com%2Fnews%20when%3A2d&hl=en&gl=US&ceid=US%3Aen",
     ],
 }
 
@@ -681,11 +686,31 @@ def fetch_rss_news():
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                 "Accept": "application/rss+xml, application/xml, text/xml, */*",
             }
-            resp = requests.get(feed_url, timeout=12, headers=headers)
-            resp.raise_for_status()
+            # Google News SSL/timeout is flaky — retry a few times
+            attempts = 3 if "google." in feed_url else 1
+            resp = None
+            last_err = None
+            for _ in range(attempts):
+                try:
+                    resp = requests.get(feed_url, timeout=12, headers=headers)
+                    resp.raise_for_status()
+                    break
+                except Exception as e:
+                    last_err = e
+                    resp = None
+            if resp is None:
+                raise last_err
 
             # Try to parse RSS/Atom
             root = ET.fromstring(resp.content)
+
+            # Human-readable source: for Google News site: queries show the
+            # target site instead of news.google.com
+            feed_source = urllib.parse.urlparse(feed_url).netloc
+            if "google." in feed_source:
+                q = urllib.parse.parse_qs(urllib.parse.urlparse(feed_url).query).get("q", [""])[0]
+                if q.startswith("site:"):
+                    feed_source = q[5:].split("/")[0].split(" ")[0]
 
             # RSS 2.0
             for item in root.iter("item"):
@@ -700,7 +725,7 @@ def fetch_rss_news():
                             "title": title,
                             "url": link_el.text.strip() if link_el is not None and link_el.text else "",
                             "desc": (desc_el.text[:200] if desc_el is not None and desc_el.text else ""),
-                            "source": urllib.parse.urlparse(feed_url).netloc,
+                            "source": feed_source,
                         })
 
             # Atom
@@ -718,7 +743,7 @@ def fetch_rss_news():
                             "title": title,
                             "url": url,
                             "desc": "",
-                            "source": urllib.parse.urlparse(feed_url).netloc,
+                            "source": feed_source,
                         })
 
             print(f"  RSS OK: {feed_url} -> {len(items)} items")
@@ -891,16 +916,33 @@ def run_news():
 
     # Dedup against seen_news FIRST, then cap — otherwise the cap would only
     # consider the first N pool items and miss fresh news deeper in the pool.
-    # seen_news is an insertion-ordered list so trimming keeps the NEWEST keys.
-    new_items = []
+    # Round-robin across sources so one feed can't hog all slots (important now
+    # that the pool spans EN + VN feeds). Only SELECTED items are marked seen.
+    groups = {}
     for item in tagged:
         key = item["title"][:80]
         if key in state["seen_news"]:
             continue
-        state["seen_news"].append(key)
-        new_items.append(item)
-        if len(new_items) >= 6:
-            break
+        groups.setdefault(item["source"], []).append(item)
+
+    # Rotate which source gets first pick each cycle so every feed (EN + VN)
+    # gets priority over time instead of the first 6 feeds always winning.
+    srcs = list(groups)
+    if srcs:
+        offset = int(time.time() // max(CONFIG["news_interval"], 1)) % len(srcs)
+        srcs = srcs[offset:] + srcs[:offset]
+
+    new_items = []
+    while len(new_items) < 6 and any(groups.values()):
+        for src in srcs:
+            g = groups[src]
+            if not g:
+                continue
+            it = g.pop(0)
+            state["seen_news"].append(it["title"][:80])
+            new_items.append(it)
+            if len(new_items) >= 6:
+                break
 
     # Keep only last 300 seen (newest last)
     if len(state["seen_news"]) > 300:
@@ -933,7 +975,7 @@ def run_news():
     lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M:%S %d/%m/%Y')} UTC")
 
     text = "\n".join(lines)
-    print(f"  News message: {len(text)} chars, {len(new_items)} items")
+    print(f"  News message: {len(text)} chars, {len(new_items)} items, sources: {[i['source'] for i in new_items]}")
 
     # Send to BOT3 (news) as plain text so bare URLs remain clickable
     if CONFIG["bot3_token"] and CONFIG["bot3_chat"]:
