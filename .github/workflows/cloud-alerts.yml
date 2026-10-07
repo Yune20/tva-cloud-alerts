@@ -52,7 +52,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update cloud data [skip ci]"
-          git pull --rebase origin master || true
+          git pull --rebase origin master || { git rebase --abort >/dev/null 2>&1 || true; }
           git push || echo "Push failed (likely concurrent run) - will sync next run"
         fi
 
@@ -72,15 +72,29 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        # Never fail this step (would kill the chain): log and exit 0 instead.
+        trap 'echo "Chain step error (non-fatal) - successor will claim"; exit 0' ERR
+        # Concurrent-run race: the commit step's `git pull --rebase` may have
+        # stopped mid-rebase leaving conflict markers in state.json. Clear it.
+        git rebase --abort >/dev/null 2>&1 || true
+        sanitize_state() {
+          python3 -c "import json; json.load(open('state.json'))" 2>/dev/null \
+            || git checkout HEAD -- state.json >/dev/null 2>&1 || true
+        }
+        sanitize_state
         git add state.json cloud_data 2>/dev/null || true
         git commit -m "sync before lease [skip ci]" >/dev/null 2>&1 || true
         git pull --rebase origin master >/dev/null 2>&1 || true
+        git rebase --abort >/dev/null 2>&1 || true
+        sanitize_state
         LEASE=300
         for i in $(seq 1 18); do
           NOW=$(date +%s)
           UNTIL=$(python3 -c "import json;print(json.load(open('state.json')).get('chain_lease_until',0))" 2>/dev/null || echo 0)
           if [ "$NOW" -ge "$UNTIL" ]; then
             git pull --rebase origin master >/dev/null 2>&1 || true
+            git rebase --abort >/dev/null 2>&1 || true
+            sanitize_state
             UNTIL=$(python3 -c "import json;print(json.load(open('state.json')).get('chain_lease_until',0))" 2>/dev/null || echo 0)
             NOW=$(date +%s)
             if [ "$NOW" -ge "$UNTIL" ]; then
