@@ -648,7 +648,8 @@ def build_detailed_plan(name: str, tv_symbol: str, data: dict):
 
 # ─── TELEGRAM ─────────────────────────────────────────────────────────────────
 
-def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdown"):
+def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdown",
+                  extra: dict = None):
     """Send message via Telegram Bot API. Handles long messages by splitting."""
     if not token or not chat_id:
         print(f"  Telegram: missing token/chat_id (token={bool(token)}, chat={bool(chat_id)})")
@@ -695,6 +696,8 @@ def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdo
         payload = {"chat_id": chat_id, "text": text}
         if parse_mode:
             payload["parse_mode"] = parse_mode
+        if extra:
+            payload.update(extra)
         resp = requests.post(url, json=payload, timeout=15)
         data = resp.json()
         if not data.get("ok"):
@@ -716,16 +719,79 @@ def send_telegram(token: str, chat_id: str, text: str, parse_mode: str = "Markdo
 
 # ─── BOT4: CHARTS, DETAILED PLANS, MENU ──────────────────────────────────────
 
-MENU_TEXT = (
-    "📋 MENU TÍN HIỆU\n"
-    "━━━━━━━━━━━━━━━━━━\n"
-    "Chạm vào mã để CHỌN hoặc BỎ theo dõi:\n"
-    "▫️ chưa chọn   ✅ đang theo dõi\n\n"
-    "Mã đã ✅: BOT4 gửi BIỂU ĐỒ + PLAN phân tích chi tiết\n"
-    "cho mã đó định kỳ (~10 phút) và gửi ngay khi bạn chọn.\n"
-    "Chạm «📩 Gửi ngay» để nhận lại tất cả mã ✅.\n\n"
-    "💬 Gõ /menu để mở lại bảng này."
-)
+def _menu_price_map(refresh: bool = False):
+    """name -> formatted price string, TTL-cached in state (300s).
+
+    Uses short-timeout concurrent Yahoo chart meta lookups; symbols that
+    fail show '—'. refresh=True forces a re-fetch (e.g. on /menu).
+    """
+    import concurrent.futures as cf
+
+    ttl = 300
+    cached = state.get("menu_prices") or {}
+    if (not refresh and time.time() - float(cached.get("ts", 0) or 0) < ttl
+            and cached.get("prices")):
+        return cached["prices"]
+
+    def get(e):
+        name, yahoo = e
+        if not yahoo:
+            return name, None
+        try:
+            r = requests.get(
+                f"https://query1.finance.yahoo.com/v8/finance/chart/"
+                f"{urllib.parse.quote(str(yahoo))}",
+                params={"range": "1d", "interval": "1h"},
+                headers={"User-Agent": "Mozilla/5.0"},
+                timeout=6,
+            )
+            meta = r.json()["chart"]["result"][0]["meta"]
+            return name, meta.get("regularMarketPrice")
+        except Exception:
+            return name, None
+
+    pairs = [(n, y) for (n, cg, y, tv) in menu_entries()]
+    prices = {}
+    try:
+        with cf.ThreadPoolExecutor(max_workers=10) as ex:
+            for name, p in ex.map(get, pairs):
+                prices[name] = p
+    except Exception as e:
+        print(f"  menu price fetch error: {e}")
+    out = {n: (f"{p:,.2f}" if isinstance(p, (int, float)) else "—")
+           for n, p in prices.items()}
+    state["menu_prices"] = {"ts": time.time(), "prices": out}
+    save_state()
+    return out
+
+
+def menu_text(refresh: bool = False):
+    """Menu body: instructions + every symbol's international code & price."""
+    try:
+        prices = _menu_price_map(refresh=refresh)
+    except Exception as e:
+        print(f"  menu price error: {e}")
+        prices = {}
+    lines = [
+        "📋 MENU TÍN HIỆU — CHỌN MÃ THEO DÕI",
+        "━" * 26,
+        "▫️ chưa chọn   ✅ đang theo dõi",
+        "",
+        "💰 GIÁ HIỆN TẠI (mã quốc tế · tên):",
+    ]
+    for name, cg, yahoo, tv in menu_entries():
+        code = str(tv).split(":")[-1]
+        lines.append(f"  {code} · {name}: {prices.get(name, '—')}")
+    lines += [
+        "",
+        "👉 Chạm mã ở bàn phím dưới tin này để CHỌN ✅ / BỎ ▫️.",
+        "Mã ✅: BOT4 gửi BIỂU ĐỒ + PLAN chi tiết ~10 phút/lần,",
+        "và gửi NGAY khi bạn chọn. «📩 Gửi ngay» = nhận lại tất cả mã ✅.",
+        "",
+        "📊 Biểu đồ & plan định kỳ: mở @Bantintaichinh25j_bot → /start (1 lần).",
+        "💬 Gõ /menu để mở bảng này lại.",
+    ]
+    return "\n".join(lines)
 
 
 def menu_entries():
@@ -996,15 +1062,24 @@ def _report_token(src_key: str, src_token: str, chat: str) -> str:
     return src_token
 
 
-def _edit_menu(token: str, cb: dict):
-    """Refresh the inline keyboard in place after a toggle."""
+def _edit_menu(token: str, cb: dict, refresh: bool = False):
+    """Refresh the menu in place after a toggle.
+
+    If the tapped message IS the menu, edit it; otherwise (e.g. the menu
+    button under BOT2's bảng giá) answer by sending a fresh menu message.
+    """
     msg = cb.get("message") or {}
     mid = msg.get("message_id")
     chat = str((msg.get("chat") or {}).get("id") or "")
     if not mid or not chat:
         return
-    _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
-            text=MENU_TEXT, reply_markup=json.dumps(menu_keyboard()))
+    text = menu_text(refresh=refresh)
+    if (msg.get("text") or "").startswith("📋 MENU"):
+        _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
+                text=text, reply_markup=json.dumps(menu_keyboard()))
+    else:
+        _tg_api(token, "sendMessage", chat_id=chat, text=text,
+                reply_markup=json.dumps(menu_keyboard()))
 
 
 def menu_update_handler(key: str, token: str, upd: dict):
@@ -1021,7 +1096,7 @@ def menu_update_handler(key: str, token: str, upd: dict):
                 save_state()
             if key == "bot4":
                 print(f"  Bot4 chat discovered: {chat}")
-        _tg_api(token, "sendMessage", chat_id=chat, text=MENU_TEXT,
+        _tg_api(token, "sendMessage", chat_id=chat, text=menu_text(refresh=True),
                 reply_markup=json.dumps(menu_keyboard()))
         return
 
@@ -1038,6 +1113,13 @@ def menu_update_handler(key: str, token: str, upd: dict):
         return
     pick = data[2:]
     watch = list(state.get("watch_symbols") or [])
+
+    if pick == "!menu":
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                    text="Đang tải menu...")
+        _edit_menu(token, cb, refresh=True)
+        return
 
     if pick == "!now":
         if not watch:
@@ -1067,9 +1149,9 @@ def menu_update_handler(key: str, token: str, upd: dict):
         note = f"Đang theo dõi {pick} - đang gửi báo cáo..."
     state["watch_symbols"] = watch
     save_state()
-    _edit_menu(token, cb)
     if cb_id:
         _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id, text=note)
+    _edit_menu(token, cb)
     if pick in watch:
         e = find_menu_entry(pick)
         if e:
@@ -1286,6 +1368,38 @@ def translate_to_vietnamese(text: str) -> str:
     return result
 
 
+# Real EN -> VI machine translation cache (key: source text prefix)
+_GT_CACHE = {}
+
+
+def gtranslate_vi(text: str):
+    """Machine-translate text to Vietnamese via the free Google translate
+    endpoint (client=gtx, no API key). Returns the Vietnamese string, or
+    None on failure so callers can fall back to the term dictionary."""
+    if not text or len(text) > 500:
+        return None
+    key = text[:100]
+    if key in _GT_CACHE:
+        return _GT_CACHE[key]
+    try:
+        resp = requests.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={"client": "gtx", "sl": "auto", "tl": "vi", "dt": "t", "q": text},
+            timeout=8,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        translated = "".join(seg[0] for seg in (data[0] or []) if seg and seg[0])
+        if translated and translated.strip():
+            if len(_GT_CACHE) > 500:
+                _GT_CACHE.clear()
+            _GT_CACHE[key] = translated
+            return translated
+    except Exception as e:
+        print(f"  gtranslate error: {e}")
+    return None
+
+
 def fetch_rss_news():
     """Fetch news from RSS feeds with better error handling."""
     import xml.etree.ElementTree as ET
@@ -1373,7 +1487,6 @@ def filter_news(items: list, keywords: list, max_items: int = None):
     for item in items:
         title_upper = item["title"].upper()
         matched = [kw for kw in keywords if kw.upper() in title_upper]
-        item["title_vi"] = translate_to_vietnamese(item["title"])
         item["matched"] = matched[:3] or ["Thị trường"]
         filtered.append(item)
         if max_items and len(filtered) >= max_items:
@@ -1505,19 +1618,52 @@ def run_analysis():
     if CONFIG["bot2_token"] and CONFIG["bot2_chat"]:
         summary_lines = ["📊 *BẢNG GIÁ*", "━" * 24, ""]
         for item in all_analysis[:8]:  # Top 8 only
+            # Symbol header so each price row is identifiable
+            code = str(item.get("symbol", "")).split(":")[-1]
+            summary_lines.append(f"*{item['name']}* · `{code}`")
             # Extract price line
+            found = False
             for line in item["analysis"].split("\n"):
                 if "Giá:" in line:
                     summary_lines.append(line.replace("  ", " "))
+                    found = True
                     break
-        summary_lines.append("")
+            if not found:
+                summary_lines.append("  (giá tạm thời không có)")
+            summary_lines.append("")
         summary_lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M:%S')} UTC")
         summary_text = "\n".join(summary_lines)
-        ok2 = send_telegram(CONFIG["bot2_token"], CONFIG["bot2_chat"], summary_text)
+        # Menu button: tap to pick symbols to follow
+        menu_btn = json.dumps({"inline_keyboard": [[
+            {"text": "📋 Chọn mã theo dõi (menu)", "callback_data": "m:!menu"},
+        ]]})
+        ok2 = send_telegram(CONFIG["bot2_token"], CONFIG["bot2_chat"], summary_text,
+                            extra={"reply_markup": menu_btn})
         print(f"BOT2: {'OK' if ok2 else 'FAIL'}")
 
     state["last_analysis"] = time.time()
     save_state()
+
+
+def dashboard_price_strip() -> str:
+    """Compact 'code price' strip from the dashboard (fresh from run_analysis)."""
+    try:
+        path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            "cloud_data", "dashboard.json")
+        with open(path, encoding="utf-8") as f:
+            dd = json.load(f)
+        parts = []
+        for s in dd.get("symbols", []):
+            closes = (s.get("ohlcv") or {}).get("close") or []
+            if not closes:
+                continue
+            code = str(s.get("symbol", "")).split(":")[-1]
+            parts.append(f"{code} {closes[-1]:,.2f}")
+        if not parts:
+            return None
+        return "💰 GIÁ: " + " · ".join(parts)
+    except Exception:
+        return None
 
 
 def run_news():
@@ -1567,11 +1713,22 @@ def run_news():
         save_state()
         return
 
+    # Machine-translate only the selected titles (fast, cached); fall back to
+    # the financial term dictionary when the translator is unreachable.
+    for item in new_items:
+        vi = gtranslate_vi(item["title"])
+        item["title_vi"] = vi if vi else translate_to_vietnamese(item["title"])
+
     lines = [
         "📰 TIN TỨC THỊ TRƯỜNG",
         "━" * 28,
         "",
     ]
+
+    price_line = dashboard_price_strip()
+    if price_line:
+        lines.append(price_line)
+        lines.append("")
 
     for i, item in enumerate(new_items, 1):
         keywords_str = ", ".join(item["matched"][:3])
