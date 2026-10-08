@@ -778,7 +778,8 @@ BOT_ROLES = {
     "bot4": ("📈", "BIỂU ĐỒ + KẾ HOẠCH",
              "Chart nến + kế hoạch giao dịch chi tiết cho các mã ✅."),
 }
-ACTION_OWNERS = {"chart": "bot4", "analysis": "bot1", "bang": "bot2", "news": "bot3"}
+ACTION_OWNERS = {"chart": "bot4", "analysis": "bot1", "bang": "bot2",
+                 "news": "bot3", "bt": "bot1"}
 MENU_BTN = {"inline_keyboard": [[
     {"text": "📋 Menu tín hiệu", "callback_data": "m:!menu"},
 ]]}
@@ -799,7 +800,7 @@ def owner_token(action: str, fallback: str) -> str:
 
 
 def menu_text(key: str = "bot4", refresh: bool = False):
-    """Role-aware menu body: instructions + every symbol's code & price."""
+    """Role-aware, compact menu: status line + prices + service map."""
     icon, role, role_desc = BOT_ROLES.get(key, ("🤖", "TÍN HIỆU", ""))
     bot_no = key.replace("bot", "BOT")
     try:
@@ -808,29 +809,28 @@ def menu_text(key: str = "bot4", refresh: bool = False):
         print(f"  menu price error: {e}")
         prices = {}
     watch = state.get("watch_symbols") or []
+    a_min = max(1, int(CONFIG["analysis_interval"] // 60))
+    n_min = max(1, int(CONFIG["news_interval"] // 60))
+    c_min = max(1, int(CONFIG["bot4_interval"] // 60))
     lines = [
         f"📋 MENU — {icon} {role}",
         "━" * 26,
         f"{bot_no} · {role_desc}",
-        f"▫️ chưa chọn   ✅ đang theo dõi ({len(watch)} mã)",
+        f"⚙️ {len(watch)}/{len(menu_entries())} mã ✅ · "
+        f"bảng giá {a_min}' · tin {n_min}' · chart {c_min}'",
         "",
-        "💰 GIÁ HIỆN TẠI (mã quốc tế · tên):",
+        "💰 GIÁ (mã · tên) — chạm để ✅ / ▫️:",
     ]
     for name, cg, yahoo, tv in menu_entries():
         code = str(tv).split(":")[-1]
-        mark = "✅ " if name in watch else "   "
-        lines.append(f" {mark}{code} · {name}: {prices.get(name, '—')}")
-    mins = max(1, int(CONFIG.get("bot4_interval", 600) // 60))
+        mark = "✅" if name in watch else "▫️"
+        lines.append(f" {mark} {code} · {name}: {prices.get(name, '—')}")
     lines += [
         "",
-        "🎯 HÀNH ĐỘNG — bot chuyên trách trả lời:",
-        f"  📈 Chart+Plan · 📊 Phân tích · 💹 Bảng giá · 📰 Tin tức",
-        "",
-        "👉 Chạm mã ở bàn phím dưới tin này để CHỌN ✅ / BỎ ▫️.",
-        f"Mã ✅: {bot_no} (hoặc bot chuyên trách) gửi báo cáo cho bạn",
-        f"ngay khi chọn, và lặp lại ~{mins} phút/lần.",
-        "⚙️ Tùy biến: chọn/bỏ mã bất cứ lúc nào — cài đặt lưu chung.",
-        "💬 Gõ /menu để mở bảng này lại.",
+        "🎯 DỊCH VỤ (bot chuyên trách trả lời):",
+        "  📈 Chart+Plan · 📊 Phân tích · 💹 Bảng giá · 📰 Tin tức",
+        "🔎 Chi tiết mã: chart / phân tích / backtest riêng từng mã.",
+        "⚙️ Tùy biến lưu chung · 💬 /menu mở lại.",
     ]
     return "\n".join(lines)
 
@@ -850,12 +850,13 @@ def find_menu_entry(name):
 
 
 def menu_keyboard(key: str = "bot4"):
-    """Inline keyboard: symbol toggles + specialist action buttons."""
-    watch = set(state.get("watch_symbols") or [])
+    """Inline keyboard: toggles + per-symbol detail + services + management."""
+    watch = state.get("watch_symbols") or []
+    wset = set(watch)
     rows = []
     row = []
     for name, *_ in menu_entries():
-        mark = "✅ " if name in watch else "▫️ "
+        mark = "✅ " if name in wset else "▫️ "
         row.append({"text": mark + name, "callback_data": f"m:{name}"})
         if len(row) == 2:
             rows.append(row)
@@ -870,7 +871,20 @@ def menu_keyboard(key: str = "bot4"):
         {"text": "💹 Bảng giá", "callback_data": "a:bang"},
         {"text": "📰 Tin tức", "callback_data": "a:news"},
     ])
-    rows.append([{"text": "📩 Gửi ngay các mã ✅", "callback_data": "m:!now"}])
+    # Per-symbol detail screens for watched symbols (max 8).
+    drow = []
+    for name in watch[:8]:
+        drow.append({"text": f"🔎 {name}", "callback_data": f"d:{name}"})
+        if len(drow) == 2:
+            rows.append(drow)
+            drow = []
+    if drow:
+        rows.append(drow)
+    rows.append([
+        {"text": "📩 Gửi ngay ✅", "callback_data": "m:!now"},
+        {"text": "🔄 Tải lại giá", "callback_data": "m:!refresh"},
+    ])
+    rows.append([{"text": "🗑️ Xóa tất cả theo dõi", "callback_data": "m:!clear"}])
     return {"inline_keyboard": rows}
 
 
@@ -1116,11 +1130,12 @@ def _report_token(src_key: str, src_token: str, chat: str) -> str:
     return src_token
 
 
-def _edit_menu(token: str, cb: dict, refresh: bool = False, key: str = "bot4"):
+def _edit_menu(token: str, cb: dict, refresh: bool = False, key: str = "bot4",
+               force_edit: bool = False):
     """Refresh the menu in place after a toggle.
 
-    If the tapped message IS the menu, edit it; otherwise (e.g. the menu
-    button under BOT2's bảng giá) answer by sending a fresh menu message.
+    If the tapped message IS the menu (or force_edit), edit it; otherwise
+    (e.g. the menu button under BOT2's bảng giá) send a fresh menu message.
     """
     msg = cb.get("message") or {}
     mid = msg.get("message_id")
@@ -1128,12 +1143,129 @@ def _edit_menu(token: str, cb: dict, refresh: bool = False, key: str = "bot4"):
     if not mid or not chat:
         return
     text = menu_text(key, refresh=refresh)
-    if (msg.get("text") or "").startswith("📋 MENU"):
+    if force_edit or (msg.get("text") or "").startswith("📋 MENU"):
         _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
                 text=text, reply_markup=json.dumps(menu_keyboard(key), ensure_ascii=False))
     else:
         _tg_api(token, "sendMessage", chat_id=chat, text=text,
                 reply_markup=json.dumps(menu_keyboard(key), ensure_ascii=False))
+
+
+# ─── Per-symbol detail view (menu level 2) ───────────────────────────────────
+
+def _symbol_price(name: str, prices: dict = None) -> str:
+    if prices is None:
+        try:
+            prices = _menu_price_map()
+        except Exception:
+            prices = {}
+    return prices.get(name, "—")
+
+
+def detail_text(name: str) -> str:
+    """Detail screen for one symbol: price, status, service list."""
+    e = find_menu_entry(name)
+    if not e:
+        return f"🔎 {name}\n(Mã không còn trong menu)"
+    n_, cg, yahoo, tv = e
+    code = str(tv).split(":")[-1]
+    watch = state.get("watch_symbols") or []
+    mark = "✅ đang theo dõi" if name in watch else "▫️ chưa theo dõi"
+    return "\n".join([
+        f"🔎 {name.upper()} · {code}",
+        "━" * 22,
+        f"💰 Giá: {_symbol_price(name)}",
+        f"📌 Trạng thái: {mark}",
+        "",
+        "🎯 DỊCH VỤ CHO MÃ NÀY:",
+        "  📈 Chart+Plan — BOT4",
+        "  📊 Phân tích MTF — BOT1",
+        "  🧪 Backtest EMA21/50 — BOT1",
+        "",
+        "↩️ «Menu chính» để chọn mã khác.",
+    ])
+
+
+def detail_keyboard(name: str):
+    watch = state.get("watch_symbols") or []
+    tg_label = ("▫️ Bỏ theo dõi" if name in watch else "✅ Theo dõi")
+    return {"inline_keyboard": [
+        [{"text": "📈 Chart+Plan", "callback_data": f"sa:chart:{name}"},
+         {"text": "📊 Phân tích", "callback_data": f"sa:an:{name}"}],
+        [{"text": "🧪 Backtest", "callback_data": f"sa:bt:{name}"},
+         {"text": tg_label, "callback_data": f"sa:tg:{name}"}],
+        [{"text": "↩️ Menu chính", "callback_data": "sa:back:x"}],
+    ]}
+
+
+def _show_symbol_detail(token: str, cb: dict, name: str, key: str):
+    msg = cb.get("message") or {}
+    mid = msg.get("message_id")
+    chat = str((msg.get("chat") or {}).get("id") or "")
+    if not mid or not chat:
+        return
+    _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
+            text=detail_text(name),
+            reply_markup=json.dumps(detail_keyboard(name), ensure_ascii=False))
+
+
+def _ema_full(vals, period):
+    """EMA over the full series (no warm-up None) for backtests."""
+    k = 2.0 / (period + 1)
+    out = [vals[0]]
+    for v in vals[1:]:
+        out.append(v * k + out[-1] * (1 - k))
+    return out
+
+
+def backtest_ema_report(name: str, entry) -> str:
+    """EMA21/50 cross backtest on ~5d of 1H candles (pure cloud-safe)."""
+    n_, cg, yahoo, tv = entry
+    data = None
+    try:
+        if cg:
+            data = fetch_coingecko_ohlc(cg, "usd", 7)
+    except Exception:
+        data = None
+    if not data and yahoo:
+        try:
+            data = fetch_yahoo_chart(yahoo, "1h", "5d")
+        except Exception:
+            data = None
+    c = (data or {}).get("close") or []
+    if len(c) < 60:
+        return (f"🧪 BACKTEST EMA21/50 · {name}\n"
+                f"⏳ Dữ liệu chưa đủ (cần ≥60 nến 1H) — thử lại sau.")
+    e21, e50 = _ema_full(c, 21), _ema_full(c, 50)
+    trades, pos, entry_p = [], 0, 0.0
+    for i in range(1, len(c)):
+        up = e21[i - 1] <= e50[i - 1] and e21[i] > e50[i]
+        dn = e21[i - 1] >= e50[i - 1] and e21[i] < e50[i]
+        if pos == 0 and up:
+            pos, entry_p = 1, c[i]
+        elif pos == 1 and dn:
+            trades.append((c[i] / entry_p - 1.0) * 100)
+            pos = 0
+    if pos == 1:  # open trade, mark-to-market
+        trades.append((c[-1] / entry_p - 1.0) * 100)
+    if not trades:
+        return (f"🧪 BACKTEST EMA21/50 · {name}\n"
+                "5 ngày · 1H · không có lệnh đóng (sideways).")
+    wins = sum(1 for t in trades if t > 0)
+    net = 1.0
+    for t in trades:
+        net *= 1 + t / 100
+    return "\n".join([
+        f"🧪 BACKTEST EMA21/50 · {name}",
+        "━" * 22,
+        f"• Khung: 5 ngày · nến 1H · {len(c)} nến",
+        f"• Lệnh: {len(trades)} · Thắng: {wins}/{len(trades)} "
+        f"({100 * wins / len(trades):.0f}%)",
+        f"• Lợi nhuận gộp: {(net - 1) * 100:+.2f}% · "
+        f"TB/lệnh: {sum(trades) / len(trades):+.2f}%",
+        "",
+        "⚠️ Thử nghiệm quá khứ, KHÔNG phải lời khuyên đầu tư.",
+    ])
 
 
 def menu_update_handler(key: str, token: str, upd: dict):
@@ -1177,6 +1309,70 @@ def menu_update_handler(key: str, token: str, upd: dict):
                 send_telegram(token, cb_chat, f"⚠️ Lỗi {act}: {e}")
         return
 
+    # Level-2 detail screen for one symbol.
+    if data.startswith("d:"):
+        sym = data[2:]
+        if not find_menu_entry(sym):
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id)
+            return
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id, text=sym)
+        _show_symbol_detail(token, cb, sym, key)
+        return
+
+    # Per-symbol service actions from the detail screen.
+    if data.startswith("sa:"):
+        parts = data.split(":", 2)
+        if len(parts) != 3:
+            return
+        _, sact, sname = parts
+        if sact == "back":
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id)
+            _edit_menu(token, cb, key=key, force_edit=True)
+            return
+        e = find_menu_entry(sname)
+        if not e:
+            return
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                    text="Đang xử lý...")
+        if sact == "chart":
+            rtoken = owner_token("chart", _report_token(key, token, cb_chat))
+            send_symbol_report(rtoken, cb_chat, e, force=True)
+        elif sact == "an":
+            dash_names = {s.get("name") for s in load_dashboard_symbols()}
+            if sname in dash_names:
+                txt = build_analysis_snapshot([sname])
+            else:
+                txt = (f"⏳ Chưa có phân tích MTF cho {sname} — mã ngoài "
+                       f"11 cặp chính.\nDùng 📈 Chart+Plan hoặc 🧪 Backtest "
+                       f"thay thế.")
+            send_telegram(owner_token("analysis", _report_token(key, token, cb_chat)),
+                          cb_chat, txt,
+                          extra={"reply_markup": menu_btn_json()})
+        elif sact == "bt":
+            txt = backtest_ema_report(sname, e)
+            send_telegram(owner_token("bt", _report_token(key, token, cb_chat)),
+                          cb_chat, txt,
+                          extra={"reply_markup": menu_btn_json()})
+        elif sact == "tg":
+            watch2 = list(state.get("watch_symbols") or [])
+            if sname in watch2:
+                watch2.remove(sname)
+                note = f"Đã bỏ theo dõi {sname}"
+            else:
+                watch2.append(sname)
+                note = f"Đang theo dõi {sname}"
+            state["watch_symbols"] = watch2
+            save_state()
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                        text=note)
+        _show_symbol_detail(token, cb, sname, key)
+        return
+
     if not data.startswith("m:"):
         if cb_id:
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id)
@@ -1189,6 +1385,22 @@ def menu_update_handler(key: str, token: str, upd: dict):
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                     text="Đang tải menu...")
         _edit_menu(token, cb, refresh=True, key=key)
+        return
+
+    if pick == "!clear":
+        state["watch_symbols"] = []
+        save_state()
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                    text="Đã xóa toàn bộ theo dõi")
+        _edit_menu(token, cb, key=key, force_edit=True)
+        return
+
+    if pick == "!refresh":
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                    text="Đang tải lại giá...")
+        _edit_menu(token, cb, refresh=True, key=key, force_edit=True)
         return
 
     if pick == "!now":
