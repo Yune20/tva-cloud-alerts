@@ -1,15 +1,45 @@
 {
-  "last_bot4": 1791470228.0517185,
+  "last_bot4": 1791470851.9920046,
   "watch_symbols": [],
   "sym_report_ts": {
     "Bitcoin": 1791470225.4080007,
     "US30": 1791470228.0517023,
-    "Gold": 1791469618.014316
+    "Gold": 1791470851.9919832
   },
-  "bot_chats": {},
-  "tg_offsets": {},
+  "bot_chats": {
+    "bot4": [
+      "5575146754"
+    ]
+  },
+  "tg_offsets": {
+    "bot4": 984754908
+  },
   "chain_lease_until": 1791471125,
-  "last_analysis": 1791470533.5595198,
+  "menu_prices": {
+    "ts": 1791470914.460319,
+    "prices": {
+      "Gold": "4,157.00",
+      "USOIL": "92.19",
+      "Bitcoin": "82,606.68",
+      "Ethereum": "2,528.96",
+      "US30": "51,063.90",
+      "GBP/USD": "1.32",
+      "EUR/USD": "1.12",
+      "USD/JPY": "158.17",
+      "DXY": "102.07",
+      "JPY Index": "158.18",
+      "US 10Y": "5.28",
+      "Silver": "59.41",
+      "S&P 500": "7,785.61",
+      "NASDAQ 100": "31,044.59",
+      "VIX": "15.27",
+      "Brent": "104.94",
+      "AAPL": "337.86",
+      "TSLA": "372.93",
+      "NVDA": "236.78"
+    }
+  },
+  "last_analysis": 1791470848.0988574,
   "last_news": 1791470553.811925,
   "seen_news": [
     "Tin vui: H\u00e0 N\u1ed9i chu\u1ea9n b\u1ecb c\u00f3 th\u00eam 1 tr\u01b0\u1eddng THPT M\u1edaI, quy m\u00f4 41 l\u1edbp h\u1ecdc, d\u1ef1 ki\u1ebfn m",
