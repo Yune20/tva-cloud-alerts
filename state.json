@@ -1,53 +1,53 @@
 {
-  "last_bot4": 1791472345.1133757,
-  "watch_symbols": [],
+  "last_bot4": 1791473070.7003682,
+  "watch_symbols": [
+    "Gold"
+  ],
   "sym_report_ts": {
-    "Bitcoin": 1791471466.9080508,
-    "US30": 1791471465.4925463,
-    "Gold": 1791472345.1133308
+    "Bitcoin": 1791473070.700351,
+    "US30": 1791473069.0810935,
+    "Gold": 1791473217.6697807
   },
   "bot_chats": {
     "bot4": [
       "5575146754"
+    ],
+    "bot1": [
+      "5575146754"
     ]
   },
   "tg_offsets": {
-    "bot4": 984754908
+    "bot4": 984754908,
+    "bot1": 488112745
   },
   "chain_lease_until": 1791473336,
   "menu_prices": {
-    "ts": 1791470914.460319,
+    "ts": 1791473152.859511,
     "prices": {
-      "Gold": "4,157.00",
-      "USOIL": "92.19",
-      "Bitcoin": "82,606.68",
-      "Ethereum": "2,528.96",
-      "US30": "51,063.90",
+      "Gold": "4,139.80",
+      "USOIL": "93.07",
+      "Bitcoin": "81,459.83",
+      "Ethereum": "2,465.65",
+      "US30": "50,951.89",
       "GBP/USD": "1.32",
       "EUR/USD": "1.12",
-      "USD/JPY": "158.17",
-      "DXY": "102.07",
-      "JPY Index": "158.18",
-      "US 10Y": "5.28",
-      "Silver": "59.41",
-      "S&P 500": "7,785.61",
-      "NASDAQ 100": "31,044.59",
-      "VIX": "15.27",
-      "Brent": "104.94",
-      "AAPL": "337.86",
-      "TSLA": "372.93",
-      "NVDA": "236.78"
+      "USD/JPY": "158.28",
+      "DXY": "102.22",
+      "JPY Index": "158.28",
+      "US 10Y": "5.30",
+      "Silver": "59.13",
+      "S&P 500": "7,771.08",
+      "NASDAQ 100": "30,981.11",
+      "VIX": "15.47",
+      "Brent": "105.60",
+      "AAPL": "337.80",
+      "TSLA": "372.15",
+      "NVDA": "236.04"
     }
   },
-  "last_analysis": 1791472642.2922034,
-  "last_news": 1791472651.8540895,
+  "last_analysis": 1791473056.5456638,
+  "last_news": 1791473066.209292,
   "seen_news": [
-    "Fed officials see another hike coming, but no sign as to when, minutes show",
-    "Rainmakers: The drones used to seed clouds",
-    "Euro limps toward fifth weekly loss as dollar pauses near 18-month highs",
-    "Silver price today: Silver falls, according to FXStreet data",
-    "The big picture: The era of cheap money is over and investors must adapt",
-    "B\u1eaft \u0111\u01b0\u1ee3c 3 \"qu\u00e1i th\u00fa\" kh\u1ed5ng l\u1ed3 trong ba ng\u00e0y: Con l\u1edbn nh\u1ea5t n\u1eb7ng 500kg, c\u00f2n ph\u00e1t ",
     "After a yearslong slump, China's real estate market may be set for a turnaround",
     "Spain battles climate change on several fronts",
     "Oil Jumps 2% as Iran Steps Up Attacks on Hormuz Tankers",
@@ -341,6 +341,12 @@
     "N\u1eef di\u1ec5n vi\u00ean SN 1985 gi\u1ea3i ngh\u1ec7 \u1edf tu\u1ed5i 39: Gi\u1edd l\u00e0m m\u1eb9 \u0111\u01a1n th\u00e2n, s\u1ed1ng trong bi\u1ec7t t",
     "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
     "Skydance (PSKY) Adds Kreiz, Powell Jobs, Kotick to Board; Blair Advisor - Tradin",
-    "French bonds are suffering through their worst decade since 1803 \u2014 and investors"
+    "French bonds are suffering through their worst decade since 1803 \u2014 and investors",
+    "European Central Bank: Neutral communication with upside inflation risks \u2013 Norde",
+    "Atlanta Fed GDPNow Q3 tracker 3.6% vs 3.7% prior",
+    "B\u00e1n 5 c\u00e2y v\u00e0ng mua t\u1eeb 10 n\u0103m tr\u01b0\u1edbc, ng\u01b0\u1eddi ph\u1ee5 n\u1eef th\u1eeba nh\u1eadn l\u00e3i \u0111\u1eadm h\u01a1n n\u1eeda t\u1ef7 \u0111\u1ed3",
+    "AGRISECO MACRO VIEW - VietstockFinance",
+    "CrowdStrike Stocks Drop 3.4% as Nvidia Startup Pipeline Reaches Falcon - Trading",
+    "Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gul"
   ]
 }
