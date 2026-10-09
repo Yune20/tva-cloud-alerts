@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791566675.6022685,
+  "last_signals": 1791567168.9410875,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -29,19 +29,20 @@
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791565662.3908367,
     "USD/JPY:range_in": 1791566264.2141833,
-    "JPY Index:range_in": 1791566264.2141833
+    "JPY Index:range_in": 1791566264.2141833,
+    "Ethereum:range_in": 1791567168.9410875
   },
   "sig_range": {
     "Gold": false,
     "USOIL": true,
     "Bitcoin": true,
-    "Ethereum": false,
+    "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": false,
-    "USD/JPY": true,
+    "USD/JPY": false,
     "DXY": false,
-    "JPY Index": true,
+    "JPY Index": false,
     "US 10Y": true
   },
   "chain_lease_until": 1791567543,
@@ -69,15 +70,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791566666.3510666,
-  "last_news": 1791566675.6008954,
+  "last_analysis": 1791567158.4530811,
+  "last_news": 1791567168.9402544,
   "seen_news": [
-    "Hormuz Crisis Leaves EU Gas Storage Short Heading Into Winter",
-    "South African rand holds steady ahead of manufacturing data",
-    "Euro: China trade tensions and CNY strength pose downside risks - MUFG",
-    "Solana recovers some losses as geopolitical de-escalation improves risk sentimen",
-    "XSMN 9/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 9 th\u00e1ng 10",
-    "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC - VietstockFinance",
     "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
     "Up +15% premarket, this AI-picked health giant just scored a big Medicare upgrad",
     "Romanian Leu: Coalition hopes support RON assets \u2013 Societe Generale",
@@ -371,6 +366,12 @@
     "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. She wants me t",
     "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywoo",
     "We spent thousands on a Tui river cruise but ended up on coach trips",
-    "States Bet on Virtual Power Plants to Cut Grid Costs"
+    "States Bet on Virtual Power Plants to Cut Grid Costs",
+    "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected app",
+    "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still s",
+    "I've been with my boyfriend for two years and don't know his salary",
+    "U.S. Oil Drilling Continues to Inch Upward",
+    "Pepsi beats estimates ahead of Coca-Cola\u2019s October earnings report",
+    "Singapore: Policy slope tightening view \u2013 DBS"
   ]
 }
