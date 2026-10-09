@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791571006.0147445,
-  "last_bot4": 1791570440.374002,
+  "last_bot4": 1791571324.219406,
   "watch_symbols": [
     "Gold"
   ],
@@ -21,28 +21,28 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791570716.739292,
+  "last_signals": 1791571324.2201009,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
     "USOIL:range_in": 1791563549.9074335,
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791565662.3908367,
-    "USD/JPY:range_in": 1791569255.9211214,
-    "JPY Index:range_in": 1791568196.716979,
+    "USD/JPY:range_in": 1791571324.2201009,
+    "JPY Index:range_in": 1791571324.2201009,
     "Ethereum:range_in": 1791567168.9410875
   },
   "sig_range": {
     "Gold": false,
     "USOIL": false,
     "Bitcoin": true,
-    "Ethereum": true,
+    "Ethereum": false,
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": false,
-    "USD/JPY": false,
+    "USD/JPY": true,
     "DXY": false,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791571583,
@@ -70,15 +70,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791570706.934803,
-  "last_news": 1791570716.7385101,
+  "last_analysis": 1791571316.4733799,
+  "last_news": 1791571324.2186441,
   "seen_news": [
-    "ECB president Lagarde talks of 'unwarranted' market moves, but who gets to decid",
-    "XSMB 9/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 9/10/2026",
-    "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance",
-    "EASYJET PLC (EZJ) Receives TR-1 on Major Holdings Change - TradingView",
-    "For the final 10% of cystic fibrosis, the breakthrough still hasn't come",
-    "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
     "Why are more roofs not made of solar tiles?",
     "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million",
     "Euro limps toward 5th weekly loss as dollar pause fails to erase rate hike bets",
@@ -372,6 +366,12 @@
     "SAP Stocks Gain as TechWolf Adds Workforce Intelligence - TradingView",
     "Why you need to take a closer look at your favorite stock index",
     "Trump Media advisor Katie Zacharia offered White House press secretary role",
-    "Trump wants to reduce the cost of fuel as the midterms loom - will it work?"
+    "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "Can RAM Missile Demand Support RTX's Defense Growth Outlook? - TradingView",
+    "My brother-in-law convinced his parents to sign over their home and life savings",
+    "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what c",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Snowflake options flow shows call buyers targeting $370 strike",
+    "France: Budget politics and market testing \u2013 Rabobank"
   ]
 }
