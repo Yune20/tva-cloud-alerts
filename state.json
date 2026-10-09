@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791575675.8558877,
+  "last_signals": 1791576161.5316718,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -41,11 +41,11 @@
     "Bitcoin": true,
     "Ethereum": false,
     "US30": false,
-    "GBP/USD": true,
+    "GBP/USD": false,
     "EUR/USD": false,
-    "USD/JPY": false,
+    "USD/JPY": true,
     "DXY": false,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791576543,
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791575666.0727427,
-  "last_news": 1791575675.85432,
+  "last_analysis": 1791576150.992447,
+  "last_news": 1791576161.53057,
   "seen_news": [
-    "USDCAD jumps on weak Canada jobs report, but fails to hold above key resistance",
-    "Gia \u0111\u00ecnh 3 ng\u01b0\u1eddi gi\u1edbi h\u1ea1n ti\u1ec1n sinh ho\u1ea1t \u1edf m\u1ee9c 10 tri\u1ec7u/th\u00e1ng: H\u1ecd chia ng\u00e2n s\u00e1ch",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
-    "CZNC Q3'26 Earnings: revenue estimate is 37.20M USD - TradingView",
-    "Tech stocks' resilience has puzzled investors. The options market could hold som",
-    "'You cannot build this car anywhere else in the world'",
     "F88: CTCP \u0110\u1ea7u t\u01b0 F88 - F88., JSC - VietstockFinance",
     "Ample Brazil Coffee Supplies Weigh on Prices - TradingView",
     "Jim Cramer's top 10 things to watch in the stock market Friday",
@@ -375,6 +369,12 @@
     "TOS-1 n\u00e3 tr\u00fang \u0111i\u1ec3m t\u1eadp k\u1ebft qu\u00e2n Ukraine, s\u00f3ng xung k\u00edch lan r\u1ed9ng - Chi\u1ebfn thu\u1eadt ",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
     "Gigasun AB (publ) (GIGA) OKs Bond Set-Off Share Issue - TradingView",
-    "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after g"
+    "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after g",
+    "V\u00ec sao c\u00f3 nh\u1eefng \u00f4ng ch\u1ed3ng l\u01b0\u1eddi r\u1eeda b\u00e1t nh\u01b0ng s\u00e1ng Ch\u1ee7 nh\u1eadt n\u00e0o c\u0169ng r\u1eeda xe?",
+    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank - VietstockFinance",
+    "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
+    "Nobel winner Krugman says France may have become 'too big to save'",
+    "Fuel prices added to Google Maps as petrol and diesel costs soar",
+    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
   ]
 }
