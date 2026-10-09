@@ -21,13 +21,13 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791572237.0298808,
+  "last_signals": 1791572560.5769558,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
     "USOIL:range_in": 1791572237.0298808,
     "US30:momo_up": 1791565125.5718102,
-    "US30:trap_up": 1791565662.3908367,
+    "US30:trap_up": 1791572560.5769558,
     "USD/JPY:range_in": 1791571324.2201009,
     "JPY Index:range_in": 1791571324.2201009,
     "Ethereum:range_in": 1791571660.5084727,
@@ -38,10 +38,10 @@
     "Gold": false,
     "USOIL": true,
     "Bitcoin": true,
-    "Ethereum": false,
+    "Ethereum": true,
     "US30": false,
     "GBP/USD": false,
-    "EUR/USD": true,
+    "EUR/USD": false,
     "USD/JPY": true,
     "DXY": true,
     "JPY Index": true,
@@ -72,15 +72,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791572225.8096495,
-  "last_news": 1791572237.0292187,
+  "last_analysis": 1791572552.8404176,
+  "last_news": 1791572560.5761337,
   "seen_news": [
-    "Oil: Iran tensions keep crude prices elevated - Rabobank",
-    "US initial jobless claims for the week is modestly stronger at 197K vs 200K est.",
-    "Nga \u0111\u1ed9t k\u00edch h\u01b0\u1edbng b\u1ea5t ng\u1edd, gi\u00e0nh khu v\u1ef1c l\u1edbn g\u1ea5p 10 l\u1ea7n Kiev \u2013 Chi\u1ebfn thu\u1eadt \u201cc\u1eaft",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
-    "Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8% - TradingView",
-    "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
     "Li\u00ean ti\u1ebfp huy \u0111\u1ed9ng v\u1ed1n l\u00e3i su\u1ea5t tr\u00ean 11%, quy m\u00f4 n\u1ee3 tr\u00e1i phi\u1ebfu CII m\u1edf r\u1ed9ng ra sa",
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
     "REG - L&G \u2013 Asset Mgmt. Ld Rotork PLC - Form 8.3 - Rotork plc - TradingView",
@@ -374,6 +368,12 @@
     "Canadian Dollar: Labor data may trigger dovish repricing \u2013 BBH",
     "S&P 500 jumps as oil, Treasury yields and US dollar ease after Trump's de-escala",
     "Nh\u1eefng ng\u01b0\u1eddi kh\u00f4ng mua nh\u00e0 v\u00e0 c\u0169ng kh\u00f4ng thu\u00ea nh\u00e0",
-    "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance"
+    "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance",
+    "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
+    "Top AI Semiconductor Stocks According to Stifel Analysis",
+    "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields ",
+    "M\u1ed9t th\u00e0nh vi\u00ean trong t\u1eadp \u0111o\u00e0n Vingroup c\u1ee7a t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng \u0111\u00f3n tin vui t\u1eeb",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "Sirius XM (SIRI) Stock Is Up, What You Need To Know - TradingView"
   ]
 }
