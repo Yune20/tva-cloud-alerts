@@ -21,13 +21,15 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791565662.3908367,
+  "last_signals": 1791566264.2141833,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
     "USOIL:range_in": 1791563549.9074335,
     "US30:momo_up": 1791565125.5718102,
-    "US30:trap_up": 1791565662.3908367
+    "US30:trap_up": 1791565662.3908367,
+    "USD/JPY:range_in": 1791566264.2141833,
+    "JPY Index:range_in": 1791566264.2141833
   },
   "sig_range": {
     "Gold": false,
@@ -37,9 +39,9 @@
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": false,
-    "USD/JPY": false,
+    "USD/JPY": true,
     "DXY": false,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791566596,
@@ -67,15 +69,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791565651.3614664,
-  "last_news": 1791565662.3898091,
+  "last_analysis": 1791566254.6225584,
+  "last_news": 1791566264.2133913,
   "seen_news": [
-    "Gigasun AB (publ) (GIGA) OKs Bond Set-Off Share Issue - TradingView",
-    "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my",
-    "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starl",
-    "'Come all the way' back to EU, French finance minister tells UK",
-    "Euro limps Toward 5th weekly loss as dollar pause fails to erase rate hike bets",
-    "UoM Consumer Sentiment Index expected to decline in October amid high Oil prices",
     "Ph\u00f9ng Th\u1ecb L\u1eaby SN 1974 chuy\u1ec3n kho\u1ea3n th\u00e0nh c\u00f4ng 677 l\u1ea7n, ng\u01b0\u1eddi nh\u1eadn ki\u1ec3m tra t\u00e0i k",
     "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance",
     "Loop Capital upgrades PROG Holdings to Buy, sets $45 price target - TradingView",
@@ -369,6 +365,12 @@
     "N\u00f3ng chuy\u1ec7n tr\u1ea1m s\u1ea1c t\u1ea1i Vi\u1ec7t Nam: H\u00e0ng ch\u1ee5c ngh\u00ecn tr\u1ea1m 'tr\u00ean gi\u1ea5y', th\u1ef1c t\u1ebf c\u00f3 ",
     "SSI: CTCP Ch\u1ee9ng kho\u00e1n SSI - SSI - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-10-09 \u2014 cnbctv:c1b8faf96094b:0 - TradingV",
-    "More evidence that broad-market index funds remain unbeatable, even in the era o"
+    "More evidence that broad-market index funds remain unbeatable, even in the era o",
+    "Th\u00e0nh l\u1eadp DN t\u1eeb 2013, sau \u0111\u00f3 th\u00f4ng b\u00e1o ng\u1eebng ho\u1ea1t \u0111\u1ed9ng, nh\u01b0ng v\u1eabn ph\u1ea3i tr\u1ea3 n\u1ee3 th",
+    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
+    "Moderna stock fires past 52-week high: what's behind Friday's rally? - TradingVi",
+    "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
+    "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+    "Plans to shut Marston's Brewery in Burton revealed"
   ]
 }
