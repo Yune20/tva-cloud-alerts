@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791571006.0147445,
-  "last_bot4": 1791577943.4370837,
+  "last_bot4": 1791578809.2752428,
   "watch_symbols": [
     "Gold"
   ],
@@ -21,15 +21,15 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791578257.7186818,
+  "last_signals": 1791578809.2870445,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
     "USOIL:range_in": 1791572237.0298808,
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791572560.5769558,
-    "USD/JPY:range_in": 1791574657.1380563,
-    "JPY Index:range_in": 1791574657.1380563,
+    "USD/JPY:range_in": 1791578809.2870445,
+    "JPY Index:range_in": 1791578809.2870445,
     "Ethereum:range_in": 1791571660.5084727,
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
@@ -37,15 +37,15 @@
   },
   "sig_range": {
     "Gold": false,
-    "USOIL": true,
+    "USOIL": false,
     "Bitcoin": true,
     "Ethereum": false,
     "US30": false,
-    "GBP/USD": true,
-    "EUR/USD": false,
-    "USD/JPY": false,
+    "GBP/USD": false,
+    "EUR/USD": true,
+    "USD/JPY": true,
     "DXY": true,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791579068,
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791578250.955864,
-  "last_news": 1791578257.7178822,
+  "last_analysis": 1791578802.6167884,
+  "last_news": 1791578809.2744308,
   "seen_news": [
-    "Why is Joby Aviation stock down 5% today?",
-    "Indian Rupee: RBI seen keeping hike option open \u2013 DBS",
-    "Delta shares slide on fuel drag but company says demand remains strong. Shares d",
-    "V\u01b0\u1ee3t Th\u00e1i Lan, \"s\u1ea3n v\u1eadt\" c\u1ee7a Vi\u1ec7t Nam v\u1eeba \u0111\u01b0\u1ee3c vinh danh Top 2 th\u1ebf gi\u1edbi: N\u01b0\u1edbc ta",
-    "TLG: CTCP T\u1eadp \u0111o\u00e0n Thi\u00ean Long - C\u00f4ng ty CP T\u1eadp \u0111o\u00e0n Thi\u00ean Long - VietstockFinanc",
-    "Gold Rises on Softer Dollar and Cooling Oil - TradingView",
     "Connecting the dots: How an oil price shock can ripple across global markets",
     "Ban Th\u01b0\u1eddng v\u1ee5 Th\u00e0nh \u1ee7y TPHCM \u0111i\u1ec1u \u0111\u1ed9ng, ch\u1ec9 \u0111\u1ecbnh c\u00e1n b\u1ed9",
     "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS - VietstockFinance",
@@ -375,6 +369,12 @@
     "Ngo\u00e0i M\u1ef9, ai l\u00e0 ng\u01b0\u1eddi mua d\u1ea7u t\u1eeb Venezuela?",
     "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC - VietstockFinance",
     "Nordic Aqua Partners: Operational update for Q3 2026 - TradingView",
-    "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refin"
+    "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refin",
+    "Con trai \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng \u0111ang tuy\u1ec3n g\u1ea5p 2 nh\u00e2n s\u1ef1, c\u00f4ng vi\u1ec7c li\u00ean quan nhi\u1ec1u",
+    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
+    "Manulife (MFC) Appoints Sin\u00e9ad O'Connor Chief Actuary - TradingView",
+    "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelt",
+    "Anthropic bans users from being 'cruel' to its AI systems",
+    "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027"
   ]
 }
