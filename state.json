@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791581846.580583,
-  "last_bot4": 1791583950.955273,
+  "last_bot4": 1791584791.6330357,
   "watch_symbols": [
     "Gold"
   ],
@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791584242.610275,
+  "last_signals": 1791584791.6335783,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -30,7 +30,7 @@
     "US30:trap_up": 1791572560.5769558,
     "USD/JPY:range_in": 1791578809.2870445,
     "JPY Index:range_in": 1791578809.2870445,
-    "Ethereum:range_in": 1791571660.5084727,
+    "Ethereum:range_in": 1791584791.6335783,
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791578257.7186818
@@ -39,7 +39,7 @@
     "Gold": false,
     "USOIL": false,
     "Bitcoin": true,
-    "Ethereum": false,
+    "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": true,
@@ -74,14 +74,8 @@
     }
   },
   "last_analysis": 1791584550.2247815,
-  "last_news": 1791584242.609806,
+  "last_news": 1791584791.6324534,
   "seen_news": [
-    "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage",
-    "UBS sees stronger outlook for Brazilian real after election",
-    "Japan: Bond outflows reshape global yields - Commerzbank",
-    "USDCHF is stuck in 50 pip trading range since midday Monday. What does that say ",
-    "K\u1ebft n\u1ed1i h\u01a1n 1.500 gi\u1ea3i ph\u00e1p chuy\u1ec3n \u0111\u1ed5i s\u1ed1 t\u1edbi c\u1ea5p x\u00e3 tr\u00ean m\u1ed9t \u1ee9ng d\u1ee5ng",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
     "Greece stocks lower at close of trade; Athens General Composite down 0.28%",
     "Poland: Inflation outlook stabilises \u2013 ING",
     "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
@@ -375,6 +369,12 @@
     "TBG AG Secures Board Seat at ESCO Technologies with 16.4% Stake - TradingView",
     "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL",
     "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis"
+    "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis",
+    "Invitation to presentation of Flerie\u2019s Q3 2026 interim report - TradingView",
+    "India calls JD Vance's comments about immigrants 'deeply offensive'",
+    "Everton owners consider selling club two years after takeover",
+    "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
+    "Canadian dollar gains as oil rally, narrower yield gap support loonie",
+    "European Central Bank: Conditional support and French risks \u2013 Rabobank"
   ]
 }
