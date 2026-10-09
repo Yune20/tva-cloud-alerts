@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791577661.7233708,
+  "last_signals": 1791578257.7186818,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -33,7 +33,7 @@
     "Ethereum:range_in": 1791571660.5084727,
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
-    "GBP/USD:range_in": 1791575675.8558877
+    "GBP/USD:range_in": 1791578257.7186818
   },
   "sig_range": {
     "Gold": false,
@@ -41,11 +41,11 @@
     "Bitcoin": true,
     "Ethereum": false,
     "US30": false,
-    "GBP/USD": false,
-    "EUR/USD": true,
-    "USD/JPY": true,
+    "GBP/USD": true,
+    "EUR/USD": false,
+    "USD/JPY": false,
     "DXY": true,
-    "JPY Index": true,
+    "JPY Index": false,
     "US 10Y": true
   },
   "chain_lease_until": 1791578457,
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791577652.123111,
-  "last_news": 1791577661.72245,
+  "last_analysis": 1791578250.955864,
+  "last_news": 1791578257.7178822,
   "seen_news": [
-    "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-    "Explainer-What is the low-band spectrum that SpaceX acquired for Starlink Mobile",
-    "British Pound gains ground as Japanese Yen underperforms",
-    "Bitcoin sellers had their shot. They missed.",
-    "Khi App ng\u00e2n h\u00e0ng quan t\u00e2m ng\u01b0\u1eddi d\u00f9ng \u2013 tinh t\u1ebf trong t\u1eebng ch\u1ea1m",
-    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
     "Why is Joby Aviation stock down 5% today?",
     "Indian Rupee: RBI seen keeping hike option open \u2013 DBS",
     "Delta shares slide on fuel drag but company says demand remains strong. Shares d",
@@ -375,6 +369,12 @@
     "C\u1ed5 phi\u1ebfu PNJ t\u0103ng k\u1ecbch tr\u1ea7n, Novaland ng\u01b0\u1ee3c d\u00f2ng",
     "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
     "Waymo Adds Debt to Its Robotaxi Bet - TradingView",
-    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants "
+    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
+    "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
+    "USDCAD jumps on weak Canada jobs report, but fails to hold above key resistance",
+    "Ngo\u00e0i M\u1ef9, ai l\u00e0 ng\u01b0\u1eddi mua d\u1ea7u t\u1eeb Venezuela?",
+    "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC - VietstockFinance",
+    "Nordic Aqua Partners: Operational update for Q3 2026 - TradingView",
+    "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refin"
   ]
 }
