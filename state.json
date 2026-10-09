@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791559975.7156913,
-  "last_bot4": 1791567442.1488004,
+  "last_bot4": 1791568196.7162895,
   "watch_symbols": [
     "Gold"
   ],
@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791567759.4596245,
+  "last_signals": 1791568196.716979,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -29,12 +29,12 @@
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791565662.3908367,
     "USD/JPY:range_in": 1791566264.2141833,
-    "JPY Index:range_in": 1791566264.2141833,
+    "JPY Index:range_in": 1791568196.716979,
     "Ethereum:range_in": 1791567168.9410875
   },
   "sig_range": {
     "Gold": false,
-    "USOIL": true,
+    "USOIL": false,
     "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
@@ -42,7 +42,7 @@
     "EUR/USD": false,
     "USD/JPY": false,
     "DXY": false,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791568459,
@@ -70,15 +70,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791567751.843993,
-  "last_news": 1791567759.4587984,
+  "last_analysis": 1791568189.0937796,
+  "last_news": 1791568196.7154229,
   "seen_news": [
-    "Delta Air Lines cuts profit outlook as fuel costs outpace fare gains",
-    "Indian Rupee regains ground as rally in US bond yields hits pause",
-    "Capitalist conditions have weakened worldwide since 2009, University of Virginia",
-    "XSMT 9/10/2026 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung ng\u00e0y 9 th\u00e1ng 10",
-    "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
-    "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations - TradingV",
     "Atlanta Fed GDPNow Q3 tracker 3.6% vs 3.7% prior",
     "B\u1ed9 Qu\u1ed1c ph\u00f2ng Ukraine c\u1ea7n th\u00eam bao nhi\u00eau ti\u1ec1n cho chi ti\u00eau qu\u00e2n s\u1ef1 n\u0103m 2027?",
     "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB | VietstockFinance - VietstockFinance",
@@ -372,6 +366,12 @@
     "Delta warns of more airline capacity restraint as fuel shock hits profits",
     "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
     "What's open and closed in US and Canadian markets on Monday",
-    "Vi\u1ec7t Nam c\u00f3 ng\u00f4i l\u00e0ng 89 h\u1ed9 d\u00e2n, 297 ng\u01b0\u1eddi c\u00f9ng sinh s\u1ed1ng, \u0111\u01b0\u1ee3c giao nhi\u1ec7m v\u1ee5 \u0111\u1eb7"
+    "Vi\u1ec7t Nam c\u00f3 ng\u00f4i l\u00e0ng 89 h\u1ed9 d\u00e2n, 297 ng\u01b0\u1eddi c\u00f9ng sinh s\u1ed1ng, \u0111\u01b0\u1ee3c giao nhi\u1ec7m v\u1ee5 \u0111\u1eb7",
+    "SHS huy \u0111\u1ed9ng l\u00f4 tr\u00e1i phi\u1ebfu 123 t\u1ef7 \u0111\u1ed3ng",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Gold adds over 1% on easing oil prices, softer dollar - TradingView",
+    "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+    "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecut",
+    "'Stop throwing shade' - the woman trying to stop firms leaving the UK"
   ]
 }
