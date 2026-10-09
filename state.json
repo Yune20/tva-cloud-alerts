@@ -18,16 +18,18 @@
     ]
   },
   "tg_offsets": {
-    "bot4": 984754909,
+    "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791562943.430736,
+  "last_signals": 1791563549.9074335,
   "signal_ts": {
-    "USOIL:trap_up": 1791561451.4339352
+    "USOIL:trap_up": 1791561451.4339352,
+    "Gold:range_in": 1791563549.9074335,
+    "USOIL:range_in": 1791563549.9074335
   },
   "sig_range": {
-    "Gold": false,
-    "USOIL": false,
+    "Gold": true,
+    "USOIL": true,
     "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
@@ -40,38 +42,32 @@
   },
   "chain_lease_until": 1791563810,
   "menu_prices": {
-    "ts": 1791558767.9914212,
+    "ts": 1791563614.5631123,
     "prices": {
-      "Gold": "4,205.90",
-      "USOIL": "92.02",
-      "Bitcoin": "82,848.90",
-      "Ethereum": "2,486.18",
-      "US30": "51,489.31",
+      "Gold": "4,214.20",
+      "USOIL": "91.48",
+      "Bitcoin": "82,706.71",
+      "Ethereum": "2,489.09",
+      "US30": "51,587.43",
       "GBP/USD": "1.32",
       "EUR/USD": "1.12",
-      "USD/JPY": "158.38",
-      "DXY": "102.30",
-      "JPY Index": "158.38",
-      "US 10Y": "5.27",
-      "Silver": "60.99",
-      "S&P 500": "7,798.78",
-      "NASDAQ 100": "30,820.65",
-      "VIX": "14.97",
-      "Brent": "104.83",
-      "AAPL": "334.27",
-      "TSLA": "385.14",
-      "NVDA": "230.28"
+      "USD/JPY": "158.32",
+      "DXY": "102.32",
+      "JPY Index": "158.32",
+      "US 10Y": "5.25",
+      "Silver": "61.12",
+      "S&P 500": "7,807.81",
+      "NASDAQ 100": "30,871.04",
+      "VIX": "14.82",
+      "Brent": "104.09",
+      "AAPL": "334.41",
+      "TSLA": "383.24",
+      "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791562935.016449,
-  "last_news": 1791562943.4298131,
+  "last_analysis": 1791563542.4854326,
+  "last_news": 1791563549.906607,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "News by CNBC TV18 on TradingView, 2026-10-09 \u2014 cnbctv:c1b8faf96094b:0 - TradingV",
-    "Why the price of this one ETF has gone exponential",
-    "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker c",
-    "'Add me on WhatsApp' scam calls to be investigated",
-    "Australia Close to Finalizing Gas Reservation Plan for LNG Exporters",
     "How soon into dating should you reveal your salary?",
     "Sterling today: Pound edges up as dollar dips on Treasury pause",
     "Polish Zloty: Dovish NBP signals weigh on PLN \u2013 Commerzbank",
@@ -365,6 +361,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - T\u00ecm v\u1ec1 gi\u00e1 tr\u1ecb - VietstockFinance",
     "LuxExperience Chief Executive Officer Sold Shares Worth Over $1.8M - TradingView",
     "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supp",
-    "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common S"
+    "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common S",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 65,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "EU-China understanding could halve Chinese hybrid car exports - TradingView",
+    "Taxing stocks, estates and employee benefits could keep Social Security from run",
+    "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack ",
+    "Derry firm becomes one of UK's biggest car park operators after buying NCP",
+    "Iran War Energy Shock Puts Hydrogen Back on the Table"
   ]
 }
