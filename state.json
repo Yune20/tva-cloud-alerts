@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791573168.7524805,
+  "last_signals": 1791573767.3216438,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -32,7 +32,8 @@
     "JPY Index:range_in": 1791571324.2201009,
     "Ethereum:range_in": 1791571660.5084727,
     "EUR/USD:range_in": 1791572237.0298808,
-    "DXY:range_in": 1791572237.0298808
+    "DXY:range_in": 1791572237.0298808,
+    "GBP/USD:range_in": 1791573767.3216438
   },
   "sig_range": {
     "Gold": false,
@@ -40,11 +41,11 @@
     "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
-    "GBP/USD": false,
-    "EUR/USD": true,
-    "USD/JPY": true,
+    "GBP/USD": true,
+    "EUR/USD": false,
+    "USD/JPY": false,
     "DXY": true,
-    "JPY Index": true,
+    "JPY Index": false,
     "US 10Y": true
   },
   "chain_lease_until": 1791574057,
@@ -72,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791573148.8291814,
-  "last_news": 1791573168.7516985,
+  "last_analysis": 1791573753.7654293,
+  "last_news": 1791573767.3209298,
   "seen_news": [
-    "Morning Kickstart: Dollar mixed, stocks rebound and oil retreats amid Iran uncer",
-    "H\u1ed3i sinh \u0111\u1ed9ng c\u01a1 uy t\u00edn n\u00e0y, m\u00e1y bay n\u1ed9i \u0111\u1ecba MC-21 v\u00e0 Tu-214 c\u1ee7a Nga kh\u00f4ng ch\u1ec9 \u0111",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD 28/09/2026 - VietstockFinance",
-    "Nordic Aqua Partners: Operational update for Q3 2026 - TradingView",
-    "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
-    "Asos hackers took more personal details than first revealed, BBC finds",
     "T\u1ef7 ph\u00fa v\u1edbi kh\u1ed1i t\u00e0i s\u1ea3n g\u1ea7n 100 t\u1ef7 USD \u1ea4n \u0110\u1ed9 mang tin vui t\u1edbi Venezuela",
     "GEE: CTCP \u0110i\u1ec7n l\u1ef1c Gelex - GELEX Electric.,JSC - VietstockFinance",
     "King Copper Selects Drill Contractor For Inaugural Drill Program At Colquemayo -",
@@ -374,6 +369,12 @@
     "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
     "Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8% - TradingView",
     "My husband inherited $3 million. He wants a vacation home, but I want to save fo",
-    "Trump strikes deal with Putin to supply Russian diesel to U.S. and global market"
+    "Trump strikes deal with Putin to supply Russian diesel to U.S. and global market",
+    "Two massive trades just happened in Micron and Nvidia. What they could mean for ",
+    "Why are more roofs not made of solar tiles?",
+    "Pennsylvania says GSK to invest more than $800 million in biopharma hub, create ",
+    "Silver Price Forecast: Bullish engulfing pattern puts $64 in sight",
+    "Let's Play... \"More Bullish or More Bearish\".  How would I view the technicals f",
+    "Sang n\u0103m 2027, tu\u1ed5i ngh\u1ec9 h\u01b0u c\u1ee7a ng\u01b0\u1eddi lao \u0111\u1ed9ng s\u1ebd thay \u0111\u1ed5i ra sao?"
   ]
 }
