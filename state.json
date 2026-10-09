@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791571324.2201009,
+  "last_signals": 1791571660.5084727,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -30,15 +30,15 @@
     "US30:trap_up": 1791565662.3908367,
     "USD/JPY:range_in": 1791571324.2201009,
     "JPY Index:range_in": 1791571324.2201009,
-    "Ethereum:range_in": 1791567168.9410875
+    "Ethereum:range_in": 1791571660.5084727
   },
   "sig_range": {
     "Gold": false,
     "USOIL": false,
     "Bitcoin": true,
-    "Ethereum": false,
+    "Ethereum": true,
     "US30": false,
-    "GBP/USD": true,
+    "GBP/USD": false,
     "EUR/USD": false,
     "USD/JPY": true,
     "DXY": false,
@@ -70,15 +70,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791571316.4733799,
-  "last_news": 1791571324.2186441,
+  "last_analysis": 1791571650.3784955,
+  "last_news": 1791571660.5077763,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million",
-    "Euro limps toward 5th weekly loss as dollar pause fails to erase rate hike bets",
-    "Australian Dollar struggles to extend gains to near 0.7000, US CPI comes into fo",
-    "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American ",
-    "Sa s\u00fat tr\u00ed tu\u1ec7 \u1edf ng\u01b0\u1eddi cao tu\u1ed5i: Khi ch\u0103m s\u00f3c kh\u00f4ng ch\u1ec9 b\u1eaft \u0111\u1ea7u t\u1eeb l\u00fac b\u1ec7nh xu\u1ea5t",
     "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
     "Premarket movers: Humana rallies; SpaceX deal sends telco stocks down",
     "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
@@ -372,6 +366,12 @@
     "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what c",
     "Would you buy branded clothing from your favourite tech firm?",
     "Snowflake options flow shows call buyers targeting $370 strike",
-    "France: Budget politics and market testing \u2013 Rabobank"
+    "France: Budget politics and market testing \u2013 Rabobank",
+    "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my",
+    "Living with Mom and trading on margin. The regular investor gets in on Wall Stre",
+    "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+    "vVardis files for US IPO showing net loss, revenue growth",
+    "Japanese Yen underperforms against its peers into the weekend",
+    "This week we got a sneak-peak at the playbook for when the AI bubble bursts"
   ]
 }
