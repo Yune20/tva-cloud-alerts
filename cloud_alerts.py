@@ -29,10 +29,12 @@ CONFIG = {
     # Intervals (seconds)
     "analysis_interval": int(os.getenv("ANALYSIS_INTERVAL", "300")),  # 5 min
     "news_interval": int(os.getenv("NEWS_INTERVAL", "300")),  # 5 min
+    # 3-hourly stats report (window: last 3h → 7 days) via BOT3
+    "news_report_interval": int(os.getenv("NEWS_REPORT_INTERVAL", "10800")),
     "bot4_interval": int(os.getenv("BOT4_INTERVAL", "600")),  # chart+plan cadence
     # Per-run menu long-poll budget (seconds from process start). GitHub's
-    # step runs `timeout 240 python cloud_alerts.py --once`, so keep this
-    # below 225 to leave the kill window unused.
+    # step runs `timeout 300 python cloud_alerts.py --once`, so keep this
+    # below 285 to leave the kill window unused.
     "menu_poll_sec": int(os.getenv("MENU_POLL_SEC", "215")),
 
     # Priority symbols: (display_name, coingecko_id, yahoo_symbol, tv_symbol)
@@ -104,6 +106,7 @@ CONFIG = {
 state = {
     "last_analysis": 0,
     "last_news": 0,
+    "last_news_report": 0,         # 3-hourly stats report (BOT3)
     "seen_news": [],
     # Bot4 / menu state (persisted across GitHub Actions runs via state.json)
     "last_bot4": 0,
@@ -499,10 +502,11 @@ def compute_analysis(name: str, tv_symbol: str, data: dict):
     }
 
 
-def format_analysis(d: dict) -> str:
+def format_analysis(d: dict, mtf_lines=None) -> str:
     """Format the analysis dict into the classic BOT1 Markdown text.
 
-    Output is byte-identical to the original analyze_symbol() text.
+    mtf_lines = 🧭 D1/H4/H1 summary lines (from mtf_summary_lines) so the
+    analysis always covers every timeframe, not just the base one.
     """
     fmt_p = d["fmt_p"]
     name = d["name"]
@@ -534,6 +538,13 @@ def format_analysis(d: dict) -> str:
         f"  • Xu hướng: {trend}",
         f"  • Tâm lý: {psyc}",
         f"",
+        f"🧭 *KHUNG LỚN (MTF)*",
+    ] + (mtf_lines or [
+        "  🗓 D1: — (chưa đủ dữ liệu)",
+        "  🕓 H4: — (chưa đủ dữ liệu)",
+        "  🕐 H1: — (chưa đủ dữ liệu)",
+    ]) + [
+        f"",
         f"📈 *VÙNG GIÁ*",
         f"  • Kháng cự R1: `{fmt_p(r1)}` | R2: `{fmt_p(r2)}`",
         f"  • Hỗ trợ S1: `{fmt_p(s1)}` | S2: `{fmt_p(s2)}`",
@@ -556,10 +567,16 @@ def format_analysis(d: dict) -> str:
     return "\n".join(lines)
 
 
-def analyze_symbol(name: str, tv_symbol: str, data: dict):
-    """Analyze a symbol with detailed trading plan (classic BOT1 text)."""
+def analyze_symbol(name: str, tv_symbol: str, data: dict, data1d: dict = None):
+    """Analyze a symbol with detailed trading plan (classic BOT1 text).
+
+    Always includes the 🧭 MTF block (D1/H4/H1) — never a single timeframe.
+    """
     d = compute_analysis(name, tv_symbol, data)
-    return format_analysis(d) if d else None
+    if not d:
+        return None
+    tf = mtf_summary_lines(name, tv_symbol, data, data1d)
+    return format_analysis(d, tf)
 
 
 def resample_bars(data: dict, factor: int) -> dict:
@@ -585,6 +602,37 @@ def resample_bars(data: dict, factor: int) -> dict:
         out["close"].append(data["close"][b - 1])
         out["volume"].append(sum(vol[a:b]))
     return out
+
+
+def mtf_summary_lines(name: str, tv_symbol: str, data: dict,
+                      data1d: dict = None):
+    """🧭 All-timeframe summary lines (D1 / H4 / H1) shared by every plan
+    AND every analysis text — no report ever ships a single timeframe.
+
+    H4 = resampled 4x from the 1H series; D1 comes from data1d when given,
+    else falls back to resampling 24x (usually 'chưa đủ dữ liệu' on short
+    series — the label still shows so every khung is always present).
+    """
+    def _tf_line(label, series, factor=1):
+        s = series
+        if factor > 1 and s:
+            s = resample_bars(s, factor)
+        if not s or len(s.get("close", [])) < 30:
+            return f"  {label}: — (chưa đủ dữ liệu)"
+        td = compute_analysis(name, tv_symbol, s)
+        if not td:
+            return f"  {label}: —"
+        fmt = td["fmt_p"]
+        return (f"  {label}: {td['trend']} | "
+                f"R `{fmt(td['r1'])}` · S `{fmt(td['s1'])}`")
+
+    d1 = data1d if data1d else data
+    d1_factor = 1 if data1d else 24
+    return [
+        _tf_line("🗓 D1", d1, d1_factor),
+        _tf_line("🕓 H4", data, 4),
+        _tf_line("🕐 H1", data),
+    ]
 
 
 def build_detailed_plan(name: str, tv_symbol: str, data: dict,
@@ -645,24 +693,8 @@ def build_detailed_plan(name: str, tv_symbol: str, data: dict,
     risk = abs(entry_mid - sl) or atr
     rr1 = abs(tp1 - entry_mid) / risk if risk else 0
 
-    # ── Higher timeframe summaries ────────────────────────────────────────
-    def _tf_line(label, series, factor=1):
-        s = series
-        if factor > 1 and s:
-            s = resample_bars(s, factor)
-        if not s or len(s.get("close", [])) < 30:
-            return f"  {label}: — (chưa đủ dữ liệu)"
-        td = compute_analysis(name, tv_symbol, s)
-        if not td:
-            return f"  {label}: —"
-        return (f"  {label}: {td['trend']} | "
-                f"R `{fmt(td['r1'])}` · S `{fmt(td['s1'])}`")
-
-    tf_lines = [
-        _tf_line("🗓 D1", data1d),
-        _tf_line("🕓 H4", data, 4),
-        _tf_line("🕐 H1", data),
-    ]
+    # ── Higher timeframe summaries (shared MTF block — all khung always) ──
+    tf_lines = mtf_summary_lines(name, tv_symbol, data, data1d)
 
     # RSI zone wording for the momentum block
     rsi = d["rsi"]
@@ -1459,13 +1491,15 @@ def menu_update_handler(key: str, token: str, upd: dict):
         elif sact == "an":
             dash_names = {s.get("name") for s in load_dashboard_symbols()}
             if sname in dash_names:
+                an_token = owner_token("analysis", _report_token(key, token, cb_chat))
+                send_analysis_charts(an_token, cb_chat, [sname])
                 txt = build_analysis_snapshot([sname])
             else:
                 txt = (f"⏳ Chưa có phân tích MTF cho {sname} — mã ngoài "
                        f"11 cặp chính.\nDùng 📈 Chart+Plan hoặc 🧪 Backtest "
                        f"thay thế.")
-            send_telegram(owner_token("analysis", _report_token(key, token, cb_chat)),
-                          cb_chat, txt,
+                an_token = owner_token("analysis", _report_token(key, token, cb_chat))
+            send_telegram(an_token, cb_chat, txt,
                           extra={"reply_markup": menu_btn_json()})
         elif sact == "bt":
             txt = backtest_ema_report(sname, e)
@@ -1621,6 +1655,33 @@ def build_analysis_snapshot(names):
     return "\n".join(lines)
 
 
+def send_analysis_charts(token: str, chat, names) -> int:
+    """BOT1 helper: send one chart photo per symbol from the dashboard cache
+    (no network fetch — OHLCV + R/S levels come straight from cache)."""
+    if not token or not chat:
+        return 0
+    by_name = {s.get("name"): s for s in load_dashboard_symbols()}
+    sent = 0
+    for n in names:
+        sym = by_name.get(n)
+        if not sym or not sym.get("ohlcv"):
+            continue
+        tv = sym.get("symbol") or ""
+        details = None
+        try:
+            d = compute_analysis(n, tv, sym["ohlcv"])
+            if d and "r1" in d and "s1" in d:
+                details = d
+        except Exception:
+            details = None
+        png = render_chart_png(n, tv, sym["ohlcv"], details)
+        if png and send_telegram_photo(
+                token, chat, png,
+                caption=f"📊 {n} · 1H — biểu đồ kèm phân tích MTF"):
+            sent += 1
+    return sent
+
+
 def handle_menu_action(act: str, key: str, token: str, chat: str):
     """Menu action -> reply from the SPECIALIST bot's token (intelligent
     allocation: tap anywhere, the owning bot answers)."""
@@ -1638,9 +1699,12 @@ def handle_menu_action(act: str, key: str, token: str, chat: str):
                           "⏳ Chưa gửi được chart — dữ liệu chưa sẵn, thử lại sau 1-2 phút.")
         print(f"  Action chart (via {key}): {sent} report(s)")
     elif act == "analysis":
-        text = build_analysis_snapshot(_menu_targets(key, 3))
+        names = _menu_targets(key, 3)
+        nchart = send_analysis_charts(otoken, chat, names)
+        text = build_analysis_snapshot(names)
         ok = send_telegram(otoken, chat, text, extra={"reply_markup": menu_btn_json()})
-        print(f"  Action analysis (via {key}): {'OK' if ok else 'FAIL'}")
+        print(f"  Action analysis (via {key}): {'OK' if ok else 'FAIL'} "
+              f"({nchart} chart(s))")
     elif act == "bang":
         text = build_banggia_dashboard()
         if not text:
@@ -1904,6 +1968,27 @@ def gtranslate_vi(text: str):
     return None
 
 
+def _parse_feed_ts(s):
+    """RFC822 (RSS pubDate) or ISO-8601 (Atom) -> unix epoch (UTC) or None."""
+    if not s:
+        return None
+    from email.utils import parsedate_to_datetime
+    try:
+        dt = parsedate_to_datetime(s.strip())
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.timestamp()
+    except Exception:
+        pass
+    try:
+        dt = datetime.fromisoformat(s.strip().replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.timestamp()
+    except Exception:
+        return None
+
+
 def fetch_rss_news():
     """Fetch news from RSS feeds with better error handling."""
     import xml.etree.ElementTree as ET
@@ -1948,6 +2033,7 @@ def fetch_rss_news():
                 title_el = item.find("title")
                 link_el = item.find("link")
                 desc_el = item.find("description")
+                pub_el = item.find("pubDate")
                 if title_el is not None and title_el.text:
                     title = title_el.text.strip()
                     if title and title not in seen_titles:
@@ -1957,12 +2043,17 @@ def fetch_rss_news():
                             "url": link_el.text.strip() if link_el is not None and link_el.text else "",
                             "desc": (desc_el.text[:200] if desc_el is not None and desc_el.text else ""),
                             "source": feed_source,
+                            "ts": _parse_feed_ts(
+                                pub_el.text if pub_el is not None and pub_el.text else None),
                         })
 
             # Atom
             for entry in root.iter("{http://www.w3.org/2005/Atom}entry"):
                 title_el = entry.find("{http://www.w3.org/2005/Atom}title")
                 link_el = entry.find("{http://www.w3.org/2005/Atom}link")
+                pub_el = entry.find("{http://www.w3.org/2005/Atom}published")
+                if pub_el is None:
+                    pub_el = entry.find("{http://www.w3.org/2005/Atom}updated")
                 if title_el is not None and title_el.text:
                     title = title_el.text.strip()
                     if title and title not in seen_titles:
@@ -1975,6 +2066,8 @@ def fetch_rss_news():
                             "url": url,
                             "desc": "",
                             "source": feed_source,
+                            "ts": _parse_feed_ts(
+                                pub_el.text if pub_el is not None and pub_el.text else None),
                         })
 
             print(f"  RSS OK: {feed_url} -> {len(items)} items")
@@ -2050,16 +2143,19 @@ def run_analysis():
     for name, coingecko_id, yahoo_sym, tv_sym in CONFIG["symbols"]:
         data = None
 
-        # Try CoinGecko for crypto/gold
-        if coingecko_id:
+        # Yahoo 1H first (2mo for a warm EMA50 + ~84 H4 bars after resample);
+        # CoinGecko only as fallback — its candle granularity varies by range,
+        # which would distort resampled H4/D1 lines.
+        if yahoo_sym:
+            data = fetch_yahoo_chart(yahoo_sym, "1h", "2mo")
+        if not data and coingecko_id:
             data = fetch_coingecko_ohlc(coingecko_id, "usd", 7)
 
-        # Fallback to Yahoo
-        if not data and yahoo_sym:
-            data = fetch_yahoo_chart(yahoo_sym, "1h", "5d")
+        # D1 series for the 🧭 MTF block (all reports must show every khung)
+        data1d = fetch_yahoo_chart(yahoo_sym, "1d", "6mo") if yahoo_sym else None
 
         if data:
-            analysis = analyze_symbol(name, tv_sym, data)
+            analysis = analyze_symbol(name, tv_sym, data, data1d=data1d)
             if analysis:
                 sent_count += 1
                 print(f"  OK: {name}")
@@ -2113,11 +2209,29 @@ def run_analysis():
     # Save data for dashboard
     save_dashboard_data(all_analysis)
 
-    # Send to BOT1 (analysis)
+    # Send to BOT1 (analysis) — chart photo for each standout signal first,
+    # then the full text (menu button stays on the final message).
     if CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
+        charts = 0
+        for name, _analysis in best_signals[:3]:
+            item = next((a for a in all_analysis if a["name"] == name), None)
+            if not item:
+                continue
+            details = None
+            try:
+                d = compute_analysis(name, item["symbol"], item["ohlcv"])
+                if d and "r1" in d and "s1" in d:
+                    details = d
+            except Exception:
+                details = None
+            png = render_chart_png(name, item["symbol"], item["ohlcv"], details)
+            if png and send_telegram_photo(
+                    CONFIG["bot1_token"], CONFIG["bot1_chat"], png,
+                    caption=f"🔥 {name} · 1H — tín hiệu nổi bật"):
+                charts += 1
         ok1 = send_telegram(CONFIG["bot1_token"], CONFIG["bot1_chat"], text,
                             extra={"reply_markup": menu_btn_json()})
-        print(f"BOT1: {'OK' if ok1 else 'FAIL'}")
+        print(f"BOT1: {'OK' if ok1 else 'FAIL'} ({charts} chart(s))")
 
     # Send summary to BOT2 (price feed - shorter)
     if CONFIG["bot2_token"] and CONFIG["bot2_chat"]:
@@ -2303,6 +2417,107 @@ def run_news():
         print(f"  News -> BOT1: {'OK' if ok else 'FAIL'}")
 
     state["last_news"] = time.time()
+    save_state()
+
+
+def build_news_report(items, now=None):
+    """📊 3-hourly stats report — window = fresh (≤3h) + backlog (3h→7d).
+
+    Quick, simple, easy-to-read: totals, theme counts with a fresh delta,
+    top sources, and the hottest headlines from the last 3 hours. No link
+    wall (the live digest already delivers links as news breaks).
+    """
+    now = now or time.time()
+    cut_fresh = now - 3 * 3600
+    cut_7d = now - 7 * 86400
+    fresh, backlog = [], []
+    undated = 0
+    for it in items:
+        ts = it.get("ts")
+        if ts is None:
+            undated += 1
+            continue
+        if ts < cut_7d:
+            continue
+        (fresh if ts >= cut_fresh else backlog).append(it)
+
+    # Theme counts: whole 7-day window, plus fresh subset per theme
+    cats = {}
+    for it in fresh + backlog:
+        lab = classify_news_item(it)
+        cats.setdefault(lab, [0, 0])
+        cats[lab][0] += 1
+    for it in fresh:
+        cats[classify_news_item(it)][1] += 1
+
+    srcs = {}
+    for it in fresh + backlog:
+        s = (it.get("source") or "?").replace("feeds.", "").replace("www.", "")
+        srcs[s] = srcs.get(s, 0) + 1
+    top_srcs = sorted(srcs.items(), key=lambda x: -x[1])[:3]
+
+    hot = sorted(fresh, key=lambda x: x.get("ts") or 0, reverse=True)[:5]
+    for it in hot:
+        vi = gtranslate_vi(it["title"])
+        it["title_vi"] = vi if vi else translate_to_vietnamese(it["title"])
+
+    now_s = datetime.now(timezone.utc).strftime("%H:%M %d/%m/%Y")
+    total = len(fresh) + len(backlog)
+    lines = [
+        "📊 *BÁO CÁO TIN 3 GIỜ*",
+        "━" * 26,
+        f"⏰ {now_s} UTC · cửa sổ: 3h qua → 7 ngày",
+        f"📰 Tổng (7 ngày): *{total}* · 3h qua: *{len(fresh)}* · "
+        f"3h→7 ngày: *{len(backlog)}*",
+    ]
+    if undated:
+        lines.append(f"   (không rõ thời gian: {undated} — không tính)")
+    lines += ["", "📊 *Chủ đề (7 ngày):*"]
+    cat_items = sorted(cats.items(), key=lambda x: -x[1][0])
+    for lab, (tot, fr) in cat_items[:7]:
+        suffix = f" · 🔥{fr} mới" if fr else ""
+        lines.append(f"  {lab}: {tot}{suffix}")
+    rest = sum(v[0] for _, v in cat_items[7:])
+    if rest:
+        lines.append(f"  • Khác: {rest}")
+    if top_srcs:
+        lines.append("")
+        lines.append("🏆 *Nguồn nhiều nhất:* "
+                     + " · ".join(f"{s} ({n})" for s, n in top_srcs))
+    if hot:
+        lines += ["", "🔥 *NỔI BẬT 3H QUA:*"]
+        for i, it in enumerate(hot, 1):
+            t = it.get("title_vi") or it["title"]
+            if len(t) > 130:
+                t = t[:127] + "…"
+            lines.append(f"{i}. {t}")
+    lines += ["",
+              "(↳ tin mới nhất đã gửi trực tiếp khi xuất hiện — "
+              "bấm 📰 menu để xem chi tiết)"]
+    return "\n".join(lines)
+
+
+def run_news_report():
+    """Every 3h: send the news statistics report (window 3h → 7d) to BOT3."""
+    print(f"[{datetime.now(timezone.utc).isoformat()}] Running news report (3h stats)...")
+    try:
+        items = fetch_rss_news()
+        text = build_news_report(items)
+    except Exception as e:
+        print(f"  News report error: {e}")
+        state["last_news_report"] = time.time()
+        save_state()
+        return
+    sent = False
+    if CONFIG["bot3_token"] and CONFIG["bot3_chat"]:
+        sent = send_telegram(CONFIG["bot3_token"], CONFIG["bot3_chat"], text,
+                             extra={"reply_markup": menu_btn_json()})
+        print(f"  News report -> BOT3: {'OK' if sent else 'FAIL'} ({len(text)} chars)")
+    elif CONFIG["bot1_token"] and CONFIG["bot1_chat"]:
+        sent = send_telegram(CONFIG["bot1_token"], CONFIG["bot1_chat"], text,
+                             extra={"reply_markup": menu_btn_json()})
+        print(f"  News report -> BOT1: {'OK' if sent else 'FAIL'} ({len(text)} chars)")
+    state["last_news_report"] = time.time()
     save_state()
 
 
@@ -2516,6 +2731,7 @@ def main():
     print(f"Mode: {'Once (GitHub Actions)' if once else 'Continuous (VPS)'}")
     print(f"Analysis interval: {CONFIG['analysis_interval']}s")
     print(f"News interval: {CONFIG['news_interval']}s")
+    print(f"News report every: {CONFIG['news_report_interval']}s")
     print(f"Symbols: {len(CONFIG['symbols'])}")
     print("=" * 50)
 
@@ -2540,6 +2756,17 @@ def main():
         else:
             print(f"Skip news: last run {int(age_news)}s ago (< {CONFIG['news_interval']}s)")
 
+        # 3-hourly news statistics report (window 3h → 7 days) via BOT3
+        age_nrpt = now - float(state.get("last_news_report", 0) or 0)
+        if age_nrpt >= CONFIG["news_report_interval"]:
+            try:
+                run_news_report()
+            except Exception as e:
+                print(f"News report error: {e}")
+        else:
+            print(f"Skip news report: last run {int(age_nrpt)}s ago "
+                  f"(< {CONFIG['news_report_interval']}s)")
+
         # BOT4: chart + detailed plan for watched symbols
         age_bot4 = now - float(state.get("last_bot4", 0) or 0)
         if age_bot4 >= CONFIG["bot4_interval"]:
@@ -2560,10 +2787,10 @@ def main():
         else:
             print(f"Skip signals: last run {int(age_sig)}s ago (< {CONFIG['analysis_interval']}s)")
 
-        # Menu poll: answer /menu + inline taps until close to the 240s
-        # workflow timeout (analysis+news+bot4 typically eat the first ~60-90s)
+        # Menu poll: answer /menu + inline taps until close to the 300s
+        # workflow timeout (analysis+news+bot4 typically eat the first ~90s)
         if not no_poll:
-            deadline = min(start_ts + CONFIG["menu_poll_sec"], start_ts + 225)
+            deadline = min(start_ts + CONFIG["menu_poll_sec"], start_ts + 285)
             try:
                 poll_menu(deadline)
             except Exception as e:
@@ -2595,6 +2822,12 @@ def main():
                 run_news()
             except Exception as e:
                 print(f"News error: {e}")
+
+        if now - float(state.get("last_news_report", 0) or 0) >= CONFIG["news_report_interval"]:
+            try:
+                run_news_report()
+            except Exception as e:
+                print(f"News report error: {e}")
 
         if now - float(state.get("last_bot4", 0) or 0) >= CONFIG["bot4_interval"]:
             try:
