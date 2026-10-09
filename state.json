@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791571006.0147445,
-  "last_bot4": 1791574941.2215269,
+  "last_bot4": 1791575675.8551838,
   "watch_symbols": [
     "Gold"
   ],
@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791575257.039277,
+  "last_signals": 1791575675.8558877,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -33,7 +33,7 @@
     "Ethereum:range_in": 1791571660.5084727,
     "EUR/USD:range_in": 1791572237.0298808,
     "DXY:range_in": 1791572237.0298808,
-    "GBP/USD:range_in": 1791573767.3216438
+    "GBP/USD:range_in": 1791575675.8558877
   },
   "sig_range": {
     "Gold": false,
@@ -41,10 +41,10 @@
     "Bitcoin": true,
     "Ethereum": false,
     "US30": false,
-    "GBP/USD": false,
+    "GBP/USD": true,
     "EUR/USD": false,
     "USD/JPY": false,
-    "DXY": true,
+    "DXY": false,
     "JPY Index": false,
     "US 10Y": true
   },
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791575248.8415043,
-  "last_news": 1791575257.0385265,
+  "last_analysis": 1791575666.0727427,
+  "last_news": 1791575675.85432,
   "seen_news": [
-    "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as",
-    "L\u00fd do b\u00e0 Nh\u01b0 Loan \u0111\u01b0\u1ee3c chuy\u1ec3n t\u1eeb \u00e1n treo sang c\u1ea3i t\u1ea1o kh\u00f4ng giam gi\u1eef",
-    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank - VietstockFinance",
-    "Gerresheimer AG (GXI) Discloses Major Voting Rights Notification - TradingView",
-    "Tokenization could unleash tens of billions of dollars in trapped capital, Nasda",
-    "AI chip boom pushes Samsung profits to record $80bn",
     "USDCAD jumps on weak Canada jobs report, but fails to hold above key resistance",
     "Gia \u0111\u00ecnh 3 ng\u01b0\u1eddi gi\u1edbi h\u1ea1n ti\u1ec1n sinh ho\u1ea1t \u1edf m\u1ee9c 10 tri\u1ec7u/th\u00e1ng: H\u1ecd chia ng\u00e2n s\u00e1ch",
     "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
@@ -375,6 +369,12 @@
     "BTC/USD: Bitcoin Slips Below $83,000 as ETF Demand Weakens - TradingView",
     "Junk bonds are 'flashing yellow.' Watch these warning signs",
     "Trump announces deal with Putin to release Russian diesel",
-    "Farm equipment stocks fall on regulatory probe and falling crop prices"
+    "Farm equipment stocks fall on regulatory probe and falling crop prices",
+    "Norwegian Krone: Rate hike risks support currency \u2013 BBH",
+    "Canada September employment change -68.3K vs +9.2K expected",
+    "TOS-1 n\u00e3 tr\u00fang \u0111i\u1ec3m t\u1eadp k\u1ebft qu\u00e2n Ukraine, s\u00f3ng xung k\u00edch lan r\u1ed9ng - Chi\u1ebfn thu\u1eadt ",
+    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
+    "Gigasun AB (publ) (GIGA) OKs Bond Set-Off Share Issue - TradingView",
+    "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after g"
   ]
 }
