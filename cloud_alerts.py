@@ -111,6 +111,10 @@ state = {
     "sym_report_ts": {},          # per-symbol last chart+plan send (unix ts)
     "bot_chats": {},              # chat ids discovered via /start per bot key
     "tg_offsets": {},             # getUpdates offsets per bot key
+    # Signal engine (BOT2 cảnh báo)
+    "last_signals": 0,
+    "signal_ts": {},              # per (symbol:pattern) last alert (unix ts)
+    "sig_range": {},              # per-symbol last in/out-of-range state
 }
 
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
@@ -558,16 +562,107 @@ def analyze_symbol(name: str, tv_symbol: str, data: dict):
     return format_analysis(d) if d else None
 
 
-def build_detailed_plan(name: str, tv_symbol: str, data: dict):
-    """BOT4: comprehensive trading plan (dict + formatted text).
+def resample_bars(data: dict, factor: int) -> dict:
+    """Group consecutive bars factor-by-factor from the END (e.g. 4H from 1H).
 
-    Returns (details_dict, plan_text) or (None, None).
+    Chronological order kept; leftover older bars are dropped. Timestamps are
+    not required by compute_analysis, so sequential grouping is enough.
+    """
+    n = len(data["close"])
+    if factor <= 1 or n < factor * 2:
+        return data
+    vol = data.get("volume") or [0] * n
+    out = {"open": [], "high": [], "low": [], "close": [], "volume": []}
+    idx = n
+    groups = []
+    while idx >= factor:
+        groups.append((idx - factor, idx))
+        idx -= factor
+    for a, b in reversed(groups):
+        out["open"].append(data["open"][a])
+        out["high"].append(max(data["high"][a:b]))
+        out["low"].append(min(data["low"][a:b]))
+        out["close"].append(data["close"][b - 1])
+        out["volume"].append(sum(vol[a:b]))
+    return out
+
+
+def build_detailed_plan(name: str, tv_symbol: str, data: dict,
+                        data4h: dict = None, data1d: dict = None):
+    """BOT4: comprehensive MTF trading plan (dict + formatted text).
+
+    data = 1H series (chart source); data4h/data1d = higher timeframes when
+    available. Returns (details_dict, plan_text) or (None, None).
+
+    The plan always contains actionable ENTRY ZONES (buy zone / sell-TP zone)
+    plus where the current price sits relative to them — never a bare
+    "stand aside" with price floating outside every level.
     """
     d = compute_analysis(name, tv_symbol, data)
     if not d:
         return None, None
     fmt = d["fmt_p"]
     bars = len(data["close"])
+    atr = d["atr"] if d["atr"] > 0 else d["price"] * 0.005
+    price = d["price"]
+
+    # ── Entry zones from structure (pivots + 20-bar range) ────────────────
+    hh, ll = d["recent_high"], d["recent_low"]
+    # Buy zone: anchored on S1 (pullback support), always below current price
+    if d["s1"] < price:
+        buy_hi = d["s1"]
+    else:
+        buy_hi = min(ll, price - 0.3 * atr)
+    buy_lo = buy_hi - 1.5 * atr
+    # Sell/TP zone: anchored on R1, always above current price
+    if d["r1"] > price:
+        sell_lo = d["r1"]
+    else:
+        sell_lo = max(hh, price + 0.3 * atr)
+    sell_hi = sell_lo + 1.5 * atr
+    d["buy_zone"] = (buy_lo, buy_hi)
+    d["sell_zone"] = (sell_lo, sell_hi)
+
+    if buy_lo <= price <= buy_hi:
+        st_buy = "🟢 GIÁ ĐANG TRONG VÙNG MUA"
+    elif price > buy_hi:
+        st_buy = (f"⏳ NGOÀI VÙNG (trên) {fmt(price - buy_hi)} "
+                  f"({(price - buy_hi) / atr:.1f} ATR) → CHỜ retest, không chase")
+    else:
+        st_buy = "🔴 GIÁ DƯỚI VÙNG — hỗ trợ có thể đã vỡ, đợi cấu trúc lại"
+    if sell_lo <= price <= sell_hi:
+        st_sell = "🟢 GIÁ ĐANG TRONG VÙNG CHỐT/SHORT"
+    elif price < sell_lo:
+        st_sell = (f"⏳ NGOÀI VÙNG (dưới) {fmt(sell_lo - price)} "
+                   f"({(sell_lo - price) / atr:.1f} ATR) → còn dư địa tăng")
+    else:
+        st_sell = "🔴 GIÁ ĐÃ VƯỢT VÙNG — chốt lời từng phần"
+
+    entry_mid = (buy_lo + buy_hi) / 2
+    sl = buy_lo - 0.75 * atr
+    tp1 = sell_lo
+    tp2 = sell_hi
+    risk = abs(entry_mid - sl) or atr
+    rr1 = abs(tp1 - entry_mid) / risk if risk else 0
+
+    # ── Higher timeframe summaries ────────────────────────────────────────
+    def _tf_line(label, series, factor=1):
+        s = series
+        if factor > 1 and s:
+            s = resample_bars(s, factor)
+        if not s or len(s.get("close", [])) < 30:
+            return f"  {label}: — (chưa đủ dữ liệu)"
+        td = compute_analysis(name, tv_symbol, s)
+        if not td:
+            return f"  {label}: —"
+        return (f"  {label}: {td['trend']} | "
+                f"R `{fmt(td['r1'])}` · S `{fmt(td['s1'])}`")
+
+    tf_lines = [
+        _tf_line("🗓 D1", data1d),
+        _tf_line("🕓 H4", data, 4),
+        _tf_line("🕐 H1", data),
+    ]
 
     # RSI zone wording for the momentum block
     rsi = d["rsi"]
@@ -587,61 +682,57 @@ def build_detailed_plan(name: str, tv_symbol: str, data: dict):
     # Scenarios depend on the active trend
     if d["trend_dir"] == "LONG":
         scenario = (
-            f"• *Tiếp diễn:* giữ trên `{fmt(d['s1'])}` → hướng R1 `{fmt(d['r1'])}`, xa hơn R2 `{fmt(d['r2'])}`\n"
-            f"• *Phá kháng cự:* đóng nến 1H trên `{fmt(d['r1'])}` → momentum tăng, target R2\n"
-            f"• *Hủy setup:* mất `{fmt(d['s1'])}` (đặc biệt `{fmt(d['s2'])}`) → chuyển trung tính, đứng ngoài"
+            f"• *Tiếp diễn:* giữ trên `{fmt(d['s1'])}` → hướng vùng chốt `{fmt(sell_lo)}`\n"
+            f"• *Phá kháng cự:* đóng nến 1H trên `{fmt(sell_hi)}` → momentum, TP2 `{fmt(sell_hi + atr)}`\n"
+            f"• *Hủy setup:* đóng 1H dưới `{fmt(buy_lo)}` → stop, chờ cấu trúc mới"
         )
     elif d["trend_dir"] == "SHORT":
         scenario = (
-            f"• *Tiếp diễn:* giữ dưới `{fmt(d['r1'])}` → hướng S1 `{fmt(d['s1'])}`, xa hơn S2 `{fmt(d['s2'])}`\n"
-            f"• *Phá hỗ trợ:* đóng nến 1H dưới `{fmt(d['s1'])}` → momentum giảm, target S2\n"
-            f"• *Hủy setup:* vượt `{fmt(d['r1'])}` (đặc biệt `{fmt(d['r2'])}`) → chuyển trung tính, đứng ngoài"
+            f"• *Tiếp diễn:* giữ dưới `{fmt(d['r1'])}` → hướng vùng mua `{fmt(buy_hi)}`\n"
+            f"• *Hạ tiếp:* đóng 1H dưới `{fmt(buy_lo)}` → momentum xuống\n"
+            f"• *Hủy setup:* vượt `{fmt(sell_hi)}` → đảo chiều, cắt lỗ"
         )
     else:
         scenario = (
-            f"• *Biên:* dao động `{fmt(d['s1'])}` – `{fmt(d['r1'])}`, chưa có lệnh\n"
-            f"• *Mua.breakout:* đóng nến 1H trên `{fmt(d['r1'])}` → target `{fmt(d['r2'])}`\n"
-            f"• *Bán.breakdown:* đóng nến 1H dưới `{fmt(d['s1'])}` → target `{fmt(d['s2'])}`"
+            f"• *Biên:* dao động `{fmt(ll)}` – `{fmt(hh)}` — MUA dưới `{fmt(buy_hi)}`, "
+            f"BÁN trên `{fmt(sell_lo)}`\n"
+            f"• *Phá lên:* đóng 1H trên `{fmt(sell_hi)}` → target `{fmt(sell_hi + atr)}`\n"
+            f"• *Phá xuống:* đóng 1H dưới `{fmt(buy_lo)}` → dừng mua"
         )
 
     now = datetime.now(timezone.utc).strftime("%H:%M %d/%m/%Y")
     lines = [
-        f"📋 *PLAN GIAO DỊCH CHI TIẾT*",
-        f"*{name}* ({d['tv_symbol']}) · Khung 1H · {bars} nến",
-        f"⏰ {now} UTC",
+        f"📋 *PLAN MTF · KẾ HOẠCH VÀO LỆNH*",
+        f"*{name}* ({d['tv_symbol']}) · {bars} nến 1H · {now} UTC",
         f"━━━━━━━━━━━━━━━━━━",
-        f"💰 Giá: `{fmt(d['price'])}` {d['icon']} {d['chg']:+.2f}%",
-        f"🧭 Xu hướng: {d['trend']} | Điểm tín hiệu: `{d['score']}/100` {d['signal_strength']}",
+        f"💰 Giá: `{fmt(price)}` {d['icon']} {d['chg']:+.2f}%",
+        f"",
+        f"🧭 *KHUNG LỚN (MTF)*",
+        *tf_lines,
+        f"  • Xu hướng 1H: {d['trend']} | Điểm tín hiệu: `{d['score']}/100` {d['signal_strength']}",
+        f"",
+        f"🎯 *VÙNG VÀO LỆNH*",
+        f"  ▶ *MUA (retest):* `{fmt(buy_lo)}` – `{fmt(buy_hi)}`  (1.5×ATR)",
+        f"    {st_buy}",
+        f"    SL (hủy): `{fmt(sl)}` · TP1 `{fmt(tp1)}` · TP2 `{fmt(tp2)}` · RR `1:{rr1:.1f}`",
+        f"  ▶ *CHỐT LỢI NHUẬN / SHORT:* `{fmt(sell_lo)}` – `{fmt(sell_hi)}`",
+        f"    {st_sell}",
         f"",
         f"📊 *ĐỘNG LƯỢNG*",
         f"  • RSI(14): `{rsi:.1f}` — {rsi_zone}" if rsi else "  • RSI(14): N/A",
-        f"  • MACD: {d['macd_sig']} (hist `{d['macd_hist']:+.4f}`)",
-        f"  • ADX: `{d['adx_val']:.0f}` ({d['adx_sig']}) | DI+: `{d['plus_di']:.0f}` | DI-: `{d['minus_di']:.0f}`",
-        f"  • Tâm lý: {d['psyc']}",
-        f"",
-        f"📐 *VÙNG GIÁ (pivot 20 nến)*",
-        f"  • R2 `{fmt(d['r2'])}` — R1 `{fmt(d['r1'])}` — pivot `{fmt(d['pivot'])}`",
-        f"  • S1 `{fmt(d['s1'])}` — S2 `{fmt(d['s2'])}` | ATR `{fmt(d['atr'])}`",
-        f"",
-        f"🎯 *KẾ HOẠCH VÀO LỆNH*",
-        f"  • Hướng: {d['action']}",
-        f"  • Entry: `{fmt(d['entry'])}` ({d['reason']})",
-        f"  • Stop Loss: `{fmt(d['sl'])}` (1.5×ATR)",
-        f"  • Take Profit 1: `{fmt(d['tp1'])}`",
-        f"  • Take Profit 2: `{fmt(d['tp2'])}`",
-        f"  • Risk/Reward: `1:{d['rr1']:.1f}`",
+        f"  • MACD: {d['macd_sig']} | ADX `{d['adx_val']:.0f}` {d['adx_sig']} | ATR `{fmt(atr)}`",
+        f"  • Tâm lý: {d['psyc']} | Pivot `{fmt(d['pivot'])}` · S2 `{fmt(d['s2'])}` · R2 `{fmt(d['r2'])}`",
         f"",
         f"🧩 *KỊCH BẢN*",
         scenario,
         f"",
         f"✅ *CHECKLIST*",
-        f"  1. Chờ giá chạm vùng entry, không FOMO đuổi giá",
-        f"  2. RSI chưa ở vùng cực trị ({rsi_zone})",
-        f"  3. Cắt lỗ đúng SL tại `{fmt(d['sl'])}`, không kéo SL",
+        f"  1. Chờ giá chạm vùng, không FOMO đuổi giá",
+        f"  2. RSI: {rsi_zone}",
+        f"  3. Cắt lỗ đúng SL `{fmt(sl)}`, không kéo SL",
         f"  4. Rủi ro tối đa 1–2% vốn/lệnh",
-        f"  5. Hủy lệnh nếu kịch bản Hủy setup kích hoạt",
         f"",
-        f"⚠️ Phân tích tự động 1H — không phải tư vấn đầu tư.",
+        f"⚠️ Phân tích tự động (D1/H4/H1) — không phải tư vấn đầu tư.",
     ]
     return d, "\n".join(lines)
 
@@ -948,6 +1039,23 @@ def render_chart_png(name: str, tv_symbol: str, data: dict, details: dict = None
                     ax.text(0.5, lv, f" {lab} ", color=col, fontsize=8,
                             va="center", ha="left",
                             transform=ax.get_yaxis_transform())
+            # Entry zones (buy / sell-TP) as shaded bands
+            for zkey, zcol, zlab in (("buy_zone", "#26a69a", "VÙNG MUA"),
+                                     ("sell_zone", "#ef5350", "VÙNG BÁN/TP")):
+                z = details.get(zkey)
+                if not z:
+                    continue
+                zlo, zhi = z
+                if not (w_lo * 0.95 < (zlo + zhi) / 2 < w_hi * 1.05):
+                    continue
+                zlo = max(zlo, w_lo * 0.995)
+                zhi = min(zhi, w_hi * 1.005)
+                if zhi <= zlo:
+                    continue
+                ax.axhspan(zlo, zhi, color=zcol, alpha=0.13, zorder=1)
+                ax.text(0.99, (zlo + zhi) / 2, f" {zlab} ",
+                        color=zcol, fontsize=7.5, va="center", ha="right",
+                        transform=ax.get_yaxis_transform())
 
         price = c[-1]
         chg = ((c[-1] - c[0]) / c[0] * 100) if c[0] else 0
@@ -1043,16 +1151,22 @@ def send_symbol_report(token: str, chat, entry, force: bool = False) -> bool:
             print(f"  Report skip {name}: sent {int(now - last)}s ago (< 900s)")
             return False
 
+    # 1H series: prefer Yahoo 2mo (supports H1 analysis + 4H resample from a
+    # single fetch); CoinGecko 7d is a fallback when Yahoo is unavailable.
     data = None
-    if cg:
+    if yahoo:
+        data = fetch_yahoo_chart(yahoo, "1h", "2mo")
+    if not data and cg:
         data = fetch_coingecko_ohlc(cg, "usd", 7)
-    if not data and yahoo:
-        data = fetch_yahoo_chart(yahoo, "1h", "5d")
     if not data:
         print(f"  Report: no data for {name}")
         return False
+    # Daily series for the D1 line of the MTF plan
+    data1d = None
+    if yahoo:
+        data1d = fetch_yahoo_chart(yahoo, "1d", "6mo")
 
-    d, plan = build_detailed_plan(name, tv, data)
+    d, plan = build_detailed_plan(name, tv, data, data1d=data1d)
     if not plan or not d:
         print(f"  Report: analysis failed for {name}")
         return False
@@ -1060,7 +1174,8 @@ def send_symbol_report(token: str, chat, entry, force: bool = False) -> bool:
     chart = render_chart_png(name, tv, data, d)
     photo_ok = False
     if chart:
-        caption = f"{name} · 1H · {d['price']:,.2f} {d['icon']} {d['chg']:+.2f}%"
+        caption = (f"{name} · 1H · {d['price']:,.2f} {d['icon']} {d['chg']:+.2f}% "
+                   f"· vùng mua {d['buy_zone'][0]:,.2f}–{d['buy_zone'][1]:,.2f}")
         photo_ok = send_telegram_photo(token, chat, chart, caption,
                                        extra={"reply_markup": menu_btn_json()})
     text_ok = send_telegram(token, chat, plan,
@@ -2037,6 +2152,75 @@ def dashboard_price_strip() -> str:
         return None
 
 
+# News categories for the digest ("sơ đồ tư duy"): first match wins.
+NEWS_CATS = [
+    ("🇺🇸 Fed · Lãi suất · Kinh tế",
+     ["FED", "FOMC", "ECB", "BOJ", "BOE", "POWELL", "CPI", "PPI", "NFP", "JOBS",
+      "UNEMPLOYMENT", "RATE", "RATES", "INFLATION", "GDP", "PCE", "RECESSION",
+      "ECONOMY", "ECONOMIC", "GROWTH", "DEBT", "STIMULUS"]),
+    ("🌍 Địa chính trị · Chính sách",
+     ["TARIFF", "TRADE", "SANCTION", "WAR", "GEOPOLIT", "CHINA", "CHINESE",
+      "RUSSIA", "UKRAINE", "ISRAEL", "IRAN", "TAIWAN", "BRICS"]),
+    ("🛢️ Dầu · Năng lượng · Hàng hóa",
+     ["OIL", "WTI", "BRENT", "ENERGY", "GAS", "GOLD", "XAU", "SILVER",
+      "COMMODITY", "OPEC", "COPPER"]),
+    ("💰 Crypto",
+     ["BTC", "BITCOIN", "ETH", "ETHEREUM", "CRYPTO", "SOLANA", "XRP", "ETF"]),
+    ("📈 Chứng khoán · Cổ phiếu",
+     ["STOCK", "STOCKS", "NASDAQ", "S&P", "DOW", "RALLY", "CRASH",
+      "EARNINGS", "BANK", "FUTURES", "MARKET"]),
+    ("💵 Forex · Dollar · Trái phiếu",
+     ["USD", "DXY", "DOLLAR", "EURO", "POUND", "YEN", "JPY", "FOREX",
+      "CURRENCY", "YIELD", "TREASURY", "BOND"]),
+]
+
+
+def classify_news_item(item) -> str:
+    """Map one item to a digest category label (first keyword hit wins)."""
+    title = (item.get("title") or "").upper()
+    matched = " ".join(item.get("matched") or []).upper()
+    hay = title + " " + matched
+    for label, kws in NEWS_CATS:
+        for kw in kws:
+            if kw in hay:
+                return label
+    return "🌐 Khác"
+
+
+def build_news_digest(new_items) -> str:
+    """Quick market mind-map: grouped themes, hot items keep links, the rest
+    are one-line headlines — no wall of URLs."""
+    groups = {}
+    for it in new_items:
+        groups.setdefault(classify_news_item(it), []).append(it)
+
+    now = datetime.now(timezone.utc).strftime("%H:%M %d/%m/%Y")
+    lines = [f"📰 SƠ ĐỒ TIN THỊ TRƯỜNG · {now} UTC", "━" * 26]
+
+    for label in list(groups):
+        items = groups[label]
+        lines.append(f"\n{label} ({len(items)}):")
+        for it in items:
+            title = (it.get("title_vi") or it.get("title") or "")[:130]
+            lines.append(f"  • {title}")
+
+    # Hot = first 2 items overall; only these keep a link.
+    hot = [it for it in new_items if it.get("url")][:2]
+    if hot:
+        lines.append("\n🔥 NỔI BẬT (bấm để đọc):")
+        for i, it in enumerate(hot, 1):
+            title = (it.get("title_vi") or it.get("title") or "")[:110]
+            lines.append(f"  {i}. {title}")
+            lines.append(f"     {it['url']}")
+
+    price_line = dashboard_price_strip()
+    if price_line:
+        lines.append("")
+        lines.append(price_line)
+
+    return "\n".join(lines)
+
+
 def news_pipeline(mark_seen: bool = True):
     """Fetch, dedupe, translate and build the news message.
 
@@ -2091,31 +2275,7 @@ def news_pipeline(mark_seen: bool = True):
         vi = gtranslate_vi(item["title"])
         item["title_vi"] = vi if vi else translate_to_vietnamese(item["title"])
 
-    lines = [
-        "📰 TIN TỨC THỊ TRƯỜNG",
-        "━" * 28,
-        "",
-    ]
-
-    price_line = dashboard_price_strip()
-    if price_line:
-        lines.append(price_line)
-        lines.append("")
-
-    for i, item in enumerate(new_items, 1):
-        keywords_str = ", ".join(item["matched"][:3])
-        # Use Vietnamese title if available, otherwise original
-        title = item.get("title_vi", item["title"])[:150]
-        lines.append(f"{i}. {title}")
-        lines.append(f"   🏷️ {keywords_str} | 📡 {item['source']}")
-        if item.get("url"):
-            # Bare URL: Telegram auto-linkifies plain text, so the link stays
-            # clickable even when parse_mode Markdown fails and is dropped.
-            lines.append(f"   🔗 {item['url']}")
-        lines.append("")
-
-    lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M:%S %d/%m/%Y')} UTC")
-    return "\n".join(lines), new_items
+    return build_news_digest(new_items), new_items
 
 
 def run_news():
@@ -2144,6 +2304,204 @@ def run_news():
 
     state["last_news"] = time.time()
     save_state()
+
+
+# ─── SIGNAL ENGINE (BOT2: breakout / trap / test đỉnh-đáy / sideways) ─────────
+
+SIGNAL_COOLDOWN = 1800        # per (symbol, pattern) — 30 min
+SIGNAL_TOUCH_WINDOW = 21600   # double-top/bottom retest window — 6 h
+
+
+def detect_signals(name: str, data: dict) -> list:
+    """Detect chart patterns on a series. Returns list of dicts:
+    {key, icon, label, detail}. Pure stateless detection except the
+    range-transition memory (state['sig_range']) and touch timestamps."""
+    out = []
+    if not data or len(data.get("close", [])) < 30:
+        return out
+    c, h, l = data["close"], data["high"], data["low"]
+    n = len(c)
+    price = c[-1]
+
+    # ATR(14)
+    trs = [max(h[i] - l[i], abs(h[i] - c[i - 1]), abs(l[i] - c[i - 1]))
+           for i in range(max(1, n - 14), n)]
+    atr = sum(trs) / len(trs) if trs else 0
+    if atr <= 0:
+        return out
+
+    def f(p):
+        return f"{p:,.4f}" if p < 100 else f"{p:,.2f}"
+
+    # Range = 20 bars BEFORE the current bar
+    hh, ll = max(h[-21:-1]), min(l[-21:-1])
+    rng = hh - ll
+    if rng <= 0:
+        return out
+    hh2, ll2 = max(h[-21:-2]), min(l[-21:-2])   # excludes last 2 bars
+    in_range = (hh - price) > 0.25 * rng and (price - ll) > 0.25 * rng
+    was_in = state.get("sig_range", {}).get(name)
+
+    def add(key, icon, label, detail):
+        out.append({"key": key, "icon": icon, "label": label, "detail": detail})
+
+    brk_up = price > hh + 0.3 * atr
+    brk_dn = price < ll - 0.3 * atr
+
+    if brk_up:
+        detail = (f"đóng {f(price)} > đỉnh 20 nến {f(hh)} "
+                  f"(+{(price - hh) / atr:.1f} ATR)")
+        if was_in:
+            detail += " · phá SIDEWAYS"
+        add("up", "🔺", "BREAKOUT LÊN — THOÁT VÙNG", detail)
+    elif brk_dn:
+        detail = (f"đóng {f(price)} < đáy 20 nến {f(ll)} "
+                  f"(-{(ll - price) / atr:.1f} ATR)")
+        if was_in:
+            detail += " · phá SIDEWAYS"
+        add("dn", "🔻", "BREAKOUT XUỐNG — THOÁT VÙNG", detail)
+    elif c[-2] > hh2 + 0.3 * atr and price <= hh:
+        add("trap_up", "🪤", "BULL TRAP (phá giả lên)",
+            f"nến trước đóng {f(c[-2])} vượt {f(hh2)} nhưng nay quay vào "
+            f"{f(price)} — mua đỉnh giả")
+    elif c[-2] < ll2 - 0.3 * atr and price >= ll:
+        add("trap_dn", "🪤", "BEAR TRAP (phá giả xuống)",
+            f"nến trước đóng {f(c[-2])} dưới {f(ll2)} nhưng nay bật lại "
+            f"{f(price)} — bán đáy giả")
+    else:
+        # Test of the range high/low (rejected touch)
+        if h[-1] >= hh - 0.15 * atr and price < hh - 0.25 * atr:
+            touch = state.setdefault("sig_touch", {})
+            prev = float(touch.get(f"{name}:top", 0) or 0)
+            if prev and now_ts() - prev < SIGNAL_TOUCH_WINDOW:
+                add("dtop", "🏔️", "TEST ĐỈNH LẦN 2 — nguy cơ DOUBLE TOP",
+                    f"chạm {f(hh)} lần 2 trong 6h, đóng lại {f(price)}")
+            else:
+                add("ttop", "⛰️", "TEST ĐỈNH bị từ chối",
+                    f"râu chạm {f(hh)} nhưng đóng {f(price)} — phe mua chưa phá được")
+            touch[f"{name}:top"] = now_ts()
+        elif l[-1] <= ll + 0.15 * atr and price > ll + 0.25 * atr:
+            touch = state.setdefault("sig_touch", {})
+            prev = float(touch.get(f"{name}:bot", 0) or 0)
+            if prev and now_ts() - prev < SIGNAL_TOUCH_WINDOW:
+                add("dbot", "🏔️", "TEST ĐÁY LẦN 2 — nguy cơ DOUBLE BOTTOM",
+                    f"chạm {f(ll)} lần 2 trong 6h, đóng lại {f(price)}")
+            else:
+                add("tbot", "⛏️", "TEST ĐÁY được giữ",
+                    f"râu chạm {f(ll)} nhưng đóng {f(price)} — phe bán chưa phá được")
+            touch[f"{name}:bot"] = now_ts()
+        elif was_in is False and in_range:
+            add("range_in", "📏", "VÀO VÙNG SIDEWAYS",
+                f"giá bị gói trong {f(ll)} – {f(hh)} ({rng / atr:.1f} ATR) — "
+                f"chờ phá, trade biên trên/dưới")
+
+    # Momentum bursts ("going to the moon" / crash sprint)
+    if len(c) >= 7:
+        ups = all(c[i] > c[i - 1] for i in range(n - 4, n))
+        dns = all(c[i] < c[i - 1] for i in range(n - 4, n))
+        move = c[-1] - c[-6]
+        if ups and move > 3 * atr:
+            add("momo_up", "🚀", "MOMENTUM MẠNH — 5 nến xanh liên tiếp",
+                f"+{f(move)} trong 5 nến ({move / atr:.1f} ATR) — "
+                f"đừng FOMO đuổi, chờ retest")
+        elif dns and move < -3 * atr:
+            add("momo_dn", "☄️", "MOMENTUM GIẢM MẠNH — 5 nến đỏ liên tiếp",
+                f"{f(move)} trong 5 nến ({abs(move) / atr:.1f} ATR) — "
+                f"cẩn thận bắt đáy rơi")
+
+    # Range-transition memory for the next scan
+    state.setdefault("sig_range", {})[name] = bool(in_range and not (brk_up or brk_dn))
+    return out[:3]
+
+
+def now_ts() -> float:
+    return time.time()
+
+
+def signal_chats():
+    """Chat ids BOT2 alerts go to: BOT2_CHAT env + /start discovery."""
+    chats = []
+    if CONFIG["bot2_chat"]:
+        chats.append(str(CONFIG["bot2_chat"]))
+    chats += [str(c) for c in (state.get("bot_chats") or {}).get("bot2", [])]
+    out, seen = [], set()
+    for c in chats:
+        if c and c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
+
+
+def run_signals():
+    """Periodic scan: pattern alerts (breakout/trap/test/sideways) via BOT2."""
+    print(f"[{datetime.now(timezone.utc).isoformat()}] Running signal scan...")
+    token = CONFIG["bot2_token"]
+    if not token:
+        print("  BOT2_TOKEN not configured - skip")
+        return
+    now = time.time()
+    chats = signal_chats()
+    if not chats:
+        print("  Signals: no chat yet - send /start to BOT2 first")
+        state["last_signals"] = now
+        save_state()
+        return
+
+    # Watched symbols first, then priority symbols; cap = 12 fetches per scan.
+    targets = []
+    for n in list(state.get("watch_symbols") or []) + [e[0] for e in CONFIG["symbols"]]:
+        if n not in targets and find_menu_entry(n):
+            targets.append(n)
+        if len(targets) >= 12:
+            break
+
+    alerts = []
+    for name in targets:
+        e = find_menu_entry(name)
+        if not e:
+            continue
+        _, cg, yahoo, tv = e
+        data = fetch_yahoo_chart(yahoo, "1h", "5d") if yahoo else None
+        if not data and cg:
+            data = fetch_coingecko_ohlc(cg, "usd", 7)
+        if not data:
+            continue
+        for sig in detect_signals(name, data):
+            ck = f"{name}:{sig['key']}"
+            sigts = state.setdefault("signal_ts", {})
+            last = float(sigts.get(ck, 0) or 0)
+            if now - last < SIGNAL_COOLDOWN:
+                continue
+            sigts[ck] = now
+            alerts.append((name, sig))
+            if len(alerts) >= 8:
+                break
+        if len(alerts) >= 8:
+            break
+
+    # Prune old cooldown keys (keep state.json small)
+    state["signal_ts"] = {k: v for k, v in state.get("signal_ts", {}).items()
+                          if now - v < 7 * 86400}
+    state["last_signals"] = now
+    save_state()
+
+    if not alerts:
+        print("  Signals: no new signals")
+        return
+
+    lines = ["⚡ CẢNH BÁO THỊ TRƯỜNG", "━" * 26]
+    for name, sig in alerts:
+        lines.append(f"{sig['icon']} *{name}* · {sig['label']}")
+        lines.append(f"   {sig['detail']}")
+    lines.append("")
+    lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
+                 f"cooldown 30 phút/mẫu")
+    text = "\n".join(lines)
+    sent = 0
+    for chat in chats:
+        if send_telegram(token, chat, text, extra={"reply_markup": menu_btn_json()}):
+            sent += 1
+    print(f"  Signals: {len(alerts)} alert(s) -> {sent}/{len(chats)} chat(s)")
 
 
 def main():
@@ -2192,6 +2550,16 @@ def main():
         else:
             print(f"Skip bot4: last run {int(age_bot4)}s ago (< {CONFIG['bot4_interval']}s)")
 
+        # Signal engine: breakout / trap / test / sideways alerts (BOT2)
+        age_sig = now - float(state.get("last_signals", 0) or 0)
+        if age_sig >= CONFIG["analysis_interval"]:
+            try:
+                run_signals()
+            except Exception as e:
+                print(f"Signals error: {e}")
+        else:
+            print(f"Skip signals: last run {int(age_sig)}s ago (< {CONFIG['analysis_interval']}s)")
+
         # Menu poll: answer /menu + inline taps until close to the 240s
         # workflow timeout (analysis+news+bot4 typically eat the first ~60-90s)
         if not no_poll:
@@ -2233,6 +2601,12 @@ def main():
                 run_bot4()
             except Exception as e:
                 print(f"Bot4 error: {e}")
+
+        if now - float(state.get("last_signals", 0) or 0) >= CONFIG["analysis_interval"]:
+            try:
+                run_signals()
+            except Exception as e:
+                print(f"Signals error: {e}")
 
         # Serve menu taps briefly each loop iteration
         try:
