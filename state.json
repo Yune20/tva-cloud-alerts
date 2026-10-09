@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791571006.0147445,
-  "last_bot4": 1791576447.4529824,
+  "last_bot4": 1791577249.459454,
   "watch_symbols": [
     "Gold"
   ],
@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791576755.1876094,
+  "last_signals": 1791577249.460063,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -31,7 +31,7 @@
     "USD/JPY:range_in": 1791574657.1380563,
     "JPY Index:range_in": 1791574657.1380563,
     "Ethereum:range_in": 1791571660.5084727,
-    "EUR/USD:range_in": 1791572237.0298808,
+    "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791575675.8558877
   },
@@ -42,7 +42,7 @@
     "Ethereum": false,
     "US30": false,
     "GBP/USD": false,
-    "EUR/USD": false,
+    "EUR/USD": true,
     "USD/JPY": true,
     "DXY": true,
     "JPY Index": true,
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791576747.748488,
-  "last_news": 1791576755.186878,
+  "last_analysis": 1791577239.1858199,
+  "last_news": 1791577249.4585333,
   "seen_news": [
-    "Anthropic bans users from being 'cruel' to its AI systems",
-    "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027",
-    "EUR/USD outlook as euro stays pinned near multi month lows",
-    "Breaking: Canada Unemployment Rate rises to 6.5% in September as expected",
-    "How have interest rate expectations changed after this week's events?",
-    "V\u00ec sao nhi\u1ec1u \u0111\u1ee9a tr\u1ebb b\u1ecb \u0111\u00e1nh xong l\u1ea1i ngoan h\u1eb3n? Bi\u1ebft nguy\u00ean nh\u00e2n, c\u00f3 l\u1ebd cha m\u1eb9 ",
     "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refin",
     "Fired OpenAI researchers say they were let go for 'prioritising safety'",
     "Trump administration freezes green cards for Microsoft, IT firms, probes univers",
@@ -375,6 +369,12 @@
     "The used car market is stagnant. Here's how to profit anyway",
     "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
     "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
-    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank"
+    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank",
+    "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
+    "Burnham promises to curb non-compete rules in job contracts",
+    "Citi sees limited upside for EUR/JPY amid intervention expectations",
+    "Crude Oil drops on Trump's Russian diesel plan",
+    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
+    "24 tu\u1ed5i b\u1eaft \u0111\u1ea7u ti\u1ebft ki\u1ec7m, 28 tu\u1ed5i c\u00f3 h\u01a1n 3,5 t\u1ef7 \u0111\u1ed3ng: C\u1ee9 d\u01b0 350 tri\u1ec7u l\u00e0 g\u1eedi ng"
   ]
 }
