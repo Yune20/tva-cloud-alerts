@@ -21,7 +21,7 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791576161.5316718,
+  "last_signals": 1791576755.1876094,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -32,7 +32,7 @@
     "JPY Index:range_in": 1791574657.1380563,
     "Ethereum:range_in": 1791571660.5084727,
     "EUR/USD:range_in": 1791572237.0298808,
-    "DXY:range_in": 1791572237.0298808,
+    "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791575675.8558877
   },
   "sig_range": {
@@ -44,7 +44,7 @@
     "GBP/USD": false,
     "EUR/USD": false,
     "USD/JPY": true,
-    "DXY": false,
+    "DXY": true,
     "JPY Index": true,
     "US 10Y": true
   },
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791576150.992447,
-  "last_news": 1791576161.53057,
+  "last_analysis": 1791576747.748488,
+  "last_news": 1791576755.186878,
   "seen_news": [
-    "F88: CTCP \u0110\u1ea7u t\u01b0 F88 - F88., JSC - VietstockFinance",
-    "Ample Brazil Coffee Supplies Weigh on Prices - TradingView",
-    "Jim Cramer's top 10 things to watch in the stock market Friday",
-    "Burnham promises to curb non-compete rules in job contracts",
-    "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms",
-    "Citi sees limited upside for EUR/JPY amid intervention expectations",
     "Anthropic bans users from being 'cruel' to its AI systems",
     "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027",
     "EUR/USD outlook as euro stays pinned near multi month lows",
@@ -375,6 +369,12 @@
     "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
     "Nobel winner Krugman says France may have become 'too big to save'",
     "Fuel prices added to Google Maps as petrol and diesel costs soar",
-    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
+    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+    "Holding(s) in Company - TradingView",
+    "Here\u2019s how Treasury yields could rise to 6% \u2014 even without market upheaval",
+    "The used car market is stagnant. Here's how to profit anyway",
+    "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
+    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank"
   ]
 }
