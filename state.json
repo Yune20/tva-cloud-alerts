@@ -21,27 +21,29 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791571660.5084727,
+  "last_signals": 1791572237.0298808,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
-    "USOIL:range_in": 1791563549.9074335,
+    "USOIL:range_in": 1791572237.0298808,
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791565662.3908367,
     "USD/JPY:range_in": 1791571324.2201009,
     "JPY Index:range_in": 1791571324.2201009,
-    "Ethereum:range_in": 1791571660.5084727
+    "Ethereum:range_in": 1791571660.5084727,
+    "EUR/USD:range_in": 1791572237.0298808,
+    "DXY:range_in": 1791572237.0298808
   },
   "sig_range": {
     "Gold": false,
-    "USOIL": false,
+    "USOIL": true,
     "Bitcoin": true,
-    "Ethereum": true,
+    "Ethereum": false,
     "US30": false,
     "GBP/USD": false,
-    "EUR/USD": false,
+    "EUR/USD": true,
     "USD/JPY": true,
-    "DXY": false,
+    "DXY": true,
     "JPY Index": true,
     "US 10Y": true
   },
@@ -70,15 +72,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791571650.3784955,
-  "last_news": 1791571660.5077763,
+  "last_analysis": 1791572225.8096495,
+  "last_news": 1791572237.0292187,
   "seen_news": [
-    "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
-    "Premarket movers: Humana rallies; SpaceX deal sends telco stocks down",
-    "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
-    "Japan household spending falls for ninth straight month, but drop smaller than e",
-    "Vietlott 9/10/2026 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Mega 6/45 h\u00f4m nay 9/10/2026",
-    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
     "Oil: Iran tensions keep crude prices elevated - Rabobank",
     "US initial jobless claims for the week is modestly stronger at 197K vs 200K est.",
     "Nga \u0111\u1ed9t k\u00edch h\u01b0\u1edbng b\u1ea5t ng\u1edd, gi\u00e0nh khu v\u1ef1c l\u1edbn g\u1ea5p 10 l\u1ea7n Kiev \u2013 Chi\u1ebfn thu\u1eadt \u201cc\u1eaft",
@@ -372,6 +368,12 @@
     "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
     "vVardis files for US IPO showing net loss, revenue growth",
     "Japanese Yen underperforms against its peers into the weekend",
-    "This week we got a sneak-peak at the playbook for when the AI bubble bursts"
+    "This week we got a sneak-peak at the playbook for when the AI bubble bursts",
+    "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million",
+    "HIMS jumps 7% on peptide tailwind \u2014 but Citi sees 17% downside from here",
+    "Canadian Dollar: Labor data may trigger dovish repricing \u2013 BBH",
+    "S&P 500 jumps as oil, Treasury yields and US dollar ease after Trump's de-escala",
+    "Nh\u1eefng ng\u01b0\u1eddi kh\u00f4ng mua nh\u00e0 v\u00e0 c\u0169ng kh\u00f4ng thu\u00ea nh\u00e0",
+    "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance"
   ]
 }
