@@ -21,14 +21,14 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791568665.6480765,
+  "last_signals": 1791569255.9211214,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
     "USOIL:range_in": 1791563549.9074335,
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791565662.3908367,
-    "USD/JPY:range_in": 1791566264.2141833,
+    "USD/JPY:range_in": 1791569255.9211214,
     "JPY Index:range_in": 1791568196.716979,
     "Ethereum:range_in": 1791567168.9410875
   },
@@ -40,9 +40,9 @@
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": false,
-    "USD/JPY": false,
+    "USD/JPY": true,
     "DXY": false,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791569726,
@@ -70,15 +70,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791568653.182831,
-  "last_news": 1791568665.6473992,
+  "last_analysis": 1791569248.275498,
+  "last_news": 1791569255.9203167,
   "seen_news": [
-    "BMO cuts chemical sector outlook on Strait of Hormuz disruptions",
-    "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
-    "US weekly initial jobless claims 197K vs 200K expected",
-    "\u0110\u1ea1i di\u1ec7n C\u1ee5c Thu\u1ebf l\u00ean ti\u1ebfng v\u1ec1 vi\u1ec7c ph\u00e2n bi\u1ec7t DN c\u1ed1 t\u00ecnh n\u00e9 thu\u1ebf v\u1edbi \u2018\u0111\u00f3ng c\u1eeda\u2019 ",
-    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 N\u0102M 2026 T\u00ccM V\u1ec0 GI\u00c1 TR\u1eca - VietstockFinance",
-    "Can RAM Missile Demand Support RTX's Defense Growth Outlook? - TradingView",
     "investingLive European session wrap: Stocks rebound as bond market nerves ease, ",
     "Kh\u00e1m ph\u00e1 \u201cng\u00f4i nh\u00e0\u201d kh\u00f4ng c\u00f3 t\u01b0\u1eddng c\u1ee7a ng\u01b0\u1eddi tr\u1ebb: C\u00f3 chuy\u1ec7n g\u00ec c\u0169ng ph\u1ea3i k\u1ebft n\u1ed1i",
     "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
@@ -372,6 +366,12 @@
     "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mo",
     "X-planes: Are they needed in the new era of drones?",
     "US, European telecom stocks slide as SpaceX spectrum deal rattles sector",
-    "British Pound holds ground as US Consumer Sentiment deteriorates"
+    "British Pound holds ground as US Consumer Sentiment deteriorates",
+    "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coal",
+    "How the oil capital of the US welcomed a solar power boom",
+    "US FDA approves Asahi Kasei\u2019s drug for persistent herpes infections",
+    "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
+    "Bakers Hughes total rig count +5 to 603",
+    "CTCK d\u1ef1 b\u00e1o l\u1ee3i nhu\u1eadn m\u1ed9t \"\u0111\u1ea1i gia\" d\u1ea7u kh\u00ed c\u00f3 th\u1ec3 l\u1eadp k\u1ef7 l\u1ee5c 32.600 t\u1ef7 \u0111\u1ed3ng n\u0103m"
   ]
 }
