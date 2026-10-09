@@ -21,15 +21,15 @@
     "bot4": 984754912,
     "bot1": 488112745
   },
-  "last_signals": 1791574117.6881866,
+  "last_signals": 1791574657.1380563,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
     "USOIL:range_in": 1791572237.0298808,
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791572560.5769558,
-    "USD/JPY:range_in": 1791571324.2201009,
-    "JPY Index:range_in": 1791571324.2201009,
+    "USD/JPY:range_in": 1791574657.1380563,
+    "JPY Index:range_in": 1791574657.1380563,
     "Ethereum:range_in": 1791571660.5084727,
     "EUR/USD:range_in": 1791572237.0298808,
     "DXY:range_in": 1791572237.0298808,
@@ -39,13 +39,13 @@
     "Gold": false,
     "USOIL": true,
     "Bitcoin": true,
-    "Ethereum": true,
+    "Ethereum": false,
     "US30": false,
     "GBP/USD": false,
     "EUR/USD": false,
-    "USD/JPY": false,
+    "USD/JPY": true,
     "DXY": true,
-    "JPY Index": false,
+    "JPY Index": true,
     "US 10Y": true
   },
   "chain_lease_until": 1791574987,
@@ -73,15 +73,9 @@
       "NVDA": "229.76"
     }
   },
-  "last_analysis": 1791574108.2233176,
-  "last_news": 1791574117.6867146,
+  "last_analysis": 1791574648.0616627,
+  "last_news": 1791574657.1373012,
   "seen_news": [
-    "BTC/USD: Bitcoin Slips Below $83,000 as ETF Demand Weakens - TradingView",
-    "Nobel winner Krugman says France may have become 'too big to save'",
-    "New electric car 'make or break for Jaguar'",
-    "World\u2019s Top Crude Trader Isn\u2019t Ruling Out $200 Oil Just Yet",
-    "Stellantis partners with Wayve to cut autonomous driving costs",
-    "EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woe",
     "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
     "Norwegian Krone: Rate hike risks support currency \u2013 BBH",
     "Canada September employment change -68.3K vs +9.2K expected",
@@ -375,6 +369,12 @@
     "Singapore Dollar: MAS tightening but gains constrained \u2013 OCBC",
     "Morning Kickstart: Dollar mixed, stocks rebound and oil retreats amid Iran uncer",
     "Kinh t\u1ebf M\u1ef9 c\u00f3 nguy c\u01a1 ch\u1ee9ng ki\u1ebfn \u0111i\u1ec1u ch\u01b0a t\u1eebng x\u1ea3y ra trong 26 n\u0103m",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina"
+    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
+    "Asos hackers took more personal details than first revealed, BBC finds",
+    "Crude Oil is Underpriced, Energy Aspects Says",
+    "Moody\u2019s revises Crescent Energy outlook to positive following Eagle Ford deal",
+    "Oil: Iran tensions keep crude prices elevated - Rabobank",
+    "Japan household spending falls for ninth straight month, but drop smaller than e",
+    "Vi\u1ec7t Nam s\u1eafp c\u00f3 tr\u01b0\u1eddng \u0111ua ng\u1ef1a 420 tri\u1ec7u USD, quy m\u00f4 125ha, kh\u00e1n \u0111\u00e0i c\u00f3 s\u1ee9c ch\u1ee9"
   ]
 }
