@@ -40,7 +40,7 @@ jobs:
         BOT3_CHAT: ${{ secrets.BOT3_CHAT }}
         BOT4_TOKEN: ${{ secrets.BOT4_TOKEN }}
         BOT4_CHAT: ${{ secrets.BOT4_CHAT }}
-      run: timeout 240 python cloud_alerts.py --once
+      run: timeout 300 python cloud_alerts.py --once
 
     - name: Commit dashboard data & state
       run: |

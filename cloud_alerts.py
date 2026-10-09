@@ -2452,7 +2452,7 @@ def run_signals():
     for n in list(state.get("watch_symbols") or []) + [e[0] for e in CONFIG["symbols"]]:
         if n not in targets and find_menu_entry(n):
             targets.append(n)
-        if len(targets) >= 12:
+        if len(targets) >= 10:
             break
 
     alerts = []
