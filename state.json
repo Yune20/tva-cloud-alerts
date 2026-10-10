@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791629945.6734662,
+  "last_signals": 1791630579.3301642,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -43,7 +43,7 @@
   "sig_range": {
     "Gold": true,
     "USOIL": false,
-    "Bitcoin": true,
+    "Bitcoin": false,
     "Ethereum": false,
     "US30": false,
     "GBP/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791629937.644755,
-  "last_news": 1791629945.6727116,
+  "last_analysis": 1791630570.5182679,
+  "last_news": 1791630579.3293643,
   "seen_news": [
-    "\u00d4ng Trump n\u00e9 c\u00e2u h\u1ecfi c\u00f3 xem livestream v\u1ee5 h\u00e0nh quy\u1ebft t\u00ean s\u00e1t nh\u00e2n h\u00e0ng lo\u1ea1t hay ",
-    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank - VietstockFinance",
-    "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
-    "Nobel winner Krugman says France may have become 'too big to save'",
-    "Fuel prices added to Google Maps as petrol and diesel costs soar",
-    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
     "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
     "Evernorth Completes Business Combination with Armada Acquisition Corp. II - Trad",
     "The used car market is stagnant. Here's how to profit anyway",
@@ -380,6 +374,12 @@
     "GEE: CTCP \u0110i\u1ec7n l\u1ef1c Gelex - GELEX Electric.,JSC - VietstockFinance",
     "Divya Gupta Appointed Associate Director\u2013 HR At HCLTech - TradingView",
     "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Should I be worrie",
-    "Huawei doubles down on smartphones as EV sales slow"
+    "Huawei doubles down on smartphones as EV sales slow",
+    "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC | VietstockFinance - VietstockFinance",
+    "Gigasun AB (publ) (GIGA) OKs Bond Set-Off Share Issue - TradingView",
+    "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the in",
+    "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "Asos hackers took more personal details than first revealed, BBC finds",
+    "EU presidency proposes 8% cut to its 2028-2034 budget to \u20ac1.6 trillion"
   ]
 }
