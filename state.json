@@ -1,13 +1,13 @@
 {
   "last_news_report": 1791592913.0307798,
-  "last_bot4": 1791593801.0185962,
+  "last_bot4": 1791594737.4060864,
   "watch_symbols": [
     "Gold"
   ],
   "sym_report_ts": {
     "Bitcoin": 1791473070.700351,
     "US30": 1791473069.0810935,
-    "Gold": 1791593801.0185363
+    "Gold": 1791594737.4059885
   },
   "bot_chats": {
     "bot4": [
@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791594114.2638786,
+  "last_signals": 1791594737.4072535,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -37,12 +37,13 @@
     "Ethereum:range_in": 1791584791.6335783,
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
-    "GBP/USD:range_in": 1791578257.7186818
+    "GBP/USD:range_in": 1791578257.7186818,
+    "Bitcoin:range_in": 1791594737.4072535
   },
   "sig_range": {
     "Gold": false,
     "USOIL": false,
-    "Bitcoin": false,
+    "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
@@ -77,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791594107.0349946,
-  "last_news": 1791594114.2633176,
+  "last_analysis": 1791594715.7350519,
+  "last_news": 1791594723.2651987,
   "seen_news": [
-    "SHS huy \u0111\u1ed9ng l\u00f4 tr\u00e1i phi\u1ebfu 123 t\u1ef7 \u0111\u1ed3ng",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Gold adds over 1% on easing oil prices, softer dollar - TradingView",
-    "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-    "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecut",
-    "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
     "Tesla Stocks Jump 3.2% as China Sales Extend 11-Month Rebound - TradingView",
     "Trump ramps up battle to fire Fed\u2019s Lisa Cook. Her lawyers say there\u2019s no basis ",
     "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mo",
@@ -379,6 +374,12 @@
     "It's a very sparse economic and event calendar in Asia, Friday, October 9, 2026",
     "Khi n\u00e0o TP.HCM h\u1ebft ng\u1eadp?",
     "IJC: CTCP Ph\u00e1t tri\u1ec3n H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt - Becamex IJC - VietstockFinance",
-    "Partners Group (P2H) Launches Global Private Credit Income Strategy - TradingVie"
+    "Partners Group (P2H) Launches Global Private Credit Income Strategy - TradingVie",
+    "What's open and closed in US and Canadian markets on Monday",
+    "T\u00e1i c\u01a1 c\u1ea5u EVN: Hai b\u1ed9 v\u00eanh nhau v\u1ec1 l\u1ed9 tr\u00ecnh t\u00e1ch truy\u1ec1n t\u1ea3i, b\u00e1n l\u1ebb",
+    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB | VietstockFinance - VietstockFinance",
+    "European Gas Prices Climb on Hormuz Shipping Risks - TradingView",
+    "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still s",
+    "I've been with my boyfriend for two years and don't know his salary"
   ]
 }
