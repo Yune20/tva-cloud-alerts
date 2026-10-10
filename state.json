@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791615431.4232943,
+  "last_signals": 1791616037.1004531,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791612641.6260667,
@@ -41,7 +41,7 @@
     "Bitcoin:range_in": 1791605105.0132947
   },
   "sig_range": {
-    "Gold": true,
+    "Gold": false,
     "USOIL": false,
     "Bitcoin": true,
     "Ethereum": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791615425.837952,
-  "last_news": 1791615431.422498,
+  "last_analysis": 1791616030.3395011,
+  "last_news": 1791616037.0995662,
   "seen_news": [
-    "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia ",
-    "Breaking: UoM Consumer Sentiment Index declines to 46.3 in October",
-    "JPMorgan: The G7\u2019s 100 million barrel oil release is mostly old barrels with a n",
-    "Top 3 con gi\u00e1p \u201cl\u00ean h\u01b0\u01a1ng\u201d nh\u1ea5t d\u1ecbp T\u1ebft \u0110inh M\u00f9i 2027",
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
-    "InterContinental Hotels Group PLC (IHG) Buys Shares for Cancellation - TradingVi",
     "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
     "Oil prices ease as traders unwind the escalation risk premium after Trump rules ",
     "Con g\u00e1i 71 tu\u1ed5i s\u00e1t h\u1ea1i m\u1eb9 102 tu\u1ed5i sau 12 n\u0103m ch\u0103m s\u00f3c: Bi k\u1ecbch ph\u00eda sau x\u00e3 h\u1ed9i",
@@ -380,6 +374,12 @@
     "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
     "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
     "Ho\u00e0ng Thu\u1ef3 Linh: Kh\u00f4ng c\u00f3 s\u1ed1c nh\u1ea5t, ch\u1ec9 c\u00f3 s\u1ed1c h\u01a1n",
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t | VietstockFinance - Vietstock"
+    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t | VietstockFinance - Vietstock",
+    "C\u01a1 quan Thu\u1ebf y\u00eau c\u1ea7u BIDV, MB, VPBank, Vietcombank... phong to\u1ea3 t\u00e0i kho\u1ea3n c\u1ee7a lo",
+    "GVR: T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VRG - VietstockFinance",
+    "Ample Brazil Coffee Supplies Weigh on Prices - TradingView",
+    "Cramer\u2019s week ahead: Earnings kick off as banks and chipmakers face big tests",
+    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
+    "European bank stocks slide 8% as bond yields spark investor caution - Bloomberg"
   ]
 }
