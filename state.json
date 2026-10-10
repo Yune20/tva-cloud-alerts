@@ -23,7 +23,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791642758.8974447,
+  "last_signals": 1791643326.0207214,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -37,7 +37,9 @@
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791578257.7186818,
     "Bitcoin:range_in": 1791631187.1723635,
-    "Ethereum:trap_up": 1791642758.8974447
+    "Ethereum:trap_up": 1791642758.8974447,
+    "Bitcoin|1H|trap_up": 1791643326.0207214,
+    "Ethereum|1H|trap_up": 1791643326.0207214
   },
   "sig_range": {
     "Gold": true,
@@ -50,7 +52,37 @@
     "USD/JPY": true,
     "DXY": true,
     "JPY Index": true,
-    "US 10Y": true
+    "US 10Y": true,
+    "Gold|1H": true,
+    "Gold|4H": false,
+    "Gold|1D": true,
+    "USOIL|1H": false,
+    "USOIL|4H": false,
+    "USOIL|1D": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": true,
+    "Bitcoin|1D": true,
+    "Ethereum|1H": false,
+    "Ethereum|4H": true,
+    "Ethereum|1D": true,
+    "US30|1H": false,
+    "US30|4H": false,
+    "US30|1D": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": true,
+    "GBP/USD|1D": false,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
+    "EUR/USD|1D": false,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
+    "USD/JPY|1D": false,
+    "DXY|1H": true,
+    "DXY|4H": true,
+    "DXY|1D": false,
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1791643685,
   "menu_prices": {
@@ -78,14 +110,8 @@
     }
   },
   "last_analysis": 1791643067.3704917,
-  "last_news": 1791642758.8965757,
+  "last_news": 1791643326.0198836,
   "seen_news": [
-    "Oleg Fomenko publishes offline threshold Schnorr wallet for Bitcoin - TradingVie",
-    "China and Europe agree to cut Chinese hybrid vehicle exports by half",
-    "Boots has a new owner: Three ways it could affect you",
-    "Why is the Chinese stock market missing the AI rally",
-    "WTI holds steady as traders weigh US-Iran tensions and supply risks",
-    "SpaceX lockup expiration puts buyers to the test. The technicals define the risk",
     "Protesters blame 'vulture funds' for Spain's housing crisis",
     "Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 bil",
     "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
@@ -379,6 +405,12 @@
     "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
     "L\u1eddi khuy\u00ean \u0111\u1ebfn nh\u1eefng gia \u0111\u00ecnh v\u1eabn \u0111ang d\u00f9ng ch\u1ea3o ch\u1ed1ng d\u00ednh \u0111\u00e3 bong tr\u00f3c",
     "DCM: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 40,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Evernorth Completes Business Combination with Armada Acquisition Corp. II - Trad"
+    "Evernorth Completes Business Combination with Armada Acquisition Corp. II - Trad",
+    "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what t",
+    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
+    "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out",
+    "Will rising French bond spreads disrupt the rally in European stocks?",
+    "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields ",
+    "Nh\u00ecn c\u0103n nh\u00e0 c\u1ee7a c\u00f4 g\u00e1i 29 tu\u1ed5i t\u00f4i m\u1edbi hi\u1ec3u v\u00ec sao ng\u00e0y c\u00e0ng nhi\u1ec1u ng\u01b0\u1eddi b\u1ecf ki\u1ec3"
   ]
 }
