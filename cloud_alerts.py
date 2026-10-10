@@ -111,7 +111,9 @@ state = {
     "seen_news": [],
     # Bot4 / menu state (persisted across GitHub Actions runs via state.json)
     "last_bot4": 0,
-    "watch_symbols": [],          # user-selected symbols from the menu
+    "watch_symbols": [],          # legacy global list (migrated to per-chat)
+    "watch_by_chat": {},          # per-user watch lists: {chat: [names]}
+    "default_quote_by_chat": {},  # per-user ⭐ bang-gia symbol: {chat: name}
     "sym_report_ts": {},          # per-symbol last chart+plan send (unix ts)
     "bot_chats": {},              # chat ids discovered via /start per bot key
     "tg_offsets": {},             # getUpdates offsets per bot key
@@ -132,9 +134,33 @@ def load_state():
                 data = json.load(f)
             data["seen_news"] = list(data.get("seen_news", []))
             state.update(data)
+            _migrate_per_chat_state()
             print(f"Loaded state: {len(state['seen_news'])} seen news")
     except Exception as e:
         print(f"Failed to load state: {e}")
+
+
+def _migrate_per_chat_state():
+    """One-time seed of per-chat watch/⭐ lists from the legacy globals."""
+    if "watch_by_chat" not in state:
+        legacy = list(state.get("watch_symbols") or [])
+        wbc = {}
+        for chats in (state.get("bot_chats") or {}).values():
+            for c in chats:
+                wbc.setdefault(str(c), list(legacy))
+        if not wbc and legacy:
+            wbc["5575146754"] = legacy
+        state["watch_by_chat"] = wbc
+    if "default_quote_by_chat" not in state:
+        dq = state.get("default_quote_symbol")
+        dqbc = {}
+        if dq:
+            for chats in (state.get("bot_chats") or {}).values():
+                for c in chats:
+                    dqbc.setdefault(str(c), dq)
+            if not dqbc:
+                dqbc["5575146754"] = dq
+        state["default_quote_by_chat"] = dqbc
 
 
 def save_state():
@@ -915,7 +941,7 @@ ROLE_MAIN = {"bot1": "analysis", "bot2": "bang",
              "bot3": "news", "bot4": "chart"}
 ROLE_SVC_TEXT = {
     "bot1": "📊 Phân tích MTF đủ khung D1/H4/H1 + vùng vào/SL/TP",
-    "bot2": "💹 Bảng giá (mã ⭐ / mã theo dõi) + cảnh báo tín hiệu 1H/4H/1D",
+    "bot2": "💹 Báo giá từng mã bạn chọn (chạm mã = gửi ngay) + tín hiệu mã theo dõi",
     "bot3": "📰 Tin tức mỗi tin 1 dòng (không link) + báo cáo thống kê 3 giờ",
     "bot4": "📈 Chart nến + kế hoạch giao dịch từng mã ✅",
 }
@@ -960,8 +986,29 @@ def _role_redirect(key: str, act: str) -> str:
             f"mở {owner.upper()} dùng nhé")
 
 
-def menu_text(key: str = "bot4", refresh: bool = False):
-    """Role-aware, compact menu: status line + prices + service map."""
+WATCH_CAP = 8  # symbols per user — keeps every personal list & message readable
+
+
+def watch_for(chat) -> list:
+    """This user's watched symbols (per-chat list, empty if none)."""
+    return list(state.setdefault("watch_by_chat", {}).get(str(chat or ""), []))
+
+
+def set_watch_for(chat, names):
+    state.setdefault("watch_by_chat", {})[str(chat or "")] = [str(n) for n in names]
+
+
+def default_quote_for(chat):
+    """This user's ⭐ bang-gia symbol (per-chat)."""
+    return state.setdefault("default_quote_by_chat", {}).get(str(chat or ""))
+
+
+def set_default_quote_for(chat, name):
+    state.setdefault("default_quote_by_chat", {})[str(chat or "")] = name
+
+
+def menu_text(key: str = "bot4", refresh: bool = False, chat: str = ""):
+    """Role-aware, compact menu: per-user prices + service map."""
     icon, role, role_desc = BOT_ROLES.get(key, ("🤖", "TÍN HIỆU", ""))
     bot_no = key.replace("bot", "BOT")
     try:
@@ -969,7 +1016,7 @@ def menu_text(key: str = "bot4", refresh: bool = False):
     except Exception as e:
         print(f"  menu price error: {e}")
         prices = {}
-    watch = state.get("watch_symbols") or []
+    watch = watch_for(chat)
     a_min = max(1, int(CONFIG["analysis_interval"] // 60))
     n_min = max(1, int(CONFIG["news_interval"] // 60))
     c_min = max(1, int(CONFIG["bot4_interval"] // 60))
@@ -977,24 +1024,31 @@ def menu_text(key: str = "bot4", refresh: bool = False):
         f"📋 MENU — {icon} {role}",
         "━" * 26,
         f"{bot_no} · {role_desc}",
-        f"⚙️ {len(watch)}/{len(menu_entries())} mã ✅ · "
+        f"⚙️ đang theo dõi {len(watch)}/{WATCH_CAP} mã · "
         f"bảng giá {a_min}' · tin {n_min}' · chart {c_min}'",
         "",
-        "💰 GIÁ (mã · tên) — chạm để ✅ / ▫️:",
+        "💹 GIÁ CỦA BẠN (mỗi người một danh sách):",
     ]
-    for name, cg, yahoo, tv in menu_entries():
-        code = str(tv).split(":")[-1]
-        mark = "✅" if name in watch else "▫️"
-        lines.append(f" {mark} {code} · {name}: {prices.get(name, '—')}")
+    dq = default_quote_for(chat)
+    if watch:
+        for name in watch:
+            e = find_menu_entry(name)
+            if not e:
+                continue
+            code = str(e[3]).split(":")[-1]
+            star = " ⭐" if name == dq else ""
+            lines.append(f"• {name} · {code}: {prices.get(name, '—')}{star}")
+    else:
+        lines.append("  Chưa chọn mã nào — bấm ▫️ bên dưới để theo dõi.")
     lines += [
         "",
         f"🎯 DỊCH VỤ {bot_no} (chỉ bot này trả lời):",
         f"  {ROLE_SVC_TEXT[key]}",
         "🔎 Chi tiết mã: dịch vụ riêng của từng bot (nút 🔎).",
-        "⚙️ Tùy biến lưu chung · 💬 /menu mở lại.",
+        "👇 Bấm ▫️/✅ bên dưới để chọn mã cho riêng bạn.",
+        "💬 /menu mở lại.",
     ]
     if key == "bot2":
-        dq = state.get("default_quote_symbol")
         lines.append(f"🎯 Bảng giá mặc định: {dq or 'chưa đặt (⭐ ở 🔎 chi tiết mã)'}")
     return "\n".join(lines)
 
@@ -1013,9 +1067,9 @@ def find_menu_entry(name):
     return None
 
 
-def menu_keyboard(key: str = "bot4"):
+def menu_keyboard(key: str = "bot4", chat: str = ""):
     """Inline keyboard: toggles + per-symbol detail + services + management."""
-    watch = state.get("watch_symbols") or []
+    watch = watch_for(chat)
     wset = set(watch)
     rows = []
     row = []
@@ -1286,25 +1340,24 @@ def run_bot4():
         state["last_bot4"] = time.time()
         save_state()
         return
-    watch = list(state.get("watch_symbols") or []) or list(CONFIG["default_watch"])
-    watch = [n for n in watch if find_menu_entry(n)]
-    if not watch:
-        print("  Bot4: empty watch list - skip")
-        state["last_bot4"] = time.time()
-        save_state()
-        return
 
-    # Rotate the start symbol each interval so >2 watched symbols all get
-    # covered within a few cycles (max 2 full reports per run).
-    offset = int(time.time() // max(CONFIG["bot4_interval"], 1)) % len(watch)
-    ordered = watch[offset:] + watch[:offset]
-    sent = 0
-    for name in ordered:
-        if sent >= 2:
-            break
-        if send_symbol_report(CONFIG["bot4_token"], chats[0], find_menu_entry(name)):
-            sent += 1
-    print(f"  Bot4: {sent} report(s) sent, watch={watch}")
+    # Rotate per chat so >2 watched symbols all get covered within a few
+    # cycles (max 2 full reports per chat per run). Each user gets THEIR
+    # own list only.
+    for chat in chats:
+        watch = [n for n in watch_for(chat) if find_menu_entry(n)]
+        if not watch:
+            print(f"  Bot4: chat {chat} has no watched symbols - skip")
+            continue
+        offset = int(time.time() // max(CONFIG["bot4_interval"], 1)) % len(watch)
+        ordered = watch[offset:] + watch[:offset]
+        sent = 0
+        for name in ordered:
+            if sent >= 2:
+                break
+            if send_symbol_report(CONFIG["bot4_token"], chat, find_menu_entry(name)):
+                sent += 1
+        print(f"  Bot4: chat {chat} sent {sent} report(s), watch={watch}")
     state["last_bot4"] = time.time()
     save_state()
 
@@ -1321,13 +1374,13 @@ def _edit_menu(token: str, cb: dict, refresh: bool = False, key: str = "bot4",
     chat = str((msg.get("chat") or {}).get("id") or "")
     if not mid or not chat:
         return
-    text = menu_text(key, refresh=refresh)
+    text = menu_text(key, refresh=refresh, chat=chat)
     if force_edit or (msg.get("text") or "").startswith("📋 MENU"):
         _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
-                text=text, reply_markup=json.dumps(menu_keyboard(key), ensure_ascii=False))
+                text=text, reply_markup=json.dumps(menu_keyboard(key, chat), ensure_ascii=False))
     else:
         _tg_api(token, "sendMessage", chat_id=chat, text=text,
-                reply_markup=json.dumps(menu_keyboard(key), ensure_ascii=False))
+                reply_markup=json.dumps(menu_keyboard(key, chat), ensure_ascii=False))
 
 
 # ─── Per-symbol detail view (menu level 2) ───────────────────────────────────
@@ -1341,14 +1394,14 @@ def _symbol_price(name: str, prices: dict = None) -> str:
     return prices.get(name, "—")
 
 
-def detail_text(name: str, key: str = "bot4"):
+def detail_text(name: str, key: str = "bot4", chat: str = ""):
     """Detail screen for one symbol: price, status, this bot's own services."""
     e = find_menu_entry(name)
     if not e:
         return f"🔎 {name}\n(Mã không còn trong menu)"
     n_, cg, yahoo, tv = e
     code = str(tv).split(":")[-1]
-    watch = state.get("watch_symbols") or []
+    watch = watch_for(chat)
     mark = "✅ đang theo dõi" if name in watch else "▫️ chưa theo dõi"
     svc = [f"  {t}" for t in ROLE_DETAIL_TEXT.get(key, ROLE_DETAIL_TEXT["bot4"])]
     return "\n".join([
@@ -1364,8 +1417,8 @@ def detail_text(name: str, key: str = "bot4"):
     ])
 
 
-def detail_keyboard(name: str, key: str = "bot4"):
-    watch = state.get("watch_symbols") or []
+def detail_keyboard(name: str, key: str = "bot4", chat: str = ""):
+    watch = watch_for(chat)
     tg_label = ("▫️ Bỏ theo dõi" if name in watch else "✅ Theo dõi")
     svc_defs = {"chart": ("📈 Chart+Plan", f"sa:chart:{name}"),
                 "an": ("📊 Phân tích", f"sa:an:{name}"),
@@ -1376,7 +1429,7 @@ def detail_keyboard(name: str, key: str = "bot4"):
     if svc_row:
         rows.append(svc_row)
     if key == "bot2":
-        dq = state.get("default_quote_symbol")
+        dq = default_quote_for(chat)
         dq_label = "▫️ Bỏ mặc định" if dq == name else "⭐ Gửi mặc định"
         rows.append([{"text": dq_label, "callback_data": f"sa:dq:{name}"}])
     rows.append([{"text": tg_label, "callback_data": f"sa:tg:{name}"}])
@@ -1391,8 +1444,8 @@ def _show_symbol_detail(token: str, cb: dict, name: str, key: str):
     if not mid or not chat:
         return
     _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
-            text=detail_text(name, key),
-            reply_markup=json.dumps(detail_keyboard(name, key),
+            text=detail_text(name, key, chat),
+            reply_markup=json.dumps(detail_keyboard(name, key, chat),
                                     ensure_ascii=False))
 
 
@@ -1470,8 +1523,8 @@ def menu_update_handler(key: str, token: str, upd: dict):
             if key == "bot4":
                 print(f"  Bot4 chat discovered: {chat}")
         _tg_api(token, "sendMessage", chat_id=chat,
-                text=menu_text(key, refresh=True),
-                reply_markup=json.dumps(menu_keyboard(key), ensure_ascii=False))
+                text=menu_text(key, refresh=True, chat=chat),
+                reply_markup=json.dumps(menu_keyboard(key, chat), ensure_ascii=False))
         return
 
     cb = upd.get("callback_query")
@@ -1560,27 +1613,34 @@ def menu_update_handler(key: str, token: str, upd: dict):
             send_telegram(token, cb_chat, txt,
                           extra={"reply_markup": menu_btn_json()})
         elif sact == "tg":
-            watch2 = list(state.get("watch_symbols") or [])
+            watch2 = watch_for(cb_chat)
             if sname in watch2:
                 watch2.remove(sname)
                 note = f"Đã bỏ theo dõi {sname}"
+            elif len(watch2) >= WATCH_CAP:
+                if cb_id:
+                    _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                            text=f"Đã đủ {WATCH_CAP} mã — bỏ bớt trước khi thêm {sname}.",
+                            show_alert=True)
+                _show_symbol_detail(token, cb, sname, key)
+                return
             else:
                 watch2.append(sname)
                 note = f"Đang theo dõi {sname}"
-            state["watch_symbols"] = watch2
+            set_watch_for(cb_chat, watch2)
             save_state()
             if cb_id:
                 _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                         text=note)
         elif sact == "dq":
-            # ⭐ default bang-gia symbol (BOT2): bang button / !now send this
-            # one symbol instead of the whole table or the watch list.
-            cur = state.get("default_quote_symbol")
+            # ⭐ default bang-gia symbol (BOT2, per-user): bang button / !now
+            # send this one symbol instead of the whole table / watch list.
+            cur = default_quote_for(cb_chat)
             if cur == sname:
-                state["default_quote_symbol"] = None
+                set_default_quote_for(cb_chat, None)
                 note = f"Đã bỏ {sname} khỏi báo giá mặc định"
             else:
-                state["default_quote_symbol"] = sname
+                set_default_quote_for(cb_chat, sname)
                 note = f"⭐ {sname} là mã báo giá mặc định"
             save_state()
             if cb_id:
@@ -1594,7 +1654,7 @@ def menu_update_handler(key: str, token: str, upd: dict):
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id)
         return
     pick = data[2:]
-    watch = list(state.get("watch_symbols") or [])
+    watch = watch_for(cb_chat)
 
     if pick == "!menu":
         if cb_id:
@@ -1604,7 +1664,7 @@ def menu_update_handler(key: str, token: str, upd: dict):
         return
 
     if pick == "!clear":
-        state["watch_symbols"] = []
+        set_watch_for(cb_chat, [])
         save_state()
         if cb_id:
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
@@ -1632,7 +1692,7 @@ def menu_update_handler(key: str, token: str, upd: dict):
 
     if pick == "!now":
         act = ROLE_MAIN.get(key, "chart")
-        dq = state.get("default_quote_symbol")
+        dq = default_quote_for(cb_chat)
         if not watch and not (act == "bang" and dq and find_menu_entry(dq)):
             if cb_id:
                 _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
@@ -1656,14 +1716,23 @@ def menu_update_handler(key: str, token: str, upd: dict):
         watch.remove(pick)
         note = f"Đã bỏ theo dõi {pick}"
     else:
+        if len(watch) >= WATCH_CAP:
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                        text=f"Đã đủ {WATCH_CAP} mã — bỏ bớt trước khi thêm {pick}.",
+                        show_alert=True)
+            _edit_menu(token, cb, key=key)
+            return
         watch.append(pick)
         if key == "bot4":
             note = f"Đang theo dõi {pick} - đang gửi báo cáo..."
         elif key == "bot1":
             note = f"Đang theo dõi {pick} - đang gửi phân tích..."
+        elif key == "bot2":
+            note = f"Đang theo dõi {pick} - đang gửi báo giá..."
         else:
             note = f"Đang theo dõi {pick}"
-    state["watch_symbols"] = watch
+    set_watch_for(cb_chat, watch)
     save_state()
     if cb_id:
         _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id, text=note)
@@ -1673,6 +1742,16 @@ def menu_update_handler(key: str, token: str, upd: dict):
         if e and key == "bot4":
             # Bot4 auto-sends its own chart+plan (as before).
             send_symbol_report(token, cb_chat, e, force=True)
+        elif e and key == "bot2":
+            # Tap = send THIS symbol's compact quote card ("chọn mã nào
+            # gửi mã đó") — one short message, never the whole table.
+            qtext = build_banggia_for([pick],
+                                      header=f"💹 BẢNG GIÁ · {pick.upper()}")
+            if not qtext:
+                qtext = (f"💹 {pick.upper()}\n⏳ Bảng giá chưa sẵn cho mã này — "
+                         f"thử lại sau 1-2 phút.")
+            send_telegram(token, cb_chat, qtext,
+                          extra={"reply_markup": menu_btn_json()})
         elif key == "bot1":
             # Bot1 auto-sends its own MTF analysis snapshot (+ charts if cached).
             dash_names = {s.get("name") for s in load_dashboard_symbols()}
@@ -1680,14 +1759,12 @@ def menu_update_handler(key: str, token: str, upd: dict):
                 send_analysis_charts(token, cb_chat, [pick])
             send_telegram(token, cb_chat, build_analysis_snapshot([pick]),
                           extra={"reply_markup": menu_btn_json()})
-        # bot2/bot3: toast already confirms the watch — no auto content.
+        # bot3: toast already confirms the watch — no auto content.
 
 
-def _menu_targets(key: str, limit: int = 4):
-    """Watched symbols (fall back to defaults) valid in the menu."""
-    names = [n for n in (state.get("watch_symbols") or []) if find_menu_entry(n)]
-    if not names:
-        names = [n for n in CONFIG["default_watch"] if find_menu_entry(n)]
+def _menu_targets(key: str, chat, limit: int = 4):
+    """This user's watched symbols valid in the menu (no silent defaults)."""
+    names = [n for n in watch_for(chat) if find_menu_entry(n)]
     return names[:limit]
 
 
@@ -1731,24 +1808,37 @@ def build_banggia_dashboard(top=8):
     return build_banggia(items, top=top)
 
 
+def _dash_quote_line(s: dict) -> str:
+    """Compact one-line quote from a dashboard symbol entry (OHLCV cache)."""
+    code = str(s.get("symbol") or "").split(":")[-1]
+    name = s.get("name") or code
+    c = (s.get("ohlcv") or {}).get("close") or []
+    if not c:
+        return f"• {name} · `{code}`: —"
+    price = c[-1]
+    chg = ((c[-1] - c[-25]) / c[-25] * 100) if len(c) >= 25 and c[-25] else 0.0
+    ico = "🟢" if chg >= 0 else "🔴"
+    px = f"{price:,.4f}" if price < 100 else f"{price:,.2f}"
+    return f"• {name} · `{code}`: {px} ({chg:+.1f}%) {ico}"
+
+
 def build_banggia_for(names, header=None):
-    """Bảng giá for specific `names` from the dashboard cache (default symbol
-    or watched list) — never the whole table unless explicitly requested."""
+    """Compact bảng giá: ONE short line per symbol (easy to read, never a
+    huge table). Data from the dashboard OHLCV cache."""
     by_name = {s.get("name"): s for s in load_dashboard_symbols()}
-    items = []
+    lines = [header or "💹 BẢNG GIÁ", "━" * 22]
+    used = 0
     for n in names:
         s = by_name.get(n)
         if s and s.get("name"):
-            items.append({"name": s.get("name"), "symbol": s.get("symbol"),
-                          "analysis": s.get("analysis_text") or ""})
-    if not items:
+            lines.append(_dash_quote_line(s))
+            used += 1
+    if not used:
         return None
-    text = build_banggia(items, top=len(items))
-    if header:
-        lines = text.split("\n")
-        lines[0] = header
-        text = "\n".join(lines)
-    return text
+    lines.append("")
+    lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
+                 f"{used} mã")
+    return "\n".join(lines)
 
 
 def build_analysis_snapshot(names):
@@ -1804,7 +1894,7 @@ def handle_menu_action(act: str, key: str, token: str, chat: str):
     otoken = token
     if act == "chart":
         sent = 0
-        for name in _menu_targets(key, 3):
+        for name in _menu_targets(key, chat, 3):
             e = find_menu_entry(name)
             if e and send_symbol_report(otoken, chat, e, force=True):
                 sent += 1
@@ -1813,7 +1903,7 @@ def handle_menu_action(act: str, key: str, token: str, chat: str):
                           "⏳ Chưa gửi được chart — dữ liệu chưa sẵn, thử lại sau 1-2 phút.")
         print(f"  Action chart (via {key}): {sent} report(s)")
     elif act == "analysis":
-        names = _menu_targets(key, 3)
+        names = _menu_targets(key, chat, 3)
         nchart = send_analysis_charts(otoken, chat, names)
         text = build_analysis_snapshot(names)
         ok = send_telegram(otoken, chat, text, extra={"reply_markup": menu_btn_json()})
@@ -1822,9 +1912,8 @@ def handle_menu_action(act: str, key: str, token: str, chat: str):
     elif act == "bang":
         # Priority: ⭐ default symbol > watched symbols > guidance toast.
         # (Never auto-send the full table — unreadable. Explicit path: 📋.)
-        dq = state.get("default_quote_symbol")
-        watch = [n for n in (state.get("watch_symbols") or [])
-                 if find_menu_entry(n)]
+        dq = default_quote_for(chat)
+        watch = [n for n in watch_for(chat) if find_menu_entry(n)]
         names, header = None, None
         if dq and find_menu_entry(dq):
             names, header = [dq], f"🎯 BẢNG GIÁ · {dq.upper()}"
@@ -2829,9 +2918,14 @@ def run_signals():
         save_state()
         return
 
-    # Watched symbols first, then priority symbols.
+    # Targets: every user's watched symbols first, then priority symbols.
+    watched_union = []
+    for c in chats:
+        for n in watch_for(c):
+            if n not in watched_union and find_menu_entry(n):
+                watched_union.append(n)
     targets = []
-    for n in list(state.get("watch_symbols") or []) + [e[0] for e in CONFIG["symbols"]]:
+    for n in watched_union + [e[0] for e in CONFIG["symbols"]]:
         if n not in targets and find_menu_entry(n):
             targets.append(n)
         if len(targets) >= 10:
@@ -2843,7 +2937,7 @@ def run_signals():
     TF_COOLDOWN = {"1H": SIGNAL_COOLDOWN,
                    "4H": SIGNAL_COOLDOWN * 2,
                    "1D": SIGNAL_COOLDOWN * 12}
-    alerts = []  # (tf, name, sig)
+    alerts = []  # (tf, name, sig) candidates — cooldown applied per chat at send
     for name in targets:
         e = find_menu_entry(name)
         if not e:
@@ -2862,56 +2956,76 @@ def run_signals():
         for tf, sdata in series:
             # Per-TF detector memory (range/touch) via a prefixed name.
             for sig in detect_signals(f"{name}|{tf}", sdata):
-                ck = f"{name}|{tf}|{sig['key']}"
-                sigts = state.setdefault("signal_ts", {})
+                alerts.append((tf, name, sig))
+                if len(alerts) >= 24:
+                    break
+            if len(alerts) >= 24:
+                break
+        if len(alerts) >= 24:
+            break
+
+    if not alerts:
+        state["signal_ts"] = {k: v for k, v in state.get("signal_ts", {}).items()
+                              if now - v < 7 * 86400}
+        state["last_signals"] = now
+        save_state()
+        print("  Signals: no new signals")
+        return
+
+    # ONE message per timeframe PER USER; each chat only sees alerts for
+    # THEIR watched symbols (per-chat cooldown keys prevent repeats).
+    sigts = state.setdefault("signal_ts", {})
+    by_tf = {}
+    for tf, name, sig in alerts:
+        by_tf.setdefault(tf, []).append((name, sig))
+    sent = 0
+    chats_served = 0
+    for chat in chats:
+        wset = set(watch_for(chat))
+        if not wset:
+            continue  # user hasn't picked symbols yet — nothing personalized
+        chat_alerts = 0
+        for tf in ("1H", "4H", "1D"):
+            group = []
+            for name, sig in by_tf.get(tf, []):
+                if name not in wset:
+                    continue
+                ck = f"{chat}|{name}|{tf}|{sig['key']}"
                 last = float(sigts.get(ck, 0) or 0)
                 if now - last < TF_COOLDOWN.get(tf, SIGNAL_COOLDOWN):
                     continue
                 sigts[ck] = now
-                alerts.append((tf, name, sig))
-                if len(alerts) >= 8:
+                group.append((name, sig))
+                chat_alerts += 1
+                if chat_alerts >= 8:
                     break
-            if len(alerts) >= 8:
+            if not group:
+                continue
+            cd = TF_COOLDOWN.get(tf, SIGNAL_COOLDOWN)
+            cd_txt = "30 phút" if cd < 3600 else f"{cd // 3600} giờ"
+            lines = [f"⚡ CẢNH BÁO · KHUNG {tf}", "━" * 26]
+            for name, sig in group:
+                e2 = find_menu_entry(name)
+                code = str(e2[3]).split(":")[-1] if e2 else name
+                lines.append(f"{sig['icon']} `{code}` *{name}* · {sig['label']}")
+                lines.append(f"   {sig['detail']}")
+            lines.append("")
+            lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
+                         f"cooldown {cd_txt}/mẫu")
+            text = "\n".join(lines)
+            if send_telegram(token, chat, text, extra={"reply_markup": menu_btn_json()}):
+                sent += 1
+            if chat_alerts >= 8:
                 break
-        if len(alerts) >= 8:
-            break
+        if chat_alerts:
+            chats_served += 1
 
     # Prune old cooldown keys (keep state.json small)
     state["signal_ts"] = {k: v for k, v in state.get("signal_ts", {}).items()
                           if now - v < 7 * 86400}
     state["last_signals"] = now
     save_state()
-
-    if not alerts:
-        print("  Signals: no new signals")
-        return
-
-    # ONE separate Telegram message per timeframe ("nhiều khung gửi tele").
-    by_tf = {}
-    for tf, name, sig in alerts:
-        by_tf.setdefault(tf, []).append((name, sig))
-    sent = 0
-    for tf in ("1H", "4H", "1D"):
-        group = by_tf.get(tf)
-        if not group:
-            continue
-        cd = TF_COOLDOWN.get(tf, SIGNAL_COOLDOWN)
-        cd_txt = "30 phút" if cd < 3600 else f"{cd // 3600} giờ"
-        lines = [f"⚡ CẢNH BÁO · KHUNG {tf}", "━" * 26]
-        for name, sig in group:
-            e2 = find_menu_entry(name)
-            code = str(e2[3]).split(":")[-1] if e2 else name
-            lines.append(f"{sig['icon']} `{code}` *{name}* · {sig['label']}")
-            lines.append(f"   {sig['detail']}")
-        lines.append("")
-        lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
-                     f"cooldown {cd_txt}/mẫu")
-        text = "\n".join(lines)
-        for chat in chats:
-            if send_telegram(token, chat, text, extra={"reply_markup": menu_btn_json()}):
-                sent += 1
-    print(f"  Signals: {len(alerts)} alert(s) in {len(by_tf)} khung "
-          f"-> {sent} tin / {len(chats)} chat(s)")
+    print(f"  Signals: {len(alerts)} cand / {sent} tin / {chats_served} chat(s)")
 
 
 def main():
