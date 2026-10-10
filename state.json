@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791602551.5237262,
+  "last_signals": 1791603156.1023977,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -38,12 +38,12 @@
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791578257.7186818,
-    "Bitcoin:range_in": 1791594737.4072535
+    "Bitcoin:range_in": 1791603156.1023977
   },
   "sig_range": {
     "Gold": false,
     "USOIL": false,
-    "Bitcoin": false,
+    "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791602541.1251845,
-  "last_news": 1791602551.5228117,
+  "last_analysis": 1791603148.9648895,
+  "last_news": 1791603156.1016173,
   "seen_news": [
-    "Norwegian Krone: Rate hike risks support currency \u2013 BBH",
-    "Canada September employment change -68.3K vs +9.2K expected",
-    "TOS-1 n\u00e3 tr\u00fang \u0111i\u1ec3m t\u1eadp k\u1ebft qu\u00e2n Ukraine, s\u00f3ng xung k\u00edch lan r\u1ed9ng - Chi\u1ebfn thu\u1eadt ",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "Gigasun AB (publ) (GIGA) OKs Bond Set-Off Share Issue - TradingView",
-    "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after g",
     "V\u00ec sao c\u00f3 nh\u1eefng \u00f4ng ch\u1ed3ng l\u01b0\u1eddi r\u1eeda b\u00e1t nh\u01b0ng s\u00e1ng Ch\u1ee7 nh\u1eadt n\u00e0o c\u0169ng r\u1eeda xe?",
     "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank - VietstockFinance",
     "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
@@ -380,6 +374,12 @@
     "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Should I be worrie",
     "Fed officials see another hike coming, but no sign as to when, minutes show",
     "Asos hackers took more personal details than first revealed, BBC finds",
-    "Crude Oil is Underpriced, Energy Aspects Says"
+    "Crude Oil is Underpriced, Energy Aspects Says",
+    "U.S., Ukraine and EU officials hold Miami peace talks amid Russia diesel deal",
+    "Singapore Dollar: MAS tightening but gains constrained \u2013 OCBC",
+    "Morning Kickstart: Dollar mixed, stocks rebound and oil retreats amid Iran uncer",
+    "C\u00f4ng ngh\u1ec7 10/10: SpaceX l\u1ea5n s\u00e2n vi\u1ec5n th\u00f4ng, Adobe c\u00f3 \u0111\u1ed1i th\u1ee7 AI mi\u1ec5n ph\u00ed",
+    "GEE: CTCP \u0110i\u1ec7n l\u1ef1c Gelex - GELEX Electric.,JSC - VietstockFinance",
+    "BTC/USD: Bitcoin Slips Below $83,000 as ETF Demand Weakens - TradingView"
   ]
 }
