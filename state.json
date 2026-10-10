@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791669699.1572723,
+  "last_signals": 1791670301.1887856,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -67,7 +67,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791669687.7675445,
-  "last_news": 1791669699.1565354,
+  "last_analysis": 1791670293.9495661,
+  "last_news": 1791670301.1879656,
   "seen_news": [
-    "Philips wins Dutch court battle with shareholders over sleep apnea recall",
-    "How have interest rate expectations changed after this week's events?",
-    "Nam ca s\u0129 U60 mang con t\u1eeb TP.HCM sang M\u1ef9, \u0111\u01b0\u1ee3c ch\u00fac m\u1eebng tu\u1ed5i m\u1edbi ngay \u1edf s\u00e2n bay",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
-    "DA Davidson maintains Neutral rating on Starbucks, $110 price target - TradingVi",
-    "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
     "Adidas sues Australian label White Fox over four stripes design",
     "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
     "UBS sees stronger outlook for Brazilian real after election",
@@ -414,6 +408,12 @@
     "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
     "European Central Bank: Conditional support and French risks \u2013 Rabobank",
     "USDCHF is stuck in 50 pip trading range since midday Monday. What does that say ",
-    "Cam th\u01b0\u1eddng l\u1ea1 l\u00f9ng c\u1ee7a L\u01b0u Di\u1ec7c Phi"
+    "Cam th\u01b0\u1eddng l\u1ea1 l\u00f9ng c\u1ee7a L\u01b0u Di\u1ec7c Phi",
+    "Broader stock indices bouncing modestly.  Support near 100 hour MAs held yesterd",
+    "C\u00f4ng an t\u1ec9nh \u0110\u1eafk L\u1eafk t\u00ecm b\u1ecb h\u1ea1i trong v\u1ee5 l\u1eeba \u0111\u1ea3o t\u1ea1i 4 vi\u1ec7n th\u1ea9m m\u1ef9 Mega Gangnam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "CECONOMY AG (CEC) Receives Major Holdings Notice - TradingView",
+    "Pok\u00e9mon card values are soaring. What collectors should know before buying or se",
+    "Everton owners consider selling club two years after takeover"
   ]
 }
