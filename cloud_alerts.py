@@ -915,8 +915,8 @@ ROLE_MAIN = {"bot1": "analysis", "bot2": "bang",
              "bot3": "news", "bot4": "chart"}
 ROLE_SVC_TEXT = {
     "bot1": "📊 Phân tích MTF đủ khung D1/H4/H1 + vùng vào/SL/TP",
-    "bot2": "💹 Bảng giá (mã · tên · giá) + cảnh báo tín hiệu",
-    "bot3": "📰 Tin tức dịch tiếng Việt + báo cáo thống kê 3 giờ",
+    "bot2": "💹 Bảng giá (mã ⭐ / mã theo dõi) + cảnh báo tín hiệu 1H/4H/1D",
+    "bot3": "📰 Tin tức mỗi tin 1 dòng (không link) + báo cáo thống kê 3 giờ",
     "bot4": "📈 Chart nến + kế hoạch giao dịch từng mã ✅",
 }
 ROLE_SVC_BTN = {
@@ -933,7 +933,7 @@ ROLE_NOW_LABEL = {"bot1": "📩 Gửi phân tích ngay",
 ROLE_DETAIL = {"bot1": ["an", "bt"], "bot2": [], "bot3": [], "bot4": ["chart"]}
 ROLE_DETAIL_TEXT = {
     "bot1": ["📊 Phân tích MTF — đủ khung", "🧪 Backtest EMA21/50"],
-    "bot2": ["💹 Bảng giá tổng — nút 💹 ở menu chính"],
+    "bot2": ["🎯 ⭐ Gửi làm mã bảng giá mặc định", "📋 Bảng đầy đủ ở menu chính"],
     "bot3": ["📰 Tin mới nhất — nút 📰 ở menu chính"],
     "bot4": ["📈 Chart nến + kế hoạch entry/SL/TP"],
 }
@@ -993,6 +993,9 @@ def menu_text(key: str = "bot4", refresh: bool = False):
         "🔎 Chi tiết mã: dịch vụ riêng của từng bot (nút 🔎).",
         "⚙️ Tùy biến lưu chung · 💬 /menu mở lại.",
     ]
+    if key == "bot2":
+        dq = state.get("default_quote_symbol")
+        lines.append(f"🎯 Bảng giá mặc định: {dq or 'chưa đặt (⭐ ở 🔎 chi tiết mã)'}")
     return "\n".join(lines)
 
 
@@ -1030,6 +1033,8 @@ def menu_keyboard(key: str = "bot4"):
            if a in ROLE_ACTIONS.get(key, set())]
     if svc:
         rows.append(svc)
+    if key == "bot2":
+        rows.append([{"text": "📋 Bảng đầy đủ", "callback_data": "m:!full"}])
     # Per-symbol detail screens for watched symbols (max 8).
     drow = []
     for name in watch[:8]:
@@ -1370,6 +1375,10 @@ def detail_keyboard(name: str, key: str = "bot4"):
                for s in ROLE_DETAIL.get(key, []) if s in svc_defs]
     if svc_row:
         rows.append(svc_row)
+    if key == "bot2":
+        dq = state.get("default_quote_symbol")
+        dq_label = "▫️ Bỏ mặc định" if dq == name else "⭐ Gửi mặc định"
+        rows.append([{"text": dq_label, "callback_data": f"sa:dq:{name}"}])
     rows.append([{"text": tg_label, "callback_data": f"sa:tg:{name}"}])
     rows.append([{"text": "↩️ Menu chính", "callback_data": "sa:back:x"}])
     return {"inline_keyboard": rows}
@@ -1563,6 +1572,20 @@ def menu_update_handler(key: str, token: str, upd: dict):
             if cb_id:
                 _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                         text=note)
+        elif sact == "dq":
+            # ⭐ default bang-gia symbol (BOT2): bang button / !now send this
+            # one symbol instead of the whole table or the watch list.
+            cur = state.get("default_quote_symbol")
+            if cur == sname:
+                state["default_quote_symbol"] = None
+                note = f"Đã bỏ {sname} khỏi báo giá mặc định"
+            else:
+                state["default_quote_symbol"] = sname
+                note = f"⭐ {sname} là mã báo giá mặc định"
+            save_state()
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                        text=note)
         _show_symbol_detail(token, cb, sname, key)
         return
 
@@ -1596,15 +1619,25 @@ def menu_update_handler(key: str, token: str, upd: dict):
         _edit_menu(token, cb, refresh=True, key=key, force_edit=True)
         return
 
+    if pick == "!full":
+        # Explicit full bang-gia table (the only path that shows ALL symbols).
+        if cb_id:
+            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                    text="Đang gửi bảng đầy đủ...")
+        text = build_banggia_dashboard()
+        if not text:
+            text = "⏳ Bảng giá chưa sẵn — thử lại sau 1-2 phút."
+        send_telegram(token, cb_chat, text, extra={"reply_markup": menu_btn_json()})
+        return
+
     if pick == "!now":
-        if not watch:
+        act = ROLE_MAIN.get(key, "chart")
+        dq = state.get("default_quote_symbol")
+        if not watch and not (act == "bang" and dq and find_menu_entry(dq)):
             if cb_id:
                 _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                         text="Bạn chưa chọn mã nào - chạm một mã để ✅", show_alert=True)
             return
-        # Role-pure: dispatch THIS bot's own service (chart/analysis/bang/news)
-        # instead of always jumping to bot4's chart reports.
-        act = ROLE_MAIN.get(key, "chart")
         if cb_id:
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                     text=f"Đang gửi {ROLE_SVC_BTN[act][0].lower()}...")
@@ -1698,6 +1731,26 @@ def build_banggia_dashboard(top=8):
     return build_banggia(items, top=top)
 
 
+def build_banggia_for(names, header=None):
+    """Bảng giá for specific `names` from the dashboard cache (default symbol
+    or watched list) — never the whole table unless explicitly requested."""
+    by_name = {s.get("name"): s for s in load_dashboard_symbols()}
+    items = []
+    for n in names:
+        s = by_name.get(n)
+        if s and s.get("name"):
+            items.append({"name": s.get("name"), "symbol": s.get("symbol"),
+                          "analysis": s.get("analysis_text") or ""})
+    if not items:
+        return None
+    text = build_banggia(items, top=len(items))
+    if header:
+        lines = text.split("\n")
+        lines[0] = header
+        text = "\n".join(lines)
+    return text
+
+
 def build_analysis_snapshot(names):
     """Full MTF analysis text for `names` from the fresh dashboard cache."""
     by_name = {s.get("name"): s for s in load_dashboard_symbols()}
@@ -1767,11 +1820,32 @@ def handle_menu_action(act: str, key: str, token: str, chat: str):
         print(f"  Action analysis (via {key}): {'OK' if ok else 'FAIL'} "
               f"({nchart} chart(s))")
     elif act == "bang":
-        text = build_banggia_dashboard()
-        if not text:
-            text = "⏳ Bảng giá chưa sẵn — thử lại sau 1-2 phút."
-        ok = send_telegram(otoken, chat, text, extra={"reply_markup": menu_btn_json()})
-        print(f"  Action bang (via {key}): {'OK' if ok else 'FAIL'}")
+        # Priority: ⭐ default symbol > watched symbols > guidance toast.
+        # (Never auto-send the full table — unreadable. Explicit path: 📋.)
+        dq = state.get("default_quote_symbol")
+        watch = [n for n in (state.get("watch_symbols") or [])
+                 if find_menu_entry(n)]
+        names, header = None, None
+        if dq and find_menu_entry(dq):
+            names, header = [dq], f"🎯 BẢNG GIÁ · {dq.upper()}"
+        elif watch:
+            names, header = watch, "📊 BẢNG GIÁ THEO DÕI"
+        if names:
+            text = build_banggia_for(names, header)
+            if not text:
+                text = "⏳ Bảng giá chưa sẵn — dashboard chưa có dữ liệu các mã này."
+            ok = send_telegram(otoken, chat, text,
+                               extra={"reply_markup": menu_btn_json()})
+            print(f"  Action bang (via {key}): {'OK' if ok else 'FAIL'} "
+                  f"({len(names)} mã)")
+        else:
+            ok = send_telegram(
+                otoken, chat,
+                "🎯 Chưa có mã mặc định hay mã theo dõi nào.\n"
+                "→ 🔎 chi tiết mã (BOT2) → ⭐ Gửi mặc định, hoặc\n"
+                "   chạm một mã trong menu để ✅ theo dõi.",
+                extra={"reply_markup": menu_btn_json()})
+            print(f"  Action bang (via {key}): guidance (no default/watch)")
     elif act == "news":
         text, items = news_pipeline(mark_seen=False)
         if not items:
@@ -2363,36 +2437,19 @@ def classify_news_item(item) -> str:
 
 
 def build_news_digest(new_items) -> str:
-    """Quick market mind-map: grouped themes, hot items keep links, the rest
-    are one-line headlines — no wall of URLs."""
-    groups = {}
-    for it in new_items:
-        groups.setdefault(classify_news_item(it), []).append(it)
-
+    """Compact bullet list: one line per item (translated headline, source),
+    newest first — no links, no group walls."""
     now = datetime.now(timezone.utc).strftime("%H:%M %d/%m/%Y")
-    lines = [f"📰 SƠ ĐỒ TIN THỊ TRƯỜNG · {now} UTC", "━" * 26]
-
-    for label in list(groups):
-        items = groups[label]
-        lines.append(f"\n{label} ({len(items)}):")
-        for it in items:
-            title = (it.get("title_vi") or it.get("title") or "")[:130]
-            lines.append(f"  • {title}")
-
-    # Hot = first 2 items overall; only these keep a link.
-    hot = [it for it in new_items if it.get("url")][:2]
-    if hot:
-        lines.append("\n🔥 NỔI BẬT (bấm để đọc):")
-        for i, it in enumerate(hot, 1):
-            title = (it.get("title_vi") or it.get("title") or "")[:110]
-            lines.append(f"  {i}. {title}")
-            lines.append(f"     {it['url']}")
-
+    lines = [f"📰 TIN MỚI · {now} UTC ({len(new_items)} tin)", "━" * 26]
+    items = sorted(new_items, key=lambda it: it.get("ts") or 0, reverse=True)
+    for it in items:
+        title = (it.get("title_vi") or it.get("title") or "").replace("\n", " ")[:160]
+        src = str(it.get("source") or "").split(":")[0][:18]
+        lines.append(f"• {title}" + (f" ({src})" if src else ""))
     price_line = dashboard_price_strip()
     if price_line:
         lines.append("")
         lines.append(price_line)
-
     return "\n".join(lines)
 
 
@@ -2772,7 +2829,7 @@ def run_signals():
         save_state()
         return
 
-    # Watched symbols first, then priority symbols; cap = 12 fetches per scan.
+    # Watched symbols first, then priority symbols.
     targets = []
     for n in list(state.get("watch_symbols") or []) + [e[0] for e in CONFIG["symbols"]]:
         if n not in targets and find_menu_entry(n):
@@ -2780,25 +2837,40 @@ def run_signals():
         if len(targets) >= 10:
             break
 
-    alerts = []
+    # Multi-timeframe scan: 1H raw + 4H resampled from the same fetch;
+    # 1D from a separate daily fetch (24x resample of 1H would be too short
+    # for the >=30-bar detector). CoinGecko fallback covers D1 only.
+    TF_COOLDOWN = {"1H": SIGNAL_COOLDOWN,
+                   "4H": SIGNAL_COOLDOWN * 2,
+                   "1D": SIGNAL_COOLDOWN * 12}
+    alerts = []  # (tf, name, sig)
     for name in targets:
         e = find_menu_entry(name)
         if not e:
             continue
         _, cg, yahoo, tv = e
-        data = fetch_yahoo_chart(yahoo, "1h", "5d") if yahoo else None
-        if not data and cg:
-            data = fetch_coingecko_ohlc(cg, "usd", 7)
-        if not data:
-            continue
-        for sig in detect_signals(name, data):
-            ck = f"{name}:{sig['key']}"
-            sigts = state.setdefault("signal_ts", {})
-            last = float(sigts.get(ck, 0) or 0)
-            if now - last < SIGNAL_COOLDOWN:
-                continue
-            sigts[ck] = now
-            alerts.append((name, sig))
+        data1h = fetch_yahoo_chart(yahoo, "1h", "1mo") if yahoo else None
+        data1d = fetch_yahoo_chart(yahoo, "1d", "6mo") if yahoo else None
+        if not data1h and not data1d and cg:
+            data1d = fetch_coingecko_ohlc(cg, "usd", 90)
+        series = []
+        if data1h:
+            series.append(("1H", data1h))
+            series.append(("4H", resample_bars(data1h, 4)))
+        if data1d:
+            series.append(("1D", data1d))
+        for tf, sdata in series:
+            # Per-TF detector memory (range/touch) via a prefixed name.
+            for sig in detect_signals(f"{name}|{tf}", sdata):
+                ck = f"{name}|{tf}|{sig['key']}"
+                sigts = state.setdefault("signal_ts", {})
+                last = float(sigts.get(ck, 0) or 0)
+                if now - last < TF_COOLDOWN.get(tf, SIGNAL_COOLDOWN):
+                    continue
+                sigts[ck] = now
+                alerts.append((tf, name, sig))
+                if len(alerts) >= 8:
+                    break
             if len(alerts) >= 8:
                 break
         if len(alerts) >= 8:
@@ -2814,21 +2886,32 @@ def run_signals():
         print("  Signals: no new signals")
         return
 
-    lines = ["⚡ CẢNH BÁO THỊ TRƯỜNG", "━" * 26]
-    for name, sig in alerts:
-        e2 = find_menu_entry(name)
-        code = str(e2[3]).split(":")[-1] if e2 else name
-        lines.append(f"{sig['icon']} `{code}` *{name}* · {sig['label']}")
-        lines.append(f"   {sig['detail']}")
-    lines.append("")
-    lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
-                 f"cooldown 30 phút/mẫu")
-    text = "\n".join(lines)
+    # ONE separate Telegram message per timeframe ("nhiều khung gửi tele").
+    by_tf = {}
+    for tf, name, sig in alerts:
+        by_tf.setdefault(tf, []).append((name, sig))
     sent = 0
-    for chat in chats:
-        if send_telegram(token, chat, text, extra={"reply_markup": menu_btn_json()}):
-            sent += 1
-    print(f"  Signals: {len(alerts)} alert(s) -> {sent}/{len(chats)} chat(s)")
+    for tf in ("1H", "4H", "1D"):
+        group = by_tf.get(tf)
+        if not group:
+            continue
+        cd = TF_COOLDOWN.get(tf, SIGNAL_COOLDOWN)
+        cd_txt = "30 phút" if cd < 3600 else f"{cd // 3600} giờ"
+        lines = [f"⚡ CẢNH BÁO · KHUNG {tf}", "━" * 26]
+        for name, sig in group:
+            e2 = find_menu_entry(name)
+            code = str(e2[3]).split(":")[-1] if e2 else name
+            lines.append(f"{sig['icon']} `{code}` *{name}* · {sig['label']}")
+            lines.append(f"   {sig['detail']}")
+        lines.append("")
+        lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
+                     f"cooldown {cd_txt}/mẫu")
+        text = "\n".join(lines)
+        for chat in chats:
+            if send_telegram(token, chat, text, extra={"reply_markup": menu_btn_json()}):
+                sent += 1
+    print(f"  Signals: {len(alerts)} alert(s) in {len(by_tf)} khung "
+          f"-> {sent} tin / {len(chats)} chat(s)")
 
 
 def main():
