@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791619791.9293756,
+  "last_signals": 1791620150.9742491,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -34,7 +34,7 @@
     "US30:trap_up": 1791572560.5769558,
     "USD/JPY:range_in": 1791578809.2870445,
     "JPY Index:range_in": 1791578809.2870445,
-    "Ethereum:range_in": 1791584791.6335783,
+    "Ethereum:range_in": 1791620150.9742491,
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791578257.7186818,
@@ -44,7 +44,7 @@
     "Gold": true,
     "USOIL": false,
     "Bitcoin": true,
-    "Ethereum": false,
+    "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791619785.6110024,
-  "last_news": 1791619791.9275844,
+  "last_analysis": 1791620144.9491174,
+  "last_news": 1791620150.973401,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Oil eases on Trump\u2019s Iran pledge",
-    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn s\u00e1ng ng\u00e0y 10/10 t\u1ea1i SJC, DOJI, B\u1ea3o T\u00edn M\u1ea1nh H\u1ea3i, PNJ,.",
-    "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS | VietstockFinance - VietstockFinance",
-    "Top KingWin changes name to Nexpu - TradingView",
-    "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-    "Plans to shut Marston's Brewery in Burton revealed",
     "States Bet on Virtual Power Plants to Cut Grid Costs",
     "Venezuela president authorizes SpaceX\u2019s Starlink to operate in the country",
     "investingLive Americas market news wrap: Trump says no attacks on Iran before th",
@@ -380,6 +374,12 @@
     "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
     "European stocks finish higher Friday, but most post weekly declines",
     "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi th\u1ea5t nghi\u1ec7p c\u00f3 5,85 t\u1ef7 \u0111\u1ed3ng g\u1eedi ti\u1ebft ki\u1ec7m, s\u1ed1ng trong c\u0103n h\u1ed9 g",
-    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance"
+    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
+    "Asia FX: Trade negotiations and resilient macro backdrop \u2013 MUFG",
+    "Market playbook: Why what doesn't happen in markets can be the biggest trading s",
+    "V\u00ec sao ti\u1ebfp vi\u00ean h\u00e0ng kh\u00f4ng nh\u00ecn v\u00e0o gi\u00e0y c\u1ee7a h\u00e0nh kh\u00e1ch khi l\u00ean m\u00e1y bay?",
+    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
+    "News by CNBC TV18 on TradingView, 2026-10-09 \u2014 cnbctv:c1b8faf96094b:0 - TradingV",
+    "Trump's diesel agreement with Putin accused of contradicting Russia sanctions la"
   ]
 }
