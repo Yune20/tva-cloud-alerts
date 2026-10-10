@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791663592.7023516,
+  "last_signals": 1791664195.5681129,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -67,7 +67,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791663584.818604,
-  "last_news": 1791663592.7015631,
+  "last_analysis": 1791664187.0563645,
+  "last_news": 1791664195.565166,
   "seen_news": [
-    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico | VietstockFinance - Vietst",
-    "Vivakor Signs Loi For Proposed $40 Million Acquisition Of Direct Midstream - Tra",
-    "Why Nvidia\u2019s stock is dodging the AI credit scare that is crushing Broadcom and ",
-    "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
-    "Rainmakers: The drones used to seed clouds",
-    "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict",
     "The AI telling farmers when to harvest",
     "EUR/USD outlook as euro stays pinned near multi month lows",
     "Singapore Dollar: Range trading persists against US Dollar \u2013 UOB",
@@ -414,6 +408,12 @@
     "Why are more roofs not made of solar tiles?",
     "Infosys sees no material impact from U.S. PERM suspension",
     "China: Robust trade and rising prices \u2013 DBS",
-    "US stocks close higher; Nasdaq gains for fourth straight week"
+    "US stocks close higher; Nasdaq gains for fourth straight week",
+    "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+    "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+    "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
+    "Bitcoin sellers had their shot. They missed.",
+    "Sun Group ch\u01a1i l\u1edbn v\u1edbi 7.000 qu\u1ea3 ph\u00e1o hoa th\u1eafp s\u00e1ng tr\u1eddi H\u00e0 N\u1ed9i m\u1eebng 72 n\u0103m Ng\u00e0y",
+    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS | VietstockFinance - VietstockFinance"
   ]
 }
