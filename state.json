@@ -25,10 +25,10 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791612024.8128445,
+  "last_signals": 1791612641.6260667,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
-    "Gold:range_in": 1791563549.9074335,
+    "Gold:range_in": 1791612641.6260667,
     "USOIL:range_in": 1791579157.3708196,
     "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791572560.5769558,
@@ -41,7 +41,7 @@
     "Bitcoin:range_in": 1791605105.0132947
   },
   "sig_range": {
-    "Gold": false,
+    "Gold": true,
     "USOIL": false,
     "Bitcoin": true,
     "Ethereum": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791612015.6961946,
-  "last_news": 1791612024.8121252,
+  "last_analysis": 1791612631.3374343,
+  "last_news": 1791612641.625401,
   "seen_news": [
-    "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-    "Adidas sues Australian label White Fox over four stripes design",
-    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-    "UBS sees stronger outlook for Brazilian real after election",
-    "Japan: Bond outflows reshape global yields - Commerzbank",
-    "USDCHF is stuck in 50 pip trading range since midday Monday. What does that say ",
     "Canada\u2019s New Oil Pipeline Challenged by Cold Lake First Nations",
     "Character.AI chatbots encouraged users to cut and starve themselves, Kentucky al",
     "Poland: Inflation outlook stabilises \u2013 ING",
@@ -380,6 +374,12 @@
     "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis",
     "French fiscal risks raise chance of ECB pause after December",
     "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
-    "C\u1eadn c\u1ea3nh thi c\u00f4ng h\u1ea7m xuy\u00ean n\u00fai tr\u00ean cao t\u1ed1c k\u1ebft n\u1ed1i v\u1edbi L\u00e0o"
+    "C\u1eadn c\u1ea3nh thi c\u00f4ng h\u1ea7m xuy\u00ean n\u00fai tr\u00ean cao t\u1ed1c k\u1ebft n\u1ed1i v\u1edbi L\u00e0o",
+    "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
+    "Canadian dollar gains as oil rally, narrower yield gap support loonie",
+    "European Central Bank: Conditional support and French risks \u2013 Rabobank",
+    "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields ",
+    "\u0110inh Vi\u1ebft T\u01b0\u1eddng (Tr\u1ea1i Bu\u00f4n Ng\u01b0\u1eddi): \u201cN\u1ebfu h\u00f4m nay mu\u1ed1n b\u1ecf cu\u1ed9c th\u00ec c\u1ee9 \u0111i ng\u1ee7 tr\u01b0\u1edbc",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance"
   ]
 }
