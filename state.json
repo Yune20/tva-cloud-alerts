@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791603517.2181783,
+  "last_signals": 1791604125.019112,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -43,7 +43,7 @@
   "sig_range": {
     "Gold": false,
     "USOIL": false,
-    "Bitcoin": false,
+    "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791603511.2363958,
-  "last_news": 1791603517.2167387,
+  "last_analysis": 1791604117.6431777,
+  "last_news": 1791604125.0183146,
   "seen_news": [
-    "Holding(s) in Company - TradingView",
-    "Here\u2019s how Treasury yields could rise to 6% \u2014 even without market upheaval",
-    "The used car market is stagnant. Here's how to profit anyway",
-    "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-    "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
-    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank",
     "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
     "Burnham promises to curb non-compete rules in job contracts",
     "Citi sees limited upside for EUR/JPY amid intervention expectations",
@@ -380,6 +374,12 @@
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
     "Gigasun AB (publ) (GIGA) OKs Bond Set-Off Share Issue - TradingView",
     "Junk bonds are 'flashing yellow.' Watch these warning signs",
-    "The start-ups hoping to return battery making to the US"
+    "The start-ups hoping to return battery making to the US",
+    "\u00d4ng Trump n\u00e9 c\u00e2u h\u1ecfi c\u00f3 xem livestream v\u1ee5 h\u00e0nh quy\u1ebft t\u00ean s\u00e1t nh\u00e2n h\u00e0ng lo\u1ea1t hay ",
+    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank - VietstockFinance",
+    "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
+    "Nobel winner Krugman says France may have become 'too big to save'",
+    "Fuel prices added to Google Maps as petrol and diesel costs soar",
+    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
   ]
 }
