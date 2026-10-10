@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791656736.1499932,
+  "last_signals": 1791657347.319641,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,7 +65,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791656726.9792256,
-  "last_news": 1791656736.1490269,
+  "last_analysis": 1791657336.9433584,
+  "last_news": 1791657347.318791,
   "seen_news": [
-    "Crude Oil is Underpriced, Energy Aspects Says",
-    "China adds 10.52 million urban jobs in Jan-Sept, to roll out services jobs polic",
-    "Arab sources: Several severe explosions have occurred in the Strait of Hormuz",
-    "B\u1ea5t ng\u1edd ph\u00e1t hi\u1ec7n 180.000 con r\u00f9a kh\u1ed5ng l\u1ed3",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
-    "What MTY Food Group (MTY) Said on Its Q3 Earnings Call - TradingView",
     "Morning Kickstart: Dollar mixed, stocks rebound and oil retreats amid Iran uncer",
     "XSMT 10/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 10 th\u00e1ng 10",
     "GEE: CTCP \u0110i\u1ec7n l\u1ef1c Gelex - GELEX Electric.,JSC - VietstockFinance",
@@ -414,6 +408,12 @@
     "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
     "Corn Nearing Limit Losses as USDA Hikes Yield - TradingView",
     "Tokenization could unleash tens of billions of dollars in trapped capital, Nasda",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada"
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
+    "Analyst Sets Stark S&P 500 Target For 2027 - TradingView",
+    "Little relief expected for gas prices ahead of Election Day, according to predic",
+    "White House blocks Microsoft from foreign worker hiring programme",
+    "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million",
+    "Thailand prepares to host IMF-World Bank meetings"
   ]
 }
