@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791667865.834619,
+  "last_signals": 1791668477.0362773,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -67,7 +67,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791667856.8341548,
-  "last_news": 1791667865.8336601,
+  "last_analysis": 1791668469.2511413,
+  "last_news": 1791668477.035437,
   "seen_news": [
-    "Canadian dollar gains as oil rally, narrower yield gap support loonie",
-    "European Central Bank: Conditional support and French risks \u2013 Rabobank",
-    "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as",
-    "T\u00ecnh c\u1ea3nh \"m\u1ed9t tr\u1eddi m\u1ed9t v\u1ef1c\" c\u1ee7a Lisa khi h\u1eb9n h\u00f2 thi\u1ebfu gia t\u00e0i phi\u1ec7t v\u00e0 \"h\u1ed3ng h\u00e0",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "RBI steps up rupee support, opens dollar window for oil companies - TradingView",
     "USDCHF is stuck in 50 pip trading range since midday Monday. What does that say ",
     "Tri\u1ec3n khai quy\u1ebft \u0111\u1ecbnh v\u1ec1 c\u00f4ng t\u00e1c c\u00e1n b\u1ed9 \u1edf \u1ee6y ban Ki\u1ec3m tra Trung \u01b0\u01a1ng, Ban N\u1ed9i c",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
@@ -414,6 +408,12 @@
     "News by CNBC TV18 on TradingView, 2026-10-10 \u2014 cnbctv:3ac178cc9094b:0 - TradingV",
     "Millions of Americans will have fewer options during Medicare open enrollment th",
     "Buffett's 'trips down YouTube rabbit hole' revealed",
-    "New electric car 'make or break for Jaguar'"
+    "New electric car 'make or break for Jaguar'",
+    "Edge Total Intelligence Inc. (CTRL) Restates Q2, Loss +$4.76M - TradingView",
+    "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+    "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+    "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis",
+    "Euro zone ministers tell France to pass 2027 budget to calm markets",
+    "Chinese Yuan: PBoC defends yuan narrative \u2013 Commerzbank"
   ]
 }
