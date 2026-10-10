@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791614826.1859124,
-  "last_bot4": 1791619112.791357,
+  "last_bot4": 1791619791.9286926,
   "watch_symbols": [
     "Gold"
   ],
@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791619432.0528266,
+  "last_signals": 1791619791.9293756,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -44,7 +44,7 @@
     "Gold": true,
     "USOIL": false,
     "Bitcoin": true,
-    "Ethereum": true,
+    "Ethereum": false,
     "US30": false,
     "GBP/USD": true,
     "EUR/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791619424.0584674,
-  "last_news": 1791619432.0520985,
+  "last_analysis": 1791619785.6110024,
+  "last_news": 1791619791.9275844,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "News by CNBC TV18 on TradingView, 2026-10-09 \u2014 cnbctv:c1b8faf96094b:0 - TradingV",
-    "Trump's diesel agreement with Putin accused of contradicting Russia sanctions la",
-    "Derry firm becomes one of UK's biggest car park operators after buying NCP",
-    "U.S. bond market halts rout while Eurozone finance ministers pressure Paris",
-    "Asia FX: Trade negotiations and resilient macro backdrop \u2013 MUFG",
     "investingLive Asia-Pacific market news: Oil eases on Trump\u2019s Iran pledge",
     "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn s\u00e1ng ng\u00e0y 10/10 t\u1ea1i SJC, DOJI, B\u1ea3o T\u00edn M\u1ea1nh H\u1ea3i, PNJ,.",
     "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS | VietstockFinance - VietstockFinance",
@@ -380,6 +374,12 @@
     "Key facts: ASTS slides ~15%; 4.86% of Procure Space ETF; 1000MHz 200Mbps - Tradi",
     "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
     "'Add me on WhatsApp' scam calls to be investigated",
-    "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply"
+    "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "Sterling today: Pound edges up as dollar dips on Treasury pause",
+    "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
+    "European stocks finish higher Friday, but most post weekly declines",
+    "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi th\u1ea5t nghi\u1ec7p c\u00f3 5,85 t\u1ef7 \u0111\u1ed3ng g\u1eedi ti\u1ebft ki\u1ec7m, s\u1ed1ng trong c\u0103n h\u1ed9 g",
+    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance"
   ]
 }
