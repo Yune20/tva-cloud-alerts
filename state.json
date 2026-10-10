@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791649016.6797287,
+  "last_signals": 1791649631.313731,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,9 +65,9 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791649008.6122746,
-  "last_news": 1791649016.6790562,
+  "last_analysis": 1791649622.888156,
+  "last_news": 1791649631.3130252,
   "seen_news": [
-    "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
-    "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American ",
-    "H\u00e0 N\u1ed9i kh\u1edfi c\u00f4ng D\u1ef1 \u00e1n \u0110\u1ea7u t\u01b0 x\u00e2y d\u1ef1ng v\u00e0 kinh doanh k\u1ebft c\u1ea5u h\u1ea1 t\u1ea7ng KCN Ti\u1ebfn Th",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Gold adds over 1% on easing oil prices, softer dollar - TradingView",
-    "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still s",
     "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
     "Little relief expected for gas prices ahead of Election Day, according to predic",
     "Europe's car makers are in crisis. Will the threat of war rescue them?",
@@ -414,6 +408,12 @@
     "Partners Group (P2H) Launches Global Private Credit Income Strategy - TradingVie",
     "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
     "Derry firm becomes one of UK's biggest car park operators after buying NCP",
-    "States Bet on Virtual Power Plants to Cut Grid Costs"
+    "States Bet on Virtual Power Plants to Cut Grid Costs",
+    "M\u00e1y bay Colombia \u0111ang tr\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn New York ph\u1ea3i chuy\u1ec3n h\u01b0\u1edbng b\u1ea5t ng\u1edd, 8 ng\u01b0\u1eddi",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
+    "Streamex Received Notice of Noncompliance - TradingView",
+    "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelt",
+    "I've been with my boyfriend for two years and don't know his salary",
+    "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch"
   ]
 }
