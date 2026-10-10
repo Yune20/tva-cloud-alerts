@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791669997.362372,
-  "last_bot4": 1791670903.8332734,
+  "last_bot4": 1791671568.8576474,
   "watch_symbols": [],
   "watch_by_chat": {},
   "default_quote_by_chat": {},
@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791670903.8350577,
+  "last_signals": 1791671568.8587255,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -62,7 +62,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791670897.3067691,
-  "last_news": 1791670903.769565,
+  "last_analysis": 1791671560.9112697,
+  "last_news": 1791671568.8567355,
   "seen_news": [
-    "Dollar pauses near 18-month high as U.S bond rout halts, euro rebounds slightly",
-    "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
-    "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
-    "L\u1eddi khuy\u00ean \u0111\u1ebfn nh\u1eefng gia \u0111\u00ecnh v\u1eabn \u0111ang d\u00f9ng ch\u1ea3o ch\u1ed1ng d\u00ednh \u0111\u00e3 bong tr\u00f3c",
-    "DCM: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 40,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Evernorth Completes Business Combination with Armada Acquisition Corp. II - Trad",
     "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what t",
     "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
     "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out",
@@ -414,6 +408,12 @@
     "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
     "My hometown shows that high streets have to change or die",
     "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-    "Philips wins Dutch court battle with shareholders over sleep apnea recall"
+    "Philips wins Dutch court battle with shareholders over sleep apnea recall",
+    "Americans' debt problems are flashing a warning not seen since the Great Recessi",
+    "Adidas sues Australian label White Fox over four stripes design",
+    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
+    "UBS sees stronger outlook for Brazilian real after election",
+    "Japan: Bond outflows reshape global yields - Commerzbank",
+    "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected"
   ]
 }
