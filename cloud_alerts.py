@@ -5,6 +5,7 @@ Fetches market data, computes indicators, sends to Telegram bots.
 Only requires: requests
 """
 import os
+import re
 import sys
 import time
 import json
@@ -903,6 +904,40 @@ BOT_ROLES = {
 }
 ACTION_OWNERS = {"chart": "bot4", "analysis": "bot1", "bang": "bot2",
                  "news": "bot3", "bt": "bot1"}
+# Role-pure routing: each bot only OFFERS and only SERVES its own services,
+# and replies always come from the tapped bot into its own chat — no more
+# answers jumping between bot windows ("chồng chéo chức năng").
+ROLE_ACTIONS = {"bot1": {"analysis", "bt"},
+                "bot2": {"bang"},
+                "bot3": {"news"},
+                "bot4": {"chart"}}
+ROLE_MAIN = {"bot1": "analysis", "bot2": "bang",
+             "bot3": "news", "bot4": "chart"}
+ROLE_SVC_TEXT = {
+    "bot1": "📊 Phân tích MTF đủ khung D1/H4/H1 + vùng vào/SL/TP",
+    "bot2": "💹 Bảng giá (mã · tên · giá) + cảnh báo tín hiệu",
+    "bot3": "📰 Tin tức dịch tiếng Việt + báo cáo thống kê 3 giờ",
+    "bot4": "📈 Chart nến + kế hoạch giao dịch từng mã ✅",
+}
+ROLE_SVC_BTN = {
+    "chart": ("📈 Chart+Plan", "a:chart"),
+    "analysis": ("📊 Phân tích", "a:analysis"),
+    "bang": ("💹 Bảng giá", "a:bang"),
+    "news": ("📰 Tin tức", "a:news"),
+}
+ROLE_NOW_LABEL = {"bot1": "📩 Gửi phân tích ngay",
+                  "bot2": "📩 Gửi bảng giá ngay",
+                  "bot3": "📩 Gửi tin ngay",
+                  "bot4": "📩 Gửi chart+plan ngay"}
+# Per-symbol detail screen: which sa: services each bot owns/shows
+ROLE_DETAIL = {"bot1": ["an", "bt"], "bot2": [], "bot3": [], "bot4": ["chart"]}
+ROLE_DETAIL_TEXT = {
+    "bot1": ["📊 Phân tích MTF — đủ khung", "🧪 Backtest EMA21/50"],
+    "bot2": ["💹 Bảng giá tổng — nút 💹 ở menu chính"],
+    "bot3": ["📰 Tin mới nhất — nút 📰 ở menu chính"],
+    "bot4": ["📈 Chart nến + kế hoạch entry/SL/TP"],
+}
+SA_ACT_OWNER = {"chart": "chart", "an": "analysis", "bt": "bt"}
 MENU_BTN = {"inline_keyboard": [[
     {"text": "📋 Menu tín hiệu", "callback_data": "m:!menu"},
 ]]}
@@ -912,14 +947,17 @@ def menu_btn_json() -> str:
     return json.dumps(MENU_BTN, ensure_ascii=False)
 
 
-def owner_token(action: str, fallback: str) -> str:
-    """Token of the specialist bot that owns an action (fallback = tapped bot)."""
-    key = ACTION_OWNERS.get(action)
-    if key:
-        t = CONFIG.get(f"{key}_token")
-        if t:
-            return t
-    return fallback
+def _role_allowed(key: str, act: str) -> bool:
+    """True when `act` belongs to bot `key`'s role (role-pure menus)."""
+    return act in ROLE_ACTIONS.get(key, set())
+
+
+def _role_redirect(key: str, act: str) -> str:
+    """Toast when a stale keyboard offers another bot's service."""
+    owner = ACTION_OWNERS.get(act, "")
+    icon, role, _ = BOT_ROLES.get(owner, ("🤖", "", ""))
+    return (f"📌 Tính năng này của {owner.upper()} {icon} {role} — "
+            f"mở {owner.upper()} dùng nhé")
 
 
 def menu_text(key: str = "bot4", refresh: bool = False):
@@ -950,9 +988,9 @@ def menu_text(key: str = "bot4", refresh: bool = False):
         lines.append(f" {mark} {code} · {name}: {prices.get(name, '—')}")
     lines += [
         "",
-        "🎯 DỊCH VỤ (bot chuyên trách trả lời):",
-        "  📈 Chart+Plan · 📊 Phân tích · 💹 Bảng giá · 📰 Tin tức",
-        "🔎 Chi tiết mã: chart / phân tích / backtest riêng từng mã.",
+        f"🎯 DỊCH VỤ {bot_no} (chỉ bot này trả lời):",
+        f"  {ROLE_SVC_TEXT[key]}",
+        "🔎 Chi tiết mã: dịch vụ riêng của từng bot (nút 🔎).",
         "⚙️ Tùy biến lưu chung · 💬 /menu mở lại.",
     ]
     return "\n".join(lines)
@@ -986,14 +1024,12 @@ def menu_keyboard(key: str = "bot4"):
             row = []
     if row:
         rows.append(row)
-    rows.append([
-        {"text": "📈 Chart+Plan", "callback_data": "a:chart"},
-        {"text": "📊 Phân tích", "callback_data": "a:analysis"},
-    ])
-    rows.append([
-        {"text": "💹 Bảng giá", "callback_data": "a:bang"},
-        {"text": "📰 Tin tức", "callback_data": "a:news"},
-    ])
+    # Role-pure service row: only THIS bot's own service button(s).
+    svc = [{"text": ROLE_SVC_BTN[a][0], "callback_data": ROLE_SVC_BTN[a][1]}
+           for a in ("chart", "analysis", "bang", "news")
+           if a in ROLE_ACTIONS.get(key, set())]
+    if svc:
+        rows.append(svc)
     # Per-symbol detail screens for watched symbols (max 8).
     drow = []
     for name in watch[:8]:
@@ -1004,7 +1040,7 @@ def menu_keyboard(key: str = "bot4"):
     if drow:
         rows.append(drow)
     rows.append([
-        {"text": "📩 Gửi ngay ✅", "callback_data": "m:!now"},
+        {"text": ROLE_NOW_LABEL.get(key, "📩 Gửi ngay ✅"), "callback_data": "m:!now"},
         {"text": "🔄 Tải lại giá", "callback_data": "m:!refresh"},
     ])
     rows.append([{"text": "🗑️ Xóa tất cả theo dõi", "callback_data": "m:!clear"}])
@@ -1268,15 +1304,6 @@ def run_bot4():
     save_state()
 
 
-def _report_token(src_key: str, src_token: str, chat: str) -> str:
-    """Prefer BOT4 for chart/plan replies when bot4 knows this chat."""
-    if CONFIG["bot4_token"] and chat:
-        known = [str(c) for c in (state.get("bot_chats") or {}).get("bot4", [])]
-        if chat in known or chat == str(CONFIG["bot4_chat"]):
-            return CONFIG["bot4_token"]
-    return src_token
-
-
 def _edit_menu(token: str, cb: dict, refresh: bool = False, key: str = "bot4",
                force_edit: bool = False):
     """Refresh the menu in place after a toggle.
@@ -1309,8 +1336,8 @@ def _symbol_price(name: str, prices: dict = None) -> str:
     return prices.get(name, "—")
 
 
-def detail_text(name: str) -> str:
-    """Detail screen for one symbol: price, status, service list."""
+def detail_text(name: str, key: str = "bot4"):
+    """Detail screen for one symbol: price, status, this bot's own services."""
     e = find_menu_entry(name)
     if not e:
         return f"🔎 {name}\n(Mã không còn trong menu)"
@@ -1318,31 +1345,34 @@ def detail_text(name: str) -> str:
     code = str(tv).split(":")[-1]
     watch = state.get("watch_symbols") or []
     mark = "✅ đang theo dõi" if name in watch else "▫️ chưa theo dõi"
+    svc = [f"  {t}" for t in ROLE_DETAIL_TEXT.get(key, ROLE_DETAIL_TEXT["bot4"])]
     return "\n".join([
         f"🔎 {name.upper()} · {code}",
         "━" * 22,
         f"💰 Giá: {_symbol_price(name)}",
         f"📌 Trạng thái: {mark}",
         "",
-        "🎯 DỊCH VỤ CHO MÃ NÀY:",
-        "  📈 Chart+Plan — BOT4",
-        "  📊 Phân tích MTF — BOT1",
-        "  🧪 Backtest EMA21/50 — BOT1",
+        f"🎯 DỊCH VỤ CỦA {key.upper()}:",
+        *svc,
         "",
         "↩️ «Menu chính» để chọn mã khác.",
     ])
 
 
-def detail_keyboard(name: str):
+def detail_keyboard(name: str, key: str = "bot4"):
     watch = state.get("watch_symbols") or []
     tg_label = ("▫️ Bỏ theo dõi" if name in watch else "✅ Theo dõi")
-    return {"inline_keyboard": [
-        [{"text": "📈 Chart+Plan", "callback_data": f"sa:chart:{name}"},
-         {"text": "📊 Phân tích", "callback_data": f"sa:an:{name}"}],
-        [{"text": "🧪 Backtest", "callback_data": f"sa:bt:{name}"},
-         {"text": tg_label, "callback_data": f"sa:tg:{name}"}],
-        [{"text": "↩️ Menu chính", "callback_data": "sa:back:x"}],
-    ]}
+    svc_defs = {"chart": ("📈 Chart+Plan", f"sa:chart:{name}"),
+                "an": ("📊 Phân tích", f"sa:an:{name}"),
+                "bt": ("🧪 Backtest", f"sa:bt:{name}")}
+    rows = []
+    svc_row = [{"text": svc_defs[s][0], "callback_data": svc_defs[s][1]}
+               for s in ROLE_DETAIL.get(key, []) if s in svc_defs]
+    if svc_row:
+        rows.append(svc_row)
+    rows.append([{"text": tg_label, "callback_data": f"sa:tg:{name}"}])
+    rows.append([{"text": "↩️ Menu chính", "callback_data": "sa:back:x"}])
+    return {"inline_keyboard": rows}
 
 
 def _show_symbol_detail(token: str, cb: dict, name: str, key: str):
@@ -1352,8 +1382,9 @@ def _show_symbol_detail(token: str, cb: dict, name: str, key: str):
     if not mid or not chat:
         return
     _tg_api(token, "editMessageText", chat_id=chat, message_id=mid,
-            text=detail_text(name),
-            reply_markup=json.dumps(detail_keyboard(name), ensure_ascii=False))
+            text=detail_text(name, key),
+            reply_markup=json.dumps(detail_keyboard(name, key),
+                                    ensure_ascii=False))
 
 
 def _ema_full(vals, period):
@@ -1442,13 +1473,21 @@ def menu_update_handler(key: str, token: str, upd: dict):
     cb_msg = cb.get("message") or {}
     cb_chat = str((cb_msg.get("chat") or {}).get("id") or chat)
 
-    # Specialist actions — any bot's menu triggers them; the owning bot replies.
+    # Specialist actions — ROLE-PURE: only the owning bot offers & serves them.
+    # A stale keyboard tapped on another bot gets a pointer alert + the menu
+    # self-heals to role-pure (no cross-window replies anymore).
     if data.startswith("a:"):
         act = data[2:]
-        if cb_id:
-            _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
-                    text="Đang xử lý...")
         if act in ACTION_OWNERS:
+            if not _role_allowed(key, act):
+                if cb_id:
+                    _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                            text=_role_redirect(key, act), show_alert=True)
+                _edit_menu(token, cb, key=key, force_edit=True)
+                return
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                        text="Đang xử lý...")
             try:
                 handle_menu_action(act, key, token, cb_chat)
             except Exception as e:
@@ -1482,29 +1521,34 @@ def menu_update_handler(key: str, token: str, upd: dict):
         e = find_menu_entry(sname)
         if not e:
             return
+        # Role-pure guard for service buttons (stale keyboards self-heal):
+        # toast pointing to the owning bot + re-render this bot's detail screen.
+        if sact in SA_ACT_OWNER and sact not in ROLE_DETAIL.get(key, []):
+            if cb_id:
+                _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
+                        text=_role_redirect(key, SA_ACT_OWNER[sact]),
+                        show_alert=True)
+            _show_symbol_detail(token, cb, sname, key)
+            return
         if cb_id:
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                     text="Đang xử lý...")
         if sact == "chart":
-            rtoken = owner_token("chart", _report_token(key, token, cb_chat))
-            send_symbol_report(rtoken, cb_chat, e, force=True)
+            send_symbol_report(token, cb_chat, e, force=True)
         elif sact == "an":
             dash_names = {s.get("name") for s in load_dashboard_symbols()}
             if sname in dash_names:
-                an_token = owner_token("analysis", _report_token(key, token, cb_chat))
-                send_analysis_charts(an_token, cb_chat, [sname])
+                send_analysis_charts(token, cb_chat, [sname])
                 txt = build_analysis_snapshot([sname])
             else:
                 txt = (f"⏳ Chưa có phân tích MTF cho {sname} — mã ngoài "
                        f"11 cặp chính.\nDùng 📈 Chart+Plan hoặc 🧪 Backtest "
                        f"thay thế.")
-                an_token = owner_token("analysis", _report_token(key, token, cb_chat))
-            send_telegram(an_token, cb_chat, txt,
+            send_telegram(token, cb_chat, txt,
                           extra={"reply_markup": menu_btn_json()})
         elif sact == "bt":
             txt = backtest_ema_report(sname, e)
-            send_telegram(owner_token("bt", _report_token(key, token, cb_chat)),
-                          cb_chat, txt,
+            send_telegram(token, cb_chat, txt,
                           extra={"reply_markup": menu_btn_json()})
         elif sact == "tg":
             watch2 = list(state.get("watch_symbols") or [])
@@ -1558,14 +1602,17 @@ def menu_update_handler(key: str, token: str, upd: dict):
                 _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
                         text="Bạn chưa chọn mã nào - chạm một mã để ✅", show_alert=True)
             return
+        # Role-pure: dispatch THIS bot's own service (chart/analysis/bang/news)
+        # instead of always jumping to bot4's chart reports.
+        act = ROLE_MAIN.get(key, "chart")
         if cb_id:
             _tg_api(token, "answerCallbackQuery", callback_query_id=cb_id,
-                    text="Đang gửi biểu đồ + plan...")
-        rtoken = owner_token("chart", _report_token(key, token, cb_chat))
-        for name in watch[:4]:
-            e = find_menu_entry(name)
-            if e:
-                send_symbol_report(rtoken, cb_chat, e, force=True)
+                    text=f"Đang gửi {ROLE_SVC_BTN[act][0].lower()}...")
+        try:
+            handle_menu_action(act, key, token, cb_chat)
+        except Exception as e:
+            print(f"  !now {act} error: {e}")
+            send_telegram(token, cb_chat, f"⚠️ Lỗi: {e}")
         _edit_menu(token, cb, key=key)
         return
 
@@ -1577,7 +1624,12 @@ def menu_update_handler(key: str, token: str, upd: dict):
         note = f"Đã bỏ theo dõi {pick}"
     else:
         watch.append(pick)
-        note = f"Đang theo dõi {pick} - đang gửi báo cáo..."
+        if key == "bot4":
+            note = f"Đang theo dõi {pick} - đang gửi báo cáo..."
+        elif key == "bot1":
+            note = f"Đang theo dõi {pick} - đang gửi phân tích..."
+        else:
+            note = f"Đang theo dõi {pick}"
     state["watch_symbols"] = watch
     save_state()
     if cb_id:
@@ -1585,9 +1637,17 @@ def menu_update_handler(key: str, token: str, upd: dict):
     _edit_menu(token, cb, key=key)
     if pick in watch:
         e = find_menu_entry(pick)
-        if e:
-            rtoken = owner_token("chart", _report_token(key, token, cb_chat))
-            send_symbol_report(rtoken, cb_chat, e, force=True)
+        if e and key == "bot4":
+            # Bot4 auto-sends its own chart+plan (as before).
+            send_symbol_report(token, cb_chat, e, force=True)
+        elif key == "bot1":
+            # Bot1 auto-sends its own MTF analysis snapshot (+ charts if cached).
+            dash_names = {s.get("name") for s in load_dashboard_symbols()}
+            if pick in dash_names:
+                send_analysis_charts(token, cb_chat, [pick])
+            send_telegram(token, cb_chat, build_analysis_snapshot([pick]),
+                          extra={"reply_markup": menu_btn_json()})
+        # bot2/bot3: toast already confirms the watch — no auto content.
 
 
 def _menu_targets(key: str, limit: int = 4):
@@ -1683,11 +1743,12 @@ def send_analysis_charts(token: str, chat, names) -> int:
 
 
 def handle_menu_action(act: str, key: str, token: str, chat: str):
-    """Menu action -> reply from the SPECIALIST bot's token (intelligent
-    allocation: tap anywhere, the owning bot answers)."""
+    """Serve a menu action with the TAPPED bot's own token (role-pure):
+    the caller guarantees act ∈ ROLE_ACTIONS[key], so the reply always
+    lands in this bot's own window — no cross-bot jumps."""
     if not chat:
         return
-    otoken = owner_token(act, token)
+    otoken = token
     if act == "chart":
         sent = 0
         for name in _menu_targets(key, 3):
@@ -2420,12 +2481,55 @@ def run_news():
     save_state()
 
 
+def _news_summary(item) -> str:
+    """Clean RSS description -> short Vietnamese summary (no URLs/HTML).
+
+    Strips HTML tags + http(s) links, collapses whitespace, translates the
+    text, caps at ~240 chars, and escapes Telegram-Markdown specials so the
+    stats report never carries a link wall or broken formatting.
+    """
+    desc = item.get("desc") or item.get("description") or ""
+    if not desc:
+        return ""
+    desc = re.sub(r"<[^>]+>", " ", desc)
+    desc = re.sub(r"https?://\S+", "", desc)
+    desc = re.sub(r"&[a-z]+;", " ", desc)
+    desc = re.sub(r"\s+", " ", desc).strip()
+    if len(desc) < 25:  # too short / boilerplate — skip
+        return ""
+    vi = gtranslate_vi(desc)
+    if not vi:
+        vi = translate_to_vietnamese(desc)
+    vi = re.sub(r"\s+", " ", vi or "").strip()
+    if len(vi) > 240:
+        vi = vi[:237] + "…"
+    return re.sub(r"([_*`\[\]])", r"\\\1", vi)
+
+
+def report_price_strip(max_symbols=8) -> str:
+    """`CODE price (24h chg)` strip from the dashboard cache — with ticker codes."""
+    parts = []
+    for s in load_dashboard_symbols()[:max_symbols]:
+        c = (s.get("ohlcv") or {}).get("close") or []
+        if len(c) < 2:
+            continue
+        code = str(s.get("symbol") or "").split(":")[-1]
+        if not code:
+            continue
+        price = c[-1]
+        prev = c[-25] if len(c) >= 25 else c[0]
+        chg = ((price - prev) / prev * 100) if prev else 0.0
+        icon = "🟢" if chg >= 0 else "🔴"
+        parts.append(f"`{code}` `{price:,.2f}` {icon}{chg:+.1f}%")
+    return " · ".join(parts)
+
+
 def build_news_report(items, now=None):
     """📊 3-hourly stats report — window = fresh (≤3h) + backlog (3h→7d).
 
-    Quick, simple, easy-to-read: totals, theme counts with a fresh delta,
-    top sources, and the hottest headlines from the last 3 hours. No link
-    wall (the live digest already delivers links as news breaks).
+    Totals, theme counts with a fresh delta, top sources, hot headlines with
+    FULL content summaries, and a price strip with ticker codes. No links
+    (the live digest already delivers links as news breaks).
     """
     now = now or time.time()
     cut_fresh = now - 3 * 3600
@@ -2491,6 +2595,12 @@ def build_news_report(items, now=None):
             if len(t) > 130:
                 t = t[:127] + "…"
             lines.append(f"{i}. {t}")
+            s = _news_summary(it)
+            if s:
+                lines.append(f"   ↳ {s}")
+    strip = report_price_strip()
+    if strip:
+        lines += ["", "💹 *GIÁ (mã · giá · 24h):*", strip]
     lines += ["",
               "(↳ tin mới nhất đã gửi trực tiếp khi xuất hiện — "
               "bấm 📰 menu để xem chi tiết)"]
@@ -2706,7 +2816,9 @@ def run_signals():
 
     lines = ["⚡ CẢNH BÁO THỊ TRƯỜNG", "━" * 26]
     for name, sig in alerts:
-        lines.append(f"{sig['icon']} *{name}* · {sig['label']}")
+        e2 = find_menu_entry(name)
+        code = str(e2[3]).split(":")[-1] if e2 else name
+        lines.append(f"{sig['icon']} `{code}` *{name}* · {sig['label']}")
         lines.append(f"   {sig['detail']}")
     lines.append("")
     lines.append(f"⏰ {datetime.now(timezone.utc).strftime('%H:%M UTC %d/%m')} · "
