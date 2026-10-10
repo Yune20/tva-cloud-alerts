@@ -1,13 +1,13 @@
 {
   "last_news_report": 1791625870.6697223,
-  "last_bot4": 1791625872.7974374,
+  "last_bot4": 1791626849.30447,
   "watch_symbols": [
     "Gold"
   ],
   "sym_report_ts": {
     "Bitcoin": 1791473070.700351,
     "US30": 1791473069.0810935,
-    "Gold": 1791625872.7973373
+    "Gold": 1791626849.3043845
   },
   "bot_chats": {
     "bot4": [
@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791626487.1050572,
+  "last_signals": 1791626849.3052404,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -38,12 +38,12 @@
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791578257.7186818,
-    "Bitcoin:range_in": 1791605105.0132947
+    "Bitcoin:range_in": 1791626849.3052404
   },
   "sig_range": {
     "Gold": true,
     "USOIL": false,
-    "Bitcoin": false,
+    "Bitcoin": true,
     "Ethereum": false,
     "US30": false,
     "GBP/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791626478.9131548,
-  "last_news": 1791626487.1042101,
+  "last_analysis": 1791626839.8212893,
+  "last_news": 1791626847.0605087,
   "seen_news": [
-    "Corn Nearing Limit Losses as USDA Hikes Yield - TradingView",
-    "After a yearslong slump, China's real estate market may be set for a turnaround",
-    "Rainmakers: The drones used to seed clouds",
-    "Trump says Putin agreed to immediately release more diesel to markets",
-    "This week we got a sneak-peak at the playbook for when the AI bubble bursts",
-    "L\u00e0m ch\u1ee7 c\u00f4ng ngh\u1ec7 l\u00f5i - n\u1ec1n t\u1ea3ng \u0111\u1ec3 Vi\u1ec7t Nam x\u00e2y d\u1ef1ng \u0111\u01b0\u1eddng s\u1eaft t\u1ed1c \u0111\u1ed9 cao",
     "The AI telling farmers when to harvest",
     "Katie Zacharia reportedly named new White House press secretary",
     "S&P 500 jumps as oil, Treasury yields and US dollar ease after Trump's de-escala",
@@ -380,6 +374,12 @@
     "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
     "European automakers gain breathing room from EU-China hybrid car deal",
     "It's a very sparse economic and event calendar in Asia, Friday, October 9, 2026",
-    "Haaland v\u1ec1 qu\u00ea l\u00e1i m\u00e1y k\u00e9o"
+    "Haaland v\u1ec1 qu\u00ea l\u00e1i m\u00e1y k\u00e9o",
+    "Thailand prepares to host IMF-World Bank meetings",
+    "US treasury sells $22 billion of 30 year bonds at a high yield of 5.618%",
+    "B\u1ed5 nhi\u1ec7m Ph\u00f3 Gi\u00e1m \u0111\u1ed1c Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc Chi nh\u00e1nh Khu v\u1ef1c 3",
+    "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
+    "Can RAM Missile Demand Support RTX's Defense Growth Outlook? - TradingView",
+    "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my"
   ]
 }
