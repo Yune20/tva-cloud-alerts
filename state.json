@@ -1,13 +1,13 @@
 {
   "last_news_report": 1791603808.8915155,
-  "last_bot4": 1791603517.217592,
+  "last_bot4": 1791604492.7353652,
   "watch_symbols": [
     "Gold"
   ],
   "sym_report_ts": {
     "Bitcoin": 1791473070.700351,
     "US30": 1791473069.0810935,
-    "Gold": 1791602837.8137708
+    "Gold": 1791604492.7352436
   },
   "bot_chats": {
     "bot4": [
@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791604125.019112,
+  "last_signals": 1791604492.7359672,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -43,7 +43,7 @@
   "sig_range": {
     "Gold": false,
     "USOIL": false,
-    "Bitcoin": true,
+    "Bitcoin": false,
     "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791604117.6431777,
-  "last_news": 1791604125.0183146,
+  "last_analysis": 1791604482.5743432,
+  "last_news": 1791604490.6968665,
   "seen_news": [
-    "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
-    "Burnham promises to curb non-compete rules in job contracts",
-    "Citi sees limited upside for EUR/JPY amid intervention expectations",
-    "Crude Oil drops on Trump's Russian diesel plan",
-    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
-    "24 tu\u1ed5i b\u1eaft \u0111\u1ea7u ti\u1ebft ki\u1ec7m, 28 tu\u1ed5i c\u00f3 h\u01a1n 3,5 t\u1ef7 \u0111\u1ed3ng: C\u1ee9 d\u01b0 350 tri\u1ec7u l\u00e0 g\u1eedi ng",
     "China: Robust trade and rising prices \u2013 DBS",
     "US stocks close higher; Nasdaq gains for fourth straight week",
     "C\u1ed5 phi\u1ebfu PNJ t\u0103ng k\u1ecbch tr\u1ea7n, Novaland ng\u01b0\u1ee3c d\u00f2ng",
@@ -380,6 +374,12 @@
     "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
     "Nobel winner Krugman says France may have become 'too big to save'",
     "Fuel prices added to Google Maps as petrol and diesel costs soar",
-    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
+    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
+    "Evernorth Completes Business Combination with Armada Acquisition Corp. II - Trad",
+    "The used car market is stagnant. Here's how to profit anyway",
+    "X-planes: Are they needed in the new era of drones?",
+    "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
+    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank"
   ]
 }
