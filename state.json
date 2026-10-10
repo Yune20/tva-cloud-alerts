@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791604492.7359672,
+  "last_signals": 1791605105.0132947,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791563549.9074335,
@@ -38,12 +38,12 @@
     "EUR/USD:range_in": 1791577249.460063,
     "DXY:range_in": 1791576755.1876094,
     "GBP/USD:range_in": 1791578257.7186818,
-    "Bitcoin:range_in": 1791603156.1023977
+    "Bitcoin:range_in": 1791605105.0132947
   },
   "sig_range": {
     "Gold": false,
     "USOIL": false,
-    "Bitcoin": false,
+    "Bitcoin": true,
     "Ethereum": true,
     "US30": false,
     "GBP/USD": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791604482.5743432,
-  "last_news": 1791604490.6968665,
+  "last_analysis": 1791605094.111448,
+  "last_news": 1791605105.012518,
   "seen_news": [
-    "China: Robust trade and rising prices \u2013 DBS",
-    "US stocks close higher; Nasdaq gains for fourth straight week",
-    "C\u1ed5 phi\u1ebfu PNJ t\u0103ng k\u1ecbch tr\u1ea7n, Novaland ng\u01b0\u1ee3c d\u00f2ng",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
-    "Waymo Adds Debt to Its Robotaxi Bet - TradingView",
-    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
     "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
     "USDCAD jumps on weak Canada jobs report, but fails to hold above key resistance",
     "Ngo\u00e0i M\u1ef9, ai l\u00e0 ng\u01b0\u1eddi mua d\u1ea7u t\u1eeb Venezuela?",
@@ -380,6 +374,12 @@
     "The used car market is stagnant. Here's how to profit anyway",
     "X-planes: Are they needed in the new era of drones?",
     "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
-    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank"
+    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank",
+    "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
+    "Burnham promises to curb non-compete rules in job contracts",
+    "Citi sees limited upside for EUR/JPY amid intervention expectations",
+    "Crude Oil drops on Trump's Russian diesel plan",
+    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
+    "Ph\u00e1t hi\u1ec7n m\u1ed9t \u201ct\u00e0u v\u0169 tr\u1ee5\u201d ngay gi\u1eefa l\u00f2ng th\u00e0nh ph\u1ed1, v\u1ecf ngo\u00e0i \u0111\u01b0\u1ee3c t\u1ea1o t\u1eeb g\u1ea7n 96"
   ]
 }
