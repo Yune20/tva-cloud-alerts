@@ -25,7 +25,7 @@
     "bot1": 488112745,
     "bot3": 959191732
   },
-  "last_signals": 1791613250.5536356,
+  "last_signals": 1791613855.7032833,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791612641.6260667,
@@ -41,7 +41,7 @@
     "Bitcoin:range_in": 1791605105.0132947
   },
   "sig_range": {
-    "Gold": false,
+    "Gold": true,
     "USOIL": false,
     "Bitcoin": true,
     "Ethereum": true,
@@ -78,15 +78,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791613242.3340123,
-  "last_news": 1791613250.5528548,
+  "last_analysis": 1791613848.9529777,
+  "last_news": 1791613855.702426,
   "seen_news": [
-    "WTI holds steady as traders weigh US-Iran tensions and supply risks",
-    "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
-    "32 n\u01b0\u1edbc NATO h\u1ecdp b\u00e0n qu\u00e2n s\u1ef1 ngay t\u1ea1i Kiev, Nga d\u1ed3n d\u1eadp t\u1eadp k\u00edch Ukraine",
-    "DCM: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 40,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions -",
-    "How to provide guaranteed retirement income while paying no commissions",
     "N\u1eef NS\u01afT \u0111i b\u00e1n c\u00e0 ph\u00ea \u1edf G\u00f2 V\u1ea5p TP.HCM th\u1eeba nh\u1eadn th\u1ea5t b\u1ea1i",
     "MWG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 01/10/2026 - VietstockFinance",
     "First Tick: Top global cues to watch in today's trade - TradingView",
@@ -380,6 +374,12 @@
     "T\u1ef7 ph\u00fa Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o b\u1eaft tay v\u1ecb gi\u00e1o s\u01b0 gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam, chu\u1ea9n b\u1ecb l\u00e0",
     "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO | VietstockFinan",
     "CECONOMY AG (CEC) Receives Major Holdings Notice - TradingView",
-    "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL"
+    "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL",
+    "Ukraine ch\u1ec9 tr\u00edch T\u1ed5ng th\u1ed1ng M\u1ef9 v\u00ec th\u1ecfa thu\u1eadn v\u1edbi Nga",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
+    "Goldman Stock Before Q3 Earnings: Buy Now or Wait for Results? - TradingView",
+    "Wall Street is pitching data centers as a major real estate bet. The risks are p",
+    "Everton owners consider selling club two years after takeover",
+    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production"
   ]
 }
