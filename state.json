@@ -1,11 +1,11 @@
 {
   "last_news_report": 1791636841.8087487,
-  "last_bot4": 1791645330.6102738,
+  "last_bot4": 1791645954.2505882,
   "watch_symbols": [],
   "sym_report_ts": {
     "Bitcoin": 1791645328.316445,
     "US30": 1791645330.6102407,
-    "Gold": 1791644695.5832992
+    "Gold": 1791645954.2504807
   },
   "bot_chats": {
     "bot4": [
@@ -23,7 +23,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791645629.2510254,
+  "last_signals": 1791645954.251363,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,7 +64,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -109,15 +109,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791645619.9750202,
-  "last_news": 1791645629.250159,
+  "last_analysis": 1791645945.4793913,
+  "last_news": 1791645952.2808154,
   "seen_news": [
-    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "Sterling today: Pound edges up as dollar dips on Treasury pause",
-    "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
-    "European stocks finish higher Friday, but most post weekly declines",
-    "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi th\u1ea5t nghi\u1ec7p c\u00f3 5,85 t\u1ef7 \u0111\u1ed3ng g\u1eedi ti\u1ebft ki\u1ec7m, s\u1ed1ng trong c\u0103n h\u1ed9 g",
-    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
     "Asia FX: Trade negotiations and resilient macro backdrop \u2013 MUFG",
     "Market playbook: Why what doesn't happen in markets can be the biggest trading s",
     "V\u00ec sao ti\u1ebfp vi\u00ean h\u00e0ng kh\u00f4ng nh\u00ecn v\u00e0o gi\u00e0y c\u1ee7a h\u00e0nh kh\u00e1ch khi l\u00ean m\u00e1y bay?",
@@ -411,6 +405,12 @@
     "Spanish lawyer Gonzalez\u00a0Durantez launches centrist party for November election",
     "Euro struggles as French fiscal concerns and firm US Dollar dominate",
     "Oracle trucks in natural gas to keep AI data centres on schedule as pipelines la",
-    "\u00d4ng Trump c\u00f4ng khai c\u1ea3m \u01a1n \u00f4ng Putin v\u1ec1 th\u1ecfa thu\u1eadn cung c\u1ea5p d\u1ea7u diesel"
+    "\u00d4ng Trump c\u00f4ng khai c\u1ea3m \u01a1n \u00f4ng Putin v\u1ec1 th\u1ecfa thu\u1eadn cung c\u1ea5p d\u1ea7u diesel",
+    "'Add me on WhatsApp' scam calls to be investigated",
+    "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+    "Trump vows quick end to Iran war as fighting in Yemen intensifies",
+    "Japan household spending falls for ninth straight month, but drop smaller than e",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng m\u1ea5t 1/3 l\u00e1 gan, bu\u1ed9c ph\u1ea3i \"thay m\u1edbi\" v\u00ec lo\u1ea1i \u0111\u1ed3 u\u1ed1ng ph\u00e1 gan ch\u1eb3ng",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - T\u00ecm v\u1ec1 gi\u00e1 tr\u1ecb - VietstockFinance"
   ]
 }
