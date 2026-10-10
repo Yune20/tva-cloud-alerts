@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791653277.3177207,
+  "last_signals": 1791653887.7696936,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,9 +65,9 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791653267.9611478,
-  "last_news": 1791653277.3169408,
+  "last_analysis": 1791653878.6313345,
+  "last_news": 1791653887.7688127,
   "seen_news": [
-    "My brother-in-law convinced his parents to sign over their home and life savings",
-    "Living with Mom and trading on margin. The regular investor gets in on Wall Stre",
-    "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-    "European automakers gain breathing room from EU-China hybrid car deal",
-    "It's a very sparse economic and event calendar in Asia, Friday, October 9, 2026",
-    "Haaland v\u1ec1 qu\u00ea l\u00e1i m\u00e1y k\u00e9o",
     "Thailand prepares to host IMF-World Bank meetings",
     "US treasury sells $22 billion of 30 year bonds at a high yield of 5.618%",
     "B\u1ed5 nhi\u1ec7m Ph\u00f3 Gi\u00e1m \u0111\u1ed1c Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc Chi nh\u00e1nh Khu v\u1ef1c 3",
@@ -414,6 +408,12 @@
     "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American ",
     "\u00d4ng l\u1edbn Traphaco kinh doanh th\u1ebf n\u00e0o nh\u1eefng n\u0103m g\u1ea7n \u0111\u00e2y?",
     "GVR: T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VRG - VietstockFinance",
-    "Cotton Closes Mixed on Thursday - TradingView"
+    "Cotton Closes Mixed on Thursday - TradingView",
+    "Chinese Yuan: PBoC stance and valuation debate guide currency path \u2013 MUFG",
+    "investingLive European session wrap: Stocks rebound as bond market nerves ease, ",
+    "Vi\u1ec7t Nam v\u1eeba c\u00f3 th\u00eam m\u1ed9t \"ng\u00f4i l\u00e0ng\" \u0111\u1eb7c bi\u1ec7t n\u1eb1m ph\u00eda m\u0169i c\u1ee7a m\u1ed9t h\u00f2n \u0111\u1ea3o xa b\u1edd",
+    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
+    "Brockhaus Technologies AG (BKHT) Insider Sells Shares via Tender Rights - Tradin",
+    "Trump Media advisor Katie Zacharia offered White House press secretary role"
   ]
 }
