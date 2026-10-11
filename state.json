@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791759533.7602448,
+  "last_signals": 1791760044.3300152,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,17 +78,17 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791760399,
@@ -116,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791759525.657949,
-  "last_news": 1791759533.7586555,
+  "last_analysis": 1791760035.3573823,
+  "last_news": 1791760044.3292472,
   "seen_news": [
-    "Ph\u01b0\u01a1ng Oanh khoe c\u1eb7p song sinh h\u01a1n 2 tu\u1ed5i: con g\u00e1i ng\u1ed3i \u0111\u1ecdc s\u00e1ch nh\u01b0 ti\u1ec3u th\u01b0, q",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
-    "Key facts: ASTS slides ~15%; 4.86% of Procure Space ETF; 1000MHz 200Mbps - Tradi",
-    "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "The Iran War Is Fueling a Boom in Clean Energy",
     "Streamex Received Notice of Noncompliance - TradingView",
     "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
     "I've been with my boyfriend for two years and don't know his salary",
@@ -418,6 +412,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "US PERM Decision Deepens Green Card Woes for Indian Tech Workers - TradingView",
     "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
-    "'Add me on WhatsApp' scam calls to be investigated"
+    "'Add me on WhatsApp' scam calls to be investigated",
+    "DGC: CTCP T\u1eadp \u0111o\u00e0n H\u00f3a ch\u1ea5t \u0110\u1ee9c Giang - Duc Giang Chemicals Group | VietstockFin",
+    "STRK Extends Rally As StarkWare CEO Warns 'Quantum Threat May Be Much Closer Tha",
+    "The world needs Ukraine\u2019s grain. Its farmers are running out of reasons to plant",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "3 Stocks To Play The Nuclear Energy Boom",
+    "U.S. bond market halts rout while Eurozone finance ministers pressure Paris"
   ]
 }
