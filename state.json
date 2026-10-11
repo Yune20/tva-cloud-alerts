@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791681007.6480246,
-  "last_bot4": 1791690026.2016072,
+  "last_bot4": 1791690707.3664556,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": []
@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791690346.4151483,
+  "last_signals": 1791690707.3669899,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791690339.0759084,
-  "last_news": 1791690346.414269,
+  "last_analysis": 1791690698.7510397,
+  "last_news": 1791690707.365727,
   "seen_news": [
-    "Citi sees limited upside for EUR/JPY amid intervention expectations",
-    "Singapore Dollar: MAS tightening but gains constrained \u2013 OCBC",
-    "US treasury sells $22 billion of 30 year bonds at a high yield of 5.618%",
-    "B\u00f3c h\u1ed9p m\u00f9 \u0111\u1ec3 h\u1ed3i h\u1ed9p, \u0111eo h\u1ed3 l\u00f4 cho y\u00ean t\u00e2m: Ng\u01b0\u1eddi tr\u1ebb Trung Qu\u1ed1c \u0111ang chi \u0111\u1eadm ",
-    "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC - VietstockFinance",
-    "Bitcoin's $19 billion crash still shapes crypto risk a year later - TradingView",
     "G\u1eedi ti\u1ebft ki\u1ec7m online r\u1ed3i m\u1ea5t \u0111i\u1ec7n tho\u1ea1i th\u00ec c\u00f3 m\u1ea5t ti\u1ec1n kh\u00f4ng?",
     "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC | VietstockFinance - VietstockFinance",
     "Divya Gupta Appointed Associate Director\u2013 HR At HCLTech - TradingView",
@@ -416,6 +410,12 @@
     "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
     "Thailand prepares to host IMF-World Bank meetings",
     "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank",
-    "Alcohol stocks: bargains, value traps and changing drinking habits"
+    "Alcohol stocks: bargains, value traps and changing drinking habits",
+    "Fuel prices added to Google Maps as petrol and diesel costs soar",
+    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+    "Why are EU gas prices not higher already?",
+    "Crude Oil drops on Trump's Russian diesel plan",
+    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
+    "Thi\u00ean th\u1ea7n nh\u00ed gi\u00e0u nh\u1ea5t showbiz: 5 tu\u1ed5i \u0111\u00e3 c\u00f3 BMW mui tr\u1ea7n, 7 tu\u1ed5i \u0111\u1ee9ng t\u00ean s\u1edf "
   ]
 }
