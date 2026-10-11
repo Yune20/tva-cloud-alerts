@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791702765.0383945,
+  "last_signals": 1791703354.9474115,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,10 +64,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791702750.9947636,
-  "last_news": 1791702759.885582,
+  "last_analysis": 1791703349.9334285,
+  "last_news": 1791703354.94656,
   "seen_news": [
-    "Bid to run new trains on West Coast Mainline refused",
-    "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out",
-    "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
-    "European stocks finish higher Friday, but most post weekly declines",
-    "L\u1ea7n \u0111\u1ea7u ti\u00ean, \u0111\u1ea1i h\u1ecdc c\u1ee7a Ti\u1ebfn s\u0129 gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam d\u1ea1y b\u00e1c s\u0129 n\u1ed9i tr\u00fa: Ch\u1ec9 tuy",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - T\u00ecm v\u1ec1 gi\u00e1 tr\u1ecb - VietstockFinance",
     "Sterling today: Pound edges up as dollar dips on Treasury pause",
     "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields ",
     "H\u01a1n 250 c\u1ea3nh s\u00e1t \u0111\u1ed3ng lo\u1ea1t kh\u00e1m x\u00e9t 5 doanh nghi\u1ec7p quan tr\u1eafc m\u00f4i tr\u01b0\u1eddng",
@@ -416,6 +410,12 @@
     "B\u00e1o c\u00e1o T\u1ed5ng k\u1ebft Th\u1ecb tr\u01b0\u1eddng: Th\u00e1ng 09/2026 -Thanh kho\u1ea3n th\u1ea5p, kh\u1ed1i ngo\u1ea1i ti\u1ebfp t\u1ee5",
     "News by CNBC TV18 on TradingView, 2026-10-10 \u2014 cnbctv:3ac178cc9094b:0 - TradingV",
     "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
-    "Chrysler Building to get its crown restored after being sold"
+    "Chrysler Building to get its crown restored after being sold",
+    "Trump weighs renewed Iran strikes as Saudi airport attack kills 12",
+    "Euro struggles as French fiscal concerns and firm US Dollar dominate",
+    "US initial jobless claims for the week is modestly stronger at 197K vs 200K est.",
+    "Thu nh\u1eadp c\u1ee7a HOA BAN FOOD",
+    "CTCP \u0110\u1ea7u t\u01b0 F88 - VietstockFinance",
+    "The food vs fuel debate is being asked the wrong way - TradingView"
   ]
 }
