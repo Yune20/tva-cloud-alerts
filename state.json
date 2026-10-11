@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791709657.3592587,
+  "last_signals": 1791710198.7066154,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791709648.7567084,
-  "last_news": 1791709657.3584733,
+  "last_analysis": 1791710191.5548308,
+  "last_news": 1791710198.7057183,
   "seen_news": [
-    "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-    "India\u2019s Infosys does not expect material impact from US PERM suspension",
-    "British Pound holds ground as US Consumer Sentiment deteriorates",
-    "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American ",
-    "Kh\u1ee7ng ho\u1ea3ng bao tr\u00f9m n\u01b0\u1edbc l\u00e1ng gi\u1ec1ng Nga, qu\u1ed1c gia 9 n\u0103m li\u00ean ti\u1ebfp \u0111\u01b0\u1ee3c x\u1ebfp h\u1ea1ng",
-    "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS - VietstockFinance",
     "France: Budget politics and market testing \u2013 Rabobank",
     "This week we got a sneak-peak at the playbook for when the AI bubble bursts",
     "C\u1ef1u MC t\u1eebng d\u1eabn \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia v\u1eeba h\u1ecdc b\u00e1o ch\u00ed v\u1eeba \u0111i di\u1ec5n c\u1ea3i l\u01b0\u01a1ng, l\u1ecb",
@@ -416,6 +410,12 @@
     "Algo8 AI Inc. Wins Final CSE Approval; Trading Expected Oct 13 - TradingView",
     "Trump Media advisor Katie Zacharia offered White House press secretary role",
     "'Come all the way' back to EU, French finance minister tells UK",
-    "EU-China trade relations hit crunch time as Brussels pushes for rebalancing"
+    "EU-China trade relations hit crunch time as Brussels pushes for rebalancing",
+    "Japan Gold Corp. (JG) To Re-Appoint Two Directors After AGM, Expanding Board to ",
+    "Living with Mom and trading on margin. The regular investor gets in on Wall Stre",
+    "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+    "Could a change of government in Spain have big implications on energy policy?",
+    "Japanese Yen struggles as wide US-Japan yield gap weighs",
+    "investingLive European session wrap: Stocks rebound as bond market nerves ease, "
   ]
 }
