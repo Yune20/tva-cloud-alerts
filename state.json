@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791728857.3215122,
+  "last_signals": 1791729445.7431548,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,10 +64,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -115,14 +115,8 @@
     }
   },
   "last_analysis": 1791729153.6321068,
-  "last_news": 1791728857.3190057,
+  "last_news": 1791729445.654525,
   "seen_news": [
-    "European stocks finish higher Friday, but most post weekly declines",
-    "Nga l\u00ean ti\u1ebfng sau khi T\u1ed5ng th\u1ed1ng M\u1ef9 Trump k\u00eau g\u1ecdi thay \u0111\u1ed5i T\u1ed5ng th\u1ed1ng Ukraine",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - T\u00ecm v\u1ec1 gi\u00e1 tr\u1ecb - VietstockFinance",
-    "Edge Total Intelligence Inc. (CTRL) Restates Q2, Loss +$4.76M - TradingView",
-    "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time",
-    "Americans' debt problems are flashing a warning not seen since the Great Recessi",
     "'Add me on WhatsApp' scam calls to be investigated",
     "Emergency Oil Releases Risk Draining the World\u2019s Last Supply Cushion",
     "Sterling today: Pound edges up as dollar dips on Treasury pause",
@@ -416,6 +410,12 @@
     "Brockhaus Technologies AG (BKHT) Insider Sells Shares via Tender Rights - Tradin",
     "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
     "Chrysler Building to get its crown restored after being sold",
-    "Volkswagen CEO says transformation is \u2019shared responsibility\u2019 in appeal to EU"
+    "Volkswagen CEO says transformation is \u2019shared responsibility\u2019 in appeal to EU",
+    "News by CNBC TV18 on TradingView, 2026-10-10 \u2014 cnbctv:3ac178cc9094b:0 - TradingV",
+    "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
+    "Rainmakers: The drones used to seed clouds",
+    "8 emerging markets to consider in 2027: HSBC",
+    "Euro struggles as French fiscal concerns and firm US Dollar dominate",
+    "How have interest rate expectations changed after this week's events?"
   ]
 }
