@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791761253.80765,
+  "last_signals": 1791761848.9826217,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,7 +65,7 @@
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -117,14 +117,8 @@
     }
   },
   "last_analysis": 1791761548.1804316,
-  "last_news": 1791761249.4391024,
+  "last_news": 1791761848.9818914,
   "seen_news": [
-    "Deutsche Bank CEO warns extremist political gains risk investment in Germany",
-    "European Central Bank: Conditional support and French risks \u2013 Rabobank",
-    "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
-    "Ng\u01b0\u1eddi gi\u1eef k\u1ef7 l\u1ee5c n\u00edn th\u1edf l\u00e2u nh\u1ea5t th\u1ebf gi\u1edbi l\u00e0 ai?",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Isaias weakens to post-tropical cyclone after Florida landfall, NHC says - Tradi",
     "Pashinyan\u2019s Nuclear U-Turn Gives Moscow an Opening in Armenia",
     "Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
     "Bakers Hughes total rig count +5 to 603",
@@ -418,6 +412,12 @@
     "Middle East War updates: New attack launched on Saudi airport",
     "JPMorgan: The G7\u2019s 100 million barrel oil release is mostly old barrels with a n",
     "Ph\u00e1t hi\u1ec7n d\u00e0n m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i si\u00eau nh\u1ecf t\u1ea1i khu v\u1ef1c ngo\u00e0i kh\u01a1i, \u00e2m th\u1ea7m t",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc"
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
+    "Singapore: Policy slope tightening view \u2013 DBS",
+    "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-",
+    "X\u1ebfp h\u1ea1ng t\u00e0i v\u1eadn th\u00e1ng 9 \u00e2m c\u1ee7a 12 con gi\u00e1p: 3 con gi\u00e1p ti\u1ec1n v\u1ec1 \u0111\u1ec1u, 1 con gi\u00e1p ",
+    "CTCP \u0110\u1ea7u t\u01b0 F88 - VietstockFinance",
+    "Coaching classes made them millionaires; now, they're turning entrepreneurs - Tr",
+    "Why Japan's 7-Eleven store closures in India don\u2019t signal an exit"
   ]
 }
