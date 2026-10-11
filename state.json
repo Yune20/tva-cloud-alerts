@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791681007.6480246,
-  "last_bot4": 1791682883.0402966,
+  "last_bot4": 1791683553.8034363,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": []
@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791683198.3290246,
+  "last_signals": 1791683553.8040984,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,7 +64,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791683191.9851904,
-  "last_news": 1791683198.328237,
+  "last_analysis": 1791683547.45078,
+  "last_news": 1791683553.8026228,
   "seen_news": [
-    "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng giao 'c\u1eadu c\u1ea3' Ph\u1ea1m Nh\u1eadt Qu\u00e2n Anh nhi\u1ec7m v\u1ee5 quan tr\u1ecdng chin",
-    "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS - VietstockFinance",
-    "JPMorgan Stocks Slip as Higher Yields Test Trading Momentum - TradingView",
-    "Living with Mom and trading on margin. The regular investor gets in on Wall Stre",
-    "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-    "European automakers gain breathing room from EU-China hybrid car deal",
     "US PERM Decision Deepens Green Card Woes for Indian Tech Workers - TradingView",
     "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what c",
     "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
@@ -416,6 +410,12 @@
     "Algo8 AI Inc. Wins Final CSE Approval; Trading Expected Oct 13 - TradingView",
     "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
     "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-    "EU-China trade relations hit crunch time as Brussels pushes for rebalancing"
+    "EU-China trade relations hit crunch time as Brussels pushes for rebalancing",
+    "Elon Musk: 'C\u00f4ng ty c\u1ee7a t\u00f4i s\u1ebd c\u00f3 gi\u00e1 tr\u1ecb g\u1ea5p 100 l\u1ea7n n\u1ec1n kinh t\u1ebf to\u00e0n c\u1ea7u'",
+    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO | VietstockFinan",
+    "Japan Gold Corp. (JG) To Re-Appoint Two Directors After AGM, Expanding Board to ",
+    "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    "'Come all the way' back to EU, French finance minister tells UK",
+    "Japanese Yen struggles as wide US-Japan yield gap weighs"
   ]
 }
