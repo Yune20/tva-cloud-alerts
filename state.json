@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791682600.867841,
+  "last_signals": 1791683198.3290246,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,7 +64,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791682593.1009836,
-  "last_news": 1791682600.8671558,
+  "last_analysis": 1791683191.9851904,
+  "last_news": 1791683198.328237,
   "seen_news": [
-    "Chinese Yuan: PBoC stance and valuation debate guide currency path \u2013 MUFG",
-    "investingLive European session wrap: Stocks rebound as bond market nerves ease, ",
-    "Vi\u1ec7t Nam v\u1eeba c\u00f3 th\u00eam m\u1ed9t \"ng\u00f4i l\u00e0ng\" \u0111\u1eb7c bi\u1ec7t n\u1eb1m ph\u00eda m\u0169i c\u1ee7a m\u1ed9t h\u00f2n \u0111\u1ea3o xa b\u1edd",
-    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
-    "Brockhaus Technologies AG (BKHT) Insider Sells Shares via Tender Rights - Tradin",
-    "Trump Media advisor Katie Zacharia offered White House press secretary role",
     "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng giao 'c\u1eadu c\u1ea3' Ph\u1ea1m Nh\u1eadt Qu\u00e2n Anh nhi\u1ec7m v\u1ee5 quan tr\u1ecdng chin",
     "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS - VietstockFinance",
     "JPMorgan Stocks Slip as Higher Yields Test Trading Momentum - TradingView",
@@ -416,6 +410,12 @@
     "S\u1ee3 'kh\u00f4ng ti\u00eau h\u1ebft ti\u1ec1n' d\u1ef1 \u00e1n, S\u1edf X\u00e2y d\u1ef1ng C\u1ea7n Th\u01a1 xin tr\u1ea3 h\u01a1n 200 t\u1ef7",
     "DGC: CTCP T\u1eadp \u0111o\u00e0n H\u00f3a ch\u1ea5t \u0110\u1ee9c Giang - Duc Giang Chemicals Group - VietstockFin",
     "Immutable Holdings Inc. (HOLD) Agrees Reverse Takeover by Gamebred; Plans TSXV L",
-    "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL"
+    "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL",
+    "N\u00f3i x\u1ea5u ng\u01b0\u1eddi kh\u00e1c tr\u00ean m\u1ea1ng, 3 c\u00f4 g\u00e1i b\u1ecb ph\u1ea1t 37,5 tri\u1ec7u \u0111\u1ed3ng",
+    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank | VietstockFinance - VietstockFinance",
+    "Algo8 AI Inc. Wins Final CSE Approval; Trading Expected Oct 13 - TradingView",
+    "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
+    "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "EU-China trade relations hit crunch time as Brussels pushes for rebalancing"
   ]
 }
