@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791757603.8845005,
-  "last_bot4": 1791760349.3840973,
+  "last_bot4": 1791761253.8043177,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791760349.3840353
+    "Gold": 1791761253.804258
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791760648.3055394,
+  "last_signals": 1791761253.80765,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -117,14 +117,8 @@
     }
   },
   "last_analysis": 1791760954.8561199,
-  "last_news": 1791760648.3049057,
+  "last_news": 1791761249.4391024,
   "seen_news": [
-    "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-    "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
-    "Projectile hits Riyadh airport terminal as Trump considers joining Saudi strikes",
-    "Canada: Gradual improvement expected \u2013 RBC",
-    "What's open and closed in US and Canadian markets on Monday",
-    "Ph\u00e1t hi\u1ec7n dinh th\u1ef1 \u0111\u01b0\u1ee3c Ros\u00e9 (BLACKPINK) thu\u00ea v\u1edbi gi\u00e1 3,4 t\u1ef7 \u0111\u1ed3ng/ tu\u1ea7n, c\u00f3 l\u1ecbch",
     "Deutsche Bank CEO warns extremist political gains risk investment in Germany",
     "European Central Bank: Conditional support and French risks \u2013 Rabobank",
     "Economic data spotlight: US inflation expectations in focus in today's Michigan ",
@@ -418,6 +412,12 @@
     "Australia Approves Giant Coal Extension Despite Paris Commitments",
     "Chile\u2019s Codelco reports mudslide at El Teniente mine; three workers affected",
     "US President Donald Trump says Russia and Ukraine agree to an \u2018energy ceasefire\u2019",
-    "US CPI preview: energy set to lift inflation to 3.7%, core seen steady at 2.4%"
+    "US CPI preview: energy set to lift inflation to 3.7%, core seen steady at 2.4%",
+    "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
+    "Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of pl",
+    "Middle East War updates: New attack launched on Saudi airport",
+    "JPMorgan: The G7\u2019s 100 million barrel oil release is mostly old barrels with a n",
+    "Ph\u00e1t hi\u1ec7n d\u00e0n m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i si\u00eau nh\u1ecf t\u1ea1i khu v\u1ef1c ngo\u00e0i kh\u01a1i, \u00e2m th\u1ea7m t",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc"
   ]
 }
