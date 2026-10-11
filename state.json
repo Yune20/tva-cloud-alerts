@@ -2,7 +2,9 @@
   "last_news_report": 1791681007.6480246,
   "last_bot4": 1791681007.6489558,
   "watch_symbols": [],
-  "watch_by_chat": {},
+  "watch_by_chat": {
+    "5575146754": []
+  },
   "default_quote_by_chat": {},
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
@@ -21,11 +23,11 @@
     ]
   },
   "tg_offsets": {
-    "bot4": 984754912,
-    "bot1": 488112748,
+    "bot4": 984754914,
+    "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791680717.647822,
+  "last_signals": 1791681327.9412487,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -89,12 +91,12 @@
   },
   "chain_lease_until": 1791681590,
   "menu_prices": {
-    "ts": 1791681187.1393142,
+    "ts": 1791681376.7934375,
     "prices": {
       "Gold": "4,216.30",
       "USOIL": "91.85",
-      "Bitcoin": "82,893.86",
-      "Ethereum": "2,503.96",
+      "Bitcoin": "82,938.88",
+      "Ethereum": "2,504.95",
       "US30": "51,654.95",
       "GBP/USD": "1.32",
       "EUR/USD": "1.12",
@@ -112,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791680709.2233827,
-  "last_news": 1791680717.647004,
+  "last_analysis": 1791681319.3720245,
+  "last_news": 1791681327.9403472,
   "seen_news": [
-    "Ph\u00e1t hi\u1ec7n \"vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o\" r\u1ed9ng t\u1edbi 1.100m\u00b2: N\u1ea5u \u0103n, massage, b\u1ea5m huy\u1ec7t \u0111\u1ec1u c\u00f3 r",
-    "TLG: CTCP T\u1eadp \u0111o\u00e0n Thi\u00ean Long - C\u00f4ng ty CP T\u1eadp \u0111o\u00e0n Thi\u00ean Long | VietstockFinanc",
-    "Aidin Aghamiri resigns from Plum board - TradingView",
-    "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL",
-    "We spent thousands on a Tui river cruise but ended up on coach trips",
-    "U.S. Oil Drilling Continues to Inch Upward",
     "Immutable Holdings Inc. (HOLD) Agrees Reverse Takeover by Gamebred; Plans TSXV L",
     "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
     "'Come all the way' back to EU, French finance minister tells UK",
@@ -414,6 +410,12 @@
     "Starbucks Explores CMG Deal: Smart Move or Costly Gamble? - TradingView",
     "How de-extincting dire wolves and woolly mammoths may extend human life",
     "Derry firm becomes one of UK's biggest car park operators after buying NCP",
-    "Saudi conferences to proceed despite deadly Riyadh airport attacks, Reuters repo"
+    "Saudi conferences to proceed despite deadly Riyadh airport attacks, Reuters repo",
+    "Isaias weakens to post-tropical cyclone after Florida landfall, NHC says - Tradi",
+    "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
+    "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+    "The start-ups hoping to return battery making to the US",
+    "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
+    "Bakers Hughes total rig count +5 to 603"
   ]
 }
