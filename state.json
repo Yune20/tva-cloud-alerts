@@ -3,7 +3,9 @@
   "last_bot4": 1791738742.490099,
   "watch_symbols": [],
   "watch_by_chat": {
-    "5575146754": []
+    "5575146754": [
+      "Gold"
+    ]
   },
   "default_quote_by_chat": {},
   "sym_report_ts": {
@@ -24,10 +26,10 @@
   },
   "tg_offsets": {
     "bot4": 984754914,
-    "bot1": 488112749,
+    "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791738462.3904984,
+  "last_signals": 1791739063.802515,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -91,17 +93,17 @@
   },
   "chain_lease_until": 1791739451,
   "menu_prices": {
-    "ts": 1791681376.7934375,
+    "ts": 1791739068.5532327,
     "prices": {
       "Gold": "4,216.30",
       "USOIL": "91.85",
-      "Bitcoin": "82,938.88",
-      "Ethereum": "2,504.95",
+      "Bitcoin": "83,838.50",
+      "Ethereum": "2,542.10",
       "US30": "51,654.95",
       "GBP/USD": "1.32",
       "EUR/USD": "1.12",
       "USD/JPY": "158.25",
-      "DXY": "102.23",
+      "DXY": "102.21",
       "JPY Index": "158.25",
       "US 10Y": "5.24",
       "Silver": "61.05",
@@ -114,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791738452.1904128,
-  "last_news": 1791738462.389808,
+  "last_analysis": 1791739055.3688917,
+  "last_news": 1791739063.8016846,
   "seen_news": [
-    "S\u1ed5 \u0111\u1ecf ghi s\u1ed1 ch\u1ee9ng minh nh\u00e2n d\u00e2n c\u0169, x\u00e1c nh\u1eadn th\u1ebf n\u00e0o?",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
-    "Corn Nearing Limit Losses as USDA Hikes Yield - TradingView",
-    "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroL",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Foreign investors flee South Korean stocks as AI boom loses steam",
     "Salesforce CEO Marc Benioff joins Trump\u2019s AI rebranding - TradingView",
     "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
     "White House blocks Microsoft from foreign worker hiring programme",
@@ -416,6 +412,12 @@
     "Saratoga Investment Lifts Valley Credit Facility to $110 Million, Adds Upsize to",
     "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
     "Citroen revives the 2CV for an electric age",
-    "Exclusive-INWIT investors line up financing for possible take-private, sources s"
+    "Exclusive-INWIT investors line up financing for possible take-private, sources s",
+    "Rwanda Inflation Hits Over 3-Year High - TradingView",
+    "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what c",
+    "'Come all the way' back to EU, French finance minister tells UK",
+    "World Bank in talks with dozens of countries about crisis aid, Banga says",
+    "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
+    "This week we got a sneak-peak at the playbook for when the AI bubble bursts"
   ]
 }
