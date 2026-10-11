@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791744146.03815,
+  "last_signals": 1791744752.0920265,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -116,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791744136.4546816,
-  "last_news": 1791744146.0372715,
+  "last_analysis": 1791744742.2251487,
+  "last_news": 1791744752.0909233,
   "seen_news": [
-    "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How",
-    "Huawei doubles down on smartphones as EV sales slow",
-    "Charities and businesses wrestle with diesel cost",
-    "Dollar gains for fourth straight week on Fed rate outlook",
-    "investingLive Americas market news wrap: Trump says no attacks on Iran before th",
-    "Ch\u1ee7 t\u1ecbch c\u00f4ng ty l\u00e0m g\u00ec khi b\u1ecb b\u00e1n gi\u1ea3i ch\u1ea5p c\u1ed5 phi\u1ebfu?",
     "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019l",
     "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
     "Burnham promises to curb non-compete rules in job contracts",
@@ -418,6 +412,12 @@
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
     "Citi sees limited upside for EUR/JPY amid intervention expectations",
-    "Crude Oil drops on Trump's Russian diesel plan"
+    "Crude Oil drops on Trump's Russian diesel plan",
+    "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refin",
+    "The start-ups hoping to return battery making to the US",
+    "What the sell off in bonds means for monetary policy",
+    "Singapore Dollar: MAS tightening but gains constrained \u2013 OCBC",
+    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
+    "Chuy\u00ean gia: Ch\u1ee9ng kho\u00e1n tu\u1ea7n t\u1edbi ti\u1ebfp t\u1ee5c dao \u0111\u1ed9ng quanh ng\u01b0\u1ee1ng 1.730 \u0111i\u1ec3m"
   ]
 }
