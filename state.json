@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791683915.777444,
+  "last_signals": 1791684523.559548,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,7 +64,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791683904.911028,
-  "last_news": 1791683915.7765467,
+  "last_analysis": 1791684515.0004954,
+  "last_news": 1791684523.5585415,
   "seen_news": [
-    "How the oil capital of the US welcomed a solar power boom",
-    "Thailand prepares to host IMF-World Bank meetings with 15,000 delegates",
-    "France: Budget politics and market testing \u2013 Rabobank",
-    "This week we got a sneak-peak at the playbook for when the AI bubble bursts",
-    "Ti\u1ebfn s\u0129 ng\u01b0\u1eddi Vi\u1ec7t L\u00ea Vi\u1ebft Qu\u1ed1c c\u00f9ng 3 \u201cb\u1ed9 n\u00e3o\u201d r\u1eddi Google l\u1eadp c\u00f4ng ty: Khi ra m",
-    "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
     "Russian attack on Ukraine\u2019s Zaporizhzhia kills seven as war intensifies",
     "Breaking: UoM Consumer Sentiment Index declines to 46.3 in October",
     "investingLive Americas market news wrap: Trump says no attacks on Iran before th",
@@ -416,6 +410,12 @@
     "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
     "Could a change of government in Spain have big implications on energy policy?",
     "Chinese Yuan: PBoC stance and valuation debate guide currency path \u2013 MUFG",
-    "investingLive European session wrap: Stocks rebound as bond market nerves ease, "
+    "investingLive European session wrap: Stocks rebound as bond market nerves ease, ",
+    "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+    "India\u2019s Infosys does not expect material impact from US PERM suspension",
+    "British Pound holds ground as US Consumer Sentiment deteriorates",
+    "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American ",
+    "Kh\u1ee7ng ho\u1ea3ng bao tr\u00f9m n\u01b0\u1edbc l\u00e1ng gi\u1ec1ng Nga, qu\u1ed1c gia 9 n\u0103m li\u00ean ti\u1ebfp \u0111\u01b0\u1ee3c x\u1ebfp h\u1ea1ng",
+    "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS - VietstockFinance"
   ]
 }
