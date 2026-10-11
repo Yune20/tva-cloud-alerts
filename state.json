@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791681007.6480246,
-  "last_bot4": 1791687883.6575081,
+  "last_bot4": 1791688511.7163146,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": []
@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791687883.658244,
+  "last_signals": 1791688511.716868,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791688189.7079678,
-  "last_news": 1791687883.6567984,
+  "last_analysis": 1791688505.1019957,
+  "last_news": 1791688511.7155285,
   "seen_news": [
-    "Canada September employment change -68.3K vs +9.2K expected",
-    "T\u1eeb nay, s\u1ed5 BHXH c\u1ee7a h\u00e0ng tri\u1ec7u ng\u01b0\u1eddi lao \u0111\u1ed9ng c\u00f3 thay \u0111\u1ed5i quan tr\u1ecdng",
-    "TLG: CTCP T\u1eadp \u0111o\u00e0n Thi\u00ean Long - C\u00f4ng ty CP T\u1eadp \u0111o\u00e0n Thi\u00ean Long - VietstockFinanc",
-    "Xplora Technologies AS: Monthly Subscriptions Update September 2026 - TradingVie",
-    "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-    "Asos hackers took more personal details than first revealed, BBC finds",
     "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank - VietstockFinance",
     "Barclays Makes Major Call on SpaceX, Palantir Stocks - TradingView",
     "Junk bonds are 'flashing yellow.' Watch these warning signs",
@@ -416,6 +410,12 @@
     "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB | VietstockFinance - VietstockFinance",
     "Oil Wavers on Potential Russian Diesel Release - TradingView",
     "After a yearslong slump, China's real estate market may be set for a turnaround",
-    "How the oil capital of the US welcomed a solar power boom"
+    "How the oil capital of the US welcomed a solar power boom",
+    "What MTY Food Group (MTY) Said on Its Q3 Earnings Call - TradingView",
+    "Huawei doubles down on smartphones as EV sales slow",
+    "Spain battles climate change on several fronts",
+    "EU presidency proposes 8% cut to its 2028-2034 budget to \u20ac1.6 trillion",
+    "Canadian Dollar underperforms after Canada sheds 68.3K jobs in September",
+    "investingLive Americas market news wrap: Trump says no attacks on Iran before th"
   ]
 }
