@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791760044.3300152,
+  "last_signals": 1791760648.3055394,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -81,14 +81,14 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791761039,
@@ -117,14 +117,8 @@
     }
   },
   "last_analysis": 1791760346.7737763,
-  "last_news": 1791760044.3292472,
+  "last_news": 1791760648.3049057,
   "seen_news": [
-    "Streamex Received Notice of Noncompliance - TradingView",
-    "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-    "I've been with my boyfriend for two years and don't know his salary",
-    "States Bet on Virtual Power Plants to Cut Grid Costs",
-    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "Singapore: Policy slope tightening view \u2013 DBS",
     "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
     "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
     "Projectile hits Riyadh airport terminal as Trump considers joining Saudi strikes",
@@ -418,6 +412,12 @@
     "The world needs Ukraine\u2019s grain. Its farmers are running out of reasons to plant",
     "Would you buy branded clothing from your favourite tech firm?",
     "3 Stocks To Play The Nuclear Energy Boom",
-    "U.S. bond market halts rout while Eurozone finance ministers pressure Paris"
+    "U.S. bond market halts rout while Eurozone finance ministers pressure Paris",
+    "Americans' debt problems are flashing a warning not seen since the Great Recessi",
+    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "Australia Approves Giant Coal Extension Despite Paris Commitments",
+    "Chile\u2019s Codelco reports mudslide at El Teniente mine; three workers affected",
+    "US President Donald Trump says Russia and Ukraine agree to an \u2018energy ceasefire\u2019",
+    "US CPI preview: energy set to lift inflation to 3.7%, core seen steady at 2.4%"
   ]
 }
