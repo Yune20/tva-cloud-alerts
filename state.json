@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791742360.796326,
+  "last_signals": 1791742927.0770192,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -116,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791742350.9694362,
-  "last_news": 1791742358.7075484,
+  "last_analysis": 1791742918.7546601,
+  "last_news": 1791742927.076113,
   "seen_news": [
-    "Crude Oil drops on Trump's Russian diesel plan",
-    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
-    "Quy \u0111\u1ecbnh x\u00e1c \u0111\u1ecbnh xu\u1ea5t x\u1ee9 Vi\u1ec7t Nam \u0111\u1ed1i v\u1edbi h\u00e0ng h\u00f3a s\u1ea3n xu\u1ea5t, l\u01b0u th\u00f4ng trong n\u01b0",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB | VietstockFinance - VietstockFinance",
-    "Wheat Faces Friday Pressure as USDA Raises Stocks - TradingView",
-    "Little relief expected for gas prices ahead of Election Day, according to predic",
     "ACB: Ng\u00e2n h\u00e0ng TMCP \u00c1 Ch\u00e2u - ACB - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt | VietstockFinance - Viets",
     "Bitcoin's $19 billion crash still shapes crypto risk a year later - TradingView",
     "After a yearslong slump, China's real estate market may be set for a turnaround",
@@ -418,6 +412,12 @@
     "Canada September employment change -68.3K vs +9.2K expected",
     "Ch\u1ee9ng kho\u00e1n th\u00e1ng 10 t\u1eebng xu\u1ea5t hi\u1ec7n nh\u1eefng c\u00fa gi\u1ea3m s\u00e2u, nh\u00f3m c\u1ed5 phi\u1ebfu n\u00e0o th\u01b0\u1eddng ",
     "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO | VietstockFinan",
-    "Oracle's AI Story Just Got a Lift - TradingView"
+    "Oracle's AI Story Just Got a Lift - TradingView",
+    "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank",
+    "Alcohol stocks: bargains, value traps and changing drinking habits",
+    "SGI Capital: M\u1ed9t ch\u1ec9 b\u00e1o c\u1ea7n \u0111\u1eb7c bi\u1ec7t l\u01b0u \u00fd trong BCTC qu\u00fd 3, ng\u00e2n h\u00e0ng v\u00e0 B\u0110S c",
+    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong | VietstockFinance - VietstockFinanc",
+    "Trans Canada Gold Corp. (TTG) Closes $2.145M First-Tranche Financing - TradingVi",
+    "Junk bonds are 'flashing yellow.' Watch these warning signs"
   ]
 }
