@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791669997.362372,
-  "last_bot4": 1791677504.7434194,
+  "last_bot4": 1791678183.7913923,
   "watch_symbols": [],
   "watch_by_chat": {},
   "default_quote_by_chat": {},
@@ -25,7 +25,7 @@
     "bot1": 488112747,
     "bot3": 959191732
   },
-  "last_signals": 1791677822.18703,
+  "last_signals": 1791678183.7923002,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -63,7 +63,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -112,15 +112,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791677814.3910046,
-  "last_news": 1791677822.186173,
+  "last_analysis": 1791678177.1809256,
+  "last_news": 1791678183.7905035,
   "seen_news": [
-    "U.S. bond market halts rout while Eurozone finance ministers pressure Paris",
-    "US August wholesale inventories +0.5% vs +0.7% expected",
-    "C\u00e1ch \u0111u\u1ed5i chu\u1ed9t \u0111\u01a1n gi\u1ea3n nh\u01b0ng r\u1ea5t hi\u1ec7u qu\u1ea3 b\u1eb1ng n\u01b0\u1edbc v\u00e0 1 gia v\u1ecb trong t\u1ee7 b\u1ebfp",
-    "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS | VietstockFinance - VietstockFinance",
-    "Morgan Stanley Revises Netflix Stock Price Target for 2027 - TradingView",
-    "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurki",
     "\u0110i\u1ec1u ng\u01b0\u1eddi Vi\u1ec7t, Trung, H\u00e0n, Nh\u1eadt... c\u00f9ng ki\u00eang tr\u00ean m\u00e2m c\u01a1m",
     "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO | VietstockFinan",
     "Partners Group (P2H) Launches Global Private Credit Income Strategy - TradingVie",
@@ -414,6 +408,12 @@
     "H\u01a1n 250 c\u1ea3nh s\u00e1t \u0111\u1ed3ng lo\u1ea1t kh\u00e1m x\u00e9t 5 doanh nghi\u1ec7p quan tr\u1eafc m\u00f4i tr\u01b0\u1eddng",
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "News by CNBC TV18 on TradingView, 2026-10-09 \u2014 cnbctv:c1b8faf96094b:0 - TradingV",
-    "Trump's diesel agreement with Putin accused of contradicting Russia sanctions la"
+    "Trump's diesel agreement with Putin accused of contradicting Russia sanctions la",
+    "Asia FX: Trade negotiations and resilient macro backdrop \u2013 MUFG",
+    "Market playbook: Why what doesn't happen in markets can be the biggest trading s",
+    "Gen Z: 'B\u1ed1 m\u1eb9 ch\u00fang ta l\u00e0 th\u1ebf h\u1ec7 cu\u1ed1i c\u00f9ng g\u00ec c\u0169ng bi\u1ebft s\u1eeda, bi\u1ebft n\u1ea5u\u2019",
+    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
+    "Key facts: ASTS slides ~15%; 4.86% of Procure Space ETF; 1000MHz 200Mbps - Tradi",
+    "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback"
   ]
 }
