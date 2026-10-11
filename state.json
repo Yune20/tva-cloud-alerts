@@ -27,7 +27,7 @@
     "bot1": 488112749,
     "bot3": 959191732
   },
-  "last_signals": 1791732097.591176,
+  "last_signals": 1791732701.3228583,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -64,7 +64,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -114,15 +114,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791732090.0882266,
-  "last_news": 1791732097.5903625,
+  "last_analysis": 1791732695.5722177,
+  "last_news": 1791732701.321897,
   "seen_news": [
-    "Streamex Received Notice of Noncompliance - TradingView",
-    "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-    "The wildlife winners set to appear on your banknotes revealed",
-    "Pashinyan\u2019s Nuclear U-Turn Gives Moscow an Opening in Armenia",
-    "Spanish lawyer Gonzalez\u00a0Durantez launches centrist party for November election",
-    "Singapore: Policy slope tightening view \u2013 DBS",
     "What's open and closed in US and Canadian markets on Monday",
     "Ti\u1ebft sang thu n\u00ean \u0103n 4 lo\u1ea1i h\u1ea3i s\u1ea3n n\u00e0y, v\u1eeba b\u00e9o ngon, v\u1eeba r\u1ebb l\u1ea1i gi\u00e0u dinh d\u01b0\u1ee1n",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
@@ -416,6 +410,12 @@
     "S\u1ebfp nh\u1eafn tin l\u00fac 10h30 t\u1ed1i y\u00eau c\u1ea7u ph\u1ea3n h\u1ed3i c\u00f4ng vi\u1ec7c, ng\u01b0\u1eddi EQ cao kh\u00f4ng n\u00f3i \u201cv",
     "DGC: CTCP T\u1eadp \u0111o\u00e0n H\u00f3a ch\u1ea5t \u0110\u1ee9c Giang - Duc Giang Chemicals Group | VietstockFin",
     "Coaching classes made them millionaires; now, they're turning entrepreneurs - Tr",
-    "I work hard to stay close to my friends. A researcher says it\u2019s good for my well"
+    "I work hard to stay close to my friends. A researcher says it\u2019s good for my well",
+    "Ph\u01b0\u01a1ng Oanh khoe c\u1eb7p song sinh h\u01a1n 2 tu\u1ed5i: con g\u00e1i ng\u1ed3i \u0111\u1ecdc s\u00e1ch nh\u01b0 ti\u1ec3u th\u01b0, q",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
+    "Key facts: ASTS slides ~15%; 4.86% of Procure Space ETF; 1000MHz 200Mbps - Tradi",
+    "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "The Iran War Is Fueling a Boom in Clean Energy"
   ]
 }
