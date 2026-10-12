@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791779460.2638707,
-  "last_bot4": 1791780374.1894531,
+  "last_bot4": 1791781035.9035902,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791780670.4308872,
+  "last_signals": 1791781035.9042237,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -84,13 +84,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -121,18 +121,12 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791778832.371856,
-    "Gold|4H:top": 1791780670.5819595,
-    "Bitcoin|4H:top": 1791780670.9074059
+    "Gold|4H:top": 1791781036.2624197,
+    "Bitcoin|4H:top": 1791781036.7606492
   },
-  "last_analysis": 1791780371.2279494,
-  "last_news": 1791780670.4300067,
+  "last_analysis": 1791781024.1996949,
+  "last_news": 1791781035.9027956,
   "seen_news": [
-    "How Supreme Court justices are leaning in major 401(k) case over private funds a",
-    "Everton owners consider selling club two years after takeover",
-    "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
-    "EUR/USD outlook as euro stays pinned near multi month lows",
-    "Gold: Short covering signals renewed bullish momentum - TD Securities",
-    "Trump says Russia, Ukraine agree energy ceasefire two days after Russian diesel ",
     "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
     "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis",
     "Euro zone ministers tell France to pass 2027 budget to calm markets",
@@ -426,6 +420,12 @@
     "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran ",
     "H\u00e0ng ch\u1ee5c tri\u1ec7u c\u1ed5 phi\u1ebfu s\u1eafp '\u0111\u1ed5 b\u1ed9' s\u00e0n HoSE",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
-    "Oil Drops on Russian Diesel Supply Hopes - TradingView"
+    "Oil Drops on Russian Diesel Supply Hopes - TradingView",
+    "Heads up: US bond market closed Monday but stocks remain open as liquidity risks",
+    "B\u1eaft Nguy\u1ec5n Anh H\u00e0o SN 2005 - \u0111\u1ed1i t\u01b0\u1ee3ng r\u00fat dao \u0111\u00e2m CSGT khi b\u1ecb ki\u1ec3m tra n\u1ed3ng \u0111\u1ed9 ",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "Sebi's colour-coded Credit Risk-o-Meter for bonds - TradingView",
+    "The bull market is turning 4 years old \u2014 but yields could crash the party",
+    "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology"
   ]
 }
