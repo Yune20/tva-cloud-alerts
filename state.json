@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791801802.9499016,
-  "last_bot4": 1791805921.1856391,
+  "last_bot4": 1791806851.3255022,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791805240.0137322
+    "Gold": 1791806851.325381
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791806519.5063949,
+  "last_signals": 1791806851.3264134,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -128,15 +128,9 @@
     "JPY Index|4H:top": 1791794267.5109282,
     "USOIL|4H:top": 1791802433.0620472
   },
-  "last_analysis": 1791806228.082891,
-  "last_news": 1791806519.5055845,
+  "last_analysis": 1791806838.5327542,
+  "last_news": 1791806848.21188,
   "seen_news": [
-    "Why is MINISO stock surging today?",
-    "India steps up currency defense with tougher US Dollar curbs \u2014 Reuters",
-    "Monday open indicative forex prices, 12 October 2026",
-    "H\u1ea3i quan ph\u00e1t hi\u1ec7n 1,3kg v\u00e0ng tr\u1ecb gi\u00e1 4,6 t\u1ef7 \u0111\u1ed3ng \u0111\u01b0\u1ee3c gi\u1ea5u b\u00ean trong chi\u1ebfc loa ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online - TradingView",
     "Stock earnings pick of the week: Can TSMC keep the AI boom running as US CPI loo",
     "Chi ti\u1ebft c\u00e1c b\u01b0\u1edbc li\u00ean k\u1ebft t\u00e0i kho\u1ea3n ch\u1ee9ng kho\u00e1n v\u1edbi VNeID",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
@@ -430,6 +424,12 @@
     "Leapmotor-Stellantis JV calls EU-China import cap deal \u2019interesting alternative\u2019",
     "GBP/JPY Price Forecast: Pound extends gains, nearing 210.00 amid Yen weakness",
     "The Nasdaq could be vulnerable to near-term weakness as traders hedge into the U",
-    "Ch\u1ee9ng kho\u00e1n '\u0111\u1ecf l\u1eeda' \u0111\u1ea7u tu\u1ea7n, VN-Index m\u1ea5t h\u01a1n 14 \u0111i\u1ec3m"
+    "Ch\u1ee9ng kho\u00e1n '\u0111\u1ecf l\u1eeda' \u0111\u1ea7u tu\u1ea7n, VN-Index m\u1ea5t h\u01a1n 14 \u0111i\u1ec3m",
+    "Why are more roofs not made of solar tiles?",
+    "Western Digital stock analysis: Buy after recent selloff?",
+    "CEE FX: Inflation data versus global Dollar strength \u2013 ING",
+    "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
+    "N\u1eef ca s\u0129 s\u1ed1 1 Vi\u1ec7t Nam tr\u1ebb \u0111\u1eb9p kh\u00f3 tin t\u1ea1i show th\u1eddi trang",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi"
   ]
 }
