@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791769828.2798169,
+  "last_signals": 1791770449.6817925,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -61,7 +61,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -70,7 +70,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -117,15 +117,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791769816.7132666,
-  "last_news": 1791769828.2790585,
+  "last_analysis": 1791770439.8936977,
+  "last_news": 1791770449.6806471,
   "seen_news": [
-    "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
-    "Canadian Dollar underperforms after Canada sheds 68.3K jobs in September",
-    "Canada September employment change -68.3K vs +9.2K expected",
-    "Ch\u1ee9ng kho\u00e1n th\u00e1ng 10 t\u1eebng xu\u1ea5t hi\u1ec7n nh\u1eefng c\u00fa gi\u1ea3m s\u00e2u, nh\u00f3m c\u1ed5 phi\u1ebfu n\u00e0o th\u01b0\u1eddng ",
-    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO | VietstockFinan",
-    "Oracle's AI Story Just Got a Lift - TradingView",
     "Taiwan Dollar: Trade strength but losses capped against US Dollar \u2013 Commerzbank",
     "Alcohol stocks: bargains, value traps and changing drinking habits",
     "SGI Capital: M\u1ed9t ch\u1ec9 b\u00e1o c\u1ea7n \u0111\u1eb7c bi\u1ec7t l\u01b0u \u00fd trong BCTC qu\u00fd 3, ng\u00e2n h\u00e0ng v\u00e0 B\u0110S c",
@@ -419,6 +413,12 @@
     "AI may change the price of your Big Mac and groceries \u2014 what this means for shop",
     "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
     "MAAS Group slides further after Firmus IPO cancellation, hits six-month low",
-    "WTI declines to near $90.00 despite escalating Middle East conflict, supply risk"
+    "WTI declines to near $90.00 despite escalating Middle East conflict, supply risk",
+    "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+    "My hometown shows that high streets have to change or die",
+    "Why is Lifestyle Communities stock plummeting today?",
+    "Silver Price Forecast: Bullish engulfing pattern puts $64 in sight",
+    "Indian Rupee set for 1% rally as RBI curbs hedging rush that hit a record $77 bi",
+    "S\u00e2n bay l\u1edbn l\u1ea1i b\u1ecb Houthi t\u1ea5n c\u00f4ng, \u1ea2-r\u1eadp X\u00ea-\u00fat b\u1ea5t ng\u1edd li\u00ean l\u1ea1c v\u1edbi Iran"
   ]
 }
