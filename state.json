@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791841137.178596,
+  "last_signals": 1791841663.667596,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,12 +71,12 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|4H": false,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791841137.9168003,
+    "USOIL|4H:top": 1791841664.2113867,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791841138.3209639
+    "Bitcoin|4H:bot": 1791841664.5886369
   },
-  "last_analysis": 1791841122.4173155,
-  "last_news": 1791841137.1745007,
+  "last_analysis": 1791841652.6399157,
+  "last_news": 1791841663.6668105,
   "seen_news": [
-    "Australian Dollar retreats as Fed hawkish stance, Iran tensions boost US Dollar",
-    "Preview: TSMC tipped for sixth straight record quarter, with profit seen up 65% ",
-    "Ca s\u0129 v\u1eeba \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi: Nhan s\u1eafc \u201cl\u1ec7ch chu\u1ea9n\u201d b\u1ecb nghi ng\u1edd, c\u1ea5t g",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "Weekly Recap: JPMorgan threshold filing and NexPoint reports no holdings - Tradi",
-    "Winter heating costs are expected to be 8.3% higher than last year. But could El",
     "Kh\u00f4ng c\u1ee9u n\u1ed5i Tom Cruise",
     "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank | VietstockFinance - VietstockFin",
     "Guide to Magnificent Seven ETF investing - TradingView",
@@ -434,6 +428,12 @@
     "Si\u00eau \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 250 km/h, v\u1ed1n \u0111\u1ea7u t\u01b0 174.000 t\u1ef7 \u0111\u1ed3ng ch\u1ea1y xuy\u00ean khu v\u1ef1c \u0111",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
     "TD Cowen maintains Hold rating on RenaissanceRe Holdings, $320 price target - Tr",
-    "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia"
+    "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    "Banks are set to report this week. Here's what the options market expects",
+    "AI minister warns 'likely' UK's cyber defences will be breached",
+    "House Republicans Move to Block Trump's Russian Diesel Deal",
+    "Indian rupee rebounds from near record low after RBI unveils support measures",
+    "US Dollar: Geopolitics support extends gains \u2013 ING",
+    "Big Monday recap ... Oil gains on two fronts as Russia hits Ukraine and Saudi vo"
   ]
 }
