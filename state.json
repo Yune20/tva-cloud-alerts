@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791835023.8259213,
+  "last_signals": 1791835629.9608994,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791835024.316092,
+    "USOIL|4H:top": 1791835630.5187445,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791835024.5473187
+    "Bitcoin|4H:bot": 1791835630.7866545
   },
-  "last_analysis": 1791835012.513179,
-  "last_news": 1791835019.524432,
+  "last_analysis": 1791835620.8406966,
+  "last_news": 1791835629.9598098,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
-    "BASF SE: Release of a capital market information - TradingView",
-    "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-    "X-planes: Are they needed in the new era of drones?",
-    "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply",
-    "Skies over Saudi capital empty after deadly Houthi airport strikes",
     "Bank earnings to shed the first light on how higher yields are affecting the eco",
     "Zelenskyy accuses Russia of violating Trump\u2019s energy ceasefire as drone attacks ",
     "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
@@ -434,6 +428,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Can Alliant Energy's Diversified Generation Portfolio Support Growth? - TradingV",
     "Meta is back on the AI leaderboard with its new family of Wonder models",
-    "AI FOMO driving some family offices into tech investments, survey suggests"
+    "AI FOMO driving some family offices into tech investments, survey suggests",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
+    "Weekly Recap: Trading-driven profit rise and SAF supply to YPF - TradingView",
+    "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSp",
+    "Why are more roofs not made of solar tiles?",
+    "China's Auto Exports Explode as Domestic Demand Craters",
+    "Why is Cerebras Systems stock sliding to a new 52-week low today?"
   ]
 }
