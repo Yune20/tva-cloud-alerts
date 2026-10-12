@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791778224.326486,
+  "last_signals": 1791778831.293186,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -85,13 +85,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791779096,
@@ -120,18 +120,12 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791778225.6950912,
-    "Gold|4H:top": 1791778224.5057614
+    "Ethereum|4H:top": 1791778832.371856,
+    "Gold|4H:top": 1791778831.548145
   },
-  "last_analysis": 1791778213.712433,
-  "last_news": 1791778224.3252285,
+  "last_analysis": 1791778820.6956544,
+  "last_news": 1791778831.2925715,
   "seen_news": [
-    "investingLive Americas FX news wrap 9 Oct: It\u2019s a Wrap: Stocks rebound despite w",
-    "Samsung \u0111\u01b0a 100 k\u1ef9 s\u01b0 Vi\u1ec7t Nam sang H\u00e0n Qu\u1ed1c h\u1ecdc c\u00f4ng ngh\u1ec7 b\u00e1n d\u1eabn, chu\u1ea9n b\u1ecb s\u1ea3n",
-    "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS | VietstockFinance - VietstockFinance",
-    "Ascelia Pharma AB (publ) (ACE) Says FDA May Accept SPARKLE Reanalysis; No New St",
-    "Justice Department investigates TV networks as White House press-access fight es",
-    "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
     "Chinese Yuan: PBoC defends yuan narrative \u2013 Commerzbank",
     "Bitcoin sellers had their shot. They missed.",
     "Vi\u1ec7t Nam c\u00f3 su\u1ed1i n\u01b0\u1edbc n\u00f3ng t\u1ef1 nhi\u00ean g\u1ea7n 90\u00b0C, \u0111\u1ee7 s\u1ee9c l\u00e0m ch\u00edn tr\u1ee9ng g\u00e0 ch\u1ec9 trong",
@@ -425,6 +419,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
     "Gold gains on weaker oil, dollar; US inflation data in focus - TradingView",
     "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my",
-    "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir"
+    "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
+    "Raja Venkatraman recommends two stocks for 12 October - TradingView",
+    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
+    "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiti",
+    "X-planes: Are they needed in the new era of drones?",
+    "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures"
   ]
 }
