@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791818685.7328126,
+  "last_signals": 1791819297.919441,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -132,14 +132,8 @@
     "DXY|4H:top": 1791817148.9223478
   },
   "last_analysis": 1791818998.881005,
-  "last_news": 1791818685.7319112,
+  "last_news": 1791819297.918459,
   "seen_news": [
-    "Volkswagen Q3 deliveries drop 14.3% on China weakness; Traton gains on U.S. dema",
-    "British Pound: Range-bound trading within a tight band against US Dollar \u2013 UOB",
-    "What is earnings season and why the first companies to report are important to w",
-    "H\u00e0 C\u00f2i b\u1ea5t ng\u1edd c\u1ea7u h\u00f4n Meichan",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "Brent Drops on Russian Diesel Supply Hopes - TradingView",
     "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-",
     "\"8 t\u1ef7 ng\u01b0\u1eddi, 1 s\u1ed1 ph\u1eadn\": Trang web l\u1eadp tr\u00ecnh trong 4 ti\u1ebfng b\u1eb1ng AI \u0111ang l\u00e0m r\u00fang",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -433,6 +427,12 @@
     "\u0110i ch\u1ee3 th\u1ea5y 3 lo\u1ea1i rau n\u00e0y ph\u1ea3i mua ngay: T\u1ed1t cho m\u1eaft, b\u1ed5 gan, ph\u00f2ng b\u1ec7nh d\u1ea1 d\u00e0y",
     "B\u00e1o c\u00e1o T\u1ed5ng k\u1ebft Th\u1ecb tr\u01b0\u1eddng: Th\u00e1ng 09/2026 -Thanh kho\u1ea3n th\u1ea5p, kh\u1ed1i ngo\u1ea1i ti\u1ebfp t\u1ee5",
     "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
-    "Rep. Ilhan Omar\u2019s home raided in federal criminal investigation"
+    "Rep. Ilhan Omar\u2019s home raided in federal criminal investigation",
+    "Th\u1ea5y r\u1eafn v\u00e0o nh\u00e0 l\u00fac n\u1eeda \u0111\u00eam l\u00e0m g\u00ec \u0111\u1ea7u ti\u00ean?",
+    "T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VietstockFinance",
+    "Adobe double-downgraded at Wells Fargo; firm upgrades Tyler Technologies - Tradi",
+    "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "Fridges in French supermarkets hit by cyber attack",
+    "Saudi Arabia Insists Energy Supply Remains Resilient"
   ]
 }
