@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791790713.961962,
-  "last_bot4": 1791796738.143635,
+  "last_bot4": 1791797425.3355787,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791796128.7191079
+    "Gold": 1791797425.3354695
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791797062.7910533,
+  "last_signals": 1791797425.3362174,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -123,19 +123,13 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791797063.6234643,
+    "Bitcoin|4H:top": 1791797426.1027417,
     "USD/JPY|4H:top": 1791794267.2144215,
     "JPY Index|4H:top": 1791794267.5109282
   },
-  "last_analysis": 1791797050.7779186,
-  "last_news": 1791797062.7902477,
+  "last_analysis": 1791797413.8479095,
+  "last_news": 1791797422.38008,
   "seen_news": [
-    "TP.HCM c\u00f3 th\u00eam 2 d\u1ef1 \u00e1n \u0111\u01b0\u1ee3c ph\u00e9p b\u00e1n cho ng\u01b0\u1eddi n\u01b0\u1edbc ngo\u00e0i",
-    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 N\u0102M 2026 T\u00ccM V\u1ec0 GI\u00c1 TR\u1eca - VietstockFinance",
-    "Grant Cardone Says He Never Tells Fannie Mae About The Bitcoin In His Real Estat",
-    "Living with Mom and trading on margin. The regular investor gets in on Wall Stre",
-    "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-    "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
     "I've been with my boyfriend for two years and don't know his salary",
     "Trump selects Katie Zacharia as White House press secretary",
     "Euro holds gains above 1.1200 despite France\u2019s bond turmoil",
@@ -429,6 +423,12 @@
     "C\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n c\u1ee7a Ti\u1ebfn s\u0129 Nguy\u1ec5n Vi\u1ec7t C\u01b0\u1eddng \u201cb\u1ed1c h\u01a1i\u201d h\u01a1n 5.000 t\u1ef7 v\u1ed1n h\u00f3",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
     "Nordex SE (NDX1) Q3 Orders Rise 29.5% to 2.8 GW - TradingView",
-    "The bond market is doing the Fed\u2019s job, and that could be good news for stocks, "
+    "The bond market is doing the Fed\u2019s job, and that could be good news for stocks, ",
+    "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
+    "Weekly Recap: Trading-driven profit rise and SAF supply to YPF - TradingView",
+    "My sister moved in with our widowed mother, 78, and says she deserves the family",
+    "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+    "AI is less regulated than milk, says Microsoft president",
+    "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032"
   ]
 }
