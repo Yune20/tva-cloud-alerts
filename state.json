@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791792413.1355686,
+  "last_signals": 1791793023.3490741,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -81,7 +81,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -122,19 +122,13 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791792413.992727,
+    "Bitcoin|4H:top": 1791793023.8145525,
     "USD/JPY|4H:top": 1791790721.1621382,
     "JPY Index|4H:top": 1791790722.6097353
   },
-  "last_analysis": 1791792402.3790216,
-  "last_news": 1791792413.134229,
+  "last_analysis": 1791793012.0153353,
+  "last_news": 1791793023.3481712,
   "seen_news": [
-    "How de-extincting dire wolves and woolly mammoths may extend human life",
-    "Debt advice that may leave you owing even more money",
-    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "WTI holds steady as traders weigh US-Iran tensions and supply risks",
-    "What's open and closed in US and Canadian markets on Monday",
-    "Ng\u00e2n h\u00e0ng s\u1ed1 th\u1eddi AI: H\u00e0ng tri\u1ec7u kh\u00e1ch h\u00e0ng, h\u00e0ng tri\u1ec7u phi\u00ean b\u1ea3n \u1ee9ng d\u1ee5ng",
     "U.S. Oil Drilling Continues to Inch Upward",
     "Yen weakness since 2025 has been limited to offshore hours: analysis",
     "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
@@ -428,6 +422,12 @@
     "Fed officials see another hike coming, but no sign as to when, minutes show",
     "Why some have no choice but to pay costly oil prices",
     "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
-    "Why is Nexans stock climbing today?"
+    "Why is Nexans stock climbing today?",
+    "Huawei doubles down on smartphones as EV sales slow",
+    "Trump faces growing backlash over plans to import diesel from Russia",
+    "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
+    "Why is Vallourec stock rallying today?",
+    "Oil: Supply risks offset by Russia diesel deal \u2013 ING",
+    "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the "
   ]
 }
