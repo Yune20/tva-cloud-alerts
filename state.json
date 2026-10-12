@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791801802.9499016,
+  "last_news_report": 1791812862.3156085,
   "last_bot4": 1791812450.6853971,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791812162.5640943,
+  "last_signals": 1791812862.3164656,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,16 +65,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -127,17 +127,12 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791794267.2144215,
     "JPY Index|4H:top": 1791794267.5109282,
-    "USOIL|4H:top": 1791802433.0620472
+    "USOIL|4H:top": 1791802433.0620472,
+    "US30|4H:top": 1791812863.423568
   },
-  "last_analysis": 1791812155.0317626,
-  "last_news": 1791812162.56337,
+  "last_analysis": 1791812848.4184706,
+  "last_news": 1791812858.3039563,
   "seen_news": [
-    "Ca s\u0129 Vi\u1ec7t h\u00e1t 5 b\u00e0i nh\u1eadn 2 t\u1ef7 \u0111\u1ed3ng: 5 tu\u1ed5i \u0111\u00e3 \u0111i di\u1ec5n qu\u1ed1c t\u1ebf, doanh thu phim c",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "Weekly Recap: Takeover financing and Rule 8.3 disclosures - TradingView",
-    "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what t",
-    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
-    "Two More Oil Tankers Attacked Near Strait of Hormuz",
     "South Korean Won Hits 24-month High - TradingView",
     "Pok\u00e9mon card values are soaring. What collectors should know before buying or se",
     "Boots has a new owner: Three ways it could affect you",
@@ -431,6 +426,12 @@
     "Euro zone ministers tell France to pass 2027 budget to calm markets",
     "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
     "Stock earnings pick of the week: Can TSMC keep the AI boom running as US CPI loo",
-    "So s\u00e1nh l\u00e3i su\u1ea5t ng\u00e0y 12/10 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, VPBank,"
+    "So s\u00e1nh l\u00e3i su\u1ea5t ng\u00e0y 12/10 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, VPBank,",
+    "Micron Faces Two New Risks at Once - TradingView",
+    "The bull market is turning 4 years old \u2014 but yields could crash the party",
+    "Banks are set to report this week. Here's what the options market expects",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears",
+    "UBS sees stronger outlook for Brazilian real after election"
   ]
 }
