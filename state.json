@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791774527.407156,
+  "last_signals": 1791775138.7348537,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -61,7 +61,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -118,17 +118,11 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791774528.9313908
+    "Ethereum|4H:top": 1791775139.3808398
   },
-  "last_analysis": 1791774518.312633,
-  "last_news": 1791774527.3873057,
+  "last_analysis": 1791775130.0948946,
+  "last_news": 1791775138.7338095,
   "seen_news": [
-    "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019l",
-    "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
-    "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-    "Global trust in science falls below pre-pandemic levels, survey finds",
-    "China: Robust trade and rising prices \u2013 DBS",
-    "It's a very sparse economic and event calendar in Asia, Friday, October 9, 2026",
     "Why are more roofs not made of solar tiles?",
     "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
     "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
@@ -422,6 +416,12 @@
     "Citi sees limited upside for EUR/JPY amid intervention expectations",
     "Saudi-led coalition says it intercepted Houthi ballistic missile toward Khamis M",
     "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
-    "Ly k\u1ef3 v\u1ee5 kh\u00e1ch n\u1eef l\u00ean m\u1ea1ng c\u1ea7u c\u1ee9u b\u1ecb k\u1eb9t trong nh\u00e0 v\u1ec7 sinh m\u00e1y bay"
+    "Ly k\u1ef3 v\u1ee5 kh\u00e1ch n\u1eef l\u00ean m\u1ea1ng c\u1ea7u c\u1ee9u b\u1ecb k\u1eb9t trong nh\u00e0 v\u1ec7 sinh m\u00e1y bay",
+    "Shares seesaw in Asia as earnings loom, oil skids",
+    "New Zealand Dollar weakens as Middle East conflict elevates inflation risks",
+    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
+    "Su\u00fdt b\u1ecb l\u1eeba sang Campuchia v\u00ec tin l\u1eddi h\u1ee9a 'tr\u1ea3 l\u01b0\u01a1ng 1,8 tri\u1ec7u \u0111\u1ed3ng/ng\u00e0y'",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
+    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView"
   ]
 }
