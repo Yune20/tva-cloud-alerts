@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791773300.635451,
+  "last_signals": 1791773914.8690116,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791769828.2798169
+    "5575146754|Gold|1H|range_in": 1791773914.8690116
   },
   "sig_range": {
     "Gold": true,
@@ -61,13 +61,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -76,7 +76,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -118,17 +118,11 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791772018.4116778
+    "Ethereum|4H:top": 1791773915.5151172
   },
-  "last_analysis": 1791773292.1553068,
-  "last_news": 1791773300.6345463,
+  "last_analysis": 1791773903.4458363,
+  "last_news": 1791773914.8681822,
   "seen_news": [
-    "BFC: CTCP Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n - BFC - VietstockFinance",
-    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
-    "Should I put my nest egg in a 30-year Treasury bond?",
-    "Justice Department opens antitrust probe as White House press-access fight escal",
-    "Burnham promises to curb non-compete rules in job contracts",
-    "Iran rejects U.S. stance on Hormuz as Trump weighs strikes over Riyadh attacks",
     "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How",
     "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
     "Anthropic bans users from being 'cruel' to its AI systems",
@@ -422,6 +416,12 @@
     "Key facts: BTCUSD ~84k; $859M Liquidations; 17,733 BTC Transfer - TradingView",
     "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
+    "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+    "News by CNBC TV18 on TradingView, 2026-10-12 \u2014 cnbctv:c33dec134094b:0 - TradingV",
+    "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    "The start-ups hoping to return battery making to the US",
+    "How Low Can the Strategic Petroleum Reserve Actually Go?",
+    "Dollar gains for fourth straight week on Fed rate outlook",
+    "British Pound gains positive traction as USD remains depressed on softer bond yi"
   ]
 }
