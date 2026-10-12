@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791835023.8248382,
-  "last_bot4": 1791838954.9606748,
+  "last_bot4": 1791839614.6339312,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791839256.282568,
+  "last_signals": 1791839614.6345873,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,7 +68,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -86,13 +86,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791839256.7140749,
+    "USOIL|4H:top": 1791839615.2267818,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791839256.941404
+    "Bitcoin|4H:bot": 1791839615.5176954
   },
-  "last_analysis": 1791839248.5539749,
-  "last_news": 1791839256.2142692,
+  "last_analysis": 1791839604.7186804,
+  "last_news": 1791839614.6330707,
   "seen_news": [
-    "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
-    "CREA: India Curtailed Over 4% of Its Solar Output in July and August",
-    "Euro zone ministers tell France to pass 2027 budget to calm markets",
-    "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
-    "Stock earnings pick of the week: Can TSMC keep the AI boom running as US CPI loo",
-    "So s\u00e1nh l\u00e3i su\u1ea5t ng\u00e0y 12/10 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, VPBank,",
     "Micron Faces Two New Risks at Once - TradingView",
     "The bull market is turning 4 years old \u2014 but yields could crash the party",
     "Banks are set to report this week. Here's what the options market expects",
@@ -434,6 +428,12 @@
     "EUR/USD outlook as euro stays pinned near multi month lows",
     "Mexican Peso: Steepening curve and carry risks \u2013 Rabobank",
     "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low a",
-    "Vi\u1ec7t Nam b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n nhu c\u1ea7u v\u1ed1n t\u0103ng m\u1ea1nh nh\u1ea5t nhi\u1ec1u n\u0103m, chuy\u00ean gia ch\u1ec9"
+    "Vi\u1ec7t Nam b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n nhu c\u1ea7u v\u1ed1n t\u0103ng m\u1ea1nh nh\u1ea5t nhi\u1ec1u n\u0103m, chuy\u00ean gia ch\u1ec9",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "Hogs Look to Monday Amid Weakness - TradingView",
+    "Starbucks says it is not buying Chipotle after takeover speculation",
+    "My hometown shows that high streets have to change or die",
+    "Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of pl",
+    "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight"
   ]
 }
