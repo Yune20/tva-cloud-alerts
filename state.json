@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791777610.445034,
+  "last_signals": 1791778224.326486,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791775760.01021,
+    "5575146754|Gold|1H|range_in": 1791778224.326486,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791776379.9293933
   },
@@ -63,16 +63,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -120,18 +120,12 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791777611.2723742,
-    "Gold|4H:top": 1791776380.0894172
+    "Ethereum|4H:top": 1791778225.6950912,
+    "Gold|4H:top": 1791778224.5057614
   },
-  "last_analysis": 1791777601.2121499,
-  "last_news": 1791777610.4437244,
+  "last_analysis": 1791778213.712433,
+  "last_news": 1791778224.3252285,
   "seen_news": [
-    "US President Trump says Putin agrees to supply millions of tons of diesel",
-    "Delivered crude prices surge back to highs as JPMorgan flags tanker crunch",
-    "3 th\u00f3i x\u1ea5u \"ph\u00e1 gan\" nhanh h\u01a1n c\u1ea3 th\u1ee9c khuya nh\u01b0ng ng\u01b0\u1eddi tr\u1ebb l\u00e0m nh\u01b0 c\u01a1m b\u1eefa",
-    "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO | VietstockFinance - Vietsto",
-    "Arrive AI Raises $250,000 in PIPE, Selling Stock and Warrants at $0.65 - Trading",
-    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
     "investingLive Americas FX news wrap 9 Oct: It\u2019s a Wrap: Stocks rebound despite w",
     "Samsung \u0111\u01b0a 100 k\u1ef9 s\u01b0 Vi\u1ec7t Nam sang H\u00e0n Qu\u1ed1c h\u1ecdc c\u00f4ng ngh\u1ec7 b\u00e1n d\u1eabn, chu\u1ea9n b\u1ecb s\u1ea3n",
     "VPX: CTCP Ch\u1ee9ng kho\u00e1n VPBank - VPBANKS | VietstockFinance - VietstockFinance",
@@ -425,6 +419,12 @@
     "Monday open indicative forex prices, 12 October 2026",
     "H\u1ea3i quan ph\u00e1t hi\u1ec7n 1,3kg v\u00e0ng tr\u1ecb gi\u00e1 4,6 t\u1ef7 \u0111\u1ed3ng \u0111\u01b0\u1ee3c gi\u1ea5u b\u00ean trong chi\u1ebfc loa ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online - TradingView"
+    "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online - TradingView",
+    "Stock earnings pick of the week: Can TSMC keep the AI boom running as US CPI loo",
+    "Chi ti\u1ebft c\u00e1c b\u01b0\u1edbc li\u00ean k\u1ebft t\u00e0i kho\u1ea3n ch\u1ee9ng kho\u00e1n v\u1edbi VNeID",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
+    "Gold gains on weaker oil, dollar; US inflation data in focus - TradingView",
+    "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my",
+    "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir"
   ]
 }
