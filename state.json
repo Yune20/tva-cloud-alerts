@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791837455.530606,
+  "last_signals": 1791838062.2127874,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791837456.1764352,
+    "USOIL|4H:top": 1791838062.7213757,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791837456.5253093
+    "Bitcoin|4H:bot": 1791838063.0040143
   },
-  "last_analysis": 1791837446.5240674,
-  "last_news": 1791837455.5296242,
+  "last_analysis": 1791838053.5686512,
+  "last_news": 1791838062.2119117,
   "seen_news": [
-    "T\u1ed5ng s\u1ed1 ti\u1ec1n n\u1ee3 n\u01b0\u1edbc ngo\u00e0i Ukraine ph\u1ea3i tr\u1ea3 trong n\u0103m 2026 l\u00e0 bao nhi\u00eau?",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "Harmony Biosciences appoints Peter Anastasiou as CEO - TradingView",
-    "Starbucks says it is not buying Chipotle after takeover speculation",
-    "My hometown shows that high streets have to change or die",
-    "Robinhood: Evercore ISI sees product flywheel driving upside",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
     "Spain battles climate change on several fronts",
@@ -434,6 +428,12 @@
     "X-planes: Are they needed in the new era of drones?",
     "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
     "Dow Jones Industrial Average edges higher with no memory chips to sell",
-    "US stocks close mixed"
+    "US stocks close mixed",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Nasdaq falls ahead of earnings, economic data while oil rallies",
+    "Chinese Yuan: Building upside momentum toward 6.6800 against US Dollar \u2013 UOB",
+    "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
+    "L\u1ed9 di\u1ec7n m\u00f4 h\u00ecnh t\u00e0u \u0111i\u1ec7n \u0111\u00f4 th\u1ecb t\u1ed1c \u0111\u1ed9 110 km/h c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n B\u00e1 D\u01b0\u01a1ng t\u1ea1i Vi\u1ec7",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t "
   ]
 }
