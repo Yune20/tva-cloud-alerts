@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791793023.3490741,
+  "last_signals": 1791793650.3077526,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -49,7 +49,8 @@
     "Ethereum|1D|range_in": 1791646560.594424,
     "5575146754|Gold|1H|range_in": 1791778224.326486,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
-    "5575146754|Gold|4H|dtop": 1791780670.4308872
+    "5575146754|Gold|4H|dtop": 1791780670.4308872,
+    "5575146754|Gold|4H|range_in": 1791793650.3077526
   },
   "sig_range": {
     "Gold": true,
@@ -64,13 +65,13 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -87,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -122,19 +123,13 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791793023.8145525,
+    "Bitcoin|4H:top": 1791793651.0401387,
     "USD/JPY|4H:top": 1791790721.1621382,
     "JPY Index|4H:top": 1791790722.6097353
   },
-  "last_analysis": 1791793012.0153353,
-  "last_news": 1791793023.3481712,
+  "last_analysis": 1791793642.5049896,
+  "last_news": 1791793650.3070638,
   "seen_news": [
-    "U.S. Oil Drilling Continues to Inch Upward",
-    "Yen weakness since 2025 has been limited to offshore hours: analysis",
-    "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
-    "UBS: AI demand holds firm, with hyperscaler cloud growth tipped to hit 58%",
-    "28.000 c\u00f4ng nh\u00e2n ng\u00e0y \u0111\u00eam t\u1ea1o h\u00ecnh, t\u00e0u cao t\u1ed1c 400 km/h c\u1ee7a Nga l\u1ed9 di\u1ec7n: N\u1eafm gi",
-    "T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VietstockFinance",
     "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
     "Bakers Hughes total rig count +5 to 603",
     "Rolls-Royce Phantom \u0111\u1ed9c b\u1ea3n b\u00e1n ch\u00ednh h\u00e3ng t\u1ea1i Vi\u1ec7t Nam: Gi\u00e1 g\u1ea7n 90 t\u1ef7, n\u1ed9i th\u1ea5t",
@@ -428,6 +423,12 @@
     "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
     "Why is Vallourec stock rallying today?",
     "Oil: Supply risks offset by Russia diesel deal \u2013 ING",
-    "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the "
+    "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the ",
+    "The Iran War Is Fueling a Boom in Clean Energy",
+    "Why is ActiveOps stock plummeting today?",
+    "US Dollar Index Price Forecast: Turns sideways after hitting fresh yearly highs ",
+    "US CPI preview: energy set to lift inflation to 3.7%, core seen steady at 2.4%",
+    "T\u1ef1a game mi\u1ec5n ph\u00ed tr\u00ean Steam \u0111\u1ea9y nh\u00f3m ph\u00e1t tri\u1ec3n v\u00e0o c\u1ea3nh n\u1ee3 n\u1ea7n, t\u1ed1n h\u01a1n 1.000 ",
+    "DCM: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 40,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan"
   ]
 }
