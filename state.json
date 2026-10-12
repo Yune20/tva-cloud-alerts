@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791822130.7386642,
+  "last_signals": 1791822473.1417518,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,8 +71,8 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -81,7 +81,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -131,15 +131,9 @@
     "US30|4H:top": 1791813407.3650095,
     "DXY|4H:top": 1791817148.9223478
   },
-  "last_analysis": 1791822120.5122228,
-  "last_news": 1791822130.737194,
+  "last_analysis": 1791822461.6521854,
+  "last_news": 1791822473.140931,
   "seen_news": [
-    "Bu\u1ed3n c\u1ee7a c\u1ed5 \u0111\u00f4ng PNJ",
-    "Vietnam economic report - VietstockFinance",
-    "ZAWYA: African experts demand a proper role in writing AI rules - TradingView",
-    "Millions of Americans will have fewer options during Medicare open enrollment th",
-    "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese riv",
-    "Why the UK is dithering over what to do about e-scooters",
     "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
     "Gold slides further below $4,200 as USD bulls retain control amid Fed bets, Iran",
     "Connecting the dots: Following the money behind the AI boom on Wall Street",
@@ -433,6 +427,12 @@
     "Delta delays debut of Saudi Arabia service until March after Riyadh airport atta",
     "Why some have no choice but to pay costly oil prices",
     "Energy Stocks Soared in Q3 as Fuel Markets Tightened",
-    "Global smartphone shipments record worst third quarter in 14 years amid memory s"
+    "Global smartphone shipments record worst third quarter in 14 years amid memory s",
+    "Can Western Digital Sustain 44% Revenue Growth in Fiscal 2027? - TradingView",
+    "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Hou",
+    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
+    "Yen weakness since 2025 has been limited to offshore hours: analysis",
+    "Euro hits fresh yearly low against British Pound as French fiscal concerns weigh"
   ]
 }
