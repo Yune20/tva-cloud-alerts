@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791784709.2311902,
+  "last_signals": 1791785317.1990838,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -84,7 +84,7 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
@@ -122,17 +122,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791783486.807842,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791784709.9196734
+    "Bitcoin|4H:top": 1791785318.1007228
   },
-  "last_analysis": 1791784699.6838078,
-  "last_news": 1791784709.2302186,
+  "last_analysis": 1791785306.3918445,
+  "last_news": 1791785317.1982028,
   "seen_news": [
-    "We\u2019re about to get a huge read on whether earnings can keep propping up the stoc",
-    "AI is automating coding. So why are software developer job postings on the rise?",
-    "The virtual worlds where robots are trained",
-    "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
-    "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.15%",
-    "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
     "Weekend: Musk says $15 billion Terrafab can make chips better than anyone, given",
     "\u201cTr\u01b0\u1eddng h\u1ecdc\u201d b\u00e1n tr\u00fa d\u00e0nh cho ng\u01b0\u1eddi cao tu\u1ed5i t\u1ea1i TP.HCM: C\u00f3 gi\u00e1o \u00e1n ri\u00eang, s\u00e1ng ",
     "B\u00e1o c\u00e1o T\u1ed5ng k\u1ebft Th\u1ecb tr\u01b0\u1eddng: Th\u00e1ng 09/2026 -Thanh kho\u1ea3n th\u1ea5p, kh\u1ed1i ngo\u1ea1i ti\u1ebfp t\u1ee5",
@@ -426,6 +420,12 @@
     "Boots has a new owner: Three ways it could affect you",
     "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
     "Indian rupee rebounds from near record low after RBI unveils support measures",
-    "Swiss Franc struggles as SNB dovish stance lifts USD/CHF"
+    "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
+    "Documents falsified to evade tax on Abramovich's wealth",
+    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
+    "European, Chinese automakers launch product blitz at Paris car show in fight for",
+    "India Gold price today: Gold rises, according to FXStreet data",
+    "More on Russia\u2019s diesel U-turn: 500,000 tons cleared for export after Trump-Puti",
+    "Si\u00eau d\u1ef1 \u00e1n \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 67 t\u1ef7 USD, d\u00f9ng c\u00f4ng ngh\u1ec7 \u0111\u1eb7c bi\u1ec7t gi\u00fap t\u00e0u ch\u1ea1y 50"
   ]
 }
