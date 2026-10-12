@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791790713.961962,
-  "last_bot4": 1791794572.2847517,
+  "last_bot4": 1791795228.5497618,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791794866.301527,
+  "last_signals": 1791795228.5968814,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -123,19 +123,13 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791794866.9573085,
+    "Bitcoin|4H:top": 1791795228.9983165,
     "USD/JPY|4H:top": 1791794267.2144215,
     "JPY Index|4H:top": 1791794267.5109282
   },
-  "last_analysis": 1791794569.3240464,
-  "last_news": 1791794866.3006232,
+  "last_analysis": 1791795219.0410013,
+  "last_news": 1791795228.4796605,
   "seen_news": [
-    "Plenty is working against this market. Here's why I'm staying invested anyway",
-    "AI is less regulated than milk, says Microsoft president",
-    "UK\u2019s Healey can\u2019t risk a \u2019steady as you go\u2019 budget, think tank warns",
-    "Chinese Yuan: PBoC stance and valuation debate guide currency path \u2013 MUFG",
-    "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
-    "Ho\u00e0ng H\u00ean b\u1ea3nh bao xu\u1ea5t hi\u1ec7n \u1edf M\u1ef9 \u0110\u00ecnh",
     "Deutsche Bank CEO warns extremist political gains risk investment in Germany",
     "Canada: Gradual improvement expected \u2013 RBC",
     "PBOC is expected to set the USD/CNY reference rate at 6.6977 \u2013 Reuters estimate",
@@ -429,6 +423,12 @@
     "ZAWYA: African experts demand a proper role in writing AI rules - TradingView",
     "Millions of Americans will have fewer options during Medicare open enrollment th",
     "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese riv",
-    "Why the UK is dithering over what to do about e-scooters"
+    "Why the UK is dithering over what to do about e-scooters",
+    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
+    "Gold slides further below $4,200 as USD bulls retain control amid Fed bets, Iran",
+    "Connecting the dots: Following the money behind the AI boom on Wall Street",
+    "GS \u0110\u1eb7ng H\u00f9ng V\u00f5: \u0110\u00e1nh thu\u1ebf 0,2% v\u1edbi \u0111\u1ea5t b\u1ecf hoang, ng\u01b0\u1eddi \u00f4m \u0111\u1ea5t ch\u1edd t\u0103ng gi\u00e1 v\u1eabn ",
+    "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock",
+    "Sprint Bioscience to present new VRK1 data at ENA 2026 - TradingView"
   ]
 }
