@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791814641.922521,
+  "last_signals": 1791815245.2419734,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,16 +65,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -130,15 +130,9 @@
     "USOIL|4H:top": 1791802433.0620472,
     "US30|4H:top": 1791813407.3650095
   },
-  "last_analysis": 1791814633.073013,
-  "last_news": 1791814641.921592,
+  "last_analysis": 1791815237.6944115,
+  "last_news": 1791815245.2411377,
   "seen_news": [
-    "L\u01b0\u1ee3ng ti\u00eau th\u1ee5 c\u0103n h\u1ed9, \u0111\u1ea5t n\u1ec1n \u1edf TP.HCM v\u00e0 v\u00f9ng ph\u1ee5 c\u1eadn gi\u1ea3m \u0111\u1ebfn 66%",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Offshore Yuan Strongest Since 2022 - TradingView",
-    "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
-    "Healey must find up to \u00a335bn to meet spending plans, says think tank",
-    "Domino\u2019s Pizza CEO takes direct control of Australia and New Zealand ops",
     "VP Says On Course To Perform In Line With Market Expectations For FY27 - Trading",
     "Trump Media advisor Katie Zacharia named White House press secretary",
     "Rainmakers: The drones used to seed clouds",
@@ -432,6 +426,12 @@
     "Ca s\u0129 v\u1eeba \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi: Nhan s\u1eafc \u201cl\u1ec7ch chu\u1ea9n\u201d b\u1ecb nghi ng\u1edd, c\u1ea5t g",
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
     "Weekly Recap: JPMorgan threshold filing and NexPoint reports no holdings - Tradi",
-    "Winter heating costs are expected to be 8.3% higher than last year. But could El"
+    "Winter heating costs are expected to be 8.3% higher than last year. But could El",
+    "Kh\u00f4ng c\u1ee9u n\u1ed5i Tom Cruise",
+    "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank | VietstockFinance - VietstockFin",
+    "Guide to Magnificent Seven ETF investing - TradingView",
+    "Microsoft hits a big milestone that solidifies its revival",
+    "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir",
+    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr"
   ]
 }
