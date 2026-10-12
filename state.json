@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791784097.4906628,
+  "last_signals": 1791784709.2311902,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,7 +78,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -90,7 +90,7 @@
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -122,17 +122,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791783486.807842,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791784098.369185
+    "Bitcoin|4H:top": 1791784709.9196734
   },
-  "last_analysis": 1791784089.396533,
-  "last_news": 1791784097.4896758,
+  "last_analysis": 1791784699.6838078,
+  "last_news": 1791784709.2302186,
   "seen_news": [
-    "Adidas sues Australian label White Fox over four stripes design",
-    "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
-    "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
-    "More on Russia\u2019s diesel U-turn: 500,000 tons cleared for export after Trump-Puti",
-    "T\u1eebng th\u1eafng Ai L\u00e0 Tri\u1ec7u Ph\u00fa, ng\u01b0\u1eddi ch\u01a1i d\u00f9ng ti\u1ec1n th\u01b0\u1edfng sang Anh h\u1ecdc b\u00f3ng \u0111\u00e1, na",
-    "DCM: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 40,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "We\u2019re about to get a huge read on whether earnings can keep propping up the stoc",
     "AI is automating coding. So why are software developer job postings on the rise?",
     "The virtual worlds where robots are trained",
@@ -426,6 +420,12 @@
     "Weekly Recap: Takeover financing and Rule 8.3 disclosures - TradingView",
     "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what t",
     "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
-    "Two More Oil Tankers Attacked Near Strait of Hormuz"
+    "Two More Oil Tankers Attacked Near Strait of Hormuz",
+    "South Korean Won Hits 24-month High - TradingView",
+    "Pok\u00e9mon card values are soaring. What collectors should know before buying or se",
+    "Boots has a new owner: Three ways it could affect you",
+    "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
+    "Indian rupee rebounds from near record low after RBI unveils support measures",
+    "Swiss Franc struggles as SNB dovish stance lifts USD/CHF"
   ]
 }
