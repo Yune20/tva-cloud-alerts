@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791835023.8248382,
-  "last_bot4": 1791840447.175038,
+  "last_bot4": 1791841137.1780393,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791840755.6246548,
+  "last_signals": 1791841137.178596,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,13 +86,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791840755.9978693,
+    "USOIL|4H:top": 1791841137.9168003,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791840756.1976862
+    "Bitcoin|4H:bot": 1791841138.3209639
   },
-  "last_analysis": 1791840748.4363778,
-  "last_news": 1791840755.623881,
+  "last_analysis": 1791841122.4173155,
+  "last_news": 1791841137.1745007,
   "seen_news": [
-    "House Republicans Move to Block Trump's Russian Diesel Deal",
-    "Indian rupee rebounds from near record low after RBI unveils support measures",
-    "US Dollar: Geopolitics support extends gains \u2013 ING",
-    "Bitcoin buyers had their shot above the 200-hour MA. They missed.",
-    "Ng\u00e2n h\u00e0ng mu\u1ed1n c\u1ea3i ti\u1ebfn, sao kh\u00e1ch h\u00e0ng ph\u1ea3i quan t\u00e2m?",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
     "Australian Dollar retreats as Fed hawkish stance, Iran tensions boost US Dollar",
     "Preview: TSMC tipped for sixth straight record quarter, with profit seen up 65% ",
     "Ca s\u0129 v\u1eeba \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi: Nhan s\u1eafc \u201cl\u1ec7ch chu\u1ea9n\u201d b\u1ecb nghi ng\u1edd, c\u1ea5t g",
@@ -434,6 +428,12 @@
     "J&J long-term Tremfya data demonstrates Crohn's remission through three years - ",
     "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Gr",
     "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears"
+    "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears",
+    "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
+    "Goldman Sachs flags power and compute as two chokepoints in the AI boom",
+    "Si\u00eau \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 250 km/h, v\u1ed1n \u0111\u1ea7u t\u01b0 174.000 t\u1ef7 \u0111\u1ed3ng ch\u1ea1y xuy\u00ean khu v\u1ef1c \u0111",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "TD Cowen maintains Hold rating on RenaissanceRe Holdings, $320 price target - Tr",
+    "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia"
   ]
 }
