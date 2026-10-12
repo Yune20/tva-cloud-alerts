@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791783486.1515977,
+  "last_signals": 1791784097.4906628,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -122,17 +122,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791783486.807842,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791783486.6379528
+    "Bitcoin|4H:top": 1791784098.369185
   },
-  "last_analysis": 1791783476.3614793,
-  "last_news": 1791783486.1508396,
+  "last_analysis": 1791784089.396533,
+  "last_news": 1791784097.4896758,
   "seen_news": [
-    "N\u1eef danh ca t\u1eebng b\u1ecb n\u00f3i \"d\u1ea1i\" khi t\u1eeb ch\u1ed1i t\u00e0i s\u1ea3n g\u1ea7n 100 t\u1ef7 c\u1ee7a ch\u1ed3ng qu\u00e1 c\u1ed1, gi",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC | VietstockFinance - VietstockFinance",
-    "Divya Gupta Appointed Associate Director\u2013 HR At HCLTech - TradingView",
-    "Pok\u00e9mon card values are soaring. What collectors should know before buying or se",
-    "Boots has a new owner: Three ways it could affect you",
-    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
     "Adidas sues Australian label White Fox over four stripes design",
     "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
     "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
@@ -426,6 +420,12 @@
     "C\u1ef1u l\u00e3nh \u0111\u1ea1o T\u1ed5ng c\u00f4ng ty Th\u00e9p Vi\u1ec7t Nam duy\u1ec7t g\u00f3i th\u1ea7u 160 tri\u1ec7u USD d\u00f9 \u0111\u01b0\u1ee3c ch\u00e0",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
     "Weekly Recap: JPMorgan threshold filing and NexPoint reports no holdings - Tradi",
-    "How Supreme Court justices are leaning in major 401(k) case over private funds a"
+    "How Supreme Court justices are leaning in major 401(k) case over private funds a",
+    "Ca s\u0129 Vi\u1ec7t h\u00e1t 5 b\u00e0i nh\u1eadn 2 t\u1ef7 \u0111\u1ed3ng: 5 tu\u1ed5i \u0111\u00e3 \u0111i di\u1ec5n qu\u1ed1c t\u1ebf, doanh thu phim c",
+    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
+    "Weekly Recap: Takeover financing and Rule 8.3 disclosures - TradingView",
+    "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what t",
+    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
+    "Two More Oil Tankers Attacked Near Strait of Hormuz"
   ]
 }
