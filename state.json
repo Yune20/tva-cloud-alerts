@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791801802.9499016,
-  "last_bot4": 1791803056.215336,
+  "last_bot4": 1791803803.632655,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791802432.7168715
+    "Gold": 1791803803.6325881
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791803056.2207978,
+  "last_signals": 1791803803.6335866,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -128,15 +128,9 @@
     "JPY Index|4H:top": 1791794267.5109282,
     "USOIL|4H:top": 1791802433.0620472
   },
-  "last_analysis": 1791803355.5358708,
-  "last_news": 1791803056.2145538,
+  "last_analysis": 1791803781.1689694,
+  "last_news": 1791803800.631059,
   "seen_news": [
-    "News by CNBC TV18 on TradingView, 2026-10-12 \u2014 cnbctv:c33dec134094b:0 - TradingV",
-    "Trump Media advisor Katie Zacharia offered White House press secretary role",
-    "The start-ups hoping to return battery making to the US",
-    "How Low Can the Strategic Petroleum Reserve Actually Go?",
-    "Dollar gains for fourth straight week on Fed rate outlook",
-    "British Pound gains positive traction as USD remains depressed on softer bond yi",
     "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
     "Burnham promises to curb non-compete rules in job contracts",
     "Citi sees limited upside for EUR/JPY amid intervention expectations",
@@ -430,6 +424,12 @@
     "Ledger confirms unauthorized hardware implant, says losses may exceed $86M - Tra",
     "Fed officials want to hold off a rate hike this month. Will this week\u2019s inflatio",
     "Global travel warnings after Iran-backed Houthi\u00a0militants strike Riyadh airport",
-    "How to avoid getting stung if you miss credit card payments"
+    "How to avoid getting stung if you miss credit card payments",
+    "C\u1ed5 phi\u1ebfu th\u00e9p b\u1ea5t ng\u1edd n\u1ed5i s\u00f3ng, h\u01a1n 31 tri\u1ec7u c\u1ed5 phi\u1ebfu H\u00f2a Ph\u00e1t \u0111\u01b0\u1ee3c sang tay, Na",
+    "This five-star money manager shares three stock picks, including one betting on ",
+    "Why China is importing a record amount of gold \u2014 and what it means for prices",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "European stocks inch higher as Trump\u2019s Russia-Ukraine ceasefire softens crude",
+    "Swiss Franc dips as geopolitical tensions and Oil prices boost the US Dollar"
   ]
 }
