@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791812862.3156085,
-  "last_bot4": 1791819002.1021726,
+  "last_bot4": 1791819925.1812863,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791819002.1020787
+    "Gold": 1791819925.1811812
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791819297.919441,
+  "last_signals": 1791819925.1819718,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -131,15 +131,9 @@
     "US30|4H:top": 1791813407.3650095,
     "DXY|4H:top": 1791817148.9223478
   },
-  "last_analysis": 1791819597.4498725,
-  "last_news": 1791819297.918459,
+  "last_analysis": 1791819911.7858062,
+  "last_news": 1791819922.676169,
   "seen_news": [
-    "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-",
-    "\"8 t\u1ef7 ng\u01b0\u1eddi, 1 s\u1ed1 ph\u1eadn\": Trang web l\u1eadp tr\u00ecnh trong 4 ti\u1ebfng b\u1eb1ng AI \u0111ang l\u00e0m r\u00fang",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "MONDAY WHITE HOUSE SCHEDULE - President Trump travels to Youngstown, Ohio - Trad",
-    "Why Japan's 7-Eleven store closures in India don\u2019t signal an exit",
-    "Would you buy branded clothing from your favourite tech firm?",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Weekly Recap: OVO acquisition and Bollstabruk transformer contract - TradingView",
     "Fed officials see another hike coming, but no sign as to when, minutes show",
@@ -433,6 +427,12 @@
     "Adobe double-downgraded at Wells Fargo; firm upgrades Tyler Technologies - Tradi",
     "Jim Cramer's top 10 things to watch in the stock market Monday",
     "Fridges in French supermarkets hit by cyber attack",
-    "Saudi Arabia Insists Energy Supply Remains Resilient"
+    "Saudi Arabia Insists Energy Supply Remains Resilient",
+    "McDonald's is leaning into chicken and drinks to grow. New data shows it could b",
+    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+    "Inside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine",
+    "eBay named Morgan Stanley top pick on live commerce flywheel; stock surges",
+    "Chinese Yuan: Trade d\u00e9tente and PBoC fix support Yuan \u2013 Commerzbank",
+    "European stock market open: Stocks push higher to start the week but thinner liq"
   ]
 }
