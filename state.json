@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791828055.139103,
+  "last_signals": 1791828722.1171403,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791818685.7328126,
+    "5575146754|Gold|1H|range_in": 1791828722.1171403,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -125,21 +125,15 @@
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791781641.7346995,
     "Bitcoin|4H:top": 1791798698.4093196,
-    "USD/JPY|4H:top": 1791794267.2144215,
-    "JPY Index|4H:top": 1791794267.5109282,
+    "USD/JPY|4H:top": 1791828724.1272602,
+    "JPY Index|4H:top": 1791828724.7473526,
     "USOIL|4H:top": 1791802433.0620472,
-    "US30|4H:top": 1791813407.3650095,
+    "US30|4H:top": 1791828723.2579541,
     "DXY|4H:top": 1791817148.9223478
   },
-  "last_analysis": 1791828355.2721055,
-  "last_news": 1791828055.1383243,
+  "last_analysis": 1791828713.1091547,
+  "last_news": 1791828722.1162298,
   "seen_news": [
-    "Early Ethereum Foundation ETH recipients move $11M to Kraken: what the data show",
-    "XSMN 12/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 12 th\u00e1ng 10",
-    "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
-    "Brent tops $105 as doubts grow over supply boost from Trump\u2019s \u2018energy ceasefire\u2019",
-    "I've been with my boyfriend for two years and don't know his salary",
-    "BMI Predicts Brent Crude Will Remain Above $100 for Months",
     "AI may change the price of your Big Mac and groceries \u2014 what this means for shop",
     "Charities and businesses wrestle with diesel cost",
     "India stocks lower at close of trade; Nifty 50 down 0.70%",
@@ -433,6 +427,12 @@
     "Trump's Grid Security Order Could Backfire on America's AI Boom",
     "Exclusive-Most Americans oppose betting on elections, government events, Reuters",
     "British Pound loses ground as Oil rise clouds BoE\u2019s hawkish outlook",
-    "Fed\u2019s Hammack: Treasury rates are \u201cmodest\u201d by historical standards"
+    "Fed\u2019s Hammack: Treasury rates are \u201cmodest\u201d by historical standards",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Existing home sales among economic data due Tuesday",
+    "NZDUSD sellers press toward key lows. Can they break through?",
+    "M\u1ed9t \u201c\u0111\u1ea1i gia\u201d tuy\u1ec3n ng\u01b0\u1eddi c\u00f9ng b\u00e1n rau, thu nh\u1eadp c\u00f3 th\u1ec3 l\u00ean \u0111\u1ebfn 30 tri\u1ec7u \u0111\u1ed3ng",
+    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
+    "Gold steady as markets strap in for inflation data - TradingView"
   ]
 }
