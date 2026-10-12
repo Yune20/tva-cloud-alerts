@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791847359.2656274,
+  "last_signals": 1791847961.7845156,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791837455.530606,
+    "5575146754|Gold|1H|range_in": 1791847961.7845156,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -133,15 +133,9 @@
     "Bitcoin|4H:bot": 1791842261.2891273,
     "EUR/USD|4H:bot": 1791844921.7111561
   },
-  "last_analysis": 1791847350.0823886,
-  "last_news": 1791847359.264799,
+  "last_analysis": 1791847951.9924357,
+  "last_news": 1791847961.78351,
   "seen_news": [
-    "What is earnings season and why the first companies to report are important to w",
-    "S\u1ebd phong t\u1ecfa t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng nh\u1eadn, chuy\u1ec3n ti\u1ec1n cho c\u00e1c giao d\u1ecbch sau \u0111\u1ec3 y\u00eau ",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Crude Oil Rises for 3rd Session - TradingView",
-    "Here\u2019s how much extra money could be in your monthly Social Security check next ",
-    "Inflation likely peaked for 2026 but will remain sticky, according to prediction",
     "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the ",
     "Lo\u1ea1i h\u1ea3i s\u1ea3n b\u00e1n \u0111\u1ea7y ch\u1ee3 Vi\u1ec7t, \u0111\u01b0\u1ee3c H\u00e0n Qu\u1ed1c kh\u00f4ng ti\u1ebfc ti\u1ec1n mua: \u0102n ngon c\u00f2n t\u1ed1",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
@@ -435,6 +429,12 @@
     "NYT, Economist among publishers joining coalition to curb unpaid AI use",
     "The Japanese Yen slips on a Tokyo holiday",
     "UK retail sales beat forecasts but fuel bill jump of 17% shows squeeze on shoppe",
-    "Vi\u1ec7t Nam s\u1eafp c\u00f3 c\u00f4ng tr\u00ecnh 2.400 t\u1ef7 \u0111\u1ed3ng tr\u00ean \u0111\u1ea3o Ng\u1ecdc: R\u1ed9ng 3,35ha, s\u1edf h\u1eefu robo"
+    "Vi\u1ec7t Nam s\u1eafp c\u00f3 c\u00f4ng tr\u00ecnh 2.400 t\u1ef7 \u0111\u1ed3ng tr\u00ean \u0111\u1ea3o Ng\u1ecdc: R\u1ed9ng 3,35ha, s\u1edf h\u1eefu robo",
+    "Google launches Project Suncatcher satellite into orbit",
+    "The British Pound drifts back to its floor as Crude Oil lifts the Dollar",
+    "Goldman Sachs sees three ways to rein in French bond spread as oil and politics ",
+    "4 t\u00e0i h\u1ed9i t\u1ee5 th\u00e1ng 9 \u00e2m: 4 con gi\u00e1p d\u1ec5 t\u0103ng thu nh\u1eadp, t\u00edch s\u1ea3n v\u00e0 m\u1edf r\u1ed9ng l\u00e0m \u0103n",
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Weekly Recap: Nomura sees EICHERMOT beat 2QFY27 and bounce at 6.7k\u20136.8k - Tradin"
   ]
 }
