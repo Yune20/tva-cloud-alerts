@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791838062.2127874,
+  "last_signals": 1791838661.9932766,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791838062.7213757,
+    "USOIL|4H:top": 1791838662.3789208,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791838063.0040143
+    "Bitcoin|4H:bot": 1791838662.7214837
   },
-  "last_analysis": 1791838053.5686512,
-  "last_news": 1791838062.2119117,
+  "last_analysis": 1791838653.439071,
+  "last_news": 1791838661.992432,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-    "Spain battles climate change on several fronts",
-    "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
-    "EUR/USD outlook as euro stays pinned near multi month lows",
-    "Mexican Peso: Steepening curve and carry risks \u2013 Rabobank",
     "Gold fails to sustain a break above $4,200, US CPI in focus",
     "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two maj",
     "B\u00e1c s\u0129 tr\u1ebb lao l\u00ean b\u0103ng ca \u00e9p tim c\u1ee9u ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ng\u1eebng tu\u1ea7n ho\u00e0n viral m\u1ea1ng x",
@@ -434,6 +428,12 @@
     "Chinese Yuan: Building upside momentum toward 6.6800 against US Dollar \u2013 UOB",
     "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
     "L\u1ed9 di\u1ec7n m\u00f4 h\u00ecnh t\u00e0u \u0111i\u1ec7n \u0111\u00f4 th\u1ecb t\u1ed1c \u0111\u1ed9 110 km/h c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n B\u00e1 D\u01b0\u01a1ng t\u1ea1i Vi\u1ec7",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t "
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
+    "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest los",
+    "Earnings beats are now the norm. What the stock market needs to keep rallying",
+    "Charities and businesses wrestle with diesel cost",
+    "Starbucks says not buying Chipotle, ends takeover speculation",
+    "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next"
   ]
 }
