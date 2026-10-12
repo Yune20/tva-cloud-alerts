@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791773914.8690116,
+  "last_signals": 1791774527.407156,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,13 +70,13 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -118,17 +118,11 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791773915.5151172
+    "Ethereum|4H:top": 1791774528.9313908
   },
-  "last_analysis": 1791773903.4458363,
-  "last_news": 1791773914.8681822,
+  "last_analysis": 1791774518.312633,
+  "last_news": 1791774527.3873057,
   "seen_news": [
-    "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How",
-    "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provi",
-    "Anthropic bans users from being 'cruel' to its AI systems",
-    "Could a change of government in Spain have big implications on energy policy?",
-    "investingLive Americas market news wrap: Trump says no attacks on Iran before th",
-    "C\u00e2u chuy\u1ec7n PNJ: T\u1eeb \u201cvi\u00ean kim c\u01b0\u01a1ng\u201d \u0111\u1ebfn \u201ch\u00f2n than n\u00f3ng\u201d",
     "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019l",
     "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
     "Fired OpenAI researchers say they were let go for 'prioritising safety'",
@@ -422,6 +416,12 @@
     "The start-ups hoping to return battery making to the US",
     "How Low Can the Strategic Petroleum Reserve Actually Go?",
     "Dollar gains for fourth straight week on Fed rate outlook",
-    "British Pound gains positive traction as USD remains depressed on softer bond yi"
+    "British Pound gains positive traction as USD remains depressed on softer bond yi",
+    "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives tr",
+    "Burnham promises to curb non-compete rules in job contracts",
+    "Citi sees limited upside for EUR/JPY amid intervention expectations",
+    "Saudi-led coalition says it intercepted Houthi ballistic missile toward Khamis M",
+    "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
+    "Ly k\u1ef3 v\u1ee5 kh\u00e1ch n\u1eef l\u00ean m\u1ea1ng c\u1ea7u c\u1ee9u b\u1ecb k\u1eb9t trong nh\u00e0 v\u1ec7 sinh m\u00e1y bay"
   ]
 }
