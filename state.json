@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791813406.4478972,
+  "last_signals": 1791814021.8151689,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,10 +71,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -130,15 +130,9 @@
     "USOIL|4H:top": 1791802433.0620472,
     "US30|4H:top": 1791813407.3650095
   },
-  "last_analysis": 1791813396.3676856,
-  "last_news": 1791813406.44675,
+  "last_analysis": 1791814015.2480822,
+  "last_news": 1791814021.6994178,
   "seen_news": [
-    "Documents falsified to evade tax on Abramovich's wealth",
-    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-    "European, Chinese automakers launch product blitz at Paris car show in fight for",
-    "India Gold price today: Gold rises, according to FXStreet data",
-    "More on Russia\u2019s diesel U-turn: 500,000 tons cleared for export after Trump-Puti",
-    "Si\u00eau d\u1ef1 \u00e1n \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 67 t\u1ef7 USD, d\u00f9ng c\u00f4ng ngh\u1ec7 \u0111\u1eb7c bi\u1ec7t gi\u00fap t\u00e0u ch\u1ea1y 50",
     "News by CNBC TV18 on TradingView, 2026-10-12 \u2014 cnbctv:0b241e6d1094b:0 - TradingV",
     "We\u2019re about to get a huge read on whether earnings can keep propping up the stoc",
     "AI is automating coding. So why are software developer job postings on the rise?",
@@ -432,6 +426,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
     "IREN stock rises on report of multiyear Anthropic deal - TradingView",
     "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology",
-    "AI minister warns 'likely' UK's cyber defences will be breached"
+    "AI minister warns 'likely' UK's cyber defences will be breached",
+    "House Republicans Move to Block Trump's Russian Diesel Deal",
+    "Indian rupee rebounds from near record low after RBI unveils support measures",
+    "US Dollar: Geopolitics support extends gains \u2013 ING",
+    "Bitcoin buyers had their shot above the 200-hour MA. They missed.",
+    "Ng\u00e2n h\u00e0ng mu\u1ed1n c\u1ea3i ti\u1ebfn, sao kh\u00e1ch h\u00e0ng ph\u1ea3i quan t\u00e2m?",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance"
   ]
 }
