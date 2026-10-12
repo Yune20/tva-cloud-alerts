@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791782869.69518,
+  "last_signals": 1791783486.1515977,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -120,19 +120,13 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791778832.371856,
+    "Ethereum|4H:top": 1791783486.807842,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791782870.7562482
+    "Bitcoin|4H:top": 1791783486.6379528
   },
-  "last_analysis": 1791782857.9062076,
-  "last_news": 1791782869.6942,
+  "last_analysis": 1791783476.3614793,
+  "last_news": 1791783486.1508396,
   "seen_news": [
-    "Dollar pauses near 18-month high as U.S bond rout halts, euro rebounds slightly",
-    "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
-    "C\u00f4 g\u00e1i Vi\u1ec7t \u0111\u1eb9p nh\u1ea5t LHP Busan 2026 xu\u1ea5t hi\u1ec7n r\u1ed3i, s\u1ea3i b\u01b0\u1edbc \u0111i b\u1ed9 c\u0169ng s\u00e1ng b\u1eebng",
-    "TLG: CTCP T\u1eadp \u0111o\u00e0n Thi\u00ean Long - C\u00f4ng ty CP T\u1eadp \u0111o\u00e0n Thi\u00ean Long | VietstockFinanc",
-    "Bitcoin Tests Average Buyer\u2019s Break-Even As ETF Outflows Clash With Wall Street ",
-    "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what t",
     "N\u1eef danh ca t\u1eebng b\u1ecb n\u00f3i \"d\u1ea1i\" khi t\u1eeb ch\u1ed1i t\u00e0i s\u1ea3n g\u1ea7n 100 t\u1ef7 c\u1ee7a ch\u1ed3ng qu\u00e1 c\u1ed1, gi",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC | VietstockFinance - VietstockFinance",
     "Divya Gupta Appointed Associate Director\u2013 HR At HCLTech - TradingView",
@@ -426,6 +420,12 @@
     "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gain",
     "Monday: Thin start for Asia as Tokyo shuts for Sports Day and US Treasuries stay",
     "Doanh nghi\u1ec7p \u0111\u01b0\u1ee3c l\u1ef1a ch\u1ecdn 3 ph\u01b0\u01a1ng \u00e1n ngh\u1ec9 T\u1ebft Nguy\u00ean \u0111\u00e1n 2027, ph\u1ea3i th\u00f4ng b\u00e1o ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD ",
+    "Macro pulse: US bank earnings could reveal the hidden cost of surging Treasury y",
+    "C\u1ef1u l\u00e3nh \u0111\u1ea1o T\u1ed5ng c\u00f4ng ty Th\u00e9p Vi\u1ec7t Nam duy\u1ec7t g\u00f3i th\u1ea7u 160 tri\u1ec7u USD d\u00f9 \u0111\u01b0\u1ee3c ch\u00e0",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
+    "Weekly Recap: JPMorgan threshold filing and NexPoint reports no holdings - Tradi",
+    "How Supreme Court justices are leaning in major 401(k) case over private funds a"
   ]
 }
