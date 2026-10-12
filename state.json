@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791836841.4111867,
+  "last_signals": 1791837455.530606,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791830565.0641778,
+    "5575146754|Gold|1H|range_in": 1791837455.530606,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -127,20 +127,14 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791836841.996033,
+    "USOIL|4H:top": 1791837456.1764352,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791817148.9223478,
-    "Bitcoin|4H:bot": 1791836842.2889514
+    "Bitcoin|4H:bot": 1791837456.5253093
   },
-  "last_analysis": 1791836831.9618196,
-  "last_news": 1791836841.4103816,
+  "last_analysis": 1791837446.5240674,
+  "last_news": 1791837455.5296242,
   "seen_news": [
-    "FX option expiries for 12 October 10am New York cut",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh \u0111\u1ec3 l\u01b0\u1edbi r\u1eeda b\u00e1t \u1ea9m \u01b0\u1edbt 24/24",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
-    "NanoEcho Files For Bankruptcy - TradingView",
-    "Rep. Ilhan Omar's home raided by DHS in fraud probe of immigration paperwork: Re",
-    "How the oil capital of the US welcomed a solar power boom",
     "T\u1ed5ng s\u1ed1 ti\u1ec1n n\u1ee3 n\u01b0\u1edbc ngo\u00e0i Ukraine ph\u1ea3i tr\u1ea3 trong n\u0103m 2026 l\u00e0 bao nhi\u00eau?",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "Harmony Biosciences appoints Peter Anastasiou as CEO - TradingView",
@@ -434,6 +428,12 @@
     "International Paper Declares Quarterly Dividend - TradingView",
     "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial",
     "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    "Unison taps banks for US IPO seeking up to $500 million - Bloomberg"
+    "Unison taps banks for US IPO seeking up to $500 million - Bloomberg",
+    "RTX advances naval radar, counter-drone tech, expands Vietjet maintenance deal -",
+    "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+    "X-planes: Are they needed in the new era of drones?",
+    "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+    "Dow Jones Industrial Average edges higher with no memory chips to sell",
+    "US stocks close mixed"
   ]
 }
