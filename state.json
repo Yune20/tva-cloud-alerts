@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791769213.8445885,
+  "last_signals": 1791769828.2798169,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -46,7 +46,8 @@
     "Ethereum:trap_up": 1791642758.8974447,
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
-    "Ethereum|1D|range_in": 1791646560.594424
+    "Ethereum|1D|range_in": 1791646560.594424,
+    "5575146754|Gold|1H|range_in": 1791769828.2798169
   },
   "sig_range": {
     "Gold": true,
@@ -60,16 +61,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -116,15 +117,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791769204.724993,
-  "last_news": 1791769213.843683,
+  "last_analysis": 1791769816.7132666,
+  "last_news": 1791769828.2790585,
   "seen_news": [
-    "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American ",
-    "Gi\u00e1 \u0111\u1ea1t \u0111\u1ec9nh 2 n\u0103m, v\u00ec sao m\u1eb7t h\u00e0ng t\u1ef7 USD c\u1ee7a Vi\u1ec7t Nam v\u1eabn h\u1ee5t kh\u00e1ch t\u1ea1i Trung ",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
-    "News by CNBC TV18 on TradingView, 2026-10-11 \u2014 cnbctv:6c483ed32094b:0 - TradingV",
-    "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-    "Derry firm becomes one of UK's biggest car park operators after buying NCP",
     "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supp",
     "Canadian Dollar underperforms after Canada sheds 68.3K jobs in September",
     "Canada September employment change -68.3K vs +9.2K expected",
@@ -418,6 +413,12 @@
     "CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - VietstockFinance",
     "Weekly Recap: Q1 revenue & EBITDA growth and Paradip 18 MMT capacity award - Tra",
     "Tokenization could unleash tens of billions of dollars in trapped capital, Nasda",
-    "Charities and businesses wrestle with diesel cost"
+    "Charities and businesses wrestle with diesel cost",
+    "HQC: CTCP T\u01b0 v\u1ea5n Th\u01b0\u01a1ng m\u1ea1i D\u1ecbch v\u1ee5 \u0110\u1ecba \u1ed0c Ho\u00e0ng Qu\u00e2n - Hoang Quan Corp | Vietst",
+    "Weekly Recap: ITC Limited Q1 revenue, profit decline and 52-week low - TradingVi",
+    "AI may change the price of your Big Mac and groceries \u2014 what this means for shop",
+    "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "MAAS Group slides further after Firmus IPO cancellation, hits six-month low",
+    "WTI declines to near $90.00 despite escalating Middle East conflict, supply risk"
   ]
 }
