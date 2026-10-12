@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791810951.9047496,
+  "last_signals": 1791811555.3038075,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791778224.326486,
+    "5575146754|Gold|1H|range_in": 1791811555.3038075,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -129,15 +129,9 @@
     "JPY Index|4H:top": 1791794267.5109282,
     "USOIL|4H:top": 1791802433.0620472
   },
-  "last_analysis": 1791810940.6028101,
-  "last_news": 1791810951.9037545,
+  "last_analysis": 1791811546.8408794,
+  "last_news": 1791811555.302852,
   "seen_news": [
-    "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
-    "UBS sees stronger outlook for Brazilian real after election",
-    "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gain",
-    "Monday: Thin start for Asia as Tokyo shuts for Sports Day and US Treasuries stay",
-    "Doanh nghi\u1ec7p \u0111\u01b0\u1ee3c l\u1ef1a ch\u1ecdn 3 ph\u01b0\u01a1ng \u00e1n ngh\u1ec9 T\u1ebft Nguy\u00ean \u0111\u00e1n 2027, ph\u1ea3i th\u00f4ng b\u00e1o ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
     "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD ",
     "Macro pulse: US bank earnings could reveal the hidden cost of surging Treasury y",
     "C\u1ef1u l\u00e3nh \u0111\u1ea1o T\u1ed5ng c\u00f4ng ty Th\u00e9p Vi\u1ec7t Nam duy\u1ec7t g\u00f3i th\u1ea7u 160 tri\u1ec7u USD d\u00f9 \u0111\u01b0\u1ee3c ch\u00e0",
@@ -431,6 +425,12 @@
     "Spain battles climate change on several fronts",
     "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
     "EUR/USD outlook as euro stays pinned near multi month lows",
-    "Mexican Peso: Steepening curve and carry risks \u2013 Rabobank"
+    "Mexican Peso: Steepening curve and carry risks \u2013 Rabobank",
+    "Gold fails to sustain a break above $4,200, US CPI in focus",
+    "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two maj",
+    "B\u00e1c s\u0129 tr\u1ebb lao l\u00ean b\u0103ng ca \u00e9p tim c\u1ee9u ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ng\u1eebng tu\u1ea7n ho\u00e0n viral m\u1ea1ng x",
+    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC | VietstockFinance - Vie",
+    "Key facts: BTCUSD ~84k; $859M Liquidations; 17,733 BTC Transfer - TradingView",
+    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants "
   ]
 }
