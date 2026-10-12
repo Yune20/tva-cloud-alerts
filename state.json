@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791763930.4571564,
+  "last_signals": 1791764546.3094895,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -116,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791763922.1719122,
-  "last_news": 1791763930.4562953,
+  "last_analysis": 1791764537.3864858,
+  "last_news": 1791764546.3087258,
   "seen_news": [
-    "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-    "Trump calls for new Ukrainian president as U.S. seeks Russian diesel supplies",
-    "Japanese Yen struggles as wide US-Japan yield gap weighs",
-    "investingLive European session wrap: Stocks rebound as bond market nerves ease, ",
-    "Thi h\u00e0nh l\u1ec7nh kh\u00e1m x\u00e9t ch\u1ed7 \u1edf, b\u1eaft t\u1ea1m giam nguy\u00ean k\u1ebf to\u00e1n BQL d\u1ef1 \u00e1n \u0110\u1eb7ng Th\u1ecb L\u00fd ",
-    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank | VietstockFinance - VietstockFinance",
     "Chinese Yuan: PBoC stance and valuation debate guide currency path \u2013 MUFG",
     "investingLive Asia-Pacific market news: Oil eases on Trump\u2019s Iran pledge",
     "Kh\u1edfi t\u1ed1 m\u1ed9t ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u1edf H\u00e0 N\u1ed9i do nhi\u1ec1u l\u1ea7n ch\u1eedi b\u1edbi, \u0111\u1ed5 ch\u1ea5t th\u1ea3i v\u00e0 \u0111\u1eb7t \u0111\u1ed3 ",
@@ -418,6 +412,12 @@
     "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
     "UBS: AI demand holds firm, with hyperscaler cloud growth tipped to hit 58%",
     "28.000 c\u00f4ng nh\u00e2n ng\u00e0y \u0111\u00eam t\u1ea1o h\u00ecnh, t\u00e0u cao t\u1ed1c 400 km/h c\u1ee7a Nga l\u1ed9 di\u1ec7n: N\u1eafm gi",
-    "T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VietstockFinance"
+    "T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VietstockFinance",
+    "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
+    "Bakers Hughes total rig count +5 to 603",
+    "Rolls-Royce Phantom \u0111\u1ed9c b\u1ea3n b\u00e1n ch\u00ednh h\u00e3ng t\u1ea1i Vi\u1ec7t Nam: Gi\u00e1 g\u1ea7n 90 t\u1ef7, n\u1ed9i th\u1ea5t",
+    "CTCP T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
+    "Immutable Holdings Inc. (HOLD) Agrees Reverse Takeover by Gamebred; Plans TSXV L",
+    "Millions of Americans will have fewer options during Medicare open enrollment th"
   ]
 }
