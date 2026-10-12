@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791812862.3164656,
+  "last_signals": 1791813406.4478972,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791811555.3038075,
+    "5575146754|Gold|1H|range_in": 1791813406.4478972,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,13 +65,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -128,17 +128,11 @@
     "USD/JPY|4H:top": 1791794267.2144215,
     "JPY Index|4H:top": 1791794267.5109282,
     "USOIL|4H:top": 1791802433.0620472,
-    "US30|4H:top": 1791812863.423568
+    "US30|4H:top": 1791813407.3650095
   },
-  "last_analysis": 1791812848.4184706,
-  "last_news": 1791812858.3039563,
+  "last_analysis": 1791813396.3676856,
+  "last_news": 1791813406.44675,
   "seen_news": [
-    "South Korean Won Hits 24-month High - TradingView",
-    "Pok\u00e9mon card values are soaring. What collectors should know before buying or se",
-    "Boots has a new owner: Three ways it could affect you",
-    "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-    "Indian rupee rebounds from near record low after RBI unveils support measures",
-    "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
     "Documents falsified to evade tax on Abramovich's wealth",
     "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
     "European, Chinese automakers launch product blitz at Paris car show in fight for",
@@ -432,6 +426,12 @@
     "Banks are set to report this week. Here's what the options market expects",
     "Europe's car makers are in crisis. Will the threat of war rescue them?",
     "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears",
-    "UBS sees stronger outlook for Brazilian real after election"
+    "UBS sees stronger outlook for Brazilian real after election",
+    "Macro pulse: US bank earnings could reveal the hidden cost of surging Treasury y",
+    "N\u1ebfu xu\u1ea5t hi\u1ec7n c\u00e1c tri\u1ec7u ch\u1ee9ng n\u00e0y, b\u1ea1n c\u1ea7n \u0111i kh\u00e1m ngay l\u1eadp t\u1ee9c v\u00ec \u0111\u00e2y c\u00f3 th\u1ec3 l\u00e0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "IREN stock rises on report of multiyear Anthropic deal - TradingView",
+    "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology",
+    "AI minister warns 'likely' UK's cyber defences will be breached"
   ]
 }
