@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791772017.0819232,
+  "last_signals": 1791772631.318226,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -67,7 +67,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -120,15 +120,9 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791772018.4116778
   },
-  "last_analysis": 1791772008.6195846,
-  "last_news": 1791772017.080499,
+  "last_analysis": 1791772620.2764046,
+  "last_news": 1791772631.3173716,
   "seen_news": [
-    "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refin",
-    "The start-ups hoping to return battery making to the US",
-    "What the sell off in bonds means for monetary policy",
-    "Singapore Dollar: MAS tightening but gains constrained \u2013 OCBC",
-    "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
-    "Chuy\u00ean gia: Ch\u1ee9ng kho\u00e1n tu\u1ea7n t\u1edbi ti\u1ebfp t\u1ee5c dao \u0111\u1ed9ng quanh ng\u01b0\u1ee1ng 1.730 \u0111i\u1ec3m",
     "How Low Can the Strategic Petroleum Reserve Actually Go?",
     "Dollar gains for fourth straight week on Fed rate outlook",
     "Capitalist conditions have weakened worldwide since 2009, University of Virginia",
@@ -422,6 +416,12 @@
     "Canadian Dollar flat lines around 1.4250 as sliding oil prices counter USD softn",
     "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as",
     "L\u1ecbch ch\u1ed1t quy\u1ec1n tr\u1ea3 c\u1ed5 t\u1ee9c trong tu\u1ea7n t\u1eeb ng\u00e0y 12/10-16/10, t\u1ef7 l\u1ec7 cao nh\u1ea5t 15%",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi"
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Japanese Yen holds range amid Japanese holiday, dovish BoJ signals",
+    "Preview: TSMC tipped for sixth straight record quarter, with profit seen up 65% ",
+    "Danh t\u00ednh ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ea7u tr\u1ea7n \u0111i xe m\u00e1y ch\u1eb7n \u00f4 t\u00f4, t\u00e1t t\u00e0i x\u1ebf \u1edf H\u00e0 N\u1ed9i",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "Bitcoin's $19 billion crash still shapes crypto risk a year later - TradingView",
+    "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine"
   ]
 }
