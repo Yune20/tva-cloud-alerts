@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791775138.7348537,
+  "last_signals": 1791775760.01021,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,8 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791773914.8690116
+    "5575146754|Gold|1H|range_in": 1791775760.01021,
+    "5575146754|Gold|4H|ttop": 1791775760.01021
   },
   "sig_range": {
     "Gold": true,
@@ -61,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -118,17 +119,12 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791775139.3808398
+    "Ethereum|4H:top": 1791775760.9442394,
+    "Gold|4H:top": 1791775760.2420175
   },
-  "last_analysis": 1791775130.0948946,
-  "last_news": 1791775138.7338095,
+  "last_analysis": 1791775750.8918984,
+  "last_news": 1791775760.006773,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
-    "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
-    "US stocks close higher; Nasdaq gains for fourth straight week",
-    "2 con g\u00e1i si\u00eau m\u1eabu Th\u00fay H\u1ea1nh tu\u1ed5i thi\u1ebfu n\u1eef: Xinh \u0111\u1eb9p n\u1ed5i b\u1eadt v\u00e0 \u0111\u01b0\u1ee3c k\u1ef3 v\u1ecdng n\u1ed1i",
-    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS | VietstockFinance - VietstockFinance",
     "\u00d4ng \u0110\u1eb7ng Th\u00e0nh T\u00e2m h\u1ee3p t\u00e1c v\u1edbi t\u1ef7 ph\u00fa Elon Musk, l\u00ean k\u1ebf ho\u1ea1ch \u0111\u01b0a Internet Starl",
     "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP | VietstockFinance - VietstockFinance",
     "CME feeder cattle hit 3-month peak after corn price plunge - TradingView",
@@ -422,6 +418,12 @@
     "Week ahead: US inflation and retail sales lead a busy economic calendar. Be awar",
     "Su\u00fdt b\u1ecb l\u1eeba sang Campuchia v\u00ec tin l\u1eddi h\u1ee9a 'tr\u1ea3 l\u01b0\u01a1ng 1,8 tri\u1ec7u \u0111\u1ed3ng/ng\u00e0y'",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
-    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView"
+    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
+    "How have interest rate expectations changed after this week's events?",
+    "N\u1ebfu l\u00e0 gia \u0111\u00ecnh c\u00f3 con nh\u1ecf, d\u00f9 ch\u1ecdn mua hay thu\u00ea nh\u00e0, n\u00ean tr\u00e1nh nh\u1eefng \u0111i\u1ec1u n\u00e0y",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Norwood Systems Seeks Trading Halt - TradingView",
+    "Should I put my nest egg in a 30-year Treasury bond?",
+    "AI\u2019s quiet safety gatekeepers are stepping into the spotlight"
   ]
 }
