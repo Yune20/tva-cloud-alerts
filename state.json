@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791808590.654704,
+  "last_signals": 1791808971.2725239,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,13 +74,13 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -129,15 +129,9 @@
     "JPY Index|4H:top": 1791794267.5109282,
     "USOIL|4H:top": 1791802433.0620472
   },
-  "last_analysis": 1791808354.151007,
-  "last_news": 1791808586.710169,
+  "last_analysis": 1791808951.9504762,
+  "last_news": 1791808971.2716658,
   "seen_news": [
-    "TikTok CEO sees major scientific breakthroughs from AI within three years",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Why is SK Hynix stock sliding today?",
-    "USD/INR drops 1% at open as RBI steps up measures to support Indian Rupee",
-    "Delivered crude prices surge back to highs as JPMorgan flags tanker crunch",
-    "Nhi\u1ec1u ph\u1ee5 huynh \u1edf TP.HCM m\u1ea5t ch\u01b0a t\u1edbi 300 ngh\u00ecn \u0111\u1ed3ng \u0111\u1ec3 lo \u0103n h\u1ecdc cho 2 con: Ngh",
     "Indian rupee surges after RBI unveils measures to support currency",
     "IMF\u2019s Georgieva says already seeing first wave of impact from AI",
     "Houthi strike on Riyadh airport kills 13, group claims Aramco hits. Saudi, Iran ",
@@ -431,6 +425,12 @@
     "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
     "X-planes: Are they needed in the new era of drones?",
     "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply",
-    "Skies over Saudi capital empty after deadly Houthi airport strikes"
+    "Skies over Saudi capital empty after deadly Houthi airport strikes",
+    "Bank earnings to shed the first light on how higher yields are affecting the eco",
+    "Zelenskyy accuses Russia of violating Trump\u2019s energy ceasefire as drone attacks ",
+    "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+    "Shares shrug off oil swings as earnings season looms",
+    "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight",
+    "Morning Kickstart: Dollar higher, oil rebounds as holiday trading begins"
   ]
 }
