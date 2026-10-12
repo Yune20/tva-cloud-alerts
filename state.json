@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791763002.509103,
+  "last_signals": 1791763322.7909207,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -116,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791762751.385138,
-  "last_news": 1791763002.5077598,
+  "last_analysis": 1791763314.0908253,
+  "last_news": 1791763322.790182,
   "seen_news": [
-    "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still s",
-    "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-    "U.S. Oil Drilling Continues to Inch Upward",
-    "Yen weakness since 2025 has been limited to offshore hours: analysis",
-    "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
-    "Solana recovers some losses as geopolitical de-escalation improves risk sentimen",
     "Algo8 AI Inc. Wins Final CSE Approval; Trading Expected Oct 13 - TradingView",
     "Millions of Americans will have fewer options during Medicare open enrollment th",
     "Trump Media advisor Katie Zacharia offered White House press secretary role",
@@ -418,6 +412,12 @@
     "Trump faces growing backlash over plans to import diesel from Russia",
     "States Bet on Virtual Power Plants to Cut Grid Costs",
     "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
-    "Poland: Inflation outlook stabilises \u2013 ING"
+    "Poland: Inflation outlook stabilises \u2013 ING",
+    "How de-extincting dire wolves and woolly mammoths may extend human life",
+    "Debt advice that may leave you owing even more money",
+    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "WTI holds steady as traders weigh US-Iran tensions and supply risks",
+    "What's open and closed in US and Canadian markets on Monday",
+    "Ng\u00e2n h\u00e0ng s\u1ed1 th\u1eddi AI: H\u00e0ng tri\u1ec7u kh\u00e1ch h\u00e0ng, h\u00e0ng tri\u1ec7u phi\u00ean b\u1ea3n \u1ee9ng d\u1ee5ng"
   ]
 }
