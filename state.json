@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791775760.01021,
+  "last_signals": 1791776379.9293933,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -48,7 +48,8 @@
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
     "5575146754|Gold|1H|range_in": 1791775760.01021,
-    "5575146754|Gold|4H|ttop": 1791775760.01021
+    "5575146754|Gold|4H|ttop": 1791775760.01021,
+    "5575146754|Gold|4H|dtop": 1791776379.9293933
   },
   "sig_range": {
     "Gold": true,
@@ -119,18 +120,12 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791775760.9442394,
-    "Gold|4H:top": 1791775760.2420175
+    "Ethereum|4H:top": 1791776380.630187,
+    "Gold|4H:top": 1791776380.0894172
   },
-  "last_analysis": 1791775750.8918984,
-  "last_news": 1791775760.006773,
+  "last_analysis": 1791776372.1425126,
+  "last_news": 1791776379.9284472,
   "seen_news": [
-    "\u00d4ng \u0110\u1eb7ng Th\u00e0nh T\u00e2m h\u1ee3p t\u00e1c v\u1edbi t\u1ef7 ph\u00fa Elon Musk, l\u00ean k\u1ebf ho\u1ea1ch \u0111\u01b0a Internet Starl",
-    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP | VietstockFinance - VietstockFinance",
-    "CME feeder cattle hit 3-month peak after corn price plunge - TradingView",
-    "My brother-in-law convinced his parents to sign over their home and life savings",
-    "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
-    "X-planes: Are they needed in the new era of drones?",
     "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online - TradingView",
     "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my",
     "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir",
@@ -424,6 +419,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
     "Norwood Systems Seeks Trading Halt - TradingView",
     "Should I put my nest egg in a 30-year Treasury bond?",
-    "AI\u2019s quiet safety gatekeepers are stepping into the spotlight"
+    "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
+    "Commodity Corner: Oil slips on Russian supply hopes; gold edges higher - Trading",
+    "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How",
+    "Little relief expected for gas prices ahead of Election Day, according to predic",
+    "Anthropic bans users from being 'cruel' to its AI systems",
+    "Why is Johnson Electric stock plunging today?"
   ]
 }
