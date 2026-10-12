@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791846224.7804425,
+  "last_signals": 1791846765.6348279,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,13 +86,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -133,15 +133,9 @@
     "Bitcoin|4H:bot": 1791842261.2891273,
     "EUR/USD|4H:bot": 1791844921.7111561
   },
-  "last_analysis": 1791846215.0611537,
-  "last_news": 1791846221.918391,
+  "last_analysis": 1791846756.2027228,
+  "last_news": 1791846765.6340964,
   "seen_news": [
-    "McDonald's is leaning into chicken and drinks to grow. New data shows it could b",
-    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-    "Inside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine",
-    "eBay named Morgan Stanley top pick on live commerce flywheel; stock surges",
-    "Chinese Yuan: Trade d\u00e9tente and PBoC fix support Yuan \u2013 Commerzbank",
-    "European stock market open: Stocks push higher to start the week but thinner liq",
     "Getty Images to go private after restructuring deal",
     "Swiss Franc: Mixed outlook against Euro around French spread moves \u2013 ING",
     "The broader indices are all lower with the Nasdaq 100 the weakest. What are the ",
@@ -435,6 +429,12 @@
     "AMD Wants a Bigger Piece of the AI Stack - TradingView",
     "Little relief expected for gas prices ahead of Election Day, according to predic",
     "Heating oil customers face tough winter despite shake-up promise",
-    "Trump Curbs Farmers\u2019 Access to Funding for Energy Projects"
+    "Trump Curbs Farmers\u2019 Access to Funding for Energy Projects",
+    "IonQ To Acquire Elisity In $1.3 Billion Deal - TradingView",
+    "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan g",
+    "I earn \u00a3120,000 a year making social media videos go viral",
+    "Saudi Arabia Insists Energy Supply Remains Resilient",
+    "S&P upgrades SanDisk to BBB as AI memory demand drives cash flow past $23B",
+    "India: Rising inflation pressures challenge RBI \u2013 Societe Generale"
   ]
 }
