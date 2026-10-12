@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791786534.9106438,
+  "last_signals": 1791787146.9422393,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -79,18 +79,18 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -122,17 +122,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791786535.3688724
+    "Bitcoin|4H:top": 1791787147.4712093
   },
-  "last_analysis": 1791786525.73144,
-  "last_news": 1791786534.9097233,
+  "last_analysis": 1791787136.0626907,
+  "last_news": 1791787146.9413702,
   "seen_news": [
-    "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time",
-    "Buffett's 'trips down YouTube rabbit hole' revealed",
-    "The AI telling farmers when to harvest",
-    "Volkswagen CEO says transformation is \u2019shared responsibility\u2019 in appeal to EU",
-    "Euro struggles as French fiscal concerns and firm US Dollar dominate",
-    "SpaceX lockup expiration puts buyers to the test. The technicals define the risk",
     "Emergency Oil Releases Risk Draining the World\u2019s Last Supply Cushion",
     "Sterling today: Pound edges up as dollar dips on Treasury pause",
     "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
@@ -426,6 +420,12 @@
     "Offshore Yuan Strongest Since 2022 - TradingView",
     "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
     "Healey must find up to \u00a335bn to meet spending plans, says think tank",
-    "Domino\u2019s Pizza CEO takes direct control of Australia and New Zealand ops"
+    "Domino\u2019s Pizza CEO takes direct control of Australia and New Zealand ops",
+    "VP Says On Course To Perform In Line With Market Expectations For FY27 - Trading",
+    "Trump Media advisor Katie Zacharia named White House press secretary",
+    "Rainmakers: The drones used to seed clouds",
+    "Why is Suzhou Dongshan Precision Manufacturing stock sliding today?",
+    "Euro: Downside risks toward 1.1145 against US Dollar \u2013 UOB",
+    "Market playbook: What if US CPI comes in hot but stocks refuse to fall?"
   ]
 }
