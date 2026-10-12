@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791782256.2387228,
+  "last_signals": 1791782869.69518,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -66,7 +66,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -122,17 +122,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791778832.371856,
     "Gold|4H:top": 1791781641.7346995,
-    "Bitcoin|4H:top": 1791781036.7606492
+    "Bitcoin|4H:top": 1791782870.7562482
   },
-  "last_analysis": 1791782244.4005237,
-  "last_news": 1791782256.2377858,
+  "last_analysis": 1791782857.9062076,
+  "last_news": 1791782869.6942,
   "seen_news": [
-    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
-    "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-    "Investors are likely to focus on SpaceX\u2019s Starship tech milestones, not results",
-    "Broader stock indices bouncing modestly.  Support near 100 hour MAs held yesterd",
-    "L\u1eddi khuy\u00ean 4 vi\u1ec7c n\u00ean l\u00e0m tr\u01b0\u1edbc 9h s\u00e1ng gi\u00fap gi\u1ea3m c\u00e2n",
-    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC | VietstockFinance - VietstockFinance",
     "Dollar pauses near 18-month high as U.S bond rout halts, euro rebounds slightly",
     "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
     "C\u00f4 g\u00e1i Vi\u1ec7t \u0111\u1eb9p nh\u1ea5t LHP Busan 2026 xu\u1ea5t hi\u1ec7n r\u1ed3i, s\u1ea3i b\u01b0\u1edbc \u0111i b\u1ed9 c\u0169ng s\u00e1ng b\u1eebng",
@@ -426,6 +420,12 @@
     "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis",
     "Euro zone ministers tell France to pass 2027 budget to calm markets",
     "EUR/USD Price Forecast: Gets some relief from Russia-Ukraine energy ceasefire",
-    "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two maj"
+    "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two maj",
+    "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
+    "UBS sees stronger outlook for Brazilian real after election",
+    "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gain",
+    "Monday: Thin start for Asia as Tokyo shuts for Sports Day and US Treasuries stay",
+    "Doanh nghi\u1ec7p \u0111\u01b0\u1ee3c l\u1ef1a ch\u1ecdn 3 ph\u01b0\u01a1ng \u00e1n ngh\u1ec9 T\u1ebft Nguy\u00ean \u0111\u00e1n 2027, ph\u1ea3i th\u00f4ng b\u00e1o ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance"
   ]
 }
