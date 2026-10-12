@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791818260.8163188,
+  "last_signals": 1791818685.7328126,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791813406.4478972,
+    "5575146754|Gold|1H|range_in": 1791818685.7328126,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -131,15 +131,9 @@
     "US30|4H:top": 1791813407.3650095,
     "DXY|4H:top": 1791817148.9223478
   },
-  "last_analysis": 1791818253.5057604,
-  "last_news": 1791818260.814745,
+  "last_analysis": 1791818677.0859563,
+  "last_news": 1791818685.7319112,
   "seen_news": [
-    "Forex Today: US Dollar softens amid hopes of Russia-Ukraine energy ceasefire",
-    "European stock market open: Stocks push higher to start the week but thinner liq",
-    "Si\u00eau s\u00e2n v\u1eadn \u0111\u1ed9ng g\u1ea7n 90.000 ch\u1ed7 ng\u1ed3i, g\u1ea5p 2,2 l\u1ea7n s\u00e2n M\u1ef9 \u0110\u00ecnh, t\u1ed5ng chi ph\u00ed 5.0",
-    "After a yearslong slump, China's real estate market may be set for a turnaround",
-    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "Australia Approves Giant Coal Extension Despite Paris Commitments",
     "Volkswagen Q3 deliveries drop 14.3% on China weakness; Traton gains on U.S. dema",
     "British Pound: Range-bound trading within a tight band against US Dollar \u2013 UOB",
     "What is earnings season and why the first companies to report are important to w",
@@ -433,6 +427,12 @@
     "What are the main events for today?",
     "C\u1eadn c\u1ea3nh 15 km \u0111\u01b0\u1eddng song h\u00e0nh V\u00e0nh \u0111ai 4 qua H\u00e0 N\u1ed9i v\u1eeba th\u00f4ng xe k\u1ef9 thu\u1eadt",
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "SanDisk's Boom Still Depends on Pricing - TradingView"
+    "SanDisk's Boom Still Depends on Pricing - TradingView",
+    "India: Rising inflation pressures challenge RBI \u2013 Societe Generale",
+    "Preview: RBA minutes and jobs data headline Australia\u2019s week ahead, with unemplo",
+    "\u0110i ch\u1ee3 th\u1ea5y 3 lo\u1ea1i rau n\u00e0y ph\u1ea3i mua ngay: T\u1ed1t cho m\u1eaft, b\u1ed5 gan, ph\u00f2ng b\u1ec7nh d\u1ea1 d\u00e0y",
+    "B\u00e1o c\u00e1o T\u1ed5ng k\u1ebft Th\u1ecb tr\u01b0\u1eddng: Th\u00e1ng 09/2026 -Thanh kho\u1ea3n th\u1ea5p, kh\u1ed1i ngo\u1ea1i ti\u1ebfp t\u1ee5",
+    "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
+    "Rep. Ilhan Omar\u2019s home raided in federal criminal investigation"
   ]
 }
