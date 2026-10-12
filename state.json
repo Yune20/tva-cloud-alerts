@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791766392.6244059,
+  "last_signals": 1791767007.0585501,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -81,7 +81,7 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
@@ -116,15 +116,9 @@
       "NVDA": "229.28"
     }
   },
-  "last_analysis": 1791766385.1778424,
-  "last_news": 1791766392.6236103,
+  "last_analysis": 1791766999.3139703,
+  "last_news": 1791767007.057606,
   "seen_news": [
-    "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
-    "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-    "Foreign investors flee South Korean stocks as AI boom loses steam",
-    "British Pound holds ground as US Consumer Sentiment deteriorates",
-    "Japan household spending falls for ninth straight month, but drop smaller than e",
-    "\u00d4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 \u0111ang tuy\u1ec3n ng\u01b0\u1eddi ph\u1ee5 n\u1ea5u ph\u1edf, rang c\u01a1m t\u1ea1i TP.HCM, \u01b0u ti\u00ean",
     "Stellantis bets on small affordable EVs for European comeback",
     "France: Budget politics and market testing \u2013 Rabobank",
     "Let's Play... \"More Bullish or More Bearish\".  How would I view the technicals f",
@@ -418,6 +412,12 @@
     "PBOC is expected to set the USD/CNY reference rate at 6.6977 \u2013 Reuters estimate",
     "K\u1ef7 l\u1ee5c \u0111\u1eb7c bi\u1ec7t \u1edf \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia: M\u1ed9t gia \u0111\u00ecnh c\u00f3 t\u1edbi 3 th\u00e0nh vi\u00ean t\u1eebng ",
     "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-10-10 \u2014 cnbctv:3ac178cc9094b:0 - TradingV"
+    "News by CNBC TV18 on TradingView, 2026-10-10 \u2014 cnbctv:3ac178cc9094b:0 - TradingV",
+    "Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+    "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
+    "Deutsche Bank\u2019s CEO warns wins for AfD and Left in 3 state votes risk deterring ",
+    "C\u1ee5m \u0111i\u1ec7n gi\u00f3 g\u1ea7n 1.000 MW c\u1ee7a T&T Group t\u1ea1i L\u00e0o: Th\u00eam ngu\u1ed3n \u0111i\u1ec7n, \u0111\u00f3n t\u01b0\u01a1ng lai",
+    "GEE: CTCP \u0110i\u1ec7n l\u1ef1c Gelex - GELEX Electric.,JSC | VietstockFinance - VietstockFin",
+    "Rwanda Inflation Hits Over 3-Year High - TradingView"
   ]
 }
