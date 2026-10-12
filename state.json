@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791801802.9499016,
-  "last_bot4": 1791807748.6038103,
+  "last_bot4": 1791808590.6537838,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791806851.325381
+    "Gold": 1791808590.653728
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791808050.5487123,
+  "last_signals": 1791808590.654704,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -50,7 +50,8 @@
     "5575146754|Gold|1H|range_in": 1791778224.326486,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
-    "5575146754|Gold|4H|range_in": 1791793650.3077526
+    "5575146754|Gold|4H|range_in": 1791793650.3077526,
+    "5575146754|Gold|1H|trap_dn": 1791808590.654704
   },
   "sig_range": {
     "Gold": true,
@@ -73,7 +74,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -129,14 +130,8 @@
     "USOIL|4H:top": 1791802433.0620472
   },
   "last_analysis": 1791808354.151007,
-  "last_news": 1791808050.5479174,
+  "last_news": 1791808586.710169,
   "seen_news": [
-    "Bank earnings to shed the first light on how higher yields are affecting the eco",
-    "Justice Department investigates TV networks as White House press-access fight es",
-    "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    "Why is Samsung Electronics stock sliding today?",
-    "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
-    "FX option expiries for 12 October 10am New York cut",
     "TikTok CEO sees major scientific breakthroughs from AI within three years",
     "How the oil capital of the US welcomed a solar power boom",
     "Why is SK Hynix stock sliding today?",
@@ -430,6 +425,12 @@
     "DPZ Q3'26 Earnings: EPS estimate is 4.36 USD - TradingView",
     "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial",
     "The start-ups hoping to return battery making to the US",
-    "AST SpaceMobile upgraded to buy at Deutsche Bank as selloff called misread"
+    "AST SpaceMobile upgraded to buy at Deutsche Bank as selloff called misread",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
+    "BASF SE: Release of a capital market information - TradingView",
+    "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "X-planes: Are they needed in the new era of drones?",
+    "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply",
+    "Skies over Saudi capital empty after deadly Houthi airport strikes"
   ]
 }
