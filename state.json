@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791781035.9042237,
+  "last_signals": 1791781641.4639761,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -66,7 +66,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -121,18 +121,12 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791778832.371856,
-    "Gold|4H:top": 1791781036.2624197,
+    "Gold|4H:top": 1791781641.7346995,
     "Bitcoin|4H:top": 1791781036.7606492
   },
-  "last_analysis": 1791781024.1996949,
-  "last_news": 1791781035.9027956,
+  "last_analysis": 1791781633.5511782,
+  "last_news": 1791781641.4632132,
   "seen_news": [
-    "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-    "Why Record Crude Output Can\u2019t Solve America\u2019s Diesel Crisis",
-    "Euro zone ministers tell France to pass 2027 budget to calm markets",
-    "Japan: Bond outflows reshape global yields - Commerzbank",
-    "Delta shares slide on fuel drag but company says demand remains strong. Shares d",
-    "N\u1ebfu g\u1ea7n \u0111\u00e2y b\u1ea1n th\u1ea5y m\u00ecnh ch\u1eb3ng ti\u1ebfn l\u00ean, h\u00e3y nh\u00ecn l\u1ea1i 5 th\u1ee9 \u0111ang \u00e2m th\u1ea7m gi\u1eef ch",
     "UBS sees stronger outlook for Brazilian real after election",
     "Indian Rupee: RBI seen keeping hike option open \u2013 DBS",
     "Monday: Thin start for Asia as Tokyo shuts for Sports Day and US Treasuries stay",
@@ -426,6 +420,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "Sebi's colour-coded Credit Risk-o-Meter for bonds - TradingView",
     "The bull market is turning 4 years old \u2014 but yields could crash the party",
-    "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology"
+    "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher - TradingVi",
+    "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+    "Spain battles climate change on several fronts",
+    "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+    "EUR/USD outlook as euro stays pinned near multi month lows"
   ]
 }
