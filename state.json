@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791823660.5501606,
+  "last_signals": 1791824258.853452,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -72,9 +72,9 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -131,15 +131,9 @@
     "US30|4H:top": 1791813407.3650095,
     "DXY|4H:top": 1791817148.9223478
   },
-  "last_analysis": 1791823650.2471836,
-  "last_news": 1791823657.7741249,
+  "last_analysis": 1791824250.8448622,
+  "last_news": 1791824258.8525307,
   "seen_news": [
-    "The warning signs that you're getting bad debt advice",
-    "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
-    "Indian Rupee jumps higher on fresh RBI measures",
-    "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
-    "Ninh D\u01b0\u01a1ng Lan Ng\u1ecdc kh\u1ed5 l\u1eafm r\u1ed3i",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
     "Japanese Yen seems vulnerable vs bullish amid fiscal woes, Mideast jitters",
     "PBOC is expected to set the USD/CNY reference rate at 6.6977 \u2013 Reuters estimate",
     "C\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n c\u1ee7a Ti\u1ebfn s\u0129 Nguy\u1ec5n Vi\u1ec7t C\u01b0\u1eddng \u201cb\u1ed1c h\u01a1i\u201d h\u01a1n 5.000 t\u1ef7 v\u1ed1n h\u00f3",
@@ -433,6 +427,12 @@
     "N\u1eef di\u1ec5n vi\u00ean SN 1995 qu\u00ea Ph\u00fa Th\u1ecd: \"Em l\u1ea5y ch\u1ed3ng em v\u00ec ti\u1ec1n\"",
     "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock",
     "LVMH Q3 Sales \u20ac18.50 Bln - TradingView",
-    "Buy these stocks as plays on Google\u2019s big spending, analyst says"
+    "Buy these stocks as plays on Google\u2019s big spending, analyst says",
+    "\u0110\u00e1m c\u01b0\u1edbi c\u1ee7a Qu\u00e1n qu\u00e2n The Voice Kids \u0111\u1ea7u ti\u00ean t\u1ea1i Vi\u1ec7t Nam",
+    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
+    "Cathie Wood Just Bought $27.8 Million of This Tumbling AI Stock - TradingView",
+    "These stocks could be the future winners \u2014\u00a0and losers \u2014 of a massive shift in IT",
+    "UnitedHealth shares are doing something unusual ahead of earnings",
+    "Roofing scammers con homeowners out of thousands of pounds"
   ]
 }
