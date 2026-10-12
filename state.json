@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791812862.3156085,
-  "last_bot4": 1791814924.100324,
+  "last_bot4": 1791815567.8670285,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791815245.2419734,
+  "last_signals": 1791815567.8677583,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,8 +71,8 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -130,15 +130,9 @@
     "USOIL|4H:top": 1791802433.0620472,
     "US30|4H:top": 1791813407.3650095
   },
-  "last_analysis": 1791815237.6944115,
-  "last_news": 1791815245.2411377,
+  "last_analysis": 1791815558.5162709,
+  "last_news": 1791815567.8661423,
   "seen_news": [
-    "VP Says On Course To Perform In Line With Market Expectations For FY27 - Trading",
-    "Trump Media advisor Katie Zacharia named White House press secretary",
-    "Rainmakers: The drones used to seed clouds",
-    "Why is Suzhou Dongshan Precision Manufacturing stock sliding today?",
-    "Euro: Downside risks toward 1.1145 against US Dollar \u2013 UOB",
-    "Market playbook: What if US CPI comes in hot but stocks refuse to fall?",
     "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time",
     "Buffett's 'trips down YouTube rabbit hole' revealed",
     "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
@@ -432,6 +426,12 @@
     "Guide to Magnificent Seven ETF investing - TradingView",
     "Microsoft hits a big milestone that solidifies its revival",
     "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir",
-    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr"
+    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
+    "Cleveland-Cliffs shares may move 12% on Oct. 19 earnings",
+    "Germany: AI boom versus growth drag \u2013 Deutsche Bank",
+    "Heads up: US bond market closed Monday but stocks remain open as liquidity risks",
+    "Danh y 103 tu\u1ed5i b\u1eadt m\u00ed b\u00ed quy\u1ebft s\u1ed1ng th\u1ecd, nh\u1ea5t l\u00e0 \u0111i\u1ec1u s\u1ed1 1 th\u1eadt \u0111\u01a1n gi\u1ea3n",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Weekly Recap: Takeover financing and Rule 8.3 disclosures - TradingView"
   ]
 }
