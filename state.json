@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791820360.8653564,
+  "last_signals": 1791820984.1683755,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -72,9 +72,9 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -131,15 +131,9 @@
     "US30|4H:top": 1791813407.3650095,
     "DXY|4H:top": 1791817148.9223478
   },
-  "last_analysis": 1791820351.9650962,
-  "last_news": 1791820360.864445,
+  "last_analysis": 1791820962.1805613,
+  "last_news": 1791820984.1675637,
   "seen_news": [
-    "Huawei doubles down on smartphones as EV sales slow",
-    "Trump faces growing backlash over plans to import diesel from Russia",
-    "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
-    "Why is Vallourec stock rallying today?",
-    "Oil: Supply risks offset by Russia diesel deal \u2013 ING",
-    "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the ",
     "The Iran War Is Fueling a Boom in Clean Energy",
     "Why is ActiveOps stock plummeting today?",
     "US Dollar Index Price Forecast: Turns sideways after hitting fresh yearly highs ",
@@ -433,6 +427,12 @@
     "The broader indices are all lower with the Nasdaq 100 the weakest. What are the ",
     "Ng\u1ecdc n\u1eef \u0111\u1eb9p nh\u1ea5t Vi\u1ec7t Nam v\u1eeba l\u1ecdt top \u0111\u1ec1 c\u1eed m\u1ef9 nh\u00e2n \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi",
     "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "REG - SEGRO PLC - Rule 2.9 Announcement - TradingView"
+    "REG - SEGRO PLC - Rule 2.9 Announcement - TradingView",
+    "What is earnings season and why the first companies to report are important to w",
+    "S\u1ebd phong t\u1ecfa t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng nh\u1eadn, chuy\u1ec3n ti\u1ec1n cho c\u00e1c giao d\u1ecbch sau \u0111\u1ec3 y\u00eau ",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Crude Oil Rises for 3rd Session - TradingView",
+    "Here\u2019s how much extra money could be in your monthly Social Security check next ",
+    "Inflation likely peaked for 2026 but will remain sticky, according to prediction"
   ]
 }
