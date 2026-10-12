@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791777000.5103705,
+  "last_signals": 1791777610.445034,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -63,16 +63,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -120,18 +120,12 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1791777001.2155442,
+    "Ethereum|4H:top": 1791777611.2723742,
     "Gold|4H:top": 1791776380.0894172
   },
-  "last_analysis": 1791776992.5052094,
-  "last_news": 1791777000.5094883,
+  "last_analysis": 1791777601.2121499,
+  "last_news": 1791777610.4437244,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
-    "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish desp",
-    "Bank earnings to shed the first light on how higher yields are affecting the eco",
-    "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiti",
-    "Spain battles climate change on several fronts",
-    "How much power will the U.S. need through 2030?",
     "US President Trump says Putin agrees to supply millions of tons of diesel",
     "Delivered crude prices surge back to highs as JPMorgan flags tanker crunch",
     "3 th\u00f3i x\u1ea5u \"ph\u00e1 gan\" nhanh h\u01a1n c\u1ea3 th\u1ee9c khuya nh\u01b0ng ng\u01b0\u1eddi tr\u1ebb l\u00e0m nh\u01b0 c\u01a1m b\u1eefa",
@@ -425,6 +419,12 @@
     "Why are more roofs not made of solar tiles?",
     "Asia stocks mixed as oil retreats, earnings season gathers pace",
     "United States Dollar Index drifts lower amid softer bond yields; bullish bias in",
-    "investingLive European session wrap: Stocks rebound as bond market nerves ease, "
+    "investingLive European session wrap: Stocks rebound as bond market nerves ease, ",
+    "Why is MINISO stock surging today?",
+    "India steps up currency defense with tougher US Dollar curbs \u2014 Reuters",
+    "Monday open indicative forex prices, 12 October 2026",
+    "H\u1ea3i quan ph\u00e1t hi\u1ec7n 1,3kg v\u00e0ng tr\u1ecb gi\u00e1 4,6 t\u1ef7 \u0111\u1ed3ng \u0111\u01b0\u1ee3c gi\u1ea5u b\u00ean trong chi\u1ebfc loa ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
+    "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online - TradingView"
   ]
 }
