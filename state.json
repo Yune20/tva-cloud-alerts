@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791920783.1898968,
+  "last_signals": 1791921388.1043723,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,9 +77,9 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791920785.0431755,
-    "EUR/USD|1D:bot": 1791920784.7078083,
-    "US30|1D:top": 1791920784.3165314,
-    "GBP/USD|4H:top": 1791920784.5110137
+    "DXY|1D:top": 1791921392.5551198,
+    "EUR/USD|1D:bot": 1791921392.0000896,
+    "US30|1D:top": 1791921391.5382326,
+    "GBP/USD|4H:top": 1791921391.7844481
   },
-  "last_analysis": 1791920773.2346961,
-  "last_news": 1791920783.1890743,
+  "last_analysis": 1791921382.1406822,
+  "last_news": 1791921388.1034026,
   "seen_news": [
-    "Why the world\u2019s No. 1 fund manager has just changed its mind on bonds for the fi",
-    "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks wo",
-    "BA flight forced to turn back over cracked window",
-    "China's Auto Exports Explode as Domestic Demand Craters",
-    "U.S.  debt finds breathing room, countering energy spike",
-    "Silver Price Forecast: XAG/USD wobbles near $60.30, US CPI takes centre stage",
     "Why are more roofs not made of solar tiles?",
     "Pakistan Faces $1 Billion LNG Bill This Winter",
     "Cipher Digital stock drops 12% following $850 million debt offering",
@@ -443,6 +437,12 @@
     "Ray Dalio Cautions US Treasury Selloff Is \u2018Far From Over\u2019 - TradingView",
     "Meta shares rise for a second straight day as new AI model family impresses",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Tesla squeezed in $370-$388 range near key support: Live levels"
+    "Tesla squeezed in $370-$388 range near key support: Live levels",
+    "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports ",
+    "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "Three things we've learnt about the UK economy from the IMF",
+    "Alphabet C tests $353 resistance in ascending triangle: Live",
+    "Euro: Soft undertone but fair value higher against US Dollar \u2013 Scotiabank",
+    "investingLive European news wrap: Risk sentiment improves as oil prices ease"
   ]
 }
