@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791850919.6822507,
+  "last_signals": 1791851261.1880205,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791847961.7845156,
+    "5575146754|Gold|1H|range_in": 1791851261.1880205,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -133,15 +133,9 @@
     "Bitcoin|4H:bot": 1791842261.2891273,
     "EUR/USD|4H:bot": 1791850921.1807542
   },
-  "last_analysis": 1791850909.8245537,
-  "last_news": 1791850919.6815171,
+  "last_analysis": 1791851250.8026857,
+  "last_news": 1791851261.1871824,
   "seen_news": [
-    "Apple's Tim Cook meets Chinese vice premier in Beijing: report - TradingView",
-    "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says ",
-    "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-    "Rainmakers: The drones used to seed clouds",
-    "European Natural Gas Prices Headed for Multi-Year Highs",
-    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
     "Microsoft President Issues Stark Warning on AI Oversight - TradingView",
     "Fed's Hammack says higher rates could be needed as risks of 'inflationary mindse",
     "The AI telling farmers when to harvest",
@@ -435,6 +429,12 @@
     "Interfax: T\u1ed5ng th\u1ed1ng Putin k\u00fd s\u1eafc l\u1ec7nh c\u1ea5p \u0111\u1eb7c quy\u1ec1n cho c\u00f4ng d\u00e2n Vi\u1ec7t Nam",
     "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock",
     "Chipotle Stock Slips as Starbucks Denies Takeover Plan - TradingView",
-    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst "
+    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
+    "Xu\u1ea5t kh\u1ea9u h\u01b0\u1edbng t\u1edbi 1.000 t\u1ef7 USD: \u0110\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng n\u1eb1m \u1edf \u0111\u00e2u?",
+    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
+    "Kuehn Law Encourages Investors of Immunovant, Inc. to Contact Law Firm - Trading",
+    "UnitedHealth shares are doing something unusual ahead of earnings",
+    "Publicly owned rail is popular. But is it making the trains run on time?",
+    "Fed\u2019s Hammack: Hope to cool demand, and inflation, without job market pain"
   ]
 }
