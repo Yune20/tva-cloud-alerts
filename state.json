@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791880269.4466248,
+  "last_signals": 1791880882.5256565,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791880272.439812,
-    "EUR/USD|1D:bot": 1791880271.8160653
+    "DXY|1D:top": 1791880885.011103,
+    "EUR/USD|1D:bot": 1791880884.4728878
   },
-  "last_analysis": 1791880259.820693,
-  "last_news": 1791880269.445544,
+  "last_analysis": 1791880874.0916831,
+  "last_news": 1791880882.5248206,
   "seen_news": [
-    "Bitcoin Struggles in October: What's Causing the Weakness? - TradingView",
-    "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says ",
-    "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-    "Roofing scammers con homeowners out of thousands of pounds",
-    "European Natural Gas Prices Headed for Multi-Year Highs",
-    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
     "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
     "Rainmakers: The drones used to seed clouds",
     "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
@@ -441,6 +435,12 @@
     "Chart of the day: EUR/CHF bounces this week but French bond spreads warn euro ri",
     "C\u00f4ng b\u1ed1 quy\u1ebft \u0111\u1ecbnh c\u1ee7a Ban Th\u01b0\u1eddng v\u1ee5 T\u1ec9nh \u1ee7y L\u00e0o Cai v\u1ec1 c\u00f4ng t\u00e1c c\u00e1n b\u1ed9",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Municipality Finance Plc Adds \u00a330M to 2030 GBP Benchmark - TradingView"
+    "Municipality Finance Plc Adds \u00a330M to 2030 GBP Benchmark - TradingView",
+    "BofA sees gold struggling to hold $4,000 as Iran war oil shock keeps Fed hawkish",
+    "T\u1ea1i sao c\u01a1 tr\u01b0\u1edfng v\u00e0 c\u01a1 ph\u00f3 kh\u00f4ng \u0111\u01b0\u1ee3c \u0103n c\u00f9ng l\u00fac, c\u00f9ng m\u00f3n tr\u00ean chuy\u1ebfn bay?",
+    "B\u00e1o c\u00e1o T\u1ed5ng k\u1ebft Th\u1ecb tr\u01b0\u1eddng: Th\u00e1ng 09/2026 -Thanh kho\u1ea3n th\u1ea5p, kh\u1ed1i ngo\u1ea1i ti\u1ebfp t\u1ee5",
+    "Weekly Recap: OpenAI revenue, compute-deal and ORCL $45\u201350B raise - TradingView",
+    "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm",
+    "Micron, SoftBank and ASML slide as Wall Street chip rout spreads"
   ]
 }
