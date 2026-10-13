@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791879642.7500896,
+  "last_signals": 1791880269.4466248,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,8 +68,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|1H": false,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791879644.1557207,
-    "EUR/USD|1D:bot": 1791879643.805211
+    "DXY|1D:top": 1791880272.439812,
+    "EUR/USD|1D:bot": 1791880271.8160653
   },
-  "last_analysis": 1791879634.3170981,
-  "last_news": 1791879642.74923,
+  "last_analysis": 1791880259.820693,
+  "last_news": 1791880269.445544,
   "seen_news": [
-    "Xu\u1ea5t kh\u1ea9u h\u01b0\u1edbng t\u1edbi 1.000 t\u1ef7 USD: \u0110\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng n\u1eb1m \u1edf \u0111\u00e2u?",
-    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
-    "Kuehn Law Encourages Investors of Immunovant, Inc. to Contact Law Firm - Trading",
-    "UnitedHealth shares are doing something unusual ahead of earnings",
-    "Publicly owned rail is popular. But is it making the trains run on time?",
-    "Fed\u2019s Hammack: Hope to cool demand, and inflation, without job market pain",
     "Bitcoin Struggles in October: What's Causing the Weakness? - TradingView",
     "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says ",
     "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
@@ -441,6 +435,12 @@
     "Yen weakness since 2025 has been limited to offshore hours: analysis",
     "Japanese Yen: Intervention risks limit further depreciation - OCBC",
     "IMF\u2019s Georgieva calls AI a slow-moving tsunami (again) for jobs as graduates fee",
-    "Ph\u00f2ng t\u1eafm nh\u1ecf \u0111\u1eebng c\u1ed1 nh\u00e9t b\u1ed3n r\u1eeda v\u00e0o trong: 4 c\u00e1ch b\u1ed1 tr\u00ed m\u1edbi v\u1eeba r\u1ed9ng h\u01a1n v\u1eeba"
+    "Ph\u00f2ng t\u1eafm nh\u1ecf \u0111\u1eebng c\u1ed1 nh\u00e9t b\u1ed3n r\u1eeda v\u00e0o trong: 4 c\u00e1ch b\u1ed1 tr\u00ed m\u1edbi v\u1eeba r\u1ed9ng h\u01a1n v\u1eeba",
+    "Why is LVMH Moet Hennessy Louis Vuitton stock sliding today?",
+    "USD/CAD Price Forecast: Falls to near 1.4250 near nine-day EMA support",
+    "Chart of the day: EUR/CHF bounces this week but French bond spreads warn euro ri",
+    "C\u00f4ng b\u1ed1 quy\u1ebft \u0111\u1ecbnh c\u1ee7a Ban Th\u01b0\u1eddng v\u1ee5 T\u1ec9nh \u1ee7y L\u00e0o Cai v\u1ec1 c\u00f4ng t\u00e1c c\u00e1n b\u1ed9",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Municipality Finance Plc Adds \u00a330M to 2030 GBP Benchmark - TradingView"
   ]
 }
