@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791878667.142309,
+  "last_news_report": 1791889684.5539503,
   "last_bot4": 1791889355.3952286,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791889069.8327498,
+  "last_signals": 1791889684.5550287,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -73,7 +73,7 @@
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -84,18 +84,18 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791889071.2885082,
-    "EUR/USD|1D:bot": 1791889070.968771
+    "DXY|1D:top": 1791889687.6149685,
+    "EUR/USD|1D:bot": 1791889686.8117776
   },
-  "last_analysis": 1791889062.38273,
-  "last_news": 1791889069.8319097,
+  "last_analysis": 1791889669.6885936,
+  "last_news": 1791889679.73267,
   "seen_news": [
-    "Australian business confidence slides to -13 as oil shock and rate hikes bite, N",
-    "M\u1ed9t t\u00edn hi\u1ec7u \"l\u1ea1\" \u0111ang di\u1ec5n ra tr\u00ean th\u1ecb tr\u01b0\u1eddng v\u00e0ng",
-    "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
-    "Gold Edges Lower on Dollar Strength - TradingView",
-    "Six Flags shares plunge after-hours following report of deadly roller coaster in",
-    "How to avoid getting stung if you miss credit card payments",
     "$4,000 Gold Could Be Wall Street's Next Big Buying Opportunity",
     "Dollar gains for fourth straight week on Fed rate outlook",
     "Euro gathers strength above 1.1150 despite France\u2019s fiscal concerns",
@@ -441,6 +435,12 @@
     "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
     "Dollar Extends Gains - TradingView",
     "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,",
-    "How Red Bull's F1 team is using AI to make split-second decisions for Max Versta"
+    "How Red Bull's F1 team is using AI to make split-second decisions for Max Versta",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
+    "A SpaceX launch shortage is fueling a $100 billion investing spree",
+    "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a",
+    "The AI telling farmers when to harvest",
+    "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data"
   ]
 }
