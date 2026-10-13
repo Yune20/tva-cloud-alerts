@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791900476.7415047,
+  "last_signals": 1791901076.0963168,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -131,24 +131,18 @@
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
-    "US30|4H:top": 1791900478.0183632,
+    "US30|4H:top": 1791901077.9981596,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791900479.0330143,
-    "EUR/USD|1D:bot": 1791900478.6001353,
-    "US30|1D:top": 1791900478.018385
+    "DXY|1D:top": 1791901079.500906,
+    "EUR/USD|1D:bot": 1791901078.8135555,
+    "US30|1D:top": 1791901077.9981716
   },
-  "last_analysis": 1791900463.2479002,
-  "last_news": 1791900476.7406023,
+  "last_analysis": 1791901053.803271,
+  "last_news": 1791901076.0956764,
   "seen_news": [
-    "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Nvidia AI chip share in China falls as Huawei catches up- Reuters",
-    "India Gold price today: Gold rises, according to FXStreet data",
-    "Germany September final CPI +3.3% vs +3.3% y/y prelim",
-    "Ph\u00e1t hi\u1ec7n Ph\u00fac Long \u201cch\u01a1i l\u1edbn\u201d nh\u1ea5t H\u00e0 N\u1ed9i: X\u00e2y h\u1eb3n c\u1eeda h\u00e0ng h\u00ecnh du thuy\u1ec1n gi\u1eefa",
     "Visa gets approval to prepare for domestic business in China",
     "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
     "JPMorgan says Q3 earnings will support stocks as growth spreads beyond AI",
@@ -442,6 +436,12 @@
     "Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel",
     "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
     "Japanese Yen: Weakness may deepen toward 159.05 against US Dollar \u2013 UOB",
-    "US existing home sales for September 3.99 million versus 3.95 million estimate"
+    "US existing home sales for September 3.99 million versus 3.95 million estimate",
+    "Why one hedge-fund billionaire believes stocks are heading for a \u2018really challen",
+    "Why this little known Chinese chipmaker has caused a global stock rout",
+    "My hometown shows that high streets have to change or die",
+    "Indian rupee rebounds from near record low after RBI unveils support measures",
+    "US ADP Employment Change 4-week average drops to 24.75K",
+    "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down "
   ]
 }
