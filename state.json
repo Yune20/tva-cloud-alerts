@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791854919.1746871,
+  "last_signals": 1791855540.9392037,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -66,16 +66,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Bitcoin|1D": true,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -134,17 +134,11 @@
     "Bitcoin|4H:bot": 1791842261.2891273,
     "EUR/USD|4H:bot": 1791854920.6487217,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791854920.9838152
+    "DXY|1D:top": 1791855542.5697849
   },
-  "last_analysis": 1791854910.9498844,
-  "last_news": 1791854919.173047,
+  "last_analysis": 1791855533.2994034,
+  "last_news": 1791855540.93833,
   "seen_news": [
-    "Would you buy branded clothing from your favourite tech firm?",
-    "Existing home sales among economic data due Tuesday",
-    "NZDUSD sellers press toward key lows. Can they break through?",
-    "M\u1ed9t \u201c\u0111\u1ea1i gia\u201d tuy\u1ec3n ng\u01b0\u1eddi c\u00f9ng b\u00e1n rau, thu nh\u1eadp c\u00f3 th\u1ec3 l\u00ean \u0111\u1ebfn 30 tri\u1ec7u \u0111\u1ed3ng",
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
-    "Gold steady as markets strap in for inflation data - TradingView",
     "Model blitz at Paris motor show as Europe-China rivalry heats up",
     "Fed\u2019s Hammack sees higher neutral rate, urges more policy restraint",
     "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stale",
@@ -438,6 +432,12 @@
     "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
     "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
     "Anthropic says new safeguards sharply reduce AI distillation attacks",
-    "WTI holds gains above $92.00 on persistent Middle East supply risks"
+    "WTI holds gains above $92.00 on persistent Middle East supply risks",
+    "Bumble shares soar after report dating firm in $1bn takeover talks",
+    "Trump's Grid Security Order Could Backfire on America's AI Boom",
+    "Saudi capital\u2019s airport to remain shut this week as airlines cancel services",
+    "British Pound gains on BRC Like-For-Like Retail Sales data despite geopolitical ",
+    "AI compute crunch deepens as chip rental costs jump 60% and rivals scramble for ",
+    "M\u1ed9t n\u1eef sinh vi\u00ean 22 tu\u1ed5i c\u00f3 t\u00e0i s\u1ea3n h\u01a1n 36.000 t\u1ef7 \u0111\u1ed3ng"
   ]
 }
