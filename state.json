@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791857440.9380457,
+  "last_signals": 1791858049.3464897,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -134,17 +134,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791857442.4772325
+    "DXY|1D:top": 1791858052.0452218
   },
-  "last_analysis": 1791857433.367306,
-  "last_news": 1791857440.9371598,
+  "last_analysis": 1791858041.703797,
+  "last_news": 1791858049.3457923,
   "seen_news": [
-    "How to avoid getting stung if you miss credit card payments",
-    "Dating app Bumble in advanced talks to go private at $1 billion valuation, sourc",
-    "Chinese Yuan: Gradual appreciation with trade pressures \u2013 MUFG",
-    "EURUSD dips to a new low going back to May 2025",
-    "Green SM c\u1ee7a \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng x\u00e1c nh\u1eadn k\u1ebf ho\u1ea1ch IPO, n\u01a1i \u0111\u01b0\u1ee3c ch\u1ecdn kh\u00f4ng ph\u1ea3i",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
     "Singapore Dollar: Range bias holds near 1.2835 against US Dollar \u2013 UOB",
     "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
     "Gi\u00e1 chung c\u01b0 TP.HCM ch\u1ea1m 125 tri\u1ec7u \u0111\u1ed3ng/m2, thanh kho\u1ea3n gi\u1ea3m c\u00f2n 28%: \"Th\u1ecb tr\u01b0\u1eddn",
@@ -438,6 +432,12 @@
     "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IM",
     "UK growth upgraded but energy prices and rates to bite in 2027",
     "Nikkei 225 slices below Ichimoku cloud near oversold RSI: Live",
-    "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar"
+    "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar",
+    "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip s",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Hang Seng rejected at 24,093.5 in bear flag setup: Live levels",
+    "Canadian Dollar edges higher but remains close to April 2025 lows vs bullish USD",
+    "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
+    "B\u1ea5t ng\u1edd v\u1edbi ph\u01b0\u01a1ng \u00e1n \"v\u00e1 tr\u1eddi\" c\u1ee7a Nga: M\u00e1y bay Ukraine lao \u0111\u1ebfn l\u00e0 b\u1ecb qu\u1ea5n ch\u1eb7t"
   ]
 }
