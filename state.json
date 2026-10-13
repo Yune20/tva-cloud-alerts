@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791897410.2796187,
+  "last_signals": 1791897736.0981731,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -72,14 +72,14 @@
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791897412.714523,
-    "EUR/USD|1D:bot": 1791897412.2729423
+    "DXY|1D:top": 1791897737.7902606,
+    "EUR/USD|1D:bot": 1791897737.4726267
   },
-  "last_analysis": 1791897116.8802454,
-  "last_news": 1791897410.2780561,
+  "last_analysis": 1791897726.8208084,
+  "last_news": 1791897736.097301,
   "seen_news": [
-    "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-    "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
-    "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
-    "Euro zone ministers tell France to pass 2027 budget to calm markets",
-    "Indian Rupee gains further on RBI\u2019s fresh measures to lower US Dollar\u2019s demand",
-    "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low a",
     "My hometown shows that high streets have to change or die",
     "Nokia to sell Campus Edge business to Aurelius",
     "WTI Price Forecast: Trades with modest losses below $92.00; bullish bias persist",
@@ -441,6 +435,12 @@
     "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market",
     "SpaceX D2C aggression triggers Piper Sandler downgrade of AST SpaceMobile",
     "Euro: Lower year-end target at 1.13 against US Dollar \u2013 ING",
-    "What are the main events for today?"
+    "What are the main events for today?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
+    "Mineral Road Discovery Inc. (ROAD) Reviews Australian Magnesium and Vanadium Ass",
+    "Fund managers retain surprising optimism in the face of stagnant stock market an",
+    "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in cont",
+    "Spain battles climate change on several fronts",
+    "EUR/USD outlook as euro stays pinned near multi month lows"
   ]
 }
