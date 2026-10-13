@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791907046.9288914,
+  "last_signals": 1791907580.0306582,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -131,24 +131,18 @@
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
-    "US30|4H:top": 1791907047.9643645,
+    "US30|4H:top": 1791907582.2924337,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791907048.7383866,
-    "EUR/USD|1D:bot": 1791907048.4031522,
-    "US30|1D:top": 1791907047.9643838
+    "DXY|1D:top": 1791907583.926273,
+    "EUR/USD|1D:bot": 1791907583.1543615,
+    "US30|1D:top": 1791907582.292444
   },
   "last_analysis": 1791907287.3576567,
-  "last_news": 1791907046.9281318,
+  "last_news": 1791907580.030202,
   "seen_news": [
-    "Oil price volatility takes gold for a ride as focus turns to US CPI next. What t",
-    "Lao \u0111\u1ed9ng n\u01b0\u1edbc ngo\u00e0i \u0111\u01b0\u1ee3c tr\u1ea3 th\u00eam 1% ti\u1ec1n l\u01b0\u01a1ng thay b\u1ea3o hi\u1ec3m th\u1ea5t nghi\u1ec7p",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Germany's Schaeffler prelim 9M revenue dips amid declining project volumes in Ch",
-    "IMF sees milder global slowdown as AI boom offsets war hit \u2014 warns resilience is",
-    "Trump faces growing backlash over plans to import diesel from Russia",
     "Basic Attention to Host Community Call on October 13th - TradingView",
     "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right ch",
     "Why some have no choice but to pay costly oil prices",
@@ -442,6 +436,12 @@
     "British Pound: Upside momentum builds against Euro \u2013 Societe Generale",
     "USDCHF ping-pong's between support and resistance targets",
     "U60 v\u1eabn tr\u1ebb h\u01a1n tu\u1ed5i nh\u1edd th\u00f3i quen u\u1ed1ng n\u01b0\u1edbc d\u01b0\u1ee1ng nhan gi\u00fap da \u0111\u1eb9p, t\u00f3c kh\u1ecfe m\u1ed7",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Canadian Dollar: Modest gains against US Dollar - Scotiabank",
+    "European stock market open: Stocks edge higher but gains remain tentative ahead ",
+    "\u201cNay n\u00f3ng qu\u00e1 m\u1eb9 \u1ea1\u201d - \u201c\u0110\u1ea7y ng\u01b0\u1eddi ph\u1ea3i l\u00e0m vi\u1ec7c ngo\u00e0i tr\u1eddi n\u1eafng kia k\u00eca\u201d: Ki\u1ec3u n\u00f3",
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Corvex Urges Whitbread Shareholders To Back James Gemmel's Election To Board - T",
+    "Hedge-fund legend Paul Tudor Jones says the stock market faces a really challeng"
   ]
 }
