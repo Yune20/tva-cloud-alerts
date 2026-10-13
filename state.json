@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791914421.8178337,
+  "last_signals": 1791915031.887901,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,9 +77,9 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791914423.7416933,
-    "EUR/USD|1D:bot": 1791914423.3410804,
-    "US30|1D:top": 1791914422.8615336
+    "DXY|1D:top": 1791915035.5250049,
+    "EUR/USD|1D:bot": 1791915034.7789323,
+    "US30|1D:top": 1791915034.0817997
   },
-  "last_analysis": 1791914413.4705253,
-  "last_news": 1791914421.8170247,
+  "last_analysis": 1791915021.7036002,
+  "last_news": 1791915031.879678,
   "seen_news": [
-    "PL BioScience Launches PL Synergy to Simplify and Standardize MSC Research - Tra",
-    "The Korean stock market\u2019s in freefall, and these are the reasons why",
-    "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal ",
-    "AI is less regulated than milk, says Microsoft president",
-    "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued ",
-    "Swiss Franc's recovery stalls despite broad-based US Dollar weakness",
     "Equinor signs third long-term gas deal with Eneco this year - TradingView",
     "Newlywed Jim Carrey lists $35 million Maui waterfront mansion",
     "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
@@ -442,6 +436,12 @@
     "New SEC rules would fleece everyday investors to enrich Wall Street",
     "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires",
     "UK growth forecast upgraded but higher energy prices to hit economy next year",
-    "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks"
+    "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks",
+    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla",
+    "India regulator proposes tighter rules for equity fundraising",
+    "Forex Today: US inflation comes to the fore",
+    "Oil prices retreat despite persistent Middle East tensions and stalled US-Iran n",
+    "N\u1eef k\u1ef9 s\u01b0 h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 b\u1ecf ngh\u1ec1 v\u1ec1 b\u00e1n \u0111\u1ed3 \u0103n b\u00ecnh d\u00e2n: Kh\u1edfi nghi\u1ec7p v\u1edbi ch\u01b0a \u0111",
+    "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock"
   ]
 }
