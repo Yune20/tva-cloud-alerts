@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791867630.4070137,
-  "last_bot4": 1791872684.081758,
+  "last_bot4": 1791873348.0895705,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791872978.641003,
+  "last_signals": 1791873348.09281,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,10 +47,10 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791864525.6591754,
+    "5575146754|Gold|1H|range_in": 1791873348.09281,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
-    "5575146754|Gold|4H|range_in": 1791793650.3077526,
+    "5575146754|Gold|4H|range_in": 1791873348.09281,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791854301.7307174,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
@@ -68,8 +68,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|1H": true,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791872980.8433,
+    "DXY|1D:top": 1791873350.8485453,
     "EUR/USD|1D:bot": 1791871706.1345243
   },
-  "last_analysis": 1791872681.241788,
-  "last_news": 1791872978.6401625,
+  "last_analysis": 1791873339.0838213,
+  "last_news": 1791873348.0886493,
   "seen_news": [
-    "Why Gen Z are planning for life without a state pension",
-    "BlackRock turns bullish on short-term bonds, closes US stock overweight",
-    "Germany: AI boom versus growth drag \u2013 Deutsche Bank",
-    "More on Standard Chartered adding RLUSD custody in Dubai, eyes LMAX collateral l",
-    "C\u0103n penthouse \"kh\u00f4ng h\u00e0ng x\u00f3m\" c\u1ee7a \"\u00f4ng ho\u00e0ng Cpop\" Ch\u00e2u Ki\u1ec7t Lu\u00e2n",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
     "Euro remains on the back foot amid French debt concerns",
     "Gold falls toward hourly moving averages. Can sellers keep control?",
     "T\u1eebng \u00f4m 20 t\u1ea5n c\u00e0 ph\u00ea t\u1ed3n kho gi\u1eefa \u0111\u1ea1i d\u1ecbch, c\u1ea7m c\u1ed1 nh\u00e0, cho thu\u00ea xe \u0111\u1ec3 v\u01b0\u1ee3t kh\u00f3",
@@ -441,6 +435,12 @@
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
     "Oil Retreats After Three-Day Rally - TradingView",
     "Investors worry the bull market is getting old. But history shows it can continu",
-    "Visa gets Beijing's green light for bank card business after 40 years of working"
+    "Visa gets Beijing's green light for bank card business after 40 years of working",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "IXIC: Nasdaq Futures Shed 1% as Chip Selloff in Asia Triggers Trading Halt - Tra",
+    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
+    "Banks are set to report this week. Here's what the options market expects",
+    "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+    "Sterling today: Pound edges up as dollar dips on Treasury pause"
   ]
 }
