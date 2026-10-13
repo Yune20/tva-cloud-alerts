@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791901968.5254385,
+  "last_signals": 1791902563.5305936,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -84,7 +84,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791901970.2146444,
-    "EUR/USD|1D:bot": 1791901969.7405117,
-    "US30|1D:top": 1791901969.3044877
+    "DXY|1D:top": 1791902567.48124,
+    "EUR/USD|1D:bot": 1791902566.6676843,
+    "US30|1D:top": 1791902565.8444166
   },
-  "last_analysis": 1791901961.9352572,
-  "last_news": 1791901968.5244434,
+  "last_analysis": 1791902555.0481615,
+  "last_news": 1791902563.527435,
   "seen_news": [
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
-    "IXIC: Nasdaq Futures Shed 1% as Chip Selloff in Asia Triggers Trading Halt - Tra",
-    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
-    "Banks are set to report this week. Here's what the options market expects",
-    "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-    "Sterling today: Pound edges up as dollar dips on Treasury pause",
     "Brazilian stocks are breaking out as investors look for opportunities beyond tec",
     "Cyber attack hits hundreds of French supermarkets, heating fridges to 122\u00b0F and ",
     "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
@@ -442,6 +436,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
     "Who should pay for a birthday dinner? I always treat my guests.",
-    "Apple releases HomeView smart home hub with screen as showcase for Siri AI"
+    "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "Microsoft to launch Maia 300 AI chip in 2027 - TradingView",
+    "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to ",
+    "Six Flags shares decline following report of deadly roller coaster incident",
+    "Why Gen Z are planning for life without a state pension",
+    "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers"
   ]
 }
