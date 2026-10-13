@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791856777.7795253,
+  "last_signals": 1791857440.9380457,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791854919.1746871,
+    "5575146754|Gold|1H|range_in": 1791857440.9380457,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -66,14 +66,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -134,17 +134,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791856779.4443364
+    "DXY|1D:top": 1791857442.4772325
   },
-  "last_analysis": 1791857071.4119868,
-  "last_news": 1791856769.665786,
+  "last_analysis": 1791857433.367306,
+  "last_news": 1791857440.9371598,
   "seen_news": [
-    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
-    "Airbus SE (AIR) Reports Share Buybacks for Oct 5\u20139, 2026 - TradingView",
-    "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel s",
-    "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 b",
-    "I've been with my boyfriend for two years and don't know his salary",
-    "BMI Predicts Brent Crude Will Remain Above $100 for Months",
     "How to avoid getting stung if you miss credit card payments",
     "Dating app Bumble in advanced talks to go private at $1 billion valuation, sourc",
     "Chinese Yuan: Gradual appreciation with trade pressures \u2013 MUFG",
@@ -438,6 +432,12 @@
     "The virtual worlds where robots are trained",
     "Japan\u2019s Omron to buy US industrial PC firm\u00a0Onlogic for $675 million in physical ",
     "RBA Minutes: Case for rates to act promptly to keep inflation expectations ancho",
-    "PBOC sets USD/ CNY central rate at 6.7298 (vs. estimate at 6.6981), strongest si"
+    "PBOC sets USD/ CNY central rate at 6.7298 (vs. estimate at 6.6981), strongest si",
+    "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
+    "The global economy is starting to look K-shaped. Here are the winners and losers",
+    "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IM",
+    "UK growth upgraded but energy prices and rates to bite in 2027",
+    "Nikkei 225 slices below Ichimoku cloud near oversold RSI: Live",
+    "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar"
   ]
 }
