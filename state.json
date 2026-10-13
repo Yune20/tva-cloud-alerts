@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791901555.8224885,
+  "last_signals": 1791901968.5254385,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -82,11 +82,11 @@
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791901557.9845202,
-    "EUR/USD|1D:bot": 1791901557.6257184,
-    "US30|1D:top": 1791901557.080223
+    "DXY|1D:top": 1791901970.2146444,
+    "EUR/USD|1D:bot": 1791901969.7405117,
+    "US30|1D:top": 1791901969.3044877
   },
-  "last_analysis": 1791901536.1558702,
-  "last_news": 1791901555.8209026,
+  "last_analysis": 1791901961.9352572,
+  "last_news": 1791901968.5244434,
   "seen_news": [
-    "FX option expiries for 13 October 10am New York cut",
-    "H\u00e3ng bay c\u1ee7a t\u1ef7 ph\u00fa Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o l\u1ea7n \u0111\u1ea7u v\u01b0\u1ee3t kh\u1ecfi ch\u00e2u \u00c1 - Th\u00e1i B\u00ecnh ",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "Oil Retreats After Three-Day Rally - TradingView",
-    "Investors worry the bull market is getting old. But history shows it can continu",
-    "Visa gets Beijing's green light for bank card business after 40 years of working",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
     "IXIC: Nasdaq Futures Shed 1% as Chip Selloff in Asia Triggers Trading Halt - Tra",
     "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
@@ -442,6 +436,12 @@
     "Australian Dollar : Key support at 0.6935 in focus against US Dollar   \u2013 UOB",
     "Germany September final CPI +3.3% vs +3.3% y/y prelim",
     "Tr\u01b0\u1eddng qu\u1ed1c t\u1ebf \u1edf H\u00e0 N\u1ed9i thu h\u1ecdc ph\u00ed g\u1ea7n 1 t\u1ef7 \u0111\u1ed3ng/n\u0103m, ph\u00ed nh\u1eadp h\u1ecdc cao nh\u1ea5t l\u00ean",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
+    "BoE\u2019s Greene warns waiting for second-round inflation effects would be too late",
+    "Ch\u1ee7 k\u00eanh 'Gi\u00e0 l\u00e0ng T\u00e2y Nguy\u00ean' tr\u01b0\u1edbc khi b\u1ecb b\u1eaft",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
+    "Who should pay for a birthday dinner? I always treat my guests.",
+    "Apple releases HomeView smart home hub with screen as showcase for Siri AI"
   ]
 }
