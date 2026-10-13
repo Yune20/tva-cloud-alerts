@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791932171.2401009,
+  "last_signals": 1791932839.510198,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,11 +75,11 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791932173.2038329,
+    "DXY|1D:top": 1791932842.8271098,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791932172.3590891,
-    "GBP/USD|4H:top": 1791932172.6588595
+    "US30|1D:top": 1791932841.6320865,
+    "GBP/USD|4H:top": 1791932841.8569431
   },
-  "last_analysis": 1791932163.2580247,
-  "last_news": 1791932171.2391822,
+  "last_analysis": 1791932830.123848,
+  "last_news": 1791932839.5092528,
   "seen_news": [
-    "Euro finds support from softer US Dollar, French fiscal risks linger",
-    "Stock market movers today. Bumble, JPMorgan and AI stocks: Why market reactions ",
-    "Libya tri\u1ec7t ph\u00e1 \u0111\u01b0\u1eddng d\u00e2y bu\u00f4n l\u1eadu ma t\u00fay g\u1ea7n 1 tri\u1ec7u USD",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "Bulten\u2019s CFO to leave the company - TradingView",
-    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
     "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng l\u01b0\u01a1ng 19 tri\u1ec7u, chi 9 tri\u1ec7u \"l\u1ed9t x\u00e1c\" ph\u00f2ng ng\u1ee7",
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "Cairn Homes plc (CRN) Repurchases 95,872 Shares for Cancellation - TradingView",
@@ -443,6 +437,12 @@
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
     "Microsoft to launch Maia 300 AI chip in 2027 - TradingView",
     "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,00",
-    "Six Flags shares decline following deadly roller coaster incident"
+    "Six Flags shares decline following deadly roller coaster incident",
+    "World stocks dip on AI spending concerns; Brent settles lower - TradingView",
+    "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to ",
+    "Anthropic to disclose new revenue numbers as AI lab financials become central to",
+    "Royal Mail losing 400 postal workers a week, says union",
+    "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+    "Apple\u2019s HomeView brings personalized Siri to smart home, takes on Amazon and Goo"
   ]
 }
