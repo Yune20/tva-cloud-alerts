@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791889684.5550287,
+  "last_signals": 1791890291.6903157,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791889687.6149685,
-    "EUR/USD|1D:bot": 1791889686.8117776
+    "DXY|1D:top": 1791890293.217877,
+    "EUR/USD|1D:bot": 1791890292.876093
   },
-  "last_analysis": 1791889669.6885936,
-  "last_news": 1791889679.73267,
+  "last_analysis": 1791890281.342104,
+  "last_news": 1791890291.6893964,
   "seen_news": [
-    "$4,000 Gold Could Be Wall Street's Next Big Buying Opportunity",
-    "Dollar gains for fourth straight week on Fed rate outlook",
-    "Euro gathers strength above 1.1150 despite France\u2019s fiscal concerns",
-    "Goldman sees Europe reserve release cutting diesel by $11 but shrugs off Russian",
-    "Ph\u00e1t minh lo\u1ea1i g\u1ea1ch m\u1edbi cho ng\u00e0nh x\u00e2y d\u1ef1ng: Kh\u00f4ng c\u1ea7n nung \u1edf nhi\u1ec7t \u0111\u1ed9 cao, s\u1eed d\u1ee5",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
     "IMF sees smaller global slowdown as AI boom offsets war hit, but resilience is n",
     "HMV to close Oxford Street store after three years",
     "NTT Data in final talks to build Anthropic\u2019s first data centre in Japan, Nikkei ",
@@ -441,6 +435,12 @@
     "A SpaceX launch shortage is fueling a $100 billion investing spree",
     "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a",
     "The AI telling farmers when to harvest",
-    "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data"
+    "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
+    "Options traders expect wild stock-market swings beginning later this month. Here",
+    "The stock market is at a critical juncture. Wall Street is convinced it will res",
+    "How to avoid getting stung if you miss credit card payments",
+    "Why is Visa stock surging today?",
+    "Indian Rupee: RBI measures support but do not reverse trend \u2013 OCBC",
+    "Adam Button to Discuss Gold, Market Noise and Trading Risk in Webinar Next Week"
   ]
 }
