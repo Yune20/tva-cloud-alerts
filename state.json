@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791911678.0786915,
+  "last_signals": 1791912271.8589604,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,7 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
-    "5575146754|Gold|1D|range_in": 1791854301.7307174,
+    "5575146754|Gold|1D|range_in": 1791912271.8589604,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888
   },
@@ -70,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791911679.9414372,
-    "EUR/USD|1D:bot": 1791911679.5595074,
-    "US30|1D:top": 1791911679.1781042
+    "DXY|1D:top": 1791912274.187975,
+    "EUR/USD|1D:bot": 1791912273.804126,
+    "US30|1D:top": 1791912273.3558333
   },
   "last_analysis": 1791911977.5983915,
-  "last_news": 1791911673.3448324,
+  "last_news": 1791912271.8582027,
   "seen_news": [
-    "BlackRock cuts US stocks to neutral and buys Treasuries as 10-year yield nears 5",
-    "\u201cCh\u1ea5t Ngh\u1ec7\u201d, \u201cch\u1ea5t Vinh\u201d t\u1ea1i bi\u1ec3u t\u01b0\u1ee3ng s\u1ed1ng m\u1edbi gi\u1eefa l\u00f5i trung t\u00e2m Vinh",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
-    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
-    "My wife says we can\u2019t afford to retire. We have $4 million. Do I just keep worki",
-    "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
     "Schaeffler releases preliminary numbers for first nine months of 2026 - TradingV",
     "What to expect from Europe\u2019s most valuable company before it kicks off tech earn",
@@ -442,6 +436,12 @@
     "Roofing scammers con homeowners out of thousands of pounds",
     "China\u2019s $3 Billion Qatar LNG Deal Raises an Awkward Question",
     "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
-    "EUR/GBP Price Forecast: Downtrend remains firm despite deeply oversold RSI"
+    "EUR/GBP Price Forecast: Downtrend remains firm despite deeply oversold RSI",
+    "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as i",
+    "Rainmakers: The drones used to seed clouds",
+    "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
+    "New Zealand Dollar recovers on weaker US Dollar, softer Oil ahead key US CPI",
+    "USDCAD sellers regain control, but key swing support stands in the way",
+    "Vi\u1ec7t Nam c\u00f3 \u00c1 khoa Nh\u1ea1c vi\u1ec7n 2 l\u1ea7n \u0111\u01b0\u1ee3c vinh danh qu\u1ed1c t\u1ebf: S\u1ef1 nghi\u1ec7p r\u1ef1c r\u1ee1, c\u01b0\u1edb"
   ]
 }
