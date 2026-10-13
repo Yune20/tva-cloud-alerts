@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791915031.887901,
+  "last_signals": 1791915650.0341358,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,14 +70,14 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791915035.5250049,
-    "EUR/USD|1D:bot": 1791915034.7789323,
-    "US30|1D:top": 1791915034.0817997
+    "DXY|1D:top": 1791915651.6688118,
+    "EUR/USD|1D:bot": 1791915651.233888,
+    "US30|1D:top": 1791915650.8333669
   },
-  "last_analysis": 1791915021.7036002,
-  "last_news": 1791915031.879678,
+  "last_analysis": 1791915641.9183717,
+  "last_news": 1791915650.0332477,
   "seen_news": [
-    "Equinor signs third long-term gas deal with Eneco this year - TradingView",
-    "Newlywed Jim Carrey lists $35 million Maui waterfront mansion",
-    "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
-    "Citroen revives the 2CV for an electric age",
-    "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
-    "Analysis-Democratic midterm wins could bring scrutiny for Wall Street, crypto fi",
     "Exclusive-Behind AI industry\u2019s call for independent reviews, a fight over what g",
     "Equities: Earnings beats seen versus consensus \u2013 Deutsche Bank",
     "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
@@ -442,6 +436,12 @@
     "Forex Today: US inflation comes to the fore",
     "Oil prices retreat despite persistent Middle East tensions and stalled US-Iran n",
     "N\u1eef k\u1ef9 s\u01b0 h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 b\u1ecf ngh\u1ec1 v\u1ec1 b\u00e1n \u0111\u1ed3 \u0103n b\u00ecnh d\u00e2n: Kh\u1edfi nghi\u1ec7p v\u1edbi ch\u01b0a \u0111",
-    "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock"
+    "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock",
+    "EUR/USD Price Forecast: RSI signals stretched selling pressure",
+    "IMF\u2019s Georgieva calls AI a slow-moving tsunami (again) for jobs as graduates fee",
+    "4 b\u00e0i h\u1ecdc cay \u0111\u1eafng v\u1ec1 \u0111\u1ed3ng ti\u1ec1n ch\u1ec9 khi ra \u0111\u1eddi m\u1edbi th\u1ea5m",
+    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
+    "PagSeguro Digital Director Sold Shares Worth Over $3.6M - TradingView",
+    "Gen Z renters are the only group more likely to feel successful by investing tha"
   ]
 }
