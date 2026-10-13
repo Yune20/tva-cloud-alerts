@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791900764.9845006,
-  "last_bot4": 1791902246.114455,
+  "last_bot4": 1791903118.2644167,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791902563.5305936,
+  "last_signals": 1791903118.265065,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -84,7 +84,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791902567.48124,
-    "EUR/USD|1D:bot": 1791902566.6676843,
-    "US30|1D:top": 1791902565.8444166
+    "DXY|1D:top": 1791903120.3725564,
+    "EUR/USD|1D:bot": 1791903119.9885552,
+    "US30|1D:top": 1791903119.6496112
   },
-  "last_analysis": 1791902555.0481615,
-  "last_news": 1791902563.527435,
+  "last_analysis": 1791903105.6272016,
+  "last_news": 1791903118.2634325,
   "seen_news": [
-    "Brazilian stocks are breaking out as investors look for opportunities beyond tec",
-    "Cyber attack hits hundreds of French supermarkets, heating fridges to 122\u00b0F and ",
-    "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
-    "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.84%",
-    "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearis",
-    "More on Standard Chartered adding RLUSD custody in Dubai, eyes LMAX collateral l",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "Australia stocks higher at close of trade; S&P/ASX 200 up 0.01%",
     "British Pound trades subduedly against Japanese Yen, BoE\u2019s Greene supports quick",
@@ -442,6 +436,12 @@
     "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to ",
     "Six Flags shares decline following report of deadly roller coaster incident",
     "Why Gen Z are planning for life without a state pension",
-    "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers"
+    "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
+    "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,00",
+    "Six Flags shares decline following deadly roller coaster incident",
+    "What are your rights on auto-renew subscriptions?",
+    "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
+    "S&P upgrades Kioxia to BBB on strong AI-driven growth and upbeat outlook",
+    "Australian Dollar edges higher as softer US Dollar, hawkish RBA offer support"
   ]
 }
