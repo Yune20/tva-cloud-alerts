@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791933451.2598999,
+  "last_signals": 1791934046.2565339,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,10 +74,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791932842.8271098,
+    "DXY|1D:top": 1791934047.8974223,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791932841.6320865,
-    "GBP/USD|4H:top": 1791933452.4092808
+    "GBP/USD|4H:top": 1791934047.3662043
   },
   "last_analysis": 1791933750.973814,
-  "last_news": 1791933445.6062365,
+  "last_news": 1791934046.2558608,
   "seen_news": [
-    "KuCoin Nigeria Limited Gets Conditional SEC Nigeria AIP for ARIP - TradingView",
-    "\u2018Pharma Bro\u2019 Martin Shkreli is in trouble with regulators again, this time for i",
-    "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-    "Heating oil customers face tough winter despite shake-up promise",
-    "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
-    "Boeing delivers 57 jets in September, highest monthly total for year",
     "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because ",
     "Fridges in French supermarkets hit by cyber attack",
     "Saudi Arabia Becomes the Oil Market\u2019s Biggest Wild Card",
@@ -443,6 +437,12 @@
     "Is it OK for jobseekers or employers to use AI?",
     "GameStop CEO Cohen buys shares worth nearly $23 million",
     "Silver Price Forecast: XAG/USD struggles near two-month lows ahead of US CPI",
-    "UBS sees 28% Q3 S&P 500 earnings growth, says AI and cyclicals can lift US stock"
+    "UBS sees 28% Q3 S&P 500 earnings growth, says AI and cyclicals can lift US stock",
+    "How long will humans be needed for translation?",
+    "AT&T sells Mexico unit to Televisa, Fintech for $2 billion",
+    "Yen trails the majors as the BoJ is said to lean against a hike",
+    "Morgan Stanley lifts Brent forecast to $105 as costly freight favours short-haul",
+    "T\u0103ng Thanh H\u00e0 tranh gi\u1ea3i m\u1ef9 nh\u00e2n \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance"
   ]
 }
