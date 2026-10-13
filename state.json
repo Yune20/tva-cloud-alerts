@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791861742.2153902,
+  "last_signals": 1791862362.7287552,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -66,7 +66,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -77,7 +77,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -134,17 +134,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791861746.0683227
+    "DXY|1D:top": 1791862364.4542515
   },
-  "last_analysis": 1791861733.6531487,
-  "last_news": 1791861742.2146604,
+  "last_analysis": 1791862354.848175,
+  "last_news": 1791862362.7278662,
   "seen_news": [
-    "Signet Jewelers options analysis: a bull call spread targets $115 by November",
-    "South Korean Won: Uptrend seen resuming against US Dollar \u2013 Societe Generale",
-    "Tension in the releases sent crude oil prices to a new high",
-    "Ph\u00f3 gi\u00e1o s\u01b0 n\u1ed5i ti\u1ebfng Vi\u1ec7t Nam m\u1ea5t 5.000 t\u1ef7 \u0111\u1ed3ng t\u1eeb \u0111\u1ea7u n\u0103m",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
-    "eBay Stock Rises as Morgan Stanley Names It a Top Pick - TradingView",
     "investingLive European session wrap: Oil rebounds, dollar firms as US bond marke",
     "Kh\u00f4ng c\u1ea7n nh\u1eadp d\u00e2y chuy\u1ec1n 20 tri\u1ec7u USD, t\u1eadn d\u1ee5ng h\u1ec7 th\u1ed1ng s\u1ea3n xu\u1ea5t l\u1ed1p \u00f4 t\u00f4, doa",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
@@ -438,6 +432,12 @@
     "NTT Data in final talks to build Anthropic\u2019s first data centre in Japan, Nikkei ",
     "BoE\u2019s Greene: Warns of second-round inflation effects if we act late",
     "BoE\u2019s Greene warns waiting for second-round inflation effects would be too late",
-    "C\u00f4ng an \u0111\u1ec1 ngh\u1ecb 576 ch\u1ee7 ph\u01b0\u01a1ng ti\u1ec7n vi ph\u1ea1m mang bi\u1ec3n s\u1ed1 sau nhanh ch\u00f3ng n\u1ed9p ph\u1ea1"
+    "C\u00f4ng an \u0111\u1ec1 ngh\u1ecb 576 ch\u1ee7 ph\u01b0\u01a1ng ti\u1ec7n vi ph\u1ea1m mang bi\u1ec3n s\u1ed1 sau nhanh ch\u00f3ng n\u1ed9p ph\u1ea1",
+    "Why is Baby Bunting stock surging today?",
+    "WTI holds gains above $91.50 as Russia attacks Ukrainian power plant",
+    "What are the main events for today?",
+    "S\u1ef1 th\u1eadt cu\u1ed9c ph\u1ecfng v\u1ea5n g\u00e2y b\u00e3o m\u1ea1ng c\u1ee7a Ronaldo gi\u1eefa l\u00f9m x\u00f9m b\u1ecf tuy\u1ec3n B\u1ed3 \u0110\u00e0o Nha",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "SPCX: SpaceX Stock Extends Gains After Mobile Push Sends Telecoms Tumbling - Tra"
   ]
 }
