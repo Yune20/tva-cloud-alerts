@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791923846.5920308,
+  "last_signals": 1791924439.0354521,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791923848.8356493,
-    "EUR/USD|1D:bot": 1791923848.3234189,
-    "US30|1D:top": 1791923847.7896307,
-    "GBP/USD|4H:top": 1791923848.1220312
+    "DXY|1D:top": 1791924442.701402,
+    "EUR/USD|1D:bot": 1791924442.0040023,
+    "US30|1D:top": 1791924441.230647,
+    "GBP/USD|4H:top": 1791924441.6091967
   },
   "last_analysis": 1791924151.125536,
-  "last_news": 1791923843.8953528,
+  "last_news": 1791924439.0348258,
   "seen_news": [
-    "British Pound: Firmer ground with BoE hike risk \u2013 ING",
-    "Is the AI bubble bursting?",
-    "3 b\u1ed9 ph\u1eadn c\u1ee7a con l\u1ee3n ch\u1ee9a nhi\u1ec1u cholesterol h\u01a1n c\u1ea3 th\u1ecbt m\u1ee1: To\u00e0n m\u00f3n \u201ckho\u00e1i kh\u1ea9",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
-    "Ailux Appoints Lloyd S. Miller as Chief Medical Officer - TradingView",
-    "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
     "Paul Tudor Jones says 2027 could be a really challenging year for the stock mark",
     "How the oil capital of the US welcomed a solar power boom",
     "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market",
@@ -443,6 +437,12 @@
     "Bank of America fined $1.2 billion over money-laundering violations",
     "Why are more roofs not made of solar tiles?",
     "Pakistan Faces $1 Billion LNG Bill This Winter",
-    "Fitch shifts Lennar outlook to negative on margin compression and demand risks"
+    "Fitch shifts Lennar outlook to negative on margin compression and demand risks",
+    "Vietcap d\u1ef1 b\u00e1o b\u1ea5t ng\u1edd v\u1ec1 l\u1ee3i nhu\u1eadn PNJ trong 7 n\u0103m t\u1edbi",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
+    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
+    "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her n",
+    "The AI telling farmers when to harvest"
   ]
 }
