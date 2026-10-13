@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791863899.0134683,
+  "last_signals": 1791864525.6591754,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791857440.9380457,
+    "5575146754|Gold|1H|range_in": 1791864525.6591754,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -66,8 +66,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|1H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -130,21 +130,15 @@
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
     "US30|4H:top": 1791832956.6096997,
-    "DXY|4H:top": 1791850012.125442,
+    "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791863900.5821636
   },
-  "last_analysis": 1791863890.883362,
-  "last_news": 1791863899.0126264,
+  "last_analysis": 1791864508.2012584,
+  "last_news": 1791864525.6580641,
   "seen_news": [
-    "Di\u1ec5n bi\u1ebfn m\u1edbi nh\u1ea5t t\u1ea1i tuy\u1ebfn metro h\u01a1n 60.000 t\u1ef7 \u0111\u1ed3ng, n\u1ed1i th\u1eb3ng th\u00e0nh ph\u1ed1 gi\u00e0u ",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
-    "International Paper Declares Quarterly Dividend - TradingView",
-    "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial",
-    "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    "Unison taps banks for US IPO seeking up to $500 million - Bloomberg",
     "RTX advances naval radar, counter-drone tech, expands Vietjet maintenance deal -",
     "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
     "X-planes: Are they needed in the new era of drones?",
@@ -438,6 +432,12 @@
     "Japanese Yen strengthens despite softer PPI data",
     "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down ",
     "68 tu\u1ed5i, \u201cm\u1ef9 nh\u00e2n th\u01b0\u1ee3ng l\u01b0u\u201d \u0110\u00e0i Loan b\u1ea5t ng\u1edd t\u00e1i xu\u1ea5t: L\u00e0n da c\u0103ng s\u00e1ng g\u00e2y ch",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
+    "Why are more roofs not made of solar tiles?",
+    "Why is SoftBank Group stock tumbling today?",
+    "Asian stock markets plunge, KOSPI faces bloodbath amid chip competition from Chi",
+    "investingLive European session wrap: Oil rebounds, dollar firms as US bond marke",
+    "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi th\u1ea5t nghi\u1ec7p c\u00f3 16,3 t\u1ef7 \u0111\u1ed3ng",
+    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance"
   ]
 }
