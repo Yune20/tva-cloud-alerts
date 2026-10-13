@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791926322.617557,
+  "last_signals": 1791926933.7926526,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791926324.2131903,
-    "EUR/USD|1D:bot": 1791926323.799494,
-    "US30|1D:top": 1791926323.4963634,
+    "DXY|1D:top": 1791926937.698764,
+    "EUR/USD|1D:bot": 1791926936.8502023,
+    "US30|1D:top": 1791926935.8959649,
     "GBP/USD|4H:top": 1791925044.7779698
   },
-  "last_analysis": 1791926314.2874134,
-  "last_news": 1791926322.6169326,
+  "last_analysis": 1791926917.263279,
+  "last_news": 1791926933.7918148,
   "seen_news": [
-    "Australian Dollar: RBA inflation focus shapes outlook \u2013 Commerzbank",
-    "Why a few bad trades can undo weeks of trading profits",
-    "T\u00e1i c\u01a1 c\u1ea5u EVN: T\u00e1ch truy\u1ec1n t\u1ea3i \u0111i\u1ec7n l\u00fac n\u00e0y c\u00f3 c\u1ea7n thi\u1ebft?",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "Develia Unit Acquires Real Estate In Warsaw For 149.2 Mln Zlotys - TradingView",
-    "This one move will save $20,000 on our wedding",
     "ClearBridge Sustainability Leaders Strategy adds new positions, exits others - T",
     "Millions of Americans will have fewer options during Medicare open enrollment th",
     "Micron, Seagate, Western Digital sink as chip sell-off deepens",
@@ -443,6 +437,12 @@
     "Needham reiterates Buy rating on MongoDB, $430 price target - TradingView",
     "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm.",
     "Saudi national OpenAI employee arrested after 'sophisticated recording device' p",
-    "X-planes: Are they needed in the new era of drones?"
+    "X-planes: Are they needed in the new era of drones?",
+    "AGM Group clears Nasdaq filing issue after delayed 2025 report - TradingView",
+    "Micron\u2019s stock extends declines as China competition heats up",
+    "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conf",
+    "Saudi national charged with secretly planting recording device in OpenAI office",
+    "Five Shale Stocks to Watch Before Third-Quarter Earnings",
+    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally"
   ]
 }
