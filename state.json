@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791898970.2809863,
+  "last_signals": 1791899575.298738,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -72,9 +72,9 @@
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791898972.2991872,
-    "EUR/USD|1D:bot": 1791898971.8203678,
-    "US30|1D:top": 1791898971.2484431
+    "DXY|1D:top": 1791899578.8449562,
+    "EUR/USD|1D:bot": 1791899577.8583426,
+    "US30|1D:top": 1791899577.150741
   },
-  "last_analysis": 1791898953.1704135,
-  "last_news": 1791898970.2801828,
+  "last_analysis": 1791899554.5127013,
+  "last_news": 1791899575.2979624,
   "seen_news": [
-    "Khi ng\u01b0\u1eddi mua chung c\u01b0 l\u1ea5y l\u1ea1i quy\u1ec1n l\u1ef1a ch\u1ecdn",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Iron ore dips as ample supply, declining freight rates weigh - TradingView",
-    "Why older Americans' wealth may be helping keep consumer spending strong",
-    "AI minister warns 'likely' UK's cyber defences will be breached",
-    "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
     "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
     "Here's a calculator to explain why Cramer always stays invested. Plug in your ow",
@@ -442,6 +436,12 @@
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance",
     "Aditya Birla Renewables Eyes USD 1.5 Billion Loan for Shell Deal - TradingView",
     "Micron\u2019s stock extends declines as China competition heats up",
-    "Micron drops 5% as tech stocks rattled by China chip breakthrough claims"
+    "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
+    "Australian Dollar: RBA inflation focus shapes outlook \u2013 Commerzbank",
+    "Why a few bad trades can undo weeks of trading profits",
+    "T\u00e1i c\u01a1 c\u1ea5u EVN: T\u00e1ch truy\u1ec1n t\u1ea3i \u0111i\u1ec7n l\u00fac n\u00e0y c\u00f3 c\u1ea7n thi\u1ebft?",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "Develia Unit Acquires Real Estate In Warsaw For 149.2 Mln Zlotys - TradingView",
+    "This one move will save $20,000 on our wedding"
   ]
 }
