@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791867630.4070137,
-  "last_bot4": 1791874951.0917294,
+  "last_bot4": 1791875917.4677656,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791874951.0916376
+    "Gold": 1791875917.4676623
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791875553.3569999,
+  "last_signals": 1791875917.468542,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791875554.8076427,
-    "EUR/USD|1D:bot": 1791875554.5069015
+    "DXY|1D:top": 1791875919.0379395,
+    "EUR/USD|1D:bot": 1791875918.7133398
   },
-  "last_analysis": 1791875545.601143,
-  "last_news": 1791875553.3561492,
+  "last_analysis": 1791875907.0635006,
+  "last_news": 1791875914.9720824,
   "seen_news": [
-    "Google launches Project Suncatcher satellite into orbit",
-    "The British Pound drifts back to its floor as Crude Oil lifts the Dollar",
-    "Goldman Sachs sees three ways to rein in French bond spread as oil and politics ",
-    "4 t\u00e0i h\u1ed9i t\u1ee5 th\u00e1ng 9 \u00e2m: 4 con gi\u00e1p d\u1ec5 t\u0103ng thu nh\u1eadp, t\u00edch s\u1ea3n v\u00e0 m\u1edf r\u1ed9ng l\u00e0m \u0103n",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "Weekly Recap: Nomura sees EICHERMOT beat 2QFY27 and bounce at 6.7k\u20136.8k - Tradin",
     "Broadcom CEO likens AI boom to a casino even as he targets $230 billion in chip ",
     "Ph\u00e1t minh m\u1edbi c\u1ee7a Nga l\u00e0m rung chuy\u1ec3n ng\u00e0nh v\u1eadt li\u1ec7u:  t\u1ea1o ra kim lo\u1ea1i t\u1ef1 ph\u1ee5c h",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -441,6 +435,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Cairn Homes plc (CRN) Repurchases 95,872 Shares for Cancellation - TradingView",
     "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan g",
-    "I earn \u00a3120,000 a year making social media videos go viral"
+    "I earn \u00a3120,000 a year making social media videos go viral",
+    "Nh\u1eadn 471 tri\u1ec7u \u0111\u1ed3ng ti\u1ec1n b\u00e1n v\u00e0ng, m\u1ed9t sinh vi\u00ean b\u1ecb phong t\u1ecfa to\u00e0n b\u1ed9 t\u00e0i kho\u1ea3n ",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "ASX 200 Closes Steady - TradingView",
+    "The bull market turned 4 years old on Monday. Investors say reaching a fifth bir",
+    "Heating oil customers face tough winter despite shake-up promise",
+    "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market"
   ]
 }
