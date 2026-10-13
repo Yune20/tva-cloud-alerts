@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791856777.776438,
+  "last_news_report": 1791867630.4070137,
   "last_bot4": 1791867296.07825,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791867005.6898682,
+  "last_signals": 1791867630.4080465,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -53,7 +53,8 @@
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791854301.7307174,
-    "5575146754|Gold|1H|trap_up": 1791867005.6898682
+    "5575146754|Gold|1H|trap_up": 1791867005.6898682,
+    "5575146754|Gold|1H|momo_up": 1791867630.4080465
   },
   "sig_range": {
     "Gold": true,
@@ -135,17 +136,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791867007.4953735
+    "DXY|1D:top": 1791867632.432203
   },
-  "last_analysis": 1791866998.2170143,
-  "last_news": 1791867005.689225,
+  "last_analysis": 1791867614.4801598,
+  "last_news": 1791867623.4888604,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "Hogs Look to Monday Amid Weakness - TradingView",
-    "Starbucks says it is not buying Chipotle after takeover speculation",
-    "My hometown shows that high streets have to change or die",
-    "Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of pl",
-    "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight",
     "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
     "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
     "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
@@ -439,6 +434,12 @@
     "Thanh kho\u1ea3n chung c\u01b0 m\u1edbi \u1edf H\u00e0 N\u1ed9i gi\u1ea3m \u0111\u1ebfn 50%",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
     "Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall - TradingView",
-    "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest los"
+    "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest los",
+    "Doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n do b\u00e0 D\u01b0\u01a1ng Th\u1ecb Mai Hoa \u0111i\u1ec1u h\u00e0nh t\u0103ng v\u1ed1n l\u00ean 2.600 t",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
+    "Micron authorizes record $35.16B share buyback program starting Dec. 9 - Trading",
+    "Earnings beats are now the norm. What the stock market needs to keep rallying",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market"
   ]
 }
