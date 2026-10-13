@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791887782.9267435,
+  "last_signals": 1791888451.6954749,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -84,7 +84,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791887786.3623652,
-    "EUR/USD|1D:bot": 1791887785.6938019
+    "DXY|1D:top": 1791888453.076645,
+    "EUR/USD|1D:bot": 1791888452.7909722
   },
-  "last_analysis": 1791888084.9273524,
-  "last_news": 1791887782.9256566,
+  "last_analysis": 1791888441.5191004,
+  "last_news": 1791888451.694569,
   "seen_news": [
-    "PBOC is expected to set the USD/CNY reference rate at 6.6981 \u2013 Reuters estimate",
-    "Quan ch\u1ee9c Fed ph\u00e1t t\u00edn hi\u1ec7u ti\u1ebfp t\u1ee5c t\u0103ng l\u00e3i su\u1ea5t, th\u1ecb tr\u01b0\u1eddng c\u01b0\u1ee3c g\u1ea7n 90% Fed ",
-    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ | VietstockFinance - VietstockFinance",
-    "Weekly Recap: FY26 strong earnings for NSE:BEL and Kotak upgrade with cut PT - T",
-    "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,",
-    "How Red Bull's F1 team is using AI to make split-second decisions for Max Versta",
     "Why is Samsung Electronics stock plunging today?",
     "United States Dollar Index eases from 18-month peak; slips below 102.50",
     "Goldman Sachs says yuan undervalued by up to 25% and markets underestimate how f",
@@ -441,6 +435,12 @@
     "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
     "Citroen revives the 2CV for an electric age",
     "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
-    "Analysis-Democratic midterm wins could bring scrutiny for Wall Street, crypto fi"
+    "Analysis-Democratic midterm wins could bring scrutiny for Wall Street, crypto fi",
+    "Exclusive-Behind AI industry\u2019s call for independent reviews, a fight over what g",
+    "Equities: Earnings beats seen versus consensus \u2013 Deutsche Bank",
+    "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
+    "C\u1ed5 phi\u1ebfu PNJ b\u1ea5t ng\u1edd t\u0103ng c\u1eadn tr\u1ea7n gi\u1eefa phi\u00ean ch\u1ee9ng kho\u00e1n \u201c\u0111\u1ecf l\u1eeda\u201d",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra"
   ]
 }
