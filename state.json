@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791903457.5690885,
+  "last_signals": 1791904040.209576,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -131,24 +131,18 @@
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
-    "US30|4H:top": 1791903458.5352507,
+    "US30|4H:top": 1791904041.756312,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791903459.208457,
-    "EUR/USD|1D:bot": 1791903458.865556,
-    "US30|1D:top": 1791903458.5352702
+    "DXY|1D:top": 1791904042.9889271,
+    "EUR/USD|1D:bot": 1791904042.336803,
+    "US30|1D:top": 1791904041.7563226
   },
-  "last_analysis": 1791903447.745556,
-  "last_news": 1791903457.5682197,
+  "last_analysis": 1791904027.2645469,
+  "last_news": 1791904040.208871,
   "seen_news": [
-    "Standard Chartered custody for Ripple\u2019s RLUSD: what custody and collateral mirro",
-    "Nam danh h\u00e0i n\u1ed5i ti\u1ebfng m\u1ed9t th\u1eddi gi\u1edd ph\u1ea3i r\u1eddi s\u00e2n kh\u1ea5u, \u0111i b\u00e1n chu\u1ed1i c\u0169ng n\u1ee3 n\u1ea7n,",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "REG - Greencore Group PLC - Q4 Trading Update - TradingView",
-    "Microsoft hits a big milestone that solidifies its revival",
-    "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as \u2018mo",
     "Preview: RBA minutes and jobs data headline Australia\u2019s week ahead, with unemplo",
     "Ph\u00e1t hi\u1ec7n 3 xe t\u1ea3i chuy\u00ean d\u1ee5ng di chuy\u1ec3n c\u00f9ng \u0111o\u00e0n xe h\u1ed9 t\u1ed1ng, v\u1eadn chuy\u1ec3n thi\u1ebft ",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -442,6 +436,12 @@
     "Global Coal Demand Rises as LNG Shortage Deepens",
     "SpaceX and SanDisk among market cap stock movers on Tuesday",
     "Indian Rupee: RBI defense limits losses against US Dollar \u2013 Societe Generale",
-    "Crude oil futures rebound and pushed back into positive territory"
+    "Crude oil futures rebound and pushed back into positive territory",
+    "Anthropic to disclose new revenue numbers as AI lab financials become central to",
+    "Dating app Bumble bought for $1.3bn",
+    "Eli Lilly leads large-cap pharma on growth, but valuation is a trade-off",
+    "Copper: El Ni\u00f1o risks cap African supply growth \u2013 Societe Generale",
+    "FX option expiries for 13 October 10am New York cut",
+    "Sao nh\u00ed m\u1edbi 7 tu\u1ed5i \u0111\u00e3 mua 6 c\u0103n nh\u00e0"
   ]
 }
