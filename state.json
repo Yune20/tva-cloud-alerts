@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791867630.4070137,
-  "last_bot4": 1791867296.07825,
+  "last_bot4": 1791867973.99438,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791867630.4080465,
+  "last_signals": 1791867973.9950783,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -87,13 +87,13 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -136,17 +136,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791867632.432203
+    "DXY|1D:top": 1791867975.6589923
   },
-  "last_analysis": 1791867614.4801598,
-  "last_news": 1791867623.4888604,
+  "last_analysis": 1791867965.668732,
+  "last_news": 1791867973.9934912,
   "seen_news": [
-    "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-    "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
-    "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
-    "CREA: India Curtailed Over 4% of Its Solar Output in July and August",
-    "Euro zone ministers tell France to pass 2027 budget to calm markets",
-    "Forex Today: US Dollar hits 17-month high, RBA minutes and Fed speaking up next",
     "H\u01a1n 8 tri\u1ec7u ng\u01b0\u1eddi d\u00e2n H\u00e0 N\u1ed9i chu\u1ea9n b\u1ecb ch\u1ee9ng ki\u1ebfn s\u1ef1 thay \u0111\u1ed5i quan tr\u1ecdng tr\u00ean to\u00e0",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "J&J long-term Tremfya data demonstrates Crohn's remission through three years - ",
@@ -440,6 +434,12 @@
     "Micron authorizes record $35.16B share buyback program starting Dec. 9 - Trading",
     "Earnings beats are now the norm. What the stock market needs to keep rallying",
     "How the oil capital of the US welcomed a solar power boom",
-    "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market"
+    "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market",
+    "Y\u1ebfu th\u1ebf h\u01a1n h\u1eb3n \u1ea4n \u0110\u1ed9, Th\u00e1i Lan nh\u01b0ng Vi\u1ec7t Nam v\u1eabn \u0111\u01b0\u1ee3c \u0111\u1ea1i b\u00e0ng M\u1ef9 ch\u1ecdn \u0111\u1eb7t nh\u00e0",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
+    "Starbucks says it is not buying Chipotle after takeover speculation",
+    "Spain battles climate change on several fronts",
+    "EUR/USD outlook as euro stays pinned near multi month lows"
   ]
 }
