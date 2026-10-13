@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791887159.965453,
+  "last_signals": 1791887782.9267435,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,16 +77,16 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791887161.457684,
-    "EUR/USD|1D:bot": 1791887161.122859
+    "DXY|1D:top": 1791887786.3623652,
+    "EUR/USD|1D:bot": 1791887785.6938019
   },
-  "last_analysis": 1791887147.6210625,
-  "last_news": 1791887159.9647462,
+  "last_analysis": 1791887771.532406,
+  "last_news": 1791887782.9256566,
   "seen_news": [
-    "Why is Six Flags Entertainment stock sliding after-hours today?",
-    "Silver Price Forecast: XAG/USD falls to near $60.00 amid higher oil prices, US D",
-    "Kospi plunges more than 6% below 6,000 as chip selloff and oil fears hit Asian s",
-    "Lo\u1ea1i gia v\u1ecb \u201cph\u00e1\u201d gan kh\u00f4ng k\u00e9m r\u01b0\u1ee3u bia n\u1ebfu l\u1ea1m d\u1ee5ng: Ng\u01b0\u1eddi Vi\u1ec7t \u0111ang d\u00f9ng v\u01b0\u1ee3t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
-    "C3.ai upgraded by Northland Capital to Outperform - TradingView",
     "PBOC is expected to set the USD/CNY reference rate at 6.6981 \u2013 Reuters estimate",
     "Quan ch\u1ee9c Fed ph\u00e1t t\u00edn hi\u1ec7u ti\u1ebfp t\u1ee5c t\u0103ng l\u00e3i su\u1ea5t, th\u1ecb tr\u01b0\u1eddng c\u01b0\u1ee3c g\u1ea7n 90% Fed ",
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ | VietstockFinance - VietstockFinance",
@@ -441,6 +435,12 @@
     "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal ",
     "AI is less regulated than milk, says Microsoft president",
     "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued ",
-    "Swiss Franc's recovery stalls despite broad-based US Dollar weakness"
+    "Swiss Franc's recovery stalls despite broad-based US Dollar weakness",
+    "Equinor signs third long-term gas deal with Eneco this year - TradingView",
+    "Newlywed Jim Carrey lists $35 million Maui waterfront mansion",
+    "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+    "Citroen revives the 2CV for an electric age",
+    "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
+    "Analysis-Democratic midterm wins could bring scrutiny for Wall Street, crypto fi"
   ]
 }
