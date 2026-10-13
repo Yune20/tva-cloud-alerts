@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791875917.468542,
+  "last_signals": 1791876525.2331083,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -83,7 +83,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791875919.0379395,
-    "EUR/USD|1D:bot": 1791875918.7133398
+    "DXY|1D:top": 1791876527.917846,
+    "EUR/USD|1D:bot": 1791876527.3475826
   },
-  "last_analysis": 1791875907.0635006,
-  "last_news": 1791875914.9720824,
+  "last_analysis": 1791876517.2090833,
+  "last_news": 1791876525.2322443,
   "seen_news": [
-    "Broadcom CEO likens AI boom to a casino even as he targets $230 billion in chip ",
-    "Ph\u00e1t minh m\u1edbi c\u1ee7a Nga l\u00e0m rung chuy\u1ec3n ng\u00e0nh v\u1eadt li\u1ec7u:  t\u1ea1o ra kim lo\u1ea1i t\u1ef1 ph\u1ee5c h",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Top S&P 500 stocks soar over 2,000% since 2022 low - TradingView",
-    "McDonald's is leaning into chicken and drinks to grow. New data shows it could b",
-    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
     "H\u01a1n 50 k\u1ef7 l\u1ee5c nhi\u1ec7t \u0111\u1ed9 b\u1ecb ph\u00e1 v\u1ee1, m\u00f9a \u0110\u00f4ng n\u0103m nay r\u00e9t th\u1ebf n\u00e0o?",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Cairn Homes plc (CRN) Buys Back 100,000 Shares for Cancellation - TradingView",
@@ -441,6 +435,12 @@
     "ASX 200 Closes Steady - TradingView",
     "The bull market turned 4 years old on Monday. Investors say reaching a fifth bir",
     "Heating oil customers face tough winter despite shake-up promise",
-    "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market"
+    "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market",
+    "Invitation to Aira's Q3 2026 Earnings Call - TradingView",
+    "CNBC Daily Open: 'Boring' trumps disorder and volatility",
+    "Fridges in French supermarkets hit by cyber attack",
+    "Trump Curbs Farmers\u2019 Access to Funding for Energy Projects",
+    "Why is Finnair stock surging today?",
+    "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50"
   ]
 }
