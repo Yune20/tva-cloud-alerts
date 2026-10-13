@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791900764.9845006,
-  "last_bot4": 1791909441.7212367,
+  "last_bot4": 1791910129.9953623,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791909764.3770292,
+  "last_signals": 1791910129.9959834,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791909767.8715634,
-    "EUR/USD|1D:bot": 1791909767.2160428,
-    "US30|1D:top": 1791909766.3379967
+    "DXY|1D:top": 1791910133.1151447,
+    "EUR/USD|1D:bot": 1791910132.327219,
+    "US30|1D:top": 1791910131.7537694
   },
-  "last_analysis": 1791909752.3577797,
-  "last_news": 1791909764.376175,
+  "last_analysis": 1791910119.6954336,
+  "last_news": 1791910129.994487,
   "seen_news": [
-    "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock",
-    "Chipotle Stock Slips as Starbucks Denies Takeover Plan - TradingView",
-    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
-    "Anthropic warns AI models could soon copy themselves across home devices",
-    "Publicly owned rail is popular. But is it making the trains run on time?",
-    "European Natural Gas Prices Headed for Multi-Year Highs",
     "This one chart from the IMF tells the entire story of the world economy this yea",
     "In charts: How one of the world's biggest economies got trapped by debt",
     "Roofing scammers con homeowners out of thousands of pounds",
@@ -442,6 +436,12 @@
     "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
     "European stocks close mostly lower as Middle East tensions keep oil elevated",
     "Ngo\u00e0i 40 tu\u1ed5i, ng\u01b0\u1eddi m\u1eb9 d\u1eady t\u1eeb 4 gi\u1edd s\u00e1ng \u0111\u1ec3 l\u00e0m h\u1ebft vi\u1ec7c nh\u00e0 tr\u01b0\u1edbc khi \u0111i l\u00e0m: ",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc"
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Why is MongoDB stock rallying today?",
+    "Neither a breakout nor a reversal: What OCBC, Commerzbank and ING expect from th",
+    "Chart of the day: EUR/CHF bounces this week but French bond spreads warn euro ri",
+    "\u0110\u1ecdc tin nh\u1eafn c\u1ee7a con l\u00fac 2-3 gi\u1edd s\u00e1ng, CEO Linh \u0110\u1eb7ng x\u00fac \u0111\u1ed9ng: Th\u00e0nh c\u00f4ng c\u1ee7a 1 ",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
+    "Weekly Recap: OpenAI revenue, compute-deal and ORCL $45\u201350B raise - TradingView"
   ]
 }
