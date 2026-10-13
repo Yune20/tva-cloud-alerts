@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791882108.672014,
+  "last_signals": 1791882740.147616,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791882110.156115,
-    "EUR/USD|1D:bot": 1791882109.8444939
+    "DXY|1D:top": 1791882742.772114,
+    "EUR/USD|1D:bot": 1791882742.1985176
   },
-  "last_analysis": 1791882099.4200919,
-  "last_news": 1791882108.6711524,
+  "last_analysis": 1791882728.1443856,
+  "last_news": 1791882740.1467638,
   "seen_news": [
-    "Becamex - B\u00ecnh Ph\u01b0\u1edbc mua l\u1ea1i m\u1ed9t ph\u1ea7n tr\u00e1i phi\u1ebfu, chu\u1ea9n b\u1ecb t\u0103ng v\u1ed1n th\u00eam 666 t\u1ef7 ",
-    "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
-    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
-    "World Bank jobs council urges 'crisis-era' employment support measures as IMF wa",
-    "AI is less regulated than milk, says Microsoft president",
-    "Six Flags shares slide after fatal roller coaster incident in Georgia",
     "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
     "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says F",
     "Citroen revives the 2CV for an electric age",
@@ -441,6 +435,12 @@
     "Roofing scammers con homeowners out of thousands of pounds",
     "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
     "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
-    "AUD/JPY Price Forecast: Awaits 110.00 break as Yen strength validates bearish se"
+    "AUD/JPY Price Forecast: Awaits 110.00 break as Yen strength validates bearish se",
+    "Rainmakers: The drones used to seed clouds",
+    "Small Indian Factories Face Blackouts as Coal Stocks Plunge",
+    "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
+    "Dow Jones futures gain as defensive and blue-chip stocks show relative strength",
+    "Bitcoin recovers losses as oil prices ease: focus turns to US CPI as next key ca",
+    "B\u1ee9c tranh th\u1ecb tr\u01b0\u1eddng tr\u00e1i phi\u1ebfu doanh nghi\u1ec7p qu\u00fd 3/2026: \u00c1p l\u1ef1c n\u1ee3 ch\u1eadm tr\u1ea3 \u0111\u00e8 n"
   ]
 }
