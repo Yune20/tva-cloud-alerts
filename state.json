@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791868579.0036821,
+  "last_signals": 1791869185.6384702,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,17 +136,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791868580.500744
+    "DXY|1D:top": 1791869188.9286978
   },
-  "last_analysis": 1791868570.6155117,
-  "last_news": 1791868578.920545,
+  "last_analysis": 1791869176.4483457,
+  "last_news": 1791869185.6119778,
   "seen_news": [
-    "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
-    "Goldman Sachs flags power and compute as two chokepoints in the AI boom",
-    "Si\u00eau \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 250 km/h, v\u1ed1n \u0111\u1ea7u t\u01b0 174.000 t\u1ef7 \u0111\u1ed3ng ch\u1ea1y xuy\u00ean khu v\u1ef1c \u0111",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "TD Cowen maintains Hold rating on RenaissanceRe Holdings, $320 price target - Tr",
-    "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
     "Banks are set to report this week. Here's what the options market expects",
     "AI minister warns 'likely' UK's cyber defences will be breached",
     "House Republicans Move to Block Trump's Russian Diesel Deal",
@@ -440,6 +434,12 @@
     "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
     "Euro zone ministers tell France to pass 2027 budget to calm markets",
     "Indian Rupee gains further on RBI\u2019s fresh measures to lower US Dollar\u2019s demand",
-    "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low a"
+    "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low a",
+    "My hometown shows that high streets have to change or die",
+    "Nokia to sell Campus Edge business to Aurelius",
+    "WTI Price Forecast: Trades with modest losses below $92.00; bullish bias persist",
+    "Why a few bad trades can undo weeks of trading profits",
+    "M\u00f4 h\u00ecnh t\u00e0u cao t\u1ed1c 407 km/h c\u1ee7a THACO c\u00f3 g\u00ec \u0111\u1eb7c bi\u1ec7t?",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance"
   ]
 }
