@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791885254.0895383,
+  "last_signals": 1791885929.8720407,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -73,7 +73,7 @@
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791885255.7179198,
-    "EUR/USD|1D:bot": 1791884641.189459
+    "DXY|1D:top": 1791885932.3345013,
+    "EUR/USD|1D:bot": 1791885931.8295124
   },
-  "last_analysis": 1791885555.039311,
-  "last_news": 1791885254.0886655,
+  "last_analysis": 1791885920.528866,
+  "last_news": 1791885929.8566926,
   "seen_news": [
-    "Navitas, NVIDIA collaborate on power delivery board for AI data centers - Tradin",
-    "India\u2019s retail inflation jumps to 5.54% in September, above estimates",
-    "The virtual worlds where robots are trained",
-    "Japan\u2019s Omron to buy US industrial PC firm\u00a0Onlogic for $675 million in physical ",
-    "RBA Minutes: Case for rates to act promptly to keep inflation expectations ancho",
-    "PBOC sets USD/ CNY central rate at 6.7298 (vs. estimate at 6.6981), strongest si",
     "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
     "The global economy is starting to look K-shaped. Here are the winners and losers",
     "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IM",
@@ -441,6 +435,12 @@
     "Poundland in rescue talks as owners seek buyer",
     "Trump's Grid Security Order Could Backfire on America's AI Boom",
     "Rupee extends surge; \u00a0Dollar consolidates near peaks ahead of inflation data",
-    "NZD/USD Price Forecast: Recovery from YTD low seems capped; 0.5580 holds the key"
+    "NZD/USD Price Forecast: Recovery from YTD low seems capped; 0.5580 holds the key",
+    "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+    "Stellantis Q3 shipments fall 1%, weighed down by North America production halt",
+    "US Dollar: Overbought signals but no clear catalyst \u2013 ING",
+    "Oil prices retreat despite persistent Middle East tensions and stalled US-Iran n",
+    "M\u1ed9t c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng \u0111\u01b0\u1ee3c t\u1ef1 doanh CTCK \"gom\" r\u00f2ng g\u1ea7n 200 t\u1ef7 \u0111\u1ed3ng phi\u00ean 13/10",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance"
   ]
 }
