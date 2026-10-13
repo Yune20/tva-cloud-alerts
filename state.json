@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791867630.4070137,
-  "last_bot4": 1791870111.5524962,
+  "last_bot4": 1791870729.076231,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791870407.0006745,
+  "last_signals": 1791870729.0769227,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -136,17 +136,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791870408.495351
+    "DXY|1D:top": 1791870730.5863109
   },
-  "last_analysis": 1791870108.5505645,
-  "last_news": 1791870406.9996665,
+  "last_analysis": 1791870721.941793,
+  "last_news": 1791870729.0752487,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
-    "Key facts: BTCUSD ~84k; $859M Liquidations; 17,733 BTC Transfer - TradingView",
-    "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
-    "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Ir",
-    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr",
-    "Global Coal Demand Rises as LNG Shortage Deepens",
     "JPMorgan says Q3 earnings will support stocks as growth spreads beyond AI",
     "L\u01b0\u01a1ng kh\u00f4ng cao v\u1eabn c\u00f3 h\u1eadu v\u1eadn \u0111\u1ee7 \u0111\u1ea7y n\u1ebfu gi\u1eef \u0111\u01b0\u1ee3c 3 nguy\u00ean t\u1eafc n\u00e0y",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -440,6 +434,12 @@
     "Iron ore dips as ample supply, declining freight rates weigh - TradingView",
     "Why older Americans' wealth may be helping keep consumer spending strong",
     "AI minister warns 'likely' UK's cyber defences will be breached",
-    "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing"
+    "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
+    "Here's a calculator to explain why Cramer always stays invested. Plug in your ow",
+    "Cost-of-living struggles inspire Community Cupboard",
+    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
+    "New Zealand Dollar rebounds to near 0.5600 amid geopolitical tensions and US CPI"
   ]
 }
