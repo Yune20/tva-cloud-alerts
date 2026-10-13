@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791881514.9911053,
+  "last_signals": 1791882108.672014,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791878374.4517255,
+    "5575146754|Gold|1H|range_in": 1791882108.672014,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791878374.4517255,
@@ -68,14 +68,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791881517.2811654,
-    "EUR/USD|1D:bot": 1791881516.8112078
+    "DXY|1D:top": 1791882110.156115,
+    "EUR/USD|1D:bot": 1791882109.8444939
   },
-  "last_analysis": 1791881490.7309933,
-  "last_news": 1791881514.9902322,
+  "last_analysis": 1791882099.4200919,
+  "last_news": 1791882108.6711524,
   "seen_news": [
-    "Saudi Arabia says drones and missiles still targeting kingdom as Houthis step up",
-    "Japan wholesale inflation misses at 6.8% but stays high enough to keep BOJ hike ",
-    "M\u1eabu xe Dat Bike ch\u1ed1t t\u1edbi 20.000 \u0111\u01a1n sau g\u1ea7n 5 th\u00e1ng: c\u1ed1p 50 l\u00edt, ch\u1ea1y 200 km/s\u1ea1c",
-    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC | VietstockFinance - Vie",
-    "TD Cowen maintains Buy rating on Alignment Healthcare, $12 price target - Tradin",
-    "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
     "Becamex - B\u00ecnh Ph\u01b0\u1edbc mua l\u1ea1i m\u1ed9t ph\u1ea7n tr\u00e1i phi\u1ebfu, chu\u1ea9n b\u1ecb t\u0103ng v\u1ed1n th\u00eam 666 t\u1ef7 ",
     "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
     "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
@@ -441,6 +435,12 @@
     "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
     "Anthropic warns AI models could soon copy themselves across home devices",
     "Publicly owned rail is popular. But is it making the trains run on time?",
-    "European Natural Gas Prices Headed for Multi-Year Highs"
+    "European Natural Gas Prices Headed for Multi-Year Highs",
+    "This one chart from the IMF tells the entire story of the world economy this yea",
+    "In charts: How one of the world's biggest economies got trapped by debt",
+    "Roofing scammers con homeowners out of thousands of pounds",
+    "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
+    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
+    "AUD/JPY Price Forecast: Awaits 110.00 break as Yen strength validates bearish se"
   ]
 }
