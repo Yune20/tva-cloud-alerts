@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791869185.6384702,
+  "last_signals": 1791869804.1951888,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -54,7 +54,7 @@
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791854301.7307174,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
-    "5575146754|Gold|1H|momo_up": 1791867630.4080465
+    "5575146754|Gold|1H|momo_up": 1791869804.1951888
   },
   "sig_range": {
     "Gold": true,
@@ -71,7 +71,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -136,17 +136,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791869188.9286978
+    "DXY|1D:top": 1791869807.260803
   },
-  "last_analysis": 1791869176.4483457,
-  "last_news": 1791869185.6119778,
+  "last_analysis": 1791869793.8539453,
+  "last_news": 1791869804.1941516,
   "seen_news": [
-    "Banks are set to report this week. Here's what the options market expects",
-    "AI minister warns 'likely' UK's cyber defences will be breached",
-    "House Republicans Move to Block Trump's Russian Diesel Deal",
-    "Indian rupee rebounds from near record low after RBI unveils support measures",
-    "US Dollar: Geopolitics support extends gains \u2013 ING",
-    "Big Monday recap ... Oil gains on two fronts as Russia hits Ukraine and Saudi vo",
     "Invitation to Aira's Q3 2026 Earnings Call - TradingView",
     "Here's a calculator to explain why Cramer always stays invested. Plug in your ow",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
@@ -440,6 +434,12 @@
     "WTI Price Forecast: Trades with modest losses below $92.00; bullish bias persist",
     "Why a few bad trades can undo weeks of trading profits",
     "M\u00f4 h\u00ecnh t\u00e0u cao t\u1ed1c 407 km/h c\u1ee7a THACO c\u00f3 g\u00ec \u0111\u1eb7c bi\u1ec7t?",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance"
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance",
+    "Swiss Franc strengthens as US Dollar Index pulls back from 18-month highs",
+    "Goldman Sachs flags power and compute as two chokepoints in the AI boom",
+    "Nh\u1eefng \u0111\u1ea1i c\u00f4ng tr\u00ecnh giao th\u00f4ng m\u1edf r\u1ed9ng kh\u00f4ng gian Th\u1ee7 \u0111\u00f4",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "J&J long-term Tremfya data demonstrates Crohn's remission through three years - ",
+    "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Gr"
   ]
 }
