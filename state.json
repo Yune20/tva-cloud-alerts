@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791886549.5444367,
+  "last_signals": 1791887159.965453,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -73,7 +73,7 @@
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791886551.2491248,
-    "EUR/USD|1D:bot": 1791886550.8612478
+    "DXY|1D:top": 1791887161.457684,
+    "EUR/USD|1D:bot": 1791887161.122859
   },
-  "last_analysis": 1791886539.7291589,
-  "last_news": 1791886549.5436835,
+  "last_analysis": 1791887147.6210625,
+  "last_news": 1791887159.9647462,
   "seen_news": [
-    "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip s",
-    "Would you buy branded clothing from your favourite tech firm?",
-    "Hang Seng rejected at 24,093.5 in bear flag setup: Live levels",
-    "Canadian Dollar edges higher but remains close to April 2025 lows vs bullish USD",
-    "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
-    "B\u1ea5t ng\u1edd v\u1edbi ph\u01b0\u01a1ng \u00e1n \"v\u00e1 tr\u1eddi\" c\u1ee7a Nga: M\u00e1y bay Ukraine lao \u0111\u1ebfn l\u00e0 b\u1ecb qu\u1ea5n ch\u1eb7t",
     "Why is Six Flags Entertainment stock sliding after-hours today?",
     "Silver Price Forecast: XAG/USD falls to near $60.00 amid higher oil prices, US D",
     "Kospi plunges more than 6% below 6,000 as chip selloff and oil fears hit Asian s",
@@ -441,6 +435,12 @@
     "UnitedHealth Group raises profit forecast on third-quarter earnings beat - Tradi",
     "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
     "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high ",
-    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla"
+    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla",
+    "PL BioScience Launches PL Synergy to Simplify and Standardize MSC Research - Tra",
+    "The Korean stock market\u2019s in freefall, and these are the reasons why",
+    "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal ",
+    "AI is less regulated than milk, says Microsoft president",
+    "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued ",
+    "Swiss Franc's recovery stalls despite broad-based US Dollar weakness"
   ]
 }
