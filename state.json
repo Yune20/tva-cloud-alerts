@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791866396.972178,
+  "last_signals": 1791867005.6898682,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,8 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
-    "5575146754|Gold|1D|range_in": 1791854301.7307174
+    "5575146754|Gold|1D|range_in": 1791854301.7307174,
+    "5575146754|Gold|1H|trap_up": 1791867005.6898682
   },
   "sig_range": {
     "Gold": true,
@@ -66,7 +67,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -134,17 +135,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791866399.7050295
+    "DXY|1D:top": 1791867007.4953735
   },
-  "last_analysis": 1791866387.9921937,
-  "last_news": 1791866396.9712863,
+  "last_analysis": 1791866998.2170143,
+  "last_news": 1791867005.689225,
   "seen_news": [
-    "Spain battles climate change on several fronts",
-    "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market",
-    "EUR/USD outlook as euro stays pinned near multi month lows",
-    "Mexican Peso: Steepening curve and carry risks \u2013 Rabobank",
-    "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low a",
-    "Vi\u1ec7t Nam b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n nhu c\u1ea7u v\u1ed1n t\u0103ng m\u1ea1nh nh\u1ea5t nhi\u1ec1u n\u0103m, chuy\u00ean gia ch\u1ec9",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "Hogs Look to Monday Amid Weakness - TradingView",
     "Starbucks says it is not buying Chipotle after takeover speculation",
@@ -438,6 +433,12 @@
     "X-planes: Are they needed in the new era of drones?",
     "Why is HCL Technologies stock surging today?",
     "EUR/JPY Price Forecast: Remains below 177.00 as bearish bias prevails",
-    "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due"
+    "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
+    "Gold bounces off $4,150 amid modest USD pullback but stays in two-week-old range",
+    "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-",
+    "Thanh kho\u1ea3n chung c\u01b0 m\u1edbi \u1edf H\u00e0 N\u1ed9i gi\u1ea3m \u0111\u1ebfn 50%",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
+    "Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall - TradingView",
+    "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest los"
   ]
 }
