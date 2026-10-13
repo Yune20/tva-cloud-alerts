@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791900764.9845006,
-  "last_bot4": 1791900770.0950491,
+  "last_bot4": 1791901555.8217928,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791901076.0963168,
+  "last_signals": 1791901555.8224885,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -82,7 +82,7 @@
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791901079.500906,
-    "EUR/USD|1D:bot": 1791901078.8135555,
-    "US30|1D:top": 1791901077.9981716
+    "DXY|1D:top": 1791901557.9845202,
+    "EUR/USD|1D:bot": 1791901557.6257184,
+    "US30|1D:top": 1791901557.080223
   },
-  "last_analysis": 1791901053.803271,
-  "last_news": 1791901076.0956764,
+  "last_analysis": 1791901536.1558702,
+  "last_news": 1791901555.8209026,
   "seen_news": [
-    "Visa gets approval to prepare for domestic business in China",
-    "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
-    "JPMorgan says Q3 earnings will support stocks as growth spreads beyond AI",
-    "B\u1eaft t\u00e0i x\u1ebf A Dr\u00f4ss SN 2003",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Microsoft to launch Maia 300 AI chip in 2027 - TradingView",
     "FX option expiries for 13 October 10am New York cut",
     "H\u00e3ng bay c\u1ee7a t\u1ef7 ph\u00fa Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o l\u1ea7n \u0111\u1ea7u v\u01b0\u1ee3t kh\u1ecfi ch\u00e2u \u00c1 - Th\u00e1i B\u00ecnh ",
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
@@ -442,6 +436,12 @@
     "My hometown shows that high streets have to change or die",
     "Indian rupee rebounds from near record low after RBI unveils support measures",
     "US ADP Employment Change 4-week average drops to 24.75K",
-    "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down "
+    "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down ",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "Why is Nebius stock sliding today?",
+    "Australian Dollar : Key support at 0.6935 in focus against US Dollar   \u2013 UOB",
+    "Germany September final CPI +3.3% vs +3.3% y/y prelim",
+    "Tr\u01b0\u1eddng qu\u1ed1c t\u1ebf \u1edf H\u00e0 N\u1ed9i thu h\u1ecdc ph\u00ed g\u1ea7n 1 t\u1ef7 \u0111\u1ed3ng/n\u0103m, ph\u00ed nh\u1eadp h\u1ecdc cao nh\u1ea5t l\u00ean",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock"
   ]
 }
