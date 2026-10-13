@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791865116.8140697,
+  "last_signals": 1791865783.3343499,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -49,7 +49,7 @@
     "Ethereum|1D|range_in": 1791646560.594424,
     "5575146754|Gold|1H|range_in": 1791864525.6591754,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
-    "5575146754|Gold|4H|dtop": 1791780670.4308872,
+    "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791854301.7307174
@@ -85,7 +85,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
@@ -124,7 +124,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1791865117.0124907,
+    "Gold|4H:top": 1791865783.6947074,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
@@ -134,17 +134,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791865118.441143
+    "DXY|1D:top": 1791865786.7801058
   },
-  "last_analysis": 1791865108.167488,
-  "last_news": 1791865116.8131676,
+  "last_analysis": 1791865774.7445197,
+  "last_news": 1791865783.3319712,
   "seen_news": [
-    "How the oil capital of the US welcomed a solar power boom",
-    "Nasdaq falls ahead of earnings, economic data while oil rallies",
-    "Chinese Yuan: Building upside momentum toward 6.6800 against US Dollar \u2013 UOB",
-    "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
-    "L\u1ed9 di\u1ec7n m\u00f4 h\u00ecnh t\u00e0u \u0111i\u1ec7n \u0111\u00f4 th\u1ecb t\u1ed1c \u0111\u1ed9 110 km/h c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n B\u00e1 D\u01b0\u01a1ng t\u1ea1i Vi\u1ec7",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
     "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
     "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest los",
     "Earnings beats are now the norm. What the stock market needs to keep rallying",
@@ -438,6 +432,12 @@
     "Vi\u1ec7t Nam v\u1eeba ho\u00e0n th\u00e0nh n\u00e2ng c\u1ea5p 32 toa t\u00e0u, ph\u1ee5c v\u1ee5 chuy\u1ebfn ch\u1ea1y 411 km xuy\u00ean 4 ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
     "eBay Stock Rises as Morgan Stanley Names It a Top Pick - TradingView",
-    "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks"
+    "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "Mitsubishi g\u00f3p 3/10 m\u1eabu xe x\u0103ng d\u1ea7u b\u00e1n ch\u1ea1y nh\u1ea5t 3 qu\u00fd \u0111\u1ea7u 2026: Xpander b\u00e1n h\u01a1",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "RTX advances naval radar, counter-drone tech, expands Vietjet maintenance deal -",
+    "A massive trade just happened in surging shares of Snap",
+    "The start-ups hoping to return battery making to the US",
+    "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited"
   ]
 }
