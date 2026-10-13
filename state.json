@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791845864.196988,
+  "last_news_report": 1791856777.776438,
   "last_bot4": 1791856443.5348034,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791856157.5646002,
+  "last_signals": 1791856777.7795253,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,9 +68,9 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -81,10 +81,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -131,20 +131,14 @@
     "USOIL|4H:top": 1791842690.7925627,
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791850012.125442,
-    "Bitcoin|4H:bot": 1791856158.0696478,
-    "EUR/USD|4H:bot": 1791856158.7769818,
+    "Bitcoin|4H:bot": 1791856778.335526,
+    "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791856159.1057298
+    "DXY|1D:top": 1791856779.4443364
   },
-  "last_analysis": 1791856149.6370318,
-  "last_news": 1791856157.5635734,
+  "last_analysis": 1791856757.7173457,
+  "last_news": 1791856769.665786,
   "seen_news": [
-    "Zcash pares losses amid improved risk sentiment as focus shifts to US CPI and Wi",
-    "Khi nh\u1eefng \u0111\u1ea1i c\u00f4ng tr\u01b0\u1eddng \u0111\u1ed3ng lo\u1ea1t s\u00e1ng \u0111\u00e8n, SSI g\u1ecdi t\u00ean hai nh\u00f3m ng\u00e0nh s\u00e1ng c\u1eed",
-    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept | VietstockFinance - VietstockFi",
-    "Centiel mod\u00e8re ses ambitions pour 2026 - TradingView",
-    "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,",
-    "The bull market turned 4 years old on Monday. Investors say reaching a fifth bir",
     "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
     "Airbus SE (AIR) Reports Share Buybacks for Oct 5\u20139, 2026 - TradingView",
     "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel s",
@@ -438,6 +432,12 @@
     "Nvidia Stocks Fall 1.5% as Microsoft Pushes Maia Into Inference - TradingView",
     "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a",
     "The AI telling farmers when to harvest",
-    "SK Hynix oversold at KRW 1,500,000 below Fib support: Live"
+    "SK Hynix oversold at KRW 1,500,000 below Fib support: Live",
+    "Navitas, NVIDIA collaborate on power delivery board for AI data centers - Tradin",
+    "India\u2019s retail inflation jumps to 5.54% in September, above estimates",
+    "The virtual worlds where robots are trained",
+    "Japan\u2019s Omron to buy US industrial PC firm\u00a0Onlogic for $675 million in physical ",
+    "RBA Minutes: Case for rates to act promptly to keep inflation expectations ancho",
+    "PBOC sets USD/ CNY central rate at 6.7298 (vs. estimate at 6.6981), strongest si"
   ]
 }
