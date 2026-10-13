@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791848860.1442757,
+  "last_signals": 1791849457.366413,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,7 +68,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -129,19 +129,13 @@
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
     "US30|4H:top": 1791832956.6096997,
-    "DXY|4H:top": 1791817148.9223478,
+    "DXY|4H:top": 1791849461.108637,
     "Bitcoin|4H:bot": 1791842261.2891273,
     "EUR/USD|4H:bot": 1791844921.7111561
   },
-  "last_analysis": 1791848850.6623664,
-  "last_news": 1791848860.143504,
+  "last_analysis": 1791849448.4288313,
+  "last_news": 1791849457.365671,
   "seen_news": [
-    "Can Western Digital Sustain 44% Revenue Growth in Fiscal 2027? - TradingView",
-    "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Hou",
-    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
-    "Yen weakness since 2025 has been limited to offshore hours: analysis",
-    "Euro hits fresh yearly low against British Pound as French fiscal concerns weigh",
     "Small Indian Factories Face Blackouts as Coal Stocks Plunge",
     "LVMH fashion and leather sales slide in Q3, dashing sector hopes",
     "Dollar Index hits an 18-month high as the energy ceasefire fails",
@@ -435,6 +429,12 @@
     "Cairn Homes plc (CRN) Buys Back 100,000 Shares for Cancellation - TradingView",
     "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right ch",
     "Trump faces growing backlash over plans to import diesel from Russia",
-    "Factbox-Companies cutting jobs as investments shift toward AI"
+    "Factbox-Companies cutting jobs as investments shift toward AI",
+    "GameStop Stock Hits a New 52-Week High: What's Going On? - TradingView",
+    "Delta delays debut of Saudi Arabia service until March after Riyadh airport atta",
+    "Why some have no choice but to pay costly oil prices",
+    "Energy Stocks Soared in Q3 as Fuel Markets Tightened",
+    "Citi seeks rapid resolution of its US regulatory burdens",
+    "Euro collapses below 1.12 as Fed hawkish rhetoric lifts the US Dollar"
   ]
 }
