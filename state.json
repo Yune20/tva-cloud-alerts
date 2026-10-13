@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791922617.2669752,
+  "last_news_report": 1791933451.2587185,
   "last_bot4": 1791933124.6395316,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791932839.510198,
+  "last_signals": 1791933451.2598999,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -139,17 +139,11 @@
     "DXY|1D:top": 1791932842.8271098,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791932841.6320865,
-    "GBP/USD|4H:top": 1791932841.8569431
+    "GBP/USD|4H:top": 1791933452.4092808
   },
-  "last_analysis": 1791932830.123848,
-  "last_news": 1791932839.5092528,
+  "last_analysis": 1791933436.9095066,
+  "last_news": 1791933445.6062365,
   "seen_news": [
-    "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng l\u01b0\u01a1ng 19 tri\u1ec7u, chi 9 tri\u1ec7u \"l\u1ed9t x\u00e1c\" ph\u00f2ng ng\u1ee7",
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "Cairn Homes plc (CRN) Repurchases 95,872 Shares for Cancellation - TradingView",
-    "Raising taxes on investments, estates and benefits could keep Social Security fr",
-    "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs ",
-    "The Sabrina Carpenter clip which helped a 22-year-old make \u00a3120,000 a year",
     "KuCoin Nigeria Limited Gets Conditional SEC Nigeria AIP for ARIP - TradingView",
     "\u2018Pharma Bro\u2019 Martin Shkreli is in trouble with regulators again, this time for i",
     "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
@@ -443,6 +437,12 @@
     "Anthropic to disclose new revenue numbers as AI lab financials become central to",
     "Royal Mail losing 400 postal workers a week, says union",
     "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-    "Apple\u2019s HomeView brings personalized Siri to smart home, takes on Amazon and Goo"
+    "Apple\u2019s HomeView brings personalized Siri to smart home, takes on Amazon and Goo",
+    "Walmart Expands Free Prescription Coverage to Ozempic and Mounjaro for Employees",
+    "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklist",
+    "Is it OK for jobseekers or employers to use AI?",
+    "GameStop CEO Cohen buys shares worth nearly $23 million",
+    "Silver Price Forecast: XAG/USD struggles near two-month lows ahead of US CPI",
+    "UBS sees 28% Q3 S&P 500 earnings growth, says AI and cyclicals can lift US stock"
   ]
 }
