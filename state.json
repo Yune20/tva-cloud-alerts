@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791893357.2558644,
+  "last_signals": 1791894026.856633,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,10 +68,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791893359.757546,
-    "EUR/USD|1D:bot": 1791893359.210528
+    "DXY|1D:top": 1791894028.5692914,
+    "EUR/USD|1D:bot": 1791894028.2152193
   },
-  "last_analysis": 1791893658.6782281,
-  "last_news": 1791893357.2550504,
+  "last_analysis": 1791894016.5060387,
+  "last_news": 1791894026.8558862,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "Why is SoftBank Group stock tumbling today?",
-    "Asian stock markets plunge, KOSPI faces bloodbath amid chip competition from Chi",
-    "investingLive European session wrap: Oil rebounds, dollar firms as US bond marke",
-    "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi th\u1ea5t nghi\u1ec7p c\u00f3 16,3 t\u1ef7 \u0111\u1ed3ng",
-    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
     "GBP/USD Price Forecast: Defends 1.3200 as bears await two-week-old range breakdo",
     "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
     "Vi\u1ec7t Nam v\u1eeba ho\u00e0n th\u00e0nh n\u00e2ng c\u1ea5p 32 toa t\u00e0u, ph\u1ee5c v\u1ee5 chuy\u1ebfn ch\u1ea1y 411 km xuy\u00ean 4 ",
@@ -441,6 +435,12 @@
     "BioNTech stock falls after cancer trial misses key endpoint",
     "Indian Rupee extends gains on RBI's fresh measures",
     "investingLive European news wrap: Risk sentiment improves as oil prices ease",
-    "Vietlott 13/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Power 6/55 ng\u00e0y 13 th\u00e1ng 10"
+    "Vietlott 13/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Power 6/55 ng\u00e0y 13 th\u00e1ng 10",
+    "Why the world\u2019s No. 1 fund manager has just changed its mind on bonds for the fi",
+    "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks wo",
+    "BA flight forced to turn back over cracked window",
+    "China's Auto Exports Explode as Domestic Demand Craters",
+    "U.S.  debt finds breathing room, countering energy spike",
+    "Silver Price Forecast: XAG/USD wobbles near $60.30, US CPI takes centre stage"
   ]
 }
