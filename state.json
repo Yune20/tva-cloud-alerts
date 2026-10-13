@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791853681.905347,
+  "last_signals": 1791854301.7307174,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -51,7 +51,8 @@
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
-    "5575146754|Gold|1H|trap_dn": 1791808590.654704
+    "5575146754|Gold|1H|trap_dn": 1791808590.654704,
+    "5575146754|Gold|1D|range_in": 1791854301.7307174
   },
   "sig_range": {
     "Gold": true,
@@ -67,11 +68,11 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -80,7 +81,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -89,7 +90,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -131,18 +132,13 @@
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791850012.125442,
     "Bitcoin|4H:bot": 1791842261.2891273,
-    "EUR/USD|4H:bot": 1791850921.1807542,
-    "Ethereum|1D:bot": 1791851835.3462253
+    "EUR/USD|4H:bot": 1791854303.8247917,
+    "Ethereum|1D:bot": 1791851835.3462253,
+    "DXY|1D:top": 1791854304.3706775
   },
-  "last_analysis": 1791853673.7160463,
-  "last_news": 1791853681.9044995,
+  "last_analysis": 1791854292.5508642,
+  "last_news": 1791854301.729988,
   "seen_news": [
-    "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
-    "Weekly Recap: MGL-0795 PNPLA3 siRNA consult and Resmetirom fibrosis/MASH - Tradi",
-    "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
-    "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-    "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
-    "Indian rupee surges as RBI deploys forex shield; euro, dollar holds ahead of CPI",
     "Why older Americans' wealth may be helping keep consumer spending strong",
     "The virtual worlds where robots are trained",
     "Trump's Grid Security Order Could Backfire on America's AI Boom",
@@ -436,6 +432,12 @@
     "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
     "World Bank jobs council urges 'crisis-era' employment support measures as IMF wa",
     "AI is less regulated than milk, says Microsoft president",
-    "Six Flags shares slide after fatal roller coaster incident in Georgia"
+    "Six Flags shares slide after fatal roller coaster incident in Georgia",
+    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
+    "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says F",
+    "Citroen revives the 2CV for an electric age",
+    "Why is Micron Technology stock sliding today?",
+    "PBOC sets USD/CNY reference rate at 6.7298 vs. 6.7313 previous",
+    "BlackRock cuts US stocks to neutral and buys Treasuries as 10-year yield nears 5"
   ]
 }
