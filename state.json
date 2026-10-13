@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791854301.7307174,
+  "last_signals": 1791854919.1746871,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791851261.1880205,
+    "5575146754|Gold|1H|range_in": 1791854919.1746871,
     "5575146754|Gold|4H|ttop": 1791775760.01021,
     "5575146754|Gold|4H|dtop": 1791780670.4308872,
     "5575146754|Gold|4H|range_in": 1791793650.3077526,
@@ -66,11 +66,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -81,7 +81,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -132,19 +132,13 @@
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791850012.125442,
     "Bitcoin|4H:bot": 1791842261.2891273,
-    "EUR/USD|4H:bot": 1791854303.8247917,
+    "EUR/USD|4H:bot": 1791854920.6487217,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791854304.3706775
+    "DXY|1D:top": 1791854920.9838152
   },
-  "last_analysis": 1791854292.5508642,
-  "last_news": 1791854301.729988,
+  "last_analysis": 1791854910.9498844,
+  "last_news": 1791854919.173047,
   "seen_news": [
-    "Why older Americans' wealth may be helping keep consumer spending strong",
-    "The virtual worlds where robots are trained",
-    "Trump's Grid Security Order Could Backfire on America's AI Boom",
-    "Exclusive-Most Americans oppose betting on elections, government events, Reuters",
-    "British Pound loses ground as Oil rise clouds BoE\u2019s hawkish outlook",
-    "Fed\u2019s Hammack: Treasury rates are \u201cmodest\u201d by historical standards",
     "Would you buy branded clothing from your favourite tech firm?",
     "Existing home sales among economic data due Tuesday",
     "NZDUSD sellers press toward key lows. Can they break through?",
@@ -438,6 +432,12 @@
     "Citroen revives the 2CV for an electric age",
     "Why is Micron Technology stock sliding today?",
     "PBOC sets USD/CNY reference rate at 6.7298 vs. 6.7313 previous",
-    "BlackRock cuts US stocks to neutral and buys Treasuries as 10-year yield nears 5"
+    "BlackRock cuts US stocks to neutral and buys Treasuries as 10-year yield nears 5",
+    "Why Shopify (SHOP) Stock Is Up Today - TradingView",
+    "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+    "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+    "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+    "Anthropic says new safeguards sharply reduce AI distillation attacks",
+    "WTI holds gains above $92.00 on persistent Middle East supply risks"
   ]
 }
