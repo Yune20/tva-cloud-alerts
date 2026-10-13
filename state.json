@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791851261.1880205,
+  "last_signals": 1791851834.575547,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -87,13 +87,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791852092,
@@ -131,17 +131,12 @@
     "US30|4H:top": 1791832956.6096997,
     "DXY|4H:top": 1791850012.125442,
     "Bitcoin|4H:bot": 1791842261.2891273,
-    "EUR/USD|4H:bot": 1791850921.1807542
+    "EUR/USD|4H:bot": 1791850921.1807542,
+    "Ethereum|1D:bot": 1791851835.3462253
   },
-  "last_analysis": 1791851250.8026857,
-  "last_news": 1791851261.1871824,
+  "last_analysis": 1791851823.3977625,
+  "last_news": 1791851834.5746703,
   "seen_news": [
-    "Microsoft President Issues Stark Warning on AI Oversight - TradingView",
-    "Fed's Hammack says higher rates could be needed as risks of 'inflationary mindse",
-    "The AI telling farmers when to harvest",
-    "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
-    "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
-    "Fed\u2019s Hammack calls for higher rates as inflation pressures broaden",
     "AI is less regulated than milk, says Microsoft president",
     "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032",
     "Moderna technical outlook: bullish trend meets near-term pullback",
@@ -435,6 +430,12 @@
     "Kuehn Law Encourages Investors of Immunovant, Inc. to Contact Law Firm - Trading",
     "UnitedHealth shares are doing something unusual ahead of earnings",
     "Publicly owned rail is popular. But is it making the trains run on time?",
-    "Fed\u2019s Hammack: Hope to cool demand, and inflation, without job market pain"
+    "Fed\u2019s Hammack: Hope to cool demand, and inflation, without job market pain",
+    "Bitcoin Struggles in October: What's Causing the Weakness? - TradingView",
+    "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says ",
+    "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+    "Roofing scammers con homeowners out of thousands of pounds",
+    "European Natural Gas Prices Headed for Multi-Year Highs",
+    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears"
   ]
 }
