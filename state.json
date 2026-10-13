@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791853063.5410614,
+  "last_signals": 1791853681.905347,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -67,7 +67,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -83,17 +83,17 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791853939,
@@ -134,15 +134,9 @@
     "EUR/USD|4H:bot": 1791850921.1807542,
     "Ethereum|1D:bot": 1791851835.3462253
   },
-  "last_analysis": 1791853054.4580417,
-  "last_news": 1791853063.4757364,
+  "last_analysis": 1791853673.7160463,
+  "last_news": 1791853681.9044995,
   "seen_news": [
-    "OPEC cuts oil demand forecast sharply as supply risks keep prices elevated",
-    "Vi\u1ec7t Nam c\u00f3 1 h\u1ec7 th\u1ed1ng vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o \u0111\u00e3 ch\u1ea1m m\u1ed1c 10 c\u01a1 s\u1edf: \u0110a d\u1ea1ng m\u00f4 h\u00ecnh t\u1eeb n",
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
-    "MONDAY WHITE HOUSE SCHEDULE - President Trump travels to Youngstown, Ohio - Trad",
-    "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says F",
-    "Citroen revives the 2CV for an electric age",
     "SAU C\u01a0N M\u01afA TR\u1edcI L\u1ea0I S\u00c1NG - VietstockFinance",
     "Weekly Recap: MGL-0795 PNPLA3 siRNA consult and Resmetirom fibrosis/MASH - Tradi",
     "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
@@ -436,6 +430,12 @@
     "M\u1eabu xe Dat Bike ch\u1ed1t t\u1edbi 20.000 \u0111\u01a1n sau g\u1ea7n 5 th\u00e1ng: c\u1ed1p 50 l\u00edt, ch\u1ea1y 200 km/s\u1ea1c",
     "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC | VietstockFinance - Vie",
     "TD Cowen maintains Buy rating on Alignment Healthcare, $12 price target - Tradin",
-    "Singapore PM Wong rejects weaker currency as shortcut to competitiveness"
+    "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+    "Becamex - B\u00ecnh Ph\u01b0\u1edbc mua l\u1ea1i m\u1ed9t ph\u1ea7n tr\u00e1i phi\u1ebfu, chu\u1ea9n b\u1ecb t\u0103ng v\u1ed1n th\u00eam 666 t\u1ef7 ",
+    "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
+    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
+    "World Bank jobs council urges 'crisis-era' employment support measures as IMF wa",
+    "AI is less regulated than milk, says Microsoft president",
+    "Six Flags shares slide after fatal roller coaster incident in Georgia"
   ]
 }
