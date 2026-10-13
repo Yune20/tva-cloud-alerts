@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791862362.7287552,
+  "last_signals": 1791862981.1125228,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -72,7 +72,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -134,17 +134,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791862364.4542515
+    "DXY|1D:top": 1791862984.112842
   },
-  "last_analysis": 1791862354.848175,
-  "last_news": 1791862362.7278662,
+  "last_analysis": 1791862971.2219424,
+  "last_news": 1791862981.1117442,
   "seen_news": [
-    "investingLive European session wrap: Oil rebounds, dollar firms as US bond marke",
-    "Kh\u00f4ng c\u1ea7n nh\u1eadp d\u00e2y chuy\u1ec1n 20 tri\u1ec7u USD, t\u1eadn d\u1ee5ng h\u1ec7 th\u1ed1ng s\u1ea3n xu\u1ea5t l\u1ed1p \u00f4 t\u00f4, doa",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Can Alliant Energy's Diversified Generation Portfolio Support Growth? - TradingV",
-    "Meta is back on the AI leaderboard with its new family of Wonder models",
-    "AI FOMO driving some family offices into tech investments, survey suggests",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
     "Weekly Recap: Trading-driven profit rise and SAF supply to YPF - TradingView",
     "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSp",
@@ -438,6 +432,12 @@
     "What are the main events for today?",
     "S\u1ef1 th\u1eadt cu\u1ed9c ph\u1ecfng v\u1ea5n g\u00e2y b\u00e3o m\u1ea1ng c\u1ee7a Ronaldo gi\u1eefa l\u00f9m x\u00f9m b\u1ecf tuy\u1ec3n B\u1ed3 \u0110\u00e0o Nha",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "SPCX: SpaceX Stock Extends Gains After Mobile Push Sends Telecoms Tumbling - Tra"
+    "SPCX: SpaceX Stock Extends Gains After Mobile Push Sends Telecoms Tumbling - Tra",
+    "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
+    "5 l\u1eddi khuy\u00ean cho gia \u0111\u00ecnh th\u01b0\u1eddng xuy\u00ean \u0111un n\u01b0\u1edbc u\u1ed1ng b\u1eb1ng \u1ea5m si\u00eau t\u1ed1c",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
+    "Gold eases on firm dollar; spotlight on US inflation data - TradingView",
+    "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks wo",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada"
   ]
 }
