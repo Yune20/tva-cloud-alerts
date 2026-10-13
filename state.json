@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791867630.4070137,
-  "last_bot4": 1791874020.3276112,
+  "last_bot4": 1791874951.0917294,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791874020.327514
+    "Gold": 1791874951.0916376
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791874622.3691568,
+  "last_signals": 1791874951.0925586,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,8 +68,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|1H": false,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791874623.9663095,
-    "EUR/USD|1D:bot": 1791874623.5068114
+    "DXY|1D:top": 1791874952.7040153,
+    "EUR/USD|1D:bot": 1791874952.3504078
   },
-  "last_analysis": 1791874327.0485876,
-  "last_news": 1791874622.3683307,
+  "last_analysis": 1791874940.2490778,
+  "last_news": 1791874948.4393992,
   "seen_news": [
-    "IonQ To Acquire Elisity In $1.3 Billion Deal - TradingView",
-    "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan g",
-    "I earn \u00a3120,000 a year making social media videos go viral",
-    "Saudi Arabia Insists Energy Supply Remains Resilient",
-    "S&P upgrades SanDisk to BBB as AI memory demand drives cash flow past $23B",
-    "India: Rising inflation pressures challenge RBI \u2013 Societe Generale",
     "Fridges in French supermarkets hit by cyber attack",
     "Inside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine",
     "NYT, Economist among publishers joining coalition to curb unpaid AI use",
@@ -441,6 +435,12 @@
     "British Pound trades subduedly against Japanese Yen, BoE\u2019s Greene supports quick",
     "Saudi Arabia eyes 1.2 million bpd pipeline boost within weeks by converting gas ",
     "C\u00f4ng an c\u1ea3nh b\u00e1o c\u00e1c giao d\u1ecbch chuy\u1ec3n kho\u1ea3n ch\u1ec9 t\u1eeb 200 \u0111\u1ebfn 230 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3",
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet"
+    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
+    "Standard Chartered custody for Ripple\u2019s RLUSD: what custody and collateral mirro",
+    "Nam danh h\u00e0i n\u1ed5i ti\u1ebfng m\u1ed9t th\u1eddi gi\u1edd ph\u1ea3i r\u1eddi s\u00e2n kh\u1ea5u, \u0111i b\u00e1n chu\u1ed1i c\u0169ng n\u1ee3 n\u1ea7n,",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "REG - Greencore Group PLC - Q4 Trading Update - TradingView",
+    "Microsoft hits a big milestone that solidifies its revival",
+    "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as \u2018mo"
   ]
 }
