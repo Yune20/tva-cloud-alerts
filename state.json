@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791930952.0843973,
+  "last_signals": 1791931559.4670448,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,14 +68,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791930953.538766,
+    "DXY|1D:top": 1791931561.1026015,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791930952.9011917,
-    "GBP/USD|4H:top": 1791930953.0494547
+    "US30|1D:top": 1791931560.3685272,
+    "GBP/USD|4H:top": 1791931560.5236785
   },
-  "last_analysis": 1791930944.2035785,
-  "last_news": 1791930952.08355,
+  "last_analysis": 1791931552.3525069,
+  "last_news": 1791931559.4662561,
   "seen_news": [
-    "Thousands of homeowners face adjustable-rate mortgage resets \u2014 and much higher p",
-    "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
-    "Global Coal Demand Rises as LNG Shortage Deepens",
-    "SpaceX and SanDisk among market cap stock movers on Tuesday",
-    "Indian Rupee: RBI defense limits losses against US Dollar \u2013 Societe Generale",
-    "Crude oil futures rebound and pushed back into positive territory",
     "Anthropic to disclose new revenue numbers as AI lab financials become central to",
     "Dating app Bumble bought for $1.3bn",
     "Eli Lilly leads large-cap pharma on growth, but valuation is a trade-off",
@@ -443,6 +437,12 @@
     "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
     "How to read a whale alert: an Ethereum case study and a 5-point checklist",
     "Ng\u00e0y c\u00e0ng \u00edt ng\u01b0\u1eddi mua gi\u01b0\u1eddng 1,8m: Ng\u01b0\u1eddi b\u00e1n n\u1ed9i th\u1ea5t ch\u1ec9 ra 4 l\u00fd do, nghe xong",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
+    "BofA fined $1.2 billion by US government for failing to police suspicious activi",
+    "Pound gains as Fed's Williams sees no 2027 hike",
+    "ICYMI - Three Fed officials signal inflation fight continues; Williams sees no 2",
+    "V\u1eeba \u0111\u0103ng quang 10 ng\u00e0y, Hoa h\u1eadu Qu\u1ef3nh Anh \u0111\u00e3 ph\u1ea3i xin l\u1ed7i",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView"
   ]
 }
