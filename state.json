@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791882740.147616,
+  "last_signals": 1791883408.5977328,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791882742.772114,
-    "EUR/USD|1D:bot": 1791882742.1985176
+    "DXY|1D:top": 1791883410.1411834,
+    "EUR/USD|1D:bot": 1791883409.8498032
   },
-  "last_analysis": 1791883042.6436393,
-  "last_news": 1791882740.1467638,
+  "last_analysis": 1791883397.703228,
+  "last_news": 1791883408.5968952,
   "seen_news": [
-    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
-    "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says F",
-    "Citroen revives the 2CV for an electric age",
-    "Why is Micron Technology stock sliding today?",
-    "PBOC sets USD/CNY reference rate at 6.7298 vs. 6.7313 previous",
-    "BlackRock cuts US stocks to neutral and buys Treasuries as 10-year yield nears 5",
     "Why Shopify (SHOP) Stock Is Up Today - TradingView",
     "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
     "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
@@ -441,6 +435,12 @@
     "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
     "Dow Jones futures gain as defensive and blue-chip stocks show relative strength",
     "Bitcoin recovers losses as oil prices ease: focus turns to US CPI as next key ca",
-    "B\u1ee9c tranh th\u1ecb tr\u01b0\u1eddng tr\u00e1i phi\u1ebfu doanh nghi\u1ec7p qu\u00fd 3/2026: \u00c1p l\u1ef1c n\u1ee3 ch\u1eadm tr\u1ea3 \u0111\u00e8 n"
+    "B\u1ee9c tranh th\u1ecb tr\u01b0\u1eddng tr\u00e1i phi\u1ebfu doanh nghi\u1ec7p qu\u00fd 3/2026: \u00c1p l\u1ef1c n\u1ee3 ch\u1eadm tr\u1ea3 \u0111\u00e8 n",
+    "Why is Schaeffler stock sliding today?",
+    "Euro strengthens against Canadian Dollar as German HICP inflation accelerates, o",
+    "Connecting the dots: How the AI boom could turn into the Fed's next inflation he",
+    "Th\u1ea1c s\u0129 ng\u00e0nh ph\u00e2n ph\u1ed1i b\u00e1n l\u1ebb 38 tu\u1ed5i c\u00f3 t\u00e0i s\u1ea3n 7.800 t\u1ef7",
+    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
+    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView"
   ]
 }
