@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791915650.0341358,
+  "last_signals": 1791916258.7636244,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791915651.6688118,
-    "EUR/USD|1D:bot": 1791915651.233888,
-    "US30|1D:top": 1791915650.8333669
+    "DXY|1D:top": 1791916262.9442077,
+    "EUR/USD|1D:bot": 1791916261.8514585,
+    "US30|1D:top": 1791916260.8652675
   },
-  "last_analysis": 1791915641.9183717,
-  "last_news": 1791915650.0332477,
+  "last_analysis": 1791916249.541302,
+  "last_news": 1791916258.7628207,
   "seen_news": [
-    "Exclusive-Behind AI industry\u2019s call for independent reviews, a fight over what g",
-    "Equities: Earnings beats seen versus consensus \u2013 Deutsche Bank",
-    "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
-    "C\u1ed5 phi\u1ebfu PNJ b\u1ea5t ng\u1edd t\u0103ng c\u1eadn tr\u1ea7n gi\u1eefa phi\u00ean ch\u1ee9ng kho\u00e1n \u201c\u0111\u1ecf l\u1eeda\u201d",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
-    "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
     "Long global semiconductors remains the most crowded trade followed by short US T",
     "VIDEO: Kho\u1ea3nh kh\u1eafc \"h\u1ed1 t\u1eed th\u1ea7n\" nu\u1ed1t tr\u1ecdn h\u00e0ng ch\u1ee5c \u00f4 t\u00f4 xu\u1ed1ng d\u01b0\u1edbi",
     "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
@@ -442,6 +436,12 @@
     "4 b\u00e0i h\u1ecdc cay \u0111\u1eafng v\u1ec1 \u0111\u1ed3ng ti\u1ec1n ch\u1ec9 khi ra \u0111\u1eddi m\u1edbi th\u1ea5m",
     "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
     "PagSeguro Digital Director Sold Shares Worth Over $3.6M - TradingView",
-    "Gen Z renters are the only group more likely to feel successful by investing tha"
+    "Gen Z renters are the only group more likely to feel successful by investing tha",
+    "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreemen",
+    "Gold slides on US yields surge ahead of CPI",
+    "Fed Williams: Sees no need for rate hike in 2027 at this time",
+    "NHTW Nga: GDP nguy c\u01a1 gi\u1ea3m t\u1ed1c do 2 l\u00fd do",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView"
   ]
 }
