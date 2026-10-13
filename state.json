@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791884023.9152389,
+  "last_signals": 1791884639.9930289,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,9 +75,9 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791884026.4015636,
-    "EUR/USD|1D:bot": 1791884025.8668666
+    "DXY|1D:top": 1791884641.5195618,
+    "EUR/USD|1D:bot": 1791884641.189459
   },
-  "last_analysis": 1791884011.9442782,
-  "last_news": 1791884023.9142392,
+  "last_analysis": 1791884628.8799615,
+  "last_news": 1791884639.9920363,
   "seen_news": [
-    "Bumble shares soar after report dating firm in $1bn takeover talks",
-    "Trump's Grid Security Order Could Backfire on America's AI Boom",
-    "Saudi capital\u2019s airport to remain shut this week as airlines cancel services",
-    "British Pound gains on BRC Like-For-Like Retail Sales data despite geopolitical ",
-    "AI compute crunch deepens as chip rental costs jump 60% and rivals scramble for ",
-    "M\u1ed9t n\u1eef sinh vi\u00ean 22 tu\u1ed5i c\u00f3 t\u00e0i s\u1ea3n h\u01a1n 36.000 t\u1ef7 \u0111\u1ed3ng",
     "Ki\u1ec3m tra ph\u00f2ng tr\u1ecd, c\u00f4ng an ph\u00e1t hi\u1ec7n ng\u01b0\u1eddi ph\u1ee5 n\u1eef SN 1987 th\u1ef1c hi\u1ec7n h\u00e0ng ngh\u00ecn ",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
     "Nvidia Stocks Fall 1.5% as Microsoft Pushes Maia Into Inference - TradingView",
@@ -441,6 +435,12 @@
     "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
     "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
     "My wife says we can\u2019t afford to retire. We have $4 million. Do I just keep worki",
-    "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena"
+    "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
+    "Schaeffler releases preliminary numbers for first nine months of 2026 - TradingV",
+    "What to expect from Europe\u2019s most valuable company before it kicks off tech earn",
+    "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires",
+    "UK growth forecast upgraded but higher energy prices to hit economy next year",
+    "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz"
   ]
 }
