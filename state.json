@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791916258.7636244,
+  "last_signals": 1791916873.6324039,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791894642.6867113,
+    "5575146754|Gold|1H|range_in": 1791916873.6324039,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -130,25 +130,19 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791909765.0237446,
+    "USOIL|4H:top": 1791916874.530226,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791916262.9442077,
-    "EUR/USD|1D:bot": 1791916261.8514585,
-    "US30|1D:top": 1791916260.8652675
+    "DXY|1D:top": 1791916877.6970096,
+    "EUR/USD|1D:bot": 1791916876.7870677,
+    "US30|1D:top": 1791916875.8691418
   },
-  "last_analysis": 1791916249.541302,
-  "last_news": 1791916258.7628207,
+  "last_analysis": 1791916861.2866337,
+  "last_news": 1791916873.62053,
   "seen_news": [
-    "Long global semiconductors remains the most crowded trade followed by short US T",
-    "VIDEO: Kho\u1ea3nh kh\u1eafc \"h\u1ed1 t\u1eed th\u1ea7n\" nu\u1ed1t tr\u1ecdn h\u00e0ng ch\u1ee5c \u00f4 t\u00f4 xu\u1ed1ng d\u01b0\u1edbi",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
-    "Dollar Extends Gains - TradingView",
-    "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,",
-    "How Red Bull's F1 team is using AI to make split-second decisions for Max Versta",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
     "A SpaceX launch shortage is fueling a $100 billion investing spree",
@@ -442,6 +436,12 @@
     "Fed Williams: Sees no need for rate hike in 2027 at this time",
     "NHTW Nga: GDP nguy c\u01a1 gi\u1ea3m t\u1ed1c do 2 l\u00fd do",
     "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
-    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView"
+    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
+    "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
+    "Ph\u00f3 Th\u1ed1ng \u0111\u1ed1c c\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u m\u1edbi nh\u1ea5t v\u1ec1 d\u01b0 n\u1ee3 cho vay b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "UnitedHealth Stock Wobbles Despite 61% Profit Jump, Boosted Outlook (CORRECTED) ",
+    "AST SpaceMobile\u2019s stock is feeling the heat from SpaceX\u2019s wireless plans",
+    "More Republicans come out against Trump's diesel deal with Putin"
   ]
 }
