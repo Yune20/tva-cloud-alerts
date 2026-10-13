@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791908197.6809895,
+  "last_signals": 1791908554.600006,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -130,25 +130,19 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791908197.9988096,
-    "US30|4H:top": 1791908199.3498478,
+    "USOIL|4H:top": 1791908555.2789414,
+    "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791908201.168521,
-    "EUR/USD|1D:bot": 1791908199.6886303,
-    "US30|1D:top": 1791908199.349867
+    "DXY|1D:top": 1791908557.6225991,
+    "EUR/USD|1D:bot": 1791908557.0733378,
+    "US30|1D:top": 1791908556.312438
   },
-  "last_analysis": 1791907889.2871299,
-  "last_news": 1791908194.121205,
+  "last_analysis": 1791908546.0082278,
+  "last_news": 1791908554.5990758,
   "seen_news": [
-    "Why the UK is dithering over what to do about e-scooters",
-    "IMF Warns Middle East War Could Derail Global Economic Growth",
-    "Yen weakness since 2025 has been limited to offshore hours: analysis",
-    "Japanese Yen: Intervention risks limit further depreciation - OCBC",
-    "IMF\u2019s Georgieva calls AI a slow-moving tsunami (again) for jobs as graduates fee",
-    "Ph\u00f2ng t\u1eafm nh\u1ecf \u0111\u1eebng c\u1ed1 nh\u00e9t b\u1ed3n r\u1eeda v\u00e0o trong: 4 c\u00e1ch b\u1ed1 tr\u00ed m\u1edbi v\u1eeba r\u1ed9ng h\u01a1n v\u1eeba",
     "Why is LVMH Moet Hennessy Louis Vuitton stock sliding today?",
     "USD/CAD Price Forecast: Falls to near 1.4250 near nine-day EMA support",
     "Chart of the day: EUR/CHF bounces this week but French bond spreads warn euro ri",
@@ -442,6 +436,12 @@
     "Invitation to Aira's Q3 2026 Earnings Call - TradingView",
     "Six Flags\u2019 stock slumps toward 16-year low after fatal incident",
     "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-    "Bumble bought for $1.3bn in 'bet on the future of humanity'"
+    "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "REG - Rotork PLC - Form 8 (DD) Benjamin Peacock transfer to spouse - TradingView",
+    "\u2018Superintelligence\u2019 may never arrive, Deutsche Bank says. What that could mean f",
+    "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
+    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+    "Why Diesel Prices Are So Much Higher Than Gasoline"
   ]
 }
