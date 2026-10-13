@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791896272.8802383,
+  "last_signals": 1791896811.8801153,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,8 +83,8 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791896275.1304595,
-    "EUR/USD|1D:bot": 1791896274.3321455
+    "DXY|1D:top": 1791896813.6816802,
+    "EUR/USD|1D:bot": 1791896813.3233345
   },
-  "last_analysis": 1791896261.9017518,
-  "last_news": 1791896272.8794115,
+  "last_analysis": 1791896803.1401823,
+  "last_news": 1791896811.8792226,
   "seen_news": [
-    "Doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n do b\u00e0 D\u01b0\u01a1ng Th\u1ecb Mai Hoa \u0111i\u1ec1u h\u00e0nh t\u0103ng v\u1ed1n l\u00ean 2.600 t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
-    "Micron authorizes record $35.16B share buyback program starting Dec. 9 - Trading",
-    "Earnings beats are now the norm. What the stock market needs to keep rallying",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market",
     "Y\u1ebfu th\u1ebf h\u01a1n h\u1eb3n \u1ea4n \u0110\u1ed9, Th\u00e1i Lan nh\u01b0ng Vi\u1ec7t Nam v\u1eabn \u0111\u01b0\u1ee3c \u0111\u1ea1i b\u00e0ng M\u1ef9 ch\u1ecdn \u0111\u1eb7t nh\u00e0",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
@@ -441,6 +435,12 @@
     "Indian Rupee: RBI measures support near term \u2013 MUFG",
     "Silver trims losses as oil prices ease, but downside risks persist; focus turns ",
     "\u0110i\u1ec1u tra lo\u1ea1t giao d\u1ecbch chuy\u1ec3n kho\u1ea3n, c\u00f4ng an b\u1eaft L\u00e3 Minh H\u1ed3ng SN 1983",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
+    "British Pound: Firmer ground with BoE hike risk \u2013 ING",
+    "Is the AI bubble bursting?",
+    "3 b\u1ed9 ph\u1eadn c\u1ee7a con l\u1ee3n ch\u1ee9a nhi\u1ec1u cholesterol h\u01a1n c\u1ea3 th\u1ecbt m\u1ee1: To\u00e0n m\u00f3n \u201ckho\u00e1i kh\u1ea9",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
+    "Ailux Appoints Lloyd S. Miller as Chief Medical Officer - TradingView",
+    "U.S. wealth has shifted to stocks from homes. There are big reasons to worry."
   ]
 }
