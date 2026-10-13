@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791885929.8720407,
+  "last_signals": 1791886549.5444367,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791885932.3345013,
-    "EUR/USD|1D:bot": 1791885931.8295124
+    "DXY|1D:top": 1791886551.2491248,
+    "EUR/USD|1D:bot": 1791886550.8612478
   },
-  "last_analysis": 1791885920.528866,
-  "last_news": 1791885929.8566926,
+  "last_analysis": 1791886539.7291589,
+  "last_news": 1791886549.5436835,
   "seen_news": [
-    "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
-    "The global economy is starting to look K-shaped. Here are the winners and losers",
-    "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IM",
-    "UK growth upgraded but energy prices and rates to bite in 2027",
-    "Nikkei 225 slices below Ichimoku cloud near oversold RSI: Live",
-    "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar",
     "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip s",
     "Would you buy branded clothing from your favourite tech firm?",
     "Hang Seng rejected at 24,093.5 in bear flag setup: Live levels",
@@ -441,6 +435,12 @@
     "US Dollar: Overbought signals but no clear catalyst \u2013 ING",
     "Oil prices retreat despite persistent Middle East tensions and stalled US-Iran n",
     "M\u1ed9t c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng \u0111\u01b0\u1ee3c t\u1ef1 doanh CTCK \"gom\" r\u00f2ng g\u1ea7n 200 t\u1ef7 \u0111\u1ed3ng phi\u00ean 13/10",
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance"
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
+    "Khung c\u1ea3nh t\u1ef1a phim t\u1eadn th\u1ebf: Kh\u00f3i m\u00f9 b\u00f9ng ph\u00e1t li\u00ean t\u1ee5c trong h\u01a1n 3 th\u00e1ng",
+    "SHB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SAHABANK - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt | Vietstock",
+    "UnitedHealth Group raises profit forecast on third-quarter earnings beat - Tradi",
+    "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
+    "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high ",
+    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla"
   ]
 }
