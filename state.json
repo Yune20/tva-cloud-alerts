@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791867630.4070137,
-  "last_bot4": 1791873348.0895705,
+  "last_bot4": 1791874020.3276112,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791872684.0816932
+    "Gold": 1791874020.327514
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791873348.09281,
+  "last_signals": 1791874020.3373163,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,13 +86,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791873350.8485453,
-    "EUR/USD|1D:bot": 1791871706.1345243
+    "DXY|1D:top": 1791874023.7494478,
+    "EUR/USD|1D:bot": 1791874023.0071568
   },
-  "last_analysis": 1791873651.4759662,
-  "last_news": 1791873348.0886493,
+  "last_analysis": 1791874008.8704786,
+  "last_news": 1791874017.5162728,
   "seen_news": [
-    "Euro remains on the back foot amid French debt concerns",
-    "Gold falls toward hourly moving averages. Can sellers keep control?",
-    "T\u1eebng \u00f4m 20 t\u1ea5n c\u00e0 ph\u00ea t\u1ed3n kho gi\u1eefa \u0111\u1ea1i d\u1ecbch, c\u1ea7m c\u1ed1 nh\u00e0, cho thu\u00ea xe \u0111\u1ec3 v\u01b0\u1ee3t kh\u00f3",
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "IREN Stock Gains as Report Names Anthropic as Cloud Client - TradingView",
-    "Tokenization could unleash tens of billions of dollars in trapped capital, Nasda",
     "B\u1ea5t ng\u1edd m\u1ed9t 'm\u1ecf v\u00e0ng' c\u1ee7a Vi\u1ec7t Nam \u0111\u01b0\u1ee3c M\u1ef9 s\u0103n \u0111\u00f3n trong 9 th\u00e1ng: Nhi\u1ec1u c\u01b0\u1eddng qu",
     "B\u00e1o c\u00e1o T\u1ed5ng k\u1ebft Th\u1ecb tr\u01b0\u1eddng: Th\u00e1ng 09/2026 -Thanh kho\u1ea3n th\u1ea5p, kh\u1ed1i ngo\u1ea1i ti\u1ebfp t\u1ee5",
     "AMD Wants a Bigger Piece of the AI Stack - TradingView",
@@ -441,6 +435,12 @@
     "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants ",
     "Banks are set to report this week. Here's what the options market expects",
     "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-    "Sterling today: Pound edges up as dollar dips on Treasury pause"
+    "Sterling today: Pound edges up as dollar dips on Treasury pause",
+    "Brazilian stocks are breaking out as investors look for opportunities beyond tec",
+    "Cyber attack hits hundreds of French supermarkets, heating fridges to 122\u00b0F and ",
+    "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
+    "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.84%",
+    "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearis",
+    "More on Standard Chartered adding RLUSD custody in Dubai, eyes LMAX collateral l"
   ]
 }
