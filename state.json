@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791911678.0771067,
+  "last_news_report": 1791922617.2669752,
   "last_bot4": 1791922283.4491048,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791921997.1601152,
+  "last_signals": 1791922617.2679753,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791921999.5336003,
-    "EUR/USD|1D:bot": 1791921998.9880326,
-    "US30|1D:top": 1791921998.4808855,
-    "GBP/USD|4H:top": 1791921998.7807503
+    "DXY|1D:top": 1791922620.2959404,
+    "EUR/USD|1D:bot": 1791922619.597202,
+    "US30|1D:top": 1791922618.8998225,
+    "GBP/USD|4H:top": 1791922619.2963955
   },
-  "last_analysis": 1791921990.715294,
-  "last_news": 1791921997.159265,
+  "last_analysis": 1791922603.0204124,
+  "last_news": 1791922611.3679438,
   "seen_news": [
-    "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks ",
-    "Here\u2019s how much extra money could be in your monthly Social Security check next ",
-    "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Hout",
-    "Car finance compensation payments delayed until next year",
-    "TSX futures rise amid easing bond yields, higher gold prices",
-    "Brent: Uptrend intact with $114\u2013116 in sight \u2013 Societe Generale",
     "Delta delays debut of Saudi Arabia service until March after Riyadh airport atta",
     "The start-ups hoping to return battery making to the US",
     "Barclays boosts Viking Holdings target to $102, citing strong entry point",
@@ -443,6 +437,12 @@
     "Fed\u2019s Barkin says persistent inflation warrants policy action",
     "US CPI: Energy prices expected to lift headline inflation. Will core stay contai",
     "C\u01a1n b\u0129 c\u1ef1c c\u1ee7a c\u1ed5 \u0111\u00f4ng FPT: 3 tu\u1ea7n kh\u00f4ng th\u1ea5y m\u00e0u \"xanh\", c\u1ed5 phi\u1ebfu r\u01a1i xu\u1ed1ng v\u00f9n",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi"
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
+    "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
+    "Fed\u2019s Collins backs another rate hike by year-end, flags three inflation pressur",
+    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 14/10: Xu\u1ea5t hi\u1ec7n c\u00f4ng ty \u0111\u1ea7u ti\u00ean b\u00e1o l\u1ed7, 2 doanh ",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
+    "VICI Properties Manages Debt: Is Its Balance Sheet Ready to Grow? - TradingView",
+    "Midterm voters haven\u2019t seen this many housing proposals on the ballot in 20 year"
   ]
 }
