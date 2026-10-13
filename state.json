@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791905248.2750795,
+  "last_signals": 1791905855.048774,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -131,24 +131,18 @@
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
-    "US30|4H:top": 1791905250.3589928,
+    "US30|4H:top": 1791905856.9636164,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791905251.8233325,
-    "EUR/USD|1D:bot": 1791905251.088831,
-    "US30|1D:top": 1791905250.3590083
+    "DXY|1D:top": 1791905858.3679845,
+    "EUR/USD|1D:bot": 1791905857.6664798,
+    "US30|1D:top": 1791905856.9636314
   },
   "last_analysis": 1791905549.9552586,
-  "last_news": 1791905248.2744386,
+  "last_news": 1791905855.00438,
   "seen_news": [
-    "Invitation to Aira's Q3 2026 Earnings Call - TradingView",
-    "CNBC Daily Open: 'Boring' trumps disorder and volatility",
-    "Fridges in French supermarkets hit by cyber attack",
-    "Trump Curbs Farmers\u2019 Access to Funding for Energy Projects",
-    "Why is Finnair stock surging today?",
-    "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
     "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
     "Saudi Arabia Insists Energy Supply Remains Resilient",
     "China\u2019s exports seen growing at faster pace in September: Reuters Poll",
@@ -442,6 +436,12 @@
     "Cairn Homes plc (CRN) Repurchases 95,872 Shares for Cancellation - TradingView",
     "Raising taxes on investments, estates and benefits could keep Social Security fr",
     "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs ",
-    "The Sabrina Carpenter clip which helped a 22-year-old make \u00a3120,000 a year"
+    "The Sabrina Carpenter clip which helped a 22-year-old make \u00a3120,000 a year",
+    "KuCoin Nigeria Limited Gets Conditional SEC Nigeria AIP for ARIP - TradingView",
+    "\u2018Pharma Bro\u2019 Martin Shkreli is in trouble with regulators again, this time for i",
+    "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+    "Heating oil customers face tough winter despite shake-up promise",
+    "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
+    "Boeing delivers 57 jets in September, highest monthly total for year"
   ]
 }
