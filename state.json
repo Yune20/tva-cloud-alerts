@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791895285.471959,
+  "last_signals": 1791895672.658615,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|range_in": 1791894642.6867113,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
-    "5575146754|Gold|4H|range_in": 1791878374.4517255,
+    "5575146754|Gold|4H|range_in": 1791895672.658615,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791854301.7307174,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
@@ -68,8 +68,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|1H": true,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791895288.138912,
-    "EUR/USD|1D:bot": 1791895287.5702362
+    "DXY|1D:top": 1791895675.3720076,
+    "EUR/USD|1D:bot": 1791895674.792383
   },
-  "last_analysis": 1791895269.3427114,
-  "last_news": 1791895282.5415695,
+  "last_analysis": 1791895651.5680115,
+  "last_news": 1791895672.6577296,
   "seen_news": [
-    "Weekly Recap: Record FY revenue with 60% AI sales rise and Hybrid AI plan - Trad",
-    "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 b",
-    "X-planes: Are they needed in the new era of drones?",
-    "Why is HCL Technologies stock surging today?",
-    "EUR/JPY Price Forecast: Remains below 177.00 as bearish bias prevails",
-    "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
     "Gold bounces off $4,150 amid modest USD pullback but stays in two-week-old range",
     "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-",
     "Thanh kho\u1ea3n chung c\u01b0 m\u1edbi \u1edf H\u00e0 N\u1ed9i gi\u1ea3m \u0111\u1ebfn 50%",
@@ -441,6 +435,12 @@
     "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Hout",
     "Car finance compensation payments delayed until next year",
     "TSX futures rise amid easing bond yields, higher gold prices",
-    "Brent: Uptrend intact with $114\u2013116 in sight \u2013 Societe Generale"
+    "Brent: Uptrend intact with $114\u2013116 in sight \u2013 Societe Generale",
+    "Delta delays debut of Saudi Arabia service until March after Riyadh airport atta",
+    "The start-ups hoping to return battery making to the US",
+    "Barclays boosts Viking Holdings target to $102, citing strong entry point",
+    "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI",
+    "Watch the Morning Kickstart video for a technical look at EURUSD, USDJPY and GBP",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance"
   ]
 }
