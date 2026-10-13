@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791889684.5539503,
-  "last_bot4": 1791896545.5454986,
+  "last_bot4": 1791897410.2787817,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791896811.8801153,
+  "last_signals": 1791897410.2796187,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,8 +83,8 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791896813.6816802,
-    "EUR/USD|1D:bot": 1791896813.3233345
+    "DXY|1D:top": 1791897412.714523,
+    "EUR/USD|1D:bot": 1791897412.2729423
   },
   "last_analysis": 1791897116.8802454,
-  "last_news": 1791896811.8792226,
+  "last_news": 1791897410.2780561,
   "seen_news": [
-    "Y\u1ebfu th\u1ebf h\u01a1n h\u1eb3n \u1ea4n \u0110\u1ed9, Th\u00e1i Lan nh\u01b0ng Vi\u1ec7t Nam v\u1eabn \u0111\u01b0\u1ee3c \u0111\u1ea1i b\u00e0ng M\u1ef9 ch\u1ecdn \u0111\u1eb7t nh\u00e0",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
-    "Starbucks says it is not buying Chipotle after takeover speculation",
-    "Spain battles climate change on several fronts",
-    "EUR/USD outlook as euro stays pinned near multi month lows",
     "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
     "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
     "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
@@ -441,6 +435,12 @@
     "3 b\u1ed9 ph\u1eadn c\u1ee7a con l\u1ee3n ch\u1ee9a nhi\u1ec1u cholesterol h\u01a1n c\u1ea3 th\u1ecbt m\u1ee1: To\u00e0n m\u00f3n \u201ckho\u00e1i kh\u1ea9",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
     "Ailux Appoints Lloyd S. Miller as Chief Medical Officer - TradingView",
-    "U.S. wealth has shifted to stocks from homes. There are big reasons to worry."
+    "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+    "Paul Tudor Jones says 2027 could be a really challenging year for the stock mark",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Heat Pumps Are Coming for Coal\u2019s Industrial Heat Market",
+    "SpaceX D2C aggression triggers Piper Sandler downgrade of AST SpaceMobile",
+    "Euro: Lower year-end target at 1.13 against US Dollar \u2013 ING",
+    "What are the main events for today?"
   ]
 }
