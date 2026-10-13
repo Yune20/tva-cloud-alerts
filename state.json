@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791867973.9950783,
+  "last_signals": 1791868579.0036821,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -136,17 +136,11 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791867975.6589923
+    "DXY|1D:top": 1791868580.500744
   },
-  "last_analysis": 1791867965.668732,
-  "last_news": 1791867973.9934912,
+  "last_analysis": 1791868570.6155117,
+  "last_news": 1791868578.920545,
   "seen_news": [
-    "H\u01a1n 8 tri\u1ec7u ng\u01b0\u1eddi d\u00e2n H\u00e0 N\u1ed9i chu\u1ea9n b\u1ecb ch\u1ee9ng ki\u1ebfn s\u1ef1 thay \u0111\u1ed5i quan tr\u1ecdng tr\u00ean to\u00e0",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "J&J long-term Tremfya data demonstrates Crohn's remission through three years - ",
-    "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Gr",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears",
     "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
     "Goldman Sachs flags power and compute as two chokepoints in the AI boom",
     "Si\u00eau \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 250 km/h, v\u1ed1n \u0111\u1ea7u t\u01b0 174.000 t\u1ef7 \u0111\u1ed3ng ch\u1ea1y xuy\u00ean khu v\u1ef1c \u0111",
@@ -440,6 +434,12 @@
     "EXIT HOUSE Launches Protocol to Swap NFTs/Tokens for EXIT - TradingView",
     "Starbucks says it is not buying Chipotle after takeover speculation",
     "Spain battles climate change on several fronts",
-    "EUR/USD outlook as euro stays pinned near multi month lows"
+    "EUR/USD outlook as euro stays pinned near multi month lows",
+    "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+    "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
+    "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
+    "Euro zone ministers tell France to pass 2027 budget to calm markets",
+    "Indian Rupee gains further on RBI\u2019s fresh measures to lower US Dollar\u2019s demand",
+    "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low a"
   ]
 }
