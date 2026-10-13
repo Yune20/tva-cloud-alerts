@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1791900764.9845006,
-  "last_bot4": 1791910943.3964975,
+  "last_news_report": 1791911678.0771067,
+  "last_bot4": 1791911678.0781765,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791911303.4727063,
+  "last_signals": 1791911678.0786915,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791911307.2243853,
-    "EUR/USD|1D:bot": 1791911306.2652893,
-    "US30|1D:top": 1791911305.3925228
+    "DXY|1D:top": 1791911679.9414372,
+    "EUR/USD|1D:bot": 1791911679.5595074,
+    "US30|1D:top": 1791911679.1781042
   },
-  "last_analysis": 1791911294.4874592,
-  "last_news": 1791911303.4717407,
+  "last_analysis": 1791911662.7030876,
+  "last_news": 1791911673.3448324,
   "seen_news": [
-    "Why is Schaeffler stock sliding today?",
-    "Euro strengthens against Canadian Dollar as German HICP inflation accelerates, o",
-    "Connecting the dots: How the AI boom could turn into the Fed's next inflation he",
-    "Th\u1ea1c s\u0129 ng\u00e0nh ph\u00e2n ph\u1ed1i b\u00e1n l\u1ebb 38 tu\u1ed5i c\u00f3 t\u00e0i s\u1ea3n 7.800 t\u1ef7",
-    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
-    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
     "BlackRock cuts US stocks to neutral and buys Treasuries as 10-year yield nears 5",
     "\u201cCh\u1ea5t Ngh\u1ec7\u201d, \u201cch\u1ea5t Vinh\u201d t\u1ea1i bi\u1ec3u t\u01b0\u1ee3ng s\u1ed1ng m\u1edbi gi\u1eefa l\u00f5i trung t\u00e2m Vinh",
     "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
@@ -442,6 +436,12 @@
     "Why MongoDB (MDB) Stock Is Trading Up Today - TradingView",
     "I keep comparing myself to my more financially successful friends. How can I sto",
     "The AI trade is cracking. Here's how to profit",
-    "Publicly owned rail is popular. But is it making the trains run on time?"
+    "Publicly owned rail is popular. But is it making the trains run on time?",
+    "Comprehensive Healthcare Systems Inc. (CHS) To Acquire America's Choice Healthpl",
+    "In charts: How one of the world's biggest economies got trapped by debt",
+    "Roofing scammers con homeowners out of thousands of pounds",
+    "China\u2019s $3 Billion Qatar LNG Deal Raises an Awkward Question",
+    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
+    "EUR/GBP Price Forecast: Downtrend remains firm despite deeply oversold RSI"
   ]
 }
