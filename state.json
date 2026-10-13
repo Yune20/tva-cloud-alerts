@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791934653.8041081,
+  "last_signals": 1791935247.900077,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791934655.2072592,
+    "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791932841.6320865,
     "GBP/USD|4H:top": 1791934047.3662043
   },
   "last_analysis": 1791934948.7405877,
-  "last_news": 1791934649.3337727,
+  "last_news": 1791935247.8994334,
   "seen_news": [
-    "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market",
-    "Martin Shkreli violated lifetime pharma industry ban, FTC and states say",
-    "British Pound: Upside momentum builds against Euro \u2013 Societe Generale",
-    "USDCHF ping-pong's between support and resistance targets",
-    "U60 v\u1eabn tr\u1ebb h\u01a1n tu\u1ed5i nh\u1edd th\u00f3i quen u\u1ed1ng n\u01b0\u1edbc d\u01b0\u1ee1ng nhan gi\u00fap da \u0111\u1eb9p, t\u00f3c kh\u1ecfe m\u1ed7",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Canadian Dollar: Modest gains against US Dollar - Scotiabank",
     "European stock market open: Stocks edge higher but gains remain tentative ahead ",
     "\u201cNay n\u00f3ng qu\u00e1 m\u1eb9 \u1ea1\u201d - \u201c\u0110\u1ea7y ng\u01b0\u1eddi ph\u1ea3i l\u00e0m vi\u1ec7c ngo\u00e0i tr\u1eddi n\u1eafng kia k\u00eca\u201d: Ki\u1ec3u n\u00f3",
@@ -443,6 +437,12 @@
     "Top 5 con gi\u00e1p c\u00f3 d\u00f2ng ti\u1ec1n \u1ed5n nh\u1ea5t th\u00e1ng 9 \u00c2m l\u1ecbch",
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "FBS Global regains Nasdaq minimum bid price compliance; shares surge - TradingVi",
-    "Goldman says investors are looking for 'profitable' Chinese business growth over"
+    "Goldman says investors are looking for 'profitable' Chinese business growth over",
+    "Apple l\u1ea7n \u0111\u1ea7u ra m\u1eaft m\u00e0n h\u00ecnh th\u00f4ng minh HomeView, gi\u00e1 g\u1ea7n 8 tri\u1ec7u \u0111\u1ed3ng",
+    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank | VietstockFinance - VietstockFinance",
+    "Ibovespa Drops as Inflation Forecast Rises - TradingView",
+    "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+    "Heating oil customers face tough winter despite shake-up promise",
+    "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says"
   ]
 }
