@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791930339.7235425,
+  "last_signals": 1791930952.0843973,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791925711.0490537,
+    "5575146754|Gold|1H|range_in": 1791930952.0843973,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791930341.793081,
+    "DXY|1D:top": 1791930953.538766,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791930340.9980397,
-    "GBP/USD|4H:top": 1791930341.192499
+    "US30|1D:top": 1791930952.9011917,
+    "GBP/USD|4H:top": 1791930953.0494547
   },
-  "last_analysis": 1791930331.4099603,
-  "last_news": 1791930339.7226503,
+  "last_analysis": 1791930944.2035785,
+  "last_news": 1791930952.08355,
   "seen_news": [
-    "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,00",
-    "Six Flags shares decline following deadly roller coaster incident",
-    "What are your rights on auto-renew subscriptions?",
-    "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
-    "S&P upgrades Kioxia to BBB on strong AI-driven growth and upbeat outlook",
-    "Australian Dollar edges higher as softer US Dollar, hawkish RBA offer support",
     "Thousands of homeowners face adjustable-rate mortgage resets \u2014 and much higher p",
     "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
     "Global Coal Demand Rises as LNG Shortage Deepens",
@@ -443,6 +437,12 @@
     "Bearish AI Headlines: An Artificial Wave of Panic - TradingView",
     "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
     "The virtual worlds where robots are trained",
-    "Indian rupee rebounds from near record low after RBI unveils support measures"
+    "Indian rupee rebounds from near record low after RBI unveils support measures",
+    "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
+    "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US D",
+    "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
+    "How to read a whale alert: an Ethereum case study and a 5-point checklist",
+    "Ng\u00e0y c\u00e0ng \u00edt ng\u01b0\u1eddi mua gi\u01b0\u1eddng 1,8m: Ng\u01b0\u1eddi b\u00e1n n\u1ed9i th\u1ea5t ch\u1ec9 ra 4 l\u00fd do, nghe xong",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock"
   ]
 }
