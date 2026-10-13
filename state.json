@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791895672.658615,
+  "last_signals": 1791896272.8802383,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791895675.3720076,
-    "EUR/USD|1D:bot": 1791895674.792383
+    "DXY|1D:top": 1791896275.1304595,
+    "EUR/USD|1D:bot": 1791896274.3321455
   },
-  "last_analysis": 1791895651.5680115,
-  "last_news": 1791895672.6577296,
+  "last_analysis": 1791896261.9017518,
+  "last_news": 1791896272.8794115,
   "seen_news": [
-    "Gold bounces off $4,150 amid modest USD pullback but stays in two-week-old range",
-    "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-",
-    "Thanh kho\u1ea3n chung c\u01b0 m\u1edbi \u1edf H\u00e0 N\u1ed9i gi\u1ea3m \u0111\u1ebfn 50%",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
-    "Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall - TradingView",
-    "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest los",
     "Doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n do b\u00e0 D\u01b0\u01a1ng Th\u1ecb Mai Hoa \u0111i\u1ec1u h\u00e0nh t\u0103ng v\u1ed1n l\u00ean 2.600 t",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
     "Micron authorizes record $35.16B share buyback program starting Dec. 9 - Trading",
@@ -441,6 +435,12 @@
     "Barclays boosts Viking Holdings target to $102, citing strong entry point",
     "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI",
     "Watch the Morning Kickstart video for a technical look at EURUSD, USDJPY and GBP",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "X-planes: Are they needed in the new era of drones?",
+    "Canadian dollar gains as U.S. dollar retreats from 18-month high",
+    "Indian Rupee: RBI measures support near term \u2013 MUFG",
+    "Silver trims losses as oil prices ease, but downside risks persist; focus turns ",
+    "\u0110i\u1ec1u tra lo\u1ea1t giao d\u1ecbch chuy\u1ec3n kho\u1ea3n, c\u00f4ng an b\u1eaft L\u00e3 Minh H\u1ed3ng SN 1983",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi"
   ]
 }
