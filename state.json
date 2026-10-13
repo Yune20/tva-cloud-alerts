@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791892127.085565,
+  "last_signals": 1791892745.1292334,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,10 +71,10 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791892129.5481596,
-    "EUR/USD|1D:bot": 1791892129.0493956
+    "DXY|1D:top": 1791892748.9319654,
+    "EUR/USD|1D:bot": 1791892748.0153008
   },
-  "last_analysis": 1791892120.286325,
-  "last_news": 1791892127.0848784,
+  "last_analysis": 1791892732.3376658,
+  "last_news": 1791892745.1270227,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Nektar, Protagonist, Shattuck are Leerink top picks in emerging immunology - Tra",
-    "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Hout",
-    "What are your rights on auto-renew subscriptions?",
-    "Nasdaq futures slide amid chip selloff; Q3 earnings, inflation data loom",
-    "IMF forecasts global real GDP growth of 3.1% in 2026",
     "China's Auto Exports Explode as Domestic Demand Craters",
     "TSMC, ASML earnings on tap: Bull and bear cases for tech outlined",
     "Japanese Yen strengthens despite softer PPI data",
@@ -441,6 +435,12 @@
     "SPCX: SpaceX Stock Extends Gains After Mobile Push Sends Telecoms Tumbling - Tra",
     "The South Korean stock market is in free fall, and these are the reasons",
     "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
-    "Would you buy branded clothing from your favourite tech firm?"
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Humana partners with BlackRock in $2.8B CenterWell clinic deal - TradingView",
+    "Six Flags\u2019 stock slumps near 52-week lows after fatal accident",
+    "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Why is BioNTech stock sliding today?",
+    "GBP/JPY Price Forecast: looking for direction between 209.00 and 210.00"
   ]
 }
