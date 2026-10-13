@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791877765.5810812,
+  "last_signals": 1791878374.4517255,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,10 +47,10 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791873348.09281,
+    "5575146754|Gold|1H|range_in": 1791878374.4517255,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
-    "5575146754|Gold|4H|range_in": 1791873348.09281,
+    "5575146754|Gold|4H|range_in": 1791878374.4517255,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791854301.7307174,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
@@ -68,8 +68,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|1H": true,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -136,18 +136,12 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791877768.0854902,
-    "EUR/USD|1D:bot": 1791877767.5360966
+    "DXY|1D:top": 1791878375.8954275,
+    "EUR/USD|1D:bot": 1791878375.5786974
   },
-  "last_analysis": 1791877757.060699,
-  "last_news": 1791877765.5803158,
+  "last_analysis": 1791878367.328716,
+  "last_news": 1791878374.4508955,
   "seen_news": [
-    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "This Ultra-Rare Gas Could Become An Ace In Canada\u2019s Hands",
-    "Yen weakness since 2025 has been limited to offshore hours: analysis",
-    "Euro hits fresh yearly low against British Pound as French fiscal concerns weigh",
-    "IMF\u2019s Georgieva calls AI a slow-moving tsunami (again) for jobs as graduates fee",
-    "Huy \u0111\u1ed9ng 2.046 ng\u01b0\u1eddi v\u00e0 897 m\u00e1y m\u00f3c, \u0110\u00e8o C\u1ea3 quy\u1ebft mang tin vui t\u1ea1i d\u1ef1 \u00e1n giao th",
     "Small Indian Factories Face Blackouts as Coal Stocks Plunge",
     "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.06%",
     "Dollar Index hits an 18-month high as the energy ceasefire fails",
@@ -441,6 +435,12 @@
     "US Natural Gas Prices Edge Lower - TradingView",
     "Tech stocks slide as Wall Street chip rout spreads. SK Hynix, SoftBank and ASML ",
     "Dating app Bumble in $1bn takeover talks, say reports",
-    "Dollar dips from 18-mth high; rupee extends gains after RBI intervention"
+    "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
+    "Oil price volatility takes gold for a ride as focus turns to US CPI next. What t",
+    "Lao \u0111\u1ed9ng n\u01b0\u1edbc ngo\u00e0i \u0111\u01b0\u1ee3c tr\u1ea3 th\u00eam 1% ti\u1ec1n l\u01b0\u01a1ng thay b\u1ea3o hi\u1ec3m th\u1ea5t nghi\u1ec7p",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Germany's Schaeffler prelim 9M revenue dips amid declining project volumes in Ch",
+    "IMF sees milder global slowdown as AI boom offsets war hit \u2014 warns resilience is",
+    "Trump faces growing backlash over plans to import diesel from Russia"
   ]
 }
