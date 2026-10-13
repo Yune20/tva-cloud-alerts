@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791900764.9845006,
-  "last_bot4": 1791905553.629937,
+  "last_bot4": 1791906447.3893464,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791905855.048774,
+  "last_signals": 1791906447.3903852,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,16 +68,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -131,24 +131,18 @@
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
     "USOIL|4H:top": 1791842690.7925627,
-    "US30|4H:top": 1791905856.9636164,
+    "US30|4H:top": 1791906448.436613,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791905858.3679845,
-    "EUR/USD|1D:bot": 1791905857.6664798,
-    "US30|1D:top": 1791905856.9636314
+    "DXY|1D:top": 1791906449.3154073,
+    "EUR/USD|1D:bot": 1791906448.8836741,
+    "US30|1D:top": 1791906448.436632
   },
   "last_analysis": 1791906153.5876124,
-  "last_news": 1791905855.00438,
+  "last_news": 1791906447.3885195,
   "seen_news": [
-    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-    "Saudi Arabia Insists Energy Supply Remains Resilient",
-    "China\u2019s exports seen growing at faster pace in September: Reuters Poll",
-    "Oil: Market focuses on Persian Gulf risks \u2013 ING",
-    "European stock market open: Stocks edge higher but gains remain tentative ahead ",
-    "Trang web vi\u1ebft b\u1eb1ng AI trong b\u1ed1n gi\u1edd b\u00f3c tr\u1ea7n s\u1ef1 th\u1eadt nghi\u1ec7t ng\u00e3 v\u1ec1 s\u1ed1 ph\u1eadn con ",
     "H\u00e0 N\u1ed9i: D\u1edf kh\u00f3c d\u1edf c\u01b0\u1eddi b\u1eafc v\u00e1n v\u00e0o nh\u00e0 v\u00ec c\u1ed1ng tho\u00e1t n\u01b0\u1edbc cao nh\u01b0 't\u01b0\u1eddng th\u00e0nh'",
     "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
     "US Natural Gas Prices Edge Lower - TradingView",
@@ -442,6 +436,12 @@
     "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
     "Heating oil customers face tough winter despite shake-up promise",
     "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
-    "Boeing delivers 57 jets in September, highest monthly total for year"
+    "Boeing delivers 57 jets in September, highest monthly total for year",
+    "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because ",
+    "Fridges in French supermarkets hit by cyber attack",
+    "Saudi Arabia Becomes the Oil Market\u2019s Biggest Wild Card",
+    "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, source",
+    "Taiwan Dollar: Monetary tightening and housing recovery \u2013 DBS",
+    "Australian business confidence slides to -13 as oil shock and rate hikes bite, N"
   ]
 }
