@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791913201.735677,
+  "last_signals": 1791913805.3820095,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,16 +70,16 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -136,19 +136,13 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791913205.860302,
-    "EUR/USD|1D:bot": 1791913205.0044115,
-    "US30|1D:top": 1791913204.1178434
+    "DXY|1D:top": 1791913808.9909115,
+    "EUR/USD|1D:bot": 1791913808.252181,
+    "US30|1D:top": 1791913807.5280666
   },
-  "last_analysis": 1791913191.5475187,
-  "last_news": 1791913201.734936,
+  "last_analysis": 1791913794.7665606,
+  "last_news": 1791913805.3805768,
   "seen_news": [
-    "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
-    "Stellantis Q3 shipments fall 1%, weighed down by North America production halt",
-    "US Dollar: Overbought signals but no clear catalyst \u2013 ING",
-    "Oil prices retreat despite persistent Middle East tensions and stalled US-Iran n",
-    "M\u1ed9t c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng \u0111\u01b0\u1ee3c t\u1ef1 doanh CTCK \"gom\" r\u00f2ng g\u1ea7n 200 t\u1ef7 \u0111\u1ed3ng phi\u00ean 13/10",
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
     "Khung c\u1ea3nh t\u1ef1a phim t\u1eadn th\u1ebf: Kh\u00f3i m\u00f9 b\u00f9ng ph\u00e1t li\u00ean t\u1ee5c trong h\u01a1n 3 th\u00e1ng",
     "SHB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SAHABANK - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt | Vietstock",
     "UnitedHealth Group raises profit forecast on third-quarter earnings beat - Tradi",
@@ -442,6 +436,12 @@
     "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
     "Bitcoin recovers losses as oil prices ease: focus turns to US CPI as next key ca",
     "Kh\u00f4ng ph\u1ea3i b\u00e1c s\u0129 hay k\u1ef9 s\u01b0 AI: B\u01b0\u1edbc ngo\u1eb7t t\u00e1o b\u1ea1o c\u1ee7a n\u1eef CEO startup Vi\u1ec7t v\u00e0 th",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
+    "How to read your body\u2019s warning signs years before you get sick",
+    "Social Security cost-of-living adjustment for 2027 may be above average. Some sa",
+    "Poundland in rescue talks as owners seek buyer",
+    "Qualcomm says jury found Arm breached license agreement"
   ]
 }
