@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791921388.1043723,
+  "last_signals": 1791921997.1601152,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791921392.5551198,
-    "EUR/USD|1D:bot": 1791921392.0000896,
-    "US30|1D:top": 1791921391.5382326,
-    "GBP/USD|4H:top": 1791921391.7844481
+    "DXY|1D:top": 1791921999.5336003,
+    "EUR/USD|1D:bot": 1791921998.9880326,
+    "US30|1D:top": 1791921998.4808855,
+    "GBP/USD|4H:top": 1791921998.7807503
   },
-  "last_analysis": 1791921382.1406822,
-  "last_news": 1791921388.1034026,
+  "last_analysis": 1791921990.715294,
+  "last_news": 1791921997.159265,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "Pakistan Faces $1 Billion LNG Bill This Winter",
-    "Cipher Digital stock drops 12% following $850 million debt offering",
-    "Australian Dollar remains weak despite hawkish RBA minutes",
-    "Solana underperforms as US spot Solana ETFs record net outflows, ending a 14-wee",
-    "M\u1ed9t ti\u1ebfn s\u0129 v\u1eeba b\u1ecb c\u00f4ng ty ch\u1ee9ng kho\u00e1n b\u00e1n gi\u1ea3i ch\u1ea5p c\u1ed5 phi\u1ebfu",
     "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks ",
     "Here\u2019s how much extra money could be in your monthly Social Security check next ",
     "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Hout",
@@ -443,6 +437,12 @@
     "Three things we've learnt about the UK economy from the IMF",
     "Alphabet C tests $353 resistance in ascending triangle: Live",
     "Euro: Soft undertone but fair value higher against US Dollar \u2013 Scotiabank",
-    "investingLive European news wrap: Risk sentiment improves as oil prices ease"
+    "investingLive European news wrap: Risk sentiment improves as oil prices ease",
+    "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
+    "U.S.  debt finds breathing room, countering energy spike",
+    "Fed\u2019s Barkin says persistent inflation warrants policy action",
+    "US CPI: Energy prices expected to lift headline inflation. Will core stay contai",
+    "C\u01a1n b\u0129 c\u1ef1c c\u1ee7a c\u1ed5 \u0111\u00f4ng FPT: 3 tu\u1ea7n kh\u00f4ng th\u1ea5y m\u00e0u \"xanh\", c\u1ed5 phi\u1ebfu r\u01a1i xu\u1ed1ng v\u00f9n",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi"
   ]
 }
