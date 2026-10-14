@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791953430.8254561,
+  "last_signals": 1791954038.1759303,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -130,7 +130,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791953431.1813753,
+    "USOIL|4H:top": 1791954038.506343,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791953431.7524812,
+    "US30|1D:top": 1791954039.0162685,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791953422.531797,
-  "last_news": 1791953430.8243508,
+  "last_analysis": 1791954030.498288,
+  "last_news": 1791954038.1750655,
   "seen_news": [
-    "Fed\u2019s Collins signals further rate hikes likely as inflation risks persist",
-    "Fed's Collins backs September hike, sees Oil and AI driving inflation",
-    "Catch up time! Oil settles mixed, Brent near $106; booms reported near Aramco HQ",
-    "H\u00f2n \u0111\u1ea3o 10.333 t\u1ef7 \u0111\u1ed3ng, b\u1ed1n m\u1eb7t gi\u00e1p s\u00f4ng ngay s\u00e1t TP.HCM: T\u1eadp \u0111o\u00e0n c\u1ee7a \u00f4ng \u0110\u1eb7ng",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
-    "Samsung Stocks Drop 4.4% Despite Record Profit Guidance - TradingView",
     "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
     "Fed\u2019s Collins says uncertainty is elevated as she watches breadth of inflation p",
     "T\u1eadp \u0111o\u00e0n Geleximco c\u1ee7a \u0111\u1ea1i gia V\u0169 V\u0103n Ti\u1ec1n b\u1eaft tay DN Trung Qu\u1ed1c, nh\u1eafm lo\u1ea1t d\u1ef1 \u00e1",
@@ -443,6 +437,12 @@
     "DN b\u00e1n l\u1ebb 102.000 t\u1ef7 t\u00ecm ng\u01b0\u1eddi d\u1eabn d\u1eaft 1 si\u00eau d\u1ef1 \u00e1n: ch\u1ec9 tuy\u1ec3n 'tinh hoa', d\u00e1m l",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
     "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
-    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst "
+    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
+    "Doanh nghi\u1ec7p t\u1ef1 quy\u1ebft gi\u00e1 x\u0103ng d\u1ea7u nh\u01b0ng c\u00f4ng b\u1ed1 gi\u00e1 m\u1edbi \u00edt nh\u1ea5t tr\u01b0\u1edbc 30 ph\u00fat",
+    "NVB: Ng\u00e2n h\u00e0ng TMCP Qu\u1ed1c D\u00e2n - NCB | VietstockFinance - VietstockFinance",
+    "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
+    "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
+    "Judge indefinitely extends block on Trump White House ban of three media outlets",
+    "Bank of America hit with $1.2bn fine for money laundering failings"
   ]
 }
