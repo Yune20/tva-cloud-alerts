@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791933451.2587185,
-  "last_bot4": 1791934653.8032095,
+  "last_bot4": 1791935801.0936656,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791934653.8031492
+    "Gold": 1791935801.09358
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791935247.900077,
+  "last_signals": 1791935801.0943902,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -141,15 +141,9 @@
     "US30|1D:top": 1791932841.6320865,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791934948.7405877,
-  "last_news": 1791935247.8994334,
+  "last_analysis": 1791935790.4521403,
+  "last_news": 1791935798.4473646,
   "seen_news": [
-    "Canadian Dollar: Modest gains against US Dollar - Scotiabank",
-    "European stock market open: Stocks edge higher but gains remain tentative ahead ",
-    "\u201cNay n\u00f3ng qu\u00e1 m\u1eb9 \u1ea1\u201d - \u201c\u0110\u1ea7y ng\u01b0\u1eddi ph\u1ea3i l\u00e0m vi\u1ec7c ngo\u00e0i tr\u1eddi n\u1eafng kia k\u00eca\u201d: Ki\u1ec3u n\u00f3",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "Corvex Urges Whitbread Shareholders To Back James Gemmel's Election To Board - T",
-    "Hedge-fund legend Paul Tudor Jones says the stock market faces a really challeng",
     "M\u1ecf d\u1ea7u kh\u1ed5ng l\u1ed3 100 tri\u1ec7u th\u00f9ng c\u1ee7a Vi\u1ec7t Nam v\u1eeba \u0111i v\u00e0o khai th\u00e1c, t\u1eadp \u0111o\u00e0n M\u1ef9 l",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Invitation to Aira's Q3 2026 Earnings Call - TradingView",
@@ -443,6 +437,12 @@
     "Ibovespa Drops as Inflation Forecast Rises - TradingView",
     "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
     "Heating oil customers face tough winter despite shake-up promise",
-    "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says"
+    "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
+    "TSX Rises as Banks and Energy Stocks Advance - TradingView",
+    "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+    "The Sabrina Carpenter clip which helped a 22-year-old make \u00a3120,000 a year",
+    "Saudi Arabia Becomes the Oil Market\u2019s Biggest Wild Card",
+    "Why is Grupo Televisa stock surging today?",
+    "Taiwan Dollar: Monetary tightening and housing recovery \u2013 DBS"
   ]
 }
