@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792010507.3148055,
-  "last_bot4": 1792012955.7298357,
+  "last_bot4": 1792013855.3069324,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792013248.3232307,
+  "last_signals": 1792013855.3075852,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -145,24 +145,19 @@
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1791950972.5520308,
-    "EUR/USD|1D:bot": 1792013250.7543697,
+    "EUR/USD|1D:bot": 1792013857.536962,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792013251.1138105,
-    "JPY Index|1D:top": 1792013251.854725,
-    "GBP/USD|1D:bot": 1792013250.4393475,
-    "Gold|1D:bot": 1792013248.6208358
+    "USD/JPY|1D:top": 1792013858.051093,
+    "JPY Index|1D:top": 1792013858.8951263,
+    "GBP/USD|1D:bot": 1792013857.2788188,
+    "Gold|1D:bot": 1792013855.5969956,
+    "Ethereum|4H:bot": 1792013856.5101645
   },
   "last_analysis": 1792013549.2690506,
-  "last_news": 1792013248.3222868,
+  "last_news": 1792013855.3061962,
   "seen_news": [
-    "US CPI Rises 0.6% in September as Energy Prices Surge - TradingView",
-    "I lost my home in the Great Recession. I still rent in my 50s. Why is that judge",
-    "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
-    "Japan to invest up to $21 billion in two US chip factories to be run by GlobalFo",
-    "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
     "Chipotle Stock Slips as Starbucks Denies Takeover Plan - TradingView",
     "Gen Z renters are the only group more likely to feel successful by investing tha",
@@ -456,6 +451,12 @@
     "Russia stocks lower at close of trade; MOEX Russia Index down 0.30%",
     "Oil: Private survey of inventory shows a huge headline crude oil draw",
     "Khoan th\u0103m d\u00f2 xu\u1ed1ng \u0111\u00e1y bi\u1ec3n, ph\u00e1t hi\u1ec7n m\u1ecf d\u1ea7u kh\u00ed c\u00f3 th\u1ec3 khai th\u00e1c t\u1edbi 50 tri\u1ec7u",
-    "CTCP HHP Global - VietstockFinance"
+    "CTCP HHP Global - VietstockFinance",
+    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
+    "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026\u20132027 WORLD ",
+    "Huy \u0111\u1ed9ng h\u01a1n 30.000 ng\u01b0\u1eddi x\u00e2y si\u00eau s\u00e2n bay 275.000 t\u1ef7 \u0111\u1ed3ng, r\u1ed9ng g\u1ea5p 14 l\u1ea7n N\u1ed9i ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
+    "US Stocks Dip Amid Hot Inflation and Chipmaker Weakness - TradingView",
+    "The COLA wars are coming for Social Security"
   ]
 }
