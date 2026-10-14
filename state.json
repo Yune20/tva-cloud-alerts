@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791933451.2587185,
-  "last_bot4": 1791936692.9154012,
+  "last_bot4": 1791937379.0093193,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791935801.09358
+    "Gold": 1791937379.0092244
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791937024.7917717,
+  "last_signals": 1791937379.0100265,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791930952.0843973,
+    "5575146754|Gold|1H|range_in": 1791937379.0100265,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -85,7 +85,7 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791937027.7181442,
+    "US30|1D:top": 1791937380.6588593,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791937011.4535906,
-  "last_news": 1791937024.790958,
+  "last_analysis": 1791937367.2222104,
+  "last_news": 1791937375.9874406,
   "seen_news": [
-    "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
-    "Trump faces growing backlash over plans to import diesel from Russia",
-    "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO",
-    "Yen weakness since 2025 has been limited to offshore hours: analysis",
-    "Dollar Index slips from its 18-month high before US CPI",
-    "Oil price volatility takes gold for a ride as focus turns to US CPI next. What t",
     "IMF Warns Middle East War Could Derail Global Economic Growth",
     "Applied Materials shares slide as chip equipment outlook remains uncertain",
     "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
@@ -443,6 +437,12 @@
     "\u0110\u00fang 9h s\u00e1ng mai - 15/10, m\u1ed9t m\u00e1y bay Cessna 208 s\u1ebd th\u1ef1c hi\u1ec7n nhi\u1ec7m v\u1ee5 \u0111\u1eb7c bi\u1ec7t ",
     "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
     "Bitcoin will break above $100K again, Strategy's Saylor reportedly says - Tradin",
-    "Singapore third-quarter GDP growth softens from four-year high but beats estimat"
+    "Singapore third-quarter GDP growth softens from four-year high but beats estimat",
+    "British Pound: Upside momentum builds against Euro \u2013 Societe Generale",
+    "Saylor sees Bitcoin above $100,000, says investors will seek (scarce) assets tha",
+    "TPHCM b\u00e0n quy ho\u1ea1ch t\u1ea7m nh\u00ecn 100 n\u0103m, khu th\u01b0\u01a1ng m\u1ea1i t\u1ef1 do",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
+    "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because "
   ]
 }
