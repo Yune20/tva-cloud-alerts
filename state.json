@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791985450.7187204,
+  "last_signals": 1791985823.4640732,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -57,9 +57,10 @@
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
     "5575146754|Gold|4H|dbot": 1791981340.3121903,
-    "5575146754|Gold|4H|dn": 1791981941.7095995,
+    "5575146754|Gold|4H|dn": 1791985823.4640732,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
-    "5575146754|Gold|1D|tbot": 1791985450.7187204
+    "5575146754|Gold|1D|tbot": 1791985450.7187204,
+    "5575146754|Gold|1D|dbot": 1791985823.4640732
   },
   "sig_range": {
     "Gold": true,
@@ -73,10 +74,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -149,17 +150,11 @@
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1791985450.8731966
+    "Gold|1D:bot": 1791985823.8395731
   },
-  "last_analysis": 1791985439.808675,
-  "last_news": 1791985450.7171724,
+  "last_analysis": 1791985810.3446715,
+  "last_news": 1791985823.4630108,
   "seen_news": [
-    "Open AI t\u00f3m s\u1ed1ng k\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m \u0111\u1eb7t thi\u1ebft b\u1ecb nghe l\u00e9n trong ph\u00f2ng h\u1ecdp: \u00c2m m\u01b0u gi",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
-    "LANXESS Aktiengesellschaft (LXS) Receives Major Holdings Notification - TradingV",
-    "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-    "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conf",
-    "The start-ups hoping to return battery making to the US",
     "Aditya Birla Renewables Eyes USD 1.5 Billion Loan for Shell Deal - TradingView",
     "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm.",
     "'Godzilla El Ni\u00f1o' is wreaking havoc with Philippine central bank's inflation fo",
@@ -453,6 +448,12 @@
     "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
     "TSX Futures Edge Higher as Global Yields Stabilize - TradingView",
     "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal o",
-    "ASML says it's getting order interest through 2030 as profit smashes expectation"
+    "ASML says it's getting order interest through 2030 as profit smashes expectation",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
+    "Perpetuals Moves to Offer Tokenized U.S. Stocks Under SEC Innovation Exemption -",
+    "BlackRock now manages assets equal to half the size of the U.S. economy after 15",
+    "Consumer prices rose 3.7% annually in September as gas costs skyrocket",
+    "Driving test waits fall to two-year low - but still average 20 weeks",
+    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar"
   ]
 }
