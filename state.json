@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791976346.3118544,
+  "last_signals": 1791976948.2189138,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791976347.3818808,
+    "US30|1D:top": 1791976949.6005375,
     "GBP/USD|4H:top": 1791934047.3662043
   },
   "last_analysis": 1791976652.3808556,
-  "last_news": 1791976346.3109684,
+  "last_news": 1791976948.2183263,
   "seen_news": [
-    "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
-    "S\u00e0n giao d\u1ecbch t\u00e0i s\u1ea3n m\u00e3 h\u00f3a do con trai b\u1ea7u Th\u1ee5y l\u00e0m Ph\u00f3 Ch\u1ee7 t\u1ecbch t\u0103ng v\u1ed1n g\u1ea5p ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
-    "China's exports and imports surge past expectations in September",
-    "AI is less regulated than milk, says Microsoft president",
     "How to avoid getting stung if you miss credit card payments",
     "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
     "Should you still buy this AI-picked energy refiner after an 82% run?",
@@ -443,6 +437,12 @@
     "BlackRock\u2019s assets equal half the size of the U.S. economy after 15% growth",
     "Delta's business-class revamp: New seats, menus, plates and more Porsches",
     "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eas"
+    "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eas",
+    "Here\u2019s how much the AI boom is contributing to inflation, according to Goldman S",
+    "Morgan Stanley is set to report earnings \u2014 here\u2019s what to expect",
+    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+    "S&P 500 futures edge higher ahead of CPI data, more bank earnings",
+    "Bitcoin consolidates in a tight range ahead of the US CPI. What to watch next?",
+    "VN-Index ti\u1ebfp t\u1ee5c gi\u1ea3m, b\u1ea5t ng\u1edd nh\u00f3m c\u1ed5 phi\u1ebfu \u0111i ng\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng"
   ]
 }
