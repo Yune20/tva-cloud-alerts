@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791977624.6161983,
-  "last_bot4": 1791981649.1371741,
+  "last_bot4": 1791982308.894221,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791981006.1361873
+    "Gold": 1791982308.8941314
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791981941.7095995,
+  "last_signals": 1791982308.894884,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -141,19 +141,15 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791981942.6198938,
+    "US30|1D:top": 1791982310.2262814,
     "GBP/USD|4H:top": 1791934047.3662043,
-    "Gold|4H:bot": 1791981340.5605245
+    "Gold|4H:bot": 1791981340.5605245,
+    "USD/JPY|1D:top": 1791982311.2722292,
+    "JPY Index|1D:top": 1791982311.86826
   },
-  "last_analysis": 1791981649.1357267,
-  "last_news": 1791981941.7088268,
+  "last_analysis": 1791982296.0223339,
+  "last_news": 1791982306.2742271,
   "seen_news": [
-    "Hogs Look to Monday Amid Weakness - TradingView",
-    "My sister moved in with our mother, 78, and now says she deserves the $925,000 f",
-    "Judge indefinitely blocks Trump White House ban of three media outlets",
-    "BA flight forced to turn back over cracked window",
-    "Asia FX subdued ahead of U.S. CPI;\u00a0 China data, Singapore GDP in focus",
-    "Gold draws support from retreating USD; holds above $4,150 as traders await US C",
     "Why are more roofs not made of solar tiles?",
     "U.S.  debt finds breathing room, countering energy spike",
     "UK Finance Minister Healey to fund budget giveaways without extra borrowing \u2014 FT",
@@ -447,6 +443,12 @@
     "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
     "How to avoid getting stung if you miss credit card payments",
     "Albemarle gains as Mizuho upgrades stock on surging energy storage demand",
-    "US September CPI 3.7% vs 3.6% expected"
+    "US September CPI 3.7% vs 3.6% expected",
+    "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
+    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
+    "Canada August building permits rise 8.8% vs 2.0% expected",
+    "Ch\u1ee7 t\u1ecbch t\u1ec9nh Ngh\u1ec7 An g\u1ecdi \u0111i\u1ec7n \u0111\u00f4n \u0111\u1ed1c nh\u00e0 th\u1ea7u ngay t\u1ea1i c\u00f4ng tr\u01b0\u1eddng",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
+    "Key facts: BTCUSD: 250 BTC Buy; Q3 42.3% Rally; 4,500 BTC Moved - TradingView"
   ]
 }
