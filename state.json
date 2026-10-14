@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1791933451.2587185,
+  "last_news_report": 1791944534.5893157,
   "last_bot4": 1791944189.2596564,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791943899.6787415,
+  "last_signals": 1791944534.5902996,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791941682.11903,
+    "5575146754|Gold|1H|range_in": 1791944534.5902996,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
@@ -68,9 +68,9 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791943901.2673225,
+    "US30|1D:top": 1791944537.2326548,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791943890.6070392,
-  "last_news": 1791943899.6777864,
+  "last_analysis": 1791944512.9901066,
+  "last_news": 1791944524.4857473,
   "seen_news": [
-    "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreemen",
-    "Gold slides on US yields surge ahead of CPI",
-    "Fed Williams: Sees no need for rate hike in 2027 at this time",
-    "NHTW Nga: GDP nguy c\u01a1 gi\u1ea3m t\u1ed1c do 2 l\u00fd do",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
-    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
     "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
     "Ph\u00f3 Th\u1ed1ng \u0111\u1ed1c c\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u m\u1edbi nh\u1ea5t v\u1ec1 d\u01b0 n\u1ee3 cho vay b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
@@ -443,6 +437,12 @@
     "Australia\u2019s biggest planned IPO in 30 years pulled as AI infrastructure appetite",
     "T\u1ed5ng gi\u00e1m \u0111\u1ed1c An Ph\u00e1t Holdings \u0111\u0103ng k\u00fd tho\u00e1i s\u1ea1ch v\u1ed1n",
     "S\u1ea2N XU\u1ea4T V\u00c0 \u0110\u1ea6U T\u01af D\u1eaaN D\u1eaeT T\u0102NG TR\u01af\u1edeNG TRONG M\u00d4I TR\u01af\u1edcNG L\u00c3I SU\u1ea4T CAO - Vietstock",
-    "DATA Network to migrate to Sui, retire own chain - TradingView"
+    "DATA Network to migrate to Sui, retire own chain - TradingView",
+    "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflatio",
+    "C\u00e1c t\u1eadp \u0111o\u00e0n l\u1edbn \u0111\u1ea7u t\u01b0 s\u00e2u h\u01a1n v\u00e0o Vi\u1ec7t Nam",
+    "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
+    "PagSeguro Digital Director Sold Shares Worth Over $3.6M - TradingView",
+    "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla"
   ]
 }
