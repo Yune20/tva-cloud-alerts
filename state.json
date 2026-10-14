@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791945755.0608022,
+  "last_signals": 1791946363.6681323,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -89,7 +89,7 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791945757.2454596,
+    "US30|1D:top": 1791946364.7819798,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791945744.1926563,
-  "last_news": 1791945755.0596635,
+  "last_analysis": 1791946356.1597233,
+  "last_news": 1791946363.667065,
   "seen_news": [
-    "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
-    "Fed\u2019s Williams sees one final 2026 rate hike, none in 2027",
-    "Crude oil futures are settle up $0.40 at $94.14",
-    "Gi\u00e1 c\u1ee9 gi\u1ea3m, h\u00e3ng c\u1ee9 than kh\u00f3 - th\u1ecb tr\u01b0\u1eddng \u00f4 t\u00f4 Vi\u1ec7t l\u1ea1i \u0111ang h\u01b0\u1edbng t\u1edbi k\u1ef7 l\u1ee5c d",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Chips off the table - TradingView",
     "How to avoid getting stung if you miss credit card payments",
     "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
     "Nvidia buys stakes in French tech startups Doctolib, Genesis AI",
@@ -443,6 +437,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
     "CANCOM SE (COK) Buys 130,477 Shares; Total 594,919 - TradingView",
     "AST SpaceMobile\u2019s stock is feeling the heat from SpaceX\u2019s wireless plans",
-    "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires"
+    "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires",
+    "What do LVMH\u2019s earnings say about China\u2019s luxury sector?",
+    "China's September Trade Balance: Exports and Imports beat estimates",
+    "Goldman Sachs says RBA minutes lower bar for November hike, with three hawkish s",
+    "Chuy\u1ec3n bi\u1ebfn t\u00edch c\u1ef1c v\u1ec1 tr\u1eadt t\u1ef1 \u0111\u00f4 th\u1ecb t\u1ea1i \u0111\u01b0\u1eddng d\u1ea1o ven h\u1ed3 \u0110\u1ea7m Tr\u00f2n (ph\u01b0\u1eddng Ba ",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
+    "Gold Holds Losses Ahead of US Inflation Data - TradingView"
   ]
 }
