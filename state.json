@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791944534.5902996,
+  "last_signals": 1791945139.249108,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791944537.2326548,
+    "US30|1D:top": 1791945140.2181718,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791944512.9901066,
-  "last_news": 1791944524.4857473,
+  "last_analysis": 1791945128.6317031,
+  "last_news": 1791945139.2481458,
   "seen_news": [
-    "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
-    "Ph\u00f3 Th\u1ed1ng \u0111\u1ed1c c\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u m\u1edbi nh\u1ea5t v\u1ec1 d\u01b0 n\u1ee3 cho vay b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
-    "UnitedHealth Stock Wobbles Despite 61% Profit Jump, Boosted Outlook (CORRECTED) ",
-    "AST SpaceMobile\u2019s stock is feeling the heat from SpaceX\u2019s wireless plans",
-    "More Republicans come out against Trump's diesel deal with Putin",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
     "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
     "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal o",
@@ -443,6 +437,12 @@
     "MBS Research | B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 ",
     "PagSeguro Digital Director Sold Shares Worth Over $3.6M - TradingView",
     "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla"
+    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
+    "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in I",
+    "Car finance compensation payments delayed until next year",
+    "Hang Seng hovers at HK$24,285 neckline after double bottom: Live",
+    "Australian Dollar gains against Japanese Yen as China CPI inflation rises in Sep"
   ]
 }
