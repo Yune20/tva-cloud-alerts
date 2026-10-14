@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791986703.7787266,
+  "last_signals": 1791987317.481551,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -82,7 +82,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -150,17 +150,11 @@
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1791986704.1537166
+    "Gold|1D:bot": 1791987317.6993942
   },
-  "last_analysis": 1791986695.454737,
-  "last_news": 1791986703.7778707,
+  "last_analysis": 1791987308.6704483,
+  "last_news": 1791987317.4806058,
   "seen_news": [
-    "Five Shale Stocks to Watch Before Third-Quarter Earnings",
-    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
-    "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
-    "Chart of the day: Gold price faces crucial $4,200 breakout test as US CPI looms",
-    "Nam sinh t\u1eebng l\u1eadp k\u1ef7 l\u1ee5c t\u1ea1i \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia khi gi\u1ea3i ch\u01b0\u1edbng ng\u1ea1i v\u1eadt ch\u1ec9",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance",
     "India Gold price today: Gold steadies, according to FXStreet data",
     "German wholesale prices continue to push higher in September, keeping inflation ",
     "Vi\u1ec7t Nam v\u1eeba ho\u00e0n th\u00e0nh 2 h\u1ea7m xuy\u00ean n\u00fai c\u1ed9ng l\u1ea1i d\u00e0i g\u1ea7n 1 km tr\u00ean \u0111\u1ed9 cao 700 m:",
@@ -454,6 +448,12 @@
     "Gen Z renters are the only group more likely to feel successful by investing tha",
     "Netflix is laying off roughly 6% of its workforce",
     "Why are more roofs not made of solar tiles?",
-    "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine"
+    "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
+    "Social Security\u2019s COLA will be 3.6% in 2027 as inflation persists",
+    "Bank of America shares drop 8% after third-quarter revenue miss and regulatory p",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
+    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
+    "FX option expiries for 14 October 10am New York cut"
   ]
 }
