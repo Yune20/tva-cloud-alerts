@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791988608.7680717,
-  "last_bot4": 1791994722.8559427,
+  "last_bot4": 1791995355.8559704,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791995023.2941802,
+  "last_signals": 1791995355.8566594,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -143,26 +143,20 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791994417.8572137,
+    "Ethereum|1D:bot": 1791995357.1960402,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1791992807.0544353,
-    "JPY Index|1D:top": 1791992807.5003707,
+    "USD/JPY|1D:top": 1791995358.5599165,
+    "JPY Index|1D:top": 1791995359.2624724,
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
-  "last_analysis": 1791994719.8929193,
-  "last_news": 1791995023.2933552,
+  "last_analysis": 1791995344.989733,
+  "last_news": 1791995355.8549955,
   "seen_news": [
-    "Wall Street Sees Inflation Easing Even With Oil Above $90",
-    "DAX trapped in EUR 25350-25600 range: Live levels",
-    "New Zealand Dollar gains as US Dollar weakens on falling yields",
-    "Elev8 broker: see more in Forex and commodity markets",
-    "\"\u0102n C\u00f9ng B\u00e0 Tuy\u1ebft\" l\u00ean ti\u1ebfng v\u1ec1 s\u1ea3n ph\u1ea9m b\u1ecb ti\u00eau h\u1ee7y t\u1ea1i Nh\u1eadt B\u1ea3n, ch\u01b0a x\u00e1c \u0111\u1ecbnh",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
     "Tom Lee Issues Rare Bearish Ethereum Warning - TradingView",
     "Singapore third-quarter GDP growth softens from four-year high but beats estimat",
     "Saudi employee charged with planting recording device in OpenAI office",
@@ -456,6 +450,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Bitcoin, Nvidia And Tesla ETFs Lead Wall Street\u2019s Most Traded Funds - TradingVie",
     "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
-    "Abilene Christian University is giving Ivy League endowments a run for their mon"
+    "Abilene Christian University is giving Ivy League endowments a run for their mon",
+    "BTSG Stock Climbs 67.3% YTD: What's Driving the Rally in 2026? - TradingView",
+    "Rising diesel prices have helped fuel inflation \u2014 and we\u2019re about to see how muc",
+    "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing bi",
+    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
+    "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
+    "Galderma to buy US firm ZO Skin Health for $1.5 billion"
   ]
 }
