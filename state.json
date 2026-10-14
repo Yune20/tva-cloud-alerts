@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791993733.503046,
+  "last_signals": 1791994416.3506172,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -61,7 +61,8 @@
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
     "5575146754|Gold|1D|dbot": 1791985823.4640732,
-    "5575146754|Gold|4H|trap_dn": 1791991057.267342
+    "5575146754|Gold|4H|trap_dn": 1791991057.267342,
+    "5575146754|Gold|4H|momo_dn": 1791994416.3506172
   },
   "sig_range": {
     "Gold": true,
@@ -142,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791993735.097973,
+    "Ethereum|1D:bot": 1791994417.8572137,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
@@ -153,15 +154,9 @@
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
-  "last_analysis": 1791994039.3945706,
-  "last_news": 1791993733.5021825,
+  "last_analysis": 1791994407.9724607,
+  "last_news": 1791994416.349787,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "SAF-HOLLAND SE: Release of a capital market information - TradingView",
-    "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-    "The Sabrina Carpenter clip that helped a 22-year-old make \u00a3120,000 a year",
-    "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
-    "Eurozone debt bourses consolidate as Lagarde rejects French bond backstop",
     "Six Flags shares decline following deadly roller coaster incident",
     "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
     "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
@@ -455,6 +450,12 @@
     "Big Tech Pushes Back Against Paying for America's Aging Power Grid",
     "Google Deepmind\u2019s Hassabis calls AI hacks \u2019early warning shots\u2019",
     "Canadian dollar touches an 18-month low as the US dollar jumps on hot CPI",
-    "Kho\u1ea3nh kh\u1eafc \u0111\u00e1ng y\u00eau c\u1ee7a Quang H\u1ea3i v\u00e0 con trai tr\u00ean s\u00e2n H\u00e0ng \u0110\u1eaby"
+    "Kho\u1ea3nh kh\u1eafc \u0111\u00e1ng y\u00eau c\u1ee7a Quang H\u1ea3i v\u00e0 con trai tr\u00ean s\u00e2n H\u00e0ng \u0110\u1eaby",
+    "Netflix to cut 1,000 jobs as subscriptions slow",
+    "Morgan Stanley Names Top Pick Amid 3Q26 Earnings",
+    "Bitcoin sellers defend moving average resistance. What does that teach traders?",
+    "\u0110\u0103ng tin sai s\u1ef1 th\u1eadt v\u1ec1 ho\u1ea1t \u0111\u1ed9ng cho vay margin, Tiktoker b\u1ecb ph\u1ea1t 12,5 tri\u1ec7u",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
+    "Broadcom CEO Delivers Stark Warning on Artificial Intelligence - TradingView"
   ]
 }
