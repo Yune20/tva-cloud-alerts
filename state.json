@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791981340.3121903,
+  "last_signals": 1791981941.7095995,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -51,12 +51,13 @@
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791964558.1412945,
-    "5575146754|Gold|1H|trap_dn": 1791808590.654704,
+    "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
     "5575146754|Gold|1D|range_in": 1791958717.8275256,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
-    "5575146754|Gold|4H|dbot": 1791981340.3121903
+    "5575146754|Gold|4H|dbot": 1791981340.3121903,
+    "5575146754|Gold|4H|dn": 1791981941.7095995
   },
   "sig_range": {
     "Gold": true,
@@ -70,7 +71,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -86,7 +87,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -95,7 +96,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -140,19 +141,13 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791981341.8147435,
+    "US30|1D:top": 1791981942.6198938,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245
   },
   "last_analysis": 1791981649.1357267,
-  "last_news": 1791981340.3113616,
+  "last_news": 1791981941.7088268,
   "seen_news": [
-    "S\u1ebfp Coteccons: Kh\u00f4ng t\u00f4n vinh l\u00e0m vi\u1ec7c qu\u00e1 s\u1ee9c, m\u1ed9t c\u00f4ng tr\u00ecnh t\u1ed1t kh\u00f4ng th\u1ec3 \u0111\u01b0\u1ee3",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
-    "Airbus SE (AIR) Reports Share Buybacks for Oct 5\u20139, 2026 - TradingView",
-    "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly access",
-    "Cost of living struggles inspire 'social supermarket'",
-    "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
     "Hogs Look to Monday Amid Weakness - TradingView",
     "My sister moved in with our mother, 78, and now says she deserves the $925,000 f",
     "Judge indefinitely blocks Trump White House ban of three media outlets",
@@ -446,6 +441,12 @@
     "Here\u2019s how much the AI boom is really contributing to inflation, according to Go",
     "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
     "Three things we've learnt about the UK economy from the IMF",
-    "Aramco\u2019s New Chinese JV Refinery Gets First Saudi Crude Cargo"
+    "Aramco\u2019s New Chinese JV Refinery Gets First Saudi Crude Cargo",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
+    "Alphabet Hit With Securities Fraud Class Action After 4% Drop - TradingView",
+    "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
+    "How to avoid getting stung if you miss credit card payments",
+    "Albemarle gains as Mizuho upgrades stock on surging energy storage demand",
+    "US September CPI 3.7% vs 3.6% expected"
   ]
 }
