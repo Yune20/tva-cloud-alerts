@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792010507.3148055,
-  "last_bot4": 1792019247.9827502,
+  "last_bot4": 1792019976.941532,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792019565.6918592,
+  "last_signals": 1792019976.9423451,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -93,19 +93,19 @@
     "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|4H": false,
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792020239,
   "menu_prices": {
@@ -153,17 +153,11 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792015647.4763043,
-    "Ethereum|4H:bot": 1792015049.1418846
+    "Ethereum|4H:bot": 1792019977.9929082
   },
-  "last_analysis": 1792019558.2625566,
-  "last_news": 1792019565.690856,
+  "last_analysis": 1792019968.2185905,
+  "last_news": 1792019976.9380746,
   "seen_news": [
-    "Micron wins praise from Elon Musk for not being too greedy",
-    "Fannie Mae sharply raises mortgage rate forecast for 2027",
-    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-    "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-    "Stripchat loses legal fight against EU tech label",
-    "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
     "CPI Jumps Back to Spring Levels, Pre-Markets Fall - TradingView",
     "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
@@ -457,6 +451,12 @@
     "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
     "How a Chinese-made toy gets to a US retailer",
     "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
-    "Iambic Therapeutics prices IPO at $16 per share on Nasdaq"
+    "Iambic Therapeutics prices IPO at $16 per share on Nasdaq",
+    "Orion180 Insurance gets Buy-equivalent rating at RBC - TradingView",
+    "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+    "Rainmakers: The drones used to seed clouds",
+    "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
+    "Mexico to require digital platforms to shield minors from harmful content",
+    "US inflation is becoming less widespread, and that matters more than the headlin"
   ]
 }
