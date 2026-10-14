@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792010507.3148055,
-  "last_bot4": 1792010797.5611265,
+  "last_bot4": 1792011417.4009771,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792009956.8294778
+    "Gold": 1792011417.4009106
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792010797.5618243,
+  "last_signals": 1792011417.6586885,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -145,24 +145,18 @@
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1791950972.5520308,
-    "EUR/USD|1D:bot": 1792010799.1379092,
+    "EUR/USD|1D:bot": 1792011419.0645435,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792010799.2897651,
-    "JPY Index|1D:top": 1792010799.7223642,
-    "GBP/USD|1D:bot": 1792010798.848055,
-    "Gold|1D:bot": 1792010797.7373035
+    "USD/JPY|1D:top": 1792011419.2304087,
+    "JPY Index|1D:top": 1792011419.636052,
+    "GBP/USD|1D:bot": 1792011418.9034755,
+    "Gold|1D:bot": 1792011417.8216305
   },
   "last_analysis": 1792011105.5311186,
-  "last_news": 1792010797.5603848,
+  "last_news": 1792011412.150269,
   "seen_news": [
-    "Trump's diesel dilemma \u2014 by the numbers",
-    "Bank of America hit with $1.2bn fine for money laundering failings",
-    "U.S.  debt finds breathing room, countering energy spike",
-    "S&P 500 technical analysis after the CPI selloff",
-    "T\u1eeb v\u1ee5 TikToker \u0111\u0103ng t\u1ea3i th\u00f4ng tin xuy\u00ean t\u1ea1c v\u1ec1 ho\u1ea1t \u0111\u1ed9ng cho vay margin, UBCKNN ",
-    "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC | VietstockFinance - VietstockFi",
     "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
     "AI is less regulated than milk, says Microsoft president",
     "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
@@ -456,6 +450,12 @@
     "New ASX boss wants to accelerate move to one-day settlement in Australia",
     "Canada August building permits rise 8.8% vs 2.0% expected",
     "FPT: T\u00e1i sinh hay t\u00ednh sai?",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi"
+    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
+    "Eight US states sue OpenAI, claiming ChatGPT harms young users",
+    "Barclays sees possible Tesla-SpaceX merger announcement before December",
+    "Geleximco c\u1ee7a \u00f4ng V\u0169 V\u0103n Ti\u1ec1n t\u1ea1m \u201cl\u1ed7\u201d h\u01a1n 1.500 t\u1ef7 sau g\u1ea7n m\u1ed9t n\u0103m chi 2.562 t\u1ef7",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
+    "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the "
   ]
 }
