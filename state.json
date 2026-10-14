@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791978863.2352252,
+  "last_signals": 1791979476.346373,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -83,7 +83,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791978864.8161273,
+    "US30|1D:top": 1791979478.308222,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791978853.4165232,
-  "last_news": 1791978863.2344742,
+  "last_analysis": 1791979468.076962,
+  "last_news": 1791979476.3456151,
   "seen_news": [
-    "Lagarde speech: We're not seeing any second round effects yet",
-    "Germany September final CPI +3.3% vs +3.3% y/y prelim",
-    "N\u1eef ch\u1ee7 xe Mercedes b\u1ecb c\u00e0o x\u01b0\u1edbc kh\u00e1ng c\u00e1o sau ph\u00e1n quy\u1ebft \u0111\u01b0\u1ee3c b\u1ed3i th\u01b0\u1eddng 671 ngh\u00ec",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
-    "SPCX: SpaceX Stock Extends Gains After Mobile Push Sends Telecoms Tumbling - Tra",
-    "Judge indefinitely blocks Trump White House from banning 3 media outlets",
     "\u0110i\u1ec1u \u0111\u1ed9ng, b\u1ed5 nhi\u1ec7m nh\u00e2n s\u1ef1 \u1edf 3 t\u1ec9nh, th\u00e0nh",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
     "First Tick: Top global cues to watch in today's trade - TradingView",
@@ -443,6 +437,12 @@
     "Bank of America adds a profit miss to the misery of a $1.2 billion government fi",
     "Tech giants race to get AI gadgets on shelves for holiday rush",
     "Civil servant wore make up so he could juggle five jobs from home, court hears",
-    "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time"
+    "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
+    "How to read your body\u2019s warning signs years before you get sick",
+    "How Trump\u2019s tariffs and Iran war are becoming liabilities in Michigan\u2019s Senate r",
+    "Civil servant 'wore makeup to fake illness and juggle five jobs from home'",
+    "TSX futures edge higher ahead of key U.S. inflation data",
+    "What are the main events for today?",
+    "To\u00e0n b\u1ed9 ng\u01b0\u1eddi d\u00e2n chu\u1ea9n b\u1ecb mua xe tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd khuy\u1ebfn c\u00e1o quan tr\u1ecdng t\u1eeb C\u00f4"
   ]
 }
