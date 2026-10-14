@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792013855.3075852,
+  "last_signals": 1792014449.41878,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -145,25 +145,19 @@
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1791950972.5520308,
-    "EUR/USD|1D:bot": 1792013857.536962,
+    "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792013858.051093,
-    "JPY Index|1D:top": 1792013858.8951263,
-    "GBP/USD|1D:bot": 1792013857.2788188,
-    "Gold|1D:bot": 1792013855.5969956,
-    "Ethereum|4H:bot": 1792013856.5101645
+    "USD/JPY|1D:top": 1792014451.125386,
+    "JPY Index|1D:top": 1792014451.5254805,
+    "GBP/USD|1D:bot": 1792014450.7137802,
+    "Gold|1D:bot": 1792014449.730201,
+    "Ethereum|4H:bot": 1792014450.3006778
   },
   "last_analysis": 1792014151.451055,
-  "last_news": 1792013855.3061962,
+  "last_news": 1792014449.4179213,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
-    "Chipotle Stock Slips as Starbucks Denies Takeover Plan - TradingView",
-    "Gen Z renters are the only group more likely to feel successful by investing tha",
-    "Netflix is laying off roughly 6% of its workforce",
-    "Why are more roofs not made of solar tiles?",
-    "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
     "Social Security\u2019s COLA will be 3.6% in 2027 as inflation persists",
     "Bank of America shares drop 8% after third-quarter revenue miss and regulatory p",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
@@ -457,6 +451,12 @@
     "Huy \u0111\u1ed9ng h\u01a1n 30.000 ng\u01b0\u1eddi x\u00e2y si\u00eau s\u00e2n bay 275.000 t\u1ef7 \u0111\u1ed3ng, r\u1ed9ng g\u1ea5p 14 l\u1ea7n N\u1ed9i ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
     "US Stocks Dip Amid Hot Inflation and Chipmaker Weakness - TradingView",
-    "The COLA wars are coming for Social Security"
+    "The COLA wars are coming for Social Security",
+    "Bank of America adds a profit miss to the misery of a $1.2 billion government fi",
+    "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "Driving test waits fall to two-year low - but still average 20 weeks",
+    "US Crude Oil Inventories See Massive Drop Off",
+    "Why is Rocket Lab stock tumbling today?",
+    "Fed catch up - Goolsbee calls CPI discouraging as Beige Book flags diesel-fuelle"
   ]
 }
