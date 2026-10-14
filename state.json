@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791989230.0164745,
+  "last_signals": 1791989871.6339068,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791985450.7187204,
+    "5575146754|Gold|1H|range_in": 1791989871.6339068,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791964558.1412945,
@@ -57,7 +57,7 @@
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
     "5575146754|Gold|4H|dbot": 1791981340.3121903,
-    "5575146754|Gold|4H|dn": 1791985823.4640732,
+    "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
     "5575146754|Gold|1D|dbot": 1791985823.4640732
@@ -74,14 +74,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -136,7 +136,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791958048.4235988,
+    "USOIL|4H:top": 1791989872.201763,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -150,17 +150,11 @@
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1791989230.2363598
+    "Gold|1D:bot": 1791989871.921922
   },
-  "last_analysis": 1791989221.711918,
-  "last_news": 1791989230.0155041,
+  "last_analysis": 1791989861.6251585,
+  "last_news": 1791989871.6292086,
   "seen_news": [
-    "Don't let inflation bite \u2014 how to hedge with TIPS, commodities and infrastructur",
-    "The virtual worlds where robots are trained",
-    "Google DeepMind, Google Cloud to allow European researchers access to frontier m",
-    "USD/CAD Price Forecast: Hovers around 1.4200 after breaking below nine-day EMA",
-    "How to read a whale alert: an Ethereum case study and a 5-point checklist",
-    "Ng\u01b0\u1eddi s\u1edf h\u1eefu \u201cchi\u1ebfc m\u0169i 2,5 tri\u1ec7u USD\u201d \u0111\u1ebfn Vi\u1ec7t Nam, mang theo chai whisky ch\u1ec9 c",
     "'Spray and pray': How AI job applications can backfire",
     "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
     "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.91%",
@@ -454,6 +448,12 @@
     "Morgan Stanley\u2019s Financial Results Beat Wall Street Forecasts - TradingView",
     "Midterm voters haven\u2019t seen this many housing proposals on the ballot in 20 year",
     "Here's the inflation breakdown for September 2026 \u2014 in one chart",
-    "AI minister warns 'likely' UK's cyber defences will be breached"
+    "AI minister warns 'likely' UK's cyber defences will be breached",
+    "Ibovespa Falls as Banks Post Losses - TradingView",
+    "This one move will save $20,000 on our wedding",
+    "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "India\u2019s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
+    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens"
   ]
 }
