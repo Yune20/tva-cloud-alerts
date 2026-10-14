@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791933451.2587185,
-  "last_bot4": 1791937379.0093193,
+  "last_bot4": 1791938307.5735245,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791937379.0092244
+    "Gold": 1791938307.5734298
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791937981.3030725,
+  "last_signals": 1791938307.5741699,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,14 +68,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791937982.4323995,
+    "US30|1D:top": 1791938309.6596694,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791937687.6065052,
-  "last_news": 1791937981.3021836,
+  "last_analysis": 1791938295.1451018,
+  "last_news": 1791938304.6495724,
   "seen_news": [
-    "Why is MongoDB stock rallying today?",
-    "Neither a breakout nor a reversal: What OCBC, Commerzbank and ING expect from th",
-    "Chart of the day: EUR/CHF bounces this week but French bond spreads warn euro ri",
-    "\u0110\u1ecdc tin nh\u1eafn c\u1ee7a con l\u00fac 2-3 gi\u1edd s\u00e1ng, CEO Linh \u0110\u1eb7ng x\u00fac \u0111\u1ed9ng: Th\u00e0nh c\u00f4ng c\u1ee7a 1 ",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
-    "Weekly Recap: OpenAI revenue, compute-deal and ORCL $45\u201350B raise - TradingView",
     "Australian Dollar edges higher amid softer US Dollar, hawkish RBA",
     "Japan wholesale inflation misses at 6.8% but stays high enough to keep BOJ hike ",
     "7 d\u1ea5u hi\u1ec7u ung th\u01b0 d\u1ea1 d\u00e0y kh\u00f4ng n\u00ean b\u1ecf qua",
@@ -443,6 +437,12 @@
     "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
     "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in cont",
     "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-    "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO"
+    "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Invitation to Aira's Q3 2026 Earnings Call - TradingView",
+    "Why this little known Chinese chipmaker has caused a global stock rout",
+    "Fridges in French supermarkets hit by cyber attack",
+    "Why Diesel Prices Are So Much Higher Than Gasoline",
+    "Yen weakness since 2025 has been limited to offshore hours: analysis"
   ]
 }
