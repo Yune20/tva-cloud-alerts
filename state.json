@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791977624.6161983,
-  "last_bot4": 1791985450.718126,
+  "last_bot4": 1791986278.7037663,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791984756.6402645
+    "Gold": 1791986278.703628
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791985823.4640732,
+  "last_signals": 1791986278.70453,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,16 +74,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -150,17 +150,11 @@
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1791985823.8395731
+    "Gold|1D:bot": 1791986278.8648
   },
-  "last_analysis": 1791985810.3446715,
-  "last_news": 1791985823.4630108,
+  "last_analysis": 1791986261.7425337,
+  "last_news": 1791986275.6924155,
   "seen_news": [
-    "Aditya Birla Renewables Eyes USD 1.5 Billion Loan for Shell Deal - TradingView",
-    "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm.",
-    "'Godzilla El Ni\u00f1o' is wreaking havoc with Philippine central bank's inflation fo",
-    "X-planes: Are they needed in the new era of drones?",
-    "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
-    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
     "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
     "Saudi man charged with planting 'sophisticated' recording device in OpenAI offic",
     "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
@@ -454,6 +448,12 @@
     "BlackRock now manages assets equal to half the size of the U.S. economy after 15",
     "Consumer prices rose 3.7% annually in September as gas costs skyrocket",
     "Driving test waits fall to two-year low - but still average 20 weeks",
-    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar"
+    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
+    "US CPI Rises 0.6% in September as Energy Prices Surge - TradingView",
+    "I lost my home in the Great Recession. I still rent in my 50s. Why is that judge",
+    "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
+    "Japan to invest up to $21 billion in two US chip factories to be run by GlobalFo",
+    "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans"
   ]
 }
