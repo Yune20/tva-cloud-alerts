@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791982924.3673804,
+  "last_signals": 1791983526.9157083,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -141,21 +141,15 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791982926.5583372,
+    "US30|1D:top": 1791983527.977173,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826
   },
   "last_analysis": 1791983226.9770186,
-  "last_news": 1791982924.3662655,
+  "last_news": 1791983526.9149303,
   "seen_news": [
-    "EUR/USD Price Forecast: Gains ground near 1.1150, US CPI awaited",
-    "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down ",
-    "DN b\u00e1n l\u1ebb 102.000 t\u1ef7 t\u00ecm ng\u01b0\u1eddi d\u1eabn d\u1eaft 1 si\u00eau d\u1ef1 \u00e1n: ch\u1ec9 tuy\u1ec3n 'tinh hoa', d\u00e1m l",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
-    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
     "Doanh nghi\u1ec7p t\u1ef1 quy\u1ebft gi\u00e1 x\u0103ng d\u1ea7u nh\u01b0ng c\u00f4ng b\u1ed1 gi\u00e1 m\u1edbi \u00edt nh\u1ea5t tr\u01b0\u1edbc 30 ph\u00fat",
     "NVB: Ng\u00e2n h\u00e0ng TMCP Qu\u1ed1c D\u00e2n - NCB | VietstockFinance - VietstockFinance",
     "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
@@ -449,6 +443,12 @@
     "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
     "ASML Just Delivered Beat-and-Raise Third Quarter - TradingView",
     "My sister moved in with our mother, 78, and now says she deserves the $925,000 f",
-    "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack U.S. warships; Saudi A"
+    "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack U.S. warships; Saudi A",
+    "How to identify the economic data that really moves markets",
+    "\u0110\u00fang 13 ng\u00e0y, Vingroup \"b\u1ecf t\u00fai\" t\u1ed1c \u0111\u1ed9 350km/h c\u1ee7a \u0110\u1ee9c, 200 \"thi\u1ebft m\u00e3\" t\u1eeb Ph\u00e1p: ",
+    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
+    "U.S. SEPT CPI +0.6% M/M (VS +0.6% EXPECTED) - TradingView",
+    "Bank of America shares drop 7% after third-quarter revenue miss and regulatory p",
+    "US inflation rises more than expected ahead of midterm elections"
   ]
 }
