@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791989871.6339068,
+  "last_signals": 1791990488.7669265,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -136,7 +136,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791989872.201763,
+    "USOIL|4H:top": 1791990489.5883815,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -150,17 +150,11 @@
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1791989871.921922
+    "Gold|1D:bot": 1791990489.2479963
   },
   "last_analysis": 1791990189.327335,
-  "last_news": 1791989871.6292086,
+  "last_news": 1791990488.7662451,
   "seen_news": [
-    "'Spray and pray': How AI job applications can backfire",
-    "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
-    "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.91%",
-    "British Pound gains as UK assures fiscal discipline",
-    "ICYMI - Three Fed officials signal inflation fight continues; Williams sees no 2",
-    "Tin vui cho ng\u01b0\u1eddi \u0111i Metro s\u1ed1 1 c\u00f3 t\u00e0i kho\u1ea3n VNeID",
     "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
     "New Zealand Dollar drifts higher above 0.5600, all eyes on US CPI inflation data",
     "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.",
@@ -454,6 +448,12 @@
     "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
     "US inflation rises more than expected - here's what is happening with prices",
     "India\u2019s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
-    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens"
+    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
+    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef SN 1996 \u0111\u00e1nh r\u01a1i 200 tri\u1ec7u \u0111\u1ed3ng tr\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn\u00a0Sacombank \u0111\u1ec3 \u0111\u00e1o h\u1ea1n",
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP | VietstockFinance - VietstockFinance",
+    "Aditya Birla Renewables Eyes USD 1.5 Billion Loan for Shell Deal - TradingView",
+    "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi A",
+    "The AI telling farmers when to harvest",
+    "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance"
   ]
 }
