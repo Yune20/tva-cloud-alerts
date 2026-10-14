@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791999453.618263,
-  "last_bot4": 1792000341.5896761,
+  "last_bot4": 1792001045.8689473,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791999733.8556154
+    "Gold": 1792001045.8688455
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792000669.1292613,
+  "last_signals": 1792001045.869714,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -94,7 +94,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -149,20 +149,14 @@
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792000672.5384848,
-    "JPY Index|1D:top": 1792000673.3526108,
+    "USD/JPY|1D:top": 1792001047.8237264,
+    "JPY Index|1D:top": 1792001048.4238443,
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
-  "last_analysis": 1792000658.8010685,
-  "last_news": 1792000669.1283605,
+  "last_analysis": 1792001031.734473,
+  "last_news": 1792001043.2418573,
   "seen_news": [
-    "Nasdaq analysis today as price is dancing around yesterday's close (but probably",
-    "Ng\u00e2n h\u00e0ng SHB \u0111\u00f3n hai tin vui l\u1edbn",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
-    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
-    "My wife says we can\u2019t afford to retire, so I vetoed her $8,000 trip to Italy. We",
-    "Bank of America is set to report third-quarter earnings \u2013 here\u2019s what the Street",
     "The truth about being a landlord in retirement",
     "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramc",
     "Poundland in rescue talks as owners seek buyer",
@@ -456,6 +450,12 @@
     "The steel stock that has the shorts and options traders on edge",
     "Wayfair among firms fined millions for misleading sales tactics",
     "Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
-    "Progressive earnings analysis: questions answered and next catalysts"
+    "Progressive earnings analysis: questions answered and next catalysts",
+    "Will mortgage rates stay above 7% in 2027?",
+    "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+    "Heating oil customers face tough winter despite shake-up promise",
+    "Putin Fights to Preserve Russia\u2019s Fading Influence in Central Asia",
+    "India importers press on with rupee hedges despite RBI\u2019s higher-cost deterrent",
+    "S&P 500 decline extends to 100 points with tech hit particularly hard"
   ]
 }
