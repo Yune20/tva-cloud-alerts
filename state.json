@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791962719.9507606,
+  "last_signals": 1791963335.8848846,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -69,7 +69,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791962720.833542,
+    "US30|1D:top": 1791963337.6890488,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791962712.7529173,
-  "last_news": 1791962719.9497187,
+  "last_analysis": 1791963327.987592,
+  "last_news": 1791963335.8839533,
   "seen_news": [
-    "Euro finds support from softer US Dollar, French fiscal risks linger",
-    "US stocks close lower after volatile session",
-    "Top 5 con gi\u00e1p c\u00f3 d\u00f2ng ti\u1ec1n \u1ed5n nh\u1ea5t th\u00e1ng 9 \u00c2m l\u1ecbch",
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "FBS Global regains Nasdaq minimum bid price compliance; shares surge - TradingVi",
-    "Goldman says investors are looking for 'profitable' Chinese business growth over",
     "Apple l\u1ea7n \u0111\u1ea7u ra m\u1eaft m\u00e0n h\u00ecnh th\u00f4ng minh HomeView, gi\u00e1 g\u1ea7n 8 tri\u1ec7u \u0111\u1ed3ng",
     "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank | VietstockFinance - VietstockFinance",
     "Ibovespa Drops as Inflation Forecast Rises - TradingView",
@@ -443,6 +437,12 @@
     "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklist",
     "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
     "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-    "Dollar edges lower ahead of U.S. CPI;\u00a0 China data, Singapore GDP in focus"
+    "Dollar edges lower ahead of U.S. CPI;\u00a0 China data, Singapore GDP in focus",
+    "US Dollar Index Price Forecast: DXY holds above 101.70 pivotal support ahead of ",
+    "European stock market open: Stocks advance as investors brace for US inflation d",
+    "B\u1ed9 C\u00f4ng an khuy\u1ebfn c\u00e1o nguy\u00ean t\u1eafc '5 Kh\u00f4ng' trong qu\u1ea3n l\u00fd v\u00e0 s\u1eed d\u1ee5ng thi\u1ebft b\u1ecb bay",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "Microsoft to launch Maia 300 AI chip in 2027 - TradingView",
+    "U.S. Treasury yields inch lower as investors await key inflation report"
   ]
 }
