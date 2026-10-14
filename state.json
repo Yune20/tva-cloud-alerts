@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792010507.3148055,
-  "last_bot4": 1792011417.4009771,
+  "last_bot4": 1792012064.968114,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792011417.6586885,
+  "last_signals": 1792012064.9690878,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792006064.8394175,
+    "5575146754|Gold|1H|range_in": 1792012064.9690878,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791964558.1412945,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -145,24 +145,18 @@
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1791950972.5520308,
-    "EUR/USD|1D:bot": 1792011419.0645435,
+    "EUR/USD|1D:bot": 1792012067.5898123,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792011419.2304087,
-    "JPY Index|1D:top": 1792011419.636052,
-    "GBP/USD|1D:bot": 1792011418.9034755,
-    "Gold|1D:bot": 1792011417.8216305
+    "USD/JPY|1D:top": 1792012067.9084892,
+    "JPY Index|1D:top": 1792012069.0582345,
+    "GBP/USD|1D:bot": 1792012067.2514455,
+    "Gold|1D:bot": 1792012065.2475817
   },
-  "last_analysis": 1792011717.0218112,
-  "last_news": 1792011412.150269,
+  "last_analysis": 1792012056.4970522,
+  "last_news": 1792012064.9670234,
   "seen_news": [
-    "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-    "AI is less regulated than milk, says Microsoft president",
-    "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
-    "Canadian dollar gains as U.S. dollar retreats from 18-month high",
-    "What are the key levels in play for the US dollar after the hotter than expected",
-    "C\u00f4 g\u00e1i khi\u1ebfn Tr\u1ea5n Th\u00e0nh c\u00f4ng khai khen \u201cem \u0111\u1eb9p l\u1eafm\u201d: C\u1ef1u sinh vi\u00ean RMIT, t\u1eebng ch",
     "Today's Federal Reserve speaker slate suddenly got much more interesting",
     "T\u1ed1i 14/10, gi\u00e1 v\u00e0ng gi\u1ea3m m\u1ea1nh sau khi d\u1eef li\u1ec7u l\u1ea1m ph\u00e1t t\u1ea1i M\u1ef9 \u0111\u01b0\u1ee3c c\u00f4ng b\u1ed1",
     "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
@@ -456,6 +450,12 @@
     "Geleximco c\u1ee7a \u00f4ng V\u0169 V\u0103n Ti\u1ec1n t\u1ea1m \u201cl\u1ed7\u201d h\u01a1n 1.500 t\u1ef7 sau g\u1ea7n m\u1ed9t n\u0103m chi 2.562 t\u1ef7",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
     "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
-    "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the "
+    "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the ",
+    "Trump's diesel dilemma \u2014 by the numbers",
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Trump Announces $80 Billion Taiwan LNG Deal",
+    "U.S.  debt finds breathing room, countering energy spike",
+    "S&P 500 technical analysis after the CPI selloff",
+    "B\u1ee9c \u1ea3nh th\u1eddi tr\u1ebb c\u1ee7a t\u1ef7 ph\u00fa Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o, Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng, Tr\u1ea7n \u0110\u00ecnh L"
   ]
 }
