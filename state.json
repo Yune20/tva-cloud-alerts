@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791954652.1760995,
+  "last_signals": 1791955246.4309928,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791954653.3772051,
+    "US30|1D:top": 1791955248.2723339,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791954643.151729,
-  "last_news": 1791954652.1751273,
+  "last_analysis": 1791955238.571408,
+  "last_news": 1791955246.430202,
   "seen_news": [
-    "C\u1ee9 m\u1ed7i gi\u1edd tr\u00f4i qua, t\u1eadp \u0111o\u00e0n l\u1edbn nh\u1ea5t Vi\u1ec7t Nam l\u1ea1i thu h\u01a1n 100 t\u1ef7 \u0111\u1ed3ng, b\u1ecf t\u00fai ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Needham reiterates Buy rating on MongoDB, $430 price target - TradingView",
-    "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm.",
-    "Saudi national OpenAI employee arrested after 'sophisticated recording device' p",
-    "X-planes: Are they needed in the new era of drones?",
     "AGM Group clears Nasdaq filing issue after delayed 2025 report - TradingView",
     "Micron\u2019s stock extends declines as China competition heats up",
     "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conf",
@@ -443,6 +437,12 @@
     "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
     "The AI telling farmers when to harvest",
     "Canadian dollar gains as U.S. dollar retreats from 18-month high",
-    "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks"
+    "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks",
+    "ASML says it's getting order interest through 2030 as profit smashes expectation",
+    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
+    "Olympus shares hit 12-week low after FDA warning over quality systems",
+    "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.33",
+    "FX option expiries for 14 October 10am New York cut",
+    "Vi\u1ec7t Nam c\u00f3 th\u00e1c l\u1edbn nh\u1ea5t \u0110\u00f4ng Nam \u00c1 nh\u01b0ng l\u1ea1i khi\u1ebfn nhi\u1ec1u ng\u01b0\u1eddi ch\u1ea1y 280km t\u1edbi "
   ]
 }
