@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791968296.4270523,
+  "last_signals": 1791968912.0534825,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -71,7 +71,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791968297.8170636,
+    "US30|1D:top": 1791968913.885917,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791968284.8241649,
-  "last_news": 1791968296.426266,
+  "last_analysis": 1791968902.4084547,
+  "last_news": 1791968912.05257,
   "seen_news": [
-    "Nasdaq ends down as chipmakers fall and bank earnings roll in",
-    "Dollar Index slips from its 18-month high before US CPI",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6922 \u2013 Reuters estimate",
-    "N\u1eef NSND t\u1eebng \u0111\u1ed7 th\u1ee7 khoa \u0111\u1ea1i h\u1ecdc, 50 tu\u1ed5i v\u1eabn h\u1ecdc l\u00ean th\u1ea1c s\u0129, nguy\u00ean l\u00e0 Ph\u00f3 Gi\u00e1",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
-    "IonQ Stock Falls After $1.3 Billion All-Stock Elisity Buy - TradingView",
     "Singapore: MAS could tighten again in 2027 if inflation risks materialise, says ",
     "Ngu\u1ed3n cung n\u00e2ng h\u1ea1ng, gi\u00e1 c\u0103n h\u1ed9 ph\u00eda B\u1eafc TP.HCM thi\u1ebft l\u1eadp m\u1eb7t b\u1eb1ng m\u1edbi",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -443,6 +437,12 @@
     "Bumble bought for $1.3bn in 'bet on the future of humanity'",
     "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO",
     "Indonesia stocks higher at close of trade; IDX Composite Index up 0.33%",
-    "British Pound: Upside extension capped by 1.3280 against US Dollar  \u2013 UOB"
+    "British Pound: Upside extension capped by 1.3280 against US Dollar  \u2013 UOB",
+    "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
+    "\u2018Sopranos\u2019 star Steven Van Zandt is selling his Greenwich Village penthouse for ",
+    "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile",
+    "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
+    "Why Diesel Prices Are So Much Higher Than Gasoline",
+    "Why is Audioboom stock climbing today?"
   ]
 }
