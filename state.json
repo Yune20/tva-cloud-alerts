@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791988608.7680717,
-  "last_bot4": 1791995355.8559704,
+  "last_bot4": 1791995993.8448691,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791994722.855873
+    "Gold": 1791995993.8447683
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791995355.8566594,
+  "last_signals": 1791995993.8456554,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -61,7 +61,7 @@
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
     "5575146754|Gold|1D|dbot": 1791985823.4640732,
-    "5575146754|Gold|4H|trap_dn": 1791991057.267342,
+    "5575146754|Gold|4H|trap_dn": 1791995993.8456554,
     "5575146754|Gold|4H|momo_dn": 1791994416.3506172
   },
   "sig_range": {
@@ -143,26 +143,20 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791995357.1960402,
+    "Ethereum|1D:bot": 1791995994.8503993,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1791995358.5599165,
-    "JPY Index|1D:top": 1791995359.2624724,
+    "USD/JPY|1D:top": 1791995995.5738204,
+    "JPY Index|1D:top": 1791995996.6256378,
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
-  "last_analysis": 1791995658.8543768,
-  "last_news": 1791995355.8549955,
+  "last_analysis": 1791995980.0095232,
+  "last_news": 1791995991.3224185,
   "seen_news": [
-    "Tom Lee Issues Rare Bearish Ethereum Warning - TradingView",
-    "Singapore third-quarter GDP growth softens from four-year high but beats estimat",
-    "Saudi employee charged with planting recording device in OpenAI office",
-    "Avio rises on deal with Lockheed Martin to expand solid rocket motor production",
-    "US CPI data expected to rise in September as markets reassess Fed rate outlook",
-    "What is the distribution of forecasts for the US CPI?",
     "Japanese Yen extends range play vs USD; looks to US CPI report for some impetus",
     "Connecting the dots: Why strong US bank earnings don't always mean a healthy eco",
     "Hai c\u1ed5 phi\u1ebfu \"hot\" b\u1ecb kh\u1ed1i ngo\u1ea1i x\u1ea3 h\u01a1n 300 t\u1ef7 trong phi\u00ean 14/10",
@@ -456,6 +450,12 @@
     "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing bi",
     "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
     "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
-    "Galderma to buy US firm ZO Skin Health for $1.5 billion"
+    "Galderma to buy US firm ZO Skin Health for $1.5 billion",
+    "10-year Treasury yield jumps as September core inflation comes in hotter than ex",
+    "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+    "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy",
+    "The Knot Worldwide to acquire Zola in wedding platform union, sources say",
+    "European stocks mostly higher, but DAX fails to hold above its 100-day moving av",
+    "B\u1ea1n trai Hoa h\u1eadu Qu\u1ef3nh Anh l\u00e0m g\u00ec th\u1ebf n\u00e0y?"
   ]
 }
