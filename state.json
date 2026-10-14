@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791933451.2587185,
-  "last_bot4": 1791940769.828907,
+  "last_bot4": 1791941682.1183057,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791940769.828827
+    "Gold": 1791941682.1182482
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791941067.1528804,
+  "last_signals": 1791941682.11903,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791937379.0100265,
+    "5575146754|Gold|1H|range_in": 1791941682.11903,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
@@ -68,9 +68,9 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -96,7 +96,7 @@
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791941955,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791941069.2801397,
+    "US30|1D:top": 1791941683.4707553,
     "GBP/USD|4H:top": 1791934047.3662043
   },
   "last_analysis": 1791941369.8113625,
-  "last_news": 1791941067.1521003,
+  "last_news": 1791941678.8667965,
   "seen_news": [
-    "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
-    "Wall St edges lower as chips fall; markets assess big bank earnings",
-    "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
-    "Bitcoin recovers losses as oil prices ease: focus turns to US CPI as next key ca",
-    "Kh\u00f4ng ph\u1ea3i b\u00e1c s\u0129 hay k\u1ef9 s\u01b0 AI: B\u01b0\u1edbc ngo\u1eb7t t\u00e1o b\u1ea1o c\u1ee7a n\u1eef CEO startup Vi\u1ec7t v\u00e0 th",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
     "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
     "How to read your body\u2019s warning signs years before you get sick",
@@ -443,6 +437,12 @@
     "China's exports likely grew by double-digits in September",
     "Trump faces growing backlash over plans to import diesel from Russia",
     "China\u2019s $3 Billion Qatar LNG Deal Raises an Awkward Question",
-    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears"
+    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
+    "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as i",
+    "Rainmakers: The drones used to seed clouds",
+    "Argentina Takes Falklands Oil Fight to International Tribunal",
+    "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
+    "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
+    "China September CPI 0.9% y/y (expected 1%, prior 0.8%)"
   ]
 }
