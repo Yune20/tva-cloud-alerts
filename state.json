@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791986278.70453,
+  "last_signals": 1791986703.7787266,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -84,9 +84,9 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -150,17 +150,11 @@
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1791986278.8648
+    "Gold|1D:bot": 1791986704.1537166
   },
-  "last_analysis": 1791986261.7425337,
-  "last_news": 1791986275.6924155,
+  "last_analysis": 1791986695.454737,
+  "last_news": 1791986703.7778707,
   "seen_news": [
-    "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
-    "Saudi man charged with planting 'sophisticated' recording device in OpenAI offic",
-    "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
-    "Italy\u2019s bond spread to Germany widens amid French debt pressures",
-    "EUR/JPY Price Forecast: Gains ground below 177.50, but stays bearish below 100-d",
-    "Catch up time! Oil settles mixed, Brent near $106; booms reported near Aramco HQ",
     "Five Shale Stocks to Watch Before Third-Quarter Earnings",
     "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
     "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
@@ -454,6 +448,12 @@
     "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
     "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
     "Japan to invest up to $21 billion in two US chip factories to be run by GlobalFo",
-    "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans"
+    "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
+    "Chipotle Stock Slips as Starbucks Denies Takeover Plan - TradingView",
+    "Gen Z renters are the only group more likely to feel successful by investing tha",
+    "Netflix is laying off roughly 6% of its workforce",
+    "Why are more roofs not made of solar tiles?",
+    "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine"
   ]
 }
