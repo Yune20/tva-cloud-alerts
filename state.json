@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791988608.7680717,
-  "last_bot4": 1791991962.789127,
+  "last_bot4": 1791992805.4323063,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791992258.806259,
+  "last_signals": 1791992805.4330027,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -96,13 +96,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -135,33 +135,27 @@
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1791865783.6947074,
     "Bitcoin|4H:top": 1791798698.4093196,
-    "USD/JPY|4H:top": 1791831461.9779255,
-    "JPY Index|4H:top": 1791831462.2983031,
+    "USD/JPY|4H:top": 1791992807.0544028,
+    "JPY Index|4H:top": 1791992807.5003567,
     "USOIL|4H:top": 1791990489.5883815,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791992260.3637486,
+    "Ethereum|1D:bot": 1791992806.2102706,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1791982311.2722292,
-    "JPY Index|1D:top": 1791982311.86826,
+    "USD/JPY|1D:top": 1791992807.0544353,
+    "JPY Index|1D:top": 1791992807.5003707,
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
   "last_analysis": 1791992501.341039,
-  "last_news": 1791992258.8053453,
+  "last_news": 1791992805.4315982,
   "seen_news": [
-    "US Dollar Index Price Forecast: DXY holds above 101.70 pivotal support ahead of ",
-    "European stock market open: Stocks advance as investors brace for US inflation d",
-    "B\u1ed9 C\u00f4ng an khuy\u1ebfn c\u00e1o nguy\u00ean t\u1eafc '5 Kh\u00f4ng' trong qu\u1ea3n l\u00fd v\u00e0 s\u1eed d\u1ee5ng thi\u1ebft b\u1ecb bay",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "Microsoft to launch Maia 300 AI chip in 2027 - TradingView",
-    "U.S. Treasury yields inch lower as investors await key inflation report",
     "Nam di\u1ec5n vi\u00ean SN 1973 qua M\u1ef9 \u1edf nh\u1edd nh\u00e0 tri\u1ec7u \u0111\u00f4 c\u1ee7a b\u1ea1n c\u00f9ng qu\u00ea Long An",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "ZAWYA: Gold prices in Egypt hold steady on October 13 - TradingView",
@@ -455,6 +449,12 @@
     "Your Social Security check will rise 3.6% next year, but will it be able to keep",
     "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investmen",
     "The start-ups hoping to return battery making to the US",
-    "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High"
+    "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
+    "Micron wins praise from Elon Musk for not being too greedy",
+    "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+    "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+    "Stripchat loses legal fight against EU tech label",
+    "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3."
   ]
 }
