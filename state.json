@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791977627.185234,
+  "last_signals": 1791978243.9303312,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791977628.0987904,
+    "US30|1D:top": 1791978244.8997161,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791977922.4299777,
-  "last_news": 1791977620.0390112,
+  "last_analysis": 1791978233.1469696,
+  "last_news": 1791978243.9295382,
   "seen_news": [
-    "Navitas, NVIDIA collaborate on power delivery board for AI data centers - Tradin",
-    "China's producer prices rise at fastest pace since June 2022, beating expectatio",
-    "Citroen revives the 2CV for an electric age",
-    "SK Hynix bounces in downtrend after support breach: Live levels",
-    "Canadian Dollar edges up against US Dollar ahead of US CPI data",
-    "Long global semiconductors remains the most crowded trade followed by short US T",
     "HMV to close Oxford Street store after three years",
     "Dollar gains for fourth straight week on Fed rate outlook",
     "United States Dollar Index\u00a0weakens to near 102.00 ahead of US CPI release",
@@ -443,6 +437,12 @@
     "investingLive European news wrap: Markets trim gains as oil prices rise ahead of",
     "Ngo\u00e0i \u1ea4n \u0110\u1ed9, m\u1ed9t n\u1ec1n kinh t\u1ebf kh\u00e1c \u0111\u01b0\u1ee3c IMF d\u1ef1 b\u00e1o s\u1ebd v\u01b0\u1ee3t Nh\u1eadt B\u1ea3n v\u00e0o n\u0103m 2027",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "PagSeguro Digital Director Sold Shares Worth Over $3.6M - TradingView"
+    "PagSeguro Digital Director Sold Shares Worth Over $3.6M - TradingView",
+    "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
+    "XSMB 14/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 14/10/2026",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "Portugal sells \u20ac1.28 billion of bonds in auction, yields rise - TradingView",
+    "What analysts are watching with key semiconductor maker TSMC set to report resul",
+    "Morgan Stanley tops estimates as equities trading revenue exceeds expectations b"
   ]
 }
