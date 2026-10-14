@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791942057.5135186,
+  "last_signals": 1791942669.9387293,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -68,9 +68,9 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791942059.5931025,
+    "US30|1D:top": 1791942671.772248,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791942048.4057066,
-  "last_news": 1791942057.5123832,
+  "last_analysis": 1791942660.7511353,
+  "last_news": 1791942669.9377627,
   "seen_news": [
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "Basis bids flat as farmers plant - TradingView",
-    "New SEC rules would fleece everyday investors to enrich Wall Street",
-    "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires",
-    "UK growth forecast upgraded but higher energy prices to hit economy next year",
-    "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks",
     "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla",
     "India regulator proposes tighter rules for equity fundraising",
     "Forex Today: US inflation comes to the fore",
@@ -443,6 +437,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
     "OneMedNet 10% Owner Purchased Shares Worth Over $750K - TradingView",
     "Visa gets Beijing's green light for bank card business after 40 years of working",
-    "Would you buy branded clothing from your favourite tech firm?"
+    "Would you buy branded clothing from your favourite tech firm?",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
+    "Producer prices in China rise at fastest pace since June 2022, beating expectati",
+    "Poundland in rescue talks as owners seek buyer",
+    "Blackstone in talks to invest up to $500m in Accord Systems- Mint",
+    "Australian Dollar holds gains following Chinese inflation data"
   ]
 }
