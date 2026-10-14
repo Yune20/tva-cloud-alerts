@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791974490.9839838,
+  "last_signals": 1791975116.648484,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791974492.6369388,
+    "US30|1D:top": 1791975118.030706,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791974482.1054444,
-  "last_news": 1791974490.983236,
+  "last_analysis": 1791975108.379783,
+  "last_news": 1791975116.6476383,
   "seen_news": [
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
-    "Arista Stocks Fall 2.7% as Ethernet Invades Nvidia's Rack - TradingView",
-    "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in I",
-    "Car finance compensation payments delayed until next year",
-    "Hang Seng hovers at HK$24,285 neckline after double bottom: Live",
-    "Australian Dollar gains against Japanese Yen as China CPI inflation rises in Sep",
     "Lagarde: no second-round effects yet, but ECB can\u2019t wait until they are in full ",
     "Chuy\u00ean gia FPT ch\u1ec9 ra 8 y\u1ebfu t\u1ed1 then ch\u1ed1t khi Vi\u1ec7t Nam ti\u1ebfp nh\u1eadn c\u00f4ng ngh\u1ec7 \u0111\u01b0\u1eddng ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
@@ -443,6 +437,12 @@
     "Inside the booming market for US midterm election bets",
     "Australia\u2019s biggest planned IPO in 30 years pulled as AI infrastructure appetite",
     "\"Nam th\u1ea7n showbiz\" c\u01b0\u1edbi c\u00f4 b\u1ea1n h\u1ecdc c\u00f9ng tr\u01b0\u1eddng c\u1ea5p 2: Sinh \u0111\u1ee7 n\u1ebfp \u0111\u1ee7 t\u1ebb, \u1edf bi\u1ec7t ",
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance"
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla",
+    "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
+    "PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)",
+    "XSMN 14/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 14 th\u00e1ng 10",
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "ZAWYA: Etisalat, DataRobot ink strategic partnership to boost sovereign agentic "
   ]
 }
