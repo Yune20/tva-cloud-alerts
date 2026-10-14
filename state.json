@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791988608.7680717,
-  "last_bot4": 1791990193.7690883,
+  "last_bot4": 1791991057.2665744,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791990488.7669265,
+  "last_signals": 1791991057.267342,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -60,7 +60,8 @@
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
-    "5575146754|Gold|1D|dbot": 1791985823.4640732
+    "5575146754|Gold|1D|dbot": 1791985823.4640732,
+    "5575146754|Gold|4H|trap_dn": 1791991057.267342
   },
   "sig_range": {
     "Gold": true,
@@ -81,7 +82,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -141,7 +142,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791851835.3462253,
+    "Ethereum|1D:bot": 1791991058.6186259,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
@@ -153,14 +154,8 @@
     "Gold|1D:bot": 1791990489.2479963
   },
   "last_analysis": 1791990796.9079618,
-  "last_news": 1791990488.7662451,
+  "last_news": 1791991057.2657716,
   "seen_news": [
-    "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
-    "New Zealand Dollar drifts higher above 0.5600, all eyes on US CPI inflation data",
-    "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.",
-    "C\u00f4ng vi\u1ec7c kh\u00f4ng l\u01b0\u01a1ng c\u1ee7a v\u1ee3 C\u01b0\u1eddng \u0110\u00f4 La",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
-    "GameStop President, CEO, Chairman Purchased Shares Worth Over $22M - TradingView",
     "Tr\u00e1i \u0110\u1ea5t s\u1ebd ra sao n\u1ebfu M\u1eb7t Tr\u0103ng \u0111\u1ed9t ng\u1ed9t bi\u1ebfn m\u1ea5t?  Nh\u1eefng kh\u00e1m ph\u00e1 l\u00e0m thay \u0111\u1ed5i",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Let the doves sing - TradingView",
@@ -454,6 +449,12 @@
     "Aditya Birla Renewables Eyes USD 1.5 Billion Loan for Shell Deal - TradingView",
     "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi A",
     "The AI telling farmers when to harvest",
-    "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance"
+    "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance",
+    "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
+    "Netflix cuts about 6% of jobs in biggest layoff since 2022",
+    "What technical levels are in play now for the broader US stock indices following",
+    "\u0110\u1eb7ng Nguy\u1ec5n Tu\u1ea5n SN 2001 chuy\u1ec3n kho\u1ea3n 30.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n Vietcombank ",
+    "CTCP T\u1eadp \u0111o\u00e0n MBG - VietstockFinance",
+    "Adtran Networks SE (ADV) Reports Major Holdings Notification - TradingView"
   ]
 }
