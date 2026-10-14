@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791988608.7680717,
-  "last_bot4": 1791995993.8448691,
+  "last_bot4": 1791996970.0435524,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791995993.8447683
+    "Gold": 1791996970.043471
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791996595.483051,
+  "last_signals": 1791996970.0443342,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -143,26 +143,20 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791996596.8133118,
+    "Ethereum|1D:bot": 1791996971.3052225,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1791996598.2981935,
+    "USD/JPY|1D:top": 1791996972.6141198,
     "JPY Index|1D:top": 1791996598.8907366,
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
-  "last_analysis": 1791996293.6160102,
-  "last_news": 1791996595.4822094,
+  "last_analysis": 1791996957.9002194,
+  "last_news": 1791996966.9585786,
   "seen_news": [
-    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
-    "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-    "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO",
-    "Indonesia stocks higher at close of trade; IDX Composite Index up 0.33%",
-    "British Pound: Upside extension capped by 1.3280 against US Dollar  \u2013 UOB",
     "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
     "\u2018Sopranos\u2019 star Steven Van Zandt is selling his Greenwich Village penthouse for ",
     "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile",
@@ -456,6 +450,12 @@
     "Gold gets hit again by a jump in oil prices as the focus turns to US CPI. What t",
     "Ca s\u0129 Vi\u1ec7t v\u1eeba \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi: \"Nam th\u1ea7n nh\u1eb7t rau\" n\u1ed5i ti\u1ebfng sau 1",
     "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "SAF-HOLLAND SE: Release of a capital market information - TradingView"
+    "SAF-HOLLAND SE: Release of a capital market information - TradingView",
+    "UK stocks close higher as weaker sterling boosts export-heavy sectors",
+    "Connecting the dots: Why strong US bank earnings don't always mean a healthy eco",
+    "M\u1ed9t ng\u01b0\u1eddi 30 tu\u1ed5i ki\u1ebfm \u0111\u01b0\u1ee3c 150.800 t\u1ef7 \u0111\u1ed3ng trong 3 n\u0103m",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
+    "3 things that are driving inflation higher"
   ]
 }
