@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792014449.41878,
+  "last_signals": 1792015047.9711196,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -152,18 +152,12 @@
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1792014449.730201,
-    "Ethereum|4H:bot": 1792014450.3006778
+    "Gold|1D:bot": 1792015048.3706038,
+    "Ethereum|4H:bot": 1792015049.1418846
   },
   "last_analysis": 1792014750.16397,
-  "last_news": 1792014449.4179213,
+  "last_news": 1792015047.9704952,
   "seen_news": [
-    "Social Security\u2019s COLA will be 3.6% in 2027 as inflation persists",
-    "Bank of America shares drop 8% after third-quarter revenue miss and regulatory p",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
-    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
-    "FX option expiries for 14 October 10am New York cut",
     "Rainmakers: The drones used to seed clouds",
     "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
     "UBS sticks to buy-dollar-on-dips call. Here is why",
@@ -457,6 +451,12 @@
     "Driving test waits fall to two-year low - but still average 20 weeks",
     "US Crude Oil Inventories See Massive Drop Off",
     "Why is Rocket Lab stock tumbling today?",
-    "Fed catch up - Goolsbee calls CPI discouraging as Beige Book flags diesel-fuelle"
+    "Fed catch up - Goolsbee calls CPI discouraging as Beige Book flags diesel-fuelle",
+    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
+    "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
+    "Colombia stocks higher at close of trade; COLCAP up 0.44%",
+    "Fed\u2019s Daly: more rate hikes likely needed, but no urgency to move in October",
+    "S\u1ef1 c\u1ed1 l\u1edbn g\u1ea7n Rostov, b\u1ea1o lo\u1ea1n \u1edf Baku, r\u00f2 r\u1ec9 \u201ck\u1ebf ho\u1ea1ch m\u00f9a \u0111\u00f4ng c\u1ee7a B\u1ed9 T\u1ed5ng tham",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi"
   ]
 }
