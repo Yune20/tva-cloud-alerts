@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791941682.11903,
+  "last_signals": 1791942057.5135186,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -90,7 +90,7 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791941683.4707553,
+    "US30|1D:top": 1791942059.5931025,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791941369.8113625,
-  "last_news": 1791941678.8667965,
+  "last_analysis": 1791942048.4057066,
+  "last_news": 1791942057.5123832,
   "seen_news": [
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
-    "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
-    "How to read your body\u2019s warning signs years before you get sick",
-    "Social Security cost-of-living adjustment for 2027 may be above average. Some sa",
-    "Poundland in rescue talks as owners seek buyer",
-    "Qualcomm says jury found Arm breached license agreement",
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
     "Basis bids flat as farmers plant - TradingView",
     "New SEC rules would fleece everyday investors to enrich Wall Street",
@@ -443,6 +437,12 @@
     "Argentina Takes Falklands Oil Fight to International Tribunal",
     "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
     "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
-    "China September CPI 0.9% y/y (expected 1%, prior 0.8%)"
+    "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
+    "PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)",
+    "VNG t\u0103ng v\u1ed1n g\u1ea5p 3,5 l\u1ea7n cho m\u1ea3ng \u0111i\u1ec7n to\u00e1n \u0111\u00e1m m\u00e2y AI, l\u00ean h\u01a1n 800 t\u1ef7 \u0111\u1ed3ng",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
+    "OneMedNet 10% Owner Purchased Shares Worth Over $750K - TradingView",
+    "Visa gets Beijing's green light for bank card business after 40 years of working",
+    "Would you buy branded clothing from your favourite tech firm?"
   ]
 }
