@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791950970.8056617,
+  "last_signals": 1791951586.693714,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -130,7 +130,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791919188.0917528,
+    "USOIL|4H:top": 1791951587.2325466,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791950971.7071211,
+    "US30|1D:top": 1791951588.0284507,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791950963.572253,
-  "last_news": 1791950970.8048873,
+  "last_analysis": 1791951577.9063268,
+  "last_news": 1791951586.6927474,
   "seen_news": [
-    "M\u1ed9t ng\u00e2n h\u00e0ng gi\u1ea3m m\u1ea1nh t\u1ef7 l\u1ec7 thanh to\u00e1n t\u1ed1i thi\u1ec3u v\u1edbi th\u1ebb t\u00edn d\u1ee5ng",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
-    "Ripple Treasury Issues Another 20 Million RLUSD - TradingView",
-    "My sister moved in with our mother, 78, and now says she deserves the $925,000 f",
-    "Bank of America hit with more than $1.2 billion in penalties over money-launderi",
-    "BA flight forced to turn back over cracked window",
     "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
     "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
     "Bank of America fined $1.2 billion over money-laundering violations",
@@ -443,6 +437,12 @@
     "\u00d4ng Nguy\u1ec5n Duy D\u0169ng b\u1ecb b\u1eaft, doanh nghi\u1ec7p c\u00f4ng b\u1ed1 th\u00f4ng tin quan tr\u1ecdng",
     "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
     "Alphabet Hit With Securities Fraud Class Action After 4% Drop - TradingView",
-    "The latest inflation data is expected to show price increases are accelerating"
+    "The latest inflation data is expected to show price increases are accelerating",
+    "S\u1ebfp Coteccons: Kh\u00f4ng t\u00f4n vinh l\u00e0m vi\u1ec7c qu\u00e1 s\u1ee9c, m\u1ed9t c\u00f4ng tr\u00ecnh t\u1ed1t kh\u00f4ng th\u1ec3 \u0111\u01b0\u1ee3",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
+    "Airbus SE (AIR) Reports Share Buybacks for Oct 5\u20139, 2026 - TradingView",
+    "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly access",
+    "Cost of living struggles inspire 'social supermarket'",
+    "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition"
   ]
 }
