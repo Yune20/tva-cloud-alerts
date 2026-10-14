@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791957436.1195252,
+  "last_signals": 1791958047.8732898,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -130,7 +130,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791954038.506343,
+    "USOIL|4H:top": 1791958048.4235988,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791957436.951503,
+    "US30|1D:top": 1791958049.289873,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791957427.110346,
-  "last_news": 1791957436.0354495,
+  "last_analysis": 1791958038.0818853,
+  "last_news": 1791958047.8720036,
   "seen_news": [
-    "Chinese Yuan: Outlook stays mildly positive against US Dollar \u2013 UOB",
-    "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI",
-    "V\u1ecb Gi\u00e1o s\u01b0, Ti\u1ebfn s\u0129, Vi\u1ec7n s\u0129 U80 t\u1eebng b\u1ecb gia \u0111\u00ecnh ph\u1ea3n \u0111\u1ed1i khi r\u1eddi ng\u00e0nh c\u00f4ng an",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
-    "GameStop President, CEO, Chairman Purchased Shares Worth Over $22M - TradingView",
-    "Micron sinks, other memory-linked names dip for a second day",
     "Gi\u00e1 ch\u00e0o b\u00e1n chung c\u01b0 H\u00e0 N\u1ed9i d\u1ef1 b\u00e1o gi\u1ea3m ti\u1ebfp: Chuy\u00ean gia khuy\u00ean ng\u01b0\u1eddi mua \u0111i\u1ec1u ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "MONDAY WHITE HOUSE SCHEDULE - President Trump travels to Youngstown, Ohio - Trad",
@@ -443,6 +437,12 @@
     "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
     "Italy\u2019s bond spread to Germany widens amid French debt pressures",
     "EUR/JPY Price Forecast: Gains ground below 177.50, but stays bearish below 100-d",
-    "Catch up time! Oil settles mixed, Brent near $106; booms reported near Aramco HQ"
+    "Catch up time! Oil settles mixed, Brent near $106; booms reported near Aramco HQ",
+    "Five Shale Stocks to Watch Before Third-Quarter Earnings",
+    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
+    "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
+    "Chart of the day: Gold price faces crucial $4,200 breakout test as US CPI looms",
+    "Nam sinh t\u1eebng l\u1eadp k\u1ef7 l\u1ee5c t\u1ea1i \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia khi gi\u1ea3i ch\u01b0\u1edbng ng\u1ea1i v\u1eadt ch\u1ec9",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance"
   ]
 }
