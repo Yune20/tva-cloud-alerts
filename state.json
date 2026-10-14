@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791955555.887965,
-  "last_bot4": 1791960867.706552,
+  "last_bot4": 1791961495.8430672,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791960867.7077358,
+  "last_signals": 1791961495.8438787,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791960869.6625855,
+    "US30|1D:top": 1791961496.6084876,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791961168.8168328,
-  "last_news": 1791960864.7155805,
+  "last_analysis": 1791961487.7792447,
+  "last_news": 1791961495.8422241,
   "seen_news": [
-    "World stocks dip on AI spending concerns; Brent settles lower - TradingView",
-    "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to ",
-    "Anthropic to disclose new revenue numbers as AI lab financials become central to",
-    "Royal Mail losing 400 postal workers a week, says union",
-    "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-    "Apple\u2019s HomeView brings personalized Siri to smart home, takes on Amazon and Goo",
     "Walmart Expands Free Prescription Coverage to Ozempic and Mounjaro for Employees",
     "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklist",
     "Is it OK for jobseekers or employers to use AI?",
@@ -443,6 +437,12 @@
     "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.91%",
     "British Pound gains as UK assures fiscal discipline",
     "ICYMI - Three Fed officials signal inflation fight continues; Williams sees no 2",
-    "Tin vui cho ng\u01b0\u1eddi \u0111i Metro s\u1ed1 1 c\u00f3 t\u00e0i kho\u1ea3n VNeID"
+    "Tin vui cho ng\u01b0\u1eddi \u0111i Metro s\u1ed1 1 c\u00f3 t\u00e0i kho\u1ea3n VNeID",
+    "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
+    "New Zealand Dollar drifts higher above 0.5600, all eyes on US CPI inflation data",
+    "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.",
+    "C\u00f4ng vi\u1ec7c kh\u00f4ng l\u01b0\u01a1ng c\u1ee7a v\u1ee3 C\u01b0\u1eddng \u0110\u00f4 La",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
+    "GameStop President, CEO, Chairman Purchased Shares Worth Over $22M - TradingView"
   ]
 }
