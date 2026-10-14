@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791980094.5862186,
+  "last_signals": 1791980722.3972728,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -54,7 +54,8 @@
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
     "5575146754|Gold|1D|range_in": 1791958717.8275256,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
-    "5575146754|Gold|1H|momo_up": 1791869804.1951888
+    "5575146754|Gold|1H|momo_up": 1791869804.1951888,
+    "5575146754|Gold|4H|tbot": 1791980722.3972728
   },
   "sig_range": {
     "Gold": true,
@@ -77,7 +78,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -138,18 +139,13 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791980096.0560458,
-    "GBP/USD|4H:top": 1791934047.3662043
+    "US30|1D:top": 1791980724.6637611,
+    "GBP/USD|4H:top": 1791934047.3662043,
+    "Gold|4H:bot": 1791980722.8567832
   },
-  "last_analysis": 1791980084.488823,
-  "last_news": 1791980094.5853236,
+  "last_analysis": 1791980703.4009194,
+  "last_news": 1791980722.3963747,
   "seen_news": [
-    "Gold prices hold firm ahead of US inflation data - TradingView",
-    "More Republicans come out against Trump's diesel deal with Putin",
-    "Three things we've learnt about the UK economy from the IMF",
-    "Asia stocks edge higher as chipmakers rebound; China trade beats forecasts",
-    "China\u2019s Trade Balance: Surplus unexpectedly expands in September",
-    "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
     "British Pound strengthens above 1.3250, traders await US CPI inflation data",
     "US CPI: Energy prices expected to lift headline inflation. Will core stay contai",
     "\u00d4ng Nguy\u1ec5n Duy D\u0169ng b\u1ecb b\u1eaft, doanh nghi\u1ec7p c\u00f4ng b\u1ed1 th\u00f4ng tin quan tr\u1ecdng",
@@ -443,6 +439,12 @@
     "Lagarde: no second-round effects yet, but ECB can\u2019t wait until they are in full ",
     "T\u00ecnh h\u00ecnh hi\u1ec7n t\u1ea1i c\u1ee7a n\u1eef sinh v\u1eeba t\u1ed1t nghi\u1ec7p c\u1ea5p 3 \u0111\u00e3 c\u00f3 t\u00e0i s\u1ea3n h\u01a1n 31.000 t\u1ef7 ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
-    "Jiangsu Yoke Technology And Partners To Boost Capital In Unit - TradingView"
+    "Jiangsu Yoke Technology And Partners To Boost Capital In Unit - TradingView",
+    "B\u00e1o Trung Qu\u1ed1c \u1ea5n t\u01b0\u1ee3ng v\u1edbi 4 si\u00eau c\u00f4ng tr\u00ecnh: SV\u0110 c\u1ee7a Vi\u1ec7t Nam \u0111\u1ee9ng c\u00f9ng Old Tr",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
+    "Sabre Retires 11.125% 2029 Notes; Indenture Terminated Following Tender and Rede",
+    "Charles Schwab and DoorDash ranked among bargain stocks that could lead the mark",
+    "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack American warships; Sau",
+    "Civil servant faked illness with make-up to juggle five jobs, court hears"
   ]
 }
