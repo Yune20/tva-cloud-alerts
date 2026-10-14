@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791933451.2587185,
-  "last_bot4": 1791938307.5735245,
+  "last_bot4": 1791939236.9479241,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1791938307.5734298
+    "Gold": 1791939236.947826
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791938907.06688,
+  "last_signals": 1791939236.9488058,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791938907.9656856,
+    "US30|1D:top": 1791939238.51354,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791938610.4352245,
-  "last_news": 1791938907.066001,
+  "last_analysis": 1791939225.6834168,
+  "last_news": 1791939234.2755272,
   "seen_news": [
-    "M\u1ed9t qu\u1ef9 \u0111\u1ea7u t\u01b0 b\u1ea5t ng\u1edd b\u00e1n s\u1ea1ch c\u1ed5 phi\u1ebfu Vingroup trong th\u00e1ng 9",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Why MongoDB (MDB) Stock Is Trading Up Today - TradingView",
-    "I keep comparing myself to my more financially successful friends. How can I sto",
-    "The AI trade is cracking. Here's how to profit",
-    "Publicly owned rail is popular. But is it making the trains run on time?",
     "Comprehensive Healthcare Systems Inc. (CHS) To Acquire America's Choice Healthpl",
     "In charts: How one of the world's biggest economies got trapped by debt",
     "Roofing scammers con homeowners out of thousands of pounds",
@@ -443,6 +437,12 @@
     "Australian Dollar climbs as Fed\u2019s Williams push the brakes on rates",
     "How Singapore\u2019s monetary policy works: the S$NEER band explained in three levers",
     "Microsoft l\u00ean ti\u1ebfng v\u1ec1 vi\u1ec7c \u0111i\u1ec1u ch\u1ec9nh nh\u00e2n s\u1ef1 t\u1ea1i Vi\u1ec7t Nam",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance"
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "Nasdaq ends down as chipmakers fall and bank earnings roll in",
+    "Dollar Index slips from its 18-month high before US CPI",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6922 \u2013 Reuters estimate",
+    "N\u1eef NSND t\u1eebng \u0111\u1ed7 th\u1ee7 khoa \u0111\u1ea1i h\u1ecdc, 50 tu\u1ed5i v\u1eabn h\u1ecdc l\u00ean th\u1ea1c s\u0129, nguy\u00ean l\u00e0 Ph\u00f3 Gi\u00e1",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
+    "IonQ Stock Falls After $1.3 Billion All-Stock Elisity Buy - TradingView"
   ]
 }
