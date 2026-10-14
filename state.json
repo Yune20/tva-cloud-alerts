@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791939236.9488058,
+  "last_signals": 1791939846.8886244,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,10 +74,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -90,13 +90,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1791940109,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791939238.51354,
+    "US30|1D:top": 1791939847.9266777,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791939225.6834168,
-  "last_news": 1791939234.2755272,
+  "last_analysis": 1791939839.2973585,
+  "last_news": 1791939846.887716,
   "seen_news": [
-    "Comprehensive Healthcare Systems Inc. (CHS) To Acquire America's Choice Healthpl",
-    "In charts: How one of the world's biggest economies got trapped by debt",
-    "Roofing scammers con homeowners out of thousands of pounds",
-    "China\u2019s $3 Billion Qatar LNG Deal Raises an Awkward Question",
-    "Eurozone yields ease as energy pullback temporarily soothes\u00a0duration fears",
-    "EUR/GBP Price Forecast: Downtrend remains firm despite deeply oversold RSI",
     "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as i",
     "Rainmakers: The drones used to seed clouds",
     "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
@@ -443,6 +437,12 @@
     "PBOC is expected to set the USD/CNY reference rate at 6.6922 \u2013 Reuters estimate",
     "N\u1eef NSND t\u1eebng \u0111\u1ed7 th\u1ee7 khoa \u0111\u1ea1i h\u1ecdc, 50 tu\u1ed5i v\u1eabn h\u1ecdc l\u00ean th\u1ea1c s\u0129, nguy\u00ean l\u00e0 Ph\u00f3 Gi\u00e1",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng ng\u1eafn h\u1ea1n - VietstockFinanc",
-    "IonQ Stock Falls After $1.3 Billion All-Stock Elisity Buy - TradingView"
+    "IonQ Stock Falls After $1.3 Billion All-Stock Elisity Buy - TradingView",
+    "Singapore: MAS could tighten again in 2027 if inflation risks materialise, says ",
+    "Ngu\u1ed3n cung n\u00e2ng h\u1ea1ng, gi\u00e1 c\u0103n h\u1ed9 ph\u00eda B\u1eafc TP.HCM thi\u1ebft l\u1eadp m\u1eb7t b\u1eb1ng m\u1edbi",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Weekly Recap: OpenAI revenue, compute-deal and ORCL $45\u201350B raise - TradingView",
+    "The AI trade is cracking. Here's how to profit",
+    "Publicly owned rail is popular. But is it making the trains run on time?"
   ]
 }
