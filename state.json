@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792018419.2984533,
+  "last_signals": 1792018959.0992467,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -99,13 +99,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|4H": true,
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792019288,
   "menu_prices": {
@@ -155,15 +155,9 @@
     "Gold|1D:bot": 1792015647.4763043,
     "Ethereum|4H:bot": 1792015049.1418846
   },
-  "last_analysis": 1792018411.3366048,
-  "last_news": 1792018419.2968392,
+  "last_analysis": 1792018950.896816,
+  "last_news": 1792018959.0985055,
   "seen_news": [
-    "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
-    "Ra l\u1ec7nh b\u1eaft t\u1ea1m giam \u00f4ng Nguy\u1ec5n V\u0103n D\u1ea1o 77 tu\u1ed5i",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
-    "Two Major Events That Could Impact the Stock Market Today - TradingView",
-    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
-    "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Let the doves sing - TradingView",
     "Your Social Security check will rise 3.6% next year, but will it be able to keep",
@@ -457,6 +451,12 @@
     "Qu\u00e1n c\u00e0 ph\u00ea h\u00fat 10 tri\u1ec7u l\u01b0\u1ee3t xem sau khi th\u00f4ng b\u00e1o \u0111\u00f3ng c\u1eeda v\u1eeba b\u1ea5t ng\u1edd t\u00e1i xu\u1ea5",
     "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC | VietstockFinance - VietstockFi",
     "Aditya Birla Renewables Eyes USD 1.5 Billion Loan for Shell Deal - TradingView",
-    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil"
+    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil",
+    "\u0110\u1eb7ng Nguy\u1ec5n Tu\u1ea5n SN 2001 chuy\u1ec3n kho\u1ea3n 30.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n Vietcombank ",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
+    "Lelantos Holdings Announces Cancellation of 60 Million ESOP Shares - TradingView",
+    "Big banks see risks in financing the AI boom, but are happy to keep writing the ",
+    "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+    "US inflation rises more than expected - here's what is happening with prices"
   ]
 }
