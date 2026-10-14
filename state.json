@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791945139.249108,
+  "last_signals": 1791945755.0608022,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -95,7 +95,7 @@
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791945140.2181718,
+    "US30|1D:top": 1791945757.2454596,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791945128.6317031,
-  "last_news": 1791945139.2481458,
+  "last_analysis": 1791945744.1926563,
+  "last_news": 1791945755.0596635,
   "seen_news": [
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
-    "Asian markets mixed following Wall Street gains; heavy earnings week ahead - Tra",
-    "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal o",
-    "The latest inflation data is expected to show price increases are accelerating",
-    "AI is less regulated than milk, says Microsoft president",
-    "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
     "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
     "Fed\u2019s Williams sees one final 2026 rate hike, none in 2027",
     "Crude oil futures are settle up $0.40 at $94.14",
@@ -443,6 +437,12 @@
     "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in I",
     "Car finance compensation payments delayed until next year",
     "Hang Seng hovers at HK$24,285 neckline after double bottom: Live",
-    "Australian Dollar gains against Japanese Yen as China CPI inflation rises in Sep"
+    "Australian Dollar gains against Japanese Yen as China CPI inflation rises in Sep",
+    "Lagarde: no second-round effects yet, but ECB can\u2019t wait until they are in full ",
+    "Chuy\u00ean gia FPT ch\u1ec9 ra 8 y\u1ebfu t\u1ed1 then ch\u1ed1t khi Vi\u1ec7t Nam ti\u1ebfp nh\u1eadn c\u00f4ng ngh\u1ec7 \u0111\u01b0\u1eddng ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "CANCOM SE (COK) Buys 130,477 Shares; Total 594,919 - TradingView",
+    "AST SpaceMobile\u2019s stock is feeling the heat from SpaceX\u2019s wireless plans",
+    "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires"
   ]
 }
