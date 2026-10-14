@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792003248.8481371,
+  "last_signals": 1792003663.8316255,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -61,7 +61,7 @@
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
     "5575146754|Gold|1D|dbot": 1791985823.4640732,
-    "5575146754|Gold|4H|trap_dn": 1792000060.3434167,
+    "5575146754|Gold|4H|trap_dn": 1792003663.8316255,
     "5575146754|Gold|4H|momo_dn": 1791998261.1367424
   },
   "sig_range": {
@@ -98,13 +98,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1792004118,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792003249.429089,
+    "USOIL|4H:top": 1792003664.401296,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -149,20 +149,14 @@
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792003252.0106206,
-    "JPY Index|1D:top": 1792003252.8800132,
+    "USD/JPY|1D:top": 1792003666.4149315,
+    "JPY Index|1D:top": 1792003666.9032128,
     "GBP/USD|1D:bot": 1791985069.5522494,
-    "Gold|1D:bot": 1792003249.1118095
+    "Gold|1D:bot": 1792003664.129452
   },
-  "last_analysis": 1792003239.306349,
-  "last_news": 1792003248.6939034,
+  "last_analysis": 1792003654.1607537,
+  "last_news": 1792003663.8306918,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
-    "OneMedNet 10% Owner Purchased Shares Worth Over $750K - TradingView",
-    "BlackRock\u2019s assets equal half the size of the U.S. economy after 15% growth",
-    "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eas",
     "Here\u2019s how much the AI boom is contributing to inflation, according to Goldman S",
     "Morgan Stanley is set to report earnings \u2014 here\u2019s what to expect",
     "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -456,6 +450,12 @@
     "Trump Announces \u201cMassive\u201d Greenland Oil Exploration Plans",
     "As EU debates local-content rules, Chinese automakers are already adapting",
     "Crude oil extends gains as Houthi attacks on Saudi Arabia escalate, raising supp",
-    "\u0110i l\u00e0m th\u00ec stress v\u00ec c\u00f4ng vi\u1ec7c, th\u1ea5t nghi\u1ec7p th\u00ec stress v\u00ec ti\u1ec1n b\u1ea1c"
+    "\u0110i l\u00e0m th\u00ec stress v\u00ec c\u00f4ng vi\u1ec7c, th\u1ea5t nghi\u1ec7p th\u00ec stress v\u00ec ti\u1ec1n b\u1ea1c",
+    "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
+    "Poundland in rescue talks as owners seek buyer",
+    "Top biotechnology stock pick from Guggenheim",
+    "China's September lending surprise masks a much deeper slump in credit demand",
+    "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc 2.800 t\u1ef7 \u0111\u1ed3ng c\u1ee7a \u0111\u1ea1i gia \u0110\u1eb7ng Th\u1ecb Ho\u00e0ng Y\u1ebfn: Thu kh\u00f4ng \u0111\u1ee7 chi 2 ",
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance"
   ]
 }
