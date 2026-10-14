@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792021348.5768952,
-  "last_bot4": 1792020743.794455,
+  "last_bot4": 1792021665.6204123,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792020743.794386
+    "Gold": 1792021665.6203113
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792021061.0471897,
+  "last_signals": 1792021665.6211777,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -94,7 +94,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -144,7 +144,7 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
-    "DXY|1D:top": 1791950972.5520308,
+    "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
@@ -153,17 +153,11 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792015647.4763043,
-    "Ethereum|4H:bot": 1792019977.9929082
+    "Ethereum|4H:bot": 1792021667.2853992
   },
-  "last_analysis": 1792021052.5734925,
-  "last_news": 1792021061.0462403,
+  "last_analysis": 1792021653.4973333,
+  "last_news": 1792021662.5114362,
   "seen_news": [
-    "Netflix to cut 1,000 jobs as subscriptions slow",
-    "Morgan Stanley Names Top Pick Amid 3Q26 Earnings",
-    "Bitcoin sellers defend moving average resistance. What does that teach traders?",
-    "\u0110\u0103ng tin sai s\u1ef1 th\u1eadt v\u1ec1 ho\u1ea1t \u0111\u1ed9ng cho vay margin, Tiktoker b\u1ecb ph\u1ea1t 12,5 tri\u1ec7u",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
-    "Broadcom CEO Delivers Stark Warning on Artificial Intelligence - TradingView",
     "European stock market open: Stocks advance as investors brace for US inflation d",
     "6 th\u1ee9 \u00e2m th\u1ea7m t\u00edch b\u1ea9n su\u1ed1t 365 ng\u00e0y, khuy\u00ean b\u1ea1n: L\u01b0\u1eddi m\u1ea5y c\u0169ng ph\u1ea3i v\u1ec7 sinh nga",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
@@ -457,6 +451,12 @@
     "L\u1eddi khuy\u00ean cho 3 con gi\u00e1p \u0111\u01b0\u1ee3c Th\u1ea7n t\u00e0i \u01b0u \u00e1i nh\u1ea5t trong n\u0103m \u0110inh M\u00f9i 2027",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
     "Let the doves sing - TradingView",
-    "The AI trade is splintering as inflation fears rattle hyped-up tech stocks"
+    "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+    "Thanh to\u00e1n s\u1ed1 kh\u00f4ng ch\u1ec9 chuy\u1ec3n ti\u1ec1n nhanh m\u00e0 c\u00f2n ph\u1ea3i qu\u1ea3n tr\u1ecb t\u1ed1t",
+    "CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - VietstockFinance",
+    "Latest Financial and Investing News from TradingView - TradingView",
+    "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+    "Big Tech Pushes Back Against Paying for America's Aging Power Grid"
   ]
 }
