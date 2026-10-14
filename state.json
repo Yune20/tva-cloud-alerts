@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791954038.1759303,
+  "last_signals": 1791954652.1760995,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,7 +75,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791954039.0162685,
+    "US30|1D:top": 1791954653.3772051,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791954030.498288,
-  "last_news": 1791954038.1750655,
+  "last_analysis": 1791954643.151729,
+  "last_news": 1791954652.1751273,
   "seen_news": [
-    "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
-    "Fed\u2019s Collins says uncertainty is elevated as she watches breadth of inflation p",
-    "T\u1eadp \u0111o\u00e0n Geleximco c\u1ee7a \u0111\u1ea1i gia V\u0169 V\u0103n Ti\u1ec1n b\u1eaft tay DN Trung Qu\u1ed1c, nh\u1eafm lo\u1ea1t d\u1ef1 \u00e1",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
-    "World stocks slip as AI spending worries hit chipmakers - TradingView",
-    "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
     "C\u1ee9 m\u1ed7i gi\u1edd tr\u00f4i qua, t\u1eadp \u0111o\u00e0n l\u1edbn nh\u1ea5t Vi\u1ec7t Nam l\u1ea1i thu h\u01a1n 100 t\u1ef7 \u0111\u1ed3ng, b\u1ecf t\u00fai ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Needham reiterates Buy rating on MongoDB, $430 price target - TradingView",
@@ -443,6 +437,12 @@
     "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
     "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
     "Judge indefinitely extends block on Trump White House ban of three media outlets",
-    "Bank of America hit with $1.2bn fine for money laundering failings"
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Samsung Stocks Drop 4.4% Despite Record Profit Guidance - TradingView",
+    "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
+    "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+    "The AI telling farmers when to harvest",
+    "Canadian dollar gains as U.S. dollar retreats from 18-month high",
+    "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks"
   ]
 }
