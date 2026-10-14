@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791977624.6161983,
-  "last_bot4": 1791983230.0769951,
+  "last_bot4": 1791983893.986869,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791983526.9157083,
+  "last_signals": 1791983893.9874923,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -57,7 +57,8 @@
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
     "5575146754|Gold|4H|dbot": 1791981340.3121903,
-    "5575146754|Gold|4H|dn": 1791981941.7095995
+    "5575146754|Gold|4H|dn": 1791981941.7095995,
+    "5575146754|Gold|1H|momo_dn": 1791983893.9874923
   },
   "sig_range": {
     "Gold": true,
@@ -141,21 +142,15 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791983527.977173,
+    "US30|1D:top": 1791983894.95135,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826
   },
-  "last_analysis": 1791983226.9770186,
-  "last_news": 1791983526.9149303,
+  "last_analysis": 1791983886.9601645,
+  "last_news": 1791983893.9859807,
   "seen_news": [
-    "Doanh nghi\u1ec7p t\u1ef1 quy\u1ebft gi\u00e1 x\u0103ng d\u1ea7u nh\u01b0ng c\u00f4ng b\u1ed1 gi\u00e1 m\u1edbi \u00edt nh\u1ea5t tr\u01b0\u1edbc 30 ph\u00fat",
-    "NVB: Ng\u00e2n h\u00e0ng TMCP Qu\u1ed1c D\u00e2n - NCB | VietstockFinance - VietstockFinance",
-    "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
-    "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
-    "Judge indefinitely extends block on Trump White House ban of three media outlets",
-    "Bank of America hit with $1.2bn fine for money laundering failings",
     "Samsung Stocks Drop 4.4% Despite Record Profit Guidance - TradingView",
     "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
     "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
@@ -449,6 +444,12 @@
     "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
     "U.S. SEPT CPI +0.6% M/M (VS +0.6% EXPECTED) - TradingView",
     "Bank of America shares drop 7% after third-quarter revenue miss and regulatory p",
-    "US inflation rises more than expected ahead of midterm elections"
+    "US inflation rises more than expected ahead of midterm elections",
+    "\u0110\u1ed7 M\u1ef9 Linh hi\u1ebfm hoi \u0111\u0103ng \u1ea3nh sexy, \u00f4ng x\u00e3 Ch\u1ee7 t\u1ecbch c\u00f3 ph\u1ea3n \u1ee9ng g\u00e2y ch\u00fa \u00fd",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
+    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
+    "BA flight forced to turn back over cracked window",
+    "Dollar pops as hot inflation triggers rate hike fears"
   ]
 }
