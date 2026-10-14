@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791936409.707491,
+  "last_signals": 1791937024.7917717,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,7 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
     "5575146754|Gold|1H|trap_dn": 1791808590.654704,
-    "5575146754|Gold|1D|range_in": 1791912271.8589604,
+    "5575146754|Gold|1D|range_in": 1791937024.7917717,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888
   },
@@ -70,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791936410.6112792,
+    "US30|1D:top": 1791937027.7181442,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791936402.6217952,
-  "last_news": 1791936409.7067974,
+  "last_analysis": 1791937011.4535906,
+  "last_news": 1791937024.790958,
   "seen_news": [
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
-    "REG - Rotork PLC - Form 8 (DD) Benjamin Peacock transfer to spouse - TradingView",
-    "\u2018Superintelligence\u2019 may never arrive, Deutsche Bank says. What that could mean f",
-    "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
-    "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-    "Why Diesel Prices Are So Much Higher Than Gasoline",
     "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 mi",
     "Trump faces growing backlash over plans to import diesel from Russia",
     "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO",
@@ -443,6 +437,12 @@
     "Why is Bank of America stock sliding today?",
     "Gold declines to near $4,150 ahead of US CPI inflation data",
     "Goldman\u2019s Wilson picks two trades: US megacap tech and German fiscal winners",
-    "\"Ch\u00e1nh cung\" \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam \u0111i thi qu\u1ed1c t\u1ebf, nhan s\u1eafc sau 24 n\u0103m g\u00e2y ng\u1ee1 n"
+    "\"Ch\u00e1nh cung\" \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam \u0111i thi qu\u1ed1c t\u1ebf, nhan s\u1eafc sau 24 n\u0103m g\u00e2y ng\u1ee1 n",
+    "Yemen's Houthis fire missiles at Saudi Arabia; Aramco facility catches fire",
+    "Singapore\u2019s MAS holds policy steady, surprising all 10 analysts who expected tig",
+    "\u0110\u00fang 9h s\u00e1ng mai - 15/10, m\u1ed9t m\u00e1y bay Cessna 208 s\u1ebd th\u1ef1c hi\u1ec7n nhi\u1ec7m v\u1ee5 \u0111\u1eb7c bi\u1ec7t ",
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Bitcoin will break above $100K again, Strategy's Saylor reportedly says - Tradin",
+    "Singapore third-quarter GDP growth softens from four-year high but beats estimat"
   ]
 }
