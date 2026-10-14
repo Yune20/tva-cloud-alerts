@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791992805.4330027,
+  "last_signals": 1791993128.3542697,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -96,13 +96,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -136,13 +136,13 @@
     "Gold|4H:top": 1791865783.6947074,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791992807.0544028,
-    "JPY Index|4H:top": 1791992807.5003567,
+    "JPY Index|4H:top": 1791993130.9201941,
     "USOIL|4H:top": 1791990489.5883815,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1791992806.2102706,
+    "Ethereum|1D:bot": 1791993129.3919084,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
     "US30|1D:top": 1791984465.8056688,
@@ -153,15 +153,9 @@
     "GBP/USD|1D:bot": 1791985069.5522494,
     "Gold|1D:bot": 1791992259.260184
   },
-  "last_analysis": 1791992501.341039,
-  "last_news": 1791992805.4315982,
+  "last_analysis": 1791993120.7606974,
+  "last_news": 1791993128.3533645,
   "seen_news": [
-    "Nam di\u1ec5n vi\u00ean SN 1973 qua M\u1ef9 \u1edf nh\u1edd nh\u00e0 tri\u1ec7u \u0111\u00f4 c\u1ee7a b\u1ea1n c\u00f9ng qu\u00ea Long An",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "ZAWYA: Gold prices in Egypt hold steady on October 13 - TradingView",
-    "Goldman says investors are looking for 'profitable' Chinese business growth over",
-    "How long will humans be needed for translation?",
-    "Why is Evotec stock advancing today?",
     "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate ",
     "Chung c\u01b0 m\u1edbi H\u00e0 N\u1ed9i: Giao d\u1ecbch suy gi\u1ea3m nh\u01b0ng gi\u00e1 v\u1eabn neo cao",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
@@ -455,6 +449,12 @@
     "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
     "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
     "Stripchat loses legal fight against EU tech label",
-    "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3."
+    "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "CPI Jumps Back to Spring Levels, Pre-Markets Fall - TradingView",
+    "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "X-planes: Are they needed in the new era of drones?",
+    "Stranded Middle East LNG Supply Upends Gas Markets",
+    "OpenAI employee who left for Apple took files about unreleased device, OpenAI al"
   ]
 }
