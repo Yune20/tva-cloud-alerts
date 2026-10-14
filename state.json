@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791965177.2503088,
+  "last_signals": 1791965845.5505302,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -85,7 +85,7 @@
     "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791965179.0209973,
+    "US30|1D:top": 1791965846.4035068,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791965476.6029475,
-  "last_news": 1791965177.2493942,
+  "last_analysis": 1791965833.634892,
+  "last_news": 1791965845.5495555,
   "seen_news": [
-    "Yemen's Houthis fire missiles at Saudi Arabia; Aramco facility catches fire",
-    "Singapore\u2019s MAS holds policy steady, surprising all 10 analysts who expected tig",
-    "\u0110\u00fang 9h s\u00e1ng mai - 15/10, m\u1ed9t m\u00e1y bay Cessna 208 s\u1ebd th\u1ef1c hi\u1ec7n nhi\u1ec7m v\u1ee5 \u0111\u1eb7c bi\u1ec7t ",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "Bitcoin will break above $100K again, Strategy's Saylor reportedly says - Tradin",
-    "Singapore third-quarter GDP growth softens from four-year high but beats estimat",
     "British Pound: Upside momentum builds against Euro \u2013 Societe Generale",
     "Saylor sees Bitcoin above $100,000, says investors will seek (scarce) assets tha",
     "TPHCM b\u00e0n quy ho\u1ea1ch t\u1ea7m nh\u00ecn 100 n\u0103m, khu th\u01b0\u01a1ng m\u1ea1i t\u1ef1 do",
@@ -443,6 +437,12 @@
     "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
     "The Sabrina Carpenter clip that helped a 22-year-old make \u00a3120,000 a year",
     "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
-    "Eurozone debt bourses consolidate as Lagarde rejects French bond backstop"
+    "Eurozone debt bourses consolidate as Lagarde rejects French bond backstop",
+    "Six Flags shares decline following deadly roller coaster incident",
+    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+    "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
+    "Why is Avio stock surging today?",
+    "Indian Rupee rallies further on RBI's forceful measures to curb USD's demand",
+    "Gold gets hit again by a jump in oil prices as the focus turns to US CPI. What t"
   ]
 }
