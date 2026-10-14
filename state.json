@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791984464.9373949,
+  "last_signals": 1791985068.3537664,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -75,13 +75,13 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -146,17 +146,12 @@
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1791982311.2722292,
-    "JPY Index|1D:top": 1791982311.86826
+    "JPY Index|1D:top": 1791982311.86826,
+    "GBP/USD|1D:bot": 1791985069.5522494
   },
-  "last_analysis": 1791984458.1098545,
-  "last_news": 1791984464.9364522,
+  "last_analysis": 1791985057.8563323,
+  "last_news": 1791985068.3528614,
   "seen_news": [
-    "ASML says it's getting order interest through 2030 as profit smashes expectation",
-    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
-    "Olympus shares hit 12-week low after FDA warning over quality systems",
-    "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.33",
-    "FX option expiries for 14 October 10am New York cut",
-    "Vi\u1ec7t Nam c\u00f3 th\u00e1c l\u1edbn nh\u1ea5t \u0110\u00f4ng Nam \u00c1 nh\u01b0ng l\u1ea1i khi\u1ebfn nhi\u1ec1u ng\u01b0\u1eddi ch\u1ea1y 280km t\u1edbi ",
     "TSMC shares rise ahead of closely watched Q3 earnings",
     "WTI Price Forecast: Eases from two-week high; trades below $94.00 amid bullish s",
     "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans",
@@ -450,6 +445,12 @@
     "U.S.  debt finds breathing room, countering energy spike",
     "S&P 500 technical analysis after the CPI selloff",
     "T\u1eeb v\u1ee5 TikToker \u0111\u0103ng t\u1ea3i th\u00f4ng tin xuy\u00ean t\u1ea1c v\u1ec1 ho\u1ea1t \u0111\u1ed9ng cho vay margin, UBCKNN ",
-    "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC | VietstockFinance - VietstockFi"
+    "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC | VietstockFinance - VietstockFi",
+    "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "AI is less regulated than milk, says Microsoft president",
+    "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
+    "Canadian dollar gains as U.S. dollar retreats from 18-month high",
+    "What are the key levels in play for the US dollar after the hotter than expected",
+    "C\u00f4 g\u00e1i khi\u1ebfn Tr\u1ea5n Th\u00e0nh c\u00f4ng khai khen \u201cem \u0111\u1eb9p l\u1eafm\u201d: C\u1ef1u sinh vi\u00ean RMIT, t\u1eebng ch"
   ]
 }
