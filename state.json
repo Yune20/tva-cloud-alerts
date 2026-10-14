@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791949741.9893906,
+  "last_signals": 1791950352.307242,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -74,7 +74,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -93,7 +93,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791949742.8472424,
+    "US30|1D:top": 1791950353.6385663,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791949733.877171,
-  "last_news": 1791949741.9882848,
+  "last_analysis": 1791950343.857546,
+  "last_news": 1791950352.3064191,
   "seen_news": [
-    "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
-    "U.S.  debt finds breathing room, countering energy spike",
-    "Fed\u2019s Barkin says persistent inflation warrants policy action",
-    "US CPI: Energy prices expected to lift headline inflation. Will core stay contai",
-    "C\u01a1n b\u0129 c\u1ef1c c\u1ee7a c\u1ed5 \u0111\u00f4ng FPT: 3 tu\u1ea7n kh\u00f4ng th\u1ea5y m\u00e0u \"xanh\", c\u1ed5 phi\u1ebfu r\u01a1i xu\u1ed1ng v\u00f9n",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
     "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
     "Fed\u2019s Collins backs another rate hike by year-end, flags three inflation pressur",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 14/10: Xu\u1ea5t hi\u1ec7n c\u00f4ng ty \u0111\u1ea7u ti\u00ean b\u00e1o l\u1ed7, 2 doanh ",
@@ -443,6 +437,12 @@
     "First Tick: Top global cues to watch in today's trade - TradingView",
     "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Nikkei 225 holds 68,170 support as bears regain control: Live"
+    "Nikkei 225 holds 68,170 support as bears regain control: Live",
+    "Gold prices hold firm ahead of US inflation data - TradingView",
+    "More Republicans come out against Trump's diesel deal with Putin",
+    "Three things we've learnt about the UK economy from the IMF",
+    "Asia stocks edge higher as chipmakers rebound; China trade beats forecasts",
+    "China\u2019s Trade Balance: Surplus unexpectedly expands in September",
+    "investingLive Asia-Pacific market news: dollar softer ahead of US CPI"
   ]
 }
