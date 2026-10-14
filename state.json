@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791950352.307242,
+  "last_signals": 1791950970.8056617,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -136,20 +136,14 @@
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1791851835.3462253,
-    "DXY|1D:top": 1791935251.1807625,
+    "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791950353.6385663,
+    "US30|1D:top": 1791950971.7071211,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791950343.857546,
-  "last_news": 1791950352.3064191,
+  "last_analysis": 1791950963.572253,
+  "last_news": 1791950970.8048873,
   "seen_news": [
-    "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
-    "Fed\u2019s Collins backs another rate hike by year-end, flags three inflation pressur",
-    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 14/10: Xu\u1ea5t hi\u1ec7n c\u00f4ng ty \u0111\u1ea7u ti\u00ean b\u00e1o l\u1ed7, 2 doanh ",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
-    "VICI Properties Manages Debt: Is Its Balance Sheet Ready to Grow? - TradingView",
-    "Midterm voters haven\u2019t seen this many housing proposals on the ballot in 20 year",
     "M\u1ed9t ng\u00e2n h\u00e0ng gi\u1ea3m m\u1ea1nh t\u1ef7 l\u1ec7 thanh to\u00e1n t\u1ed1i thi\u1ec3u v\u1edbi th\u1ebb t\u00edn d\u1ee5ng",
     "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
     "Ripple Treasury Issues Another 20 Million RLUSD - TradingView",
@@ -443,6 +437,12 @@
     "Three things we've learnt about the UK economy from the IMF",
     "Asia stocks edge higher as chipmakers rebound; China trade beats forecasts",
     "China\u2019s Trade Balance: Surplus unexpectedly expands in September",
-    "investingLive Asia-Pacific market news: dollar softer ahead of US CPI"
+    "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
+    "British Pound strengthens above 1.3250, traders await US CPI inflation data",
+    "US CPI: Energy prices expected to lift headline inflation. Will core stay contai",
+    "\u00d4ng Nguy\u1ec5n Duy D\u0169ng b\u1ecb b\u1eaft, doanh nghi\u1ec7p c\u00f4ng b\u1ed1 th\u00f4ng tin quan tr\u1ecdng",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
+    "Alphabet Hit With Securities Fraud Class Action After 4% Drop - TradingView",
+    "The latest inflation data is expected to show price increases are accelerating"
   ]
 }
