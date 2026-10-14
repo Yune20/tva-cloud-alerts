@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791971372.4101415,
+  "last_signals": 1791971982.1900508,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,10 +83,10 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791971374.0116987,
+    "US30|1D:top": 1791971982.9754765,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791971362.923146,
-  "last_news": 1791971372.4092212,
+  "last_analysis": 1791971974.048936,
+  "last_news": 1791971982.1891866,
   "seen_news": [
-    "PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)",
-    "VNG t\u0103ng v\u1ed1n g\u1ea5p 3,5 l\u1ea7n cho m\u1ea3ng \u0111i\u1ec7n to\u00e1n \u0111\u00e1m m\u00e2y AI, l\u00ean h\u01a1n 800 t\u1ef7 \u0111\u1ed3ng",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - Sau c\u01a1n m\u01b0a tr\u1eddi l\u1ea1i s\u00e1ng - VietstockFinance",
-    "OneMedNet 10% Owner Purchased Shares Worth Over $750K - TradingView",
-    "Visa gets Beijing's green light for bank card business after 40 years of working",
-    "Would you buy branded clothing from your favourite tech firm?",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
     "Wells Fargo Drops Stark Verdict on Adobe Stock - TradingView",
     "Producer prices in China rise at fastest pace since June 2022, beating expectati",
@@ -443,6 +437,12 @@
     "Yaap Digital Approved Appointment Of Anjan Roy As MD And CEO - TradingView",
     "Social Security cost-of-living adjustment for 2027 may be above average. Some sa",
     "Publicly owned rail is popular. But is it making the trains run on time?",
-    "China\u2019s $3 Billion Qatar LNG Deal Raises an Awkward Question"
+    "China\u2019s $3 Billion Qatar LNG Deal Raises an Awkward Question",
+    "Asian stocks dive on AI jitters ahead of US bank earnings - TradingView",
+    "Michael Dell says AI needs safeguards and controls, and government has a role to",
+    "Fridges in French supermarkets hit by cyber attack",
+    "Argentina Takes Falklands Oil Fight to International Tribunal",
+    "Dollar languishes as inflation awaited; Euro edges up on Lagarde warning",
+    "China's September lending surprise masks a much deeper slump in credit demand"
   ]
 }
