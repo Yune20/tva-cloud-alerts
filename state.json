@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792010507.3148055,
-  "last_bot4": 1792009956.8295672,
+  "last_bot4": 1792010797.5611265,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792010253.1267364,
+  "last_signals": 1792010797.5618243,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -145,24 +145,18 @@
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1791950972.5520308,
-    "EUR/USD|1D:bot": 1792010255.5401213,
+    "EUR/USD|1D:bot": 1792010799.1379092,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792010255.8539662,
-    "JPY Index|1D:top": 1792010256.3543177,
-    "GBP/USD|1D:bot": 1792010255.2406752,
-    "Gold|1D:bot": 1792010253.611899
+    "USD/JPY|1D:top": 1792010799.2897651,
+    "JPY Index|1D:top": 1792010799.7223642,
+    "GBP/USD|1D:bot": 1792010798.848055,
+    "Gold|1D:bot": 1792010797.7373035
   },
   "last_analysis": 1792010499.01764,
-  "last_news": 1792010253.1260655,
+  "last_news": 1792010797.5603848,
   "seen_news": [
-    "\u0110\u1ed7 M\u1ef9 Linh hi\u1ebfm hoi \u0111\u0103ng \u1ea3nh sexy, \u00f4ng x\u00e3 Ch\u1ee7 t\u1ecbch c\u00f3 ph\u1ea3n \u1ee9ng g\u00e2y ch\u00fa \u00fd",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
-    "BA flight forced to turn back over cracked window",
-    "Dollar pops as hot inflation triggers rate hike fears",
     "Trump's diesel dilemma \u2014 by the numbers",
     "Bank of America hit with $1.2bn fine for money laundering failings",
     "U.S.  debt finds breathing room, countering energy spike",
@@ -456,6 +450,12 @@
     "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before ",
     "Fridges in French supermarkets hit by cyber attack",
     "Inside the booming market for US midterm election bets",
-    "US stocks sink as AI and chips tumble"
+    "US stocks sink as AI and chips tumble",
+    "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enter",
+    "How the oil capital of the US welcomed a solar power boom",
+    "New ASX boss wants to accelerate move to one-day settlement in Australia",
+    "Canada August building permits rise 8.8% vs 2.0% expected",
+    "FPT: T\u00e1i sinh hay t\u00ednh sai?",
+    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi"
   ]
 }
