@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791939846.8886244,
+  "last_signals": 1791940451.6575189,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -70,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791939847.9266777,
+    "US30|1D:top": 1791940452.6084847,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791939839.2973585,
-  "last_news": 1791939846.887716,
+  "last_analysis": 1791940443.4391112,
+  "last_news": 1791940451.6565692,
   "seen_news": [
-    "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as i",
-    "Rainmakers: The drones used to seed clouds",
-    "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
-    "New Zealand Dollar recovers on weaker US Dollar, softer Oil ahead key US CPI",
-    "USDCAD sellers regain control, but key swing support stands in the way",
-    "Vi\u1ec7t Nam c\u00f3 \u00c1 khoa Nh\u1ea1c vi\u1ec7n 2 l\u1ea7n \u0111\u01b0\u1ee3c vinh danh qu\u1ed1c t\u1ebf: S\u1ef1 nghi\u1ec7p r\u1ef1c r\u1ee1, c\u01b0\u1edb",
     "Why some have no choice but to pay costly oil prices",
     "Argentina Takes Falklands Oil Fight to International Tribunal",
     "Why is Molina Healthcare stock up 3.5% today?",
@@ -443,6 +437,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 44,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Weekly Recap: OpenAI revenue, compute-deal and ORCL $45\u201350B raise - TradingView",
     "The AI trade is cracking. Here's how to profit",
-    "Publicly owned rail is popular. But is it making the trains run on time?"
+    "Publicly owned rail is popular. But is it making the trains run on time?",
+    "Trump says Taiwan to buy 30% of Alaska pipeline gas, again predicts lower oil pr",
+    "H\u01a1n 20 n\u0103m ph\u00e1t s\u00f3ng, v\u00ec sao ch\u01b0a c\u00f3 ng\u01b0\u1eddi ch\u01a1i n\u00e0o chinh ph\u1ee5c tr\u1ecdn v\u1eb9n 15 c\u00e2u h",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: 9 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Nasdaq ends down as chipmakers fall and bank earnings roll in - TradingView",
+    "In charts: How one of the world's biggest economies got trapped by debt",
+    "Roofing scammers con homeowners out of thousands of pounds"
   ]
 }
