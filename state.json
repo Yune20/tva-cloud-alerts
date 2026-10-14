@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791999453.618263,
-  "last_bot4": 1792008173.097094,
+  "last_bot4": 1792009050.6339757,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792008450.4888217,
+  "last_signals": 1792009050.6349297,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -143,26 +143,20 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792008451.9980378,
+    "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1791950972.5520308,
-    "EUR/USD|1D:bot": 1792008453.0854897,
+    "EUR/USD|1D:bot": 1792009053.3229666,
     "US30|1D:top": 1791984465.8056688,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
-    "USD/JPY|1D:top": 1792008453.3628564,
-    "JPY Index|1D:top": 1792008454.126513,
-    "GBP/USD|1D:bot": 1792008452.6321378,
-    "Gold|1D:bot": 1792008450.7838461
+    "USD/JPY|1D:top": 1792009053.6086137,
+    "JPY Index|1D:top": 1792009054.3590703,
+    "GBP/USD|1D:bot": 1792009052.9991214,
+    "Gold|1D:bot": 1792009050.9335198
   },
   "last_analysis": 1792008748.6303582,
-  "last_news": 1792008450.4881916,
+  "last_news": 1792009050.6330378,
   "seen_news": [
-    "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
-    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
-    "Canada August building permits rise 8.8% vs 2.0% expected",
-    "Ch\u1ee7 t\u1ecbch t\u1ec9nh Ngh\u1ec7 An g\u1ecdi \u0111i\u1ec7n \u0111\u00f4n \u0111\u1ed1c nh\u00e0 th\u1ea7u ngay t\u1ea1i c\u00f4ng tr\u01b0\u1eddng",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
-    "Key facts: BTCUSD: 250 BTC Buy; Q3 42.3% Rally; 4,500 BTC Moved - TradingView",
     "Morning Kickstart: US CPI ahead as dollar trades mixed and oil climbs",
     "Mekophar v\u00e0 Geleximco c\u00f9ng b\u1ecb ph\u1ea1t 92,5 tri\u1ec7u \u0111\u1ed3ng v\u00ec vi ph\u1ea1m c\u00f4ng b\u1ed1 th\u00f4ng tin",
     "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
@@ -456,6 +450,12 @@
     "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,00",
     "Anduril employee tender offer would value the defense tech startup at $90 billio",
     "Three things we've learnt about the UK economy from the IMF",
-    "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance"
+    "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
+    "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
+    "Economic and event calendar in Asia - Aussie jobs, BoJ and BoE speakers",
+    "Chuy\u00ean gia ch\u1ec9 ra \"bi\u1ebfn s\u1ed1\" c\u00f3 th\u1ec3 quy\u1ebft \u0111\u1ecbnh xu h\u01b0\u1edbng VN-Index trong qu\u00fd cu\u1ed1i n",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
+    "Alphabet Hit With Securities Fraud Class Action After 4% Drop - TradingView",
+    "Dell stock plunges 11%, leading data center sell-off on concerns about 'enterpri"
   ]
 }
