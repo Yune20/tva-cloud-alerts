@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791952205.877947,
+  "last_signals": 1791952816.9487565,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791944534.5902996,
+    "5575146754|Gold|1H|range_in": 1791952816.9487565,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791895672.658615,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -130,7 +130,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1791831461.9779255,
     "JPY Index|4H:top": 1791831462.2983031,
-    "USOIL|4H:top": 1791952206.4919522,
+    "USOIL|4H:top": 1791952817.4946177,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1791856778.335526,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791952207.4682298,
+    "US30|1D:top": 1791952818.5152588,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791952194.2323153,
-  "last_news": 1791952205.8770452,
+  "last_analysis": 1791952808.5516982,
+  "last_news": 1791952816.947871,
   "seen_news": [
-    "Vietcap d\u1ef1 b\u00e1o b\u1ea5t ng\u1edd v\u1ec1 l\u1ee3i nhu\u1eadn PNJ trong 7 n\u0103m t\u1edbi",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Why Is CrowdStrike Stock Gaining Monday? - TradingView",
-    "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst ",
-    "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her n",
-    "The AI telling farmers when to harvest",
     "Agree Realty raises monthly dividend by 3.4% to $0.271/share - TradingView",
     "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
     "Don't let inflation bite \u2014 how to hedge with TIPS, commodities and infrastructur",
@@ -443,6 +437,12 @@
     "Judge indefinitely blocks Trump White House ban of three media outlets",
     "BA flight forced to turn back over cracked window",
     "Asia FX subdued ahead of U.S. CPI;\u00a0 China data, Singapore GDP in focus",
-    "Gold draws support from retreating USD; holds above $4,150 as traders await US C"
+    "Gold draws support from retreating USD; holds above $4,150 as traders await US C",
+    "Why are more roofs not made of solar tiles?",
+    "U.S.  debt finds breathing room, countering energy spike",
+    "UK Finance Minister Healey to fund budget giveaways without extra borrowing \u2014 FT",
+    "investingLive European news wrap: Risk sentiment improves as oil prices ease",
+    "N\u00f3i th\u1eadt l\u00f2ng: \u0110\u1eeaNG AI D\u1ea0I d\u00f9ng h\u1ed9p nh\u1ef1a theo 3 c\u00e1ch n\u00e0y k\u1ebbo t\u1ef1 h\u1ea1i m\u00ecnh v\u00e0 gia ",
+    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi"
   ]
 }
