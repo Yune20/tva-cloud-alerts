@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791982308.894884,
+  "last_signals": 1791982924.3673804,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -141,21 +141,15 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791982310.2262814,
+    "US30|1D:top": 1791982926.5583372,
     "GBP/USD|4H:top": 1791934047.3662043,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826
   },
-  "last_analysis": 1791982296.0223339,
-  "last_news": 1791982306.2742271,
+  "last_analysis": 1791982911.4675088,
+  "last_news": 1791982924.3662655,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "U.S.  debt finds breathing room, countering energy spike",
-    "UK Finance Minister Healey to fund budget giveaways without extra borrowing \u2014 FT",
-    "investingLive European news wrap: Risk sentiment improves as oil prices ease",
-    "N\u00f3i th\u1eadt l\u00f2ng: \u0110\u1eeaNG AI D\u1ea0I d\u00f9ng h\u1ed9p nh\u1ef1a theo 3 c\u00e1ch n\u00e0y k\u1ebbo t\u1ef1 h\u1ea1i m\u00ecnh v\u00e0 gia ",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
     "EUR/USD Price Forecast: Gains ground near 1.1150, US CPI awaited",
     "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down ",
     "DN b\u00e1n l\u1ebb 102.000 t\u1ef7 t\u00ecm ng\u01b0\u1eddi d\u1eabn d\u1eaft 1 si\u00eau d\u1ef1 \u00e1n: ch\u1ec9 tuy\u1ec3n 'tinh hoa', d\u00e1m l",
@@ -449,6 +443,12 @@
     "Canada August building permits rise 8.8% vs 2.0% expected",
     "Ch\u1ee7 t\u1ecbch t\u1ec9nh Ngh\u1ec7 An g\u1ecdi \u0111i\u1ec7n \u0111\u00f4n \u0111\u1ed1c nh\u00e0 th\u1ea7u ngay t\u1ea1i c\u00f4ng tr\u01b0\u1eddng",
     "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB | VietstockFinance - VietstockFinanc",
-    "Key facts: BTCUSD: 250 BTC Buy; Q3 42.3% Rally; 4,500 BTC Moved - TradingView"
+    "Key facts: BTCUSD: 250 BTC Buy; Q3 42.3% Rally; 4,500 BTC Moved - TradingView",
+    "Morning Kickstart: US CPI ahead as dollar trades mixed and oil climbs",
+    "Mekophar v\u00e0 Geleximco c\u00f9ng b\u1ecb ph\u1ea1t 92,5 tri\u1ec7u \u0111\u1ed3ng v\u00ec vi ph\u1ea1m c\u00f4ng b\u1ed1 th\u00f4ng tin",
+    "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
+    "ASML Just Delivered Beat-and-Raise Third Quarter - TradingView",
+    "My sister moved in with our mother, 78, and now says she deserves the $925,000 f",
+    "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack U.S. warships; Saudi A"
   ]
 }
