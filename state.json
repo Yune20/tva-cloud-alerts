@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791937379.0100265,
+  "last_signals": 1791937981.3030725,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,7 +77,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791935251.1807625,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791937380.6588593,
+    "US30|1D:top": 1791937982.4323995,
     "GBP/USD|4H:top": 1791934047.3662043
   },
   "last_analysis": 1791937687.6065052,
-  "last_news": 1791937375.9874406,
+  "last_news": 1791937981.3021836,
   "seen_news": [
-    "IMF Warns Middle East War Could Derail Global Economic Growth",
-    "Applied Materials shares slide as chip equipment outlook remains uncertain",
-    "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
-    "European stocks close mostly lower as Middle East tensions keep oil elevated",
-    "Ngo\u00e0i 40 tu\u1ed5i, ng\u01b0\u1eddi m\u1eb9 d\u1eady t\u1eeb 4 gi\u1edd s\u00e1ng \u0111\u1ec3 l\u00e0m h\u1ebft vi\u1ec7c nh\u00e0 tr\u01b0\u1edbc khi \u0111i l\u00e0m: ",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Why is MongoDB stock rallying today?",
     "Neither a breakout nor a reversal: What OCBC, Commerzbank and ING expect from th",
     "Chart of the day: EUR/CHF bounces this week but French bond spreads warn euro ri",
@@ -443,6 +437,12 @@
     "TPHCM b\u00e0n quy ho\u1ea1ch t\u1ea7m nh\u00ecn 100 n\u0103m, khu th\u01b0\u01a1ng m\u1ea1i t\u1ef1 do",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
-    "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because "
+    "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because ",
+    "Nh\u00e2n vi\u00ean ng\u00e2n h\u00e0ng b\u00e1o c\u00f4ng an khi kh\u00e1ch r\u00fat 1,5 t\u1ef7 \u0111\u1ed3ng",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
+    "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in cont",
+    "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+    "Dangote Swings to $4.7 Billion Profit Ahead of Africa\u2019s Biggest IPO"
   ]
 }
