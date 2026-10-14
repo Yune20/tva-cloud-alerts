@@ -1,6 +1,6 @@
 {
   "last_news_report": 1791977624.6161983,
-  "last_bot4": 1791984756.6403177,
+  "last_bot4": 1791985450.718126,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791985068.3537664,
+  "last_signals": 1791985450.7187204,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1791980094.5862186,
+    "5575146754|Gold|1H|range_in": 1791985450.7187204,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1791964558.1412945,
@@ -58,7 +58,8 @@
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
     "5575146754|Gold|4H|dbot": 1791981340.3121903,
     "5575146754|Gold|4H|dn": 1791981941.7095995,
-    "5575146754|Gold|1H|momo_dn": 1791983893.9874923
+    "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
+    "5575146754|Gold|1D|tbot": 1791985450.7187204
   },
   "sig_range": {
     "Gold": true,
@@ -72,10 +73,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -147,17 +148,12 @@
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1791982311.2722292,
     "JPY Index|1D:top": 1791982311.86826,
-    "GBP/USD|1D:bot": 1791985069.5522494
+    "GBP/USD|1D:bot": 1791985069.5522494,
+    "Gold|1D:bot": 1791985450.8731966
   },
-  "last_analysis": 1791985057.8563323,
-  "last_news": 1791985068.3528614,
+  "last_analysis": 1791985439.808675,
+  "last_news": 1791985450.7171724,
   "seen_news": [
-    "TSMC shares rise ahead of closely watched Q3 earnings",
-    "WTI Price Forecast: Eases from two-week high; trades below $94.00 amid bullish s",
-    "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans",
-    "5 sai l\u1ea7m khi u\u1ed1ng n\u01b0\u1edbc \u0111un s\u00f4i \u0111\u1ec3 ngu\u1ed9i, nhi\u1ec1u gia \u0111\u00ecnh m\u1eafc m\u00e0 kh\u00f4ng bi\u1ebft",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
-    "Lockheed Martin wins $117M deal for Apache radar support - TradingView",
     "Open AI t\u00f3m s\u1ed1ng k\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m \u0111\u1eb7t thi\u1ebft b\u1ecb nghe l\u00e9n trong ph\u00f2ng h\u1ecdp: \u00c2m m\u01b0u gi",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
     "LANXESS Aktiengesellschaft (LXS) Receives Major Holdings Notification - TradingV",
@@ -451,6 +447,12 @@
     "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
     "Canadian dollar gains as U.S. dollar retreats from 18-month high",
     "What are the key levels in play for the US dollar after the hotter than expected",
-    "C\u00f4 g\u00e1i khi\u1ebfn Tr\u1ea5n Th\u00e0nh c\u00f4ng khai khen \u201cem \u0111\u1eb9p l\u1eafm\u201d: C\u1ef1u sinh vi\u00ean RMIT, t\u1eebng ch"
+    "C\u00f4 g\u00e1i khi\u1ebfn Tr\u1ea5n Th\u00e0nh c\u00f4ng khai khen \u201cem \u0111\u1eb9p l\u1eafm\u201d: C\u1ef1u sinh vi\u00ean RMIT, t\u1eebng ch",
+    "Today's Federal Reserve speaker slate suddenly got much more interesting",
+    "T\u1ed1i 14/10, gi\u00e1 v\u00e0ng gi\u1ea3m m\u1ea1nh sau khi d\u1eef li\u1ec7u l\u1ea1m ph\u00e1t t\u1ea1i M\u1ef9 \u0111\u01b0\u1ee3c c\u00f4ng b\u1ed1",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
+    "TSX Futures Edge Higher as Global Yields Stabilize - TradingView",
+    "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal o",
+    "ASML says it's getting order interest through 2030 as profit smashes expectation"
   ]
 }
