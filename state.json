@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1791962105.4723847,
+  "last_signals": 1791962719.9507606,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -85,14 +85,14 @@
     "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -138,18 +138,12 @@
     "Ethereum|1D:bot": 1791851835.3462253,
     "DXY|1D:top": 1791950972.5520308,
     "EUR/USD|1D:bot": 1791928454.2434113,
-    "US30|1D:top": 1791962106.3288643,
+    "US30|1D:top": 1791962720.833542,
     "GBP/USD|4H:top": 1791934047.3662043
   },
-  "last_analysis": 1791962097.8540552,
-  "last_news": 1791962105.4715266,
+  "last_analysis": 1791962712.7529173,
+  "last_news": 1791962719.9497187,
   "seen_news": [
-    "How long will humans be needed for translation?",
-    "AT&T sells Mexico unit to Televisa, Fintech for $2 billion",
-    "Yen trails the majors as the BoJ is said to lean against a hike",
-    "Morgan Stanley lifts Brent forecast to $105 as costly freight favours short-haul",
-    "T\u0103ng Thanh H\u00e0 tranh gi\u1ea3i m\u1ef9 nh\u00e2n \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
     "Euro finds support from softer US Dollar, French fiscal risks linger",
     "US stocks close lower after volatile session",
     "Top 5 con gi\u00e1p c\u00f3 d\u00f2ng ti\u1ec1n \u1ed5n nh\u1ea5t th\u00e1ng 9 \u00c2m l\u1ecbch",
@@ -443,6 +437,12 @@
     "Let the doves sing - TradingView",
     "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,00",
     "Russia pounds Ukraine's energy infrastructure, leaving 600,000 without power",
-    "Hundreds of Royal Mail staff quitting each week amid efficiency drive"
+    "Hundreds of Royal Mail staff quitting each week amid efficiency drive",
+    "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
+    "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to ",
+    "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklist",
+    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+    "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+    "Dollar edges lower ahead of U.S. CPI;\u00a0 China data, Singapore GDP in focus"
   ]
 }
