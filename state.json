@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792076162.701218,
-  "last_bot4": 1792080745.9708526,
+  "last_bot4": 1792081500.5123377,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792079938.5039287
+    "Gold": 1792081500.5122173
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792081069.7458718,
+  "last_signals": 1792081500.5131059,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -91,7 +91,7 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -143,31 +143,25 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792081071.0017169,
+    "Ethereum|1D:bot": 1792081501.2014544,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792081071.547638,
+    "GBP/USD|4H:top": 1792081501.5499134,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792015647.4763043,
     "Ethereum|4H:bot": 1792079939.16448,
-    "USD/JPY|4H:bot": 1792081072.1027102,
-    "JPY Index|4H:bot": 1792081072.6403441,
+    "USD/JPY|4H:bot": 1792081501.8745,
+    "JPY Index|4H:bot": 1792081502.2276373,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792081070.647943
+    "Bitcoin|1D:bot": 1792081501.0041206
   },
-  "last_analysis": 1792081060.900511,
-  "last_news": 1792081069.744765,
+  "last_analysis": 1792081488.6521945,
+  "last_news": 1792081496.856741,
   "seen_news": [
-    "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate",
-    "Why is THG stock surging today?",
-    "Gold whipsaws after US CPI as data falls short of bringing an October rate hike ",
-    "T\u00e0i x\u1ebf kh\u00f4ng b\u1eb1ng l\u00e1i ch\u1ea1y xe m\u00e1y 79 km/h, b\u1ecb ph\u1ea1t 10 tri\u1ec7u \u0111\u1ed3ng",
-    "CTCP Ch\u1ee9ng kho\u00e1n VPS - VietstockFinance",
-    "Enovix surges on 100K-unit drone battery order - TradingView",
     "TSMC set for sixth straight record profit as AI demand lifts Q3 earnings",
     "T\u1eeb th\u00e1ng 10, ng\u00e2n h\u00e0ng th\u00f4ng b\u00e1o \u0111\u00f3ng h\u00e0ng lo\u1ea1t t\u00e0i kho\u1ea3n c\u00f3 s\u1ed1 d\u01b0 nh\u1ecf h\u01a1n 20.00",
     "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC | VietstockFinance - VietstockFi",
@@ -461,6 +455,12 @@
     "B\u1ea7u tr\u1eddi chuy\u1ec3n m\u00e0u cam n\u00e2u \u1edf Indonesia, kh\u00f3i m\u00f9 \u0111\u1ed9c h\u1ea1i ph\u1ee7 k\u00edn th\u00e0nh ph\u1ed1",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target ",
-    "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries"
+    "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "Car dealerships facing pushback on expensive repairs - TradingView",
+    "CoreWeave investors are feeling spooked, as the company\u2019s stock and bonds see fr",
+    "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other e",
+    "How backlash against data centres could shape the US midterm elections",
+    "EIA Says US Crude Inventories Down Nearly 9 Million Barrels"
   ]
 }
