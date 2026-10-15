@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792086747.5315263,
+  "last_signals": 1792087358.0809166,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -99,13 +99,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792087622,
   "menu_prices": {
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792086748.2758887,
+    "Ethereum|1D:bot": 1792087359.1251304,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792086748.1192806
+    "Bitcoin|1D:bot": 1792087358.8023887
   },
-  "last_analysis": 1792086739.1909308,
-  "last_news": 1792086747.5306911,
+  "last_analysis": 1792087348.9770803,
+  "last_news": 1792087358.0794423,
   "seen_news": [
-    "X-planes: Are they needed in the new era of drones?",
-    "5 Challenges Facing South America\u2019s Copper Boom",
-    "Can TSMC earnings help settle AI jitters?",
-    "Why do altcoins crash so much harder than Bitcoin?",
-    "\u00d4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng ch\u00ednh th\u1ee9c m\u1edf m\u00f4 h\u00ecnh tr\u01b0\u1eddng h\u1ecdc AI t\u1ea1i Gi\u1ea3ng V\u00f5, H\u00e0 N\u1ed9i: Qu",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
     "Venture Global to build power plants for AI data centers",
     "Oil remains supported amid persistent Middle East tensions as US weighs using \"M",
     "Thu\u00ea nh\u00e0 6-8 tri\u1ec7u/th\u00e1ng m\u00e0 \u0111\u1ebfn kh\u1ed5: M\u01b0a d\u1ed9t kh\u00f4ng ai s\u1eeda, chuy\u1ec3n \u0111i th\u00ec m\u1ea5t m\u1ea5y",
@@ -461,6 +455,12 @@
     "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
     "Anduril CEO defends Trump administration contracts: 'We've done incredibly well ",
     "Banks say Healey is planning Budget tax raid on their profits",
-    "Volvo Cars expands Nvidia partnership for self-driving tech"
+    "Volvo Cars expands Nvidia partnership for self-driving tech",
+    "Are we spending our retirement money in the right order? Our plan is: Social Sec",
+    "Equal-weight failed. Now tech stocks look shaky again. So what should you do abo",
+    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "Britain\u2019s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
+    "Target says it does not use customer data to raise prices",
+    "US inflation worries aren't over yet as PPI and retail sales pose fresh risks fo"
   ]
 }
