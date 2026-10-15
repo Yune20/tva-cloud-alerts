@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792098041.474278,
-  "last_bot4": 1792105046.2704604,
+  "last_bot4": 1792105673.5022311,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792105314.439494,
+  "last_signals": 1792105673.5029662,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792079938.5048046,
+    "5575146754|Gold|1H|range_in": 1792105673.5029662,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792102662.572069,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,10 +143,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792105315.1596498,
+    "Ethereum|1D:bot": 1792105674.2036867,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792105315.3261569,
+    "US30|1D:top": 1792105674.408756,
     "GBP/USD|4H:top": 1792098680.7875803,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792105314.981597
+    "Bitcoin|1D:bot": 1792105674.029804
   },
-  "last_analysis": 1792105307.1881313,
-  "last_news": 1792105314.4385858,
+  "last_analysis": 1792105663.805821,
+  "last_news": 1792105673.5012262,
   "seen_news": [
-    "WEC Energy Group (WEC) Declares $0.9525 Quarterly Dividend - TradingView",
-    "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re tu",
-    "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-    "Why the UK is dithering over what to do about e-scooters",
-    "Lithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears",
-    "Setback for TikTok as EU court adviser backs gatekeeper label",
     "US inflation rises more than expected - here's what is happening with prices",
     "AI credit worries send default insurance to record high",
     "France inflation rises sharply in September as price pressures add to ECB rate h",
@@ -461,6 +455,12 @@
     "Micron Stocks Fall Although $35B Buyback Window Nears - TradingView",
     "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
     "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarte",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada"
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Si\u00eau d\u1ef1 \u00e1n sinh th\u00e1i 16.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a Ecopark t\u1ea1i t\u1ec9nh s\u00e1t v\u00e1ch H\u00e0 N\u1ed9i c\u00f3 chuy",
+    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
+    "Cattle Face Midweek Weakness, as Traders Look to Thursday - TradingView",
+    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
+    "Thousands of NI workers to get pay bump as Real Living Wage rises",
+    "The Diesel Crunch Will Persist Well into 2027"
   ]
 }
