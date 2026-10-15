@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792056192.2266297,
+  "last_signals": 1792056810.3170967,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792056192.9779
+    "Bitcoin|1D:bot": 1792056811.3058956
   },
-  "last_analysis": 1792056182.1599934,
-  "last_news": 1792056192.2257767,
+  "last_analysis": 1792056797.1391196,
+  "last_news": 1792056810.3161693,
   "seen_news": [
-    "Activist Ancora pushes Big Yellow to explore a sale - TradingView",
-    "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI fundin",
-    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "5 Challenges Facing South America\u2019s Copper Boom",
-    "Fed\u2019s Daly sees rate hikes ahead but signals no urgency for October - Reuters",
-    "US weighs easing shadow fleet sanctions to cut record tanker freight rates",
     "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
     "H\u00f4m nay (15/10), AEON ch\u00ednh th\u1ee9c khai tr\u01b0\u01a1ng TTTM th\u1ee9 2 trong th\u00e1ng t\u1ea1i Vi\u1ec7t Nam",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -461,6 +455,12 @@
     "How long will humans be needed for translation?",
     "Sterling today: Pound rises as UK growth beats forecasts, dollar retreats",
     "Bitcoin sinks after the US CPI as markets get increasingly worried about the gro",
-    "V\u00e0ng SJC m\u1ed7i n\u01a1i m\u1ed9t gi\u00e1"
+    "V\u00e0ng SJC m\u1ed7i n\u01a1i m\u1ed9t gi\u00e1",
+    "Trung Nguy\u00ean Legend - T\u1eeb h\u1ea1t c\u00e0 ph\u00ea \u0111\u1ebfn kh\u00e1t v\u1ecdng ki\u1ebfn t\u1ea1o m\u1ed9t bi\u1ec3u t\u01b0\u1ee3ng v\u0103n h\u00f3",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Orion180 Insurance gets Buy-equivalent rating at RBC - TradingView",
+    "Anthropic\u2019s slowing growth could be the AI trade\u2019s latest red flag",
+    "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster t",
+    "Healey hails surprise UK growth as 'sign of resilience' ahead of Budget"
   ]
 }
