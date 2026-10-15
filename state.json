@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792105673.5029662,
+  "last_signals": 1792106266.3815856,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,10 +143,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792105674.2036867,
+    "Ethereum|1D:bot": 1792106267.5017605,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792105674.408756,
+    "US30|1D:top": 1792106267.7605932,
     "GBP/USD|4H:top": 1792098680.7875803,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792105674.029804
+    "Bitcoin|1D:bot": 1792106267.21
   },
-  "last_analysis": 1792105663.805821,
-  "last_news": 1792105673.5012262,
+  "last_analysis": 1792106257.6638627,
+  "last_news": 1792106266.3806531,
   "seen_news": [
-    "US inflation rises more than expected - here's what is happening with prices",
-    "AI credit worries send default insurance to record high",
-    "France inflation rises sharply in September as price pressures add to ECB rate h",
-    "Mr. Xu\u00e2n Ho\u00e0n l\u00e0 ai?",
-    "CTCP T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
-    "ARK Invest says Bitcoin ETF holders are back in the green - TradingView",
     "Gold Gains Nearly 1% - TradingView",
     "She made college \u2018good debt\u2019 for herself. Can she do the same for her daughter?",
     "What are your rights on auto-renew subscriptions?",
@@ -461,6 +455,12 @@
     "Cattle Face Midweek Weakness, as Traders Look to Thursday - TradingView",
     "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
     "Thousands of NI workers to get pay bump as Real Living Wage rises",
-    "The Diesel Crunch Will Persist Well into 2027"
+    "The Diesel Crunch Will Persist Well into 2027",
+    "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re tu",
+    "A lot changed in stock market in just a few months. The single biggest risk did ",
+    "My hometown shows that high streets have to change or die",
+    "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked",
+    "Tesla energy executive Snyder steps down, WSJ reports",
+    "ICYMI: TSMC profit jumps nearly 70% on AI demand, but margin outlook weighs on s"
   ]
 }
