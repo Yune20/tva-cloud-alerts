@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792089751.9951634,
+  "last_signals": 1792090351.1557107,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,7 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792023429.976112,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
-    "5575146754|Gold|1D|range_in": 1792057480.231423,
+    "5575146754|Gold|1D|range_in": 1792090351.1557107,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792089752.689165,
+    "Ethereum|1D:bot": 1792090351.923182,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792089752.5025635
+    "Bitcoin|1D:bot": 1792090351.7342227
   },
   "last_analysis": 1792090053.8862767,
-  "last_news": 1792089751.9935236,
+  "last_news": 1792090351.1547906,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
-    "Stocks fall, dollar rallies as US inflation tops forecasts - TradingView",
-    "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-    "NI company in talks to save Poundland from administration",
-    "Why is Relx stock climbing today?",
-    "Ethereum extends losses after the US CPI as risk sentiment deteriorates further.",
     "S&P Global Ratings x\u1ebfp h\u1ea1ng \u201cAA\u201d cho tr\u00e1i phi\u1ebfu c\u1ee7a SHB \u0111\u01b0\u1ee3c Qu\u1ef9 t\u00edn th\u00e1c ADB b\u1ea3",
     "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
     "Can Primo Brands' Purified Water Sales Accelerate Further? - TradingView",
@@ -461,6 +455,12 @@
     "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar",
     "India importers press on with rupee hedges despite RBI\u2019s higher-cost deterrent",
     "Oil remains supported amid persistent Middle East tensions as US weighs using \"M",
-    "C\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n l\u00e3i \u0111\u1ed9t bi\u1ebfn 1.000 t\u1ef7 \u0111\u1ed3ng, g\u1ea5p 327 l\u1ea7n c\u00f9ng k\u1ef3 trong qu\u00fd 3"
+    "C\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n l\u00e3i \u0111\u1ed9t bi\u1ebfn 1.000 t\u1ef7 \u0111\u1ed3ng, g\u1ea5p 327 l\u1ea7n c\u00f9ng k\u1ef3 trong qu\u00fd 3",
+    "Amazon launches two new portable AI listening devices",
+    "Australian jobs data due imminently - previews",
+    "C\u0103n nh\u00e0 \u0111i thu\u00ea c\u1ee7a \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
+    "India markets regulator partly reverses derivative settlement rules after pushba",
+    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'"
   ]
 }
