@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792057480.231423,
+  "last_signals": 1792058097.5063622,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -147,7 +147,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1791934047.3662043,
+    "GBP/USD|4H:top": 1792058099.1178749,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792057481.1840897
+    "Bitcoin|1D:bot": 1792058098.3490877
   },
-  "last_analysis": 1792057471.3597126,
-  "last_news": 1792057480.2304194,
+  "last_analysis": 1792058087.937781,
+  "last_news": 1792058097.5052342,
   "seen_news": [
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
-    "SAF-HOLLAND SE: Release of a capital market information - TradingView",
-    "How high inflation became a 'fact of life' in the U.S.",
-    "Spain battles climate change on several fronts",
-    "At Anthropic pre-IPO meet: \u2018Thinking\u2019 caps, surging revenue, no human extinction",
-    "Australian jobs data due imminently - previews",
     "C\u0103n studio 28m\u00b2 n\u1ed5i b\u1eadt v\u1edbi s\u1eafc h\u1ed3ng v\u00e0 v\u00e0ng c\u00e1t",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "CPI: Hot Inflation at 3.7% Lifts Yields and Dollar as Gold and Bitcoin Nosedive ",
@@ -461,6 +455,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "Chip selloff intensifies as investors question sustainability of AI spending - T",
     "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'",
-    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget"
+    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
+    "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+    "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
+    "Dollar retreats from 18-month peaks as Fed Caution muffles inflation surprise"
   ]
 }
