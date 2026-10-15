@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792046629.0342915,
+  "last_signals": 1792047240.2818093,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -91,20 +91,20 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|1H": true,
+    "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792047505,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792046629.9206185
   },
-  "last_analysis": 1792046620.5530913,
-  "last_news": 1792046629.0332892,
+  "last_analysis": 1792047232.946302,
+  "last_news": 1792047240.280907,
   "seen_news": [
-    "India\u2019s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
-    "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
-    "ASML says 2027 and 2028 supply will fall short of demand as Q3 sales hit a recor",
-    "\u0110\u01b0\u1ee3c h\u1ecfi \u201cL\u01b0\u01a1ng th\u00e1ng bao nhi\u00eau\u201d, ng\u01b0\u1eddi EQ cao tr\u1ea3 l\u1eddi th\u1ebf n\u00e0o?",
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
-    "Lockheed Martin (LMT) Expands Texas Munitions Capacity, Adds 6,000 Jobs - Tradin",
     "Anthropic\u2019s Q3 revenue surges 45% to nearly $17 billion",
     "Stablecoins have stopped growing. So why is usage still rising?",
     "Qu\u00e1n c\u00e0 ph\u00ea h\u00fat 10 tri\u1ec7u l\u01b0\u1ee3t xem sau khi th\u00f4ng b\u00e1o \u0111\u00f3ng c\u1eeda v\u1eeba b\u1ea5t ng\u1edd t\u00e1i xu\u1ea5",
@@ -461,6 +455,12 @@
     "Jim Cramer says don't give up on this unpredictable market. Here's why",
     "Why are more roofs not made of solar tiles?",
     "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
-    "UBS sticks to buy-dollar-on-dips call. Here is why"
+    "UBS sticks to buy-dollar-on-dips call. Here is why",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Italy\u2019s bond spread to Germany widens amid French debt pressures",
+    "Anthropic Q3 revenue rises 45% to $16.8 billion ahead of IPO",
+    "C\u00f4ng ty c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long b\u00e1n g\u1ea7n 1 tri\u1ec7u qu\u1ea3 tr\u1ee9ng g\u00e0 m\u1ed7i ng\u00e0y, \u0111\u01b0a h\u00e0n",
+    "CTCP HHP Global - VietstockFinance",
+    "Ericsson reports third quarter results 2026 - TradingView"
   ]
 }
