@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792087045.189663,
-  "last_bot4": 1792088881.4857223,
+  "last_bot4": 1792089751.9944787,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792089154.4251955,
+  "last_signals": 1792089751.9951634,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,15 +97,15 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792090088,
   "menu_prices": {
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792089156.2446806,
+    "Ethereum|1D:bot": 1792089752.689165,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792089155.8399186
+    "Bitcoin|1D:bot": 1792089752.5025635
   },
   "last_analysis": 1792089462.041574,
-  "last_news": 1792089154.4242742,
+  "last_news": 1792089751.9935236,
   "seen_news": [
-    "Wayfair among firms fined millions for misleading sales tactics",
-    "Putin Fights to Preserve Russia\u2019s Fading Influence in Central Asia",
-    "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite",
-    "BOJ\u2019s Koeda says bank should not be overly cautious about raising rates",
-    "M\u00e3 \u0111\u1ed9c Trojan ng\u00e2n h\u00e0ng tr\u00ean thi\u1ebft b\u1ecb di \u0111\u1ed9ng t\u0103ng \u0111\u1ed9t bi\u1ebfn",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
     "Stocks fall, dollar rallies as US inflation tops forecasts - TradingView",
     "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
@@ -461,6 +455,12 @@
     "Big pharma stocks near all-time highs as tech selloff pushes investors toward sa",
     "BNY stock pops on strong earnings \u2014 showing exactly why we like this bank in thi",
     "How long will humans be needed for translation?",
-    "OpenAI and Meta warn U.S. judicial panel about deepfake evidence"
+    "OpenAI and Meta warn U.S. judicial panel about deepfake evidence",
+    "Democrat Talarico says he raised record $64 million over summer in Texas Senate ",
+    "The start-ups hoping to return battery making to the US",
+    "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar",
+    "India importers press on with rupee hedges despite RBI\u2019s higher-cost deterrent",
+    "Oil remains supported amid persistent Middle East tensions as US weighs using \"M",
+    "C\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n l\u00e3i \u0111\u1ed9t bi\u1ebfn 1.000 t\u1ef7 \u0111\u1ed3ng, g\u1ea5p 327 l\u1ea7n c\u00f9ng k\u1ef3 trong qu\u00fd 3"
   ]
 }
