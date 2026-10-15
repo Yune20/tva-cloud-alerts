@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792038203.7019033,
+  "last_signals": 1792038812.74266,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,13 +79,13 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -141,7 +141,7 @@
     "USOIL|4H:top": 1792038204.147149,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792033275.200247,
+    "Bitcoin|4H:bot": 1792038813.6429682,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1792021669.0601008,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792038204.431029
+    "Bitcoin|1D:bot": 1792038813.6429913
   },
-  "last_analysis": 1792038194.576693,
-  "last_news": 1792038203.6440945,
+  "last_analysis": 1792038804.903518,
+  "last_news": 1792038812.7416275,
   "seen_news": [
-    "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
-    "Economic and event calendar in Asia - Aussie jobs, BoJ and BoE speakers",
-    "Chuy\u00ean gia ch\u1ec9 ra \"bi\u1ebfn s\u1ed1\" c\u00f3 th\u1ec3 quy\u1ebft \u0111\u1ecbnh xu h\u01b0\u1edbng VN-Index trong qu\u00fd cu\u1ed1i n",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
-    "Alphabet Hit With Securities Fraud Class Action After 4% Drop - TradingView",
-    "Dell stock plunges 11%, leading data center sell-off on concerns about 'enterpri",
     "How to avoid getting stung if you miss credit card payments",
     "Aramco\u2019s New Chinese JV Refinery Gets First Saudi Crude Cargo",
     "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
@@ -461,6 +455,12 @@
     "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
     "Jordan Industrial Output Hits 18-Month High - TradingView",
     "Oil falls as investors assess Mideast tensions, International Energy Agency's re",
-    "Civil servant faked illness with make-up to juggle five jobs, court hears"
+    "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
+    "Tesla and SpaceX could merge before December 6 -- Barclays - TradingView",
+    "Anduril employee tender offer would value the defense tech startup at $90 billio",
+    "'It's definitely tight trying to budget on maternity leave'",
+    "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
+    "Why is CEAT stock falling today?"
   ]
 }
