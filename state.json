@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792049429.6653528,
+  "last_signals": 1792050042.8681893,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -82,10 +82,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792049430.3420463
+    "Bitcoin|1D:bot": 1792050043.7095883
   },
-  "last_analysis": 1792049420.4629233,
-  "last_news": 1792049429.5986722,
+  "last_analysis": 1792050033.7504327,
+  "last_news": 1792050042.8673558,
   "seen_news": [
-    "How backlash against data centres could shape the US midterm elections",
-    "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance",
-    "Rocket Lab pushes Neutron rocket\u2019s debut flight to 2027, shares fall",
-    "What technical levels are in play now for the broader US stock indices following",
-    "Th\u1ebb t\u00edn d\u1ee5ng b\u1ecb tr\u1eeb ti\u1ec1n d\u00f9 kh\u00f4ng mua s\u1eafm, x\u1eed l\u00fd th\u1ebf n\u00e0o?",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "TSMC expected to report sixth straight quarter of record profit thanks to AI boo",
     "ICYMI: Citi now expects a December Fed rate hike after hotter September US infla",
     "L\u1eddi khuy\u00ean cho 3 con gi\u00e1p \u0111\u01b0\u1ee3c Th\u1ea7n t\u00e0i \u01b0u \u00e1i nh\u1ea5t trong n\u0103m \u0110inh M\u00f9i 2027",
@@ -461,6 +455,12 @@
     "How a Chinese-made toy gets to a US retailer",
     "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
     "European shares fall as global tech rout hits risk appetite",
-    "European stock market open: Equities under pressure as Wall Street selloff weigh"
+    "European stock market open: Equities under pressure as Wall Street selloff weigh",
+    "Macro pulse: Treasury yields may be falling for now, but borrowing costs are sti",
+    "\u0110i\u1ec1u g\u00ec x\u1ea3y ra khi b\u1ea1n \u0103n 1 qu\u1ea3 t\u00e1o h\u1ea5p m\u1ed7i ng\u00e0y?",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
+    "Lelantos Holdings Announces Cancellation of 60 Million ESOP Shares - TradingView",
+    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
+    "Rainmakers: The drones used to seed clouds"
   ]
 }
