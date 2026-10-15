@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792033877.4516852,
+  "last_signals": 1792034545.2800767,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,11 +78,11 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792033878.4601157
+    "Bitcoin|1D:bot": 1792034546.24403
   },
-  "last_analysis": 1792034176.1890013,
-  "last_news": 1792033877.4508197,
+  "last_analysis": 1792034536.8055875,
+  "last_news": 1792034545.2792125,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Tom Lee Issues Rare Bearish Ethereum Warning - TradingView",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
-    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
-    "Eight US states sue OpenAI, claiming ChatGPT harms children",
     "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
     "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
     "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
@@ -461,6 +455,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
     "Zedcor Inc. (ZDC) Lifts Committed Credit Facility to $100M - TradingView",
     "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
-    "Would you buy branded clothing from your favourite tech firm?"
+    "Would you buy branded clothing from your favourite tech firm?",
+    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
+    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
+    "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+    "How much is the minimum wage?",
+    "Why is China National Building Material stock falling today?",
+    "China's September lending surprise masks a much deeper slump in credit demand"
   ]
 }
