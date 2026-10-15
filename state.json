@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792048457.5786126,
+  "last_signals": 1792049070.0536928,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792048458.3222516
+    "Bitcoin|1D:bot": 1792049070.7128727
   },
-  "last_analysis": 1792048449.9341862,
-  "last_news": 1792048457.5714297,
+  "last_analysis": 1792049061.2745714,
+  "last_news": 1792049070.052821,
   "seen_news": [
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
-    "Needham reiterates Buy rating on MongoDB, $430 price target - TradingView",
-    "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-    "How a Chinese-made toy gets to a US retailer",
-    "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
-    "Iambic Therapeutics prices IPO at $16 per share on Nasdaq",
     "Orion180 Insurance gets Buy-equivalent rating at RBC - TradingView",
     "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
     "Rainmakers: The drones used to seed clouds",
@@ -461,6 +455,12 @@
     "Rocket Lab\u2019s stock slides as the company pushes back Neutron\u2019s first launch",
     "Here's the inflation breakdown for September 2026 \u2014 in one chart",
     "UK economy sees surprise growth in August ahead of Healey's first Budget",
-    "Dollar slips despite hot U.S. CPI; yen firms\u00a0on intervention warnings"
+    "Dollar slips despite hot U.S. CPI; yen firms\u00a0on intervention warnings",
+    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil",
+    "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus",
+    "France inflation rises sharply in September as price pressures add to ECB rate h",
+    "H\u00e0ng ngh\u00ecn c\u00e2y hoa s\u1eefa n\u1edf d\u00e0y \u0111\u1eb7c tr\u00ean c\u00e1c tuy\u1ebfn ph\u1ed1 ph\u00eda T\u00e2y H\u00e0 N\u1ed9i"
   ]
 }
