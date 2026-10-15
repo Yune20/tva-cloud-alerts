@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792046016.6471844,
+  "last_signals": 1792046629.0342915,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -92,11 +92,11 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792042599.3310096
+    "Bitcoin|1D:bot": 1792046629.9206185
   },
-  "last_analysis": 1792046008.8622978,
-  "last_news": 1792046016.6461606,
+  "last_analysis": 1792046620.5530913,
+  "last_news": 1792046629.0332892,
   "seen_news": [
-    "Southwest Airlines to Report Q3 Earnings: What's in the Cards? - TradingView",
-    "Rocket Lab\u2019s stock slides as the company pushes back Neutron\u2019s first launch",
-    "Here's the inflation breakdown for September 2026 \u2014 in one chart",
-    "AI minister warns 'likely' UK's cyber defences will be breached",
-    "Italy\u2019s bond spread to Germany widens amid French debt pressures",
-    "Anthropic Q3 revenue rises 45% to $16.8 billion ahead of IPO",
     "India\u2019s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
     "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
     "ASML says 2027 and 2028 supply will fall short of demand as Q3 sales hit a recor",
@@ -461,6 +455,12 @@
     "From a record high to a 10% drop in just two months: Why small-cap stocks have u",
     "India\u2019s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Ca",
     "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
-    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally"
+    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
+    "Stock market mixed as investors assess big bank earnings - TradingView",
+    "You\u2019re probably too invested in equities. Why a 60-40 portfolio is still the sma",
+    "Jim Cramer says don't give up on this unpredictable market. Here's why",
+    "Why are more roofs not made of solar tiles?",
+    "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
+    "UBS sticks to buy-dollar-on-dips call. Here is why"
   ]
 }
