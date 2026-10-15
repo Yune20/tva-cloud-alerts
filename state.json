@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792068433.0011287,
+  "last_signals": 1792069029.6649973,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,10 +79,10 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -98,13 +98,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792069302,
@@ -160,14 +160,8 @@
     "Bitcoin|1D:bot": 1792067210.6680837
   },
   "last_analysis": 1792068735.648774,
-  "last_news": 1792068433.000309,
+  "last_news": 1792069029.664031,
   "seen_news": [
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
-    "My hometown shows that high streets have to change or die",
-    "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
-    "What are the main events for today?",
-    "S\u00e1ng ch\u1ebf l\u00e0m rung chuy\u1ec3n ng\u00e0nh v\u1eadt li\u1ec7u: Kim lo\u1ea1i ch\u1ecbu nhi\u1ec7t -253 \u0111\u1ed9 C kh\u00f4ng gi\u00f2",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
     "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms\u00a0on intervention warnin",
     "US stocks might have a bigger problem than just hotter inflation",
     "3 con gi\u00e1p nh\u1eadn tin vui trong ng\u00e0y th\u1ee9 N\u0103m, 15/10/2026",
@@ -461,6 +455,12 @@
     "Nasdaq 100 futures hold onto losses after hot U.S. producer inflation report",
     "Iran\u2019s IRGC orders evacuation of military bases as US strike fears grow: reports",
     "Trung Qu\u1ed1c khen Indonesia sau th\u01b0\u01a1ng v\u1ee5 10,2 t\u1ef7 USD: T\u1ed5ng th\u1ed1ng Prabowo g\u1ecdi \u0111\u1ed1i ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
+    "'It's rough out here': Americans struggle with rising inflation",
+    "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
+    "StoneX cuts Spotify to Hold on margin pressure, label costs",
+    "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
+    "1 ng\u00e0y \u1edf vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o 5 sao \u0111\u1ea7u ti\u00ean t\u1ea1i H\u00e0 N\u1ed9i \u0111\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 800 t\u1ef7 \u0111\u1ed3ng: S\u00e1ng ",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance"
   ]
 }
