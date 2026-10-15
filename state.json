@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792065162.6402256,
-  "last_bot4": 1792072094.9645305,
+  "last_bot4": 1792072741.1959057,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792071487.008672
+    "Gold": 1792072741.195817
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792072384.2309918,
+  "last_signals": 1792072741.1966434,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -80,7 +80,7 @@
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -94,7 +94,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -153,21 +153,15 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792015647.4763043,
-    "Ethereum|4H:bot": 1792030813.163309,
+    "Ethereum|4H:bot": 1792072742.6558366,
     "USD/JPY|4H:bot": 1792071806.356243,
     "JPY Index|4H:bot": 1792071806.8018467,
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792067210.6680837
   },
-  "last_analysis": 1792072374.8448691,
-  "last_news": 1792072384.229951,
+  "last_analysis": 1792072727.4301445,
+  "last_news": 1792072738.4158754,
   "seen_news": [
-    "Comprehensive Healthcare Systems Inc. (CHS) To Acquire America's Choice Healthpl",
-    "TSMC posts record profit for a sixth straight quarter, beating estimates on AI b",
-    "Thousands of NI workers to get pay bump as Real Living Wage rises",
-    "Cicor keeps 2026 outlook as order backlog points to strong Q4 revenue",
-    "German wholesale prices continue to push higher in September, keeping inflation ",
-    "\u0110au \u0111\u1ea7u, bu\u1ed3n n\u00f4n v\u00ec m\u00f9i hoa s\u1eefa: C\u00f3 ph\u1ea3i ng\u1ed9 \u0111\u1ed9c?",
     "OpenAI sued by 8 states over ChatGPT safety concerns",
     "Why the UK is dithering over what to do about e-scooters",
     "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
@@ -461,6 +455,12 @@
     "Nga thi\u1ebft l\u1eadp k\u1ef3 t\u00edch 4.100m \u1edf l\u00f2ng \u0111\u1ea5t: \"Bi\u1ebft \u01a1n\" ph\u00e1t minh th\u1ebf k\u1ef7 t\u1eeb k\u1ef9 s\u01b0 tr\u1ebb",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
     "Liontrust Investment Partners Discloses Investment at MaxCyte with 5.03% Stake -",
-    "Medicare open enrollment is here. What to know about deadlines, options and more"
+    "Medicare open enrollment is here. What to know about deadlines, options and more",
+    "Key facts: Court Voids Volkswagen AG Pref Pact; 120 Dealers Affected - TradingVi",
+    "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Trump Announces $80 Billion Taiwan LNG Deal",
+    "Why is Opko Health stock surging today?",
+    "US October Empire Manufacturing index +25.50 vs +10.25 expected"
   ]
 }
