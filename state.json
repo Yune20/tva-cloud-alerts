@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792053142.1513202,
+  "last_signals": 1792053752.618295,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -80,10 +80,10 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792053142.6868067
+    "Bitcoin|1D:bot": 1792053753.1217055
   },
-  "last_analysis": 1792053133.7733574,
-  "last_news": 1792053142.1504653,
+  "last_analysis": 1792053744.6552203,
+  "last_news": 1792053752.6173377,
   "seen_news": [
-    "\u0110\u01b0\u1ee3c \u0111\u1ecbnh gi\u00e1 t\u1ef7 USD, c\u00f3 12 tri\u1ec7u ng\u01b0\u1eddi d\u00f9ng, t\u1ea1i sao startup chatbot AI n\u00e0y v\u1eabn",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Dataproces (DATA) Secures Fifth Advisory Contract in Germany - TradingView",
-    "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing bi",
-    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
-    "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy",
     "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality",
     "X-planes: Are they needed in the new era of drones?",
     "YouTube explores audiobook feature for 2027 launch- WSJ",
@@ -461,6 +455,12 @@
     "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
     "'I paid thousands to a company for jobs that never came'",
     "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
-    "Why is Cicor Technologies stock sliding today?"
+    "Why is Cicor Technologies stock sliding today?",
+    "CoreWeave bonds trade like distressed debt as AI spending outpaces balance sheet",
+    "Tin vui: V\u01b0\u1eddn th\u00fa \u1edf trung t\u00e2m H\u00e0 N\u1ed9i \u0111\u01b0\u1ee3c \u0111\u1ec1 xu\u1ea5t x\u00e2y th\u1ebf gi\u1edbi \u0111\u1ea1i d\u01b0\u01a1ng v\u1edbi \u0111\u00e1 ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
+    "Cotton Posts Mixed Trade on Tuesday - TradingView",
+    "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
+    "Fannie Mae sharply raises mortgage rate forecast for 2027"
   ]
 }
