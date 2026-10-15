@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792091552.2246346,
+  "last_signals": 1792092151.466301,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -95,8 +95,8 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|4H": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
@@ -143,11 +143,11 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792091552.955541,
+    "Ethereum|1D:bot": 1792092152.7691658,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792083385.2946053,
+    "GBP/USD|4H:top": 1792092153.4399946,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792091552.7957683
+    "Bitcoin|1D:bot": 1792092152.449264
   },
   "last_analysis": 1792091857.6699162,
-  "last_news": 1792091552.1188176,
+  "last_news": 1792092151.465605,
   "seen_news": [
-    "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IP",
-    "Anthropic flags revenue surge to investors ahead of stock market debut",
-    "Factbox-Tech leaders, Wall Street CEOs, governments split over \u2019AI doom\u2019 fears",
-    "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
-    "S\u1ebfp m\u1ed9t doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n: \u2018\u0110\u00f4i khi c\u1eaft l\u1ed7 s\u1edbm \u0111\u00e3 l\u00e0 th\u00e0nh c\u00f4ng\u2019",
-    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
     "Why is Fortrea stock gaining today?",
     "RBNZ\u2019s Conway says October rate decision completely open, OCR more likely to ris",
     "N\u00f3i th\u1eb3ng: \u0110\u1ef1ng 4 th\u1ee9 n\u00e0y trong h\u1ed9p x\u1ed1p l\u00e0 D\u1ea0I - \u0110\u1ed3 \u0103n bi\u1ebfn ch\u1ea5t, s\u1ee9c kh\u1ecfe th\u00eam ",
@@ -461,6 +455,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Pacific Arc Resources Ltd. Announces Resignation of Chief Financial Officer - Tr",
     "This one governor\u2019s race could derail the AI trade that\u2019s powered the stock mark",
-    "AWS, Anthropic race to deploy army of specialized engineers key to proving AI sp"
+    "AWS, Anthropic race to deploy army of specialized engineers key to proving AI sp",
+    "Here's our monthly update on our 32 stocks, including 2 more names to buy",
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
+    "AIR Global sets first-ever dividend, $100M buyback amid business, cash strength",
+    "Short covering is driving price action in markets today",
+    "8 ng\u00e2n h\u00e0ng r\u1ee5c r\u1ecbch huy \u0111\u1ed9ng 5,4 t\u1ef7 USD: Cu\u1ed9c \u0111ua m\u1edbi c\u1ee7a nh\u1eefng \"\u00f4ng l\u1edbn\" ng\u00e2n "
   ]
 }
