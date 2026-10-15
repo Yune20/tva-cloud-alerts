@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792035164.7951102,
+  "last_signals": 1792035774.8716397,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792034546.24403
+    "Bitcoin|1D:bot": 1792035775.578567
   },
-  "last_analysis": 1792035154.6708827,
-  "last_news": 1792035164.7941906,
+  "last_analysis": 1792035765.8196325,
+  "last_news": 1792035774.7693827,
   "seen_news": [
-    "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack cla",
-    "US individual health insurance enrollment fell to 20.5 million as of June,\u00a0KFF s",
-    "Fed\u2019s Goolsbee: CPI was discouraging, more bad months would be unacceptable",
-    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 15/10: M\u1ed9t doanh nghi\u1ec7p B\u0110S l\u00e3i g\u1ea5p 14 l\u1ea7n c\u00f9ng k\u1ef3",
-    "T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - VietstockFinance",
-    "U.S. equities trade lower after the latest CPI inflation report - TradingView",
     "investingLive European news wrap: Markets trim gains as oil prices rise ahead of",
     "Mua tr\u01b0\u1edbc tr\u1ea3 sau \u0111ang mang v\u1ec1 g\u1ea7n 40% doanh thu cho \u0110i\u1ec7n M\u00e1y Xanh",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
@@ -461,6 +455,12 @@
     "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
     "Kh\u1edfi t\u1ed1 giang h\u1ed3 m\u1ea1ng 'Ng\u1ecdc Rambo' \u1edf B\u1eafc Ninh",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Gold Rises as Oil Prices Retreat - TradingView"
+    "Gold Rises as Oil Prices Retreat - TradingView",
+    "What is the distribution of forecasts for the US CPI?",
+    "LG b\u1eaft tay Apple trong l\u0129nh v\u1ef1c nh\u00e0 th\u00f4ng minh",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "Tom Lee Issues Rare Bearish Ethereum Warning - TradingView",
+    "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
+    "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Star"
   ]
 }
