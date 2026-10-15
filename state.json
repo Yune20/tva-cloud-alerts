@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792047848.9056149,
+  "last_signals": 1792048457.5786126,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -100,8 +100,8 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792046629.9206185
+    "Bitcoin|1D:bot": 1792048458.3222516
   },
-  "last_analysis": 1792047840.7316442,
-  "last_news": 1792047848.9044807,
+  "last_analysis": 1792048449.9341862,
+  "last_news": 1792048457.5714297,
   "seen_news": [
-    "\u0110\u1eb7ng Nguy\u1ec5n Tu\u1ea5n SN 2001 chuy\u1ec3n kho\u1ea3n 30.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n Vietcombank ",
-    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
-    "Lelantos Holdings Announces Cancellation of 60 Million ESOP Shares - TradingView",
-    "Big banks see risks in financing the AI boom, but are happy to keep writing the ",
-    "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-    "US inflation rises more than expected - here's what is happening with prices",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Needham reiterates Buy rating on MongoDB, $430 price target - TradingView",
     "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
@@ -461,6 +455,12 @@
     "ASML says 2027 and 2028 supply will fall short of demand as Q3 sales hit a recor",
     "Gi\u00e1 v\u00e0ng nh\u1eabn tr\u01a1n, v\u00e0ng mi\u1ebfng chi\u1ec1u 15/10 t\u1ea1i SJC, PNJ, DOJI, B\u1ea3o T\u00edn Minh Ch\u00e2u",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
-    "Elopak ASA (ELO) Trades Ex-Dividend of \u20ac0.065 - TradingView"
+    "Elopak ASA (ELO) Trades Ex-Dividend of \u20ac0.065 - TradingView",
+    "PSD: CTCP D\u1ecbch v\u1ee5 Ph\u00e2n ph\u1ed1i T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - Petrosetco Distribution JSC | Vie",
+    "Ag Equipment\u2019s Recovery Trade Meets Washington\u2019s Scrutiny - TradingView",
+    "Rocket Lab\u2019s stock slides as the company pushes back Neutron\u2019s first launch",
+    "Here's the inflation breakdown for September 2026 \u2014 in one chart",
+    "UK economy sees surprise growth in August ahead of Healey's first Budget",
+    "Dollar slips despite hot U.S. CPI; yen firms\u00a0on intervention warnings"
   ]
 }
