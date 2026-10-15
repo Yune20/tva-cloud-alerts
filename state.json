@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792056810.3170967,
+  "last_signals": 1792057480.231423,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,7 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792023429.976112,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
-    "5575146754|Gold|1D|range_in": 1792033877.4516852,
+    "5575146754|Gold|1D|range_in": 1792057480.231423,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
@@ -78,9 +78,9 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "Gold|1D": true,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792056811.3058956
+    "Bitcoin|1D:bot": 1792057481.1840897
   },
-  "last_analysis": 1792057113.7471457,
-  "last_news": 1792056810.3161693,
+  "last_analysis": 1792057471.3597126,
+  "last_news": 1792057480.2304194,
   "seen_news": [
-    "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
-    "H\u00f4m nay (15/10), AEON ch\u00ednh th\u1ee9c khai tr\u01b0\u01a1ng TTTM th\u1ee9 2 trong th\u00e1ng t\u1ea1i Vi\u1ec7t Nam",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
-    "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "Anthropic revenue surges to $16.8bn ahead of stock market listing",
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
     "SAF-HOLLAND SE: Release of a capital market information - TradingView",
     "How high inflation became a 'fact of life' in the U.S.",
@@ -461,6 +455,12 @@
     "Orion180 Insurance gets Buy-equivalent rating at RBC - TradingView",
     "Anthropic\u2019s slowing growth could be the AI trade\u2019s latest red flag",
     "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster t",
-    "Healey hails surprise UK growth as 'sign of resilience' ahead of Budget"
+    "Healey hails surprise UK growth as 'sign of resilience' ahead of Budget",
+    "Bolivia overhauls gold export rules to draw in dollars and lift bank deposits",
+    "D\u00f9ng b\u1ed3n c\u1ea7u bao n\u0103m t\u00f4i m\u1edbi bi\u1ebft m\u00ecnh to\u00e0n \u1ea5n sai n\u00fat: Ch\u1eb3ng tr\u00e1ch ti\u1ec1n n\u01b0\u1edbc c\u1ee9",
+    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
+    "Chip selloff intensifies as investors question sustainability of AI spending - T",
+    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'",
+    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget"
   ]
 }
