@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792021348.5768952,
-  "last_bot4": 1792026842.358053,
+  "last_bot4": 1792027743.9951394,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792025563.3820014
+    "Gold": 1792027743.9950454
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792027123.0596476,
+  "last_signals": 1792027743.9962268,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -92,7 +92,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -157,15 +157,9 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915
   },
-  "last_analysis": 1792027112.6105185,
-  "last_news": 1792027123.0589058,
+  "last_analysis": 1792027731.7378585,
+  "last_news": 1792027740.1763833,
   "seen_news": [
-    "Anduril allows staff to sell shares at $90 billion valuation - report",
-    "Elev8 broker: see more in Forex and commodity markets",
-    "Th\u1ecb tr\u01b0\u1eddng carbon Vi\u1ec7t Nam: C\u00f3 s\u00e0n giao d\u1ecbch, l\u00e0m sao bi\u1ebfn gi\u1ea3m ph\u00e1t th\u1ea3i th\u00e0nh ",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
-    "Comprehensive Healthcare Systems Inc. (CHS) To Acquire America's Choice Healthpl",
-    "How high inflation became a 'fact of life' in the U.S.",
     "Gi\u1eefa th\u00e1ng 10 g\u1eedi 400 tri\u1ec7u t\u1ea1i Vietcombank, NCB, BAC A Bank, SHB: L\u00e3i t\u1ed1i \u0111a ba",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "Micron Stock Slips as CXMT Advance Hits Chips - TradingView",
@@ -459,6 +453,12 @@
     "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
     "5 Challenges Facing South America\u2019s Copper Boom",
     "Fed\u2019s Daly sees rate hikes ahead but signals no urgency for October - Reuters",
-    "US weighs easing shadow fleet sanctions to cut record tanker freight rates"
+    "US weighs easing shadow fleet sanctions to cut record tanker freight rates",
+    "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+    "H\u00f4m nay (15/10), AEON ch\u00ednh th\u1ee9c khai tr\u01b0\u01a1ng TTTM th\u1ee9 2 trong th\u00e1ng t\u1ea1i Vi\u1ec7t Nam",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
+    "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "Anthropic revenue surges to $16.8bn ahead of stock market listing"
   ]
 }
