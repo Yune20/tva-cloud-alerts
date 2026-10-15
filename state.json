@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792031426.0688977,
+  "last_signals": 1792032046.3638382,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792028367.9681842,
+    "5575146754|Gold|1H|range_in": 1792032046.3638382,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792023429.976112,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -156,17 +156,12 @@
     "Ethereum|4H:bot": 1792030813.163309,
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
-    "EUR/USD|4H:top": 1792029595.566527
+    "EUR/USD|4H:top": 1792029595.566527,
+    "Bitcoin|1D:bot": 1792032046.88446
   },
-  "last_analysis": 1792031417.2589,
-  "last_news": 1792031426.0680943,
+  "last_analysis": 1792032035.8127117,
+  "last_news": 1792032046.3630855,
   "seen_news": [
-    "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-    "Drop-off charges at UK airports to be reviewed after sharp increase",
-    "Trump Announces \u201cMassive\u201d Greenland Oil Exploration Plans",
-    "As EU debates local-content rules, Chinese automakers are already adapting",
-    "Crude oil extends gains as Houthi attacks on Saudi Arabia escalate, raising supp",
-    "\u0110i l\u00e0m th\u00ec stress v\u00ec c\u00f4ng vi\u1ec7c, th\u1ea5t nghi\u1ec7p th\u00ec stress v\u00ec ti\u1ec1n b\u1ea1c",
     "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
     "Poundland in rescue talks as owners seek buyer",
     "Top biotechnology stock pick from Guggenheim",
@@ -460,6 +455,12 @@
     "Thu nh\u1eadp c\u1ee7a \u0102n C\u00f9ng B\u00e0 Tuy\u1ebft",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
     "Stocks fall, dollar rallies as US inflation tops forecasts - TradingView",
-    "The steel stock that has the shorts and options traders on edge"
+    "The steel stock that has the shorts and options traders on edge",
+    "3 ki\u1ec3u m\u1eb9 n\u00e0y \u0111\u1ec1u \u0111\u01b0\u1ee3c \u0111\u1ecbnh s\u1eb5n s\u1ebd g\u1eb7p v\u1eadn may l\u1edbn",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Can Primo Brands' Purified Water Sales Accelerate Further? - TradingView",
+    "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'autom",
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "Why is SK Hynix stock plunging today?"
   ]
 }
