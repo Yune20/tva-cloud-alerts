@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792076162.701218,
-  "last_bot4": 1792084046.9684236,
+  "last_bot4": 1792084921.6780827,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792083383.457003
+    "Gold": 1792084921.6779695
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792084364.9441366,
+  "last_signals": 1792084921.6787462,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -88,7 +88,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792084365.6749003,
+    "Ethereum|1D:bot": 1792084922.7612684,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792084365.4594603
+    "Bitcoin|1D:bot": 1792084922.4747026
   },
-  "last_analysis": 1792084357.4178512,
-  "last_news": 1792084364.9431958,
+  "last_analysis": 1792084910.263594,
+  "last_news": 1792084918.3832555,
   "seen_news": [
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
-    "Why the AI trade is not set up for a rebound like July\u2019s, according to JPMorgan",
-    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
-    "The start-ups hoping to return battery making to the US",
-    "Pernod Ricard first quarter sales fall less-than-expected, cautious optimism on ",
     "I\u2019m 64 years old, with two sons, but only one works in the family firm. Should I",
     "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi A",
     "How long will humans be needed for translation?",
@@ -461,6 +455,12 @@
     "We're trimming a rallying defensive stock and buying other on a muted earnings m",
     "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
     "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
-    "Stellantis tests diesel-hybrid powertrain for commercial vans"
+    "Stellantis tests diesel-hybrid powertrain for commercial vans",
+    "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,",
+    "How to weather the current AI stock storm that we were all dreading",
+    "Banks expect to be hit in Budget tax raid",
+    "CNN signs multi-year AI partnership with Google",
+    "Atlanta Fed GDPNow holds at 3.6% for Q3 as consumer spending outlook improves",
+    "Bi\u1ebfn \u0111\u1ed5i kh\u00ed h\u1eadu bu\u1ed9c c\u00e1c gia \u0111\u00ecnh Afghanistan ph\u1ea3i b\u00e1n con g\u00e1i l\u00e0m c\u00f4 d\u00e2u"
   ]
 }
