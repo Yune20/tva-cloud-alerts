@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792059368.8986375,
+  "last_signals": 1792059976.3692648,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
@@ -94,8 +94,8 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -147,7 +147,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792059369.9637172,
+    "GBP/USD|4H:top": 1792059977.53455,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792059369.484606
+    "Bitcoin|1D:bot": 1792059976.9569323
   },
-  "last_analysis": 1792059358.8172605,
-  "last_news": 1792059368.8977478,
+  "last_analysis": 1792059970.1308749,
+  "last_news": 1792059976.3683639,
   "seen_news": [
-    "AI giant Anthropic sees revenue surge ahead of stock market listing",
-    "Putin Fights to Preserve Russia\u2019s Fading Influence in Central Asia",
-    "India importers press on with rupee hedges despite RBI\u2019s higher-cost deterrent",
-    "AUD lower: Australian jobs fall 39,300 in September, unemployment at five-year h",
-    "H\u00e0 N\u1ed9i ch\u1ea5p thu\u1eadn \u0111\u1ea7u t\u01b0 c\u00f4ng vi\u00ean Safari Ba V\u00ec g\u1ea7n 300ha, y\u00eau c\u1ea7u gi\u1ea3i ph\u00f3ng m\u1eb7",
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
     "OpenAI\u2019s Sachin Katti to leave infrastructure role, stay on as advisor",
     "Wayfair among firms fined millions for misleading sales tactics",
     "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports t",
@@ -461,6 +455,12 @@
     "Thu\u00ea nh\u00e0 6-8 tri\u1ec7u/th\u00e1ng m\u00e0 \u0111\u1ebfn kh\u1ed5: M\u01b0a d\u1ed9t kh\u00f4ng ai s\u1eeda, chuy\u1ec3n \u0111i th\u00ec m\u1ea5t m\u1ea5y",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Activist Ancora pushes Big Yellow to explore a sale - TradingView",
-    "France is \u2018putting the house in order\u2019 and can slash deficit to 3% in three year"
+    "France is \u2018putting the house in order\u2019 and can slash deficit to 3% in three year",
+    "Ph\u00e1t hi\u1ec7n 40 tr\u01b0\u1eddng h\u1ee3p k\u00ea khai sai khi mua nh\u00e0 x\u00e3 h\u1ed9i",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
+    "What to know about Starshield, SpaceX's military-focused Starlink service",
+    "Spain battles climate change on several fronts",
+    "Houthis Vow More Attacks After Strike on Aramco Headquarters"
   ]
 }
