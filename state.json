@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792067210.1783457,
+  "last_signals": 1792067822.983924,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -91,7 +91,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792067210.6680837
   },
-  "last_analysis": 1792067202.533027,
-  "last_news": 1792067210.1773942,
+  "last_analysis": 1792067814.1858482,
+  "last_news": 1792067822.9829917,
   "seen_news": [
-    "investingLive Americas market news wrap: Hot CPI upends markets",
-    "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK ng\u00e0y 15/10: Nh\u1eefng t\u00ean tu\u1ed5i \u0111\u1ea7u ti\u00ean h\u00e9 l\u1ed9 KQKD qu\u00fd 3, xu\u1ea5t",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
-    "Jordan Industrial Output Hits 18-Month High - TradingView",
-    "Oil falls as investors assess Mideast tensions, International Energy Agency's re",
-    "Civil servant faked illness with make-up to juggle five jobs, court hears",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
     "Tesla and SpaceX could merge before December 6 -- Barclays - TradingView",
     "Anduril employee tender offer would value the defense tech startup at $90 billio",
@@ -461,6 +455,12 @@
     "Euro Hits 16-month Low - TradingView",
     "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
     "Memory stocks are getting hammered. China and a 2029 oversupply are the big worr",
-    "Faisal Islam: What surprise praise for UK economy tells us about the Budget"
+    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+    "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
+    "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Ship-to-Ship Oil Transfers Surge Off India\u2019s West Coast",
+    "NYC Comptroller Levine urges Anthropic to pause US IPO, CNBC reports",
+    "US weighs easing shadow fleet sanctions to cut record tanker freight rates"
   ]
 }
