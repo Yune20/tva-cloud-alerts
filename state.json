@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792054051.55081,
-  "last_bot4": 1792063352.2094572,
+  "last_bot4": 1792064254.948147,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792062466.4945495
+    "Gold": 1792064254.9480875
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792063650.1976604,
+  "last_signals": 1792064254.9490194,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,8 +78,8 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
-    "USOIL|1H": true,
+    "Gold|1D": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -147,7 +147,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792063652.0215437,
+    "GBP/USD|4H:top": 1792064256.3126328,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792063651.1515691
+    "Bitcoin|1D:bot": 1792064255.6470556
   },
   "last_analysis": 1792063948.4876428,
-  "last_news": 1792063650.1969569,
+  "last_news": 1792064251.1105454,
   "seen_news": [
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
-    "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-    "How much is the minimum wage?",
-    "Why is China National Building Material stock falling today?",
-    "China's September lending surprise masks a much deeper slump in credit demand",
     "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
     "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News ",
     "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
@@ -461,6 +455,12 @@
     "Factbox-Tech leaders, Wall Street CEOs, governments split over \u2019AI doom\u2019 fears",
     "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
     "S\u1ebfp m\u1ed9t doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n: \u2018\u0110\u00f4i khi c\u1eaft l\u1ed7 s\u1edbm \u0111\u00e3 l\u00e0 th\u00e0nh c\u00f4ng\u2019",
-    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance"
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "Why is Fortrea stock gaining today?",
+    "RBNZ\u2019s Conway says October rate decision completely open, OCR more likely to ris",
+    "N\u00f3i th\u1eb3ng: \u0110\u1ef1ng 4 th\u1ee9 n\u00e0y trong h\u1ed9p x\u1ed1p l\u00e0 D\u1ea0I - \u0110\u1ed3 \u0103n bi\u1ebfn ch\u1ea5t, s\u1ee9c kh\u1ecfe th\u00eam ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "Krystal Biotech reports KB113 pilot study shows >80% lesion regression in Gorlin",
+    "This 30-year market veteran is alarmed by a near-record S&P 500. Here\u2019s where he"
   ]
 }
