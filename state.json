@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792040035.5762148,
+  "last_signals": 1792040654.1964698,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792040036.4998722
+    "Bitcoin|1D:bot": 1792040654.8811727
   },
-  "last_analysis": 1792040026.2155132,
-  "last_news": 1792040035.5754323,
+  "last_analysis": 1792040643.114546,
+  "last_news": 1792040654.1956406,
   "seen_news": [
-    "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enter",
-    "How the oil capital of the US welcomed a solar power boom",
-    "New ASX boss wants to accelerate move to one-day settlement in Australia",
-    "Canada August building permits rise 8.8% vs 2.0% expected",
-    "FPT: T\u00e1i sinh hay t\u00ednh sai?",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
     "Eight US states sue OpenAI, claiming ChatGPT harms young users",
     "Barclays sees possible Tesla-SpaceX merger announcement before December",
     "Geleximco c\u1ee7a \u00f4ng V\u0169 V\u0103n Ti\u1ec1n t\u1ea1m \u201cl\u1ed7\u201d h\u01a1n 1.500 t\u1ef7 sau g\u1ea7n m\u1ed9t n\u0103m chi 2.562 t\u1ef7",
@@ -461,6 +455,12 @@
     "3 con gi\u00e1p nh\u1eadn tin vui trong ng\u00e0y th\u1ee9 N\u0103m, 15/10/2026",
     "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank | VietstockFinance - VietstockFinance",
     "Weyerhaeuser upgraded at Bank of America on timberland assets - TradingView",
-    "China's exports and imports surge past expectations in September"
+    "China's exports and imports surge past expectations in September",
+    "G\u1eb7p \u00e1p l\u1ef1c, M\u1ef9 \u2018nh\u1edd c\u1eady' th\u00eam \u0111\u1ed3ng minh th\u00e2n c\u1eadn c\u1ee7a Nga",
+    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP | VietstockFinance - VietstockFinance",
+    "Macquarie maintains Outperform rating on Fermi, $15 price target - TradingView",
+    "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before ",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears"
   ]
 }
