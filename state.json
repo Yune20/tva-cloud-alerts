@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792103272.3027613,
+  "last_signals": 1792103864.4096777,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,10 +143,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792103274.4474654,
+    "Ethereum|1D:bot": 1792103865.0993645,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792103275.0781198,
+    "US30|1D:top": 1792103865.257099,
     "GBP/USD|4H:top": 1792098680.7875803,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792103273.8954015
+    "Bitcoin|1D:bot": 1792103864.9298723
   },
-  "last_analysis": 1792103259.6092374,
-  "last_news": 1792103272.3012795,
+  "last_analysis": 1792103856.582532,
+  "last_news": 1792103864.4087732,
   "seen_news": [
-    "CoreWeave\u2019s AI bonds tumble, raising red flags for the wider market",
-    "Trump says Nidal Hasan execution won't be livestreamed",
-    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
-    "Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal",
-    "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
-    "Nasdaq\u2019s selloff may have been driven by something more concerning than just rat",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance",
     "The Dow Jones Index Opens 0.42% Higher - TradingView",
     "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarte",
@@ -461,6 +455,12 @@
     "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
     "Driving test waits fall to two-year low - but still average 20 weeks",
     "Europe\u2019s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
-    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar"
+    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
+    "CHN Group LLC Fixes Website Vulnerability, Warns Clients; Launches NOW AI - Trad",
+    "Southwest is overhauling its frequent flyer program. Here's what's changing",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows",
+    "Anthropic to add US voting information to Claude before midterms (Oct 14)",
+    "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?"
   ]
 }
