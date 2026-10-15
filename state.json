@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792050662.3757868,
+  "last_signals": 1792051274.1376743,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,9 +83,9 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -97,14 +97,14 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792051537,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792050663.1639526
+    "Bitcoin|1D:bot": 1792051274.7853384
   },
-  "last_analysis": 1792050652.8646498,
-  "last_news": 1792050662.3749099,
+  "last_analysis": 1792051265.9878032,
+  "last_news": 1792051274.1369233,
   "seen_news": [
-    "Thanh to\u00e1n s\u1ed1 kh\u00f4ng ch\u1ec9 chuy\u1ec3n ti\u1ec1n nhanh m\u00e0 c\u00f2n ph\u1ea3i qu\u1ea3n tr\u1ecb t\u1ed1t",
-    "CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - VietstockFinance",
-    "Latest Financial and Investing News from TradingView - TradingView",
-    "Fannie Mae sharply raises mortgage rate forecast for 2027",
-    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-    "Big Tech Pushes Back Against Paying for America's Aging Power Grid",
     "Two Major Events That Could Impact the Stock Market Today - TradingView",
     "Treasury says largest U.S. banks let politics influence who received banking ser",
     "The AI telling farmers when to harvest",
@@ -461,6 +455,12 @@
     "Williams says Fed may not have to hike rates in 2027, at odds with traders",
     "How backlash against data centres could shape the US midterm elections",
     "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
-    "Euro bonds reclaim safe-haven status as equities falter on AI debt"
+    "Euro bonds reclaim safe-haven status as equities falter on AI debt",
+    "Gi\u00e1 v\u00e0ng r\u1edbt th\u00ea th\u1ea3m, ch\u1ec9 nh\u1eefng ng\u01b0\u1eddi mua v\u00e0o th\u1eddi \u0111i\u1ec3m \u0111\u1eb7c bi\u1ec7t n\u00e0y trong 1 n\u0103",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "Key facts: Entain PLC (ENT) Q3 NGR +2% cc; 20% Entain CEE sale on track Q4 2026 ",
+    "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+    "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly access",
+    "Why Gen Z are planning for life without a state pension"
   ]
 }
