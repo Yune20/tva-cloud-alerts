@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792065162.6402256,
-  "last_bot4": 1792068735.6500275,
+  "last_bot4": 1792069356.0698574,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792068112.2066612
+    "Gold": 1792069356.069522
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792069029.6649973,
+  "last_signals": 1792069356.070629,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,13 +79,13 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792067210.6680837
   },
-  "last_analysis": 1792068735.648774,
-  "last_news": 1792069029.664031,
+  "last_analysis": 1792069346.2837584,
+  "last_news": 1792069353.4834793,
   "seen_news": [
-    "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms\u00a0on intervention warnin",
-    "US stocks might have a bigger problem than just hotter inflation",
-    "3 con gi\u00e1p nh\u1eadn tin vui trong ng\u00e0y th\u1ee9 N\u0103m, 15/10/2026",
-    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank | VietstockFinance - VietstockFinance",
-    "Weyerhaeuser upgraded at Bank of America on timberland assets - TradingView",
-    "China's exports and imports surge past expectations in September",
     "G\u1eb7p \u00e1p l\u1ef1c, M\u1ef9 \u2018nh\u1edd c\u1eady' th\u00eam \u0111\u1ed3ng minh th\u00e2n c\u1eadn c\u1ee7a Nga",
     "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP | VietstockFinance - VietstockFinance",
     "Macquarie maintains Outperform rating on Fermi, $15 price target - TradingView",
@@ -461,6 +455,12 @@
     "StoneX cuts Spotify to Hold on margin pressure, label costs",
     "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
     "1 ng\u00e0y \u1edf vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o 5 sao \u0111\u1ea7u ti\u00ean t\u1ea1i H\u00e0 N\u1ed9i \u0111\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 800 t\u1ef7 \u0111\u1ed3ng: S\u00e1ng ",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance"
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "What are the main events for today?",
+    "L\u1ed9 trang b\u1ecb 2 b\u1ea3n Volkswagen Tiguan 2026 t\u1ea1i Vi\u1ec7t Nam: Gi\u00e1 d\u1ef1 ki\u1ebfn ti\u1ec7m c\u1eadn CR-V",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
+    "Tesla and SpaceX could merge before December 6 -- Barclays - TradingView",
+    "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
+    "Treasury yields slide as investors flee to safety of bonds amid tech rout"
   ]
 }
