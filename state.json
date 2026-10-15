@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792061210.592706,
+  "last_signals": 1792061821.569169,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -147,7 +147,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792061212.979666,
+    "GBP/USD|4H:top": 1792061822.734983,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792060595.8050208
+    "Bitcoin|1D:bot": 1792061822.1681004
   },
-  "last_analysis": 1792061198.534818,
-  "last_news": 1792061210.502094,
+  "last_analysis": 1792061814.1181662,
+  "last_news": 1792061821.567929,
   "seen_news": [
-    "3 ki\u1ec3u m\u1eb9 n\u00e0y \u0111\u1ec1u \u0111\u01b0\u1ee3c \u0111\u1ecbnh s\u1eb5n s\u1ebd g\u1eb7p v\u1eadn may l\u1edbn",
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
-    "Can Primo Brands' Purified Water Sales Accelerate Further? - TradingView",
-    "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'autom",
-    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-    "Why is SK Hynix stock plunging today?",
     "AI agent Decagon held sales talks with ServiceNow; others - report - TradingView",
     "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
     "Drop-off charges at UK airports to be reviewed after sharp increase",
@@ -461,6 +455,12 @@
     "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite",
     "BOJ\u2019s Koeda says bank should not be overly cautious about raising rates",
     "M\u00e3 \u0111\u1ed9c Trojan ng\u00e2n h\u00e0ng tr\u00ean thi\u1ebft b\u1ecb di \u0111\u1ed9ng t\u0103ng \u0111\u1ed9t bi\u1ebfn",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: D\u1ef1 b\u00e1o danh m\u1ee5c VNDiamond trong k\u1ef3 r\u00e0 so\u00e1t Q4/26 - Vietstock",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "Stocks fall, dollar rallies as US inflation tops forecasts - TradingView",
+    "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+    "NI company in talks to save Poundland from administration",
+    "Why is Relx stock climbing today?",
+    "Ethereum extends losses after the US CPI as risk sentiment deteriorates further."
   ]
 }
