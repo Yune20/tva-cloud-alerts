@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792053752.618295,
+  "last_signals": 1792054363.6991794,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792053753.1217055
+    "Bitcoin|1D:bot": 1792054364.321167
   },
-  "last_analysis": 1792053744.6552203,
-  "last_news": 1792053752.6173377,
+  "last_analysis": 1792054355.4471211,
+  "last_news": 1792054363.6983817,
   "seen_news": [
-    "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality",
-    "X-planes: Are they needed in the new era of drones?",
-    "YouTube explores audiobook feature for 2027 launch- WSJ",
-    "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
-    "C\u00f4ng an ki\u1ec3m tra 71 shipper c\u1ee7a 6 c\u00f4ng ty",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
     "Dollar gains, Wall Street stocks fall after hot inflation data",
     "Iran\u2019s IRGC orders evacuation of military bases as US strike fears grow: reports",
     "V\u00ec chi\u1ebfc micro karaoke, nh\u00f3m nam n\u1eef x\u00f4 x\u00e1t gi\u1eefa ph\u1ed1 H\u00e0 N\u1ed9i: X\u00e1c \u0111\u1ecbnh danh t\u00ednh 6",
@@ -461,6 +455,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
     "Cotton Posts Mixed Trade on Tuesday - TradingView",
     "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
-    "Fannie Mae sharply raises mortgage rate forecast for 2027"
+    "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
+    "Hypoport SE: Solid operating performance in a declining overall market - Trading",
+    "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+    "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing bi",
+    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
+    "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy"
   ]
 }
