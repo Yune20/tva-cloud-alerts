@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792065162.6402256,
-  "last_bot4": 1792065165.2870612,
+  "last_bot4": 1792066049.485679,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792065446.7776463,
+  "last_signals": 1792066049.6545997,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -94,17 +94,17 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": false,
+    "EUR/USD|1D": true,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792066517,
@@ -160,14 +160,8 @@
     "Bitcoin|1D:bot": 1792065447.6564107
   },
   "last_analysis": 1792065749.9816847,
-  "last_news": 1792065446.7208858,
+  "last_news": 1792066049.4078355,
   "seen_news": [
-    "Subeo d\u1eaft b\u1ea1n g\u00e1i ra m\u1eaft C\u01b0\u1eddng \u0110\u00f4 La",
-    "T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - VietstockFinance",
-    "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
-    "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "Why is Netwealth stock sliding today?",
     "Why Is KORU Plunging More Than 18% Overnight? - TradingView",
     "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
     "'It's rough out here': Americans struggle with rising inflation",
@@ -461,6 +455,12 @@
     "Drop-off charges at UK airports to be reviewed after sharp increase",
     "India\u2019s Annual Wind Power Installations to Double by 2030",
     "AI credit jitters drive US tech default insurance to record highs",
-    "investingLive European news wrap: Markets consolidate after the US CPI shock"
+    "investingLive European news wrap: Markets consolidate after the US CPI shock",
+    "Cboe to expand options trading hours for major stocks and ETFs",
+    "How much is the minimum wage?",
+    "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
+    "CoreWeave shares, bonds slide further as AI debt fears mount",
+    "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+    "Vinhomes - SGC \u0111\u1ea7u t\u01b0 h\u01a1n 900.000 t\u1ef7 \u0111\u1ed3ng x\u00e2y d\u1ef1ng 5 tuy\u1ebfn Metro H\u00e0 N\u1ed9i theo h\u00ecn"
   ]
 }
