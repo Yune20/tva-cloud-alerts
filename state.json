@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792106266.3815856,
+  "last_signals": 1792106862.6149256,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -143,10 +143,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792106267.5017605,
+    "Ethereum|1D:bot": 1792106863.7020104,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792106267.7605932,
+    "US30|1D:top": 1792106863.915482,
     "GBP/USD|4H:top": 1792098680.7875803,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792106267.21
+    "Bitcoin|1D:bot": 1792106863.400911
   },
-  "last_analysis": 1792106257.6638627,
-  "last_news": 1792106266.3806531,
+  "last_analysis": 1792106853.395718,
+  "last_news": 1792106862.5377293,
   "seen_news": [
-    "Gold Gains Nearly 1% - TradingView",
-    "She made college \u2018good debt\u2019 for herself. Can she do the same for her daughter?",
-    "What are your rights on auto-renew subscriptions?",
-    "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
-    "CoreWeave\u2019s slump spotlights growing burden of debt behind AI boom",
-    "European stock market open: Equities under pressure as Wall Street selloff weigh",
     "Rainmakers: The drones used to seed clouds",
     "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions",
     "Poland stocks higher at close of trade; WIG30 up 0.08%",
@@ -461,6 +455,12 @@
     "My hometown shows that high streets have to change or die",
     "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked",
     "Tesla energy executive Snyder steps down, WSJ reports",
-    "ICYMI: TSMC profit jumps nearly 70% on AI demand, but margin outlook weighs on s"
+    "ICYMI: TSMC profit jumps nearly 70% on AI demand, but margin outlook weighs on s",
+    "I find it quite demoralising in store - why I do all my shopping online",
+    "Netflix names former Disney executive Rice as new content chief as Bajaria depar",
+    "Moody\u2019s cuts Nike outlook to negative, sees earnings falling into fiscal 2028",
+    "Ronaldo d\u00f9ng \u0111i\u1ec7n tho\u1ea1i g\u00ec?",
+    "CTCP T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
+    "Broadcom Stocks Fall 1.7% Although Cash Flow Covers Dividends Four Times - Tradi"
   ]
 }
