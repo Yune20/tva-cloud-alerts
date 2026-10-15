@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792054051.55081,
-  "last_bot4": 1792061501.9765391,
+  "last_bot4": 1792062466.494675,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792061501.9764886
+    "Gold": 1792062466.4945495
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792061821.569169,
+  "last_signals": 1792062466.4984474,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -147,7 +147,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792061822.734983,
+    "GBP/USD|4H:top": 1792062467.787016,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792061822.1681004
   },
-  "last_analysis": 1792061814.1181662,
-  "last_news": 1792061821.567929,
+  "last_analysis": 1792062455.2477155,
+  "last_news": 1792062463.8226469,
   "seen_news": [
-    "AI agent Decagon held sales talks with ServiceNow; others - report - TradingView",
-    "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-    "Drop-off charges at UK airports to be reviewed after sharp increase",
-    "WiseTech shares surge as ASIC drops action against founder White",
-    "ECB\u2019s Santos Pereira says euro zone inflation is not spreading beyond energy",
-    "B\u00ean c\u1ea1nh th\u1ecfa thu\u1eadn c\u00f9ng Vingroup cung c\u1ea5p 200 \u0111o\u00e0n t\u00e0u metro H\u00e0 N\u1ed9i, \u2018\u00f4ng l\u1edbn' ",
     "Anthropic flags revenue surge to investors ahead of stock market debut",
     "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports",
     "US September CPI 3.7% vs 3.6% expected",
@@ -461,6 +455,12 @@
     "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
     "NI company in talks to save Poundland from administration",
     "Why is Relx stock climbing today?",
-    "Ethereum extends losses after the US CPI as risk sentiment deteriorates further."
+    "Ethereum extends losses after the US CPI as risk sentiment deteriorates further.",
+    "S&P Global Ratings x\u1ebfp h\u1ea1ng \u201cAA\u201d cho tr\u00e1i phi\u1ebfu c\u1ee7a SHB \u0111\u01b0\u1ee3c Qu\u1ef9 t\u00edn th\u00e1c ADB b\u1ea3",
+    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
+    "Can Primo Brands' Purified Water Sales Accelerate Further? - TradingView",
+    "TSMC\u2019s CEO sees no sign of a slowdown as chip foundry reports record profit",
+    "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'autom",
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022"
   ]
 }
