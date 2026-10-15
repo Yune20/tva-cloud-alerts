@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792070584.7348564,
+  "last_signals": 1792071194.4928534,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -89,9 +89,9 @@
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
-    "US30|4H": true,
-    "US30|1D": true,
-    "GBP/USD|1H": false,
+    "US30|4H": false,
+    "US30|1D": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792067210.6680837
   },
-  "last_analysis": 1792070576.8713346,
-  "last_news": 1792070584.733868,
+  "last_analysis": 1792071186.254546,
+  "last_news": 1792071194.4920497,
   "seen_news": [
-    "Goldman says investors are looking for 'profitable' Chinese business growth over",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
-    "KOSPI hits near 3-month low as 8% plunge triggers circuit breaker",
-    "Canada August building permits rise 8.8% vs 2.0% expected",
-    "H\u01b0\u01a1ng Giang - Ph\u00fa C\u01b0\u1eddng n\u00e9 tr\u00e1nh, kh\u00f4ng mu\u1ed1n \u0111\u1ee5ng m\u1eb7t nhau?",
     "Trump Announces $80 Billion Taiwan LNG Deal",
     "U.S.  debt finds breathing room, countering energy spike",
     "Chart of the day: Gold rebounds as dollar and yields fall, but $4,200 remains a ",
@@ -461,6 +455,12 @@
     "Job cuts could fund diesel price drop says deputy",
     "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
     "US initial jobless claim 199K vs 200K estimate",
-    "Gi\u00e1 v\u00e0ng nh\u1eabn tr\u01a1n, v\u00e0ng mi\u1ebfng chi\u1ec1u t\u1ed1i 15/10 t\u1ea1i SJC, PNJ, DOJI, B\u1ea3o T\u00edn Minh "
+    "Gi\u00e1 v\u00e0ng nh\u1eabn tr\u01a1n, v\u00e0ng mi\u1ebfng chi\u1ec1u t\u1ed1i 15/10 t\u1ea1i SJC, PNJ, DOJI, B\u1ea3o T\u00edn Minh ",
+    "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
+    "College was supposed to be \u2018good debt.\u2019 For many borrowers, it isn\u2019t paying off",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding",
+    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
+    "Canada August manufacturing sales +1.5% vs +1.1% expected"
   ]
 }
