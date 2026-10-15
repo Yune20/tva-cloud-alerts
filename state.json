@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792032351.5926073,
-  "last_bot4": 1792032351.5935817,
+  "last_bot4": 1792033274.561481,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792031716.9817355
+    "Gold": 1792033274.5613842
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792032663.4733725,
+  "last_signals": 1792033274.5624466,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -82,10 +82,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -141,7 +141,7 @@
     "USOIL|4H:top": 1792008451.2448804,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1791856778.335526,
+    "Bitcoin|4H:bot": 1792033275.200247,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1792021669.0601008,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792032664.0468278
+    "Bitcoin|1D:bot": 1792033275.2002683
   },
-  "last_analysis": 1792032651.3821068,
-  "last_news": 1792032663.4724672,
+  "last_analysis": 1792033263.3226683,
+  "last_news": 1792033271.4248226,
   "seen_news": [
-    "Why is NVIDIA stock sliding today?",
-    "Gold sellers press toward last week\u2019s low. Can buyers hold support?",
-    "Gi\u00e1 d\u1ea7u c\u00f3 th\u1ec3 gi\u1ea3m v\u1ec1 70 USD/th\u00f9ng trong n\u0103m 2027, l\u1ee3i nhu\u1eadn c\u00e1c \"\u00f4ng l\u1edbn\" d\u1ea7u ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
-    "Micron Takes Another Hit as China Chip Fears Flare - TradingView",
-    "Did this year\u2019s COLA beat inflation? Here\u2019s how spending by American seniors sta",
     "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New Y",
     "Bitcoin consolidates in a tight range ahead of the US CPI. What to watch next?",
     "M\u1ed9t Ti\u1ebfn s\u0129 \u0111i\u1ec1u h\u00e0nh doanh nghi\u1ec7p h\u01a1n 2 th\u1eadp k\u1ef7, gi\u00e1 c\u1ed5 phi\u1ebfu ch\u01b0a t\u1edbi 2.000 \u0111\u1ed3",
@@ -461,6 +455,12 @@
     "Drop-off charges at UK airports to be reviewed after sharp increase",
     "WiseTech shares surge as ASIC drops action against founder White",
     "ECB\u2019s Santos Pereira says euro zone inflation is not spreading beyond energy",
-    "B\u00ean c\u1ea1nh th\u1ecfa thu\u1eadn c\u00f9ng Vingroup cung c\u1ea5p 200 \u0111o\u00e0n t\u00e0u metro H\u00e0 N\u1ed9i, \u2018\u00f4ng l\u1edbn' "
+    "B\u00ean c\u1ea1nh th\u1ecfa thu\u1eadn c\u00f9ng Vingroup cung c\u1ea5p 200 \u0111o\u00e0n t\u00e0u metro H\u00e0 N\u1ed9i, \u2018\u00f4ng l\u1edbn' ",
+    "Anthropic flags revenue surge to investors ahead of stock market debut",
+    "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports",
+    "US September CPI 3.7% vs 3.6% expected",
+    "L\u1eddi khuy\u00ean cho ng\u01b0\u1eddi \u0111i xe m\u00f9a tri\u1ec1u c\u01b0\u1eddng, l\u1ee5t l\u1ed9i",
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView"
   ]
 }
