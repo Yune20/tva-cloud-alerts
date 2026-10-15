@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792033274.5624466,
+  "last_signals": 1792033877.4516852,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,7 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792023429.976112,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
-    "5575146754|Gold|1D|range_in": 1791958717.8275256,
+    "5575146754|Gold|1D|range_in": 1792033877.4516852,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
@@ -78,14 +78,14 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792033275.2002683
+    "Bitcoin|1D:bot": 1792033878.4601157
   },
   "last_analysis": 1792033578.8870935,
-  "last_news": 1792033271.4248226,
+  "last_news": 1792033877.4508197,
   "seen_news": [
-    "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New Y",
-    "Bitcoin consolidates in a tight range ahead of the US CPI. What to watch next?",
-    "M\u1ed9t Ti\u1ebfn s\u0129 \u0111i\u1ec1u h\u00e0nh doanh nghi\u1ec7p h\u01a1n 2 th\u1eadp k\u1ef7, gi\u00e1 c\u1ed5 phi\u1ebfu ch\u01b0a t\u1edbi 2.000 \u0111\u1ed3",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
-    "What to expect at the next Fed meeting now that rate-hike odds are rising",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "Tom Lee Issues Rare Bearish Ethereum Warning - TradingView",
     "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
@@ -461,6 +455,12 @@
     "US September CPI 3.7% vs 3.6% expected",
     "L\u1eddi khuy\u00ean cho ng\u01b0\u1eddi \u0111i xe m\u00f9a tri\u1ec1u c\u01b0\u1eddng, l\u1ee5t l\u1ed9i",
     "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
-    "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView"
+    "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
+    "RBNZ\u2019s Conway says October rate decision completely open, OCR more likely to ris",
+    "\u0110\u1ee9c s\u1eafp \u00e1p thu\u1ebf n\u0103ng l\u01b0\u1ee3ng m\u1edbi l\u00ean ng\u01b0\u1eddi ti\u00eau d\u00f9ng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "Zedcor Inc. (ZDC) Lifts Committed Credit Facility to $100M - TradingView",
+    "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
+    "Would you buy branded clothing from your favourite tech firm?"
   ]
 }
