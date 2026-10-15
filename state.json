@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792032351.5926073,
+  "last_news_report": 1792043206.5311143,
   "last_bot4": 1792042598.3360658,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792042598.3367958,
+  "last_signals": 1792043206.5319924,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792032046.3638382,
+    "5575146754|Gold|1H|range_in": 1792043206.5319924,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792023429.976112,
@@ -76,10 +76,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -160,14 +160,8 @@
     "Bitcoin|1D:bot": 1792042599.3310096
   },
   "last_analysis": 1792042909.904757,
-  "last_news": 1792042595.284765,
+  "last_news": 1792043199.9502728,
   "seen_news": [
-    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
-    "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026\u20132027 WORLD ",
-    "Huy \u0111\u1ed9ng h\u01a1n 30.000 ng\u01b0\u1eddi x\u00e2y si\u00eau s\u00e2n bay 275.000 t\u1ef7 \u0111\u1ed3ng, r\u1ed9ng g\u1ea5p 14 l\u1ea7n N\u1ed9i ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
-    "US Stocks Dip Amid Hot Inflation and Chipmaker Weakness - TradingView",
-    "The COLA wars are coming for Social Security",
     "Bank of America adds a profit miss to the misery of a $1.2 billion government fi",
     "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
     "Driving test waits fall to two-year low - but still average 20 weeks",
@@ -461,6 +455,12 @@
     "Key facts: Court Voids Volkswagen AG Pref Pact; 120 Dealers Affected - TradingVi",
     "Trump's diesel dilemma \u2014 by the numbers",
     "Bank of America hit with $1.2bn fine for money laundering failings",
-    "Canadian dollar gains as U.S. dollar retreats from 18-month high"
+    "Canadian dollar gains as U.S. dollar retreats from 18-month high",
+    "Comprehensive Healthcare Systems Inc. (CHS) To Acquire America's Choice Healthpl",
+    "TSMC posts record profit for a sixth straight quarter, beating estimates on AI b",
+    "Thousands of NI workers to get pay bump as Real Living Wage rises",
+    "Cicor keeps 2026 outlook as order backlog points to strong Q4 revenue",
+    "German wholesale prices continue to push higher in September, keeping inflation ",
+    "\u0110au \u0111\u1ea7u, bu\u1ed3n n\u00f4n v\u00ec m\u00f9i hoa s\u1eefa: C\u00f3 ph\u1ea3i ng\u1ed9 \u0111\u1ed9c?"
   ]
 }
