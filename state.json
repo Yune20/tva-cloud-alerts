@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792052522.2851024,
+  "last_signals": 1792053142.1513202,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,11 +79,11 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792052523.1483712
+    "Bitcoin|1D:bot": 1792053142.6868067
   },
-  "last_analysis": 1792052513.4044423,
-  "last_news": 1792052522.284377,
+  "last_analysis": 1792053133.7733574,
+  "last_news": 1792053142.1504653,
   "seen_news": [
-    "U.S. proposes unfreezing Russian assets to restart Ukraine peace talks- FT",
-    "CoreWeave bonds trade like distressed debt as AI spending outpaces balance sheet",
-    "Thi\u1ec7t h\u1ea1i n\u1eb7ng n\u1ec1 t\u1ea1i tr\u1ee5 s\u1edf t\u1eadp \u0111o\u00e0n d\u1ea7u kh\u00ed l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi sau khi tr\u00fang h\u1ecf",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
-    "Bond market 'news failure' signals pain trade ahead - BTIG - TradingView",
-    "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
     "\u0110\u01b0\u1ee3c \u0111\u1ecbnh gi\u00e1 t\u1ef7 USD, c\u00f3 12 tri\u1ec7u ng\u01b0\u1eddi d\u00f9ng, t\u1ea1i sao startup chatbot AI n\u00e0y v\u1eabn",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Dataproces (DATA) Secures Fifth Advisory Contract in Germany - TradingView",
@@ -461,6 +455,12 @@
     "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC | VietstockFinance - VietstockFi",
     "Two Major Events That Could Impact the Stock Market Today - TradingView",
     "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ",
-    "Hundreds of Royal Mail staff quitting each week under new efficiency plans"
+    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
+    "RCS - HarbourVest Global - HVPE's Semi Annual Results Presentation - TradingView",
+    "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+    "'I paid thousands to a company for jobs that never came'",
+    "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
+    "Why is Cicor Technologies stock sliding today?"
   ]
 }
