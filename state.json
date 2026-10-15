@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792021348.5768952,
-  "last_bot4": 1792027743.9951394,
+  "last_bot4": 1792028367.9675343,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792027743.9962268,
+  "last_signals": 1792028367.9681842,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792012064.9690878,
+    "5575146754|Gold|1H|range_in": 1792028367.9681842,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792023429.976112,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -91,7 +91,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,17 +155,12 @@
     "Gold|1D:bot": 1792015647.4763043,
     "Ethereum|4H:bot": 1792027124.4269753,
     "USD/JPY|4H:bot": 1792022817.196897,
-    "JPY Index|4H:bot": 1792022817.59915
+    "JPY Index|4H:bot": 1792022817.59915,
+    "EUR/USD|4H:top": 1792028369.3470423
   },
-  "last_analysis": 1792028046.2904875,
-  "last_news": 1792027740.1763833,
+  "last_analysis": 1792028359.2505982,
+  "last_news": 1792028367.9667816,
   "seen_news": [
-    "Gi\u1eefa th\u00e1ng 10 g\u1eedi 400 tri\u1ec7u t\u1ea1i Vietcombank, NCB, BAC A Bank, SHB: L\u00e3i t\u1ed1i \u0111a ba",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "Micron Stock Slips as CXMT Advance Hits Chips - TradingView",
-    "OpenAI\u2019s Sachin Katti to leave infrastructure role, stay on as advisor",
-    "Airport drop-off charges to be reviewed after sharp increase",
-    "Houthis Vow More Attacks After Strike on Aramco Headquarters",
     "Core Inflation Just Accelerated. The Fed Is Listening. - TradingView",
     "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters fe",
     "The steel stock that has the shorts and options traders on edge",
@@ -459,6 +454,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
     "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "Anthropic revenue surges to $16.8bn ahead of stock market listing"
+    "Anthropic revenue surges to $16.8bn ahead of stock market listing",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "SAF-HOLLAND SE: Release of a capital market information - TradingView",
+    "How high inflation became a 'fact of life' in the U.S.",
+    "Spain battles climate change on several fronts",
+    "At Anthropic pre-IPO meet: \u2018Thinking\u2019 caps, surging revenue, no human extinction",
+    "Australian jobs data due imminently - previews"
   ]
 }
