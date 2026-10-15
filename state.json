@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792102302.0542572,
+  "last_signals": 1792102662.572069,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|range_in": 1792079938.5048046,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
-    "5575146754|Gold|4H|range_in": 1792096363.3001542,
+    "5575146754|Gold|4H|range_in": 1792102662.572069,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
     "5575146754|Gold|1D|range_in": 1792090351.1557107,
     "5575146754|Gold|1H|trap_up": 1792094860.8659146,
@@ -77,7 +77,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -143,10 +143,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792102303.2518024,
+    "Ethereum|1D:bot": 1792102663.789205,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792102303.4576852,
+    "US30|1D:top": 1792102664.0503912,
     "GBP/USD|4H:top": 1792098680.7875803,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792102302.8869386
+    "Bitcoin|1D:bot": 1792102663.4916651
   },
-  "last_analysis": 1792102293.3935134,
-  "last_news": 1792102302.0535696,
+  "last_analysis": 1792102653.389363,
+  "last_news": 1792102662.5712,
   "seen_news": [
-    "US PPI Soars the Most in 4 Years - TradingView",
-    "Trump says Nidal Hasan execution won't be live-streamed",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Europe\u2019s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
-    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
-    "US October Philly Fed business index +20.9 vs +28.4 expected",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "Johnson & Johnson outlook: bull and bear cases after Q3 earnings",
     "Morning Kickstart: Dollar retreats as yields fall, Nasdaq remains under pressure",
@@ -461,6 +455,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
     "Walmart Stock Moves Higher: What's Happening? - TradingView",
     "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by "
+    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
+    "Cohere moves to buy AI cybersecurity\u00a0startup Aisle",
+    "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
+    "\u0110\u00fang 3 ng\u00e0y n\u1eefa - 18/10, d\u1ecbch v\u1ee5 n\u00e0y mi\u1ec5n ph\u00ed cho to\u00e0n b\u1ed9 ng\u01b0\u1eddi d\u00e2n Vi\u1ec7t Nam",
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
+    "Hypoport SE: Solid operating performance in a declining overall market - Trading",
+    "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter"
   ]
 }
