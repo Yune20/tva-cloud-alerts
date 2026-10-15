@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792087358.0809166,
+  "last_signals": 1792087970.344148,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792087359.1251304,
+    "Ethereum|1D:bot": 1792087971.316817,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792087358.8023887
+    "Bitcoin|1D:bot": 1792087971.0402985
   },
-  "last_analysis": 1792087348.9770803,
-  "last_news": 1792087358.0794423,
+  "last_analysis": 1792087962.1159987,
+  "last_news": 1792087970.3431842,
   "seen_news": [
-    "Venture Global to build power plants for AI data centers",
-    "Oil remains supported amid persistent Middle East tensions as US weighs using \"M",
-    "Thu\u00ea nh\u00e0 6-8 tri\u1ec7u/th\u00e1ng m\u00e0 \u0111\u1ebfn kh\u1ed5: M\u01b0a d\u1ed9t kh\u00f4ng ai s\u1eeda, chuy\u1ec3n \u0111i th\u00ec m\u1ea5t m\u1ea5y",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Activist Ancora pushes Big Yellow to explore a sale - TradingView",
-    "France is \u2018putting the house in order\u2019 and can slash deficit to 3% in three year",
     "Ph\u00e1t hi\u1ec7n 40 tr\u01b0\u1eddng h\u1ee3p k\u00ea khai sai khi mua nh\u00e0 x\u00e3 h\u1ed9i",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
@@ -461,6 +455,12 @@
     "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
     "Britain\u2019s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
     "Target says it does not use customer data to raise prices",
-    "US inflation worries aren't over yet as PPI and retail sales pose fresh risks fo"
+    "US inflation worries aren't over yet as PPI and retail sales pose fresh risks fo",
+    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+    "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
+    "Top Biotech Stock: Guggenheim Names Surrozen as Best Pick",
+    "Bitcoin snaps back after failed downside break. Can buyers take the next step?",
+    "\u00d4ng Ph\u1ea1m Thanh Ti\u1ebfn, Cao H\u00f9ng C\u01b0\u1eddng c\u00f9ng 5 c\u00f4ng ty mu\u1ed1n mua 300 tri\u1ec7u c\u1ed5 phi\u1ebfu m",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
