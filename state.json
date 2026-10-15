@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792024658.7188892,
+  "last_signals": 1792025268.0723197,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -157,15 +157,9 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915
   },
-  "last_analysis": 1792024647.9628146,
-  "last_news": 1792024658.718181,
+  "last_analysis": 1792025260.5904803,
+  "last_news": 1792025268.0714731,
   "seen_news": [
-    "\u00d4ng D\u01b0\u01a1ng S\u01a1n B\u00e1 b\u1ecb b\u1eaft, doanh nghi\u1ec7p ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 nh\u00e2n s\u1ef1",
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "Stocks fall, dollar rallies as US inflation tops forecasts - TradingView",
-    "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dil",
-    "Jim Cramer says this healthcare stock is still a buy. Plus, what to do with BNY",
-    "How long will humans be needed for translation?",
     "Vietnam economic report - VietstockFinance",
     "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
     "'The power of shrink' \u2014 tour the little-known $25B company that chipmakers can't",
@@ -459,6 +453,12 @@
     "YouTube explores audiobook feature for 2027 launch- WSJ",
     "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
     "C\u00f4ng an ki\u1ec3m tra 71 shipper c\u1ee7a 6 c\u00f4ng ty",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance"
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Dollar gains, Wall Street stocks fall after hot inflation data",
+    "Iran\u2019s IRGC orders evacuation of military bases as US strike fears grow: reports",
+    "V\u00ec chi\u1ebfc micro karaoke, nh\u00f3m nam n\u1eef x\u00f4 x\u00e1t gi\u1eefa ph\u1ed1 H\u00e0 N\u1ed9i: X\u00e1c \u0111\u1ecbnh danh t\u00ednh 6",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
+    "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worri"
   ]
 }
