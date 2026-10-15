@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792022815.6514714,
+  "last_signals": 1792023429.976112,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|range_in": 1792012064.9690878,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
-    "5575146754|Gold|4H|range_in": 1791964558.1412945,
+    "5575146754|Gold|4H|range_in": 1792023429.976112,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
     "5575146754|Gold|1D|range_in": 1791958717.8275256,
     "5575146754|Gold|1H|trap_up": 1791867005.6898682,
@@ -77,7 +77,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -95,7 +95,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -153,19 +153,13 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792015647.4763043,
-    "Ethereum|4H:bot": 1792022816.3813472,
+    "Ethereum|4H:bot": 1792023430.8138156,
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915
   },
-  "last_analysis": 1792022807.8957605,
-  "last_news": 1792022815.6505766,
+  "last_analysis": 1792023419.9952903,
+  "last_news": 1792023429.9751513,
   "seen_news": [
-    "10-year Treasury yield jumps as September core inflation comes in hotter than ex",
-    "Netflix to lay off 1,000 staff in steepest cuts since 2022",
-    "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy",
-    "The Knot Worldwide to acquire Zola in wedding platform union, sources say",
-    "European stocks mostly higher, but DAX fails to hold above its 100-day moving av",
-    "B\u1ea1n trai Hoa h\u1eadu Qu\u1ef3nh Anh l\u00e0m g\u00ec th\u1ebf n\u00e0y?",
     "Wall Street Sees Inflation Easing Even With Oil Above $90",
     "European shares edge up after solid ASML results, healthcare gains",
     "Gold gets hit again by a jump in oil prices as the focus turns to US CPI. What t",
@@ -459,6 +453,12 @@
     "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
     "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
     "Bitcoin sellers defend moving average resistance. What does that teach traders?",
-    "Hoa h\u1eadu t\u1eebng s\u1ed1ng trong nh\u00e0 m\u00e1i l\u00e1, nay \u1edf trong c\u0103n bi\u1ec7t th\u1ef1 gi\u1eefa H\u00e0 N\u1ed9i, cu\u1ed9c s"
+    "Hoa h\u1eadu t\u1eebng s\u1ed1ng trong nh\u00e0 m\u00e1i l\u00e1, nay \u1edf trong c\u0103n bi\u1ec7t th\u1ef1 gi\u1eefa H\u00e0 N\u1ed9i, cu\u1ed9c s",
+    "U.S. proposes unfreezing Russian assets to restart Ukraine peace talks- FT",
+    "CoreWeave bonds trade like distressed debt as AI spending outpaces balance sheet",
+    "Thi\u1ec7t h\u1ea1i n\u1eb7ng n\u1ec1 t\u1ea1i tr\u1ee5 s\u1edf t\u1eadp \u0111o\u00e0n d\u1ea7u kh\u00ed l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi sau khi tr\u00fang h\u1ecf",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
+    "Bond market 'news failure' signals pain trade ahead - BTIG - TradingView",
+    "Your Social Security check will rise an average of $75 a month \u2014 will it be able"
   ]
 }
