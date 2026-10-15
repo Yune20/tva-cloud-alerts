@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792025268.0723197,
+  "last_signals": 1792025892.0786238,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -157,15 +157,9 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915
   },
-  "last_analysis": 1792025260.5904803,
-  "last_news": 1792025268.0714731,
+  "last_analysis": 1792025885.311241,
+  "last_news": 1792025892.0778368,
   "seen_news": [
-    "Vietnam economic report - VietstockFinance",
-    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
-    "'The power of shrink' \u2014 tour the little-known $25B company that chipmakers can't",
-    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "5 Challenges Facing South America\u2019s Copper Boom",
-    "US lawmakers ask FAA to conduct review before allowing Amazon drone hub near Bos",
     "Today's oil price analysis shows early signs that bulls are losing steam",
     "\u0110\u00fang 9h s\u00e1ng nay, s\u00e2n bay m\u1edbi \u0111\u01b0\u1ee3c b\u1ea7u Hi\u1ec3n \"r\u00f3t\" g\u1ea7n 6.000 t\u1ef7 \u0111\u1ed3ng ch\u00ednh th\u1ee9c c",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -459,6 +453,12 @@
     "V\u00ec chi\u1ebfc micro karaoke, nh\u00f3m nam n\u1eef x\u00f4 x\u00e1t gi\u1eefa ph\u1ed1 H\u00e0 N\u1ed9i: X\u00e1c \u0111\u1ecbnh danh t\u00ednh 6",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
-    "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worri"
+    "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worri",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n khi thanh to\u00e1n ti\u1ec1n \u0111i\u1ec7n, n\u01b0\u1edbc c\u1ea7n ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a",
+    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
+    "US yields jump then pull back, reflecting Fed's expected patience - TradingView",
+    "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi A",
+    "How long will humans be needed for translation?",
+    "U.S. stock futures fall as hot inflation revives Fed hike concerns"
   ]
 }
