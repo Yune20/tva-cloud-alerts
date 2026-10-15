@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792094860.8659146,
+  "last_signals": 1792095465.7750366,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -99,13 +99,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792095731,
   "menu_prices": {
@@ -138,15 +138,15 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792039425.0574186,
+    "USOIL|4H:top": 1792095466.1504924,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792094862.2654445,
+    "Ethereum|1D:bot": 1792095466.7172306,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792094862.529566,
+    "US30|1D:top": 1792095466.8910906,
     "GBP/USD|4H:top": 1792092153.4399946,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792094861.7389946
+    "Bitcoin|1D:bot": 1792095466.373373
   },
-  "last_analysis": 1792094852.9594438,
-  "last_news": 1792094860.8650837,
+  "last_analysis": 1792095458.3987494,
+  "last_news": 1792095465.7740495,
   "seen_news": [
-    "B\u1ea3n sao ho\u00e0n h\u1ea3o c\u1ee7a Phan Hi\u1ec3n: 11 tu\u1ed5i \u0111\u00e3 2 l\u1ea7n v\u00f4 \u0111\u1ecbch th\u1ebf gi\u1edbi, th\u1ea7n th\u00e1i chu",
-    "Vietnam economic report - VietstockFinance",
-    "Euro Hits 16-month Low - TradingView",
-    "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
-    "Memory stocks are getting hammered. China and a 2029 oversupply are the big worr",
-    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
     "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
     "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
     "Would you buy branded clothing from your favourite tech firm?",
@@ -461,6 +455,12 @@
     "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo",
     "investingLive Americas market news wrap: Yields continue to fall even after hot ",
     "D\u1ef1 b\u00e1o b\u1ea5t ng\u1edd v\u1ec1 l\u1ee3i nhu\u1eadn nh\u00f3m ch\u1ee9ng kho\u00e1n, d\u1ea7u kh\u00ed, ph\u00e2n b\u00f3n trong n\u0103m 2027",
-    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance"
+    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "KDventures AB (publ) (KDV_B) CSO Transitions to Senior Advisor - TradingView",
+    "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where ",
+    "The virtual worlds where robots are trained",
+    "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI",
+    "Crude oil futures settle at $97.97. Highest level since mid- September."
   ]
 }
