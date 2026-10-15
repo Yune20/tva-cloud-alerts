@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792086174.2034695,
+  "last_signals": 1792086747.5315263,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792086175.792292,
+    "Ethereum|1D:bot": 1792086748.2758887,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792086175.4540596
+    "Bitcoin|1D:bot": 1792086748.1192806
   },
-  "last_analysis": 1792086161.7284565,
-  "last_news": 1792086171.1839867,
+  "last_analysis": 1792086739.1909308,
+  "last_news": 1792086747.5306911,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Carnival's Princess line adds new itineraries, returns to Amazon - TradingView",
-    "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
-    "Dollar retreats from 18-month peaks as Fed Caution muffles inflation surprise",
     "X-planes: Are they needed in the new era of drones?",
     "5 Challenges Facing South America\u2019s Copper Boom",
     "Can TSMC earnings help settle AI jitters?",
@@ -461,6 +455,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Enovix surges on 100K-unit drone battery order - TradingView",
     "The COLA wars are coming for Social Security",
-    "Economists: Hot PPI shows Fed's work is not done"
+    "Economists: Hot PPI shows Fed's work is not done",
+    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
+    "Asbury Automotive Group Inc Stock 12\u2011Month Price Target Cut to $229.9, Implies 4",
+    "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
+    "Anduril CEO defends Trump administration contracts: 'We've done incredibly well ",
+    "Banks say Healey is planning Budget tax raid on their profits",
+    "Volvo Cars expands Nvidia partnership for self-driving tech"
   ]
 }
