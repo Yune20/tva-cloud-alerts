@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792094236.0622623,
+  "last_signals": 1792094860.8659146,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -53,7 +53,7 @@
     "5575146754|Gold|4H|range_in": 1792023429.976112,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
     "5575146754|Gold|1D|range_in": 1792090351.1557107,
-    "5575146754|Gold|1H|trap_up": 1791867005.6898682,
+    "5575146754|Gold|1H|trap_up": 1792094860.8659146,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
     "5575146754|Gold|4H|dbot": 1791981340.3121903,
@@ -77,7 +77,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -143,10 +143,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792094236.9375153,
+    "Ethereum|1D:bot": 1792094862.2654445,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792094237.1839392,
+    "US30|1D:top": 1792094862.529566,
     "GBP/USD|4H:top": 1792092153.4399946,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792094236.7231088
+    "Bitcoin|1D:bot": 1792094861.7389946
   },
-  "last_analysis": 1792094227.9362884,
-  "last_news": 1792094236.0612848,
+  "last_analysis": 1792094852.9594438,
+  "last_news": 1792094860.8650837,
   "seen_news": [
-    "Why is FMC stock collapsing today?",
-    "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
-    "Th\u1ea5y g\u00ec v\u1ec1 th\u01b0\u01a1ng v\u1ee5 t\u0103ng v\u1ed1n tr\u0103m ngh\u00ecn t\u1ef7 c\u1ee7a c\u00e1c ng\u00e2n h\u00e0ng?",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
-    "There\u2019s a \u2018monstrous bull market\u2019 developing under the surface of the S&P 500. T",
     "B\u1ea3n sao ho\u00e0n h\u1ea3o c\u1ee7a Phan Hi\u1ec3n: 11 tu\u1ed5i \u0111\u00e3 2 l\u1ea7n v\u00f4 \u0111\u1ecbch th\u1ebf gi\u1edbi, th\u1ea7n th\u00e1i chu",
     "Vietnam economic report - VietstockFinance",
     "Euro Hits 16-month Low - TradingView",
@@ -461,6 +455,12 @@
     "Drop-off charges at UK airports to be reviewed after sharp increase",
     "India\u2019s Annual Wind Power Installations to Double by 2030",
     "Argentina halts local dollar bond sales as yields surge",
-    "investingLive European news wrap: Markets consolidate after the US CPI shock"
+    "investingLive European news wrap: Markets consolidate after the US CPI shock",
+    "How much is the minimum wage?",
+    "6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge",
+    "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo",
+    "investingLive Americas market news wrap: Yields continue to fall even after hot ",
+    "D\u1ef1 b\u00e1o b\u1ea5t ng\u1edd v\u1ec1 l\u1ee3i nhu\u1eadn nh\u00f3m ch\u1ee9ng kho\u00e1n, d\u1ea7u kh\u00ed, ph\u00e2n b\u00f3n trong n\u0103m 2027",
+    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance"
   ]
 }
