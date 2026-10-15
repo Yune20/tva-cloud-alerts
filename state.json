@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792032351.5926073,
-  "last_bot4": 1792041621.6818814,
+  "last_bot4": 1792042598.3360658,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792041621.6817622
+    "Gold": 1792042598.3359606
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792042224.7411103,
+  "last_signals": 1792042598.3367958,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -92,7 +92,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792042225.2673566
+    "Bitcoin|1D:bot": 1792042599.3310096
   },
-  "last_analysis": 1792042217.6184769,
-  "last_news": 1792042224.7401602,
+  "last_analysis": 1792042586.87348,
+  "last_news": 1792042595.284765,
   "seen_news": [
-    "OpenAI sued by 8 states over ChatGPT safety concerns",
-    "BA flight forced to turn back over cracked window",
-    "Russia stocks lower at close of trade; MOEX Russia Index down 0.30%",
-    "Oil: Private survey of inventory shows a huge headline crude oil draw",
-    "Khoan th\u0103m d\u00f2 xu\u1ed1ng \u0111\u00e1y bi\u1ec3n, ph\u00e1t hi\u1ec7n m\u1ecf d\u1ea7u kh\u00ed c\u00f3 th\u1ec3 khai th\u00e1c t\u1edbi 50 tri\u1ec7u",
-    "CTCP HHP Global - VietstockFinance",
     "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
     "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026\u20132027 WORLD ",
     "Huy \u0111\u1ed9ng h\u01a1n 30.000 ng\u01b0\u1eddi x\u00e2y si\u00eau s\u00e2n bay 275.000 t\u1ef7 \u0111\u1ed3ng, r\u1ed9ng g\u1ea5p 14 l\u1ea7n N\u1ed9i ",
@@ -461,6 +455,12 @@
     "Chart of the day: Gold rebounds as dollar and yields fall, but $4,200 remains a ",
     "Nh\u00e3 Ph\u01b0\u01a1ng b\u1eadt kh\u00f3c gi\u1eefa ch\u1eebng t\u1ea1i s\u1ef1 ki\u1ec7n",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad"
+    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
+    "V\u00ec sao c\u00f3 h\u01a1n 200 con m\u00e8o \u0111i l\u1ea1i t\u1ef1 do trong T\u1eed C\u1ea5m Th\u00e0nh?",
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
+    "Key facts: Court Voids Volkswagen AG Pref Pact; 120 Dealers Affected - TradingVi",
+    "Trump's diesel dilemma \u2014 by the numbers",
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Canadian dollar gains as U.S. dollar retreats from 18-month high"
   ]
 }
