@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1792087045.189663,
-  "last_bot4": 1792097400.5324833,
+  "last_news_report": 1792098041.474278,
+  "last_bot4": 1792098043.9601593,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792096646.9376369
+    "Gold": 1792098043.9600563
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792097400.5332258,
+  "last_signals": 1792098043.9608672,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -84,14 +84,14 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -138,16 +138,16 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792097400.9241223,
+    "USOIL|4H:top": 1792098044.2902398,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792097401.3875077,
+    "Ethereum|1D:bot": 1792098044.7075732,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792097401.5456686,
-    "GBP/USD|4H:top": 1792092153.4399946,
+    "US30|1D:top": 1792098044.85508,
+    "GBP/USD|4H:top": 1792098045.068864,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792097401.0974572
+    "Bitcoin|1D:bot": 1792098044.475191
   },
-  "last_analysis": 1792097707.076704,
-  "last_news": 1792097400.5314956,
+  "last_analysis": 1792098029.1454902,
+  "last_news": 1792098036.6094956,
   "seen_news": [
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
-    "Weyerhaeuser upgraded at Bank of America on timberland assets - TradingView",
-    "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the ",
-    "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-    "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
-    "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
     "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
     "The problem with 'good debt': Why borrowers should think twice about the label",
     "Job cuts could fund diesel price drop says deputy",
@@ -461,6 +455,12 @@
     "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
     "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety pra",
     "Would you buy branded clothing from your favourite tech firm?",
-    "Why is JB Hunt Transport stock sliding today?"
+    "Why is JB Hunt Transport stock sliding today?",
+    "What are the main events for today?",
+    "V\u1eeba r\u00f3t 1.300 t\u1ef7 v\u00e0o ch\u1ee7 Kem Tr\u00e0ng Ti\u1ec1n, l\u1ea1i mu\u1ed1n chi 540 t\u1ef7 mua T\u00e0i ch\u00ednh \u0110i\u1ec7n ",
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "Shiba Inu Forms First 4-Hour Death Cross Setup in October: Potential Scenarios -",
+    "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+    "'I'd spend $1,000 on a wedding present'"
   ]
 }
