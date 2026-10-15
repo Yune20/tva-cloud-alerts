@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792096363.3001542,
+  "last_signals": 1792096969.983802,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -138,15 +138,15 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792096363.6256409,
+    "USOIL|4H:top": 1792096970.9313118,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792096363.9786553,
+    "Ethereum|1D:bot": 1792096971.8767536,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792096364.123226,
+    "US30|1D:top": 1792096972.2797334,
     "GBP/USD|4H:top": 1792092153.4399946,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792096363.7931037
+    "Bitcoin|1D:bot": 1792096971.431574
   },
-  "last_analysis": 1792096355.747796,
-  "last_news": 1792096363.299202,
+  "last_analysis": 1792096958.0681148,
+  "last_news": 1792096969.9827566,
   "seen_news": [
-    "'It's rough out here': Americans struggle with rising inflation",
-    "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
-    "StoneX cuts Spotify to Hold on margin pressure, label costs",
-    "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
-    "1 ng\u00e0y \u1edf vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o 5 sao \u0111\u1ea7u ti\u00ean t\u1ea1i H\u00e0 N\u1ed9i \u0111\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 800 t\u1ef7 \u0111\u1ed3ng: S\u00e1ng ",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
     "What are the main events for today?",
     "L\u1ed9 trang b\u1ecb 2 b\u1ea3n Volkswagen Tiguan 2026 t\u1ea1i Vi\u1ec7t Nam: Gi\u00e1 d\u1ef1 ki\u1ebfn ti\u1ec7m c\u1eadn CR-V",
     "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
@@ -461,6 +455,12 @@
     "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
     "6 m\u00f3n \u0111\u1ed3 tr\u00ean m\u1ea1ng nh\u00ecn sang ng\u00fat tr\u1eddi, r\u01b0\u1edbc v\u1ec1 nh\u00e0 m\u1edbi bi\u1ebft l\u00e0 \"c\u1ee5c n\u1ee3\"",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
-    "Fortune Brands to sell Fiberon composite decking business to Inteplast Group - T"
+    "Fortune Brands to sell Fiberon composite decking business to Inteplast Group - T",
+    "Big pharma stocks close near all-time highs as tech selloff pushes investors tow",
+    "Porsche reveals Mission S concept car that previews new design identity",
+    "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
+    "Canada August building permits rise 8.8% vs 2.0% expected",
+    "Ph\u00e1t hi\u1ec7n m\u1ed9t c\u1ea7n c\u1ea9u h\u1ea1ng n\u1eb7ng \u0111\u01b0\u1ee3c h\u1ed9 t\u1ed1ng b\u1eb1ng \u0111o\u00e0n 64 xe r\u01a1 mo\u00f3c: C\u00f3 kh\u1ea3 n\u0103n"
   ]
 }
