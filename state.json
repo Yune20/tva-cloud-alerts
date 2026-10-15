@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792036381.7599657,
+  "last_signals": 1792036990.335953,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,8 +79,8 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -102,7 +102,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792008451.2448804,
+    "USOIL|4H:top": 1792036990.675162,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792033275.200247,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792035775.578567
+    "Bitcoin|1D:bot": 1792036991.1129606
   },
-  "last_analysis": 1792036373.7040777,
-  "last_news": 1792036381.7591517,
+  "last_analysis": 1792036983.2113473,
+  "last_news": 1792036990.3350136,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
-    "Calviks AB (publ) (CALVIK) Cleared to Acquire 70% of Subshore - TradingView",
-    "Tech giants race to get AI gadgets on shelves for holiday rush",
-    "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
-    "Explainer-What is Starshield,\u00a0SpaceX\u2019s military version of Starlink?",
-    "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate ",
     "Ukraine warns Starlink limits are disrupting military operations as Russia pound",
     "Civil servant faked illness with make-up to juggle five jobs, court hears",
     "Q3 earnings strategy: where expectations look low and where beats are priced in",
@@ -461,6 +455,12 @@
     "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
     "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
     "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "Why is Netwealth stock sliding today?"
+    "Why is Netwealth stock sliding today?",
+    "Why Is KORU Plunging More Than 18% Overnight? - TradingView",
+    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
+    "'It's rough out here': Americans struggle with rising inflation",
+    "UBS considers leaving Switzerland over capital rule plans, WSJ reports",
+    "investingLive European news wrap: Markets trim gains as oil prices rise ahead of",
+    "Doanh nghi\u1ec7p n\u00e0o h\u01b0\u1edfng l\u1ee3i khi d\u00f2ng v\u1ed1n ng\u00e0y c\u00e0ng ch\u1ecdn l\u1ecdc?"
   ]
 }
