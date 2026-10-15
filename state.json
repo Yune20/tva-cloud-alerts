@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792087045.189663,
-  "last_bot4": 1792092457.342708,
+  "last_bot4": 1792093291.7256505,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792092753.9670224,
+  "last_signals": 1792093291.7265494,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -95,8 +95,8 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|4H": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792092754.741958,
+    "Ethereum|1D:bot": 1792093293.1502142,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792092754.5292704
+    "Bitcoin|1D:bot": 1792093292.8052588
   },
   "last_analysis": 1792093057.19122,
-  "last_news": 1792092753.9661055,
+  "last_news": 1792093291.7245286,
   "seen_news": [
-    "XSMB 15/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 15/10/2026",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
-    "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here\u2019s where",
-    "How lower fuel economy targets could boost pickups and V-8 engines",
-    "AI giant Anthropic woos potential investors ahead of stock market debut",
     "Aquestive announces FDA review of Anaphylm sublingual film - TradingView",
     "You can take it with you: Five tax tips before selling your business",
     "Drop-off charges at UK airports to be reviewed after sharp increase",
@@ -461,6 +455,12 @@
     "X-planes: Are they needed in the new era of drones?",
     "Ukraine Strikes Major Russian Oil Refinery",
     "Nasdaq cuts losses of over 1% as U.S. bond rally offsets tech softness, hot PPI",
-    "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%"
+    "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%",
+    "investingLive Americas market news wrap: Hot CPI upends markets",
+    "So g\u0103ng 2 'chi\u1ebfn th\u1ea7n' ch\u00e2u \u00c2u \u0111\u01b0\u1ee3c t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng v\u00e0 Tr\u1ea7n \u0110\u00ecnh Long ch\u1ecd",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "Elopak ASA (ELO) Trades Ex-Dividend of \u20ac0.065 - TradingView",
+    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "Spain battles climate change on several fronts"
   ]
 }
