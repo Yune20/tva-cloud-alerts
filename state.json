@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792050042.8681893,
+  "last_signals": 1792050662.3757868,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -85,7 +85,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792050043.7095883
+    "Bitcoin|1D:bot": 1792050663.1639526
   },
-  "last_analysis": 1792050033.7504327,
-  "last_news": 1792050042.8673558,
+  "last_analysis": 1792050652.8646498,
+  "last_news": 1792050662.3749099,
   "seen_news": [
-    "TSMC expected to report sixth straight quarter of record profit thanks to AI boo",
-    "ICYMI: Citi now expects a December Fed rate hike after hotter September US infla",
-    "L\u1eddi khuy\u00ean cho 3 con gi\u00e1p \u0111\u01b0\u1ee3c Th\u1ea7n t\u00e0i \u01b0u \u00e1i nh\u1ea5t trong n\u0103m \u0110inh M\u00f9i 2027",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "Let the doves sing - TradingView",
-    "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
     "Thanh to\u00e1n s\u1ed1 kh\u00f4ng ch\u1ec9 chuy\u1ec3n ti\u1ec1n nhanh m\u00e0 c\u00f2n ph\u1ea3i qu\u1ea3n tr\u1ecb t\u1ed1t",
     "CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - VietstockFinance",
     "Latest Financial and Investing News from TradingView - TradingView",
@@ -461,6 +455,12 @@
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Lelantos Holdings Announces Cancellation of 60 Million ESOP Shares - TradingView",
     "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
-    "Rainmakers: The drones used to seed clouds"
+    "Rainmakers: The drones used to seed clouds",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Key facts: Morgan Stanley 20.34B rev/4.9B net; 10.5T assets; 232B inflows - Trad",
+    "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "How backlash against data centres could shape the US midterm elections",
+    "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
+    "Euro bonds reclaim safe-haven status as equities falter on AI debt"
   ]
 }
