@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792039424.7170494,
+  "last_signals": 1792040035.5762148,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -141,7 +141,7 @@
     "USOIL|4H:top": 1792039425.0574186,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792039425.2343733,
+    "Bitcoin|4H:bot": 1792040036.4998553,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792009051.997509,
     "DXY|1D:top": 1792021669.0601008,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792039425.2343962
+    "Bitcoin|1D:bot": 1792040036.4998722
   },
-  "last_analysis": 1792039414.9047532,
-  "last_news": 1792039424.7161624,
+  "last_analysis": 1792040026.2155132,
+  "last_news": 1792040035.5754323,
   "seen_news": [
-    "Macquarie maintains Outperform rating on Fermi, $15 price target - TradingView",
-    "CoreWeave sparks worry about broader credit-market stress as its bonds tumble",
-    "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before ",
-    "Fridges in French supermarkets hit by cyber attack",
-    "Inside the booming market for US midterm election bets",
-    "US stocks sink as AI and chips tumble",
     "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enter",
     "How the oil capital of the US welcomed a solar power boom",
     "New ASX boss wants to accelerate move to one-day settlement in Australia",
@@ -461,6 +455,12 @@
     "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
     "What are the main events for today?",
     "S\u00e1ng ch\u1ebf l\u00e0m rung chuy\u1ec3n ng\u00e0nh v\u1eadt li\u1ec7u: Kim lo\u1ea1i ch\u1ecbu nhi\u1ec7t -253 \u0111\u1ed9 C kh\u00f4ng gi\u00f2",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi"
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC | VietstockFi",
+    "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms\u00a0on intervention warnin",
+    "US stocks might have a bigger problem than just hotter inflation",
+    "3 con gi\u00e1p nh\u1eadn tin vui trong ng\u00e0y th\u1ee9 N\u0103m, 15/10/2026",
+    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank | VietstockFinance - VietstockFinance",
+    "Weyerhaeuser upgraded at Bank of America on timberland assets - TradingView",
+    "China's exports and imports surge past expectations in September"
   ]
 }
