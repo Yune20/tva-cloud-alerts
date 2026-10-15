@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792066049.6545997,
+  "last_signals": 1792066597.6806655,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -94,9 +94,9 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792065447.6564107
+    "Bitcoin|1D:bot": 1792066598.4929416
   },
-  "last_analysis": 1792065749.9816847,
-  "last_news": 1792066049.4078355,
+  "last_analysis": 1792066589.8624334,
+  "last_news": 1792066597.6797478,
   "seen_news": [
-    "Why Is KORU Plunging More Than 18% Overnight? - TradingView",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
-    "'It's rough out here': Americans struggle with rising inflation",
-    "UBS considers leaving Switzerland over capital rule plans, WSJ reports",
-    "investingLive European news wrap: Markets trim gains as oil prices rise ahead of",
-    "Doanh nghi\u1ec7p n\u00e0o h\u01b0\u1edfng l\u1ee3i khi d\u00f2ng v\u1ed1n ng\u00e0y c\u00e0ng ch\u1ecdn l\u1ecdc?",
     "Job cuts could fund diesel price drop says deputy",
     "Japan, U.S. reach first chip deal under $550 bln investment plan",
     "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate ",
@@ -461,6 +455,12 @@
     "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
     "CoreWeave shares, bonds slide further as AI debt fears mount",
     "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
-    "Vinhomes - SGC \u0111\u1ea7u t\u01b0 h\u01a1n 900.000 t\u1ef7 \u0111\u1ed3ng x\u00e2y d\u1ef1ng 5 tuy\u1ebfn Metro H\u00e0 N\u1ed9i theo h\u00ecn"
+    "Vinhomes - SGC \u0111\u1ea7u t\u01b0 h\u01a1n 900.000 t\u1ef7 \u0111\u1ed3ng x\u00e2y d\u1ef1ng 5 tuy\u1ebfn Metro H\u00e0 N\u1ed9i theo h\u00ecn",
+    "Why is FMC stock collapsing today?",
+    "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+    "Th\u1ea5y g\u00ec v\u1ec1 th\u01b0\u01a1ng v\u1ee5 t\u0103ng v\u1ed1n tr\u0103m ngh\u00ecn t\u1ef7 c\u1ee7a c\u00e1c ng\u00e2n h\u00e0ng?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further? - TradingView",
+    "There\u2019s a \u2018monstrous bull market\u2019 developing under the surface of the S&P 500. T"
   ]
 }
