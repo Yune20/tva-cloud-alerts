@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792051274.1376743,
+  "last_signals": 1792051898.6741385,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,7 +83,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792051274.7853384
+    "Bitcoin|1D:bot": 1792051899.845036
   },
-  "last_analysis": 1792051265.9878032,
-  "last_news": 1792051274.1369233,
+  "last_analysis": 1792051889.6146777,
+  "last_news": 1792051898.6729612,
   "seen_news": [
-    "Two Major Events That Could Impact the Stock Market Today - TradingView",
-    "Treasury says largest U.S. banks let politics influence who received banking ser",
-    "The AI telling farmers when to harvest",
-    "Vanda Pharmaceuticals stock falls after anxiety drug trial fails",
-    "TSMC set for sixth straight record profit as AI demand lifts Q3 earnings",
-    "T\u00e2y Ninh x\u00e2y d\u1ef1ng \u0111\u1ec1 \u00e1n 'n\u00e2ng c\u1ea5p' l\u00ean th\u00e0nh ph\u1ed1 tr\u1ef1c thu\u1ed9c Trung \u01b0\u01a1ng",
     "Bending Spoons skyrockets 41% as Berkshire Hathaway makes $330 million investmen",
     "The start-ups hoping to return battery making to the US",
     "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
@@ -461,6 +455,12 @@
     "Key facts: Entain PLC (ENT) Q3 NGR +2% cc; 20% Entain CEE sale on track Q4 2026 ",
     "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
     "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly access",
-    "Why Gen Z are planning for life without a state pension"
+    "Why Gen Z are planning for life without a state pension",
+    "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate",
+    "Why is THG stock surging today?",
+    "Gold whipsaws after US CPI as data falls short of bringing an October rate hike ",
+    "T\u00e0i x\u1ebf kh\u00f4ng b\u1eb1ng l\u00e1i ch\u1ea1y xe m\u00e1y 79 km/h, b\u1ecb ph\u1ea1t 10 tri\u1ec7u \u0111\u1ed3ng",
+    "CTCP Ch\u1ee9ng kho\u00e1n VPS - VietstockFinance",
+    "Enovix surges on 100K-unit drone battery order - TradingView"
   ]
 }
