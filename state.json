@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792040654.1964698,
+  "last_signals": 1792041254.4794803,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -83,9 +83,9 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792040654.8811727
+    "Bitcoin|1D:bot": 1792041254.9611857
   },
-  "last_analysis": 1792040643.114546,
-  "last_news": 1792040654.1956406,
+  "last_analysis": 1792041246.958659,
+  "last_news": 1792041254.4784048,
   "seen_news": [
-    "Eight US states sue OpenAI, claiming ChatGPT harms young users",
-    "Barclays sees possible Tesla-SpaceX merger announcement before December",
-    "Geleximco c\u1ee7a \u00f4ng V\u0169 V\u0103n Ti\u1ec1n t\u1ea1m \u201cl\u1ed7\u201d h\u01a1n 1.500 t\u1ef7 sau g\u1ea7n m\u1ed9t n\u0103m chi 2.562 t\u1ef7",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad",
-    "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the ",
     "Trump's diesel dilemma \u2014 by the numbers",
     "Bank of America hit with $1.2bn fine for money laundering failings",
     "Trump Announces $80 Billion Taiwan LNG Deal",
@@ -461,6 +455,12 @@
     "Macquarie maintains Outperform rating on Fermi, $15 price target - TradingView",
     "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before ",
     "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears"
+    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
+    "Key facts: UnitedHealth Group Incorporated Raises 2026 EPS; Q3 Results - Trading",
+    "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enter",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New Y",
+    "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%",
+    "Khuy\u00ean th\u1eadt: Mu\u1ed1n gi\u1ea3m c\u00e2n nhanh, s\u00e1ng tranh th\u1ee7 b\u1ee5ng r\u1ed7ng \u0103n ngay 3 m\u00f3n!"
   ]
 }
