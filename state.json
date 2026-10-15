@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792041621.6824923,
+  "last_signals": 1792042224.7411103,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -82,7 +82,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792041622.571483
+    "Bitcoin|1D:bot": 1792042225.2673566
   },
-  "last_analysis": 1792041610.0573838,
-  "last_news": 1792041619.0301626,
+  "last_analysis": 1792042217.6184769,
+  "last_news": 1792042224.7401602,
   "seen_news": [
-    "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
-    "Canadian dollar gains as U.S. dollar retreats from 18-month high",
-    "Oil catch up - price gains as Houthis strike Aramco and Iran flags new tactics a",
-    "B\u1ea7u \u0110\u1ee9c 5 l\u1ea7n chi h\u01a1n 300 t\u1ef7 \u0111\u1ed3ng b\u1eaft \u0111\u00e1y c\u1ed5 phi\u1ebfu HAG sau tuy\u00ean b\u1ed1 \"n\u1ebfu l\u1ed7 c\u1ee9 k",
-    "CTCP T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
-    "Caterpillar sinks 30% from record high amid AI selloff, inflation fears - Tradin",
     "OpenAI sued by 8 states over ChatGPT safety concerns",
     "BA flight forced to turn back over cracked window",
     "Russia stocks lower at close of trade; MOEX Russia Index down 0.30%",
@@ -461,6 +455,12 @@
     "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
     "KOSPI hits near 3-month low as 8% plunge triggers circuit breaker",
     "Canada August building permits rise 8.8% vs 2.0% expected",
-    "H\u01b0\u01a1ng Giang - Ph\u00fa C\u01b0\u1eddng n\u00e9 tr\u00e1nh, kh\u00f4ng mu\u1ed1n \u0111\u1ee5ng m\u1eb7t nhau?"
+    "H\u01b0\u01a1ng Giang - Ph\u00fa C\u01b0\u1eddng n\u00e9 tr\u00e1nh, kh\u00f4ng mu\u1ed1n \u0111\u1ee5ng m\u1eb7t nhau?",
+    "Trump Announces $80 Billion Taiwan LNG Deal",
+    "U.S.  debt finds breathing room, countering energy spike",
+    "Chart of the day: Gold rebounds as dollar and yields fall, but $4,200 remains a ",
+    "Nh\u00e3 Ph\u01b0\u01a1ng b\u1eadt kh\u00f3c gi\u1eefa ch\u1eebng t\u1ea1i s\u1ef1 ki\u1ec7n",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "GS: Goldman Sachs Beats Estimates as Fellow Banking Giant JPMorgan Misses - Trad"
   ]
 }
