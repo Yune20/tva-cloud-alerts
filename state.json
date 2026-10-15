@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792062466.4984474,
+  "last_signals": 1792063049.0322664,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
@@ -147,7 +147,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
-    "GBP/USD|4H:top": 1792062467.787016,
+    "GBP/USD|4H:top": 1792063050.6901836,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792022817.196897,
     "JPY Index|4H:bot": 1792022817.59915,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792061822.1681004
+    "Bitcoin|1D:bot": 1792063049.8539753
   },
   "last_analysis": 1792062772.2426798,
-  "last_news": 1792062463.8226469,
+  "last_news": 1792063049.0315633,
   "seen_news": [
-    "Anthropic flags revenue surge to investors ahead of stock market debut",
-    "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports",
-    "US September CPI 3.7% vs 3.6% expected",
-    "L\u1eddi khuy\u00ean cho ng\u01b0\u1eddi \u0111i xe m\u00f9a tri\u1ec1u c\u01b0\u1eddng, l\u1ee5t l\u1ed9i",
-    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
-    "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
     "RBNZ\u2019s Conway says October rate decision completely open, OCR more likely to ris",
     "\u0110\u1ee9c s\u1eafp \u00e1p thu\u1ebf n\u0103ng l\u01b0\u1ee3ng m\u1edbi l\u00ean ng\u01b0\u1eddi ti\u00eau d\u00f9ng",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
@@ -461,6 +455,12 @@
     "Can Primo Brands' Purified Water Sales Accelerate Further? - TradingView",
     "TSMC\u2019s CEO sees no sign of a slowdown as chip foundry reports record profit",
     "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'autom",
-    "Netflix to shed 1,000 jobs in steepest cuts since 2022"
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "Why is Penske Automotive stock surging 8% today?",
+    "ECB\u2019s Santos Pereira says euro zone inflation is not spreading beyond energy",
+    "\u0110\u1eebng ai d\u1ea1i c\u1eafm chung 4 thi\u1ebft b\u1ecb n\u00e0y v\u00e0o 1 \u1ed5 \u0111i\u1ec7n k\u1ebbo r\u01b0\u1edbc h\u1ecda v\u00e0o th\u00e2n",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "ZAWYA: IATA, World Sustainable Hospitality Alliance join forces on travel sustai",
+    "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC"
   ]
 }
