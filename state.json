@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792083766.207807,
+  "last_signals": 1792084364.9441366,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -95,7 +95,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -143,7 +143,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792083767.8245094,
+    "Ethereum|1D:bot": 1792084365.6749003,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1791984465.8056688,
@@ -157,17 +157,11 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792029595.566527,
-    "Bitcoin|1D:bot": 1792083767.0866528
+    "Bitcoin|1D:bot": 1792084365.4594603
   },
-  "last_analysis": 1792083758.2899287,
-  "last_news": 1792083766.206967,
+  "last_analysis": 1792084357.4178512,
+  "last_news": 1792084364.9431958,
   "seen_news": [
-    "\u2018New Girl\u2019 star Jake Johnson lists lush and private Pasadena estate for $3.3 mil",
-    "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality",
-    "The AI telling farmers when to harvest",
-    "Big Tech Pushes Back Against Paying for America's Aging Power Grid",
-    "IMF projects slower Asian growth amid rising global yields",
-    "US inflation worries aren't over yet as PPI and retail sales pose fresh risks fo",
     "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
     "Teako Minerals Corp. (TMIN) Refocuses Norway Portfolio, Plans Drilling - Trading",
     "Why the AI trade is not set up for a rebound like July\u2019s, according to JPMorgan",
@@ -461,6 +455,12 @@
     "US yields jump as hot consumer inflation boosts rate hike bets - TradingView",
     "Nvidia and other chip stocks face renewed pressure as AI fears swell",
     "Apple and Meta team up to make Muse AI model run on Mac computers",
-    "'I paid thousands to a company for jobs that never came'"
+    "'I paid thousands to a company for jobs that never came'",
+    "Brazilian Real Retreats Amid Political Risks - TradingView",
+    "Did this year\u2019s COLA beat inflation? Here\u2019s how spending by American seniors sta",
+    "We're trimming a rallying defensive stock and buying other on a muted earnings m",
+    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
+    "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
+    "Stellantis tests diesel-hybrid powertrain for commercial vans"
   ]
 }
