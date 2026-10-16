@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792108788.5912805,
+  "last_signals": 1792109394.5471332,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792108789.5278141,
+    "US30|1D:top": 1792109395.392274,
     "GBP/USD|4H:top": 1792098680.7875803,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792108781.1572156,
-  "last_news": 1792108788.5895872,
+  "last_analysis": 1792109387.2896073,
+  "last_news": 1792109394.545794,
   "seen_news": [
-    "CTCP HHP Global - VietstockFinance",
-    "Two Major Events That Could Impact the Stock Market Today - TradingView",
-    "International Energy Agency to release more than 20 million barrels of diesel as",
-    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-    "European equities rise as easing yields counter tech rout",
-    "Dow Jones today is showing relative strength",
     "Gold whipsaws after US CPI as data falls short of bringing an October rate hike ",
     "Ph\u00e1t hi\u1ec7n l\u00ednh c\u1ee9u h\u1ecfa l\u01b0\u01a1ng 41 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng s\u1edf h\u1eefu h\u01a1n 30 B\u0110S, ki\u1ebfm h\u01a1n 64 ",
     "CTCP Ch\u1ee9ng kho\u00e1n VPS - VietstockFinance",
@@ -461,6 +455,12 @@
     "How backlash against data centres could shape the US midterm elections",
     "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
     "KFC picks Coca-Cola as US soda supplier, ditches longtime partner PepsiCo",
-    "Nvidia has gapped to the downside and tested a key technical target area.  What "
+    "Nvidia has gapped to the downside and tested a key technical target area.  What ",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
+    "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+    "Nike\u2019s problem is demand, not tariffs: what Moody\u2019s warning really signals",
+    "9 nh\u00e0 gi\u00e1o \u0111\u01b0\u1ee3c \u0111\u1ec1 ngh\u1ecb x\u00e9t t\u1eb7ng B\u1eb1ng khen Nh\u00e0 gi\u00e1o ti\u00eau bi\u1ec3u n\u0103m 2026",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance"
   ]
 }
