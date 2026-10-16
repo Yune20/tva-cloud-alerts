@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792128912.5318992,
+  "last_signals": 1792129524.6019256,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,12 +79,12 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792128913.6862817,
+    "US30|1D:top": 1792129525.4232945,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792128914.1173346,
+    "EUR/USD|4H:top": 1792129525.7373335,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792128904.4419653,
-  "last_news": 1792128912.5311332,
+  "last_analysis": 1792129517.1215322,
+  "last_news": 1792129524.6009705,
   "seen_news": [
-    "Fed's Hammack questions whether Fed policy is tight enough as inflation risks bu",
-    "Do\u00e3n Qu\u1ed1c \u0110am nh\u1eadn sai, xin l\u1ed7i b\u1ea1n di\u1ec5n v\u00ec c\u1ea3nh quay ngo\u00e0i k\u1ecbch b\u1ea3n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
-    "Walmart Stock Moves Higher: What's Happening? - TradingView",
-    "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
     "Cohere moves to buy AI cybersecurity\u00a0startup Aisle",
     "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
     "\u0110\u00fang 3 ng\u00e0y n\u1eefa - 18/10, d\u1ecbch v\u1ee5 n\u00e0y mi\u1ec5n ph\u00ed cho to\u00e0n b\u1ed9 ng\u01b0\u1eddi d\u00e2n Vi\u1ec7t Nam",
@@ -461,6 +455,12 @@
     "Th\u1ee7 t\u1ee5c mua l\u1ea1i nh\u00e0 \u1edf x\u00e3 h\u1ed9i trong th\u1eddi h\u1ea1n 5 n\u0103m",
     "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
     "Silver Finds Support on Haven Demand - TradingView",
-    "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove"
+    "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+    "Nga th\u1ea7n t\u1ed1c \u0111\u00f3ng ph\u00e1o \u0111\u00e0i bi\u1ec3n s\u00e2u tr\u1ecdng t\u1ea3i 14.210 t\u1ea5n: \u0110\u01b0a '14 t\u1ef7 r\u00fap' ra kh\u01a1",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
+    "Goodtech ASA (GOD) Trades Ex-Dividend NOK 2.00 Today - TradingView",
+    "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety pra",
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets"
   ]
 }
