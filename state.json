@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792174908.0655344,
-  "last_bot4": 1792177122.8955972,
+  "last_bot4": 1792177857.9396522,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792176515.7782142
+    "Gold": 1792177857.9395525
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792177498.4189339,
+  "last_signals": 1792177857.940458,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -87,7 +87,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
@@ -143,7 +143,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792177500.3294103,
+    "US30|1D:top": 1792177859.0500245,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,15 +157,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792177490.016873,
-  "last_news": 1792177498.418176,
+  "last_analysis": 1792177847.19279,
+  "last_news": 1792177855.4226787,
   "seen_news": [
-    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
-    "Fed's Warsh withholds rate signal, praises recent global tightening",
-    "AI giant Anthropic woos potential investors ahead of stock market debut",
-    "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
-    "Argentina halts local dollar bond sales as yields surge",
-    "Bailey says UK second-round inflation effects subdued so far, too early to judge",
     "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions",
     "How much is the minimum wage?",
     "IEA Speeds Emergency Oil Release",
@@ -459,6 +453,12 @@
     "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negot",
     "Ph\u00e1t hi\u1ec7n 2 t\u00e0u kh\u1ed5ng l\u1ed3 7500 t\u1ea5n do Vi\u1ec7t Nam t\u1ef1 \u0111\u00f3ng, \u0111\u01b0a robot xu\u1ed1ng \u0111\u1ed9 s\u00e2u 4.",
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp | VietstockFinance - Vietst",
-    "Wall Street trades mixed as investors digest PPI inflation data - TradingView"
+    "Wall Street trades mixed as investors digest PPI inflation data - TradingView",
+    "Oil prices surge higher into the weekend",
+    "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK ng\u00e0y 17/10: Xu\u1ea5t hi\u1ec7n kho\u1ea3n l\u1ed7 tr\u0103m t\u1ef7 \u0111\u1ea7u ti\u00ean c\u1ee7a ng\u00e0nh ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "ARK Invest says Bitcoin ETF holders are back in the green - TradingView",
+    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil",
+    "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis"
   ]
 }
