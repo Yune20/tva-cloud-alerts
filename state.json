@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792192934.0899758,
+  "last_signals": 1792193538.6857035,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "Ethereum:range_in": 1791620150.9742491,
@@ -75,7 +75,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -137,7 +137,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792192934.938828,
+    "US30|1D:top": 1792193540.2572608,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -151,15 +151,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792192926.4089084,
-  "last_news": 1792192934.0890663,
+  "last_analysis": 1792193530.2008085,
+  "last_news": 1792193538.684662,
   "seen_news": [
-    "Pangolin to Launch Roadmap - TradingView",
-    "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid h",
-    "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
-    "How backlash against data centres could shape the US midterm elections",
-    "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
-    "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.25%",
     "Moderna rallies despite bearish views ahead of cancer vaccine data - TradingView",
     "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks",
     "US inflation rises more than expected - here's what is happening with prices",
@@ -453,6 +447,12 @@
     "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for T",
     "Huy \u0111\u1ed9ng h\u01a1n 28.000 m\u00b3 b\u00ea t\u00f4ng x\u00e2y c\u1ea7u v\u00f2m ph\u00e1 k\u1ef7 l\u1ee5c th\u1ebf gi\u1edbi: D\u00e0i g\u1ea7n b\u1eb1ng c\u1ea7u",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
-    "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target "
+    "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target ",
+    "US August business inventories +0.4% vs +0.4% expected",
+    "T\u1eed vi tu\u1ea7n m\u1edbi (19/10-25/10): Top 4 con gi\u00e1p \u0111\u01b0\u1ee3c Th\u1ea7n T\u00e0i \u01b0u \u00e1i nh\u1ea5t, c\u00f4ng vi\u1ec7c",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "IT leads Indian shares higher; hot US inflation caps gains - TradingView",
+    "Trump says he won't use nuclear weapons or send ground troops to Iran",
+    "Thousands of NI workers to get pay bump as Real Living Wage rises"
   ]
 }
