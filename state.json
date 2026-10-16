@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792141526.2181427,
+  "last_signals": 1792142146.7044845,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -80,7 +80,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -93,7 +93,7 @@
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": true,
+    "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792141527.1805885,
+    "US30|1D:top": 1792142147.7963467,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792141516.2904582,
-  "last_news": 1792141526.2172785,
+  "last_analysis": 1792142134.2710035,
+  "last_news": 1792142146.7035248,
   "seen_news": [
-    "Sterling today: Pound rises as UK growth beats forecasts, dollar retreats",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6947 \u2013 Reuters estimate",
-    "Haxaco tr\u00ecnh c\u1ed5 \u0111\u00f4ng k\u1ebf ho\u1ea1ch mua l\u1ea1i 4,5 tri\u1ec7u c\u1ed5 phi\u1ebfu",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
-    "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Trad",
-    "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality",
     "India curbs gold ETF buying before Diwali, removing a seasonal prop for gold dem",
     "Chi\u1ebfc c\u1eb7p kh\u1ed5ng l\u1ed3 g\u00e2y ch\u00fa \u00fd t\u1ea1i Tu\u1ea7n l\u1ec5 Th\u1eddi trang New York",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -462,6 +456,12 @@
     "Somnigroup to Report Third Quarter 2026 Financial Results - TradingView",
     "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong ",
     "Banks expect to be hit with higher taxes in Budget",
-    "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive"
+    "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
+    "REG - Brooks Macdonald Grp - Director/PDMR Shareholding - TradingView",
+    "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+    "SpaceX policy manager set to testify as part of NYC Council AI safety investigat",
+    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
+    "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
+    "Chart of the day: 10-year Treasury yields hit reverse this week but the real tes"
   ]
 }
