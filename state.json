@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792157936.8352716,
+  "last_signals": 1792158465.4686878,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792157937.2700224,
+    "USOIL|4H:top": 1792158466.0417109,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792157923.872315,
-  "last_news": 1792157934.258405,
+  "last_analysis": 1792158454.5403996,
+  "last_news": 1792158465.4678533,
   "seen_news": [
-    "Malaysia Q3 GDP grows 5.3%, slows from Q2",
-    "US October Philly Fed business index +20.9 vs +28.4 expected",
-    "Th\u1ee7 t\u1ee5c mua l\u1ea1i nh\u00e0 \u1edf x\u00e3 h\u1ed9i trong th\u1eddi h\u1ea1n 5 n\u0103m",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
-    "Silver Finds Support on Haven Demand - TradingView",
-    "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
     "Nga th\u1ea7n t\u1ed1c \u0111\u00f3ng ph\u00e1o \u0111\u00e0i bi\u1ec3n s\u00e2u tr\u1ecdng t\u1ea3i 14.210 t\u1ea5n: \u0110\u01b0a '14 t\u1ef7 r\u00fap' ra kh\u01a1",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
     "Goodtech ASA (GOD) Trades Ex-Dividend NOK 2.00 Today - TradingView",
@@ -462,6 +456,12 @@
     "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
     "CPI, mortgage rates, rate hike bets are all on the rise - TradingView",
     "The problem with 'good debt': Why borrowers should think twice about the label",
-    "Spain battles climate change on several fronts"
+    "Spain battles climate change on several fronts",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Form 8.3 - The Vanguard Group, Inc.: DCC plc - TradingView",
+    "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger specul",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Why is Skyworks Solutions stock climbing today?",
+    "How have interest rate expectations changed after this week's events?"
   ]
 }
