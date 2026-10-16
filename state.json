@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792132946.2165678,
+  "last_signals": 1792133550.1122322,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -98,13 +98,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792133816,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792132947.0006337,
+    "US30|1D:top": 1792133550.8232071,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792132938.3384495,
-  "last_news": 1792132946.2156458,
+  "last_analysis": 1792133542.7860534,
+  "last_news": 1792133550.1113844,
   "seen_news": [
-    "Si\u00eau d\u1ef1 \u00e1n sinh th\u00e1i 16.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a Ecopark t\u1ea1i t\u1ec9nh s\u00e1t v\u00e1ch H\u00e0 N\u1ed9i c\u00f3 chuy",
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities | VietstockFinance - Vietst",
-    "Cattle Face Midweek Weakness, as Traders Look to Thursday - TradingView",
-    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
-    "Thousands of NI workers to get pay bump as Real Living Wage rises",
-    "The Diesel Crunch Will Persist Well into 2027",
     "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re tu",
     "A lot changed in stock market in just a few months. The single biggest risk did ",
     "My hometown shows that high streets have to change or die",
@@ -462,6 +456,12 @@
     "CPI: Hot Inflation at 3.7% Lifts Yields and Dollar as Gold and Bitcoin Nosedive ",
     "Southwest is overhauling its frequent flyer program. Here's what's changing",
     "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
-    "UBS sticks to buy-dollar-on-dips call. Here is why"
+    "UBS sticks to buy-dollar-on-dips call. Here is why",
+    "Why are more roofs not made of solar tiles?",
+    "Dolce & Gabbana beauty unit targets double-digit growth in 2026",
+    "US August business inventories +0.4% vs +0.4% expected",
+    "\u00d4ng B\u00f9i Thanh Nh\u00e2n gi\u1eef ch\u1ee9c Tr\u01b0\u1edfng Ban Tuy\u00ean gi\u00e1o Th\u00e0nh \u1ee7y TPHCM",
+    "VCK: CTCP Ch\u1ee9ng kho\u00e1n VPS - VPS | VietstockFinance - VietstockFinance",
+    "Bruton Limited (BRUT) \u2013 Agreement to Merge with International Seaways, Inc. - Tr"
   ]
 }
