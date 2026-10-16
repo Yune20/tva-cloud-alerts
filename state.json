@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792152934.3646865,
-  "last_bot4": 1792159534.202288,
+  "last_bot4": 1792160157.508069,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792158902.6758208
+    "Gold": 1792160157.5079544
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792159534.2029748,
+  "last_signals": 1792160157.5087972,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -82,7 +82,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -158,17 +158,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792132325.8961368
+    "DXY|4H:bot": 1792160159.3227234
   },
-  "last_analysis": 1792159833.1655967,
-  "last_news": 1792159534.201291,
+  "last_analysis": 1792160145.3926287,
+  "last_news": 1792160154.8465543,
   "seen_news": [
-    "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him ",
-    "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter",
-    "Banks say Healey planning to increase tax on their profits in Budget",
-    "Schneider Electric raises 2026 targets again on booming data centre demand",
-    "Fed's Hammack questions whether Fed policy is tight enough as inflation risks bu",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh \u0111ang nu\u00f4i ch\u00f3 trong nh\u00e0",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
     "Why Is Arcutis Biotherapeutics Stock Surging Thursday? - TradingView",
     "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -462,6 +456,12 @@
     "Influencers and biohackers swear by fasting. Here\u2019s what the science says.",
     "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton",
     "Bank of America hit with $1.2bn fine for money laundering failings",
-    "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure"
+    "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
+    "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+    "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ba",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets",
+    "Why is IREN stock sliding today?",
+    "US September industrial production +0.7% vs +0.4% expected"
   ]
 }
