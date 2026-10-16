@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792163857.0749536,
+  "last_news_report": 1792174908.0655344,
   "last_bot4": 1792174640.6844966,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792174365.0268261,
+  "last_signals": 1792174908.0665493,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -88,7 +88,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792174365.9537747,
+    "US30|1D:top": 1792174908.875694,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -158,15 +158,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792174356.7663713,
-  "last_news": 1792174365.0260513,
+  "last_analysis": 1792174894.7887123,
+  "last_news": 1792174902.1760633,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "India markets regulator partly reverses derivative settlement rules after pushba",
-    "Democrat Talarico says he raised record $64 million over summer in Texas Senate ",
-    "Wayfair among firms fined millions for misleading sales tactics",
-    "Turkey stock index drops over 3% after MSCI freezes changes",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6947 \u2013 Reuters estimate",
     "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatilit",
     "XSMT 16/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 16 th\u00e1ng 10",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
@@ -460,6 +454,12 @@
     "Economic calendar highlights for Monday include housing data",
     "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
     "Vi\u1ec7t Nam c\u00f3 1 \"cung \u0111i\u1ec7n Ph\u00e1p\" n\u1eb1m \u1edf \u0111\u1ed9 cao 1.600m, m\u00e1t m\u1ebb quanh n\u0103m: 5 n\u0103m li\u1ec1n",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance"
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "Gold shrugs off hot inflation data as market focus may be shifting to growth con",
+    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang L\u00e0o, Campuchia tr\u1ed3ng chu\u1ed1i quy m\u00f4 l\u1edbn: K\u00fd h\u1ee3p \u0111\u1ed3ng 1",
+    "PCB: Ng\u00e2n h\u00e0ng TMCP \u0110\u1ea1i ch\u00fang Vi\u1ec7t Nam - PVcomBank | VietstockFinance - Vietstoc",
+    "CRWV: CoreWeave Rebounds 6% as Nvidia\u2019s Jensen Huang Defends Its Finances - Trad",
+    "Welcome to the \u2018AI burnout trade\u2019 \u2014 as investors grow tired of debating tech\u2019s p",
+    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'"
   ]
 }
