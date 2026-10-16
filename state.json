@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792156988.326946,
+  "last_signals": 1792157580.091586,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,13 +76,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792156988.7326922,
+    "USOIL|4H:top": 1792157580.482536,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792156980.3131168,
-  "last_news": 1792156988.326157,
+  "last_analysis": 1792157561.1222785,
+  "last_news": 1792157580.0907857,
   "seen_news": [
-    "Would you buy branded clothing from your favourite tech firm?",
-    "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
-    "BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for ",
-    "\u0110\u1ebfn c\u0103n nh\u00e0 m\u1edbi ch\u1ed3ng s\u1eafp c\u01b0\u1edbi chu\u1ea9n b\u1ecb, t\u00f4i ch\u01b0a k\u1ecbp vui m\u1eebng th\u00ec l\u1eb7ng ng\u01b0\u1eddi b\u1edf",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
-    "PesoRama Inc. (PESO) Plans Five Store Openings in Mexico - TradingView",
     "Dow leads US stock rebound. Indices snatch victory from the jaws of defeat.",
     "M\u1ed9t ph\u01b0\u1eddng \u0111\u01b0\u1ee3c TP.HCM 'th\u01b0\u1edfng n\u00f3ng' c\u00f4ng tr\u00ecnh 200 t\u1ef7 \u0111\u1ed3ng",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
@@ -462,6 +456,12 @@
     "Wall Street futures mixed as tech stocks face pressure from AI jitters",
     "US September import price index +1.1% vs +0.8% expected",
     "Ch\u1ee7 t\u1ecbch Nesty t\u1eebng l\u00e0m c\u00f4ng nh\u00e2n 2 n\u0103m \u0111\u00e3 l\u00ean ch\u1ee9c Ph\u00f3 gi\u00e1m \u0111\u1ed1c, nay th\u01b0\u1eddng liv",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance"
+    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
+    "Iran War Set To Push PetroChina\u2019s Trading Profit to Record $3 Billion",
+    "IMF chief urges cooperation on AI and war risks, as US hails economic momentum",
+    "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
+    "Gi\u00e1 v\u00e0ng nh\u1eabn tr\u01a1n, v\u00e0ng mi\u1ebfng chi\u1ec1u t\u1ed1i 16/10 t\u1ea1i SJC, PNJ, DOJI, B\u1ea3o T\u00edn Minh ",
+    "Vietnam economic report - VietstockFinance",
+    "Equifax downgraded to Hold equivalent at Oppenheimer - TradingView"
   ]
 }
