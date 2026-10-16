@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792164447.455806,
+  "last_signals": 1792165052.3293114,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -98,13 +98,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792165444,
@@ -134,7 +134,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792164447.760774,
+    "Gold|4H:top": 1792165052.672684,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
@@ -158,17 +158,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792164449.8551836
+    "DXY|4H:bot": 1792165054.9985242
   },
   "last_analysis": 1792164757.0881183,
-  "last_news": 1792164447.4551818,
+  "last_news": 1792165052.3284562,
   "seen_news": [
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Dollar weakens after bond rally; euro extends rebound from 17-mth lows",
-    "AvaTrade Accelerates Global Growth with Acquisition of Forex Pioneer FXCM",
-    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra khi ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 c\u00e1c giao d\u1ecbch chuy\u1ec3n ti",
-    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
-    "Euro gets much-needed reprieve as AI wobbles rock the dollar - TradingView",
     "ICYMI: TSMC profit jumps nearly 70% on AI demand, but margin outlook weighs on s",
     "SMC ch\u1ed1t ng\u00e0y ch\u00e0o b\u00e1n g\u1ea7n 37 tri\u1ec7u c\u1ed5 phi\u1ebfu cho c\u1ed5 \u0111\u00f4ng",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
@@ -462,6 +456,12 @@
     "Indian rupee posts biggest weekly gain in seven months",
     "What are the main events for today?",
     "\"Gi\u00e1 iPhone 18\" t\u0103ng k\u1ef7 l\u1ee5c h\u01a1n 2.800%",
-    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi"
+    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi",
+    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP | VietstockFinance - VietstockFinance",
+    "European stocks rise, dollar set for weekly loss after yields drop - TradingView",
+    "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
+    "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation i",
+    "I find it quite demoralising in store - why I do all my shopping online",
+    "German Power Supply Startups Exit Market as Wholesale Prices Soar"
   ]
 }
