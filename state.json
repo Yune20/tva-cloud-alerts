@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792109085.1128771,
-  "last_bot4": 1792118639.4814377,
+  "last_bot4": 1792119321.8224633,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792118959.357952,
+  "last_signals": 1792119321.8230526,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792105673.5029662,
+    "5575146754|Gold|1H|range_in": 1792119321.8230526,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792102662.572069,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792118960.1309223,
+    "US30|1D:top": 1792119323.2682981,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792118951.8461711,
-  "last_news": 1792118959.356826,
+  "last_analysis": 1792119313.9543087,
+  "last_news": 1792119321.821591,
   "seen_news": [
-    "CoreWeave\u2019s polarizing stock rebounds as Wall Street squares off about AI spendi",
-    "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ",
-    "X-planes: Are they needed in the new era of drones?",
-    "Ukraine Strikes Major Russian Oil Refinery",
-    "Nasdaq cuts losses of over 1% as U.S. bond rally offsets tech softness, hot PPI",
-    "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%",
     "investingLive Americas market news wrap: Hot CPI upends markets",
     "So g\u0103ng 2 'chi\u1ebfn th\u1ea7n' ch\u00e2u \u00c2u \u0111\u01b0\u1ee3c t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng v\u00e0 Tr\u1ea7n \u0110\u00ecnh Long ch\u1ecd",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
@@ -461,6 +455,12 @@
     "Singapore non-oil exports jump bigger-than-expected 68.4% in September",
     "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatilit",
     "T\u1eeb b\u00e9 kh\u00f4ng c\u00f3 g\u1ea1o \u0103n, ph\u1ea3i \u0111i ph\u00e1t t\u1edd r\u01a1i ki\u1ebfm s\u1ed1ng, c\u00f4 g\u00e1i l\u1edbn l\u00ean th\u00e0nh ca s\u0129",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc"
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
+    "Tesla finally delivers on its promise to create a flying car",
+    "Here's our monthly update on our 32 stocks, including 2 more names to buy",
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
+    "Strive prices upsized IPO of preferred stock at $90 per share"
   ]
 }
