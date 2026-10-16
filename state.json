@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792112767.2340326,
+  "last_signals": 1792113381.216756,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792112768.0544522,
+    "US30|1D:top": 1792113382.0414739,
     "GBP/USD|4H:top": 1792112153.485304,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792112759.3615482,
-  "last_news": 1792112767.2331522,
+  "last_analysis": 1792113373.6628299,
+  "last_news": 1792113381.2158055,
   "seen_news": [
-    "Bitcoin sinks after the US CPI as markets get increasingly worried about the gro",
-    "C\u1eadp nh\u1eadt BCTC s\u00e1ng 16/10: M\u1ed9t DN l\u00e3i t\u0103ng h\u01a1n 327 l\u1ea7n c\u00f9ng k\u1ef3, c\u00f4ng ty \u00f4 t\u00f4 b\u00e1o ",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Enovix surges on 100K-unit drone battery order - TradingView",
-    "The COLA wars are coming for Social Security",
-    "Economists: Hot PPI shows Fed's work is not done",
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "Asbury Automotive Group Inc Stock 12\u2011Month Price Target Cut to $229.9, Implies 4",
     "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
@@ -461,6 +455,12 @@
     "PLS Group shares rise 3% as it approves $1.3 billion lithium expansion",
     "Trump draws two red lines on Iran but keeps Pickaxe Mountain strike in play",
     "T\u1eeb s\u1ed1ng \u0111\u1ed9c l\u1eadp \u0111\u1ebfn x\u00e2y d\u1ef1ng t\u1ed5 \u1ea5m: The Cityon m\u1edf r\u1ed9ng l\u1ef1a ch\u1ecdn an c\u01b0 cho ng\u01b0\u1eddi ",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance"
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Sterling today: Pound rises as UK growth beats forecasts, dollar retreats",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6947 \u2013 Reuters estimate",
+    "Haxaco tr\u00ecnh c\u1ed5 \u0111\u00f4ng k\u1ebf ho\u1ea1ch mua l\u1ea1i 4,5 tri\u1ec7u c\u1ed5 phi\u1ebfu",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
+    "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Trad",
+    "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality"
   ]
 }
