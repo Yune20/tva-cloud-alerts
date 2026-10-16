@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792175266.1228979,
+  "last_signals": 1792175622.8781886,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -88,12 +88,12 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792175268.1105154,
+    "US30|1D:top": 1792175623.8878386,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -158,15 +158,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792175254.2599583,
-  "last_news": 1792175262.842939,
+  "last_analysis": 1792175614.561224,
+  "last_news": 1792175622.877343,
   "seen_news": [
-    "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
-    "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that ",
-    "Nike's India campus is a long-term growth bet amid turnaround",
-    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-    "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
-    "S&P 500 futures inch higher, but on pace for losing week",
     "Banking tax raid fears hit London lenders' shares ahead of crucial budget",
     "X-planes: Are they needed in the new era of drones?",
     "Ukraine Strikes Major Russian Oil Refinery",
@@ -460,6 +454,12 @@
     "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
     "The U.S. budget deficit just hit almost $2 trillion \u2014 and Washington isn\u2019t doing",
     "Debt is eating up a bigger chunk of your raise, research shows",
-    "Wayfair among firms fined millions for misleading sales tactics"
+    "Wayfair among firms fined millions for misleading sales tactics",
+    "B\u00e1n b\u00ea t\u00f4ng, v\u1eefa kh\u00f4 cho c\u00f4ng ty c\u1ee7a Vingroup, m\u1ed9t doanh nghi\u1ec7p b\u00e1o l\u00e3i t\u0103ng 136",
+    "CTCP HHP Global - VietstockFinance",
+    "India markets regulator partly reverses derivative settlement rules after pushba",
+    "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,",
+    "Katie Zacharia out as Trump's White House press secretary",
+    "The AI telling farmers when to harvest"
   ]
 }
