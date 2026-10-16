@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792163857.0749536,
-  "last_bot4": 1792167130.3089447,
+  "last_bot4": 1792168046.6611907,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792167130.308845
+    "Gold": 1792168046.6611013
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792167461.3488846,
+  "last_signals": 1792168046.6807199,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -84,7 +84,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -102,7 +102,7 @@
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -133,19 +133,19 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792167461.522618,
+    "Gold|4H:top": 1792168046.8761144,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
-    "US30|4H:top": 1792167462.3696177,
+    "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792167462.3696609,
+    "US30|1D:top": 1792168047.9190152,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792167463.2370534
+    "DXY|4H:bot": 1792168049.0257878
   },
-  "last_analysis": 1792167452.8691916,
-  "last_news": 1792167461.3479245,
+  "last_analysis": 1792168034.948587,
+  "last_news": 1792168044.0016496,
   "seen_news": [
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
-    "Saab, FMV and the Swedish Armed Forces launch uncrewed underwater vehicle - Trad",
-    "People in China are spending nearly as much of their income as Americans on heal",
-    "US inflation rises more than expected - here's what is happening with prices",
-    "Trump Condemns Ukraine\u2019s Russian Refinery Strikes as a \u201cDisgrace\u201d",
-    "Tesla shares rise 5% after unveiling new Roadster with flight capabilities",
     "Nvidia and other chip stocks face renewed pressure as AI fears swell",
     "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
     "'I paid thousands to a company for jobs that never came'",
@@ -461,6 +455,12 @@
     "IT leads Indian shares higher; hot US inflation caps gains - TradingView",
     "Many of 2026\u2019s hottest stocks have seen dramatic comedowns this week",
     "Trump says he won't use nuclear weapons or send ground troops to Iran",
-    "Why the UK is dithering over what to do about e-scooters"
+    "Why the UK is dithering over what to do about e-scooters",
+    "Pangolin to Launch Roadmap - TradingView",
+    "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid h",
+    "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
+    "How backlash against data centres could shape the US midterm elections",
+    "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
+    "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.25%"
   ]
 }
