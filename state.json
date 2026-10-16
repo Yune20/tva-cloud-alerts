@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792123324.9491286,
+  "last_signals": 1792123930.300432,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": false,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -94,7 +94,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792123326.3764338,
+    "US30|1D:top": 1792123931.1504683,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792029595.566527,
+    "EUR/USD|4H:top": 1792123931.4600003,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792123315.968542,
-  "last_news": 1792123324.9481091,
+  "last_analysis": 1792123922.4727054,
+  "last_news": 1792123930.2995088,
   "seen_news": [
-    "Big pharma stocks close near all-time highs as tech selloff pushes investors tow",
-    "Porsche reveals Mission S concept car that previews new design identity",
-    "Civil servant faked illness with make-up to juggle five jobs, court hears",
-    "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
-    "Canada August building permits rise 8.8% vs 2.0% expected",
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t c\u1ea7n c\u1ea9u h\u1ea1ng n\u1eb7ng \u0111\u01b0\u1ee3c h\u1ed9 t\u1ed1ng b\u1eb1ng \u0111o\u00e0n 64 xe r\u01a1 mo\u00f3c: C\u00f3 kh\u1ea3 n\u0103n",
     "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK ng\u00e0y 16/10: Xu\u1ea5t hi\u1ec7n c\u00f4ng ty b\u00e1o l\u1ed7 g\u1ea7n ch\u1ee5c t\u1ef7 \u0111\u1ed3ng tron",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
     "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
@@ -461,6 +455,12 @@
     "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump",
     "US retails sales for September 0.8% MoM vs 0.3% estimate. Prior month 1.3%",
     "Elon Musk v\u1eeba khi\u1ebfn c\u1ea3 th\u1ebf gi\u1edbi s\u1eedng s\u1ed1t: \u00d4 t\u00f4 l\u1ed9n ng\u01b0\u1ee3c, b\u1eadt \"nh\u01b0 t\u00f4m\" gi\u1eefa kh\u00f4",
-    "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp | VietstockFinance - VietstockFinanc"
+    "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp | VietstockFinance - VietstockFinanc",
+    "Dow jumps 556 pts while Nvidia keeps bleeding, our AI spotted the pivot weeks ag",
+    "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
+    "L\u01b0\u01a1ng n\u01b0\u1edbc ngo\u00e0i chuy\u1ec3n v\u1ec1 t\u00e0i kho\u1ea3n Vi\u1ec7t Nam c\u00f3 ph\u1ea3i n\u1ed9p thu\u1ebf?",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Fortune Brands to sell Fiberon composite decking business to Inteplast Group - T",
+    "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wea"
   ]
 }
