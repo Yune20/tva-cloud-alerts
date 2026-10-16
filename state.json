@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792147966.7976425,
+  "last_signals": 1792148579.8125904,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792145198.0544126,
+    "5575146754|Gold|1H|range_in": 1792148579.8125904,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792122102.6782892,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792147968.222065,
+    "US30|1D:top": 1792148580.6276014,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792147956.525814,
-  "last_news": 1792147966.738288,
+  "last_analysis": 1792148569.06559,
+  "last_news": 1792148579.8114462,
   "seen_news": [
-    "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
-    "Tesla finally delivers on its promise to create a flying car",
-    "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-    "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
-    "Strive prices upsized IPO of preferred stock at $90 per share",
     "Visa gets Beijing's green light for bank card business after 40 years of working",
     "X-planes: Are they needed in the new era of drones?",
     "Ukraine Strikes Major Russian Oil Refinery",
@@ -462,6 +456,12 @@
     "Democrat Talarico says he raised record $64 million over summer in Texas Senate ",
     "Wayfair among firms fined millions for misleading sales tactics",
     "Turkey stock index drops over 3% after MSCI freezes changes",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6947 \u2013 Reuters estimate"
+    "PBOC is expected to set the USD/CNY reference rate at 6.6947 \u2013 Reuters estimate",
+    "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatilit",
+    "XSMT 16/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 16 th\u00e1ng 10",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "Artprice by Artmarket: The Author's Responsibility in the Age of AI - TradingVie",
+    "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two human",
+    "Norway's $2 trillion wealth fund was frozen out of major defense companies. That"
   ]
 }
