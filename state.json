@@ -29,14 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792182833.4010894,
+  "last_signals": 1792183361.4066505,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
     "USD/JPY:range_in": 1791578809.2870445,
     "JPY Index:range_in": 1791578809.2870445,
     "Ethereum:range_in": 1791620150.9742491,
-    "GBP/USD:range_in": 1791578257.7186818,
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
     "Bitcoin|1H|trap_up": 1791643326.0207214,
@@ -79,7 +78,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -141,7 +140,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792182834.961192,
+    "US30|1D:top": 1792183362.6344023,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -155,15 +154,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792182825.2277498,
-  "last_news": 1792182833.399428,
+  "last_analysis": 1792183351.3120239,
+  "last_news": 1792183361.405444,
   "seen_news": [
-    "BOJ\u2019s Ueda: We will continue to raise rates as underlying inflation approaches 2",
-    "Ng\u01b0\u1eddi ta \u0111\u00e3 khen qu\u00e1 nhi\u1ec1u th\u1ee9 v\u1ec1 Trung Qu\u1ed1c nh\u01b0ng \u0111\u1ebfn m\u1ee9c n\u00e0y th\u00ec \"h\u1ebft l\u1eddi\": \u0110i",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
-    "CPI, mortgage rates, rate hike bets are all on the rise - TradingView",
-    "The problem with 'good debt': Why borrowers should think twice about the label",
-    "Spain battles climate change on several fronts",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
     "Form 8.3 - The Vanguard Group, Inc.: DCC plc - TradingView",
     "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger specul",
@@ -457,6 +450,12 @@
     "Gi\u1ea3i ph\u00e1p \"tho\u00e1t m\u00f9i\" cho nh\u1eefng gia \u0111\u00ecnh th\u00edch \u0103n l\u1ea9u, \u0111\u1ed3 n\u01b0\u1edbng",
     "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
     "Wall Street fear gauge VIX surges to over four-month high - TradingView",
-    "Fed's Warsh withholds rate signal, praises recent global tightening"
+    "Fed's Warsh withholds rate signal, praises recent global tightening",
+    "Why did CoreWeave stock get crushed this week? Look to this corner of the debt m",
+    "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
+    "Iran War Set To Push PetroChina\u2019s Trading Profit to Record $3 Billion",
+    "Nasdaq notches worst week since late June with a 4.5% slide as AI trade suffers",
+    "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
+    "Ph\u00e1t hi\u1ec7n thi th\u1ec3 m\u1eb7c \u00e1o grab n\u1ed5i tr\u00ean h\u1ed3 Xu\u00e2n H\u01b0\u01a1ng"
   ]
 }
