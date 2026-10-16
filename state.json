@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792139070.4831843,
+  "last_signals": 1792139676.5174787,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -80,7 +80,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792139071.3440697,
+    "US30|1D:top": 1792139677.341919,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792139061.9866269,
-  "last_news": 1792139070.4821506,
+  "last_analysis": 1792139667.8591228,
+  "last_news": 1792139676.5167267,
   "seen_news": [
-    "Commodities intraday targets/key levels - TradingView",
-    "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-    "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong ",
-    "'I paid thousands to a company for jobs that never came'",
-    "Fed\u2019s Goolsbee on inflation: discouraging, but still some optimism",
-    "Dow Jones today is showing relative strength",
     "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
     "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
     "Market selloff, rising rates test AI data centre deal boom",
@@ -462,6 +456,12 @@
     "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu | VietstockFinance - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-10-16 \u2014 cnbctv:9541517b9094b:0 - TradingV",
     "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Tr",
-    "How backlash against data centres could shape the US midterm elections"
+    "How backlash against data centres could shape the US midterm elections",
+    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
+    "Saab, FMV and the Swedish Armed Forces launch uncrewed underwater vehicle - Trad",
+    "People in China are spending nearly as much of their income as Americans on heal",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "Trump Condemns Ukraine\u2019s Russian Refinery Strikes as a \u201cDisgrace\u201d",
+    "Tesla shares rise 5% after unveiling new Roadster with flight capabilities"
   ]
 }
