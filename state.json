@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792109085.1128771,
+  "last_news_report": 1792119943.1417742,
   "last_bot4": 1792119321.8224633,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792119321.8230526,
+  "last_signals": 1792119943.1429374,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,8 +76,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|1H": false,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792119323.2682981,
+    "US30|1D:top": 1792119943.9342415,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792119313.9543087,
-  "last_news": 1792119321.821591,
+  "last_analysis": 1792119929.0630124,
+  "last_news": 1792119936.9780588,
   "seen_news": [
-    "investingLive Americas market news wrap: Hot CPI upends markets",
-    "So g\u0103ng 2 'chi\u1ebfn th\u1ea7n' ch\u00e2u \u00c2u \u0111\u01b0\u1ee3c t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng v\u00e0 Tr\u1ea7n \u0110\u00ecnh Long ch\u1ecd",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
-    "Elopak ASA (ELO) Trades Ex-Dividend of \u20ac0.065 - TradingView",
-    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-    "Spain battles climate change on several fronts",
     "Ph\u1ea7n l\u1edbn c\u00e1c c\u00f4ng ty kh\u00f4ng ch\u1ebft v\u00ec \u0111\u00f3i, m\u00e0 ch\u1ebft v\u00ec b\u1ed9i th\u1ef1c: C\u1ef1u CEO LEGO ti\u1ebft l",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
@@ -461,6 +455,12 @@
     "Here's our monthly update on our 32 stocks, including 2 more names to buy",
     "Netflix to shed 1,000 jobs in steepest cuts since 2022",
     "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
-    "Strive prices upsized IPO of preferred stock at $90 per share"
+    "Strive prices upsized IPO of preferred stock at $90 per share",
+    "Visa gets Beijing's green light for bank card business after 40 years of working",
+    "X-planes: Are they needed in the new era of drones?",
+    "Ukraine Strikes Major Russian Oil Refinery",
+    "City Therapeutics prices IPO at $18 per share, raising $200M",
+    "Tesla unveils thruster-powered Roadster with $50,000 deposit, production slated ",
+    "Ngh\u1ecbch l\u00fd c\u0103n h\u1ed9 H\u00e0 N\u1ed9i: Thu nh\u1eadp ng\u01b0\u1eddi d\u00e2n t\u0103ng 9%/n\u0103m nh\u01b0ng gi\u00e1 c\u0103n h\u1ed9 s\u01a1 c\u1ea5p "
   ]
 }
