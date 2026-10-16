@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792146130.6207452,
+  "last_signals": 1792146735.672173,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792146131.5283675,
+    "US30|1D:top": 1792146737.0574045,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792146117.9957757,
-  "last_news": 1792146128.0165946,
+  "last_analysis": 1792146724.6554842,
+  "last_news": 1792146735.671379,
   "seen_news": [
-    "Citi spots AI upside in two software stocks despite earnings and execution risks",
-    "FX option expiries for 16 October 10am New York cut",
-    "V\u00f2m th\u00e9p c\u1ea7u \u0111i b\u1ed9 qua s\u00f4ng S\u00e0i G\u00f2n n\u1eb7ng 3.400 t\u1ea5n \u0111\u01b0\u1ee3c h\u1ea1 th\u1ee7y th\u00e0nh c\u00f4ng",
-    "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t | VietstockFinance - VietstockFinance",
-    "India markets regulator partly reverses derivative settlement rules after pushba",
-    "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
     "M\u1ef9 nh\u00e2n g\u00e2y ch\u00fa \u00fd v\u1edbi chi\u1ec1u cao 1m77: \u0110ang \u0111i\u1ec1u h\u00e0nh c\u00f4ng ty truy\u1ec1n th\u00f4ng, theo ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
     "Gold Supported by Safe-Haven Demand - TradingView",
@@ -462,6 +456,12 @@
     "How long will humans be needed for translation?",
     "Why CoreWeave\u2019s troubles are rattling the AI boom",
     "Google\u2019s 40-fold quantum leap: big for Willow, smaller for Alphabet\u2019s share pric",
-    "Quy\u1ebft \u0111\u1ecbnh m\u1edbi c\u1ee7a Nh\u00e3 Ph\u01b0\u01a1ng"
+    "Quy\u1ebft \u0111\u1ecbnh m\u1edbi c\u1ee7a Nh\u00e3 Ph\u01b0\u01a1ng",
+    "The best of the AI trade could be behind us. Here\u2019s how to prepare, according to",
+    "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister te",
+    "The start-ups hoping to return battery making to the US",
+    "South Korea Turns Back to Coal as LNG Crisis Deepens",
+    "European stocks on course for best week since Aug on easing yields",
+    "PBOC sets USD/ CNY reference rate for today at 6.7220 (vs. estimate at 6.6947)"
   ]
 }
