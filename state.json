@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792150521.463973,
+  "last_signals": 1792151087.770759,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792148579.8125904,
+    "5575146754|Gold|1H|range_in": 1792151087.770759,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792122102.6782892,
@@ -76,10 +76,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792150523.473504,
+    "US30|1D:top": 1792151089.1343997,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792150470.6228142,
-  "last_news": 1792150521.4631724,
+  "last_analysis": 1792151079.0441003,
+  "last_news": 1792151087.770088,
   "seen_news": [
-    "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
-    "AI giant Anthropic woos potential investors ahead of stock market debut",
-    "IEA Speeds Emergency Oil Release",
-    "Argentina halts local dollar bond sales as yields surge",
-    "Canada August manufacturing sales +1.5% vs +1.1% expected",
-    "TS Nguy\u1ec5n S\u0129 D\u0169ng: S\u00e1ng ki\u1ebfn c\u1ee7a GSM g\u00f3p ph\u1ea7n n\u00e2ng chu\u1ea9n ph\u00fac l\u1ee3i",
     "investingLive Americas market news wrap: Yields continue to fall even after hot ",
     "\u0110\u00fang \u0111\u00eam 15/10, s\u00e2n bay T\u00e2n S\u01a1n Nh\u1ea5t ghi nh\u1eadn m\u1ed9t m\u00e1y bay \u0111\u1eb7c bi\u1ec7t c\u1ea5t c\u00e1nh",
     "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
@@ -462,6 +456,12 @@
     "'I'd spend $1,000 on a wedding present'",
     "China\u2019s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
     "UK stocks set for weekly gains as investors seek shelter in defensive sectors",
-    "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negot"
+    "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negot",
+    "Tesla unveils thruster-powered Roadster with $50,000 deposit, production slated ",
+    "Emily \u0111\u0103ng t\u00e2m th\u01b0 chia tay l\u00fac n\u1eeda \u0111\u00eam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "ARK Invest says Bitcoin ETF holders are back in the green - TradingView",
+    "Here's our monthly update on our 32 stocks, including 2 more names to buy",
+    "Thousands of NI workers to get pay bump as Real Living Wage rises"
   ]
 }
