@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792130491.5715652,
+  "last_signals": 1792131106.8444939,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -84,7 +84,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792130492.8077831,
+    "US30|1D:top": 1792131108.6267793,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792130493.2792523,
+    "EUR/USD|4H:top": 1792131109.27814,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792130482.8345125,
-  "last_news": 1792130491.5699668,
+  "last_analysis": 1792131098.9529016,
+  "last_news": 1792131106.7325268,
   "seen_news": [
-    "CHN Group LLC Fixes Website Vulnerability, Warns Clients; Launches NOW AI - Trad",
-    "Southwest is overhauling its frequent flyer program. Here's what's changing",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows",
-    "Anthropic to add US voting information to Claude before midterms (Oct 14)",
-    "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
     "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
     "Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal",
     "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has \u2019become too risk-aver",
@@ -461,6 +455,12 @@
     "Banks say Healey planning to increase tax on their profits in Budget",
     "Schneider Electric raises 2026 targets again on booming data centre demand",
     "Fed's Hammack questions whether Fed policy is tight enough as inflation risks bu",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh \u0111ang nu\u00f4i ch\u00f3 trong nh\u00e0"
+    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh \u0111ang nu\u00f4i ch\u00f3 trong nh\u00e0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
+    "Why Is Arcutis Biotherapeutics Stock Surging Thursday? - TradingView",
+    "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "Driving test waits fall to two-year low - but still average 20 weeks",
+    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
+    "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion"
   ]
 }
