@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1792152934.3646865,
-  "last_bot4": 1792162956.9725804,
+  "last_news_report": 1792163857.0749536,
+  "last_bot4": 1792163860.9906237,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792162956.9724855
+    "Gold": 1792163860.990373
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792163250.3422678,
+  "last_signals": 1792163860.9913445,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,13 +79,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Bitcoin|1D": true,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -134,7 +134,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792163250.5133445,
+    "Gold|4H:top": 1792163861.1476798,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
@@ -161,14 +161,8 @@
     "DXY|4H:bot": 1792162651.4758058
   },
   "last_analysis": 1792163556.1934226,
-  "last_news": 1792163250.3413513,
+  "last_news": 1792163852.7310386,
   "seen_news": [
-    "What are the main events for today?",
-    "Xe \u0111i\u1ec7n bi\u1ebft 'di\u1ec5n xi\u1ebfc' c\u1ee7a si\u00eau t\u1ef7 ph\u00fa Elon Musk: L\u1ed9n ng\u01b0\u1ee3c gi\u1eefa kh\u00f4ng trung r",
-    "T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - VietstockFinance",
-    "Weyerhaeuser upgraded at Bank of America on timberland assets - TradingView",
-    "Here are the key things Fed Chairman Kevin Warsh said \u2014 and didn\u2019t say \u2014 while A",
-    "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. die",
     "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC | VietstockFinance - VietstockFinance",
     "Can Government-Backed Refinery Expansion Fuel Delek Stock Gains? - TradingView",
     "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
@@ -462,6 +456,12 @@
     "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
     "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him ",
     "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Cl",
-    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos"
+    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
+    "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
+    "CoreWeave bond rout tests market\u2019s math on AI buildout",
+    "Bitcoin is little changed on the day, and pushing against a key crossroad.  What",
+    "Chinh ph\u1ee5c \u0111\u1ec9nh n\u00fai cao 3.143 m \u1edf Vi\u1ec7t Nam, t\u1eebng l\u1ea1nh -8\u00b0C, m\u00f9a \u0111\u00f4ng nh\u00ecn nh\u01b0 m\u1ed9",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
+    "Blackstone's Q3 Earnings on the Deck: What's in Store for BX? - TradingView"
   ]
 }
