@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792152934.3646865,
-  "last_bot4": 1792153237.8027623,
+  "last_bot4": 1792153949.7043948,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792152603.8289466
+    "Gold": 1792153949.704238
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792153532.1577473,
+  "last_signals": 1792153949.7053945,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792153532.972242,
+    "USOIL|4H:top": 1792153950.0973287,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792153534.2135084,
+    "US30|1D:top": 1792153950.7012222,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792153237.8014605,
-  "last_news": 1792153532.1571324,
+  "last_analysis": 1792153892.8458228,
+  "last_news": 1792153947.1829195,
   "seen_news": [
-    "Warsh won\u2019t prejudge rest of 2026, names October and December as decision points",
-    "\u0110i\u1ec3m t\u1ef1a n\u00e0o gi\u00fap TPHCM m\u1edf r\u1ed9ng kh\u00f4ng gian ph\u00e1t tri\u1ec3n, thu h\u00fat \u0111\u1ea7u t\u01b0?",
-    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp | VietstockFinance - Vietst",
-    "Elopak ASA (ELO) Trades Ex-Dividend of \u20ac0.065 - TradingView",
-    "Big pharma stocks close near all-time highs as tech selloff pushes investors tow",
-    "Porsche reveals Mission S concept car that previews new design identity",
     "Pangolin to Launch Roadmap - TradingView",
     "One Singapore ship was sunk, but here's why others are still transiting the Stra",
     "Civil servant faked illness with make-up to juggle five jobs, court hears",
@@ -462,6 +456,12 @@
     "Gold edges up as dollar slips, Fed outlook in focus - TradingView",
     "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other ",
     "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
-    "Drop-off charges at UK airports to be reviewed after sharp increase"
+    "Drop-off charges at UK airports to be reviewed after sharp increase",
+    "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
+    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+    "Deadly Airstrikes Expose Growing Battle Over Sudan\u2019s Gold",
+    "Why is CoreWeave stock sliding today?",
+    "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental",
+    "B\u1ecb sa th\u1ea3i, m\u1ed9t nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng \u0111\u01b0\u1ee3c b\u1ed3i th\u01b0\u1eddng 10 th\u00e1ng l\u01b0\u01a1ng tr\u1ecb gi\u00e1 1,005"
   ]
 }
