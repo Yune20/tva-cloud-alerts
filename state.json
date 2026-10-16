@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792151087.770759,
+  "last_signals": 1792151720.017125,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792151089.1343997,
+    "US30|1D:top": 1792151722.0597663,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792151079.0441003,
-  "last_news": 1792151087.770088,
+  "last_analysis": 1792151702.2679954,
+  "last_news": 1792151720.0161617,
   "seen_news": [
-    "investingLive Americas market news wrap: Yields continue to fall even after hot ",
-    "\u0110\u00fang \u0111\u00eam 15/10, s\u00e2n bay T\u00e2n S\u01a1n Nh\u1ea5t ghi nh\u1eadn m\u1ed9t m\u00e1y bay \u0111\u1eb7c bi\u1ec7t c\u1ea5t c\u00e1nh",
-    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
-    "Gold eases after climbing over 1% in previous session - TradingView",
-    "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ba",
-    "How much is the minimum wage?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "Memory & Neocloud Panic: Time to Buy? - TradingView",
     "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where ",
@@ -462,6 +456,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
     "ARK Invest says Bitcoin ETF holders are back in the green - TradingView",
     "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-    "Thousands of NI workers to get pay bump as Real Living Wage rises"
+    "Thousands of NI workers to get pay bump as Real Living Wage rises",
+    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
+    "Fed's Warsh withholds rate signal, praises recent global tightening",
+    "AI giant Anthropic woos potential investors ahead of stock market debut",
+    "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
+    "Argentina halts local dollar bond sales as yields surge",
+    "Bailey says UK second-round inflation effects subdued so far, too early to judge"
   ]
 }
