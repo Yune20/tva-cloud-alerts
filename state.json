@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792152934.3646865,
-  "last_bot4": 1792158902.6759155,
+  "last_bot4": 1792159534.202288,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792158902.6766322,
+  "last_signals": 1792159534.2029748,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792158902.942547,
+    "USOIL|4H:top": 1792159534.805662,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792159205.092628,
-  "last_news": 1792158899.6684985,
+  "last_analysis": 1792159522.316445,
+  "last_news": 1792159534.201291,
   "seen_news": [
-    "Key facts: Court Voids Volkswagen AG Pref Pact; 120 Dealers Affected - TradingVi",
-    "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-    "Fuel costs squeezing margins for some businesses",
-    "Exxon\u2019s Oil Boom Could Keep Guyana\u2019s Gas at Home",
-    "Hyundai recalls 94,622 vehicles in U.S. over fire risk",
     "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him ",
     "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter",
     "Banks say Healey planning to increase tax on their profits in Budget",
@@ -462,6 +456,12 @@
     "The virtual worlds where robots are trained",
     "Wall St opens muted as tech jitters linger; Tesla gains",
     "Market playbook: Is the bond market starting to worry more about US growth than ",
-    "B\u1ee9c \u1ea3nh ch\u1ee5p 2 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng SN 1972 t\u1ea1i l\u1ec5 k\u1ef7 ni\u1ec7m 70 n\u0103m th\u00e0nh l\u1eadp \u0110H B\u00e1ch kho"
+    "B\u1ee9c \u1ea3nh ch\u1ee5p 2 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng SN 1972 t\u1ea1i l\u1ec5 k\u1ef7 ni\u1ec7m 70 n\u0103m th\u00e0nh l\u1eadp \u0110H B\u00e1ch kho",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Goodtech ASA (GOD) Trades Ex-Dividend NOK 2.00 Today - TradingView",
+    "Influencers and biohackers swear by fasting. Here\u2019s what the science says.",
+    "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton",
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure"
   ]
 }
