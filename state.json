@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792148579.8125904,
+  "last_signals": 1792149196.619311,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -82,7 +82,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792148580.6276014,
+    "US30|1D:top": 1792149198.019829,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792148569.06559,
-  "last_news": 1792148579.8114462,
+  "last_analysis": 1792149184.000648,
+  "last_news": 1792149196.6184914,
   "seen_news": [
-    "Visa gets Beijing's green light for bank card business after 40 years of working",
-    "X-planes: Are they needed in the new era of drones?",
-    "Ukraine Strikes Major Russian Oil Refinery",
-    "City Therapeutics prices IPO at $18 per share, raising $200M",
-    "Tesla unveils thruster-powered Roadster with $50,000 deposit, production slated ",
-    "Ngh\u1ecbch l\u00fd c\u0103n h\u1ed9 H\u00e0 N\u1ed9i: Thu nh\u1eadp ng\u01b0\u1eddi d\u00e2n t\u0103ng 9%/n\u0103m nh\u01b0ng gi\u00e1 c\u0103n h\u1ed9 s\u01a1 c\u1ea5p ",
     "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
     "Hyundai to recall over 94,600 US vehicles over seat motor fire risk, NHTSA says",
     "Bailey says UK second-round inflation effects subdued so far, too early to judge",
@@ -462,6 +456,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
     "Artprice by Artmarket: The Author's Responsibility in the Age of AI - TradingVie",
     "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two human",
-    "Norway's $2 trillion wealth fund was frozen out of major defense companies. That"
+    "Norway's $2 trillion wealth fund was frozen out of major defense companies. That",
+    "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
+    "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that ",
+    "Nike's India campus is a long-term growth bet amid turnaround",
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
+    "S&P 500 futures inch higher, but on pace for losing week"
   ]
 }
