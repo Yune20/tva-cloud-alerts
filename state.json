@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792117737.4984896,
+  "last_signals": 1792118353.7237494,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -78,13 +78,13 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792117738.9153602,
+    "US30|1D:top": 1792118355.1948817,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792117728.6760976,
-  "last_news": 1792117737.4974697,
+  "last_analysis": 1792118343.78294,
+  "last_news": 1792118353.722655,
   "seen_news": [
-    "USDCHF backs away from key daily resistance. Sellers push toward an important ho",
-    "Danh s\u00e1ch 6 d\u1ea5u hi\u1ec7u KH\u00d4NG \u0110AU c\u1ee7a ung th\u01b0 giai \u0111o\u1ea1n \u0111\u1ea7u: R\u1ea5t nhi\u1ec1u ng\u01b0\u1eddi b\u1ecf qua",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Pacific Arc Resources Ltd. Announces Resignation of Chief Financial Officer - Tr",
-    "This one governor\u2019s race could derail the AI trade that\u2019s powered the stock mark",
-    "AWS, Anthropic race to deploy army of specialized engineers key to proving AI sp",
     "Here's our monthly update on our 32 stocks, including 2 more names to buy",
     "Netflix to shed 1,000 jobs in steepest cuts since 2022",
     "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
@@ -461,6 +455,12 @@
     "V\u00f2m th\u00e9p c\u1ea7u \u0111i b\u1ed9 qua s\u00f4ng S\u00e0i G\u00f2n n\u1eb7ng 3.400 t\u1ea5n \u0111\u01b0\u1ee3c h\u1ea1 th\u1ee7y th\u00e0nh c\u00f4ng",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t | VietstockFinance - VietstockFinance",
     "India markets regulator partly reverses derivative settlement rules after pushba",
-    "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe"
+    "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+    "M\u1ef9 nh\u00e2n g\u00e2y ch\u00fa \u00fd v\u1edbi chi\u1ec1u cao 1m77: \u0110ang \u0111i\u1ec1u h\u00e0nh c\u00f4ng ty truy\u1ec1n th\u00f4ng, theo ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
+    "Gold Supported by Safe-Haven Demand - TradingView",
+    "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "Wayfair among firms fined millions for misleading sales tactics",
+    "Taiwan plans $4 bln Texas park to support Nvidia\u2019s AI supply chain - Bloomberg"
   ]
 }
