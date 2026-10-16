@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792139676.5174787,
+  "last_signals": 1792140289.7261744,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -80,7 +80,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792139677.341919,
+    "US30|1D:top": 1792140290.5367763,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792139667.8591228,
-  "last_news": 1792139676.5167267,
+  "last_analysis": 1792140280.754923,
+  "last_news": 1792140289.7252314,
   "seen_news": [
-    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
-    "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
-    "Market selloff, rising rates test AI data centre deal boom",
-    "US initial jobless claim 199K vs 200K estimate",
-    "\u0110i\u1ec1u \u0111\u1ed9ng, ch\u1ec9 \u0111\u1ecbnh, b\u1ed5 nhi\u1ec7m nh\u00e2n s\u1ef1 \u1edf H\u00e0 N\u1ed9i v\u00e0 2 t\u1ec9nh, th\u00e0nh",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
     "Somnigroup to Report Third Quarter 2026 Financial Results - TradingView",
     "Apple and Meta team up to make Muse AI model run on Mac computers",
@@ -462,6 +456,12 @@
     "People in China are spending nearly as much of their income as Americans on heal",
     "US inflation rises more than expected - here's what is happening with prices",
     "Trump Condemns Ukraine\u2019s Russian Refinery Strikes as a \u201cDisgrace\u201d",
-    "Tesla shares rise 5% after unveiling new Roadster with flight capabilities"
+    "Tesla shares rise 5% after unveiling new Roadster with flight capabilities",
+    "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+    "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+    "'I paid thousands to a company for jobs that never came'",
+    "Why is Tesla stock surging today?",
+    "Where do traders get interest rate expectations for central banks?",
+    "H\u00e9 l\u1ed9 qu\u00e1 kh\u1ee9 c\u1ee7a giang h\u1ed3 m\u1ea1ng 'Ng\u1ecdc Rambo' tr\u01b0\u1edbc khi b\u1ecb kh\u1edfi t\u1ed1"
   ]
 }
