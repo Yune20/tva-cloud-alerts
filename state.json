@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792149864.990298,
+  "last_signals": 1792150521.463973,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792149865.7457497,
+    "US30|1D:top": 1792150523.473504,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792149853.5241115,
-  "last_news": 1792149864.989324,
+  "last_analysis": 1792150470.6228142,
+  "last_news": 1792150521.4631724,
   "seen_news": [
-    "Why is BayCurrent stock surging today?",
-    "Ethereum whale\u2019s $13.45M loss reflects a year-long exit, not a fresh ETH dump",
-    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh \u0111ang c\u00f3 \u00fd \u0111\u1ecbnh l\u1eafp \u0111\u1eb7t b\u1ed3n c\u1ea7u th\u00f4ng minh",
-    "CTCP HHP Global - VietstockFinance",
-    "3U HOLDING AG (UUU) To Move Listing to Scale Segment - TradingView",
-    "CoreWeave\u2019s polarizing stock rebounds as Wall Street squares off about AI spendi",
     "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
     "AI giant Anthropic woos potential investors ahead of stock market debut",
     "IEA Speeds Emergency Oil Release",
@@ -462,6 +456,12 @@
     "Ukraine Strikes Major Russian Oil Refinery",
     "Why is Semtech stock rallying today?",
     "Is EUR/USD finally turning the corner or is this just another false dawn?",
-    "L\u1ec7 Quy\u00ean v\u00e0 L\u00e2m B\u1ea3o Ch\u00e2u c\u00f3 \"con chung\""
+    "L\u1ec7 Quy\u00ean v\u00e0 L\u00e2m B\u1ea3o Ch\u00e2u c\u00f3 \"con chung\"",
+    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
+    "I watched Nvidia's Jensen Huang work the room in London. He brought big checks \u2014",
+    "'I'd spend $1,000 on a wedding present'",
+    "China\u2019s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
+    "UK stocks set for weekly gains as investors seek shelter in defensive sectors",
+    "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negot"
   ]
 }
