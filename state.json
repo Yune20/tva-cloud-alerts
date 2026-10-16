@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792155143.8483424,
+  "last_signals": 1792155761.0511723,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -93,7 +93,7 @@
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792155144.2054193,
+    "USOIL|4H:top": 1792155761.665684,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792155144.7176814,
+    "US30|1D:top": 1792155762.521625,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792155135.9137247,
-  "last_news": 1792155143.8474455,
+  "last_analysis": 1792155753.2406895,
+  "last_news": 1792155761.050285,
   "seen_news": [
-    "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
-    "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
-    "Dollar slips as U.S. bond rally offsets hot PPI; euro sees best day in two month",
-    "US October Empire Manufacturing index +25.50 vs +10.25 expected",
-    "Ch\u1ec9 trong m\u1ed9t tu\u1ea7n, ACB \u0111\u01b0\u1ee3c vinh danh t\u1ea1i 7 h\u1ea1ng m\u1ee5c gi\u1ea3i th\u01b0\u1edfng danh gi\u00e1 trong",
-    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
     "Ph\u00e1t hi\u1ec7n con tr\u0103n kh\u1ed5ng l\u1ed3 b\u1ee5ng ph\u00ecnh to b\u1ea5t th\u01b0\u1eddng, l\u1ef1c l\u01b0\u1ee3ng ch\u1ee9c n\u0103ng v\u00e0o cu",
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
     "Shiba Inu Forms First 4-Hour Death Cross Setup in October: Potential Scenarios -",
@@ -462,6 +456,12 @@
     "Warsh won\u2019t prejudge rest of 2026, names October and December as decision points",
     "V\u00ec sao Ronaldo v\u1eabn d\u00f9ng \u0111i\u1ec7n tho\u1ea1i \u0111\u00e3 h\u01a1n 3 n\u0103m tu\u1ed5i?",
     "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) | VietstockFinance - VietstockF",
-    "Wall St futures mixed as tech wobbles again, Tesla gains - TradingView"
+    "Wall St futures mixed as tech wobbles again, Tesla gains - TradingView",
+    "investingLive Americas market news wrap: Yields continue to fall even after hot ",
+    "Th\u00e1p Media Goldsun t\u1ea1o d\u1ea5u \u1ea5n OOH t\u1ea1i s\u00e2n bay l\u1edbn",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
+    "Fairmount Funds Secures Board Influence at Alaunos Therapeutics with 19.99% Stak",
+    "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff serie",
+    "Civil servant faked illness with make-up to juggle five jobs, court hears"
   ]
 }
