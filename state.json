@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792131106.8444939,
+  "last_signals": 1792131715.6570902,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -94,7 +94,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792131108.6267793,
+    "US30|1D:top": 1792131717.518081,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792131109.27814,
+    "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792131098.9529016,
-  "last_news": 1792131106.7325268,
+  "last_analysis": 1792131707.6765985,
+  "last_news": 1792131715.6561835,
   "seen_news": [
-    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
-    "Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal",
-    "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has \u2019become too risk-aver",
-    "Macklem in Bangkok: oil, tariffs and job losses test the Bank of Canada\u2019s hike c",
-    "N\u1ebfu trong \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n c\u00f3 3 \u0111i\u1ec1u n\u00e0y, xin ch\u00fac m\u1eebng: B\u1ea1n l\u00e0 ng\u01b0\u1eddi c\u00f3 EQ ca",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
     "Why are more roofs not made of solar tiles?",
     "UBS sticks to buy-dollar-on-dips call. Here is why",
     "The party continues until the money runs out. Four things have reversed bonds",
@@ -461,6 +455,12 @@
     "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
     "Driving test waits fall to two-year low - but still average 20 weeks",
     "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
-    "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion"
+    "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
+    "Fed's Warsh withholds rate signal, praises recent global tightening with 'no fre",
+    "How the oil capital of the US welcomed a solar power boom",
+    "UBS exploring options abroad in case Swiss rules prove intolerable, sources say",
+    "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 VNeID ch\u00fa \u00fd c\u00e1c thay \u0111\u1ed5i m\u1edbi nh\u1ea5t",
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc"
   ]
 }
