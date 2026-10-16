@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792163857.0749536,
-  "last_bot4": 1792166502.575767,
+  "last_bot4": 1792167130.3089447,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792165665.705068
+    "Gold": 1792167130.308845
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792166804.8023405,
+  "last_signals": 1792167130.309702,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -76,7 +76,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -96,13 +96,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -133,19 +133,19 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792166805.0865905,
+    "Gold|4H:top": 1792167130.5343149,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
-    "US30|4H:top": 1792166806.304152,
+    "US30|4H:top": 1792167131.2766314,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792166806.3041625,
+    "US30|1D:top": 1792167131.2766504,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792166807.3893082
+    "DXY|4H:bot": 1792167132.4706225
   },
-  "last_analysis": 1792166502.5745313,
-  "last_news": 1792166804.8017306,
+  "last_analysis": 1792167119.155662,
+  "last_news": 1792167127.5310407,
   "seen_news": [
-    "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
-    "Why is Schneider Electric stock falling today?",
-    "European stock market open: Equities find some footing after a volatile week",
-    "D\u00e2n m\u1ea1ng \u201cb\u00f3c ph\u1ed1t\u201d: \u00d4 t\u00f4 Tesla Roadster t\u0103ng t\u1ed1c d\u01b0\u1edbi 1 gi\u00e2y, c\u1ea5t c\u00e1nh bay th\u1ef1c",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "Key facts: LHA 5% \u20ac488m 2028 sale; parl. review; Frankfurt fuel steps - TradingV",
     "Felix Nikolas Prehn on mortgage rates and the 10-year Treasury yield",
     "Ukraine 'ra tay' b\u1ea5t ng\u1edd t\u1ea1i Nga: \u00d4ng Putin th\u1eeba nh\u1eadn 'ch\u00fang t\u00f4i ngh\u0129 r\u1eb1ng h\u1ecd s\u1ebd",
     "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu | VietstockFinance - VietstockFinance",
@@ -461,6 +455,12 @@
     "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "IMF Sounds Alarm Over AI\u2019s Threat to Government Tax Bases",
-    "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide"
+    "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide",
+    "Living with a stink? Technology might help",
+    "Canadian dollar heads for weekly gain as U.S. dollar retreats",
+    "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for T",
+    "M\u1ed9t tr\u01b0\u1eddng \u0110H \u1edf TP.HCM m\u1ed7i n\u0103m ch\u1ec9 tuy\u1ec3n 40 sinh vi\u00ean cho ch\u01b0\u01a1ng tr\u00ecnh h\u1ecdc n\u00e0y: ",
+    "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t | VietstockFinance - VietstockFinance",
+    "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target "
   ]
 }
