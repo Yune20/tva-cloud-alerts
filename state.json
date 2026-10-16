@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792126132.2758224,
+  "last_signals": 1792126559.9307494,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,7 +79,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792126133.0407262,
+    "US30|1D:top": 1792126561.299632,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792126133.3649137,
+    "EUR/USD|4H:top": 1792126561.8816352,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792126124.7812696,
-  "last_news": 1792126132.2741475,
+  "last_analysis": 1792126551.6291654,
+  "last_news": 1792126559.9299247,
   "seen_news": [
-    "BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for ",
-    "L\u1ee3i nhu\u1eadn CTCP T\u1eadp \u0111o\u00e0n M\u1eb7t tr\u1eddi t\u0103ng 200%, t\u1ed5ng t\u00e0i s\u1ea3n t\u0103ng v\u1ecdt l\u00ean g\u1ea7n 100.00",
-    "Vietnam economic report - VietstockFinance",
-    "Can Government-Backed Refinery Expansion Fuel Delek Stock Gains? - TradingView",
-    "Don\u2019t ditch tech stocks just yet. Make these moves to take advantage of the late",
-    "Memory stocks are getting hammered. China and a 2029 oversupply are the big worr",
     "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
     "Dow leads US stock rebound. Indices snatch victory from the jaws of defeat.",
     "Huy \u0111\u1ed9ng h\u01a1n 104.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ec3 x\u00e2y m\u1ed9t nh\u00e0 ga m\u1edbi t\u1ea1i si\u00eau s\u00e2n bay r\u1ed9ng g\u1ea7n g\u1ea5p",
@@ -461,6 +455,12 @@
     "Dollar slips as U.S. bond rally offsets hot PPI; euro sees best day in two month",
     "US October Empire Manufacturing index +25.50 vs +10.25 expected",
     "Ch\u1ec9 trong m\u1ed9t tu\u1ea7n, ACB \u0111\u01b0\u1ee3c vinh danh t\u1ea1i 7 h\u1ea1ng m\u1ee5c gi\u1ea3i th\u01b0\u1edfng danh gi\u00e1 trong",
-    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance"
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "Ph\u00e1t hi\u1ec7n con tr\u0103n kh\u1ed5ng l\u1ed3 b\u1ee5ng ph\u00ecnh to b\u1ea5t th\u01b0\u1eddng, l\u1ef1c l\u01b0\u1ee3ng ch\u1ee9c n\u0103ng v\u00e0o cu",
+    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
+    "Shiba Inu Forms First 4-Hour Death Cross Setup in October: Potential Scenarios -",
+    "The problem with 'good debt': Why borrowers should think twice about the label",
+    "The virtual worlds where robots are trained",
+    "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play"
   ]
 }
