@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792155761.0511723,
+  "last_signals": 1792156375.2978168,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|range_in": 1792151087.770759,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
-    "5575146754|Gold|4H|range_in": 1792122102.6782892,
+    "5575146754|Gold|4H|range_in": 1792156375.2978168,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
     "5575146754|Gold|1D|range_in": 1792113751.3793218,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
@@ -77,7 +77,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792155761.665684,
+    "USOIL|4H:top": 1792156375.7000186,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792155762.521625,
+    "US30|1D:top": 1792156376.2175493,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792155753.2406895,
-  "last_news": 1792155761.050285,
+  "last_analysis": 1792156367.3942213,
+  "last_news": 1792156375.2968848,
   "seen_news": [
-    "Ph\u00e1t hi\u1ec7n con tr\u0103n kh\u1ed5ng l\u1ed3 b\u1ee5ng ph\u00ecnh to b\u1ea5t th\u01b0\u1eddng, l\u1ef1c l\u01b0\u1ee3ng ch\u1ee9c n\u0103ng v\u00e0o cu",
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "Shiba Inu Forms First 4-Hour Death Cross Setup in October: Potential Scenarios -",
-    "The problem with 'good debt': Why borrowers should think twice about the label",
-    "The virtual worlds where robots are trained",
-    "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
     "Preview: Nagel and Klingbeil in Bangkok: three themes as the ECB weighs a Decemb",
     "Con g\u00e1i M\u1ea1nh Tr\u01b0\u1eddng \u0111\u1eb9p chu\u1ea9n \u0111i\u1ec7n \u1ea3nh, nhan s\u1eafc \u0111\u01b0\u1ee3c so s\u00e1nh v\u1edbi MC L\u00ea B\u1ed1ng",
     "Vietnam economic report - VietstockFinance",
@@ -462,6 +456,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
     "Fairmount Funds Secures Board Influence at Alaunos Therapeutics with 19.99% Stak",
     "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff serie",
-    "Civil servant faked illness with make-up to juggle five jobs, court hears"
+    "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "U.S. SEPT FUEL IMPORT PRICES +4.8% M/M, +34.5% Y/Y - TradingView",
+    "Stock fixing scandal could see Turkish companies frozen out of global indexes",
+    "Watch: Did Tesla really just unveil a flying car?",
+    "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
+    "Dollar slips as U.S. bond rally offsets hot PPI; euro sees best day in two month"
   ]
 }
