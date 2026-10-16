@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792168670.912435,
+  "last_signals": 1792169123.706832,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -75,7 +75,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -99,8 +99,8 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|1H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -133,7 +133,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792168671.1958637,
+    "Gold|4H:top": 1792169124.0449948,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
@@ -145,7 +145,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792168672.234188,
+    "US30|1D:top": 1792169125.7369332,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792168673.279508
+    "DXY|4H:bot": 1792169127.4154315
   },
-  "last_analysis": 1792168660.721526,
-  "last_news": 1792168670.9107916,
+  "last_analysis": 1792169112.8830295,
+  "last_news": 1792169123.7059755,
   "seen_news": [
-    "Why is HeLIX Exploration stock rallying today?",
-    "Nike\u2019s problem is demand, not tariffs: what Moody\u2019s warning really signals",
-    "\"2 v\u1ee3 ch\u1ed3ng thu nh\u1eadp 30 - 40 tri\u1ec7u/th\u00e1ng c\u00f3 th\u1ec3 m\u1ea5t 30 n\u0103m nh\u1ecbn \u0103n u\u1ed1ng m\u1edbi mua ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
-    "Commvault Brings Discover-to-Recover Resilience to Microsoft 365 - TradingView",
-    "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other e",
     "V\u1ee3 ch\u1ed3ng c\u1ef1u T\u1ed5ng th\u1ed1ng M\u1ef9 Bill Clinton t\u00e1i xu\u1ea5t tr\u01b0\u1edbc b\u1ea7u c\u1eed gi\u1eefa nhi\u1ec7m k\u1ef3",
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ | VietstockFinance - VietstockFinance",
     "Somnigroup to Report Third Quarter 2026 Financial Results - TradingView",
@@ -461,6 +455,12 @@
     "US inflation rises more than expected - here's what is happening with prices",
     "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
     "European stocks post best week since June on easing yields",
-    "Earnings week ahead: Banks were upbeat on the economy, now onto tech"
+    "Earnings week ahead: Banks were upbeat on the economy, now onto tech",
+    "Trump Condemns Ukraine\u2019s Russian Refinery Strikes as a \u201cDisgrace\u201d",
+    "Indonesia regulators fine three companies $61.2 million total",
+    "European stock market open: Equities find some footing after a volatile week",
+    "\u0110\u1ebfm ng\u01b0\u1ee3c 76 ng\u00e0y, qu\u1ea7n th\u1ec3 r\u1ed9ng 4,5 tri\u1ec7u m\u00e9t vu\u00f4ng c\u1ee7a v\u1ee3 ch\u1ed3ng b\u00e0 Nguy\u1ec5n Ph\u01b0\u01a1",
+    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
+    "PesoRama Inc. (PESO) Plans Five Store Openings in Mexico - TradingView"
   ]
 }
