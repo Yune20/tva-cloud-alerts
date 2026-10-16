@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792174908.0655344,
+  "last_news_report": 1792185950.8153121,
   "last_bot4": 1792185628.6689608,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792185344.752421,
+  "last_signals": 1792185950.8163013,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "Ethereum:range_in": 1791620150.9742491,
@@ -76,7 +76,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -137,7 +137,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792185345.5940053,
+    "US30|1D:top": 1792185951.8303072,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -151,15 +151,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792185335.126594,
-  "last_news": 1792185344.7514625,
+  "last_analysis": 1792185940.2477148,
+  "last_news": 1792185946.2615445,
   "seen_news": [
-    "Fuel costs squeezing margins for some businesses",
-    "Exxon\u2019s Oil Boom Could Keep Guyana\u2019s Gas at Home",
-    "Gazprom Neft aims for full facility security, CEO says",
-    "USDCAD is lower on the day, but getting a modest lift after another higher infla",
-    "Quy \u0111\u1ecbnh x\u00e2y nh\u00e0 \u1edf ri\u00eang l\u1ebb t\u1ed1i \u0111a 2 t\u1ea7ng",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam 9/2026 - VietstockFinance",
     "Global Gas Crunch Makes Europe\u2019s Remaining Coal Plants Profitable",
     "Why is Palo Alto Networks stock sliding today?",
     "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
@@ -453,6 +447,12 @@
     "Bank of America hit with $1.2bn fine for money laundering failings",
     "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
     "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
-    "investingLive Americas market news wrap: Nasdaq sinks and oil jumps"
+    "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
+    "Nike's India campus is a long-term growth bet amid turnaround",
+    "The virtual worlds where robots are trained",
+    "Exclusive-Boeing sales chief McMullen to retire, company memo says",
+    "US September industrial production +0.7% vs +0.4% expected",
+    "V\u1ee5 xuy\u00ean kh\u00f4ng t\u1eadp th\u1ec3 c\u00f3 kh\u1ea3 n\u0103ng x\u1ea3y ra nh\u1ea5t th\u1ebf gi\u1edbi, 50.000 ng\u01b0\u1eddi \u0111\u1ed9t ng\u1ed9t b",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance"
   ]
 }
