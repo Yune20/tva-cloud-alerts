@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792184739.1518474,
+  "last_signals": 1792185344.752421,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "Ethereum:range_in": 1791620150.9742491,
@@ -75,7 +75,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -137,7 +137,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792184740.2321522,
+    "US30|1D:top": 1792185345.5940053,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -151,15 +151,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792184730.4917257,
-  "last_news": 1792184739.15094,
+  "last_analysis": 1792185335.126594,
+  "last_news": 1792185344.7514625,
   "seen_news": [
-    "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ba",
-    "Would you buy branded clothing from your favourite tech firm?",
-    "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets",
-    "Why is IREN stock sliding today?",
-    "US September industrial production +0.7% vs +0.4% expected",
     "Fuel costs squeezing margins for some businesses",
     "Exxon\u2019s Oil Boom Could Keep Guyana\u2019s Gas at Home",
     "Gazprom Neft aims for full facility security, CEO says",
@@ -453,6 +447,12 @@
     "Tesla and SpaceX could merge before December 6 -- Barclays - TradingView",
     "Don\u2019t buy this dip: Several signs suggest there\u2019s more pain ahead for tech stock",
     "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-    "Spain battles climate change on several fronts"
+    "Spain battles climate change on several fronts",
+    "Goodtech ASA (GOD) Trades Ex-Dividend NOK 2.00 Today - TradingView",
+    "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
+    "Bank of America hit with $1.2bn fine for money laundering failings",
+    "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
+    "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
+    "investingLive Americas market news wrap: Nasdaq sinks and oil jumps"
   ]
 }
