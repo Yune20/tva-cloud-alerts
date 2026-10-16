@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792176231.7846496,
+  "last_signals": 1792176836.5571933,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -88,7 +88,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792176233.2030451,
+    "US30|1D:top": 1792176837.519126,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -158,15 +158,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792176222.9645412,
-  "last_news": 1792176231.7404673,
+  "last_analysis": 1792176828.2008774,
+  "last_news": 1792176836.5563421,
   "seen_news": [
-    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
-    "I watched Nvidia's Jensen Huang work the room in London. He brought big checks \u2014",
-    "'I'd spend $1,000 on a wedding present'",
-    "China\u2019s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
-    "UK stocks set for weekly gains as investors seek shelter in defensive sectors",
-    "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negot",
     "Tesla unveils thruster-powered Roadster with $50,000 deposit, production slated ",
     "Emily \u0111\u0103ng t\u00e2m th\u01b0 chia tay l\u00fac n\u1eeda \u0111\u00eam",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
@@ -460,6 +454,12 @@
     "Trump says White House didn't order Starlink restrictions in Ukraine",
     "Netflix to shed 1,000 jobs in steepest cuts since 2022",
     "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
-    "Why is Snowflake stock tumbling today?"
+    "Why is Snowflake stock tumbling today?",
+    "Is EUR/USD finally turning the corner or is this just another false dawn?",
+    "Dragon Capital ch\u1ec9 ra m\u1ed9t s\u1ef1 th\u1eadt b\u1ea5t ng\u1edd ph\u00eda sau di\u1ec5n bi\u1ebfn VN-Index",
+    "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp | VietstockFinance - VietstockFinanc",
+    "US Natgas Prices Fall to Over 1-Week Low - TradingView",
+    "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+    "The start-ups hoping to return battery making to the US"
   ]
 }
