@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792142757.5562568,
+  "last_signals": 1792143364.3591783,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -93,7 +93,7 @@
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792142758.8856142,
+    "US30|1D:top": 1792143365.29254,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792142748.4830937,
-  "last_news": 1792142757.5549164,
+  "last_analysis": 1792143354.3502617,
+  "last_news": 1792143364.3583462,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "Bond market 'news failure' signals pain trade ahead - BTIG - TradingView",
-    "U.S. sues California in fight over checking citizenship of mail voters",
-    "Banks say Healey is planning Budget tax raid on their profits",
-    "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
-    "USDCAD sellers make a break for it and fail. What next technically?",
     "Nikkei 225 bears dominate near \u00a564,200 support: Live levels",
     "European stocks close mixed. UK leads gains as bond yields retreat",
     "Mi\u1ec1n B\u1eafc n\u1eafng r\u00e1o, Nam B\u1ed9 ti\u1ebfp t\u1ee5c m\u01b0a l\u1edbn",
@@ -462,6 +456,12 @@
     "Dollar snaps 4-week Rally; Indonesian rupiah hits July lows on MSCI threat",
     "Gold shrugs off hot inflation data as market focus may be shifting to growth con",
     "C\u00e1c \u0111i\u1ec3m \u0111\u1ebfn Vi\u1ec7t Nam ghi nh\u1eadn \u0111\u00e0 t\u0103ng tr\u01b0\u1edfng t\u00edch c\u1ef1c, n\u1ed5i b\u1eadt v\u1edbi s\u1ee9c h\u00fat c\u1ee7a ",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance"
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Euro Hits 16-month Low - TradingView",
+    "\u2018It\u2019s a wait-and-see situation\u2019: I\u2019m 63 and diagnosed with lymphoma. Should I ta",
+    "Tesla reveals next-generation Roadster after almost a decade of delays",
+    "Rainmakers: The drones used to seed clouds",
+    "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens"
   ]
 }
