@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792163857.0749536,
-  "last_bot4": 1792170223.1445324,
+  "last_bot4": 1792170895.1262157,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792169566.347555
+    "Gold": 1792170895.1261163
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792170549.1391222,
+  "last_signals": 1792170895.1269138,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -74,7 +74,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -90,18 +90,18 @@
     "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792170550.4786503,
+    "US30|1D:top": 1792170895.9754658,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,17 +156,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792170551.5861855
+    "DXY|4H:bot": 1792170896.6538932
   },
-  "last_analysis": 1792170540.3053927,
-  "last_news": 1792170549.1380076,
+  "last_analysis": 1792170884.6431885,
+  "last_news": 1792170892.3041186,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Euro Hits 16-month Low - TradingView",
-    "\u2018It\u2019s a wait-and-see situation\u2019: I\u2019m 63 and diagnosed with lymphoma. Should I ta",
-    "Tesla reveals next-generation Roadster after almost a decade of delays",
-    "Rainmakers: The drones used to seed clouds",
-    "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
     "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Trad",
     "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
     "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -460,6 +454,12 @@
     "Commvault Brings Discover-to-Recover Resilience to Microsoft 365 - TradingView",
     "Elon Musk may have just taken a major step toward consolidating his empire",
     "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
-    "Banks expect to be hit with higher taxes in Budget"
+    "Banks expect to be hit with higher taxes in Budget",
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Bernstein reiterates Market Perform rating on Venture Global, $14 price target -",
+    "Here\u2019s how the Fed should reveal its outlook for the economy",
+    "Here's who Netflix just brought in to run content \u2014 and what it means for the st",
+    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
+    "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027"
   ]
 }
