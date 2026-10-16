@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792174908.0655344,
-  "last_bot4": 1792174640.6844966,
+  "last_bot4": 1792175266.1203904,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792173754.265449
+    "Gold": 1792175266.1202998
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792174908.0665493,
+  "last_signals": 1792175266.1228979,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -80,7 +80,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -93,7 +93,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792174908.875694,
+    "US30|1D:top": 1792175268.1105154,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -158,15 +158,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792174894.7887123,
-  "last_news": 1792174902.1760633,
+  "last_analysis": 1792175254.2599583,
+  "last_news": 1792175262.842939,
   "seen_news": [
-    "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatilit",
-    "XSMT 16/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 16 th\u00e1ng 10",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 \u0111\u1ea7u t\u01b0 d\u1eabn d\u1eaft t\u0103ng tr\u01b0\u1edfng trong m\u00f4i tr\u01b0\u1eddng l\u00e3i su\u1ea5t ",
-    "Artprice by Artmarket: The Author's Responsibility in the Age of AI - TradingVie",
-    "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two human",
-    "Norway's $2 trillion wealth fund was frozen out of major defense companies. That",
     "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
     "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that ",
     "Nike's India campus is a long-term growth bet amid turnaround",
@@ -460,6 +454,12 @@
     "PCB: Ng\u00e2n h\u00e0ng TMCP \u0110\u1ea1i ch\u00fang Vi\u1ec7t Nam - PVcomBank | VietstockFinance - Vietstoc",
     "CRWV: CoreWeave Rebounds 6% as Nvidia\u2019s Jensen Huang Defends Its Finances - Trad",
     "Welcome to the \u2018AI burnout trade\u2019 \u2014 as investors grow tired of debating tech\u2019s p",
-    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'"
+    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'",
+    "Lo\u1ea1t doanh nghi\u1ec7p th\u00e9p d\u1ed3n d\u1eadp b\u00e1o l\u00e3i l\u1edbn trong qu\u00fd 3/2026",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
+    "The U.S. budget deficit just hit almost $2 trillion \u2014 and Washington isn\u2019t doing",
+    "Debt is eating up a bigger chunk of your raise, research shows",
+    "Wayfair among firms fined millions for misleading sales tactics"
   ]
 }
