@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792119943.1417742,
-  "last_bot4": 1792129814.745047,
+  "last_bot4": 1792130491.5708125,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792130130.9537215,
+  "last_signals": 1792130491.5715652,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,7 +47,7 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792128307.7173986,
+    "5575146754|Gold|1H|range_in": 1792130491.5715652,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792122102.6782892,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792130131.6759822,
+    "US30|1D:top": 1792130492.8077831,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792130131.9997637,
+    "EUR/USD|4H:top": 1792130493.2792523,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792130124.058592,
-  "last_news": 1792130130.9529257,
+  "last_analysis": 1792130482.8345125,
+  "last_news": 1792130491.5699668,
   "seen_news": [
-    "Wheat Weakness Extending to Wednesday - TradingView",
-    "I\u2019m 64 years old, with two sons, but only one works in the family firm. Should I",
-    "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-    "Driving test waits fall to two-year low - but still average 20 weeks",
-    "Europe\u2019s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
-    "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
     "CHN Group LLC Fixes Website Vulnerability, Warns Clients; Launches NOW AI - Trad",
     "Southwest is overhauling its frequent flyer program. Here's what's changing",
     "How the oil capital of the US welcomed a solar power boom",
@@ -461,6 +455,12 @@
     "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
     "Fuel costs squeezing margins for some businesses",
     "Exxon\u2019s Oil Boom Could Keep Guyana\u2019s Gas at Home",
-    "Hyundai recalls 94,622 vehicles in U.S. over fire risk"
+    "Hyundai recalls 94,622 vehicles in U.S. over fire risk",
+    "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him ",
+    "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter",
+    "Banks say Healey planning to increase tax on their profits in Budget",
+    "Schneider Electric raises 2026 targets again on booming data centre demand",
+    "Fed's Hammack questions whether Fed policy is tight enough as inflation risks bu",
+    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh \u0111ang nu\u00f4i ch\u00f3 trong nh\u00e0"
   ]
 }
