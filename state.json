@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792115893.085262,
+  "last_signals": 1792116507.4627037,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -97,13 +97,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792115894.562789,
+    "US30|1D:top": 1792116508.3354404,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792115884.7428374,
-  "last_news": 1792115893.0842068,
+  "last_analysis": 1792116499.6402278,
+  "last_news": 1792116507.4618397,
   "seen_news": [
-    "Democrat Talarico says he raised record $64 million over summer in Texas Senate ",
-    "The start-ups hoping to return battery making to the US",
-    "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar",
-    "India importers press on with rupee hedges despite RBI\u2019s higher-cost deterrent",
-    "Oil remains supported amid persistent Middle East tensions as US weighs using \"M",
-    "C\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n l\u00e3i \u0111\u1ed9t bi\u1ebfn 1.000 t\u1ef7 \u0111\u1ed3ng, g\u1ea5p 327 l\u1ea7n c\u00f9ng k\u1ef3 trong qu\u00fd 3",
     "Amazon launches two new portable AI listening devices",
     "Australian jobs data due imminently - previews",
     "C\u0103n nh\u00e0 \u0111i thu\u00ea c\u1ee7a \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169",
@@ -461,6 +455,12 @@
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
     "Moderna rallies despite bearish views ahead of cancer vaccine data - TradingView",
     "China's exports and imports surge past expectations in September",
-    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire"
+    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
+    "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
+    "Goldman says investors are looking for 'profitable' Chinese business growth over",
+    "How long will humans be needed for translation?",
+    "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
+    "Google\u2019s 40-fold quantum leap: big for Willow, smaller for Alphabet\u2019s share pric"
   ]
 }
