@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792152934.3646865,
-  "last_bot4": 1792157274.967333,
+  "last_bot4": 1792157936.8344593,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792156666.1102912
+    "Gold": 1792157936.8343618
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792157580.091586,
+  "last_signals": 1792157936.8352716,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -47,12 +47,12 @@
     "Bitcoin|1H|trap_up": 1791643326.0207214,
     "Ethereum|1H|trap_up": 1791643326.0207214,
     "Ethereum|1D|range_in": 1791646560.594424,
-    "5575146754|Gold|1H|range_in": 1792151087.770759,
+    "5575146754|Gold|1H|range_in": 1792157936.8352716,
     "5575146754|Gold|4H|ttop": 1791865116.8140697,
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792156375.2978168,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
-    "5575146754|Gold|1D|range_in": 1792113751.3793218,
+    "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
@@ -76,9 +76,9 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792157580.482536,
+    "USOIL|4H:top": 1792157937.2700224,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792157561.1222785,
-  "last_news": 1792157580.0907857,
+  "last_analysis": 1792157923.872315,
+  "last_news": 1792157934.258405,
   "seen_news": [
-    "Dow leads US stock rebound. Indices snatch victory from the jaws of defeat.",
-    "M\u1ed9t ph\u01b0\u1eddng \u0111\u01b0\u1ee3c TP.HCM 'th\u01b0\u1edfng n\u00f3ng' c\u00f4ng tr\u00ecnh 200 t\u1ef7 \u0111\u1ed3ng",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Tesla and SpaceX could merge before December 6 -- Barclays - TradingView",
-    "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Malaysia Q3 GDP grows 5.3%, slows from Q2",
     "US October Philly Fed business index +20.9 vs +28.4 expected",
     "Th\u1ee7 t\u1ee5c mua l\u1ea1i nh\u00e0 \u1edf x\u00e3 h\u1ed9i trong th\u1eddi h\u1ea1n 5 n\u0103m",
@@ -462,6 +456,12 @@
     "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
     "Gi\u00e1 v\u00e0ng nh\u1eabn tr\u01a1n, v\u00e0ng mi\u1ebfng chi\u1ec1u t\u1ed1i 16/10 t\u1ea1i SJC, PNJ, DOJI, B\u1ea3o T\u00edn Minh ",
     "Vietnam economic report - VietstockFinance",
-    "Equifax downgraded to Hold equivalent at Oppenheimer - TradingView"
+    "Equifax downgraded to Hold equivalent at Oppenheimer - TradingView",
+    "BOJ\u2019s Ueda: We will continue to raise rates as underlying inflation approaches 2",
+    "Ng\u01b0\u1eddi ta \u0111\u00e3 khen qu\u00e1 nhi\u1ec1u th\u1ee9 v\u1ec1 Trung Qu\u1ed1c nh\u01b0ng \u0111\u1ebfn m\u1ee9c n\u00e0y th\u00ec \"h\u1ebft l\u1eddi\": \u0110i",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "CPI, mortgage rates, rate hike bets are all on the rise - TradingView",
+    "The problem with 'good debt': Why borrowers should think twice about the label",
+    "Spain battles climate change on several fronts"
   ]
 }
