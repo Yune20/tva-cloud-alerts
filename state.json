@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792170895.1269138,
+  "last_signals": 1792171364.4916933,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -81,7 +81,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -92,16 +92,16 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792170895.9754658,
+    "US30|1D:top": 1792171366.0480437,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,17 +156,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792170896.6538932
+    "DXY|4H:bot": 1792171367.266815
   },
-  "last_analysis": 1792170884.6431885,
-  "last_news": 1792170892.3041186,
+  "last_analysis": 1792171356.4870253,
+  "last_news": 1792171364.490803,
   "seen_news": [
-    "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Trad",
-    "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
-    "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "Sterling today: Pound rises as UK growth beats forecasts, dollar retreats",
-    "Dow Jones futures analysis: Fed risks and key levels for October 16",
-    "T\u1eeb t\u1ea7ng 33 c\u00f3 thang m\u00e1y chuy\u1ec3n xu\u1ed1ng t\u1ea7ng 3 kh\u00f4ng thang m\u00e1y, t\u00f4i m\u1edbi hi\u1ec3u m\u00ecnh \u0111",
     "The AI telling farmers when to harvest",
     "Stablecoin issuer Circle to push into 40 new markets, CEO says",
     "Trump draws two red lines on Iran but keeps Pickaxe Mountain strike in play",
@@ -460,6 +454,12 @@
     "Here\u2019s how the Fed should reveal its outlook for the economy",
     "Here's who Netflix just brought in to run content \u2014 and what it means for the st",
     "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
-    "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027"
+    "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
+    "Trump says new White House press secretary Katie Zacharia should 'reconsider' jo",
+    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+    "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
+    "Dollar snaps 4-week Rally; Indonesian rupiah hits July lows on MSCI threat",
+    "European stocks finish higher, posting weekly gains as U.S. technology shares st",
+    "L\u1eddi khuy\u00ean cho 4 con gi\u00e1p c\u1ea7n c\u1ea9n tr\u1ecdng trong th\u00e1ng 9 \u00c2m l\u1ecbch"
   ]
 }
