@@ -29,12 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792183361.4066505,
+  "last_signals": 1792183963.6620474,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
-    "USOIL:range_in": 1791579157.3708196,
-    "USD/JPY:range_in": 1791578809.2870445,
-    "JPY Index:range_in": 1791578809.2870445,
     "Ethereum:range_in": 1791620150.9742491,
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
@@ -71,7 +68,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -140,7 +137,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792183362.6344023,
+    "US30|1D:top": 1792183964.4838202,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -154,15 +151,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792183351.3120239,
-  "last_news": 1792183361.405444,
+  "last_analysis": 1792183951.515469,
+  "last_news": 1792183963.6611576,
   "seen_news": [
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Form 8.3 - The Vanguard Group, Inc.: DCC plc - TradingView",
-    "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger specul",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Why is Skyworks Solutions stock climbing today?",
-    "How have interest rate expectations changed after this week's events?",
     "Tesla and SpaceX could merge before December 6 -- Barclays - TradingView",
     "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
     "The virtual worlds where robots are trained",
@@ -456,6 +447,12 @@
     "Iran War Set To Push PetroChina\u2019s Trading Profit to Record $3 Billion",
     "Nasdaq notches worst week since late June with a 4.5% slide as AI trade suffers",
     "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
-    "Ph\u00e1t hi\u1ec7n thi th\u1ec3 m\u1eb7c \u00e1o grab n\u1ed5i tr\u00ean h\u1ed3 Xu\u00e2n H\u01b0\u01a1ng"
+    "Ph\u00e1t hi\u1ec7n thi th\u1ec3 m\u1eb7c \u00e1o grab n\u1ed5i tr\u00ean h\u1ed3 Xu\u00e2n H\u01b0\u01a1ng",
+    "Idt Director Sold Shares Worth Over $1.1M - TradingView",
+    "Norway's $2 trillion wealth fund was frozen out of major defense companies. That",
+    "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "Celanese stock falls after raising LCP prices globally",
+    "BOJ\u2019s Ueda: We will continue to raise rates as underlying inflation approaches 2",
+    "Anh Nguy\u1ec5n \u0110\u00ecnh H\u00f2a chuy\u1ec3n kho\u1ea3n g\u1ea7n 1,371 t\u1ef7 \u0111\u1ed3ng \u0111\u1ebfn t\u00e0i kho\u1ea3n MSB c\u1ee7a L\u00ea Th\u1ecb "
   ]
 }
