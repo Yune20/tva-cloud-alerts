@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792142146.7044845,
+  "last_signals": 1792142757.5562568,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -80,7 +80,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792142147.7963467,
+    "US30|1D:top": 1792142758.8856142,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792142134.2710035,
-  "last_news": 1792142146.7035248,
+  "last_analysis": 1792142748.4830937,
+  "last_news": 1792142757.5549164,
   "seen_news": [
-    "India curbs gold ETF buying before Diwali, removing a seasonal prop for gold dem",
-    "Chi\u1ebfc c\u1eb7p kh\u1ed5ng l\u1ed3 g\u00e2y ch\u00fa \u00fd t\u1ea1i Tu\u1ea7n l\u1ec5 Th\u1eddi trang New York",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weather Risks Underpin Sugar Prices - TradingView",
-    "Tesla reveals next-generation Roadster after almost a decade of delays",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
     "Bond market 'news failure' signals pain trade ahead - BTIG - TradingView",
     "U.S. sues California in fight over checking citizenship of mail voters",
@@ -462,6 +456,12 @@
     "SpaceX policy manager set to testify as part of NYC Council AI safety investigat",
     "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
     "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
-    "Chart of the day: 10-year Treasury yields hit reverse this week but the real tes"
+    "Chart of the day: 10-year Treasury yields hit reverse this week but the real tes",
+    "Elon Musk helps GOP Senate super PAC raise record $273 million",
+    "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+    "Dollar snaps 4-week Rally; Indonesian rupiah hits July lows on MSCI threat",
+    "Gold shrugs off hot inflation data as market focus may be shifting to growth con",
+    "C\u00e1c \u0111i\u1ec3m \u0111\u1ebfn Vi\u1ec7t Nam ghi nh\u1eadn \u0111\u00e0 t\u0103ng tr\u01b0\u1edfng t\u00edch c\u1ef1c, n\u1ed5i b\u1eadt v\u1edbi s\u1ee9c h\u00fat c\u1ee7a ",
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance"
   ]
 }
