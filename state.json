@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792131715.6570902,
+  "last_signals": 1792132323.444799,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,15 +76,15 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792131717.518081,
+    "US30|1D:top": 1792132324.7829015,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,12 @@
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792108789.1603777
+    "Bitcoin|1D:bot": 1792108789.1603777,
+    "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792131707.6765985,
-  "last_news": 1792131715.6561835,
+  "last_analysis": 1792132315.2516553,
+  "last_news": 1792132323.4439993,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "UBS sticks to buy-dollar-on-dips call. Here is why",
-    "The party continues until the money runs out. Four things have reversed bonds",
-    "Vi\u1ec7t Nam \u0111ang x\u00e2y si\u00eau s\u00e2n bay qu\u1ed1c t\u1ebf l\u1edbn h\u01a1n c\u1ea3 N\u1ed9i B\u00e0i, ch\u1ec9 c\u00e1ch H\u00e0 N\u1ed9i 40km,",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance",
-    "CPI: Hot Inflation at 3.7% Lifts Yields and Dollar as Gold and Bitcoin Nosedive ",
     "\u0110i\u1ec1u g\u00ec s\u1eafp di\u1ec5n ra t\u1ea1i s\u00e2n v\u1eadn \u0111\u1ed9ng h\u01a1n 10.000 ch\u1ed7 \u1edf L\u00e0o Cai? Huy \u0111\u1ed9ng 24 m\u00e1y c",
     "T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - VietstockFinance",
     "Micron Stocks Fall Although $35B Buyback Window Nears - TradingView",
@@ -461,6 +456,12 @@
     "UBS exploring options abroad in case Swiss rules prove intolerable, sources say",
     "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 VNeID ch\u00fa \u00fd c\u00e1c thay \u0111\u1ed5i m\u1edbi nh\u1ea5t",
-    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc"
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
+    "Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg",
+    "Macklem in Bangkok: oil, tariffs and job losses test the Bank of Canada\u2019s hike c",
+    "N\u0103m 2027, d\u1ef1 ki\u1ebfn chi th\u01b0\u1eddng xuy\u00ean h\u01a1n 2 tri\u1ec7u t\u1ef7, trong \u0111\u00f3 c\u00f3 chi c\u1ea3i c\u00e1ch ti\u1ec1n",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
+    "CHN Group LLC Fixes Website Vulnerability, Warns Clients; Launches NOW AI - Trad",
+    "What to know about Starshield, SpaceX's military-focused Starlink service"
   ]
 }
