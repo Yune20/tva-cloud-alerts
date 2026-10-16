@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792124552.5360003,
+  "last_signals": 1792125158.3243291,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -77,9 +77,9 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792124554.240155,
+    "US30|1D:top": 1792125159.4134874,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,18 +156,12 @@
     "Ethereum|4H:bot": 1792079939.16448,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
-    "EUR/USD|4H:top": 1792123931.4600003,
+    "EUR/USD|4H:top": 1792125159.9067702,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792124545.5933292,
-  "last_news": 1792124552.5350516,
+  "last_analysis": 1792125149.1336842,
+  "last_news": 1792125158.3235762,
   "seen_news": [
-    "What are the main events for today?",
-    "V\u1eeba r\u00f3t 1.300 t\u1ef7 v\u00e0o ch\u1ee7 Kem Tr\u00e0ng Ti\u1ec1n, l\u1ea1i mu\u1ed1n chi 540 t\u1ef7 mua T\u00e0i ch\u00ednh \u0110i\u1ec7n ",
-    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
-    "Shiba Inu Forms First 4-Hour Death Cross Setup in October: Potential Scenarios -",
-    "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-    "'I'd spend $1,000 on a wedding present'",
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
     "Weyerhaeuser upgraded at Bank of America on timberland assets - TradingView",
     "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -461,6 +455,12 @@
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp | VietstockFinance - Vietst",
     "Elopak ASA (ELO) Trades Ex-Dividend of \u20ac0.065 - TradingView",
     "Big pharma stocks close near all-time highs as tech selloff pushes investors tow",
-    "Porsche reveals Mission S concept car that previews new design identity"
+    "Porsche reveals Mission S concept car that previews new design identity",
+    "Pangolin to Launch Roadmap - TradingView",
+    "One Singapore ship was sunk, but here's why others are still transiting the Stra",
+    "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
+    "Market playbook: Is the bond market starting to worry more about US growth than ",
+    "H\u00e0 N\u1ed9i x\u1eed l\u00fd r\u00e0o ch\u1eafn t\u1ea1i 62 \u0111i\u1ec3m thi c\u00f4ng g\u00e2y \u00f9n t\u1eafc"
   ]
 }
