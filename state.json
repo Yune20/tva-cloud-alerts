@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792163857.0749536,
-  "last_bot4": 1792168046.6611907,
+  "last_bot4": 1792168670.9116828,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792168046.6807199,
+  "last_signals": 1792168670.912435,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -84,7 +84,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -93,7 +93,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -133,7 +133,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792168046.8761144,
+    "Gold|4H:top": 1792168671.1958637,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
@@ -145,7 +145,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792168047.9190152,
+    "US30|1D:top": 1792168672.234188,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792168049.0257878
+    "DXY|4H:bot": 1792168673.279508
   },
-  "last_analysis": 1792168034.948587,
-  "last_news": 1792168044.0016496,
+  "last_analysis": 1792168660.721526,
+  "last_news": 1792168670.9107916,
   "seen_news": [
-    "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-    "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-    "'I paid thousands to a company for jobs that never came'",
-    "Why is Tesla stock surging today?",
-    "Where do traders get interest rate expectations for central banks?",
-    "H\u00e9 l\u1ed9 qu\u00e1 kh\u1ee9 c\u1ee7a giang h\u1ed3 m\u1ea1ng 'Ng\u1ecdc Rambo' tr\u01b0\u1edbc khi b\u1ecb kh\u1edfi t\u1ed1",
     "Why is HeLIX Exploration stock rallying today?",
     "Nike\u2019s problem is demand, not tariffs: what Moody\u2019s warning really signals",
     "\"2 v\u1ee3 ch\u1ed3ng thu nh\u1eadp 30 - 40 tri\u1ec7u/th\u00e1ng c\u00f3 th\u1ec3 m\u1ea5t 30 n\u0103m nh\u1ecbn \u0103n u\u1ed1ng m\u1edbi mua ",
@@ -461,6 +455,12 @@
     "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
     "How backlash against data centres could shape the US midterm elections",
     "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
-    "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.25%"
+    "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.25%",
+    "Moderna rallies despite bearish views ahead of cancer vaccine data - TradingView",
+    "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
+    "European stocks post best week since June on easing yields",
+    "Earnings week ahead: Banks were upbeat on the economy, now onto tech"
   ]
 }
