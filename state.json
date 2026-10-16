@@ -29,11 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792169566.3484387,
+  "last_signals": 1792169936.8224223,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
-    "US30:momo_up": 1791565125.5718102,
     "US30:trap_up": 1791572560.5769558,
     "USD/JPY:range_in": 1791578809.2870445,
     "JPY Index:range_in": 1791578809.2870445,
@@ -75,7 +74,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -98,13 +97,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "USD/JPY|1D": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792170198,
   "menu_prices": {
@@ -133,7 +132,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792169566.5665016,
+    "Gold|4H:top": 1792169936.938637,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
@@ -145,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792169567.67058,
+    "US30|1D:top": 1792169937.8950474,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +156,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792169568.9316711
+    "DXY|4H:bot": 1792169938.6121686
   },
-  "last_analysis": 1792169553.834457,
-  "last_news": 1792169563.0285597,
+  "last_analysis": 1792169929.2593124,
+  "last_news": 1792169936.8214393,
   "seen_news": [
-    "REG - Brooks Macdonald Grp - Director/PDMR Shareholding - TradingView",
-    "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
-    "SpaceX policy manager set to testify as part of NYC Council AI safety investigat",
-    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
-    "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
-    "Chart of the day: 10-year Treasury yields hit reverse this week but the real tes",
     "Elon Musk helps GOP Senate super PAC raise record $273 million",
     "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
     "Dollar snaps 4-week Rally; Indonesian rupiah hits July lows on MSCI threat",
@@ -461,6 +454,12 @@
     "Felix Nikolas Prehn on mortgage rates and the 10-year Treasury yield",
     "L\u00fd do N\u00f3n S\u01a1n \u0111\u1eb7t 195 c\u1eeda h\u00e0ng \"m\u1eb7t ti\u1ec1n \u0111\u1eaft nh\u01b0 v\u00e0ng\"",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
-    "United Rentals to Report Q3 Earnings: Here's What to Expect - TradingView"
+    "United Rentals to Report Q3 Earnings: Here's What to Expect - TradingView",
+    "European shares close out best week since June as earnings soften blow from tech",
+    "Where do traders get interest rate expectations for central banks?",
+    "L\u1eddi khuy\u00ean cho ng\u01b0\u1eddi hay d\u00f9ng \u0111i\u1ec7n tho\u1ea1i tr\u01b0\u1edbc khi ng\u1ee7",
+    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ | VietstockFinance - VietstockFinance",
+    "Somnigroup to Report Third Quarter 2026 Financial Results - TradingView",
+    "Are we spending our retirement money in the right order? Our plan is: Social Sec"
   ]
 }
