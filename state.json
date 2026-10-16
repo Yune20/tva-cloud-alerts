@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792153949.7053945,
+  "last_signals": 1792154532.2876892,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -138,7 +138,7 @@
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792153950.0973287,
+    "USOIL|4H:top": 1792154532.837447,
     "US30|4H:top": 1791908556.3124197,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792153950.7012222,
+    "US30|1D:top": 1792154533.6923366,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -160,15 +160,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792132325.8961368
   },
-  "last_analysis": 1792154205.0009925,
-  "last_news": 1792153947.1829195,
+  "last_analysis": 1792154523.9490948,
+  "last_news": 1792154532.2867098,
   "seen_news": [
-    "Pangolin to Launch Roadmap - TradingView",
-    "One Singapore ship was sunk, but here's why others are still transiting the Stra",
-    "Civil servant faked illness with make-up to juggle five jobs, court hears",
-    "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
-    "Market playbook: Is the bond market starting to worry more about US growth than ",
-    "H\u00e0 N\u1ed9i x\u1eed l\u00fd r\u00e0o ch\u1eafn t\u1ea1i 62 \u0111i\u1ec3m thi c\u00f4ng g\u00e2y \u00f9n t\u1eafc",
     "Spain battles climate change on several fronts",
     "Asia FX subdued, dollar weakens after bond rally; rupee set for 2% weekly jump",
     "US September PPI 6.3% vs 5.3% expected",
@@ -462,6 +456,12 @@
     "Deadly Airstrikes Expose Growing Battle Over Sudan\u2019s Gold",
     "Why is CoreWeave stock sliding today?",
     "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental",
-    "B\u1ecb sa th\u1ea3i, m\u1ed9t nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng \u0111\u01b0\u1ee3c b\u1ed3i th\u01b0\u1eddng 10 th\u00e1ng l\u01b0\u01a1ng tr\u1ecb gi\u00e1 1,005"
+    "B\u1ecb sa th\u1ea3i, m\u1ed9t nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng \u0111\u01b0\u1ee3c b\u1ed3i th\u01b0\u1eddng 10 th\u00e1ng l\u01b0\u01a1ng tr\u1ecb gi\u00e1 1,005",
+    "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
+    "My hometown shows that high streets have to change or die",
+    "Trump's Oil Price Strategy Faces Two Major Tests This Weekend",
+    "Why is Varonis Systems stock rallying today?",
+    "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
+    "Khi ng\u00e2n s\u00e1ch c\u00f3 h\u1ea1n, ng\u01b0\u1eddi tr\u1ebb n\u00ean \u01b0u ti\u00ean b\u1ea3o v\u1ec7 \u0111i\u1ec1u g\u00ec tr\u01b0\u1edbc?"
   ]
 }
