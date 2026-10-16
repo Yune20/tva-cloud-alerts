@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792109085.1128771,
-  "last_bot4": 1792113052.7839882,
+  "last_bot4": 1792113751.3785632,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792112441.483924
+    "Gold": 1792113751.3784602
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792113381.216756,
+  "last_signals": 1792113751.3793218,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -52,7 +52,7 @@
     "5575146754|Gold|4H|dtop": 1791865783.3343499,
     "5575146754|Gold|4H|range_in": 1792102662.572069,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
-    "5575146754|Gold|1D|range_in": 1792090351.1557107,
+    "5575146754|Gold|1D|range_in": 1792113751.3793218,
     "5575146754|Gold|1H|trap_up": 1792094860.8659146,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
     "5575146754|Gold|4H|tbot": 1791980722.3972728,
@@ -78,7 +78,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792113382.0414739,
+    "US30|1D:top": 1792113752.6562672,
     "GBP/USD|4H:top": 1792112153.485304,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792113373.6628299,
-  "last_news": 1792113381.2158055,
+  "last_analysis": 1792113740.5108464,
+  "last_news": 1792113748.5507338,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee - KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 32,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Viet",
-    "Asbury Automotive Group Inc Stock 12\u2011Month Price Target Cut to $229.9, Implies 4",
-    "Your Social Security check will rise an average of $75 a month \u2014 will it be able",
-    "Anduril CEO defends Trump administration contracts: 'We've done incredibly well ",
-    "Banks say Healey is planning Budget tax raid on their profits",
-    "Volvo Cars expands Nvidia partnership for self-driving tech",
     "Are we spending our retirement money in the right order? Our plan is: Social Sec",
     "Equal-weight failed. Now tech stocks look shaky again. So what should you do abo",
     "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
@@ -461,6 +455,12 @@
     "Haxaco tr\u00ecnh c\u1ed5 \u0111\u00f4ng k\u1ebf ho\u1ea1ch mua l\u1ea1i 4,5 tri\u1ec7u c\u1ed5 phi\u1ebfu",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Trad",
-    "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality"
+    "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality",
+    "India curbs gold ETF buying before Diwali, removing a seasonal prop for gold dem",
+    "Chi\u1ebfc c\u1eb7p kh\u1ed5ng l\u1ed3 g\u00e2y ch\u00fa \u00fd t\u1ea1i Tu\u1ea7n l\u1ec5 Th\u1eddi trang New York",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Weather Risks Underpin Sugar Prices - TradingView",
+    "Tesla reveals next-generation Roadster after almost a decade of delays",
+    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more"
   ]
 }
