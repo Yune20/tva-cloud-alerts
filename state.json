@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792118353.7237494,
+  "last_signals": 1792118959.357952,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -76,7 +76,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -84,7 +84,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -100,7 +100,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -146,7 +146,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792118355.1948817,
+    "US30|1D:top": 1792118960.1309223,
     "GBP/USD|4H:top": 1792115284.0190022,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -159,15 +159,9 @@
     "EUR/USD|4H:top": 1792029595.566527,
     "Bitcoin|1D:bot": 1792108789.1603777
   },
-  "last_analysis": 1792118343.78294,
-  "last_news": 1792118353.722655,
+  "last_analysis": 1792118951.8461711,
+  "last_news": 1792118959.356826,
   "seen_news": [
-    "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-    "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
-    "AIR Global sets first-ever dividend, $100M buyback amid business, cash strength",
-    "Short covering is driving price action in markets today",
-    "8 ng\u00e2n h\u00e0ng r\u1ee5c r\u1ecbch huy \u0111\u1ed9ng 5,4 t\u1ef7 USD: Cu\u1ed9c \u0111ua m\u1edbi c\u1ee7a nh\u1eefng \"\u00f4ng l\u1edbn\" ng\u00e2n ",
     "CoreWeave\u2019s polarizing stock rebounds as Wall Street squares off about AI spendi",
     "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ",
     "X-planes: Are they needed in the new era of drones?",
@@ -461,6 +455,12 @@
     "Gold Supported by Safe-Haven Demand - TradingView",
     "Williams says Fed may not have to hike rates in 2027, at odds with traders",
     "Wayfair among firms fined millions for misleading sales tactics",
-    "Taiwan plans $4 bln Texas park to support Nvidia\u2019s AI supply chain - Bloomberg"
+    "Taiwan plans $4 bln Texas park to support Nvidia\u2019s AI supply chain - Bloomberg",
+    "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly access",
+    "Why the UK is dithering over what to do about e-scooters",
+    "Singapore non-oil exports jump bigger-than-expected 68.4% in September",
+    "Goldman: Warsh\u2019s quieter Fed: why less guidance could mean more market volatilit",
+    "T\u1eeb b\u00e9 kh\u00f4ng c\u00f3 g\u1ea1o \u0103n, ph\u1ea3i \u0111i ph\u00e1t t\u1edd r\u01a1i ki\u1ebfm s\u1ed1ng, c\u00f4 g\u00e1i l\u1edbn l\u00ean th\u00e0nh ca s\u0129",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 33,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc"
   ]
 }
