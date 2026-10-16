@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792167130.309702,
+  "last_signals": 1792167461.3488846,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -86,7 +86,7 @@
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
@@ -102,7 +102,7 @@
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -133,19 +133,19 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792167130.5343149,
+    "Gold|4H:top": 1792167461.522618,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
-    "US30|4H:top": 1792167131.2766314,
+    "US30|4H:top": 1792167462.3696177,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792167131.2766504,
+    "US30|1D:top": 1792167462.3696609,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -157,17 +157,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792167132.4706225
+    "DXY|4H:bot": 1792167463.2370534
   },
-  "last_analysis": 1792167119.155662,
-  "last_news": 1792167127.5310407,
+  "last_analysis": 1792167452.8691916,
+  "last_news": 1792167461.3479245,
   "seen_news": [
-    "Felix Nikolas Prehn on mortgage rates and the 10-year Treasury yield",
-    "Ukraine 'ra tay' b\u1ea5t ng\u1edd t\u1ea1i Nga: \u00d4ng Putin th\u1eeba nh\u1eadn 'ch\u00fang t\u00f4i ngh\u0129 r\u1eb1ng h\u1ecd s\u1ebd",
-    "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu | VietstockFinance - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-10-16 \u2014 cnbctv:9541517b9094b:0 - TradingV",
-    "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Tr",
-    "How backlash against data centres could shape the US midterm elections",
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
     "Saab, FMV and the Swedish Armed Forces launch uncrewed underwater vehicle - Trad",
     "People in China are spending nearly as much of their income as Americans on heal",
@@ -461,6 +455,12 @@
     "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for T",
     "M\u1ed9t tr\u01b0\u1eddng \u0110H \u1edf TP.HCM m\u1ed7i n\u0103m ch\u1ec9 tuy\u1ec3n 40 sinh vi\u00ean cho ch\u01b0\u01a1ng tr\u00ecnh h\u1ecdc n\u00e0y: ",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t | VietstockFinance - VietstockFinance",
-    "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target "
+    "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target ",
+    "T\u00ecnh h\u00ecnh hi\u1ec7n t\u1ea1i c\u1ee7a \u201cb\u1ed1 nu\u00f4i\u201d Ph\u01b0\u01a1ng Oanh v\u00e0 v\u1ee3",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "IT leads Indian shares higher; hot US inflation caps gains - TradingView",
+    "Many of 2026\u2019s hottest stocks have seen dramatic comedowns this week",
+    "Trump says he won't use nuclear weapons or send ground troops to Iran",
+    "Why the UK is dithering over what to do about e-scooters"
   ]
 }
