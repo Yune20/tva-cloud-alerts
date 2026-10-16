@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792163857.0749536,
-  "last_bot4": 1792172246.8039398,
+  "last_bot4": 1792173113.8226237,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792172561.467596,
+  "last_signals": 1792173113.8232346,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "USOIL:range_in": 1791579157.3708196,
@@ -83,17 +83,17 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
-    "US30|4H": false,
+    "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -144,7 +144,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792172563.3510466,
+    "US30|1D:top": 1792173115.3124695,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -156,17 +156,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792172564.76642
+    "DXY|4H:bot": 1792173116.505943
   },
-  "last_analysis": 1792172552.2995496,
-  "last_news": 1792172561.4667327,
+  "last_analysis": 1792173105.8942273,
+  "last_news": 1792173113.8217723,
   "seen_news": [
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
-    "US yields jump as hot consumer inflation boosts rate hike bets - TradingView",
-    "International Energy Agency to release more than 20 million barrels of diesel as",
-    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "USD/KRW: Goldman Sachs sees Korean won strengthening",
-    "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
     "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
     "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes ",
     "How long will humans be needed for translation?",
@@ -460,6 +454,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Boaz Weinstein\u2019s UK trust bets return 42% after wins - Bloomberg News - TradingV",
     "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-    "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027"
+    "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Trad",
+    "Schwab to create 'tax-aware' strategy that's been attracting billions from wealt",
+    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "U.S. Oil Drillers Back Off Even As Prices Soar",
+    "Swiss finance minister warns steep European debt could trigger euro crisis"
   ]
 }
