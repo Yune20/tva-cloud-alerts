@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792163860.9913445,
+  "last_signals": 1792164447.455806,
   "signal_ts": {
     "USOIL:trap_up": 1791561451.4339352,
     "Gold:range_in": 1791617275.1215281,
@@ -79,19 +79,19 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -134,7 +134,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
-    "Gold|4H:top": 1792163861.1476798,
+    "Gold|4H:top": 1792164447.760774,
     "Bitcoin|4H:top": 1791798698.4093196,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
@@ -158,17 +158,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792162651.4758058
+    "DXY|4H:bot": 1792164449.8551836
   },
   "last_analysis": 1792164155.5369408,
-  "last_news": 1792163852.7310386,
+  "last_news": 1792164447.4551818,
   "seen_news": [
-    "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC | VietstockFinance - VietstockFinance",
-    "Can Government-Backed Refinery Expansion Fuel Delek Stock Gains? - TradingView",
-    "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I ren",
-    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
-    "I find it quite demoralising in store - why I do all my shopping online",
-    "The Diesel Crunch Will Persist Well into 2027",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "Dollar weakens after bond rally; euro extends rebound from 17-mth lows",
     "AvaTrade Accelerates Global Growth with Acquisition of Forex Pioneer FXCM",
@@ -462,6 +456,12 @@
     "Bitcoin is little changed on the day, and pushing against a key crossroad.  What",
     "Chinh ph\u1ee5c \u0111\u1ec9nh n\u00fai cao 3.143 m \u1edf Vi\u1ec7t Nam, t\u1eebng l\u1ea1nh -8\u00b0C, m\u00f9a \u0111\u00f4ng nh\u00ecn nh\u01b0 m\u1ed9",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
-    "Blackstone's Q3 Earnings on the Deck: What's in Store for BX? - TradingView"
+    "Blackstone's Q3 Earnings on the Deck: What's in Store for BX? - TradingView",
+    "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+    "Why are more roofs not made of solar tiles?",
+    "Indian rupee posts biggest weekly gain in seven months",
+    "What are the main events for today?",
+    "\"Gi\u00e1 iPhone 18\" t\u0103ng k\u1ef7 l\u1ee5c h\u01a1n 2.800%",
+    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi"
   ]
 }
