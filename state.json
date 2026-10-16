@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792185950.8153121,
-  "last_bot4": 1792187538.1376886,
+  "last_bot4": 1792188475.764797,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792187538.1375988
+    "Gold": 1792188475.764731
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792188139.6844194,
+  "last_signals": 1792188475.7658014,
   "signal_ts": {
     "Gold:range_in": 1791617275.1215281,
     "Ethereum:range_in": 1791620150.9742491,
@@ -76,7 +76,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -137,7 +137,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792188140.4984608,
+    "US30|1D:top": 1792188477.49957,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -151,15 +151,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792187843.9002094,
-  "last_news": 1792188139.6835792,
+  "last_analysis": 1792188462.8348372,
+  "last_news": 1792188473.7114727,
   "seen_news": [
-    "FPT v\u00e0 NVIDIA m\u1edf r\u1ed9ng 10 l\u1ea7n b\u1ed9 d\u1eef li\u1ec7u Nemotron-Personas-Vietnam, th\u00fac \u0111\u1ea9y Agen",
-    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
-    "Why Is Dell Technologies Stock Sinking Wednesday? - TradingView",
-    "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him ",
-    "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Cl",
-    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
     "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
     "CoreWeave bond rout tests market\u2019s math on AI buildout",
     "Bitcoin is little changed on the day, and pushing against a key crossroad.  What",
@@ -453,6 +447,12 @@
     "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
     "Novavax shareholder Shah Capital to step back from activist role",
     "investingLive Americas market news wrap: Yields continue to fall even after hot ",
-    "M\u1ed9t c\u1ed5 phi\u1ebfu b\u1ea5t \u0111\u1ed9ng s\u1ea3n gi\u1ea3m s\u00e0n phi\u00ean th\u1ee9 20"
+    "M\u1ed9t c\u1ed5 phi\u1ebfu b\u1ea5t \u0111\u1ed9ng s\u1ea3n gi\u1ea3m s\u00e0n phi\u00ean th\u1ee9 20",
+    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "Fuel costs squeezing margins for some businesses",
+    "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.87%",
+    "Market playbook: Is the bond market starting to worry more about US growth than ",
+    "M\u1ed9t trong nh\u1eefng n\u1ec1n kinh t\u1ebf l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi \u2018l\u00fan s\u00e2u\u2019 v\u00e0o n\u1ee3 n\u1ea7n: G\u00e1nh g\u1ea7n 3.9",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance"
   ]
 }
