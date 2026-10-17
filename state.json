@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792237230.1309228,
+  "last_signals": 1792237845.5324998,
   "signal_ts": {
     "Ethereum:trap_up": 1791642758.8974447,
     "Bitcoin|1H|trap_up": 1791643326.0207214,
@@ -70,7 +70,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -134,7 +134,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792237231.5229862,
+    "US30|1D:top": 1792237846.9684649,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -148,15 +148,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792237221.852516,
-  "last_news": 1792237230.130109,
+  "last_analysis": 1792237836.5751758,
+  "last_news": 1792237845.531783,
   "seen_news": [
-    "T\u00edch h\u1ee3p 5 lo\u1ea1i th\u00f4ng tin tr\u00ean VNeID \u0111\u1ec3 \u0111\u01b0\u1ee3c mi\u1ec5n, gi\u1ea3m ph\u00ed, l\u1ec7 ph\u00ed",
-    "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-    "Why the UK is dithering over what to do about e-scooters",
-    "US arms firm Anduril could make interceptors in Europe, executive says",
-    "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
-    "M\u1ed9t doanh nghi\u1ec7p Vi\u1ec7t ch\u1ecdn \u0111\u1ea7u t\u01b0 v\u00e0o qu\u1ed1c gia hoang t\u00e0n v\u00ec \u0111\u1ed9ng \u0111\u1ea5t, 15 n\u0103m sau",
     "Wall St futures mixed as tech wobbles again, Tesla gains - TradingView",
     "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan ",
     "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
@@ -450,6 +444,12 @@
     "PCB: Ng\u00e2n h\u00e0ng TMCP \u0110\u1ea1i ch\u00fang Vi\u1ec7t Nam - PVcomBank | VietstockFinance - Vietstoc",
     "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
     "It was another great week for the average stock as market leadership shifts away",
-    "Wall Street's fear gauge is ripping. Traders see it going even higher"
+    "Wall Street's fear gauge is ripping. Traders see it going even higher",
+    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh c\u00f3 nh\u00e0 n\u1eb1m tr\u00ean m\u1eb7t \u0111\u01b0\u1eddng l\u1edbn",
+    "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM | Viets",
+    "FNB Q3'26 Earnings: EPS estimate is 0.43 USD - TradingView",
+    "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "'I'd spend $1,000 on a wedding present'",
+    "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates"
   ]
 }
