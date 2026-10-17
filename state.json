@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792239120.5039916,
+  "last_signals": 1792239733.696266,
   "signal_ts": {
     "Ethereum:trap_up": 1791642758.8974447,
     "Bitcoin|1H|trap_up": 1791643326.0207214,
@@ -70,10 +70,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -134,7 +134,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792239121.8775556,
+    "US30|1D:top": 1792239734.5082505,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -148,15 +148,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792239112.9251037,
-  "last_news": 1792239120.4224286,
+  "last_analysis": 1792239726.5955713,
+  "last_news": 1792239733.6952646,
   "seen_news": [
-    "Trend hoa s\u1eefa hot nh\u1ea5t n\u0103m nay: 20/10 nhi\u1ec1u ng\u01b0\u1eddi xin hoa v\u1ec1 c\u1eafm cho... th\u01a1m",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance",
-    "CRWV: CoreWeave Rebounds 6% as Nvidia\u2019s Jensen Huang Defends Its Finances - Trad",
-    "The affordability crisis isn't hitting all voters equally. Here's why",
-    "Watch: Did Tesla really just unveil a flying car?",
-    "Data Centers Drive Surge in India\u2019s Renewable Power Demand",
     "Wall Street fear gauge VIX surges to over four-month high - TradingView",
     "Fed's Warsh withholds rate signal, praises recent global tightening",
     "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
@@ -450,6 +444,12 @@
     "Dow Jones futures analysis: Fed risks and key levels for October 16",
     "7 tuy\u1ebfn cao t\u1ed1c ph\u1ea3i b\u1ed5 sung bi\u1ec3n b\u00e1o kho\u1ea3ng c\u00e1ch an to\u00e0n tr\u01b0\u1edbc ng\u00e0y 31-10",
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
-    "India markets regulator partly reverses derivative settlement rules after pushba"
+    "India markets regulator partly reverses derivative settlement rules after pushba",
+    "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
+    "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
+    "Ukraine \u0111\u00e1nh v\u00e0o \u2018Google c\u1ee7a Nga\u2019, internet tr\u1edf th\u00e0nh m\u1eb7t tr\u1eadn m\u1edbi",
+    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) | VietstockFinance - VietstockF",
+    "Wall St futures mixed as tech wobbles again, Tesla gains - TradingView",
+    "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings p"
   ]
 }
