@@ -29,9 +29,8 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792222047.1443765,
+  "last_signals": 1792222657.3957126,
   "signal_ts": {
-    "Gold:range_in": 1791617275.1215281,
     "Ethereum:range_in": 1791620150.9742491,
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
@@ -75,7 +74,7 @@
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -137,7 +136,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792222047.9457414,
+    "US30|1D:top": 1792222658.6220098,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -151,15 +150,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792222038.9989212,
-  "last_news": 1792222047.0502849,
+  "last_analysis": 1792222649.838798,
+  "last_news": 1792222657.3943975,
   "seen_news": [
-    "US retails sales for September 0.8% MoM vs 0.3% estimate. Prior month 1.3%",
-    "Ng\u01b0\u1eddi d\u00e2n b\u1eaft \u0111\u01b0\u1ee3c con c\u00e1 ch\u00e9p kh\u1ed5ng l\u1ed3 n\u1eb7ng 60kg g\u1ea7n b\u1edd s\u00f4ng",
-    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi",
-    "Crude Prices Slip as More Supplies Leave the Middle East - TradingView",
-    "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
-    "How backlash against data centres could shape the US midterm elections",
     "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP | VietstockFinance - VietstockFinance",
     "Pangolin to Launch Roadmap - TradingView",
     "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
@@ -453,6 +446,12 @@
     "Canadian dollar heads for weekly gain as U.S. dollar retreats",
     "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for T",
     "M\u1ed9t c\u01a1 s\u1edf su\u1ed1i n\u01b0\u1edbc n\u00f3ng onsen Nh\u1eadt B\u1ea3n b\u1ecb ph\u00e1t hi\u1ec7n ch\u1ee9a vi khu\u1ea9n g\u00e2y vi\u00eam ph\u1ed5i",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+    "US August business inventories +0.4% vs +0.4% expected",
+    "Vi\u1ec7t Nam c\u00f3 khu ngh\u1ec9 d\u01b0\u1ee1ng 8 n\u0103m li\u1ec1n \u0111\u1ea1t N\u0103m Sao Forbes Travel Guide, gi\u1eef hai M",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
+    "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target ",
+    "Trump says he won't use nuclear weapons or send ground troops to Iran"
   ]
 }
