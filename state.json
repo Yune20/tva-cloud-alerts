@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792223275.227389,
+  "last_signals": 1792223946.8724985,
   "signal_ts": {
     "Ethereum:range_in": 1791620150.9742491,
     "Bitcoin:range_in": 1791631187.1723635,
@@ -74,7 +74,7 @@
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -136,7 +136,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792223276.0640342,
+    "US30|1D:top": 1792223947.6761177,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -150,15 +150,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792223266.690441,
-  "last_news": 1792223275.2264402,
+  "last_analysis": 1792223938.690803,
+  "last_news": 1792223946.8713188,
   "seen_news": [
-    "Moderna rallies despite bearish views ahead of cancer vaccine data - TradingView",
-    "China's exports and imports surge past expectations in September",
-    "My hometown shows that high streets have to change or die",
-    "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
-    "Grynspan holds lead for next UN chief as race enters decisive stage",
-    "Earnings week ahead: Banks were upbeat on the economy, now onto tech",
     "European stock market open: Equities find some footing after a volatile week",
     "\u0110\u00e0n g\u00e0 c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long gi\u1edd ra sao?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
@@ -452,6 +446,12 @@
     "Crude Prices Slip as More Supplies Leave the Middle East - TradingView",
     "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
     "How backlash against data centres could shape the US midterm elections",
-    "UK-U.S. relations strained as Trump shifts stance on Russia-Ukraine war"
+    "UK-U.S. relations strained as Trump shifts stance on Russia-Ukraine war",
+    "Pangolin to Launch Roadmap - TradingView",
+    "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
+    "Anthropic signs lease for first Canadian data center",
+    "Canada August manufacturing sales +1.5% vs +1.1% expected"
   ]
 }
