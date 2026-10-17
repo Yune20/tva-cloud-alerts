@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792232969.7744088,
+  "last_signals": 1792233576.6345713,
   "signal_ts": {
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
@@ -76,7 +76,7 @@
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -135,7 +135,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792232970.5446088,
+    "US30|1D:top": 1792233577.5299664,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -149,15 +149,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792232957.4256923,
-  "last_news": 1792232968.0288446,
+  "last_analysis": 1792233569.475632,
+  "last_news": 1792233576.6336806,
   "seen_news": [
-    "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says F",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
-    "Brazil\u2019s Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spen",
-    "Is EUR/USD finally turning the corner or is this just another false dawn?",
-    "N\u00ean mua v\u00e0ng nh\u1eabn hay v\u00e0ng mi\u1ebfng?",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "US air traffic controllers reach deal with FAA for 2.8% pay rise, WSJ reports",
     "Oil prices surge higher into the weekend",
@@ -451,6 +445,12 @@
     "Trump says White House didn't order Starlink restrictions in Ukraine",
     "Netflix to shed 1,000 jobs in steepest cuts since 2022",
     "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
-    "Russia says it struck Ukrainian steel plants and power infrastructure"
+    "Russia says it struck Ukrainian steel plants and power infrastructure",
+    "US October Philly Fed business index +20.9 vs +28.4 expected",
+    "GPBank ti\u1ebfp l\u1eeda s\u1ed1ng kh\u1ecfe c\u00f9ng VPIM 2026, lan t\u1ecfa tr\u1ea3i nghi\u1ec7m th\u1ecbnh v\u01b0\u1ee3ng t\u1ea1i \u0111\u01b0",
+    "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t | VietstockFinance - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-17 \u2014 cnbctv:5272519f6094b:0 - TradingV",
+    "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing nat",
+    "The start-ups hoping to return battery making to the US"
   ]
 }
