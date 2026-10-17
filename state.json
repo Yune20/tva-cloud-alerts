@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792236018.5743988,
+  "last_signals": 1792236622.44577,
   "signal_ts": {
     "Ethereum:trap_up": 1791642758.8974447,
     "Bitcoin|1H|trap_up": 1791643326.0207214,
@@ -70,7 +70,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -134,7 +134,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792236019.5455003,
+    "US30|1D:top": 1792236623.756254,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -148,15 +148,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792236010.3194687,
-  "last_news": 1792236018.573508,
+  "last_analysis": 1792236614.63751,
+  "last_news": 1792236622.4449382,
   "seen_news": [
-    "CoreWeave\u2019s CEO sold nearly $1 billion of stock since IPO, filings show",
-    "Dow Jones futures analysis: Fed risks and key levels for October 16",
-    "B\u1ed5 sung bi\u1ec3n b\u00e1o kho\u1ea3ng c\u00e1ch tr\u00ean 7 tuy\u1ebfn cao t\u1ed1c, ch\u1ed1t h\u1ea1n 31/10",
-    "ACV: T\u1ed5ng C\u00f4ng ty C\u1ea3ng H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - ACV | VietstockFinance - Vie",
-    "FNB Q3'26 Earnings: EPS estimate is 0.43 USD - TradingView",
-    "Wall Street's fear gauge is ripping. Traders see it going even higher",
     "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental",
     "CII ch\u1ed1t quy\u1ec1n tham d\u1ef1 \u0110H\u0110C\u0110 b\u1ea5t th\u01b0\u1eddng n\u0103m 2026",
     "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM | Viets",
@@ -450,6 +444,12 @@
     "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
     "How much is the minimum wage?",
     "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
-    "US fiscal 2026 budget deficit was the largest in five years"
+    "US fiscal 2026 budget deficit was the largest in five years",
+    "NBA tightens betting rules, develops AI to flag suspicious wagers",
+    "X-planes: Are they needed in the new era of drones?",
+    "Jio\u2019s $3.2 billion IPO tests investor appetite as Ambani legacy faces scrutiny",
+    "investingLive European session wrap: Dollar slips as stocks steady and yields ed",
+    "BIDV gi\u1ea3m l\u00e3i su\u1ea5t cho vay t\u1edbi 2,0%/n\u0103m",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance"
   ]
 }
