@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792229829.558968,
+  "last_news_report": 1792240955.663306,
   "last_bot4": 1792240631.660398,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792240338.708953,
+  "last_signals": 1792240955.6643672,
   "signal_ts": {
     "Ethereum:trap_up": 1791642758.8974447,
     "Bitcoin|1H|trap_up": 1791643326.0207214,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -134,7 +134,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792240340.6987054,
+    "US30|1D:top": 1792240956.4846494,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -148,15 +148,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792240330.0587716,
-  "last_news": 1792240338.708225,
+  "last_analysis": 1792240943.4530838,
+  "last_news": 1792240950.2063315,
   "seen_news": [
-    "Fairmount Funds Secures Board Influence at Alaunos Therapeutics with 19.99% Stak",
-    "Why did CoreWeave stock get crushed this week? Look to this corner of the debt m",
-    "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
-    "Iran War Set To Push PetroChina\u2019s Trading Profit to Record $3 Billion",
-    "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsui",
-    "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
     "7 m\u00f3n \u0111\u1ed3 quen thu\u1ed9c trong nh\u00e0 t\u01b0\u1edfng gi\u00fap v\u1ec7 sinh \u00f4 t\u00f4 ti\u1ebft ki\u1ec7m, nh\u01b0ng c\u00f3 th\u1ec3 kh",
     "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
     "Starlink Entry Welcome, No Fear of Competition: Reliance - TradingView",
@@ -450,6 +444,12 @@
     "Silver\u2019s recent 50% drop from a record high hints that an economic slowdown loom",
     "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
     "Watch: Did Tesla really just unveil a flying car?",
-    "Trump's Oil Price Strategy Faces Two Major Tests This Weekend"
+    "Trump's Oil Price Strategy Faces Two Major Tests This Weekend",
+    "Influencers and biohackers swear by fasting. Here\u2019s what the science says.",
+    "I watched Nvidia's Jensen Huang work the room in London. He brought big checks \u2014",
+    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+    "Data Centers Drive Surge in India\u2019s Renewable Power Demand",
+    "US September import price index +1.1% vs +0.8% expected",
+    "Nhi\u1ec1u n\u01a1i s\u1eafp c\u00f3 m\u01b0a to \u0111\u1ebfn r\u1ea5t to trong 2 ng\u00e0y li\u00ean ti\u1ebfp"
   ]
 }
