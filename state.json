@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792234798.0461004,
+  "last_signals": 1792235409.5148795,
   "signal_ts": {
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
@@ -71,10 +71,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -135,7 +135,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792234799.8494592,
+    "US30|1D:top": 1792235410.4776487,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -149,15 +149,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792234788.6170104,
-  "last_news": 1792234798.0374131,
+  "last_analysis": 1792235401.7758126,
+  "last_news": 1792235409.5140138,
   "seen_news": [
-    "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp | VietstockFinance - VietstockFinanc",
-    "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
-    "NBA tightens betting rules, develops AI to flag suspicious wagers",
-    "How much is the minimum wage?",
-    "Stocks slip as dollar heads for weekly loss",
-    "US fiscal 2026 budget deficit was the largest in five years",
     "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Rus",
     "X-planes: Are they needed in the new era of drones?",
     "Jio\u2019s $3.2 billion IPO tests investor appetite as Ambani legacy faces scrutiny",
@@ -451,6 +445,12 @@
     "ECB\u2019s Lagarde says bond selloff will slow inflation",
     "Oil prices surge higher into the weekend",
     "T\u1eebng l\u00e0 ki\u1ec3u trang tr\u00ed \u201cnh\u00e0 n\u00e0o c\u00f3 c\u0169ng th\u1ea5y sang\u201d, v\u00ec sao \u1ed1p g\u1ea1ch k\u00edn t\u01b0\u1eddng gi\u1edd",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai "
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1c \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng kh\u1edfi s\u1eafc - N\u1ed7 l\u1ef1c t\u0103ng tr\u01b0\u1edfng qu\u00fd 4 hai ",
+    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
+    "ARK Invest says Bitcoin ETF holders are back in the green - TradingView",
+    "Fed interest-rate decision this month is a closer call than markets think",
+    "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+    "AI giant Anthropic woos potential investors ahead of stock market debut",
+    "IMF members call for more support amid war shocks, \u2019advanced intelligence\u2019 risks"
   ]
 }
