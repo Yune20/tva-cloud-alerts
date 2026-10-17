@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792222657.3957126,
+  "last_signals": 1792223275.227389,
   "signal_ts": {
     "Ethereum:range_in": 1791620150.9742491,
     "Bitcoin:range_in": 1791631187.1723635,
@@ -74,7 +74,7 @@
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -136,7 +136,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792222658.6220098,
+    "US30|1D:top": 1792223276.0640342,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -150,15 +150,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792222649.838798,
-  "last_news": 1792222657.3943975,
+  "last_analysis": 1792223266.690441,
+  "last_news": 1792223275.2264402,
   "seen_news": [
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP | VietstockFinance - VietstockFinance",
-    "Pangolin to Launch Roadmap - TradingView",
-    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
-    "US inflation rises more than expected - here's what is happening with prices",
-    "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
-    "Anthropic signs lease for first Canadian data center",
     "Moderna rallies despite bearish views ahead of cancer vaccine data - TradingView",
     "China's exports and imports surge past expectations in September",
     "My hometown shows that high streets have to change or die",
@@ -452,6 +446,12 @@
     "Vi\u1ec7t Nam c\u00f3 khu ngh\u1ec9 d\u01b0\u1ee1ng 8 n\u0103m li\u1ec1n \u0111\u1ea1t N\u0103m Sao Forbes Travel Guide, gi\u1eef hai M",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
     "Cantor Fitzgerald reiterates Overweight rating on Rocket Lab, $122 price target ",
-    "Trump says he won't use nuclear weapons or send ground troops to Iran"
+    "Trump says he won't use nuclear weapons or send ground troops to Iran",
+    "M\u00ea m\u1ea9n c\u00f4 ch\u1ee7 qu\u00e1n m\u00ec, ch\u00e0ng trai Nh\u1eadt bay sang Vi\u1ec7t nam m\u1ed7i th\u00e1ng \u0111\u1ec3 g\u1eb7p, d\u00f9ng ",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
+    "Crude Prices Slip as More Supplies Leave the Middle East - TradingView",
+    "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
+    "How backlash against data centres could shape the US midterm elections",
+    "UK-U.S. relations strained as Trump shifts stance on Russia-Ukraine war"
   ]
 }
