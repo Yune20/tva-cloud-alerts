@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792269510.355862,
+  "last_signals": 1792269855.9032743,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792269511.7959,
+    "US30|1D:top": 1792269856.9464192,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792269493.2189507,
-  "last_news": 1792269508.1618114,
+  "last_analysis": 1792269848.657654,
+  "last_news": 1792269855.9024951,
   "seen_news": [
-    "Berkshire shares buck market sell-off, rally to highest since Buffett said he wo",
-    "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
-    "Iran War Set To Push PetroChina\u2019s Trading Profit to Record $3 Billion",
-    "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsui",
-    "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
-    "\u0110\u1eb7t mua iPhone Duo \u1edf \u0111\u00e2u r\u1ebb nh\u1ea5t?",
     "C\u00f4ng an th\u00f4ng b\u00e1o chi\u00eau l\u1eeba \u0111\u1ea3o tinh vi, khi\u1ebfn n\u1ea1n nh\u00e2n bi\u1ebft r\u00f5 \u0111\u00e3 b\u1ecb l\u1eeba nh\u01b0ng ",
     "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
     "Wall Street fear gauge VIX surges to over four-month high - TradingView",
@@ -446,6 +440,12 @@
     "CRWV: CoreWeave Rebounds 6% as Nvidia\u2019s Jensen Huang Defends Its Finances - Trad",
     "Silver\u2019s recent 50% drop from a record high hints that an economic slowdown loom",
     "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "Watch: Did Tesla really just unveil a flying car?"
+    "Watch: Did Tesla really just unveil a flying car?",
+    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
+    "PUMA SE (PUM) Receives Major Holdings Notice From HSBC - TradingView",
+    "Influencers and biohackers swear by fasting. Here\u2019s what the science says.",
+    "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a",
+    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+    "US September import price index +1.1% vs +0.8% expected"
   ]
 }
