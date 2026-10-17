@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792229829.558968,
-  "last_bot4": 1792229829.559932,
+  "last_bot4": 1792230780.0866148,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792229149.0703862
+    "Gold": 1792230780.0865347
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792230415.9964144,
+  "last_signals": 1792230780.087442,
   "signal_ts": {
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
@@ -73,10 +73,10 @@
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -135,7 +135,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792230416.8041956,
+    "US30|1D:top": 1792230781.5197191,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -149,15 +149,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792230408.2675216,
-  "last_news": 1792230415.9955246,
+  "last_analysis": 1792230769.5193496,
+  "last_news": 1792230777.970349,
   "seen_news": [
-    "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
-    "\u00d4ng Zelensky \u0111\u01b0a ra y\u00eau c\u1ea7u v\u1ec1 th\u1ecfa thu\u1eadn nh\u00e0 m\u00e1y l\u1ecdc d\u1ea7u Nga",
-    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
-    "Dollar Pressured as Fed Chair Powell Refrains from Forward Guidance - TradingVie",
-    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'",
-    "Rainmakers: The drones used to seed clouds",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
     "News by CNBC TV18 on TradingView, 2026-10-15 \u2014 cnbctv:1e5265693094b:0 - TradingV",
     "Debt is eating up a bigger chunk of your raise, research shows",
@@ -451,6 +445,12 @@
     "USD/KRW: Goldman Sachs sees Korean won strengthening",
     "AI names fall as the Nasdaq comes under fresh pressure",
     "L\u00e3i su\u1ea5t t\u1ea1i Agribank, BIDV, VietinBank, Vietcombank: G\u1eedi 1 t\u1ef7 \u0111\u1ed3ng nh\u1eadn \u0111\u01b0\u1ee3c ti",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-17 \u2014 cnbctv:23b0813b7094b:0 - TradingV",
+    "Goldman says investors are looking for 'profitable' Chinese business growth over",
+    "How long will humans be needed for translation?",
+    "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
+    "Anthropic\u2019s Clark says AI\u2019s impact accelerating quickly and could vastly boost U"
   ]
 }
