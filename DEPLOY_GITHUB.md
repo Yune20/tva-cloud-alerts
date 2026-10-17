@@ -22,7 +22,7 @@ Gửi Telegram BOT1 + BOT2
 
 ```bash
 # Từ thư mục TradingView-Analyzer
-cd D:\NOTEBOOK\TradingView-Analyzer
+cd D:\NOTEBOOK\apps\TradingView-Analyzer
 git init
 git add .
 git commit -m "Cloud alerts v2"

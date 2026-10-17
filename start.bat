@@ -1,6 +1,6 @@
 @echo off
 title TradingView-Analyzer
-cd /d D:\NOTEBOOK\TradingView-Analyzer
+cd /d D:\NOTEBOOK\apps\TradingView-Analyzer
 
 echo.
 echo === Stopping old server ===

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys, io, os
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
-os.chdir(r'D:\NOTEBOOK\TradingView-Analyzer')
+os.chdir(r'D:\NOTEBOOK\apps\TradingView-Analyzer')
 sys.path.insert(0, os.getcwd())
 import httpx
 BASE = 'http://127.0.0.1:8502'

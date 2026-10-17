@@ -14,7 +14,7 @@ Professional trading analysis dashboard with multi-school consensus, ML predicti
 ## Quick Start
 
 ```powershell
-cd D:\NOTEBOOK\TradingView-Analyzer
+cd D:\NOTEBOOK\apps\TradingView-Analyzer
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
