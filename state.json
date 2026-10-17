@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792218948.7086158,
-  "last_bot4": 1792228480.0138679,
+  "last_bot4": 1792229149.0704887,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792227874.6516247
+    "Gold": 1792229149.0703862
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792228784.5214262,
+  "last_signals": 1792229149.0712214,
   "signal_ts": {
     "Bitcoin:range_in": 1791631187.1723635,
     "Ethereum:trap_up": 1791642758.8974447,
@@ -73,7 +73,7 @@
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -135,7 +135,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792228785.7251685,
+    "US30|1D:top": 1792229149.848346,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -149,15 +149,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792228775.9690135,
-  "last_news": 1792228784.5164876,
+  "last_analysis": 1792229138.373706,
+  "last_news": 1792229146.7265306,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Brent Rises Near $110 on Increasing Supply Risks - TradingView",
-    "Visa gets Beijing's green light for bank card business after 40 years of working",
-    "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "Sterling today: Pound set to snap 7-week losing run as dollar slips on AI fears",
-    "Solana's fundamentals are clouded by negative macro and geopolitical conditions.",
     "USD/KRW: Goldman Sachs sees Korean won strengthening",
     "AI names fall as the Nasdaq comes under fresh pressure",
     "\u00d4 t\u00f4 bay b\u1eb1ng c\u00f4ng ngh\u1ec7 t\u00ean l\u1eeda c\u1ee7a Tesla: \u0110\u1ec9nh cao c\u00f4ng ngh\u1ec7 hay m\u00e0n tr\u00ecnh di\u1ec5n",
@@ -451,6 +445,12 @@
     "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
     "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
     "Will Starlink Mobile matter for Apple?",
-    "US October Empire Manufacturing index +25.50 vs +10.25 expected"
+    "US October Empire Manufacturing index +25.50 vs +10.25 expected",
+    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "U.S. Oil Drillers Back Off Even As Prices Soar",
+    "Swiss finance minister warns steep European debt could trigger euro crisis",
+    "The broader US stock indices are lower but showing different degrees of technica",
+    "\u201cCrush qu\u1ed1c d\u00e2n\u201d c\u1ee7a Vbiz s\u1edf h\u1eefu hit 200 tri\u1ec7u views, m\u1eb9 2 con v\u00f3c d\u00e1ng b\u1ed1c l\u1eeda",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
