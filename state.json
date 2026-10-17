@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792267297.9274125,
+  "last_signals": 1792267964.3430836,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792267299.6769125,
+    "US30|1D:top": 1792267965.2625241,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792267599.2787545,
-  "last_news": 1792267297.9265893,
+  "last_analysis": 1792267911.6687593,
+  "last_news": 1792267964.342046,
   "seen_news": [
-    "Drop-off charges at UK airports to be reviewed after sharp increase",
-    "Deadly Airstrikes Expose Growing Battle Over Sudan\u2019s Gold",
-    "Dow Jones futures analysis: Fed risks and key levels for October 16",
-    "7 tuy\u1ebfn cao t\u1ed1c ph\u1ea3i b\u1ed5 sung bi\u1ec3n b\u00e1o kho\u1ea3ng c\u00e1ch an to\u00e0n tr\u01b0\u1edbc ng\u00e0y 31-10",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
-    "India markets regulator partly reverses derivative settlement rules after pushba",
     "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
     "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
     "Ukraine \u0111\u00e1nh v\u00e0o \u2018Google c\u1ee7a Nga\u2019, internet tr\u1edf th\u00e0nh m\u1eb7t tr\u1eadn m\u1edbi",
@@ -446,6 +440,12 @@
     "Solidcore Resources plc Completes $1.2B Tender Offer at $11.66 - TradingView",
     "NBA tightens betting rules, develops AI to flag suspicious wagers",
     "Why Gen Z are planning for life without a state pension",
-    "Citi says interest rates may matter more for economy than stock valuations"
+    "Citi says interest rates may matter more for economy than stock valuations",
+    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
+    "Why the UK is dithering over what to do about e-scooters",
+    "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental",
+    "Lo\u1ea1i qu\u1ea3 \"kh\u00f3 chi\u1ec1u\", gi\u00e1 r\u1ebb v\u00e0 r\u1ea5t quen thu\u1ed9c v\u1edbi ng\u01b0\u1eddi Vi\u1ec7t Nam l\u1ed9t t\u1ea3 \u00e1p l\u1ef1c ",
+    "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid h",
+    "Bank of America shares drop after third-quarter revenue miss and regulatory pena"
   ]
 }
