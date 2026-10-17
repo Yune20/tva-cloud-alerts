@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792262913.6767173,
+  "last_news_report": 1792273887.8292742,
   "last_bot4": 1792273519.3305407,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792273212.6747172,
+  "last_signals": 1792273887.830382,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792273213.509984,
+    "US30|1D:top": 1792273888.6415174,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792273519.3290281,
-  "last_news": 1792273212.6735911,
+  "last_analysis": 1792273873.9651186,
+  "last_news": 1792273882.3371391,
   "seen_news": [
-    "Callan JMB Received Notice of Delisting - TradingView",
-    "Trump's student loan overhaul could lead to more bankruptcy filings, former judg",
-    "Would you buy branded clothing from your favourite tech firm?",
-    "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-    "New Zealand card spending falls for second month as food prices hold flat in Sep",
-    "Ch\u1ee7 t\u1ecbch Vietcombank: Ng\u00e2n h\u00e0ng cam k\u1ebft t\u1eeb nay t\u1edbi cu\u1ed1i n\u0103m s\u1ebd gi\u1ea3m t\u1ed1i thi\u1ec3u 2%",
     "Driving test waits fall to two-year low - but still average 20 weeks",
     "Global Gas Crunch Makes Europe\u2019s Remaining Coal Plants Profitable",
     "investingLive European news wrap: Markets consolidate after the US CPI shock",
@@ -446,6 +440,12 @@
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
     "Goodtech ASA (GOD) Trades Ex-Dividend NOK 2.00 Today - TradingView",
     "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
-    "As Christmas rush looms, how do China-made toys find their way to the US?"
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp | VietstockFinance - Vietst",
+    "Idt Director Sold Shares Worth Over $1.1M - TradingView",
+    "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+    "Spain battles climate change on several fronts",
+    "U.S. yields fall for the week as AI debt jitters drive traders to safe-haven bon",
+    "US September industrial production +0.7% vs +0.4% expected"
   ]
 }
