@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792305545.951748,
+  "last_signals": 1792306151.4037938,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,9 +66,9 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792305546.695193,
+    "US30|1D:top": 1792306152.1938133,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792305537.1139607,
-  "last_news": 1792305544.1643884,
+  "last_analysis": 1792306143.0828764,
+  "last_news": 1792306151.4029982,
   "seen_news": [
-    "How day of protests unfolded as disorder breaks out across France",
-    "DeepSeek releases AI model update, opens search APIs to all users",
-    "investingLive Americas market news wrap: Yields continue to fall even after hot ",
-    "1 chi\u1ebfc iPhone Duo b\u1eb1ng m\u1ea5y ch\u1ec9 v\u00e0ng SJC?",
-    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
-    "Binance Announces $800,000 XRP Giveaway for RLUSD Users - TradingView",
     "Indian rupee posts biggest weekly gain in seven months",
     "US inflation worries aren't over yet as PPI and retail sales pose fresh risks fo",
     "H\u00ecnh \u1ea3nh c\u1ee7a NASA h\u00e9 l\u1ed9 10.000 \u0111\u1ee9t g\u00e3y tr\u1ebb tr\u00ean M\u1eb7t Tr\u0103ng",
@@ -446,6 +440,12 @@
     "Investors are buying up vast tracts of timberland across U.S. in one of market's",
     "The virtual worlds where robots are trained",
     "China proposes export controls on solar-manufacturing technologies",
-    "USDCAD is lower on the day, but getting a modest lift after another higher infla"
+    "USDCAD is lower on the day, but getting a modest lift after another higher infla",
+    "Not building third runway would be 'huge missed opportunity', warns Heathrow bos",
+    "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
+    "Which company has the world\u2019s highest earnings? The answer may surprise you",
+    "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
+    "Giao d\u1ecbch vi\u00ean ng\u0103n nhi\u1ec1u kh\u00e1ch \u0111\u1ebfn ng\u00e2n h\u00e0ng r\u00fat ti\u1ebft ki\u1ec7m, chuy\u1ec3n kho\u1ea3n s\u1ed1 ti\u1ec1",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi"
   ]
 }
