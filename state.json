@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792293171.2673268,
+  "last_signals": 1792293780.3979018,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792293172.153363,
+    "US30|1D:top": 1792293781.2529616,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792293162.9434297,
-  "last_news": 1792293171.265075,
+  "last_analysis": 1792293770.5286608,
+  "last_news": 1792293780.3029184,
   "seen_news": [
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP | VietstockFinance - VietstockFinance",
-    "Bank of America Has Blunt Message on CoreWeave Stock After Selloff - TradingView",
-    "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-    "How much is the minimum wage?",
-    "IMF members call for more support amid war shocks, \u2019advanced intelligence\u2019 risks",
-    "US fiscal 2026 budget deficit was the largest in five years",
     "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
     "X-planes: Are they needed in the new era of drones?",
     "Jio\u2019s $3.2 billion IPO tests investor appetite as Ambani legacy faces scrutiny",
@@ -446,6 +440,12 @@
     "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal o",
     "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon ",
     "My hometown shows that high streets have to change or die",
-    "German minister seeks debt brake exemption to maintain Ukraine aid"
+    "German minister seeks debt brake exemption to maintain Ukraine aid",
+    "AI giant Anthropic woos potential investors ahead of stock market debut",
+    "Anthropic\u2019s Clark says AI\u2019s impact accelerating quickly and could vastly boost U",
+    "Oil prices surge higher into the weekend",
+    "C\u00fa l\u1ee3n b\u1ecb c\u1eaft l\u00f4ng c\u00e1nh, kh\u00f4ng th\u1ec3 bay, s\u1ee3 h\u00e3i \u0111\u1ee9ng m\u1ed9t g\u00f3c: C\u00f3 th\u1ec3 l\u00e0 \u0111\u1ed9ng v\u1eadt ",
+    "CTCP Ch\u1ee9ng kho\u00e1n SSI - VietstockFinance",
+    "Earnings To Watch: F.N.B. Corporation (FNB) Reports Q3 Results Tomorrow - Tradin"
   ]
 }
