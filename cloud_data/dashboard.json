@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:28:47.153093+00:00",
+  "updated_at": "2026-10-18T21:38:56.011125+00:00",
   "symbols": [
     {
       "symbol": "OANDA:XAUUSD",
@@ -1139,7 +1139,7 @@
           81091.09375,
           80783.453125,
           80865.65625,
-          80858.328125
+          80989.390625
         ],
         "high": [
           81785.796875,
@@ -1240,8 +1240,8 @@
           81178.1171875,
           81098.9296875,
           80898.59375,
-          80966.6171875,
-          80858.328125
+          80983.4296875,
+          80989.390625
         ],
         "low": [
           81434.46875,
@@ -1343,7 +1343,7 @@
           80692.140625,
           80598.2734375,
           80809.2734375,
-          80858.328125
+          80989.390625
         ],
         "close": [
           81736.3671875,
@@ -1444,8 +1444,8 @@
           81072.3515625,
           80773.90625,
           80865.65625,
-          80885.2265625,
-          80858.328125
+          80973.453125,
+          80989.390625
         ],
         "volume": [
           386916352,
@@ -1546,11 +1546,11 @@
           803802112,
           1235089408,
           919848960,
-          718008320,
+          762155008,
           0
         ]
       },
-      "analysis_text": "*Bitcoin* (BINANCE:BTCUSDT)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `80,858.33` 🔴 -0.03%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `81,238.12` | EMA50: `81,426.56`\n  • RSI: `37.1` | MACD: BEAR ❌ | ADX: `15` (YẾU ⚠️)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: SỢ HẠI\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `85,424.50` · S `78,014.01`\n  🕓 H4: 🔴 GIẢM | R `82,247.65` · S `80,033.64`\n  🕐 H1: 🔴 GIẢM | R `81,824.68` · S `80,245.12`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `81,824.68` | R2: `82,791.03`\n  • Hỗ trợ S1: `80,245.12` | S2: `79,631.92`\n  • ATR: `252.83`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 81,824.68\n  • Entry: `81,824.68`\n  • Stop Loss: `82,203.93`\n  • Take Profit 1: `80,245.12`\n  • Take Profit 2: `79,631.92`\n  • Risk/Reward: `1:4.2`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (80/100)"
+      "analysis_text": "*Bitcoin* (BINANCE:BTCUSDT)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `80,989.39` 🟢 +0.02%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `81,257.33` | EMA50: `81,435.03`\n  • RSI: `40.9` | MACD: BEAR ❌ | ADX: `15` (YẾU ⚠️)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `85,511.88` · S `78,101.38`\n  🕓 H4: 🔴 GIẢM | R `82,335.02` · S `80,121.02`\n  🕐 H1: 🔴 GIẢM | R `81,912.05` · S `80,332.50`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `81,912.05` | R2: `82,834.72`\n  • Hỗ trợ S1: `80,332.50` | S2: `79,675.61`\n  • ATR: `253.14`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 81,912.05\n  • Entry: `81,912.05`\n  • Stop Loss: `82,291.77`\n  • Take Profit 1: `80,332.50`\n  • Take Profit 2: `79,675.61`\n  • Risk/Reward: `1:4.2`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (80/100)"
     },
     {
       "symbol": "BINANCE:ETHUSDT",
@@ -1656,7 +1656,7 @@
           2364.889892578125,
           2335.510009765625,
           2348.97998046875,
-          2355.030029296875
+          2360.449951171875
         ],
         "high": [
           2433.909912109375,
@@ -1757,8 +1757,8 @@
           2370.219970703125,
           2366.949951171875,
           2350.580078125,
-          2359.300048828125,
-          2355.030029296875
+          2360.47998046875,
+          2360.449951171875
         ],
         "low": [
           2418.7099609375,
@@ -1860,7 +1860,7 @@
           2326.830078125,
           2331.669921875,
           2347.75,
-          2355.030029296875
+          2360.449951171875
         ],
         "close": [
           2427.929931640625,
@@ -1961,8 +1961,8 @@
           2365.010009765625,
           2335.199951171875,
           2348.2900390625,
-          2356.300048828125,
-          2355.030029296875
+          2359.93994140625,
+          2360.449951171875
         ],
         "volume": [
           335699968,
@@ -2063,11 +2063,11 @@
           447271424,
           716528128,
           581021696,
-          279145984,
+          326025216,
           0
         ]
       },
-      "analysis_text": "*Ethereum* (BINANCE:ETHUSDT)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `2,355.03` 🔴 -0.05%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `2,380.55` | EMA50: `2,399.69`\n  • RSI: `36.0` | MACD: BEAR ❌ | ADX: `62` (MẠNH 💪)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: SỢ HẠI\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `2,645.52` · S `2,192.54`\n  🕓 H4: 🔴 GIẢM | R `2,454.74` · S `2,291.07`\n  🕐 H1: 🔴 GIẢM | R `2,412.25` · S `2,312.32`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `2,412.25` | R2: `2,469.47`\n  • Hỗ trợ S1: `2,312.32` | S2: `2,269.61`\n  • ATR: `14.2521`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 2,412.25\n  • Entry: `2,412.25`\n  • Stop Loss: `2,433.63`\n  • Take Profit 1: `2,312.32`\n  • Take Profit 2: `2,269.61`\n  • Risk/Reward: `1:4.7`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (100/100)"
+      "analysis_text": "*Ethereum* (BINANCE:ETHUSDT)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `2,360.45` 🟢 +0.02%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `2,381.35` | EMA50: `2,400.04`\n  • RSI: `38.4` | MACD: BEAR ❌ | ADX: `62` (MẠNH 💪)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: SỢ HẠI\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `2,649.13` · S `2,196.16`\n  🕓 H4: 🔴 GIẢM | R `2,458.36` · S `2,294.69`\n  🕐 H1: 🔴 GIẢM | R `2,415.86` · S `2,315.93`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `2,415.86` | R2: `2,471.28`\n  • Hỗ trợ S1: `2,315.93` | S2: `2,271.42`\n  • ATR: `14.2742`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 2,415.86\n  • Entry: `2,415.86`\n  • Stop Loss: `2,437.27`\n  • Take Profit 1: `2,315.93`\n  • Take Profit 2: `2,271.42`\n  • Risk/Reward: `1:4.7`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (100/100)"
     },
     {
       "symbol": "TVC:DJI",
@@ -3101,7 +3101,7 @@
           0
         ]
       },
-      "analysis_text": "*GBP/USD* (FX:GBPUSD)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `1.3330` 🟢 +0.00%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `1.3318` | EMA50: `1.3292`\n  • RSI: `60.1` | MACD: BULL ✅ | ADX: `46` (MẠNH 💪)\n  • Xu hướng: 🟢 TĂNG\n  • Tâm lý: THAM LAM\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `1.3419` · S `1.3169`\n  🕓 H4: 🟢 TĂNG | R `1.3421` · S `1.3189`\n  🕐 H1: 🟢 TĂNG | R `1.3375` · S `1.3281`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `1.3375` | R2: `1.3420`\n  • Hỗ trợ S1: `1.3281` | S2: `1.3231`\n  • ATR: `0.0013`\n🎯 *GIAO DỊCH*\n  • Hướng: 🟢 MUA (LONG)\n  • Lý do: Giá trên EMA21 > EMA50, hỗ trợ tại 1.33\n  • Entry: `1.3281`\n  • Stop Loss: `1.3261`\n  • Take Profit 1: `1.3375`\n  • Take Profit 2: `1.3420`\n  • Risk/Reward: `1:4.7`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (100/100)"
+      "analysis_text": "*GBP/USD* (FX:GBPUSD)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `1.3330` 🟢 +0.00%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `1.3318` | EMA50: `1.3292`\n  • RSI: `60.1` | MACD: BULL ✅ | ADX: `46` (MẠNH 💪)\n  • Xu hướng: 🟢 TĂNG\n  • Tâm lý: THAM LAM\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `1.3418` · S `1.3168`\n  🕓 H4: 🟢 TĂNG | R `1.3421` · S `1.3189`\n  🕐 H1: 🟢 TĂNG | R `1.3375` · S `1.3281`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `1.3375` | R2: `1.3420`\n  • Hỗ trợ S1: `1.3281` | S2: `1.3231`\n  • ATR: `0.0013`\n🎯 *GIAO DỊCH*\n  • Hướng: 🟢 MUA (LONG)\n  • Lý do: Giá trên EMA21 > EMA50, hỗ trợ tại 1.33\n  • Entry: `1.3281`\n  • Stop Loss: `1.3261`\n  • Take Profit 1: `1.3375`\n  • Take Profit 2: `1.3420`\n  • Risk/Reward: `1:4.7`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (100/100)"
     },
     {
       "symbol": "FX:EURUSD",
@@ -3618,7 +3618,7 @@
           0
         ]
       },
-      "analysis_text": "*EUR/USD* (FX:EURUSD)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `1.1244` 🟢 +0.01%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `1.1238` | EMA50: `1.1225`\n  • RSI: `54.6` | MACD: BULL ✅ | ADX: `68` (MẠNH 💪)\n  • Xu hướng: 🟢 TĂNG\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🔴 GIẢM | R `1.1406` · S `1.1039`\n  🕓 H4: 🟡 ĐI NGANG | R `1.1305` · S `1.1150`\n  🕐 H1: 🟢 TĂNG | R `1.1273` · S `1.1214`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `1.1273` | R2: `1.1303`\n  • Hỗ trợ S1: `1.1214` | S2: `1.1184`\n  • ATR: `0.0013`\n🎯 *GIAO DỊCH*\n  • Hướng: 🟢 MUA (LONG)\n  • Lý do: Giá trên EMA21 > EMA50, hỗ trợ tại 1.12\n  • Entry: `1.1214`\n  • Stop Loss: `1.1194`\n  • Take Profit 1: `1.1273`\n  • Take Profit 2: `1.1303`\n  • Risk/Reward: `1:3.0`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (100/100)"
+      "analysis_text": "*EUR/USD* (FX:EURUSD)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `1.1244` 🟢 +0.01%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `1.1238` | EMA50: `1.1225`\n  • RSI: `54.6` | MACD: BULL ✅ | ADX: `68` (MẠNH 💪)\n  • Xu hướng: 🟢 TĂNG\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🔴 GIẢM | R `1.1411` · S `1.1044`\n  🕓 H4: 🟡 ĐI NGANG | R `1.1305` · S `1.1150`\n  🕐 H1: 🟢 TĂNG | R `1.1273` · S `1.1214`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `1.1273` | R2: `1.1303`\n  • Hỗ trợ S1: `1.1214` | S2: `1.1184`\n  • ATR: `0.0013`\n🎯 *GIAO DỊCH*\n  • Hướng: 🟢 MUA (LONG)\n  • Lý do: Giá trên EMA21 > EMA50, hỗ trợ tại 1.12\n  • Entry: `1.1214`\n  • Stop Loss: `1.1194`\n  • Take Profit 1: `1.1273`\n  • Take Profit 2: `1.1303`\n  • Risk/Reward: `1:3.0`\n⚡ *TÍN HIỆU*: 🟢 MẠNH (100/100)"
     },
     {
       "symbol": "FX:USDJPY",
@@ -4135,7 +4135,7 @@
           0
         ]
       },
-      "analysis_text": "*USD/JPY* (FX:USDJPY)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `157.99` 🔴 -0.00%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `158.00` | EMA50: `158.04`\n  • RSI: `49.3` | MACD: BULL ✅ | ADX: `9` (YẾU ⚠️)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `159.24` · S `156.64`\n  🕓 H4: 🟡 ĐI NGANG | R `158.78` · S `157.37`\n  🕐 H1: 🔴 GIẢM | R `158.32` · S `157.67`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `158.32` | R2: `158.66`\n  • Hỗ trợ S1: `157.67` | S2: `157.35`\n  • ATR: `0.1921`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 158.32\n  • Entry: `158.32`\n  • Stop Loss: `158.61`\n  • Take Profit 1: `157.67`\n  • Take Profit 2: `157.35`\n  • Risk/Reward: `1:2.3`\n⚡ *TÍN HIỆU*: 🟡 TRUNG BÌNH (60/100)"
+      "analysis_text": "*USD/JPY* (FX:USDJPY)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `157.99` 🔴 -0.00%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `158.00` | EMA50: `158.04`\n  • RSI: `49.3` | MACD: BULL ✅ | ADX: `9` (YẾU ⚠️)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `159.19` · S `156.59`\n  🕓 H4: 🟡 ĐI NGANG | R `158.78` · S `157.37`\n  🕐 H1: 🔴 GIẢM | R `158.32` · S `157.67`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `158.32` | R2: `158.66`\n  • Hỗ trợ S1: `157.67` | S2: `157.35`\n  • ATR: `0.1921`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 158.32\n  • Entry: `158.32`\n  • Stop Loss: `158.61`\n  • Take Profit 1: `157.67`\n  • Take Profit 2: `157.35`\n  • Risk/Reward: `1:2.3`\n⚡ *TÍN HIỆU*: 🟡 TRUNG BÌNH (60/100)"
     },
     {
       "symbol": "TVC:DXY",
@@ -5169,7 +5169,7 @@
           0
         ]
       },
-      "analysis_text": "*JPY Index* (TVC:JPY)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `157.99` 🔴 -0.00%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `158.00` | EMA50: `158.04`\n  • RSI: `49.3` | MACD: BULL ✅ | ADX: `9` (YẾU ⚠️)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `159.24` · S `156.64`\n  🕓 H4: 🟡 ĐI NGANG | R `158.78` · S `157.37`\n  🕐 H1: 🔴 GIẢM | R `158.32` · S `157.67`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `158.32` | R2: `158.66`\n  • Hỗ trợ S1: `157.67` | S2: `157.35`\n  • ATR: `0.1921`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 158.32\n  • Entry: `158.32`\n  • Stop Loss: `158.61`\n  • Take Profit 1: `157.67`\n  • Take Profit 2: `157.35`\n  • Risk/Reward: `1:2.3`\n⚡ *TÍN HIỆU*: 🟡 TRUNG BÌNH (60/100)"
+      "analysis_text": "*JPY Index* (TVC:JPY)\n━━━━━━━━━━━━━━━━━━\n💰 Giá: `157.99` 🔴 -0.00%\n📊 *CHỈ BÁO KỸ THUẬT*\n  • EMA21: `158.00` | EMA50: `158.04`\n  • RSI: `49.3` | MACD: BULL ✅ | ADX: `9` (YẾU ⚠️)\n  • Xu hướng: 🔴 GIẢM\n  • Tâm lý: TRUNG TÍNH\n🧭 *KHUNG LỚN (MTF)*\n  🗓 D1: 🟡 ĐI NGANG | R `159.19` · S `156.59`\n  🕓 H4: 🟡 ĐI NGANG | R `158.78` · S `157.37`\n  🕐 H1: 🔴 GIẢM | R `158.32` · S `157.67`\n📈 *VÙNG GIÁ*\n  • Kháng cự R1: `158.32` | R2: `158.66`\n  • Hỗ trợ S1: `157.67` | S2: `157.35`\n  • ATR: `0.1921`\n🎯 *GIAO DỊCH*\n  • Hướng: 🔴 BÁN (SHORT)\n  • Lý do: Giá dưới EMA21 < EMA50, kháng cự tại 158.32\n  • Entry: `158.32`\n  • Stop Loss: `158.61`\n  • Take Profit 1: `157.67`\n  • Take Profit 2: `157.35`\n  • Risk/Reward: `1:2.3`\n⚡ *TÍN HIỆU*: 🟡 TRUNG BÌNH (60/100)"
     },
     {
       "symbol": "TVC:US10Y",
