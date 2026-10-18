@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792284697.8407543,
-  "last_bot4": 1792289071.2490687,
+  "last_bot4": 1792289710.4006202,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792288444.1147692
+    "Gold": 1792289710.400531
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792289071.2498786,
+  "last_signals": 1792289710.4013557,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792289072.6585732,
+    "US30|1D:top": 1792289711.2960272,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792289061.693011,
-  "last_news": 1792289071.2480462,
+  "last_analysis": 1792289700.2702763,
+  "last_news": 1792289708.6578572,
   "seen_news": [
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
-    "NiobiumX Mining Inc. Announces Retraction of Recent Marketing Materials - Tradin",
-    "Debt is eating up a bigger chunk of your raise, research shows",
-    "Wayfair among firms fined millions for misleading sales tactics",
-    "Explainer-Could hackers get inside my fridge?",
-    "Chart of the day: 10-year Treasury yields hit reverse this week but the real tes",
     "Katie Zacharia out as Trump's White House press secretary",
     "The AI telling farmers when to harvest",
     "German minister seeks debt brake exemption to maintain Ukraine aid",
@@ -446,6 +440,12 @@
     "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
     "USD/KRW: Goldman Sachs sees Korean won strengthening",
     "AI names fall as the Nasdaq comes under fresh pressure",
-    "Nh\u1eefng m\u1eabu xe ch\u1ee7 l\u1ef1c doanh s\u1ed1 c\u1ee7a c\u00e1c h\u00e3ng t\u1ea1i Vi\u1ec7t Nam"
+    "Nh\u1eefng m\u1eabu xe ch\u1ee7 l\u1ef1c doanh s\u1ed1 c\u1ee7a c\u00e1c h\u00e3ng t\u1ea1i Vi\u1ec7t Nam",
+    "Mercedes unveils electric SUV as it expands premium EV lineup",
+    "The broader US stock indices are lower but showing different degrees of technica",
+    "\u0110\u1ec1 xu\u1ea5t b\u1ecf C\u01a1 quan \u0111i\u1ec1u tra c\u1ee7a Vi\u1ec7n Ki\u1ec3m s\u00e1t, chuy\u1ec3n th\u1ea9m quy\u1ec1n sang C\u01a1 quan An",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-17 \u2014 cnbctv:23b0813b7094b:0 - TradingV",
+    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'"
   ]
 }
