@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792329759.5995717,
+  "last_signals": 1792330179.326575,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,8 +68,8 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Bitcoin|1D": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792329760.9662905,
+    "US30|1D:top": 1792330180.3497171,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792329750.2820375,
-  "last_news": 1792329757.4705243,
+  "last_analysis": 1792330172.5728452,
+  "last_news": 1792330179.3237555,
   "seen_news": [
-    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 9/2026 - VietstockFinance",
-    "Idt Director Sold Shares Worth Over $1.1M - TradingView",
-    "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Rus",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "U.S. yields fall for the week as AI debt jitters drive traders to safe-haven bon",
-    "US September industrial production +0.7% vs +0.4% expected",
     "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble f",
     "Spain battles climate change on several fronts",
     "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
@@ -446,6 +440,12 @@
     "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
     "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.82%",
     "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
-    "B\u00ed th\u01b0 Qu\u1ea3ng Ninh: 'T\u0103ng tr\u01b0\u1edfng d\u01b0\u1edbi 10% th\u00ec c\u00e1ch ch\u1ee9c c\u1ea3 b\u00ed th\u01b0, ch\u1ee7 t\u1ecbch'"
+    "B\u00ed th\u01b0 Qu\u1ea3ng Ninh: 'T\u0103ng tr\u01b0\u1edfng d\u01b0\u1edbi 10% th\u00ec c\u00e1ch ch\u1ee9c c\u1ea3 b\u00ed th\u01b0, ch\u1ee7 t\u1ecbch'",
+    "Bernstein reiterates Market Perform rating on Venture Global, $14 price target -",
+    "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
+    "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
+    "Ngo\u1ea1i tr\u01b0\u1edfng M\u1ef9: T\u1ed5ng th\u1ed1ng Trump s\u1ebd c\u00f3 60 ng\u00e0y \u0111\u1ec3 c\u00e2n nh\u1eafc c\u00e1c bi\u1ec7n ph\u00e1p tr\u1eebng ",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance"
   ]
 }
