@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792289710.4013557,
+  "last_signals": 1792290312.7760477,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Bitcoin|1D": true,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792289711.2960272,
+    "US30|1D:top": 1792290313.6234014,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792289700.2702763,
-  "last_news": 1792289708.6578572,
+  "last_analysis": 1792290305.379371,
+  "last_news": 1792290312.7751164,
   "seen_news": [
-    "Katie Zacharia out as Trump's White House press secretary",
-    "The AI telling farmers when to harvest",
-    "German minister seeks debt brake exemption to maintain Ukraine aid",
-    "Gold shrugs off hot inflation data as market focus may be shifting to growth con",
-    "B\u1eaft tay t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng cung c\u1ea5p linh ki\u1ec7n t\u1eeb 5 n\u0103m tr\u01b0\u1edbc, m\u1ed9t doanh nghi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - B\u1ee9t t\u1ed1c trong giai \u0111o\u1ea1n cu\u1ed1i n\u0103m - VietstockFinan",
     "Cyngn Disclosed Failure to Satisfy a Continued Listing Rule or Standard - Tradin",
     "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other ",
     "Trump says White House didn't order Starlink restrictions in Ukraine",
@@ -446,6 +440,12 @@
     "\u0110\u1ec1 xu\u1ea5t b\u1ecf C\u01a1 quan \u0111i\u1ec1u tra c\u1ee7a Vi\u1ec7n Ki\u1ec3m s\u00e1t, chuy\u1ec3n th\u1ea9m quy\u1ec1n sang C\u01a1 quan An",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-10-17 \u2014 cnbctv:23b0813b7094b:0 - TradingV",
-    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'"
+    "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America'",
+    "Nam ca s\u0129 U60 t\u1eebng tuy\u00ean b\u1ed1 \"nh\u00e0 t\u00f4i ai ch\u00ea ch\u1ed7 n\u00e0o, t\u00f4i \u0111\u1eadp ngay ch\u1ed7 \u0111\u00f3\" c\u00f3 quy",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
+    "Can EMCOR's Turnaround and Petrochemical Work Lift Industrial Growth? - TradingV",
+    "Debt is eating up a bigger chunk of your raise, research shows",
+    "Wayfair among firms fined millions for misleading sales tactics",
+    "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomber"
   ]
 }
