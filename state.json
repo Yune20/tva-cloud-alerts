@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792306771.427029,
-  "last_bot4": 1792306436.8542597,
+  "last_bot4": 1792307143.6377451,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792305545.9504135
+    "Gold": 1792307143.6375992
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792306771.4281535,
+  "last_signals": 1792307143.6384547,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792306772.2784092,
+    "US30|1D:top": 1792307144.5272865,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792306758.2152662,
-  "last_news": 1792306765.5395932,
+  "last_analysis": 1792307133.778899,
+  "last_news": 1792307141.42225,
   "seen_news": [
-    "4 th\u00f3i quen t\u01b0\u1edfng b\u00ecnh th\u01b0\u1eddng nh\u01b0ng ch\u1ec9 \u0111\u1ee9a tr\u1ebb th\u1ef1c s\u1ef1 th\u00f4ng minh m\u1edbi c\u00f3",
-    "PCB: Ng\u00e2n h\u00e0ng TMCP \u0110\u1ea1i ch\u00fang Vi\u1ec7t Nam - PVcomBank | VietstockFinance - Vietstoc",
-    "Solana shows resilience, but some areas need continued observation, Fidelity say",
-    "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly access",
-    "I find it quite demoralising in store - why I do all my shopping online",
-    "German Power Supply Startups Exit Market as Wholesale Prices Soar",
     "Soybeans Finding Some Buyers at Midday, Still Facing Weaker - TradingView",
     "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
     "Why are more roofs not made of solar tiles?",
@@ -446,6 +440,12 @@
     "\u0110\u1ec1 xu\u1ea5t t\u0103ng th\u1ea9m quy\u1ec1n \u0111i\u1ec1u tra cho c\u00f4ng an c\u1ea5p x\u00e3",
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp | VietstockFinance - Vietst",
     "Binance Announces $800,000 XRP Giveaway for RLUSD Users - TradingView",
-    "People in China are spending nearly as much of their income as Americans on heal"
+    "People in China are spending nearly as much of their income as Americans on heal",
+    "Thi\u1ebfu gia T\u1eadp \u0111o\u00e0n b\u1ea5t \u0111\u1ed9ng s\u1ea3n SN 1995 c\u1ea7u h\u00f4n b\u1ea1n g\u00e1i k\u00e9m 5 tu\u1ed5i trong c\u0103n h\u1ed9 ",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "5 Revealing Analyst Questions From Home Bancshares\u2019s Q3 Earnings Call - TradingV",
+    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "There's a crackdown on sports piracy - but is it already out of control?",
+    "Indian rupee posts biggest weekly gain in seven months"
   ]
 }
