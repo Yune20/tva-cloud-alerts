@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792365709.2242906,
+  "last_signals": 1792366333.5177248,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,11 +65,11 @@
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "USOIL|1D": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -127,10 +127,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792365710.3006132,
+    "Ethereum|1D:bot": 1792366334.286411,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792365710.5491173,
+    "US30|1D:top": 1792366334.4942238,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792366009.7882066,
-  "last_news": 1792365709.223479,
+  "last_analysis": 1792366325.143806,
+  "last_news": 1792366333.5167491,
   "seen_news": [
-    "Living with a stink? Technology might help",
-    "Bolivia\u2019s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-    "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide",
-    "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for T",
-    "Nam ca s\u0129 Vbiz t\u1eebng l\u00e0m gi\u1ea3ng vi\u00ean ti\u1ebfng \u0110\u1ee9c: M\u1edf trung t\u00e2m ngo\u1ea1i ng\u1eef ri\u00eang, U45 ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "I find it quite demoralising in store - why I do all my shopping online",
     "IMF Sounds Alarm Over AI\u2019s Threat to Government Tax Bases",
     "Canadian dollar heads for weekly gain as U.S. dollar retreats",
@@ -446,6 +440,12 @@
     "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
     "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
     "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
-    "Top 3 con gi\u00e1p may m\u1eafn nh\u1ea5t ng\u00e0y 19/10: T\u00e0i l\u1ed9c kh\u1edfi s\u1eafc, c\u00f4ng vi\u1ec7c c\u00f3 t\u00edn hi\u1ec7u "
+    "Top 3 con gi\u00e1p may m\u1eafn nh\u1ea5t ng\u00e0y 19/10: T\u00e0i l\u1ed9c kh\u1edfi s\u1eafc, c\u00f4ng vi\u1ec7c c\u00f3 t\u00edn hi\u1ec7u ",
+    "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+    "China\u2019s Q3 GDP growth set to pick up as exports power ahead",
+    "New Zealand trade deficit widens to nearly NZ$2 billion, more than double foreca",
+    "\u0110i\u1ec1u \u00edt bi\u1ebft v\u1ec1 sao nh\u00ed m\u1edbi n\u1ed5i, \u0111ang g\u00e2y s\u1ed1t m\u00e0n \u1ea3nh",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP | VietstockFinance - VietstockFinance",
+    "Solana shows resilience, but some areas need continued observation, Fidelity say"
   ]
 }
