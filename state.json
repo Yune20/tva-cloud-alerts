@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792365088.2223444,
+  "last_signals": 1792365709.2242906,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -127,10 +127,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792365089.345321,
+    "Ethereum|1D:bot": 1792365710.3006132,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792365089.6208699,
+    "US30|1D:top": 1792365710.5491173,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792365080.4652805,
-  "last_news": 1792365088.2214506,
+  "last_analysis": 1792365698.8645213,
+  "last_news": 1792365709.223479,
   "seen_news": [
-    "Oppenheimer maintains Outperform rating on Builders FirstSource, $78 price targe",
-    "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical t",
-    "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble f",
-    "Faisal Islam: Why China and AI are worrying global finance bosses",
-    "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-    "What are the main events for today?",
     "Living with a stink? Technology might help",
     "Bolivia\u2019s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
     "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide",
@@ -446,6 +440,12 @@
     "Why I am taking the other side of the trade that crushed the market Friday",
     "The virtual worlds where robots are trained",
     "Record Shipping Costs Force Oil Producers to Slash Prices",
-    "BOJ may need to tighten faster if inflation beats forecast, IMF says"
+    "BOJ may need to tighten faster if inflation beats forecast, IMF says",
+    "India\u2019s Finance Minister blames easy exits and excess liquidity for equity marke",
+    "Microsoft pulls out of UK's largest AI data centre",
+    "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
+    "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+    "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
+    "Top 3 con gi\u00e1p may m\u1eafn nh\u1ea5t ng\u00e0y 19/10: T\u00e0i l\u1ed9c kh\u1edfi s\u1eafc, c\u00f4ng vi\u1ec7c c\u00f3 t\u00edn hi\u1ec7u "
   ]
 }
