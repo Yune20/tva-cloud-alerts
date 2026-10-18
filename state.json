@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792286868.0278325,
+  "last_signals": 1792287505.1300056,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792286868.8517556,
+    "US30|1D:top": 1792287505.9203532,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792287173.7773252,
-  "last_news": 1792286868.0270991,
+  "last_analysis": 1792287495.6526012,
+  "last_news": 1792287505.0937428,
   "seen_news": [
-    "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-    "Sterling today: Pound set to snap 7-week losing run as dollar slips on AI fears",
-    "The broader US stock indices are lower but showing different degrees of technica",
-    "Cao su \u0110\u00e0 N\u1eb5ng thay \u0111\u1ed5i nh\u00e2n s\u1ef1 sau khi T\u1ed5ng gi\u00e1m \u0111\u1ed1c b\u1ecb kh\u1edfi t\u1ed1",
-    "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-    "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Cl",
     "Can EMCOR's Turnaround and Petrochemical Work Lift Industrial Growth? - TradingV",
     "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
     "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
@@ -446,6 +440,12 @@
     "Citi sees resilient demand for Chinese AI IPOs despite valuation concerns",
     "S&P 500 analysis and forecast after the \"AI bubble\" panic",
     "Nh\u1eefng ph\u00e1t bi\u1ec3u \u0111\u00e1ng ch\u00fa \u00fd v\u1ec1 'si\u00eau \u0111\u00f4 th\u1ecb' TPHCM",
-    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi"
+    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi",
+    "Swiss finance minister warns steep European debt could trigger euro crisis",
+    "European stocks finish higher, posting weekly gains as U.S. technology shares st",
+    "B\u1eaft Tr\u1ea7n Th\u1ecb Th\u00fay An SN 2002",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Key facts: CRYPTO:XRPUSD pressured; EW targets $3\u2013$4, $9\u2013$13; SBI RLUSD - Tradin",
+    "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027"
   ]
 }
