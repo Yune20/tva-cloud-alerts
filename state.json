@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792366943.7959306,
+  "last_signals": 1792367547.38551,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -127,10 +127,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792366944.628423,
+    "Ethereum|1D:bot": 1792367548.1053622,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792366944.7840474,
+    "US30|1D:top": 1792367548.2530775,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792366935.3998666,
-  "last_news": 1792366943.7949347,
+  "last_analysis": 1792367539.844913,
+  "last_news": 1792367547.3845844,
   "seen_news": [
-    "T\u00e0i x\u1ebf c\u00f4ng ngh\u1ec7 kh\u00f4ng mu\u1ed1n \u0111\u00f3ng b\u1ea3o hi\u1ec3m h\u01b0u tr\u00ed v\u00ec m\u1ee9c ph\u00ed cao",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "Callan JMB Received Notice of Delisting - TradingView",
-    "Here are the 3 big things we're watching in the stock market this week",
-    "How backlash against data centres could shape the US midterm elections",
-    "Nestle, Unilever face regulatory action in India over misleading health claims",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Soybeans Finding Some Buyers at Midday, Still Facing Weaker - TradingView",
     "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
@@ -446,6 +440,12 @@
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
     "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical t",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire"
+    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
+    "PLX: T\u1eadp \u0111o\u00e0n X\u0103ng D\u1ea7u Vi\u1ec7t Nam - Petrolimex | VietstockFinance - VietstockFinan",
+    "Weekly Recap: Q1 AI revenue surge and JPMorgan trims Lenovo (992) stake - Tradin",
+    "I've studied over 200 kids\u2014parents who raise resilient, successful children teac",
+    "Home sellers cut asking prices on 3,000 properties a day",
+    "Bolivia\u2019s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
+    "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide"
   ]
 }
