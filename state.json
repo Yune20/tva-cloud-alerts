@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792361382.8100696,
+  "last_signals": 1792361981.1693027,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
@@ -127,10 +127,10 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
-    "Ethereum|1D:bot": 1792361383.9974864,
+    "Ethereum|1D:bot": 1792361982.070828,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792361384.2967029,
+    "US30|1D:top": 1792361982.253991,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -145,14 +145,8 @@
     "DXY|4H:bot": 1792174038.415262
   },
   "last_analysis": 1792361680.0729868,
-  "last_news": 1792361382.8090937,
+  "last_news": 1792361981.1683354,
   "seen_news": [
-    "The virtual worlds where robots are trained",
-    "China proposes export controls on solar-manufacturing technologies",
-    "USDCAD is lower on the day, but getting a modest lift after another higher infla",
-    "T\u00f2a nh\u00e0 17 t\u1ea7ng tr\u00ean \u0111\u1ea5t v\u00e0ng hi\u1ebfm hoi t\u1ea1i TP.HCM: C\u1ea5t n\u00f3c sau b\u00e0i to\u00e1n kh\u00f3 d\u01b0\u1edbi",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Q3/2026 - VietstockFinance",
-    "Strong dollar, weak hand for Trump before midterms: McGeever - TradingView",
     "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
     "Lo\u1ea1i c\u00e1 d\u1ec5 g\u00e2y ung th\u01b0 b\u1eadc nh\u1ea5t, \"\u0111\u1ed9c\" x\u1ebfp ngang thu\u1ed1c l\u00e1: Nhi\u1ec1u ng\u01b0\u1eddi Vi\u1ec7t v\u1eabn ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Tri\u1ec3n v\u1ecdng TTCK 4Q2026 - T\u00edch l\u0169y trong v\u00f9ng nhi\u1ec5u \u0111\u1ed9ng - Vi",
@@ -446,6 +440,12 @@
     "Chuy\u00ean gia: Ch\u1ee9ng kho\u00e1n tu\u1ea7n t\u1edbi c\u00f3 th\u1ec3 xu\u1ea5t hi\u1ec7n nh\u1ecbp h\u1ed3i ph\u1ee5c k\u1ef9 thu\u1eadt",
     "Vietnam economic report - VietstockFinance",
     "Ethereum\u2019s \u2018World Computer\u2019 Has A Privacy Problem, Charles Hoskinson Says As Mid",
-    "Why hedge funds could be making a bond market shock more likely"
+    "Why hedge funds could be making a bond market shock more likely",
+    "Sau 2 n\u0103m th\u1ea5t nghi\u1ec7p, \u1edf tu\u1ed5i 50, t\u00f4i m\u1edbi hi\u1ec3u: N\u1eeda sau cu\u1ed9c \u0111\u1eddi, 4 th\u1ee9 n\u00e0y ph\u1ea3i",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
+    "SuperRare to Host Sine Collection Release on October 20th - TradingView",
+    "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers",
+    "Driving test waits fall to two-year low - but still average 20 weeks",
+    "Australia\u2019s Challenger gets takeover bid from unit of Japan\u2019s Daiichi Life"
   ]
 }
