@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792327060.594174,
+  "last_signals": 1792327659.304893,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,8 +65,8 @@
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "USOIL|1D": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792327062.0145185,
+    "US30|1D:top": 1792327660.1573527,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792327049.4436147,
-  "last_news": 1792327060.5931554,
+  "last_analysis": 1792327649.0591269,
+  "last_news": 1792327659.3037877,
   "seen_news": [
-    "Bj\u00f6rn Borg \u2013 live presentation October 23rd - TradingView",
-    "Meet the home buyers totally unfazed by 7% mortgage rates",
-    "Berkshire shares buck market sell-off, rally to highest since Buffett said he wo",
-    "Why Gen Z are planning for life without a state pension",
-    "Rubio heads to Central Asia while other US officials hit foreign policy hot spot",
-    "Gold shrugs off hot inflation data as market focus may be shifting to growth con",
     "'Everyone laughed' when he started a pumpkin farm\u2014now it brings in $2 million a ",
     "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
     "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
@@ -446,6 +440,12 @@
     "China's exports and imports surge past expectations in September",
     "X-planes: Are they needed in the new era of drones?",
     "Antofagasta\u2019s Centinela strike ends after deal with unions",
-    "US September import price index +1.1% vs +0.8% expected"
+    "US September import price index +1.1% vs +0.8% expected",
+    "Goldman says investors are looking for 'profitable' Chinese business growth over",
+    "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+    "Buy these 2 stocks amid AI financing concerns: Analyst",
+    "Morning Kickstart: Dollar falls despite hot inflation. USDJPY slips below key mo",
+    "V\u00ec sao b\u1ea1n h\u1ecdc c\u0169 sau 10 n\u0103m g\u1eb7p l\u1ea1i b\u1ed7ng ch\u1eb3ng c\u00f2n g\u00ec \u0111\u1ec3 n\u00f3i v\u1edbi nhau?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kinh t\u1ebf t\u0103ng tr\u01b0\u1edfng m\u1ea1nh trong qu\u00fd III - VietstockFinance"
   ]
 }
