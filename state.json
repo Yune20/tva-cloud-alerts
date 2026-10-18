@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792295672.961932,
+  "last_signals": 1792296294.550122,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792108789.3356895,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792295674.498949,
+    "US30|1D:top": 1792296295.9314075,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792295970.6672983,
-  "last_news": 1792295667.9312356,
+  "last_analysis": 1792296285.027944,
+  "last_news": 1792296294.5491292,
   "seen_news": [
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
-    "Why the UK is dithering over what to do about e-scooters",
-    "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental",
-    "Lo\u1ea1i qu\u1ea3 \"kh\u00f3 chi\u1ec1u\", gi\u00e1 r\u1ebb v\u00e0 r\u1ea5t quen thu\u1ed9c v\u1edbi ng\u01b0\u1eddi Vi\u1ec7t Nam l\u1ed9t t\u1ea3 \u00e1p l\u1ef1c ",
-    "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid h",
-    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t | VietstockFinance - VietstockFinance",
     "FNB Q3'26 Earnings: EPS estimate is 0.43 USD - TradingView",
     "China's exports and imports surge past expectations in September",
@@ -446,6 +440,12 @@
     "Russia says it struck Ukrainian steel plants and power infrastructure",
     "Is EUR/USD finally turning the corner or is this just another false dawn?",
     "T\u00e0i kho\u1ea3n c\u00f4 gi\u00e1o Tr\u1ea7n Th\u1ecb Ph\u01b0\u1ee3ng SN 1983 nh\u1eadn 300 tri\u1ec7u v\u00e0 g\u1ea7n 17 tri\u1ec7u \u0111\u1ed3ng tr",
-    "FPT: CTCP FPT - FPT Corp - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt | VietstockFinance - VietstockFina"
+    "FPT: CTCP FPT - FPT Corp - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt | VietstockFinance - VietstockFina",
+    "Citi says interest rates may matter more for economy than stock valuations",
+    "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negot",
+    "T\u00edch c\u1ef1c thi c\u00f4ng n\u00fat giao V\u00e0nh \u0111ai 3,5 - \u0110\u1ea1i l\u1ed9 Th\u0103ng Long",
+    "DGW: CTCP Th\u1ebf Gi\u1edbi S\u1ed1 - DIGIWORLD | VietstockFinance - VietstockFinance",
+    "Ballard Announces Q3 2026 Results Conference Call - TradingView",
+    "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis"
   ]
 }
