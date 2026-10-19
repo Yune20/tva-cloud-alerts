@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792405683.135998,
-  "last_bot4": 1792413467.7528915,
+  "last_bot4": 1792414437.4984148,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792413467.752792
+    "Gold": 1792414437.4983258
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792414085.8312638,
+  "last_signals": 1792414437.499143,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,8 +66,8 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792414088.0709574,
+    "US30|1D:top": 1792414438.4533367,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792414070.8865106,
-  "last_news": 1792414085.8301454,
+  "last_analysis": 1792414427.6031482,
+  "last_news": 1792414434.7887194,
   "seen_news": [
-    "Crypto: Qubic halts network after weak wallet seeds let attacker drain 1,404 wal",
-    "Cu\u1ed9c s\u1ed1ng hi\u1ec7n t\u1ea1i c\u1ee7a nam thanh ni\u00ean b\u00e1n th\u1eadn \u0111\u1ec3 mua iPhone 15 n\u0103m tr\u01b0\u1edbc",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
-    "Pegasystems (PEGA) To Report Earnings Tomorrow: Here Is What To Expect - Trading",
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
     "India\u2019s Finance Minister says easy exits and excess liquidity fuel equity market",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
@@ -446,6 +440,12 @@
     "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
     "First Tick: Top global cues to watch in today's trade - TradingView",
     "Always on, always listening: New AI devices are pushing legal limits and could p",
-    "Rainmakers: The drones used to seed clouds"
+    "Rainmakers: The drones used to seed clouds",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n ch\u00fa \u00fd th\u00f4ng b\u00e1o c\u1ee7a c\u00f4ng an v\u1ec1 bi\u1ec3n s\u1ed1 xe",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
+    "POMDOCTOR LIMITED Ends ADRs; 10-for-1 Share Consolidation - TradingView",
+    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
+    "The AI telling farmers when to harvest",
+    "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unre"
   ]
 }
