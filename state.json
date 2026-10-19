@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792433554.948294,
+  "last_signals": 1792433900.211104,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792433538.5993419,
-  "last_news": 1792433546.999758,
+  "last_analysis": 1792433892.6789336,
+  "last_news": 1792433900.210026,
   "seen_news": [
-    "I find it quite demoralising in store - why I do all my shopping online",
-    "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
-    "EU charges KKR with misleading regulators over Telecom Italia network deal",
-    "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
-    "XSMN 19/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 19 th\u00e1ng 10",
-    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
     "Ship attack reports near Hormuz reach record high as oil exports slow",
     "Goldman warns high investor conviction could amplify volatility as sentiment shi",
     "PBOC sets USD/ CNY reference rate for today at 6.7208 (vs. estimate at 6.6897)",
@@ -446,6 +440,12 @@
     "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 wi",
     "Turning the tides: Could hidden sea power energise our coastal towns?",
     "Canadian dollar heads for weekly gain as U.S. dollar retreats",
-    "Oil reverses course higher after US and Houthi attacks"
+    "Oil reverses course higher after US and Houthi attacks",
+    "Trump signs order creating NIH division, task force for women\u2019s health",
+    "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn b",
+    "CTCK ch\u1ec9 ra ba nh\u00f3m c\u1ed5 phi\u1ebfu c\u00f3 \u0111\u1ecbnh gi\u00e1 r\u1ebb, k\u1ef3 v\u1ecdng \"bay cao\" n\u0103m 2027",
+    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
+    "Genuine Parts Earnings: What To Look For From GPC - TradingView",
+    "In pictures: More than 500,000 took to the streets as France protests erupted in"
   ]
 }
