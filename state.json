@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792368153.1351948,
+  "last_signals": 1792368765.3985453,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792178258.2633805,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,14 +60,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792368154.530832,
+    "US30|1D:top": 1792368766.2682178,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792368145.8738394,
-  "last_news": 1792368153.1344347,
+  "last_analysis": 1792368757.1456625,
+  "last_news": 1792368765.39761,
   "seen_news": [
-    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil",
-    "Trump's student loan overhaul could lead to more bankruptcy filings, former judg",
-    "Why are more roofs not made of solar tiles?",
-    "China proposes export curbs on 12 key solar manufacturing technologies",
-    "Earnings week ahead: Banks were upbeat on the economy, now onto tech",
-    "M\u1ef9 nh\u00e2n U70 m\u1edf ti\u1ec7c 3 ng\u00e0y 3 \u0111\u00eam \u1edf bi\u1ec7t th\u1ef1 ri\u00eang t\u1ea1i M\u1ef9",
     "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
     "Trump endorses Israeli Prime Minister Netanyahu for reelection amid Iran war",
     "US August business inventories +0.4% vs +0.4% expected",
@@ -446,6 +440,12 @@
     "News by Brave New Coin on TradingView, 2026-10-17 \u2014 bravenewcoin:43f95e1d2094b:0",
     "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble f",
     "Don't fall for this - how to protect yourself from AI scams",
-    "Canadian dollar heads for weekly gain as U.S. dollar retreats"
+    "Canadian dollar heads for weekly gain as U.S. dollar retreats",
+    "Bitcoin's MVRV drops below 30th percentile after $87K rejection - TradingView",
+    "Berkshire shares buck market sell-off, rally to highest since Buffett said he wo",
+    "EU tariffs aimed at China hitting Ukraine, steel boss says",
+    "Putin proposes summit with Trump and Xi on Ukraine- WSJ",
+    "Microsoft quits Nscale UK data centre deal ahead of planned $3 billion IPO",
+    "CSGT d\u1ef1 ki\u1ebfn g\u1eedi th\u00f4ng b\u00e1o ph\u1ea1t ngu\u1ed9i qua VNeTraffic, c\u00f3 th\u1ec3 n\u1ed9p ph\u1ea1t qua QR"
   ]
 }
