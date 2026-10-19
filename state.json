@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792400477.3332415,
+  "last_signals": 1792401095.7735944,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792400478.6283503,
+    "US30|1D:top": 1792401096.579681,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792400468.8069544,
-  "last_news": 1792400477.3323197,
+  "last_analysis": 1792401087.0143013,
+  "last_news": 1792401095.7725656,
   "seen_news": [
-    "Key facts: 40x BTCUSD Long Falls;Bitfinex Buyers;Schwab Opens Spot BTC - Trading",
-    "Semiconductor market to remain solid \u2018at least through next year,\u2019 South Korea f",
-    "Faisal Islam: Why China and AI are worrying global finance bosses",
-    "What\u2019s the likelihood of Yen carry trade reversing?",
-    "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for T",
-    "5 chi\u1ebfc iPhone gi\u1ea3m gi\u00e1 s\u00e2u, \u0111\u00e1ng mua nh\u1ea5t hi\u1ec7n nay",
     "Banks expect to be hit with higher taxes in Budget",
     "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
     "Earnings week ahead: Banks were upbeat on the economy, now onto tech",
@@ -446,6 +440,12 @@
     "\u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinance",
     "Georgia Trade Deficit Widens to 9-Month High in September - TradingView",
     "My sister moved in with our mother, 78, and says she deserves the $925,000 famil",
-    "Berkshire shares buck market sell-off, rally to highest since Buffett said he wo"
+    "Berkshire shares buck market sell-off, rally to highest since Buffett said he wo",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
+    "FTSE MIB Moves Toward 4-Month Low - TradingView",
+    "Kelly Clarkson\u2019s expensive purchases: A multi-million dollar real-estate portfol",
+    "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the eu",
+    "People playing loud music on buses could face \u00a3100 fine",
+    "Euro drops amid high energy prices and street riots in France"
   ]
 }
