@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792404791.0939083,
+  "last_signals": 1792405393.1575122,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,8 +66,8 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792404791.7143662,
+    "Bitcoin|4H:top": 1792405393.6388037,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792404792.08337,
+    "US30|1D:top": 1792405393.9463947,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792404781.3558416,
-  "last_news": 1792404791.0930212,
+  "last_analysis": 1792405385.632402,
+  "last_news": 1792405393.1563628,
   "seen_news": [
-    "Aave\u2019s Native Bitcoin Plan Moves Forward, But Governance Has Questions - Trading",
-    "Inflation likely peaked for 2026 but will remain sticky, according to prediction",
-    "'I took a chance on the whisky industry and I haven't looked back'",
-    "U.S. stock futures climb as investors return to AI trade after selloff",
-    "BoJ\u2019s Ueda says anchoring inflation at 2% more important as AI demand, energy li",
-    "Ngo\u00e0i Bulgaria, th\u00eam m\u1ed9t n\u01b0\u1edbc ng\u01b0\u1ee3c d\u00f2ng EU, \u1ee7ng h\u1ed9 th\u1ecfa thu\u1eadn d\u1ea7u Nga-M\u1ef9 v\u00ec c\u00f3 ",
     "Why are more roofs not made of solar tiles?",
     "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
     "Dollar firmer, euro weakens as French protests turn violent",
@@ -446,6 +440,12 @@
     "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn b",
     "1 d\u1ea5u hi\u1ec7u c\u00f3 th\u1ec3 nh\u1eadn bi\u1ebft khi t\u1eafm gi\u00fap ph\u00e1t hi\u1ec7n s\u1edbm kh\u1ed1i u",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
-    "Latin American airlines eye Venezuela return as ties thaw, hurdles remain - Trad"
+    "Latin American airlines eye Venezuela return as ties thaw, hurdles remain - Trad",
+    "T\u0102NG TR\u01af \u1edeNG T\u0102NG T\u1ed0C \u00c1P L \u1ef0C GI\u00c1 V \u00c0 CHI PH\u00cd V \u1ed0N T\u0102NG - VietstockFinance",
+    "Siemens Aktiengesellschaft (SIEMENS) Buys Back 360,276 Shares - TradingView",
+    "Big tech is wobbling. Goldman Sachs says it\u2019s time to buy these 23 unloved stock",
+    "Robot factories and hypersonic missiles: JPMorgan Chase\u2019s first $5 billion of de",
+    "Turning the tides: Could hidden sea power energise our coastal towns?",
+    "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers"
   ]
 }
