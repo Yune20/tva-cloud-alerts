@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792409073.523726,
+  "last_signals": 1792409698.0251904,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,13 +63,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792409074.0504458,
+    "Bitcoin|4H:top": 1792409699.290796,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792409074.372809,
+    "US30|1D:top": 1792409700.1271791,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792409066.1882906,
-  "last_news": 1792409073.5228434,
+  "last_analysis": 1792409683.0563123,
+  "last_news": 1792409698.021855,
   "seen_news": [
-    "Tu\u1ea5n H\u01b0ng vi\u1ebft t\u00e2m th\u01b0 h\u01a1n 600 ch\u1eef v\u00e0o r\u1ea1ng s\u00e1ng",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
-    "Weekly Recap: Irdai commission and expense cuts and SBILIFE ~11% APE rise - Trad",
-    "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
-    "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-    "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
     "China Stocks Fall Despite Strong Data - TradingView",
     "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
@@ -446,6 +440,12 @@
     "Trump geothermal lease sale collides with planned Nevada solar farms",
     "EUR/USD seems to be forming a bottom as growth concerns and France budget vote c",
     "Ch\u1ea5t l\u01b0\u1ee3ng kh\u00f4ng kh\u00ed mi\u1ec1n B\u1eafc nh\u1eefng ng\u00e0y t\u1edbi th\u1ebf n\u00e0o?",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt",
+    "KKR charged with misleading EU regulators over Telecom Italia network deal",
+    "Connecting the dots: What falling luxury sales could be telling us about the US ",
+    "Lo\u1ea1i rau \"t\u1ed1t nh\u1ea5t th\u1ebf gi\u1edbi\", x\u01b0a ch\u1ec9 d\u00f9ng cho vua ch\u00faa, nay ch\u1ee3 Vi\u1ec7t b\u00e1n v\u00e0i ng",
+    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
+    "Cocoa Futures Hover Around $5,700 - TradingView"
   ]
 }
