@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792425170.6434147,
+  "last_signals": 1792425526.6249993,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -74,7 +74,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792425156.9106236,
-  "last_news": 1792425167.4956493,
+  "last_analysis": 1792425514.5688202,
+  "last_news": 1792425526.624199,
   "seen_news": [
-    "European stock market open: French unrest weighs on stocks to start the new week",
-    "H\u00e0 N\u1ed9i s\u1eeda \u0111\u1ed3ng lo\u1ea1t 4 c\u00e2y c\u1ea7u",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
-    "Genuine Parts Earnings: What To Look For From GPC - TradingView",
-    "India\u2019s finance minister says market liquidity makes it easier for investors to ",
-    "Home sellers cut asking prices on 3,000 properties a day",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
     "MGM Resorts International Stock 12\u2011Month Price Target Cut to $45.28, Implies 58%",
     "I've studied over 200 kids\u2014parents who raise resilient, successful children teac",
@@ -446,6 +440,12 @@
     "We're buying more of a beaten-up stock before another overhang is lifted",
     "Microsoft pulls out of UK's largest AI data centre",
     "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
-    "Factbox-Top cases on the US Supreme Court\u2019s docket"
+    "Factbox-Top cases on the US Supreme Court\u2019s docket",
+    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
+    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
+    "Spain battles climate change on several fronts",
+    "Record Shipping Costs Force Oil Producers to Slash Prices",
+    "Estee Lauder options see heavy call volume with April 2027 spread structure",
+    "What are the main events for today?"
   ]
 }
