@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792415264.7120013,
+  "last_signals": 1792415696.0168471,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,10 +64,10 @@
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792415266.077636,
+    "US30|1D:top": 1792415696.8772311,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792415254.8235235,
-  "last_news": 1792415264.710481,
+  "last_analysis": 1792415686.0345733,
+  "last_news": 1792415696.0159059,
   "seen_news": [
-    "Asia stocks edge lower despite stronger China growth as AI jitters persist",
-    "US futures look to rebound after tech rout but the real test is still ahead",
-    "B\u1ee9c th\u01b0 b\u00e9 trai l\u1edbp 6 g\u1eedi m\u1eb9 k\u1ebf nh\u00e2n ng\u00e0y 20/10 g\u00e2y b\u00e3o m\u1ea1ng",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies - ",
-    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "FCNR Deposits Weigh on Private Banks' Margins - TradingView",
     "China's exports and imports surge past expectations in September",
@@ -446,6 +440,12 @@
     "Why is Centrus Energy stock rallying today?",
     "Canada September CPI 3.1% y/y vs 3.2% expected",
     "Ch\u00e2n dung ch\u00e0ng trai 30 tu\u1ed5i, c\u00f3 b\u1eb1ng Ti\u1ebfn s\u0129, r\u1ea3i 2.300 \u0111\u01a1n xin vi\u1ec7c v\u1eabn th\u1ea5t n",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "My hometown shows that high streets have to change or die",
+    "Bernstein lifts Datadog to buy amid stronger AI-driven tailwinds",
+    "Morning Kickstart: Dollar mixed as US\u2013Iran hopes weigh on oil; Nasdaq futures ri",
+    "Nga \u00e2m th\u1ea7m giao t\u00ean l\u1eeda h\u00e0nh tr\u00ecnh Kh-35UE d\u00e0nh cho MiG-29M2 c\u1ee7a \u0111\u1ed1i t\u00e1c",
+    "MBB: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Gold edges higher as investors assess Fed rate-hike odds - TradingView"
   ]
 }
