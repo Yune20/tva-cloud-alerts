@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792417625.102501,
+  "last_signals": 1792418232.182152,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792411261.2633185,
-    "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
+    "5575146754|Gold|1H|trap_dn": 1792418232.182152,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
@@ -62,8 +62,8 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
-    "USOIL|1H": false,
+    "Gold|1D": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792417617.5497348,
-  "last_news": 1792417625.101595,
+  "last_analysis": 1792418225.2485456,
+  "last_news": 1792418232.1813397,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Japan 10Y Yield Falls on Takaichi Remarks - TradingView",
-    "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in d",
-    "X-planes: Are they needed in the new era of drones?",
-    "Dollar steady, euro weakens after French protests turn violent",
-    "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesda",
     "Charities 'busier than ever' with furniture poverty",
     "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
     "BoE probes Barclays\u2019 handling of private credit risks, FT reports",
@@ -446,6 +440,12 @@
     "China Q3 GDP beats estimates, as does September retail sales",
     "3 con gi\u00e1p c\u00f3 c\u00f4ng vi\u1ec7c th\u0103ng hoa nh\u1ea5t th\u00e1ng 11, c\u00e0ng ch\u1ee7 \u0111\u1ed9ng c\u00e0ng d\u1ec5 b\u1ee9t ph\u00e1",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Healthcare ETFs to Buy as UnitedHealth Beats on Q3 Earnings - TradingView"
+    "Healthcare ETFs to Buy as UnitedHealth Beats on Q3 Earnings - TradingView",
+    "Only a third of the US data centre pipeline looks credible as AI financing strai",
+    "Ng\u01b0\u1eddi tr\u1ebb ch\u1ecdn qu\u00e0 g\u00ec cho d\u1ecbp 20/10?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
+    "Weekly Recap: Jio IPO anchor interest and 8.3 on Prologis stake - TradingView",
+    "Meet the home buyers totally unfazed by 7% mortgage rates",
+    "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to ho"
   ]
 }
