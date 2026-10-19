@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792361685.0414796,
+  "last_news_report": 1792372746.0655186,
   "last_bot4": 1792372414.687607,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792372125.2444797,
+  "last_signals": 1792372746.0665393,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792373001,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792372126.9965286,
+    "US30|1D:top": 1792372747.4696877,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792372115.8809226,
-  "last_news": 1792372125.243539,
+  "last_analysis": 1792372730.8406503,
+  "last_news": 1792372739.3636143,
   "seen_news": [
-    "Ripple CTO Emeritus Exposes Suspected Wallet Scam Targeting Recovery Phrases - T",
-    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
-    "Some companies give AI to everyone. This CEO is doing the opposite",
-    "Toilet paper and secret recorders: What we know about the arrest of the Saudi Op",
-    "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
-    "Could another France downgrade put the EU\u2019s credit rating at risk?",
     "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger specul",
     "Turning the tides: Could hidden sea power energise our coastal towns?",
     "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
@@ -446,6 +440,12 @@
     "Commodities intraday targets/key levels - TradingView",
     "Investors are buying up vast tracts of timberland across U.S. in one of market's",
     "I find it quite demoralising in store - why I do all my shopping online",
-    "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300"
+    "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
+    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas | VietstockFinance - VietstockFin",
+    "Japanese Stocks Slide Amid Tech Selloff - TradingView",
+    "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+    "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "SK Hynix crashes -20.6% below 20-period MA: Live levels",
+    "More BoJ\u2019s Ueda names two factors for bond market action, keeps JGB taper plan u"
   ]
 }
