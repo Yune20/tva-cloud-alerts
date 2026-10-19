@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792440762.7164462,
+  "last_signals": 1792441383.8406446,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792440753.8649256,
-  "last_news": 1792440762.715565,
+  "last_analysis": 1792441372.4149067,
+  "last_news": 1792441383.8397732,
   "seen_news": [
-    "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil di",
-    "Ph\u00f3 Th\u1ee7 t\u01b0\u1edbng Nga b\u1ea5t ng\u1edd tr\u01b0\u1edbc k\u1ebf ho\u1ea1ch c\u1ee7a ch\u00e2u \u00c2u",
-    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
-    "First Tick: Top global cues to watch in today's trade - TradingView",
-    "Always on, always listening: New AI devices are pushing legal limits and could p",
-    "Rainmakers: The drones used to seed clouds",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n ch\u00fa \u00fd th\u00f4ng b\u00e1o c\u1ee7a c\u00f4ng an v\u1ec1 bi\u1ec3n s\u1ed1 xe",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "POMDOCTOR LIMITED Ends ADRs; 10-for-1 Share Consolidation - TradingView",
@@ -446,6 +440,12 @@
     "OpenAI bugging suspect held without bail after Saudi government offers to pay",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "New Oil Fields Should Have to Build the Carbon Storage Market",
-    "Aeromexico eyes new US flights after Washington lifts Mexico City restrictions"
+    "Aeromexico eyes new US flights after Washington lifts Mexico City restrictions",
+    "Trump approval falls to record low. Poll shows Republicans losing badly in midte",
+    "L\u1ee3i nhu\u1eadn qu\u00fd 3 m\u1ed9t c\u00f4ng ty ch\u1ee9ng kho\u00e1n b\u1ea5t ng\u1edd \"b\u1ed1c h\u01a1i\" 98% so v\u1edbi c\u00f9ng k\u1ef3",
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
+    "ACV Auctions Announced Transfer or Voluntary Withdrawal of Listing - TradingView",
+    "OpenAI bugging suspect Alfozan held without bail after Saudi government offers t",
+    "How long will humans be needed for translation?"
   ]
 }
