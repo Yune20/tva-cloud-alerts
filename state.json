@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792416593.2823296,
-  "last_bot4": 1792424531.871135,
+  "last_bot4": 1792425170.6425626,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792423794.973823
+    "Gold": 1792425170.6424682
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792424531.871753,
+  "last_signals": 1792425170.6434147,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,7 +64,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792424833.8208175,
-  "last_news": 1792424531.8702674,
+  "last_analysis": 1792425156.9106236,
+  "last_news": 1792425167.4956493,
   "seen_news": [
-    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
-    "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical t",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-    "The virtual worlds where robots are trained",
-    "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-    "Eurozone yields firm as French unrest widens spread risk",
     "European stock market open: French unrest weighs on stocks to start the new week",
     "H\u00e0 N\u1ed9i s\u1eeda \u0111\u1ed3ng lo\u1ea1t 4 c\u00e2y c\u1ea7u",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
@@ -446,6 +440,12 @@
     "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
     "Truist Securities maintains Hold rating on Tractor Supply, $33 price target - Tr",
     "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Vinted blocks French looters listing stolen goods for sale"
+    "Vinted blocks French looters listing stolen goods for sale",
+    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
+    "Goldman's Pasquariello sees October choppiness giving way to year-end rally - Tr",
+    "We're buying more of a beaten-up stock before another overhang is lifted",
+    "Microsoft pulls out of UK's largest AI data centre",
+    "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
+    "Factbox-Top cases on the US Supreme Court\u2019s docket"
   ]
 }
