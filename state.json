@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792376169.8230672,
+  "last_signals": 1792376780.9207947,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792376170.7626889,
+    "US30|1D:top": 1792376782.3512743,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792376159.0134041,
-  "last_news": 1792376169.819796,
+  "last_analysis": 1792376770.4914932,
+  "last_news": 1792376780.9198034,
   "seen_news": [
-    "NiobiumX Mining Inc. Announces Retraction of Recent Marketing Materials - Tradin",
-    "Katie Zacharia out as Trump's White House press secretary",
-    "What is the Budget and what could be in it?",
-    "European earnings preview: Can Q3 results meet high expectations?",
-    "investingLive European news wrap: Markets consolidate after the US CPI shock",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang Campuchia tr\u1ed3ng h\u01a1n 2.000 ha d\u1ee9a: \u0110\u01b0\u1ee3c t\u1eadp \u0111o\u00e0n M\u1ef9 1",
     "Netflix to shed 1,000 jobs in steepest cuts since 2022",
     "Street Calls of the Week",
     "Solana's fundamentals are clouded by negative macro and geopolitical conditions.",
@@ -446,6 +440,12 @@
     "H\u00e0 N\u1ed9i l\u1ea5y \u00fd ki\u1ebfn ng\u01b0\u1eddi d\u00e2n v\u1ec1 ch\u1eb7t, chuy\u1ec3n c\u00e2y hoa s\u1eefa",
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC | VietstockFina",
     "Weekly Recap: Q2 FY27 results and interim dividend Rs15, 1:1 bonus - TradingView",
-    "France hit by worst unrest in years as attempts to rein in government spending m"
+    "France hit by worst unrest in years as attempts to rein in government spending m",
+    "H\u1ec7 sinh th\u00e1i gi\u1ea3i ph\u00e1p ETC: N\u0103ng l\u1ef1c s\u1ed1 ph\u00eda sau nh\u1eefng l\u0129nh v\u1ef1c tr\u1ecdng y\u1ebfu",
+    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
+    "Four Days Left: XRP Ledger Key Fix Upgrade Eyes October Activation - TradingView",
+    "China's third-quarter economic growth quickens to 4.5% as exports surge, beating",
+    "China's economic growth picks up as AI boom boosts exports",
+    "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher"
   ]
 }
