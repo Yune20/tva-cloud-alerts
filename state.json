@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792402950.8541493,
+  "last_signals": 1792403560.856134,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
@@ -77,7 +77,7 @@
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792402952.4357166,
+    "US30|1D:top": 1792403561.7995102,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792402939.2180412,
-  "last_news": 1792402950.8531895,
+  "last_analysis": 1792403551.4517744,
+  "last_news": 1792403560.855221,
   "seen_news": [
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
-    "Ripple CTO Emeritus Exposes Suspected Wallet Scam Targeting Recovery Phrases - T",
-    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
-    "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a si",
-    "Living with a stink? Technology might help",
-    "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
     "Swiss finance minister warns steep European debt could trigger euro crisis",
     "PBOC is expected to set the USD/CNY reference rate at 6.6897 \u2013 Reuters estimate",
     "Chuy\u00ean gia: Gi\u00e1 d\u1ea7u th\u1ebf gi\u1edbi s\u1eafp b\u01b0\u1edbc v\u00e0o \u0111\u1ee3t t\u0103ng s\u1ed1c ch\u01b0a t\u1eebng th\u1ea5y",
@@ -446,6 +440,12 @@
     "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 wi",
     "Musk and Anthropic pledge public share giveaways",
     "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
-    "Uber wins bid to throw out UK mass lawsuit by black cab drivers"
+    "Uber wins bid to throw out UK mass lawsuit by black cab drivers",
+    "Stock earnings pick of the week: Meta faces a $145 billion question after the te",
+    "\"\u00c1c n\u1eef\" phim c\u1ed5 trang \u0111ang g\u00e2y s\u1ed1t m\u00e0n \u1ea3nh: Visual ngo\u00e0i \u0111\u1eddi ng\u1ecdt s\u00e2u r\u0103ng, m\u1eb7c ",
+    "B\u00c1O C\u00c1O TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 3Q.2026 - VietstockFinance",
+    "China\u2019s proposed solar curbs raise stakes for overseas manufacturers - TradingVi",
+    "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "Faisal Islam: Why China and AI are worrying global finance bosses"
   ]
 }
