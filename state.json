@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792372746.0655186,
-  "last_bot4": 1792372414.687607,
+  "last_bot4": 1792373100.170642,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792371797.4775825
+    "Gold": 1792373100.170539
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792372746.0665393,
+  "last_signals": 1792373100.1715124,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792372747.4696877,
+    "US30|1D:top": 1792373100.9856722,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792372730.8406503,
-  "last_news": 1792372739.3636143,
+  "last_analysis": 1792373088.6310182,
+  "last_news": 1792373097.2773395,
   "seen_news": [
-    "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger specul",
-    "Turning the tides: Could hidden sea power energise our coastal towns?",
-    "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
-    "Swiss finance minister warns steep European debt could trigger euro crisis",
-    "S&P 500 analysis and forecast after the \"AI bubble\" panic",
-    "M\u1ed9t qu\u1ed1c gia tuy\u00ean b\u1ed1 \u0111\u00ecnh ch\u1ec9 c\u00e1c cu\u1ed9c thi Hoa H\u1eadu tr\u00ean to\u00e0n qu\u1ed1c, thay b\u1eb1ng t\u00ec",
     "European stocks finish higher, posting weekly gains as U.S. technology shares st",
     "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK ng\u00e0y 19/10: Th\u00eam c\u00f4ng ty ch\u1ee9ng kho\u00e1n b\u00e1o l\u1ee3i nhu\u1eadn qu\u00fd 3 \"",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -446,6 +440,12 @@
     "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
     "Ship attack reports near Hormuz reach record high as oil exports slow",
     "SK Hynix crashes -20.6% below 20-period MA: Live levels",
-    "More BoJ\u2019s Ueda names two factors for bond market action, keeps JGB taper plan u"
+    "More BoJ\u2019s Ueda names two factors for bond market action, keeps JGB taper plan u",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO | VietstockFinance - VietstockFinance",
+    "Ripple CTO Emeritus Exposes Suspected Wallet Scam Targeting Recovery Phrases - T",
+    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
+    "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a si",
+    "Living with a stink? Technology might help",
+    "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates"
   ]
 }
