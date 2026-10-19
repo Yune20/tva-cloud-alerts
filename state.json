@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792394366.7889,
+  "last_signals": 1792394987.53116,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792369378.4295964,
+    "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792373707.8474743,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792394367.6548505,
+    "US30|1D:top": 1792394988.3211248,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792394358.394825,
-  "last_news": 1792394366.7877898,
+  "last_analysis": 1792394979.7544057,
+  "last_news": 1792394987.5303602,
   "seen_news": [
-    "Binance Pool To Close November 10, Giving Bitcoin Miners Weeks To Move - Trading",
-    "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-    "Why I am taking the other side of the trade that crushed the market Friday",
-    "The virtual worlds where robots are trained",
-    "Record Shipping Costs Force Oil Producers to Slash Prices",
-    "BOJ may need to tighten faster if inflation beats forecast, IMF says",
     "India\u2019s Finance Minister blames easy exits and excess liquidity for equity marke",
     "Microsoft pulls out of UK's largest AI data centre",
     "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
@@ -446,6 +440,12 @@
     "There's a crackdown on sports piracy - but is it already out of control?",
     "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
     "Dollar holds losses; yuan hits 4-yr high after China Q3 GDP beat",
-    "Gold eyes another run at $4,200 but the bond market still holds the key"
+    "Gold eyes another run at $4,200 but the bond market still holds the key",
+    "Indian rupee posts biggest weekly gain in seven months",
+    "Market outlook for the week of 19th-23rd October",
+    "M\u1ef9 nh\u00e2n Vi\u1ec7t di\u1ec5n hay \u0111\u1ebfn m\u1ee9c \u0111\u01b0\u1ee3c cho v\u00e0o SGK v\u00e0 s\u00e1ch v\u0103n h\u1ecdc, sinh vi\u00ean \u0111i\u1ec7n \u1ea3",
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Indian shares slip as private-bank earnings, elevated crude hit sentiment - Trad",
+    "The bloated workweek is coming for Sundays\u2014as some embrace flexibility, others w"
   ]
 }
