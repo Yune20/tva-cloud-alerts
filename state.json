@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792438573.2592158,
+  "last_signals": 1792438916.962506,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792438573.5961485,
+    "USOIL|4H:top": 1792438917.6349015,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792438555.1002173,
-  "last_news": 1792438565.5859835,
+  "last_analysis": 1792438906.3821888,
+  "last_news": 1792438916.961691,
   "seen_news": [
-    "investingLive European session wrap: French unrest weighs on the euro as Wall St",
-    "Th\u1ef1c h\u01b0 th\u00f4ng tin rao b\u00e1n m\u1ecf v\u00e0ng tr\u1eef l\u01b0\u1ee3ng 290 kg \u1edf Tuy\u00ean Quang",
-    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "MastIT Group To Acquire MW Field Services\u2019 Nordic Telecom Ops - TradingView",
-    "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "A breakthrough in US-Iran negotiations is expected to be announced this week, ac",
     "Thi\u00ean th\u1ea7n m\u1edbi c\u1ee7a Victoria's Secret \u0111\u00e1nh b\u1ea1i h\u01a1n 100.000 \u1ee9ng vi\u00ean",
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
@@ -446,6 +440,12 @@
     "Gi\u00e1 k\u1ebdm, ch\u00ec t\u0103ng v\u1ecdt, m\u1ed9t c\u1ed5 phi\u1ebfu \u201ct\u00edm l\u1ecbm\u201d sau 14 phi\u00ean t\u1eaft thanh kho\u1ea3n",
     "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER | VietstockFinance",
     "GFL Environmental deal could happen as early as next week - Bloomberg - TradingV",
-    "Why Elon Musk, Anthropic and other AI titans are giving away shares"
+    "Why Elon Musk, Anthropic and other AI titans are giving away shares",
+    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
+    "Connecting the dots: What falling luxury sales could be telling us about the US ",
+    "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK s\u00e1ng 20/10: T\u1ea5p n\u1eadp c\u00f4ng b\u1ed1 BCTC qu\u00fd 3, lo\u1ea1t t\u00ean tu\u1ed5i l\u1edbn ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
+    "OpenAI bugging suspect Alfozan ordered held without bond"
   ]
 }
