@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792436363.6799536,
+  "last_signals": 1792436975.1717777,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792436364.0153997,
+    "USOIL|4H:top": 1792436975.6195323,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -145,14 +145,8 @@
     "DXY|4H:bot": 1792174038.415262
   },
   "last_analysis": 1792436668.529247,
-  "last_news": 1792436363.679014,
+  "last_news": 1792436975.1709633,
   "seen_news": [
-    "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt",
-    "KKR charged with misleading EU regulators over Telecom Italia network deal",
-    "Connecting the dots: What falling luxury sales could be telling us about the US ",
-    "Lo\u1ea1i rau \"t\u1ed1t nh\u1ea5t th\u1ebf gi\u1edbi\", x\u01b0a ch\u1ec9 d\u00f9ng cho vua ch\u00faa, nay ch\u1ee3 Vi\u1ec7t b\u00e1n v\u00e0i ng",
-    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
-    "Cocoa Futures Hover Around $5,700 - TradingView",
     "Zcash recovers some losses amid improved risk sentiment, but downside risks pers",
     "Ph\u00f3 Th\u1ee7 t\u01b0\u1edbng Ph\u1ea1m Th\u1ecb Thanh Tr\u00e0  nh\u1eadn th\u00eam nhi\u1ec7m v\u1ee5 m\u1edbi",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
@@ -446,6 +440,12 @@
     "VinFast \u0111\u00e3 t\u00ecm th\u1ea5y \u201ccon g\u00e0\u201d \u0111\u1ec3 gi\u1ea3i b\u00e0i to\u00e1n kh\u00f3 c\u1ee7a ng\u00e0nh c\u00f4ng nghi\u1ec7p \u00f4 t\u00f4 Vi\u1ec7",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
     "Nexus Uranium Announces Closing of $1.92 Million Financing - TradingView",
-    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re"
+    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
+    "K\u1ef9 s\u01b0 gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam v\u1eeba m\u1ea5t h\u01a1n 1 t\u1ef7 USD trong v\u00e0i gi\u1edd",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "E And Ifc Deepen Partnership In Latin America - TradingView",
+    "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+    "What is the Budget and what could be in it?",
+    "Colombia\u2019s Critical Minerals Could Be a Game Changer for America"
   ]
 }
