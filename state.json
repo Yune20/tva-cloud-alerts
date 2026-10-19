@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792403560.856134,
+  "last_signals": 1792404169.5757804,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792400478.107727,
+    "Bitcoin|4H:top": 1792404170.0765476,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792403561.7995102,
+    "US30|1D:top": 1792404170.3938155,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792403551.4517744,
-  "last_news": 1792403560.855221,
+  "last_analysis": 1792404160.1017942,
+  "last_news": 1792404169.5748825,
   "seen_news": [
-    "Swiss finance minister warns steep European debt could trigger euro crisis",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6897 \u2013 Reuters estimate",
-    "Chuy\u00ean gia: Gi\u00e1 d\u1ea7u th\u1ebf gi\u1edbi s\u1eafp b\u01b0\u1edbc v\u00e0o \u0111\u1ee3t t\u0103ng s\u1ed1c ch\u01b0a t\u1eebng th\u1ea5y",
-    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
-    "Cammsys Corp Q3 Operating Profit 7.4 Billion Won, Swings To Profit From Year Ear",
-    "The bull market turned 4 years old on Monday. Investors say reaching a fifth bir",
     "C\u00e1c t\u1ec9nh B\u1eafc B\u1ed9 v\u00e0 H\u00e0 N\u1ed9i ti\u1ebfp t\u1ee5c n\u1eafng n\u00f3ng, hanh kh\u00f4",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Microsoft exits Nscale U.K. data center deal as IPO pressures mount - TradingVie",
@@ -446,6 +440,12 @@
     "B\u00c1O C\u00c1O TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 3Q.2026 - VietstockFinance",
     "China\u2019s proposed solar curbs raise stakes for overseas manufacturers - TradingVi",
     "Elon Musk says he'll give a SpaceX share to every child in America next year",
-    "Faisal Islam: Why China and AI are worrying global finance bosses"
+    "Faisal Islam: Why China and AI are worrying global finance bosses",
+    "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+    "Dollar holds steady as French unrest weighs on Euro",
+    "Bitcoin rebounds from a key support as risk sentiment improves on falling oil pr",
+    "Kh\u00e1m x\u00e9t kh\u1ea9n c\u1ea5p ch\u1ed7 \u1edf B\u00f9i Th\u1ecb Xu\u00e2n SN 1996 v\u00e0 nhi\u1ec1u ng\u01b0\u1eddi, c\u00f4ng an thu gi\u1eef 20.",
+    "L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5% M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti\u1ebfp t\u1ee5c t\u0103ng nh\u1eb9 - VietstockFinan",
+    "Dollar firmer, euro weakens as French protests turn violent - TradingView"
   ]
 }
