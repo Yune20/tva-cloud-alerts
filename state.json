@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792438916.962506,
+  "last_signals": 1792439529.5459032,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792438917.6349015,
+    "USOIL|4H:top": 1792439530.1204693,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792438906.3821888,
-  "last_news": 1792438916.961691,
+  "last_analysis": 1792439516.9193957,
+  "last_news": 1792439529.5447211,
   "seen_news": [
-    "A breakthrough in US-Iran negotiations is expected to be announced this week, ac",
-    "Thi\u00ean th\u1ea7n m\u1edbi c\u1ee7a Victoria's Secret \u0111\u00e1nh b\u1ea1i h\u01a1n 100.000 \u1ee9ng vi\u00ean",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "US Futures Gain on Tech Strength - TradingView",
-    "Tech is wobbling. Goldman Sachs says it\u2019s time to buy these 23 unloved stocks in",
-    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
     "\u0110i\u1ec1u tra s\u1ed1 ti\u1ec1n 12,9 t\u1ef7 \u0111\u1ed3ng, c\u00f4ng an kh\u1edfi t\u1ed1 ch\u1ee7 h\u1ed9 kinh doanh H.T.T SN 1993",
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "Casper Network: brings EVM support to mainnet - Q4 2026 - TradingView",
@@ -446,6 +440,12 @@
     "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK s\u00e1ng 20/10: T\u1ea5p n\u1eadp c\u00f4ng b\u1ed1 BCTC qu\u00fd 3, lo\u1ea1t t\u00ean tu\u1ed5i l\u1edbn ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
-    "OpenAI bugging suspect Alfozan ordered held without bond"
+    "OpenAI bugging suspect Alfozan ordered held without bond",
+    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Newmark Launches Industrial Outdoor Storage Practice, Expanding Capabilities Acr",
+    "SpaceX earnings will be all about AI \u2014 for better or for worse",
+    "OpenAI bugging suspect Alfozan ordered held without bail",
+    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
+    "Nscale in talks for $45 billion Anthropic AI deal as IPO looms"
   ]
 }
