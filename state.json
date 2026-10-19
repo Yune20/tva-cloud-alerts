@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792427649.9611018,
-  "last_bot4": 1792428944.2402816,
+  "last_bot4": 1792429627.201656,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792429283.6569703,
+  "last_signals": 1792429627.202343,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792429268.4687696,
-  "last_news": 1792429283.656282,
+  "last_analysis": 1792429620.3232949,
+  "last_news": 1792429627.200781,
   "seen_news": [
-    "China's Coal Production Slumps 6.8% as Winter Supply Fears Grow",
-    "Gift Nifty 50 rejects 38.2% Fib resistance at 23,195: Live levels",
-    "FISG and Andr\u00e9s Iniesta Mark Strategic Partnership with Official Signing Ceremon",
-    "'C\u1ea7n ch\u1ebf t\u00e0i m\u1ea1nh ng\u0103n b\u1ecf c\u1ecdc, th\u00f4ng \u0111\u1ed3ng, d\u00ecm gi\u00e1 khi \u0111\u1ea5u gi\u00e1 t\u00e0i s\u1ea3n'",
-    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK | VietstockFinance - Vie",
-    "REG - ASOS PLC Goldman Sachs Group. - Holding(s) in Company - TradingView",
     "Original-Research: Eckert & Ziegler SE (von NuWays AG): BUY - TradingView",
     "France and the U.S. share the same debt trap. Only one has a global lifeline.",
     "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 wi",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
     "Arcblock Released Blocklet Server Security Update - TradingView",
     "Why a former Intel skeptic is giving up his negative call on the stock after fou",
-    "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the eu"
+    "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the eu",
+    "H\u01a1n 1 t\u1ef7 USD s\u1eafp ch\u1ea3y v\u00e0o ch\u1ee9ng kho\u00e1n, th\u1eddi \u0111i\u1ec3m gi\u1ea3i ng\u00e2n \u0111\u00e3 xu\u1ea5t hi\u1ec7n?",
+    "\u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinance",
+    "Samsung Makes Unusual Move for Nvidia Chips - TradingView",
+    "SpaceX\u2019s stock made billions for college endowments. But their luck is about to ",
+    "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Sta",
+    "People playing loud music on buses could face \u00a3100 fine"
   ]
 }
