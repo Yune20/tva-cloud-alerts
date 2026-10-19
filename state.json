@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792433900.211104,
+  "last_signals": 1792434518.4616609,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792159534.805662,
+    "USOIL|4H:top": 1792434518.800287,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792433892.6789336,
-  "last_news": 1792433900.210026,
+  "last_analysis": 1792434509.8308163,
+  "last_news": 1792434518.460811,
   "seen_news": [
-    "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "Goldman warns high investor conviction could amplify volatility as sentiment shi",
-    "PBOC sets USD/ CNY reference rate for today at 6.7208 (vs. estimate at 6.6897)",
-    "Ph\u00f3 gi\u00e1m \u0111\u1ed1c S\u1edf C\u00f4ng Th\u01b0\u01a1ng Nguy\u1ec5n Tr\u01b0\u1eddng Thi l\u00e0m T\u1ed5ng gi\u00e1m \u0111\u1ed1c SJC",
-    "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM | Viets",
-    "El Salvador's Bitcoin reserve tops 7,800 coins despite IMF limits - TradingView",
     "More BoJ\u2019s Ueda names two factors for bond market action, keeps JGB taper plan u",
     "V\u01b0\u1ee3t \u0111\u1ea1i di\u1ec7n Singapore, \u00dac, Dubai, Vietnam Airlines b\u1ea5t ng\u1edd \u0111\u01b0\u1ee3c vinh danh th\u1ebf ",
     "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC | VietstockFinance - Vietstock",
@@ -446,6 +440,12 @@
     "CTCK ch\u1ec9 ra ba nh\u00f3m c\u1ed5 phi\u1ebfu c\u00f3 \u0111\u1ecbnh gi\u00e1 r\u1ebb, k\u1ef3 v\u1ecdng \"bay cao\" n\u0103m 2027",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Genuine Parts Earnings: What To Look For From GPC - TradingView",
-    "In pictures: More than 500,000 took to the streets as France protests erupted in"
+    "In pictures: More than 500,000 took to the streets as France protests erupted in",
+    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t \"v\u1ecbnh H\u1ea1 Long tr\u00ean n\u00fai\" tr\u1ea3i d\u00e0i 500 ha: Thu\u1ed9c khu Ramsar th\u1ee9 1.",
+    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
+    "China\u2019s proposed solar curbs raise stakes for overseas manufacturers - TradingVi",
+    "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would ",
+    "'I took a chance on the whisky industry and I haven't looked back'",
+    "Japan\u2019s Electricity Prices Surge 25% as LNG and Coal Costs Soar"
   ]
 }
