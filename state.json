@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792422897.70297,
+  "last_signals": 1792423506.1210594,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,15 +66,15 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792422885.908764,
-  "last_news": 1792422897.7020073,
+  "last_analysis": 1792423495.234214,
+  "last_news": 1792423506.1201334,
   "seen_news": [
-    "Why I am taking the other side of the trade that crushed the market Friday",
-    "Spain battles climate change on several fronts",
-    "Record Shipping Costs Force Oil Producers to Slash Prices",
-    "Cherry or tabasco? Perfumers test weight-loss drug users\u2019 appetite for food-insp",
-    "What are the main events for today?",
-    "N\u1eef sinh \u0111\u1ea1i h\u1ecdc SN 2005 m\u1edf li\u1ec1n 20 qu\u00e1n tr\u00e0 s\u1eefa trong 1 n\u0103m v\u1edbi s\u1ed1 v\u1ed1n h\u01a1n 100 t",
     "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
     "Bank of England probes Barclays over private credit loans - report",
     "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
@@ -446,6 +440,12 @@
     "OpenAI bugging suspect's conduct could pose danger to U.S. national security, fe",
     "There's a crackdown on sports piracy - but is it already out of control?",
     "Wright Says Gas Prices Peaked As Brent Holds Above $108",
-    "Top Fintech and Crypto Stocks: Moness Crespi Hardt\u2019s Picks"
+    "Top Fintech and Crypto Stocks: Moness Crespi Hardt\u2019s Picks",
+    "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis es",
+    "Why Gen Z are planning for life without a state pension",
+    "Greenpeace Protest Forces Shutdown at Woodside\u2019s $12.5 Billion Gas Project",
+    "Trump to create new NIH division, task force for women\u2019s health",
+    "Nasdaq leads the rebound as tech stocks find buyers",
+    "Nga b\u1eafn v\u0169 kh\u00ed l\u1ea1 \u1edf Kiev, s\u00f3ng xung k\u00edch lan r\u1ed9ng - TT Putin xu\u1ea5t hi\u1ec7n v\u1edbi h\u00ecnh "
   ]
 }
