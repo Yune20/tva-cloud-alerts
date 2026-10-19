@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792384141.927556,
+  "last_signals": 1792384755.017899,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -79,7 +79,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792384142.80316,
+    "US30|1D:top": 1792384755.8279123,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792384134.7151978,
-  "last_news": 1792384141.9265816,
+  "last_analysis": 1792384746.0433466,
+  "last_news": 1792384755.0169215,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
-    "Gi\u1eefa th\u00e1ng 10 g\u1eedi ti\u1ebft ki\u1ec7m t\u1ea1i VietinBank, Agribank, BIDV, Vietcombank: C\u00f3 bao ",
-    "FPT: CTCP FPT - FPT Corp - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt | VietstockFinance - VietstockFina",
-    "Ballard Announces Q3 2026 Results Conference Call - TradingView",
-    "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid h",
-    "Bank of America shares drop after third-quarter revenue miss and regulatory pena",
     "Watch: Did Tesla really just unveil a flying car?",
     "US September import price index +1.1% vs +0.8% expected",
     "M\u1ed9t th\u00e1ng t\u1eeb khi n\u00e2ng h\u1ea1ng: Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng g\u1ea7n t\u1ef7 USD, VN-Index m\u1ea5t 110 \u0111i\u1ec3",
@@ -446,6 +440,12 @@
     "Earnings To Watch: F.N.B. Corporation (FNB) Reports Q3 Results Tomorrow - Tradin",
     "There is a silent market rotation inside the S&P 500 that\u2019s warning of more weak",
     "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
-    "The AI telling farmers when to harvest"
+    "The AI telling farmers when to harvest",
+    "Crypto: Qubic halts network after weak wallet seeds let attacker drain 1,404 wal",
+    "Cu\u1ed9c s\u1ed1ng hi\u1ec7n t\u1ea1i c\u1ee7a nam thanh ni\u00ean b\u00e1n th\u1eadn \u0111\u1ec3 mua iPhone 15 n\u0103m tr\u01b0\u1edbc",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "Pegasystems (PEGA) To Report Earnings Tomorrow: Here Is What To Expect - Trading",
+    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?"
   ]
 }
