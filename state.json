@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792406624.066261,
+  "last_signals": 1792407244.8559635,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,9 +63,9 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -77,7 +77,7 @@
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792406624.9898982,
+    "Bitcoin|4H:top": 1792407245.5868995,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792406625.610154,
+    "US30|1D:top": 1792407246.1501446,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792406615.4130266,
-  "last_news": 1792406624.0655591,
+  "last_analysis": 1792407235.856072,
+  "last_news": 1792407244.8550825,
   "seen_news": [
-    "H\u1ec7 sinh th\u00e1i gi\u1ea3i ph\u00e1p ETC: N\u0103ng l\u1ef1c s\u1ed1 ph\u00eda sau nh\u1eefng l\u0129nh v\u1ef1c tr\u1ecdng y\u1ebfu",
-    "IDC: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 08/10/2026 - VietstockFinance",
-    "Four Days Left: XRP Ledger Key Fix Upgrade Eyes October Activation - TradingView",
-    "China's third-quarter economic growth quickens to 4.5% as exports surge, beating",
-    "China's economic growth picks up as AI boom boosts exports",
-    "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
     "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit ",
     "What is the Budget and what could be in it?",
     "USD/KRW: Goldman Sachs sees Korean won strengthening",
@@ -446,6 +440,12 @@
     "EU charges KKR with misleading regulators over Telecom Italia network deal",
     "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
     "XSMN 19/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 19 th\u00e1ng 10",
-    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance"
+    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
+    "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "Goldman warns high investor conviction could amplify volatility as sentiment shi",
+    "PBOC sets USD/ CNY reference rate for today at 6.7208 (vs. estimate at 6.6897)",
+    "Ph\u00f3 gi\u00e1m \u0111\u1ed1c S\u1edf C\u00f4ng Th\u01b0\u01a1ng Nguy\u1ec5n Tr\u01b0\u1eddng Thi l\u00e0m T\u1ed5ng gi\u00e1m \u0111\u1ed1c SJC",
+    "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM | Viets",
+    "El Salvador's Bitcoin reserve tops 7,800 coins despite IMF limits - TradingView"
   ]
 }
