@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792412494.1218734,
+  "last_signals": 1792413117.3924546,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,10 +64,10 @@
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792412495.472457,
+    "US30|1D:top": 1792413119.4433465,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792412483.427985,
-  "last_news": 1792412494.120911,
+  "last_analysis": 1792413099.2286954,
+  "last_news": 1792413117.3914602,
   "seen_news": [
-    "Th\u1ed1ng \u0111\u1ed1c NHNN y\u00eau c\u1ea7u gi\u1ea3m l\u00e3i su\u1ea5t c\u1ea7n \u0111\u01b0\u1ee3c xem x\u00e9t \u0111\u1ed1i v\u1edbi c\u1ea3 d\u01b0 n\u1ee3 hi\u1ec7n h\u1eefu ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Stock recommendations for 19 October from MarketSmith India - TradingView",
-    "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
-    "How long will humans be needed for translation?",
-    "CoreWeave bond rout tests market\u2019s math on AI buildout",
     "First Tick: Top global cues to watch in today's trade - TradingView",
     "Always on, always listening: New AI devices are pushing legal limits and could p",
     "Rainmakers: The drones used to seed clouds",
@@ -446,6 +440,12 @@
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
     "US Futures Gain on Tech Strength - TradingView",
     "Tech is wobbling. Goldman Sachs says it\u2019s time to buy these 23 unloved stocks in",
-    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t"
+    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
+    "\u0110i\u1ec1u tra s\u1ed1 ti\u1ec1n 12,9 t\u1ef7 \u0111\u1ed3ng, c\u00f4ng an kh\u1edfi t\u1ed1 ch\u1ee7 h\u1ed9 kinh doanh H.T.T SN 1993",
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
+    "Casper Network: brings EVM support to mainnet - Q4 2026 - TradingView",
+    "Colleges raced to build massive computer-science departments. Now the boom is tu",
+    "Google says it can build data centers the right way. Some experts and residents ",
+    "Would you buy branded clothing from your favourite tech firm?"
   ]
 }
