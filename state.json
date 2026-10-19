@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792443843.9677389,
+  "last_signals": 1792444449.668862,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792443833.4650588,
-  "last_news": 1792443843.9668243,
+  "last_analysis": 1792444441.4163423,
+  "last_news": 1792444449.668038,
   "seen_news": [
-    "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
-    "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arr",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Google, McKinsey strike Brazil carbon removal deal with silvopasture project",
-    "Why do central banks target 2% inflation instead of 0%?",
-    "Chi\u1ebfc l\u1ed7 b\u00e9 x\u00edu tr\u00ean n\u1eafp b\u00fat bi c\u00f3 t\u00e1c d\u1ee5ng g\u00ec?",
     "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
     "Watch: Did Tesla really just unveil a flying car?",
     "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens",
@@ -446,6 +440,12 @@
     "Would you buy branded clothing from your favourite tech firm?",
     "Why Invading Iran Could Become America's Biggest Military Mistake",
     "Dollar gains as French turmoil due to violent protests drags down the euro",
-    "Canada September CPI 3.1% y/y vs 3.2% expected"
+    "Canada September CPI 3.1% y/y vs 3.2% expected",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "EUR/USD: Euro Steady Near $1.1230 amid French Unrest Clouding Recovery - Trading",
+    "The Treasury\u2019s financing plans are sparking anxiety on Wall Street",
+    "Always on, always listening: New AI devices are pushing legal limits and could p",
+    "Gleaning group gives \u00a31m of produce to food banks",
+    "Colombia\u2019s peso hits one-month high on rate outlook"
   ]
 }
