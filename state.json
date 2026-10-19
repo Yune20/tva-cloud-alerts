@@ -29,12 +29,12 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792373100.1715124,
+  "last_signals": 1792373707.8474743,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
-    "5575146754|Gold|4H|range_in": 1792181861.3888528,
+    "5575146754|Gold|4H|range_in": 1792373707.8474743,
     "5575146754|Gold|1H|trap_dn": 1791981941.7095995,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792373100.9856722,
+    "US30|1D:top": 1792373708.6751802,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792373088.6310182,
-  "last_news": 1792373097.2773395,
+  "last_analysis": 1792373698.943975,
+  "last_news": 1792373707.846611,
   "seen_news": [
-    "European stocks finish higher, posting weekly gains as U.S. technology shares st",
-    "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK ng\u00e0y 19/10: Th\u00eam c\u00f4ng ty ch\u1ee9ng kho\u00e1n b\u00e1o l\u1ee3i nhu\u1eadn qu\u00fd 3 \"",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zo",
-    "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
-    "Would you buy branded clothing from your favourite tech firm?",
     "US October Philly Fed business index +20.9 vs +28.4 expected",
     "M\u1ed9t \"\u0111\u1ea1i l\u1ed9\" \u0111\u1eb7c bi\u1ec7t v\u1eeba ch\u00ednh th\u1ee9c xu\u1ea5t hi\u1ec7n gi\u1eefa V\u1ecbnh Ti\u00ean c\u1ee7a \u00f4ng Ph\u1ea1m Nh\u1eadt ",
     "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t | Vi",
@@ -446,6 +440,12 @@
     "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
     "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a si",
     "Living with a stink? Technology might help",
-    "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates"
+    "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+    "Swiss finance minister warns steep European debt could trigger euro crisis",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6897 \u2013 Reuters estimate",
+    "Chuy\u00ean gia: Gi\u00e1 d\u1ea7u th\u1ebf gi\u1edbi s\u1eafp b\u01b0\u1edbc v\u00e0o \u0111\u1ee3t t\u0103ng s\u1ed1c ch\u01b0a t\u1eebng th\u1ea5y",
+    "DMX: CTCP \u0110\u1ea7u t\u01b0 \u0110i\u1ec7n m\u00e1y Xanh - DMX | VietstockFinance - VietstockFinance",
+    "Cammsys Corp Q3 Operating Profit 7.4 Billion Won, Swings To Profit From Year Ear",
+    "The bull market turned 4 years old on Monday. Investors say reaching a fifth bir"
   ]
 }
