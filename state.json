@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792378615.4267344,
+  "last_signals": 1792379230.4541962,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792378617.1378722,
+    "US30|1D:top": 1792379231.3004875,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792378605.3823247,
-  "last_news": 1792378615.4259596,
+  "last_analysis": 1792379220.1652493,
+  "last_news": 1792379230.4533086,
   "seen_news": [
-    "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
-    "Anthropic to commit 5% stake to new public benefit fund",
-    "France inflation rises sharply in September as price pressures add to ECB rate h",
-    "M\u1ed9t doanh nghi\u1ec7p b\u00e1o l\u00e3i qu\u00fd 3/2026 g\u1ea5p tr\u0103m l\u1ea7n c\u00f9ng k\u1ef3, c\u1ed5 phi\u1ebfu li\u1ec1n \"nh\u1ea5n ga",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 10/2026 - T\u00ecm ki\u1ebfm c\u01a1 h\u1ed9i trong m\u00f9a b\u00e1o c\u00e1o k\u1ebft qu\u1ea3 ki",
-    "AT&T's Lori M. Lee to Retire as Global Marketing Officer, Role Eliminated - Trad",
     "Oil prices surge higher into the weekend",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 19/10: Haxaco l\u00e3i sau thu\u1ebf 9 th\u00e1ng g\u1ea5p 40 l\u1ea7n c\u00f9ng",
     "VGI: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Qu\u1ed1c t\u1ebf Viettel - VIETTEL GLOBAL | VietstockFin",
@@ -446,6 +440,12 @@
     "IODM Hits Record September Revenue as University Rollout Accelerates - TradingVi",
     "People in China are spending nearly as much of their income as Americans on heal",
     "China's growth accelerates as AI export boom outweighs domestic weakness",
-    "Why is New Hope stock rallying today?"
+    "Why is New Hope stock rallying today?",
+    "Tu\u1ea5n H\u01b0ng vi\u1ebft t\u00e2m th\u01b0 h\u01a1n 600 ch\u1eef v\u00e0o r\u1ea1ng s\u00e1ng",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
+    "Weekly Recap: Irdai commission and expense cuts and SBILIFE ~11% APE rise - Trad",
+    "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+    "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest"
   ]
 }
