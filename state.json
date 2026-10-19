@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792376780.9207947,
+  "last_signals": 1792377393.073671,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792376782.3512743,
+    "US30|1D:top": 1792377394.9750843,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792376770.4914932,
-  "last_news": 1792376780.9198034,
+  "last_analysis": 1792377385.2467804,
+  "last_news": 1792377393.0690987,
   "seen_news": [
-    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-    "Street Calls of the Week",
-    "Solana's fundamentals are clouded by negative macro and geopolitical conditions.",
-    "N\u1eef l\u00e3nh \u0111\u1ea1o c\u1ee7a FPT v\u00e0o top 2% nh\u00e0 khoa h\u1ecdc \u1ea3nh h\u01b0\u1edfng nh\u1ea5t th\u1ebf gi\u1edbi: \u201cT\u00f4i t\u1eebng t",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Farmhouse appoints Kevin Asher as CFO as Lanny R. Lang resigns CFO role - Tradin",
     "US inflation worries aren't over yet as PPI and retail sales pose fresh risks fo",
     "Tr\u1ef1c th\u0103ng 11 t\u1ea5n c\u1ee7a Vi\u1ec7t Nam bay g\u1ea7n 370 km ra bi\u1ec3n l\u00e0m nhi\u1ec7m v\u1ee5 \u0111\u1eb7c bi\u1ec7t: 2 \u0111",
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q2/2026 - VietstockFinance",
@@ -446,6 +440,12 @@
     "Four Days Left: XRP Ledger Key Fix Upgrade Eyes October Activation - TradingView",
     "China's third-quarter economic growth quickens to 4.5% as exports surge, beating",
     "China's economic growth picks up as AI boom boosts exports",
-    "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher"
+    "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
+    "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit ",
+    "What is the Budget and what could be in it?",
+    "USD/KRW: Goldman Sachs sees Korean won strengthening",
+    "Goldman Sachs sees S&P 500 earnings at $415 in 2027 but warns narrow leadership ",
+    "V\u00ec sao b\u00e2y gi\u1edd nhi\u1ec1u ng\u01b0\u1eddi \u0111i h\u1ecdp l\u1edbp l\u1ea1i chia h\u00f3a \u0111\u01a1n r\u1ea1ch r\u00f2i?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti"
   ]
 }
