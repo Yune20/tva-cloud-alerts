@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1792427649.9611018,
-  "last_bot4": 1792437593.9928095,
+  "last_news_report": 1792438570.4091575,
+  "last_bot4": 1792438573.2585208,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792437593.9927359
+    "Gold": 1792438573.2583785
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792438195.4227412,
+  "last_signals": 1792438573.2592158,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -72,7 +72,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792438195.8123374,
+    "USOIL|4H:top": 1792438573.5961485,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792437899.4323633,
-  "last_news": 1792438195.4217856,
+  "last_analysis": 1792438555.1002173,
+  "last_news": 1792438565.5859835,
   "seen_news": [
-    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
-    "Why is AST SpaceMobile stock rallying today?",
-    "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since Ma",
-    "\u0110\u1ea1i s\u1ee9 B\u1ec9 b\u1ea5t ng\u1edd v\u1edbi m\u1ed9t t\u1ea5m phi\u1ebfu b\u1ea3o h\u00e0nh \u1edf Vi\u1ec7t Nam",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
     "investingLive European session wrap: French unrest weighs on the euro as Wall St",
     "Th\u1ef1c h\u01b0 th\u00f4ng tin rao b\u00e1n m\u1ecf v\u00e0ng tr\u1eef l\u01b0\u1ee3ng 290 kg \u1edf Tuy\u00ean Quang",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
@@ -446,6 +440,12 @@
     "US CFTC secures order for ex-New York resident to pay $288 million",
     "CIBC cuts gold forecasts but still sees $5,500 in 2028",
     "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang L\u00e0o, Campuchia tr\u1ed3ng 5.400 ha xo\u00e0i: xu\u1ea5t kh\u1ea9u \u0111i Tru",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
+    "Cleveland-Cliffs earnings analysis: questions answered and next catalysts",
+    "EUR/USD seems to be forming a bottom as growth concerns and France budget vote c",
+    "Gi\u00e1 k\u1ebdm, ch\u00ec t\u0103ng v\u1ecdt, m\u1ed9t c\u1ed5 phi\u1ebfu \u201ct\u00edm l\u1ecbm\u201d sau 14 phi\u00ean t\u1eaft thanh kho\u1ea3n",
+    "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER | VietstockFinance",
+    "GFL Environmental deal could happen as early as next week - Bloomberg - TradingV",
+    "Why Elon Musk, Anthropic and other AI titans are giving away shares"
   ]
 }
