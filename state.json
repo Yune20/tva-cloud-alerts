@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792425526.6249993,
+  "last_signals": 1792426139.8891904,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792425514.5688202,
-  "last_news": 1792425526.624199,
+  "last_analysis": 1792426129.9842274,
+  "last_news": 1792426139.888395,
   "seen_news": [
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 12/10/2026 - VietstockFinance",
-    "MGM Resorts International Stock 12\u2011Month Price Target Cut to $45.28, Implies 58%",
-    "I've studied over 200 kids\u2014parents who raise resilient, successful children teac",
-    "Don't fall for this - how to protect yourself from AI scams",
-    "Bolivia\u2019s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-    "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide",
     "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble f",
     "EU tariffs aimed at China hitting Ukraine, steel boss says",
     "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices",
@@ -446,6 +440,12 @@
     "Spain battles climate change on several fronts",
     "Record Shipping Costs Force Oil Producers to Slash Prices",
     "Estee Lauder options see heavy call volume with April 2027 spread structure",
-    "What are the main events for today?"
+    "What are the main events for today?",
+    "Bikes 'not for jousting,' says Lime after duel video",
+    "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?",
+    "France urges curfews in some areas after weekend of riots",
+    "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
+    "C\u00f4 g\u00e1i qu\u00ea TP.HCM 19 tu\u1ed5i t\u1ef1 l\u1eadp c\u00f4ng ty, l\u00e0m show mi\u1ec5n ph\u00ed, li\u00ean t\u1ee5c \u0111\u01b0\u1ee3c khen ",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina"
   ]
 }
