@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792427649.9611018,
-  "last_bot4": 1792432922.0002189,
+  "last_bot4": 1792433554.9475715,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792432265.7462077
+    "Gold": 1792433554.947483
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792433216.8133774,
+  "last_signals": 1792433554.948294,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792432921.9987893,
-  "last_news": 1792433216.8125067,
+  "last_analysis": 1792433538.5993419,
+  "last_news": 1792433546.999758,
   "seen_news": [
-    "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an inde",
-    "In pictures: More than 500,000 took to the streets as France protests erupted in",
-    "'I took a chance on the whisky industry and I haven't looked back'",
-    "Japan\u2019s Electricity Prices Surge 25% as LNG and Coal Costs Soar",
-    "Brazil\u2019s airlines fear tax rise impact as election nears",
-    "Crude oil comes off the highs as Trump waives Russian sanctions, but it's unlike",
     "I find it quite demoralising in store - why I do all my shopping online",
     "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
     "EU charges KKR with misleading regulators over Telecom Italia network deal",
@@ -446,6 +440,12 @@
     "Swiss finance minister warns steep European debt could trigger euro crisis",
     "Broader tech focused indices are higher. How are some of the Magnificent 7 fairi",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 20/10: Lo\u1ea1t doanh nghi\u1ec7p t\u00ean tu\u1ed5i c\u00f4ng b\u1ed1, nh",
-    "L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5% M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti\u1ebfp t\u1ee5c t\u0103ng nh\u1eb9 - VietstockFinan"
+    "L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5% M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti\u1ebfp t\u1ee5c t\u0103ng nh\u1eb9 - VietstockFinan",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
+    "Jonathan Reich moves to President & COO at Zedge - TradingView",
+    "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 wi",
+    "Turning the tides: Could hidden sea power energise our coastal towns?",
+    "Canadian dollar heads for weekly gain as U.S. dollar retreats",
+    "Oil reverses course higher after US and Houthi attacks"
   ]
 }
