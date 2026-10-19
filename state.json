@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792405683.135998,
-  "last_bot4": 1792412783.3193643,
+  "last_bot4": 1792413467.7528915,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792412165.6798382
+    "Gold": 1792413467.752792
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792413117.3924546,
+  "last_signals": 1792413467.7536592,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792413119.4433465,
+    "US30|1D:top": 1792413468.6133308,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792413099.2286954,
-  "last_news": 1792413117.3914602,
+  "last_analysis": 1792413454.4351525,
+  "last_news": 1792413465.233259,
   "seen_news": [
-    "First Tick: Top global cues to watch in today's trade - TradingView",
-    "Always on, always listening: New AI devices are pushing legal limits and could p",
-    "Rainmakers: The drones used to seed clouds",
-    "Gift Nifty 50 faces bull trap risk at 23,036 VWAP: Live levels",
-    "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil di",
-    "L\u1eddi khuy\u00ean cho ng\u01b0\u1eddi \u0111ang b\u0103n kho\u0103n \"mua v\u00e0ng hay g\u1eedi ti\u1ebft ki\u1ec7m?\"",
     "C\u00f4ng an v\u00e0o cu\u1ed9c x\u00e1c minh h\u00e0ng lo\u1ea1t \u00f4 t\u00f4 b\u1ecb \u0111\u1eadp v\u1ee1 k\u00ednh tr\u01b0\u1edbc chung c\u01b0",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "Earnings To Watch: F.N.B. Corporation (FNB) Reports Q3 Results Tomorrow - Tradin",
@@ -446,6 +440,12 @@
     "Casper Network: brings EVM support to mainnet - Q4 2026 - TradingView",
     "Colleges raced to build massive computer-science departments. Now the boom is tu",
     "Google says it can build data centers the right way. Some experts and residents ",
-    "Would you buy branded clothing from your favourite tech firm?"
+    "Would you buy branded clothing from your favourite tech firm?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Micron, SanDisk rebound while China's CXMT slides despite profit surge - Trading",
+    "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at",
+    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
+    "How long will humans be needed for translation?",
+    "China\u2019s Solar Exports Keep Falling as Beijing Mulls Export Controls"
   ]
 }
