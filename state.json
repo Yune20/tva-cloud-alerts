@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792438570.4091575,
-  "last_bot4": 1792446607.5970023,
+  "last_bot4": 1792447570.2803574,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792445977.780146
+    "Gold": 1792447570.280262
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792447224.0522294,
+  "last_signals": 1792447570.2811556,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792447206.8449223,
-  "last_news": 1792447224.0491235,
+  "last_analysis": 1792447559.4748359,
+  "last_news": 1792447568.4967308,
   "seen_news": [
-    "Why is Marvell Technology stock rallying today?",
-    "USDCAD bounces after softer CPI data but they have work to do.",
-    "315 ng\u01b0\u1eddi chi\u1ec1u l\u00f2ng Ho\u00e0ng Th\u00f9y Linh",
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Low-carbon copper and aluminium products - TradingView",
-    "Micron and other chip stocks spring back to life after bruising selloff",
     "48 h\u1ecdc sinh b\u1ea5t th\u01b0\u1eddng s\u1ee9c kh\u1ecfe, ph\u00e1t hi\u1ec7n tr\u1ef1c khu\u1ea9n m\u1ee7 xanh trong n\u01b0\u1edbc u\u1ed1ng \u1edf ",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch - TradingView",
@@ -446,6 +440,12 @@
     "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
     "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, sour",
     "Goldman Sachs says rising global bond yields reflect a growing competition for c",
-    "CTCK g\u1ecdi t\u00ean 2 doanh nghi\u1ec7p h\u01b0\u1edfng l\u1ee3i tr\u1ef1c ti\u1ebfp t\u1eeb \u0111\u1ec1 xu\u1ea5t gi\u1ea3m thu\u1ebf xu\u1ea5t kh\u1ea9u p"
+    "CTCK g\u1ecdi t\u00ean 2 doanh nghi\u1ec7p h\u01b0\u1edfng l\u1ee3i tr\u1ef1c ti\u1ebfp t\u1eeb \u0111\u1ec1 xu\u1ea5t gi\u1ea3m thu\u1ebf xu\u1ea5t kh\u1ea9u p",
+    "NYSE becomes latest exchange to extend options hours as appetite for around-the-",
+    "The start-ups hoping to return battery making to the US",
+    "Tradeweb stock rises in volatile trade amid $1.97 billion Trumid deal",
+    "US strategic oil reserve falls to lowest since 1982 as Iran war release drains s",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng g\u1ed1c Vi\u1ec7t 61 tu\u1ed5i \u0111\u1ee9ng sau \u0111\u1ebf ch\u1ebf b\u00e1n h\u00e0ng t\u1ea1i ch\u00e2u \u00c2u, mu\u1ed1n l\u00e0m 10",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc"
   ]
 }
