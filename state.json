@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792396201.6379528,
+  "last_signals": 1792396807.7164721,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792394987.53116,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -76,11 +76,11 @@
     "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792396202.6238403,
+    "Bitcoin|4H:top": 1792396808.202472,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792159534.805662,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792396203.3052185,
+    "US30|1D:top": 1792396808.613256,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792396191.1750307,
-  "last_news": 1792396201.6294088,
+  "last_analysis": 1792396800.9051487,
+  "last_news": 1792396807.7154524,
   "seen_news": [
-    "China data preview: industry holds up, consumers and property lag ahead of Q3 GD",
-    "Ukraine b\u00e1o tin vui",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
-    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
-    "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical t",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
     "PLX: T\u1eadp \u0111o\u00e0n X\u0103ng D\u1ea7u Vi\u1ec7t Nam - Petrolimex | VietstockFinance - VietstockFinan",
     "Weekly Recap: Q1 AI revenue surge and JPMorgan trims Lenovo (992) stake - Tradin",
     "I've studied over 200 kids\u2014parents who raise resilient, successful children teac",
@@ -446,6 +440,12 @@
     "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
     "K\u1ef3 t\u00edch t\u1eeb s\u1ef1 s\u1ee5p \u0111\u1ed5 c\u1ee7a n\u1eef t\u1ef7 ph\u00fa",
     "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
-    "Crude Oil Retreats - TradingView"
+    "Crude Oil Retreats - TradingView",
+    "\u00d4ng ch\u1ee7 California Fitness th\u1eeba nh\u1eadn sai l\u1ea7m: \"Xin h\u00e3y cho ch\u00fang t\u00f4i th\u00eam m\u1ed9t c\u01a1",
+    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
+    "ad pepper media International N.V. (APM) Q3 Revenue +17%, Record EBITDA - Tradin",
+    "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+    "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit tur",
+    "Microsoft pulls out of UK's largest AI data centre"
   ]
 }
