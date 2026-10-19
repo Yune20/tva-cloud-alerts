@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792413467.7536592,
+  "last_signals": 1792414085.8312638,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,10 +64,10 @@
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -83,13 +83,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792414339,
   "menu_prices": {
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792413468.6133308,
+    "US30|1D:top": 1792414088.0709574,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792413454.4351525,
-  "last_news": 1792413465.233259,
+  "last_analysis": 1792414070.8865106,
+  "last_news": 1792414085.8301454,
   "seen_news": [
-    "C\u00f4ng an v\u00e0o cu\u1ed9c x\u00e1c minh h\u00e0ng lo\u1ea1t \u00f4 t\u00f4 b\u1ecb \u0111\u1eadp v\u1ee1 k\u00ednh tr\u01b0\u1edbc chung c\u01b0",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
-    "Earnings To Watch: F.N.B. Corporation (FNB) Reports Q3 Results Tomorrow - Tradin",
-    "There is a silent market rotation inside the S&P 500 that\u2019s warning of more weak",
-    "JPMorgan makes bullish call in fixed income space, suggests it's a once in a gen",
-    "The AI telling farmers when to harvest",
     "Crypto: Qubic halts network after weak wallet seeds let attacker drain 1,404 wal",
     "Cu\u1ed9c s\u1ed1ng hi\u1ec7n t\u1ea1i c\u1ee7a nam thanh ni\u00ean b\u00e1n th\u1eadn \u0111\u1ec3 mua iPhone 15 n\u0103m tr\u01b0\u1edbc",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
@@ -446,6 +440,12 @@
     "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at",
     "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
     "How long will humans be needed for translation?",
-    "China\u2019s Solar Exports Keep Falling as Beijing Mulls Export Controls"
+    "China\u2019s Solar Exports Keep Falling as Beijing Mulls Export Controls",
+    "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil di",
+    "Ph\u00f3 Th\u1ee7 t\u01b0\u1edbng Nga b\u1ea5t ng\u1edd tr\u01b0\u1edbc k\u1ebf ho\u1ea1ch c\u1ee7a ch\u00e2u \u00c2u",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
+    "First Tick: Top global cues to watch in today's trade - TradingView",
+    "Always on, always listening: New AI devices are pushing legal limits and could p",
+    "Rainmakers: The drones used to seed clouds"
   ]
 }
