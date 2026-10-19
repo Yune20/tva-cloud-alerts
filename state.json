@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792421303.6786623,
+  "last_signals": 1792421673.996156,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,7 +64,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792421291.6845024,
-  "last_news": 1792421300.847918,
+  "last_analysis": 1792421664.6864338,
+  "last_news": 1792421673.9949162,
   "seen_news": [
-    "Cho\u00e1ng ng\u1ee3p show n\u1ed9i y hot nh\u1ea5t th\u1ebf gi\u1edbi",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 9/2026 - VietstockFinance",
-    "Australian dollar gains on euro weakness, kiwi waits for inflation data - Tradin",
-    "Why hedge funds could be making a bond market shock more likely",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Greenpeace Protest Forces Shutdown at Woodside\u2019s $12.5 Billion Gas Project",
     "Union Bank Of India Q2 NIM At 2.86% - TradingView",
     "Roth conversions: When the \u2018juice isn't really worth the squeeze,\u2019 according to ",
     "There's a crackdown on sports piracy - but is it already out of control?",
@@ -446,6 +440,12 @@
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Euro dips on French turmoil, Aussie lifted by China growth",
     "FX option expiries for 19 October 10am New York cut",
-    "Si\u00eau b\u00e3o Champi c\u00f3 th\u1ec3 m\u1ea1nh l\u00ean c\u1ea5p 17, \u1ea3nh h\u01b0\u1edfng th\u1ebf n\u00e0o t\u1edbi Bi\u1ec3n \u0110\u00f4ng?"
+    "Si\u00eau b\u00e3o Champi c\u00f3 th\u1ec3 m\u1ea1nh l\u00ean c\u1ea5p 17, \u1ea3nh h\u01b0\u1edfng th\u1ebf n\u00e0o t\u1edbi Bi\u1ec3n \u0110\u00f4ng?",
+    "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+    "Heating oil customers face tough winter",
+    "Intel, Datadog among market cap stock movers on Monday",
+    "New Zealand trade deficit widens to nearly NZ$2 billion, more than double foreca",
+    "Cha m\u1eb9 c\u00e0ng thi\u1ebfu n\u0103ng l\u1ef1c nu\u00f4i d\u1ea1y con, c\u00e0ng th\u00edch k\u1ec3 v\u1edbi ng\u01b0\u1eddi kh\u00e1c 6 chuy\u1ec7n n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock"
   ]
 }
