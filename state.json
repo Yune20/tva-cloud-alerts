@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792382305.1470926,
+  "last_signals": 1792382913.2175899,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792369378.4295964,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
@@ -130,7 +130,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792382306.7311697,
+    "US30|1D:top": 1792382914.0184402,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1791981340.5605245,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792382294.3012815,
-  "last_news": 1792382305.1461785,
+  "last_analysis": 1792382904.0336976,
+  "last_news": 1792382913.2166877,
   "seen_news": [
-    "CTCP Ch\u1ee9ng kho\u00e1n SSI - VietstockFinance",
-    "Enova International Enters Mutual Termination Agreement With Grasshopper Bancorp",
-    "Always on, always listening: New AI devices are pushing legal limits and could p",
-    "Rainmakers: The drones used to seed clouds",
-    "Venezuela expects $76 billion oil investment boost amid U.S. cooperation",
-    "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental",
     "There is a silent market rotation inside the S&P 500 that\u2019s warning of more weak",
     "Wall Street's fear gauge is ripping. Traders see it going even higher",
     "The AI telling farmers when to harvest",
@@ -446,6 +440,12 @@
     "\u0110\u01b0\u1eddng h\u01a1n 213 t\u1ef7 \u1edf Hu\u1ebf kh\u1edfi c\u00f4ng h\u01a1n n\u0103m, m\u1edbi 2 h\u1ed9 b\u00e0n giao m\u1eb7t b\u1eb1ng",
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "Gold Rises as Fed Rate Hike Bets Ease - TradingView",
-    "Williams says Fed may not have to hike rates in 2027, at odds with traders"
+    "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "Th\u1ed1ng \u0111\u1ed1c NHNN y\u00eau c\u1ea7u gi\u1ea3m l\u00e3i su\u1ea5t c\u1ea7n \u0111\u01b0\u1ee3c xem x\u00e9t \u0111\u1ed1i v\u1edbi c\u1ea3 d\u01b0 n\u1ee3 hi\u1ec7n h\u1eefu ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Stock recommendations for 19 October from MarketSmith India - TradingView",
+    "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+    "How long will humans be needed for translation?",
+    "CoreWeave bond rout tests market\u2019s math on AI buildout"
   ]
 }
