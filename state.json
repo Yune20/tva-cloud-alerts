@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792508344.017088,
+  "last_signals": 1792508837.9839725,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792508344.2829409,
+    "Gold|4H:bot": 1792508838.1780777,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792508346.54702
   },
-  "last_analysis": 1792508335.2596707,
-  "last_news": 1792508344.0156136,
+  "last_analysis": 1792508829.2698565,
+  "last_news": 1792508837.9830666,
   "seen_news": [
-    "Red Cat proposes to acquire engine specialist Steyr Motors - TradingView",
-    "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn\u2019t buying it yet",
-    "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-    "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
-    "U.S. yields fall for the week as AI debt jitters drive traders to safe-haven bon",
-    "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i",
     "German producer prices hit highest since March 2023 as energy costs soar, fuelin",
     "L\u1eddi khuy\u00ean kh\u1ea9n c\u1ea5p t\u1edbi t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng \u0111i\u1ec7n tho\u1ea1i Android: M\u00e1y tr\u00ean tay nh\u01b0ng",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
@@ -445,6 +439,12 @@
     "Apple shares aren't cheap. Here's how to get long for less",
     "How the oil capital of the US welcomed a solar power boom",
     "Germany\u2019s Renewable Power Reform Sparks Investment Backlash",
-    "Moderna leads US momentum screen with gains of over 276% in three months"
+    "Moderna leads US momentum screen with gains of over 276% in three months",
+    "France to deploy military as it braces for fresh unrest this weekend",
+    "Spain battles climate change on several fronts",
+    "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
+    "Aerospace and military contractors raise 2026 profit forecasts",
+    "GBPUSD Technicals: The price extends gains and moves above the 100 day MA in the",
+    "N\u1eef t\u00e0i x\u1ebf ch\u1ed1t c\u1eeda \u00f4 t\u00f4, t\u0103ng ga b\u1ecf ch\u1ea1y khi b\u1ecb CSGT d\u1eebng xe"
   ]
 }
