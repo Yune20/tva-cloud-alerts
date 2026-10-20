@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792471541.2749252,
-  "last_bot4": 1792480447.6724582,
+  "last_bot4": 1792481109.1758063,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792479816.8209982
+    "Gold": 1792481109.1757128
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792480737.9115646,
+  "last_signals": 1792481109.176776,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792479527.6224658,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,15 +59,15 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -121,7 +121,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792480738.2148397,
+    "USOIL|4H:top": 1792481109.797034,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792480447.6711776,
-  "last_news": 1792480737.9107766,
+  "last_analysis": 1792481097.342317,
+  "last_news": 1792481106.122099,
   "seen_news": [
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Euro drops amid high energy prices and street riots in France - TradingView",
-    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
-    "NZDUSD buyers build momentum as the recovery approaches its next resistance test",
     "People in China are spending nearly as much of their income as Americans on heal",
     "'I'm fed up of swiping': Why singles now want to meet IRL",
     "US set to announce certification of Boeing 737 MAX 10 on Tuesday, sources say",
@@ -445,6 +439,12 @@
     "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
     "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
     "U.S. yields fall for the week as AI debt jitters drive traders to safe-haven bon",
-    "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i"
+    "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i",
+    "German producer prices hit highest since March 2023 as energy costs soar, fuelin",
+    "L\u1eddi khuy\u00ean kh\u1ea9n c\u1ea5p t\u1edbi t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng \u0111i\u1ec7n tho\u1ea1i Android: M\u00e1y tr\u00ean tay nh\u01b0ng",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "ZAWYA: Oman: FSA launches Robo-Advisor trial for investment services - TradingVi",
+    "Boomers are buying into the promise of monthly income from options ETFs, but the",
+    "China's growth accelerates as AI boom helps boost exports"
   ]
 }
