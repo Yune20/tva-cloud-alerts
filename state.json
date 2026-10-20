@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792529259.743137,
+  "last_signals": 1792529862.0768735,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792527762.7747962,
+    "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -142,17 +142,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792529260.795372
+    "GBP/USD|1D:top": 1792529863.2564166
   },
-  "last_analysis": 1792529252.523821,
-  "last_news": 1792529259.742257,
+  "last_analysis": 1792529850.8893507,
+  "last_news": 1792529862.0761065,
   "seen_news": [
-    "Meet the college students trying to reverse an obscure ban on trading onion futu",
-    "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "HSBC Sees Hormuz Becoming Redundant in Five Years",
-    "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unre",
-    "US September housing starts 1.221M vs 1.305M",
     "Morning Kickstart: Dollar mixed as oil tops $100 and European stocks retreat",
     "B\u00e9 3 tu\u1ed5i b\u1ecb n\u01b0\u1edbc m\u00ec n\u00f3ng \u0111\u1ed5 v\u00e0o c\u1ed5 v\u00e0 l\u01b0ng, c\u00e1ch x\u1eed l\u00fd c\u1ee7a m\u1eb9 \u0111\u01b0\u1ee3c b\u00e1c s\u0129 khen ",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
@@ -446,6 +440,12 @@
     "Apple\u2019s $1,999 foldable phone is set to hit stores Friday, are you buying one?",
     "The Nasdaq remains under pressure amid an ugly mix of higher inflation, growth c",
     "Vi\u1ec7t Nam \u0111ang x\u00e2y d\u1ef1ng m\u1ed9t c\u00f4ng tr\u00ecnh cao nh\u1ea5t th\u1ebf gi\u1edbi, v\u01b0\u1ee3t Trung Qu\u1ed1c \u0111\u1ec3 l\u1eadp ",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance"
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
+    "First Tick: Top global cues to watch in today's trade - TradingView",
+    "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
+    "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51",
+    "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+    "API: Crude, Products Continue to Draw",
+    "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 1.02%"
   ]
 }
