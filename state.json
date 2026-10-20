@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792500174.3303757,
+  "last_signals": 1792500752.9409,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792498303.2033274,
+    "5575146754|Gold|1H|range_in": 1792500752.9409,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792500167.6528215,
-  "last_news": 1792500174.329672,
+  "last_analysis": 1792500743.7388663,
+  "last_news": 1792500752.9399462,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "China\u2019s proposed solar curbs raise stakes for overseas manufacturers - TradingVi",
-    "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-    "Why are more roofs not made of solar tiles?",
-    "Rubio kicks off India visit with trade deal, Russian oil on agenda",
-    "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil di",
     "New Oil Fields Should Have to Build the Carbon Storage Market",
     "Sea\u2019s CEO says financial services arm Monee could go public, WSJ reports",
     "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since Ma",
@@ -445,6 +439,12 @@
     "Colombia\u2019s Critical Minerals Could Be a Game Changer for America",
     "Euro dips on French turmoil, US dollar lifted as stocks rebound",
     "What are the main events for today?",
-    "Ph\u00e1t hi\u1ec7n 1 nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng tr\u00fang s\u1ed1 51,7 t\u1ef7 \u0111\u1ed3ng nh\u01b0ng ch\u1ec9 l\u1ea5y 24,6 t\u1ef7 \u0111\u1ed3ng"
+    "Ph\u00e1t hi\u1ec7n 1 nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng tr\u00fang s\u1ed1 51,7 t\u1ef7 \u0111\u1ed3ng nh\u01b0ng ch\u1ec9 l\u1ea5y 24,6 t\u1ef7 \u0111\u1ed3ng",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "Euro Weakens Amid French Turmoil - TradingView",
+    "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
+    "European stocks extend slide as French unrest triggers de-risking",
+    "investingLive Asia-Pacific market news: China holds rates"
   ]
 }
