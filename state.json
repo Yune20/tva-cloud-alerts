@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792513659.8873243,
+  "last_signals": 1792514258.8085623,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,12 +66,12 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792513660.517497,
+    "Bitcoin|4H:top": 1792514259.3594038,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -141,18 +141,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792513661.851125,
+    "DXY|4H:bot": 1792514260.6085937,
     "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792513652.247651,
-  "last_news": 1792513659.8863869,
+  "last_analysis": 1792514250.3174226,
+  "last_news": 1792514258.8076007,
   "seen_news": [
-    "General Motors is set to report earnings before the bell. Here's what Wall Stree",
-    "Bikes 'not for jousting,' says Lime after duel video",
-    "Robot Wars \u2013 How China Has the Robotics Industry in Its Grip",
-    "Sterling today: Pound edges up as dollar consolidates",
-    "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
-    "Danh s\u00e1ch 18 lo\u1ea1i c\u00e2y H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng n\u01a1i c\u00f4ng c\u1ed9ng",
     "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
     "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen an",
     "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -446,6 +440,12 @@
     "REG - Amundi SA Prologis, Inc. - Form 8.3 - Prologis, Inc. - TradingView",
     "Apple announces product launch event for Oct. 28. Analysts expect touchscreen la",
     "US bans China's DeepSeek from government in race for AI dominance",
-    "The Next Major Oil Supply Shock Could Come From Saudi Arabia"
+    "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
+    "Enterprise Financial Services (EFSC) Q3 Earnings: What To Expect - TradingView",
+    "Here's what to expect when Netflix reports earnings after the bell",
+    "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+    "Russia\u2019s Oil Export Revenue Slides as Production Declines",
+    "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+    "Iran and US talks continue.  Reports that a deal is close are wrong"
   ]
 }
