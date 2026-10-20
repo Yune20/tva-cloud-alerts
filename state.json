@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792510071.4206831,
+  "last_signals": 1792510660.6427407,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792502295.2153602,
-    "5575146754|Gold|4H|dbot": 1792506925.042929,
+    "5575146754|Gold|4H|dbot": 1792510660.6427407,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
@@ -116,22 +116,22 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1792510072.0009885,
+    "Ethereum|4H:top": 1792510661.4220068,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792510071.8501227,
+    "Bitcoin|4H:top": 1792510661.2205703,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792510072.1444297,
+    "US30|4H:top": 1792510661.6275094,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792416301.1007216,
+    "US30|1D:top": 1792510661.6275287,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792510071.5709543,
+    "Gold|4H:bot": 1792510660.8070889,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792510072.7604642
+    "DXY|4H:bot": 1792510662.3452427
   },
-  "last_analysis": 1792510060.9596498,
-  "last_news": 1792510068.2776196,
+  "last_analysis": 1792510652.624505,
+  "last_news": 1792510660.6418414,
   "seen_news": [
-    "Daiwa, Mizuho cleared to launch China securities units - Bloomberg",
-    "Explainer: China eyes overnight rate as main policy tool, what it means for mark",
-    "Xem Ai L\u00e0 Tri\u1ec7u Ph\u00fa m\u1edbi bi\u1ebft: T\u1eebng c\u00f3 t\u00ean m\u1ed9t ng\u01b0\u1eddi Vi\u1ec7t \u0111\u01b0\u1ee3c \u0111\u1eb7t cho \u0111\u1ecba \u0111i\u1ec3m t",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "Qt Group Plc (QTCOM) Chosen by SAUTER for Next-Gen UI Development - TradingView",
-    "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determ",
     "There's a crackdown on sports piracy - but is it already out of control?",
     "Wright Says Gas Prices Peaked As Brent Holds Above $108",
     "CoreWeave\u00a0debt selloff poses limited risk to global banks, J.P. Morgan says",
@@ -445,6 +439,12 @@
     "Wall Street gains as healthcare stocks rally, oil prices fall",
     "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i",
     "Anh Nguy\u1ec5n T\u01b0 Thoan chuy\u1ec3n kho\u1ea3n th\u00e0nh c\u00f4ng 23,05 tri\u1ec7u \u0111\u1ed3ng li\u1ec1n b\u00e1o c\u00f4ng an: C",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets"
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch - TradingView",
+    "Salesforce\u2019s stock falls as investors chafe at the cost of latest AI purchase",
+    "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "Union attacks NatWest plans to get workers back to the office",
+    "Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals"
   ]
 }
