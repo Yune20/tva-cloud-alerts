@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792530407.3513315,
+  "last_signals": 1792530761.544806,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -142,17 +142,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792530408.3634195
+    "GBP/USD|1D:top": 1792530762.5497277
   },
-  "last_analysis": 1792530397.1114202,
-  "last_news": 1792530407.3496323,
+  "last_analysis": 1792530752.0061443,
+  "last_news": 1792530761.5439615,
   "seen_news": [
-    "BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside",
-    "FX option expiries for 20 October 10am New York cut",
-    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ch\u01b0a t\u1ed1t nghi\u1ec7p c\u1ea5p 3, t\u1eebng l\u00e0m ph\u1ee5 h\u1ed3 c\u00f3 t\u00e0i s\u1ea3n h\u00e0ng ch\u1ee5c ngh\u00ecn ",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "REG - AQR Capital Mgmt easyJet PLC - Form 8.3 - easyJet plc - TradingView",
-    "Money-saving hacks to cope with higher prices \u2014 from our readers",
     "L\u1ed9 di\u1ec7n \u201ctay ch\u01a1i\u201d ngo\u1ea1i r\u00f3t h\u01a1n 100 t\u1ef7 USD v\u00e0o Vi\u1ec7t Nam",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "SERVAL RESOURCES PLC (SRVL) Discloses TR-1 on Voting Rights Change - TradingView",
@@ -446,6 +440,12 @@
     "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
     "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unre",
     "Oil: Private survey of inventory shows a huge headline crude oil draw, greater t",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang n\u01b0\u1edbc \u0111\u00f4ng d\u00e2n nh\u1ea5t th\u1ebf gi\u1edbi l\u00e0m lo\u1ea1t d\u1ef1 \u00e1n 9,5 t\u1ef7 US"
+    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang n\u01b0\u1edbc \u0111\u00f4ng d\u00e2n nh\u1ea5t th\u1ebf gi\u1edbi l\u00e0m lo\u1ea1t d\u1ef1 \u00e1n 9,5 t\u1ef7 US",
+    "How long will humans be needed for translation?",
+    "API: Crude, Product Inventories Continue to Draw",
+    "Why is Capital One Financial up around 5% today?",
+    "Swiss regulator FINMA approves first retail Bitcoin ETF, waives diversification ",
+    "Vi\u1ec7t Nam s\u1eafp c\u00f3 t\u1ed5 h\u1ee3p trang tr\u1ea1i ch\u0103n nu\u00f4i h\u01a1n 106 ha t\u1ea1i Gia Lai: \u00d4ng l\u1edbn Trun",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance"
   ]
 }
