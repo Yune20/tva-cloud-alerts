@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792516598.701451,
+  "last_signals": 1792516959.3572893,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -118,11 +118,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792516599.199589,
+    "Bitcoin|4H:top": 1792516960.2269855,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792516599.5108511,
+    "US30|4H:top": 1792516960.9782417,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792516591.1776328,
-  "last_news": 1792516598.7006347,
+  "last_analysis": 1792516951.5730827,
+  "last_news": 1792516959.3564456,
   "seen_news": [
-    "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
-    "People playing loud music on buses could face \u00a3100 fine",
-    "Citi sees rotation from growth stocks as Europe draws inflows",
-    "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalle",
-    "C\u1ea3nh gi\u00e1c tr\u01b0\u1edbc c\u00e1c h\u1ed9i nh\u00f3m mua b\u00e1n \"SIM r\u00e1c\" tr\u00ean kh\u00f4ng gian m\u1ea1ng",
-    "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
     "Early US flu season, current strain may signal risk for younger people; doctors ",
     "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
     "M\u1ed9t c\u00e1 nh\u00e2n n\u00e2ng s\u1edf h\u1eefu l\u00ean 6,8% v\u1ed1n B\u1ea5t \u0111\u1ed9ng s\u1ea3n An Gia",
@@ -446,6 +440,12 @@
     "Microsoft pulls out of UK's largest AI data centre",
     "Oil-Rich Alberta Votes to Stay in Canada in Historic Referendum",
     "Sterling today: Pound edges lower; AI jitters cloud dollar outlook",
-    "USDCAD Technicals: The USDCAD has been trending lower since last Wednesday peak."
+    "USDCAD Technicals: The USDCAD has been trending lower since last Wednesday peak.",
+    "My partner of 17 years left me his $1 million home. His children say I influence",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Don't fall for this - how to protect yourself from AI scams",
+    "Dollar surrenders gains as record Japanese bond auction sparks Yen rally",
+    "German producer prices hit highest since March 2023 as energy costs soar, fuelin",
+    "\u00d4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng \u201c\u00e2m th\u1ea7m\u201d b\u1eaft tay m\u1ed9t \u00f4ng l\u1edbn c\u00f4ng ngh\u1ec7: S\u1ebd l\u00e0m r\u1ea1p phim tr\u1ea3"
   ]
 }
