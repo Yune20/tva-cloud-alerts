@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792513940.5554132,
+  "last_bot4": 1792514745.0761185,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792513188.1618629
+    "Gold": 1792514745.0760238
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792514258.8085623,
+  "last_signals": 1792514745.0768642,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -118,11 +118,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792514259.3594038,
+    "Bitcoin|4H:top": 1792514745.628601,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792513660.9168518,
+    "US30|4H:top": 1792514745.9681833,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
@@ -141,18 +141,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792514260.6085937,
+    "DXY|4H:bot": 1792514746.7446895,
     "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792514250.3174226,
-  "last_news": 1792514258.8076007,
+  "last_analysis": 1792514734.6678638,
+  "last_news": 1792514742.3441334,
   "seen_news": [
-    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
-    "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen an",
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "The AI telling farmers when to harvest",
-    "Jefferies says China online beauty sales fell 6% in September",
-    "Ethereum consolidates around key technical levels amid a challenging macro backd",
     "Home sellers cut asking prices on 3,000 properties a day",
     "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?",
     "Eni launches gas project to boost Egypt production capacity",
@@ -446,6 +440,12 @@
     "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
     "Russia\u2019s Oil Export Revenue Slides as Production Declines",
     "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
-    "Iran and US talks continue.  Reports that a deal is close are wrong"
+    "Iran and US talks continue.  Reports that a deal is close are wrong",
+    "Bikes 'not for jousting,' says Lime after duel video",
+    "Trump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers",
+    "Sterling today: Pound edges up as dollar consolidates",
+    "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
+    "Ch\u1ec9 duy nh\u1ea5t m\u1ed9t \u0111\u1ed9i b\u00f3ng \u0111\u1ee7 s\u1ee9c h\u1ea5p d\u1eabn Ronaldo l\u00e0m HLV",
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance"
   ]
 }
