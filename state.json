@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792527164.5987322,
+  "last_signals": 1792527762.7747962,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792523546.770404,
+    "5575146754|Gold|1H|range_in": 1792527762.7747962,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -142,17 +142,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792527166.563959
+    "GBP/USD|1D:top": 1792527763.9148269
   },
-  "last_analysis": 1792527154.985922,
-  "last_news": 1792527164.5978274,
+  "last_analysis": 1792527755.1877115,
+  "last_news": 1792527762.7739236,
   "seen_news": [
-    "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
-    "Investors look to earnings to reset the bull market. The key level to watch on t",
-    "Why are more roofs not made of solar tiles?",
-    "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
-    "Daiwa: BOJ shifts focus from reaching 2% inflation to keeping it there, wages ho",
-    "Th\u1ee7 t\u01b0\u1edbng \u0110\u1ee9c: Vi\u1ec7n tr\u1ee3 Ukraine l\u00e0 'g\u00e1nh n\u1eb7ng kh\u1ed5ng l\u1ed3' cho ng\u00e2n s\u00e1ch ch\u00e2u \u00c2u",
     "Why is Myriad Genetics stock surging today?",
     "The Nasdaq remains under pressure amid an ugly mix of higher inflation, growth c",
     "T\u1ea5t c\u1ea3 ch\u1ee7 xe t\u1ea1i H\u00e0 N\u1ed9i ch\u00fa \u00fd: C\u00f4ng an \u0111ang r\u00e0 so\u00e1t h\u01a1n 1 tri\u1ec7u ph\u01b0\u01a1ng ti\u1ec7n, c\u00f3",
@@ -446,6 +440,12 @@
     "Trump: Ukraine has to want to settle this war, if not it's going to be a very ba",
     "\u0110\u00e2y m\u1edbi l\u00e0 sao Vi\u1ec7t duy nh\u1ea5t xu\u1ea5t hi\u1ec7n trong show Victoria's Secret n\u0103m nay",
     "H\u1ee3p \u0111\u1ed3ng t\u01b0\u01a1ng lai - VietstockFinance",
-    "Gold edges lower as investors weigh Fed rate signals - TradingView"
+    "Gold edges lower as investors weigh Fed rate signals - TradingView",
+    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 21/10: Techcombank l\u1eadp k\u1ef7 l\u1ee5c l\u1ee3i nhu\u1eadn, m\u1ed9t ",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "Genuine Parts Earnings: What To Look For From GPC - TradingView",
+    "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep b",
+    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
+    "Wall Street ends higher on surge in health care stocks, solid earnings"
   ]
 }
