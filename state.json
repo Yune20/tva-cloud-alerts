@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792537908.3058913,
-  "last_bot4": 1792537299.9781158,
+  "last_bot4": 1792538238.5126615,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792536688.4452338
+    "Gold": 1792538238.5125852
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792537619.7519836,
+  "last_signals": 1792538238.5134633,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792537611.646028,
-  "last_news": 1792537619.751172,
+  "last_analysis": 1792538227.1620777,
+  "last_news": 1792538235.5520303,
   "seen_news": [
-    "T\u00ecm th\u1ea5y b\u00e9 trai 3 tu\u1ed5i trong b\u1ec3 n\u01b0\u1edbc sau h\u01a1n 14 gi\u1edd m\u1ea5t t\u00edch",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
-    "Transocean Advances $5.8B Valaris Deal With Brazil Antitrust Nod - TradingView",
-    "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-    "Data center stocks remain under pressure after Korea IPO plunges 30%",
-    "\u00a330 rise in payments for crisis-hit households",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
     "AEP Increases Quarterly Dividend to 97 Cents a Share - TradingView",
     "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at",
@@ -446,6 +440,12 @@
     "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
     "What\u2019s making Europe so angry? The frustration behind the protests",
     "China's growth accelerates as AI boom helps boost exports",
-    "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects"
+    "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
+    "Why SpaceX\u2019s stock is surging \u2014\u00a0and lifting the broader AI universe along with i",
+    "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race a",
+    "Union attacks NatWest plans to get workers back to the office",
+    "Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals",
+    "AI data center projects boost US warehouse demand and rents, real estate company",
+    "Goldman Sachs says 6% nominal growth, not 5% yields, is what matters for small c"
   ]
 }
