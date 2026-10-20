@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792505376.7488146,
+  "last_signals": 1792505994.7753403,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792503231.6373234,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -71,7 +71,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792505377.0222278,
+    "Gold|4H:bot": 1792505994.9200628,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792505367.9885783,
-  "last_news": 1792505376.7463875,
+  "last_analysis": 1792505984.0189347,
+  "last_news": 1792505994.7744827,
   "seen_news": [
-    "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.26%",
-    "Germany September PPI +1.9% vs +1.5% m/m expected",
-    "M\u1eb9 \u201ct\u1ed5ng t\u00e0i\u201d Tr\u1ea7n H\u00f9ng Huy nh\u1eadn th\u00f9 lao 183 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, s\u1edf h\u1eefu kh\u1ed1i c\u1ed5 ph",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Lam Research (LRCX) Q3 Earnings: What To Expect - TradingView",
-    "Credit markets have entered uncharted territory as the riskiest junk bonds send ",
     "Chi ti\u1ebft lu\u1eadt s\u01b0, c\u00f4ng an nh\u1eadn ti\u1ec1n v\u1ebd \u0111\u01b0\u1eddng tho\u00e1t t\u1ed9i cho nh\u00f3m Mr Pips khi b\u1ecb t",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "RCS - First Dev. Resources - Gold Drilling Underway at Lander West - TradingView",
@@ -445,6 +439,12 @@
     "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
     "What options traders expect from SpaceX earnings after the bell",
     "The start-ups hoping to return battery making to the US",
-    "Russia\u2019s Shadow Role in Iran War Comes Under Fresh Scrutiny"
+    "Russia\u2019s Shadow Role in Iran War Comes Under Fresh Scrutiny",
+    "Money-saving habits to cope with higher prices \u2014 from our readers",
+    "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, so",
+    "Burnham vows end to 'rip-off parking charges' under new rules",
+    "Why Invading Iran Could Become America's Biggest Military Mistake",
+    "Dollar gains as French turmoil due to violent protests drags down the euro",
+    "US September pending home sales -7.3% vs -0.5% expected"
   ]
 }
