@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792504140.8097787,
+  "last_bot4": 1792505008.8667839,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792503523.221667
+    "Gold": 1792505008.8666523
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792504460.6737328,
+  "last_signals": 1792505008.8675168,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792503231.6373234,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,11 +65,11 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|1H": false,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792504460.8394427,
+    "Gold|4H:bot": 1792505009.1303551,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792504453.5282092,
-  "last_news": 1792504460.672867,
+  "last_analysis": 1792504996.2478905,
+  "last_news": 1792505005.926408,
   "seen_news": [
-    "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at",
-    "Always on, always listening: New AI devices are pushing legal limits and could p",
-    "US bans DeepSeek AI from government use as tech tension with China continues",
-    "Colombia\u2019s peso hits one-month high on rate outlook",
-    "Morgan Stanley IM says bond yields are rising for the right reasons, favours US ",
-    "\u0110i\u1ec1u \u0111\u1ed9ng, lu\u00e2n chuy\u1ec3n, b\u1ed5 nhi\u1ec7m nhi\u1ec1u c\u00e1n b\u1ed9 ch\u1ee7 ch\u1ed1t \u1edf H\u00e0 T\u0129nh",
     "Copper is outshining gold this year. Investors say the rally can survive an AI c",
     "Burnham vows end to 'rip-off parking charges' under new rules",
     "France imposes curfews in parts of Paris, other cities after weekend of riots",
@@ -445,6 +439,12 @@
     "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ch\u01b0a t\u1ed1t nghi\u1ec7p c\u1ea5p 3, t\u1eebng l\u00e0m ph\u1ee5 h\u1ed3 c\u00f3 t\u00e0i s\u1ea3n h\u00e0ng ch\u1ee5c ngh\u00ecn ",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "REG - AQR Capital Mgmt easyJet PLC - Form 8.3 - easyJet plc - TradingView",
-    "Money-saving hacks to cope with higher prices \u2014 from our readers"
+    "Money-saving hacks to cope with higher prices \u2014 from our readers",
+    "L\u1ed9 di\u1ec7n \u201ctay ch\u01a1i\u201d ngo\u1ea1i r\u00f3t h\u01a1n 100 t\u1ef7 USD v\u00e0o Vi\u1ec7t Nam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "SERVAL RESOURCES PLC (SRVL) Discloses TR-1 on Voting Rights Change - TradingView",
+    "Money-saving tips to cope with higher prices \u2014 from our readers",
+    "September data shows housing market in a deep freeze",
+    "How is the US economy really doing under President Trump?"
   ]
 }
