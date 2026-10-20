@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792486021.1298366,
+  "last_signals": 1792486637.3152635,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,7 +64,7 @@
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792486014.5617354,
-  "last_news": 1792486021.12899,
+  "last_analysis": 1792486630.7971327,
+  "last_news": 1792486637.314351,
   "seen_news": [
-    "Bikes 'not for jousting,' says Lime after duel video",
-    "Robot Wars \u2013 How China Has the Robotics Industry in Its Grip",
-    "BHP Q1 copper output falls 19% on lower grades, disruptions",
-    "Trump holds up Patriot missiles for Ukraine as Russian strikes intensify, offici",
-    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01a1n s\u00e1ng 20/10 t\u1ea1i SJC, DOJI, PNJ, B\u1ea3o T\u00edn Minh Ch\u00e2u ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Brazil\u2019s Americanas exits bankruptcy proceedings",
     "UBS says neocloud sell-off does not derail AI boom, favours hyperscalers and chi",
     "C\u00f4ng an b\u1ea5t ng\u1edd ki\u1ec3m tra 51 ng\u01b0\u1eddi \u1edf c\u00f4ng tr\u00ecnh d\u1ef1 \u00e1n cao t\u1ed1c",
@@ -445,6 +439,12 @@
     "Indonesia stocks rebound 4.8% after new market measures",
     "China moves to prop up stocks with selling curbs, buybacks after 10% slide this ",
     "C\u00e1ch t\u00ednh b\u00ecnh qu\u00e2n ti\u1ec1n l\u01b0\u01a1ng \u0111\u00f3ng BHXH khi ngh\u1ec9 h\u01b0u",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 9/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 9/2026 - VietstockFinance",
+    "France curfews calm unrest as Macron faces criticism over Gulf trip",
+    "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+    "Why is Schneider Electric stock sliding today?",
+    "BlackRock says French bond sell-off is a lesson in selectivity, upgrades US Trea",
+    "Vi\u1ec7t Nam \u0111\u1ec1 xu\u1ea5t ph\u00e1 d\u1ee1 s\u00e2n v\u1eadn \u0111\u1ed9ng 15.000 ch\u1ed7 ng\u1ed3i, nh\u01b0\u1eddng ch\u1ed7 cho qu\u1ea3ng tr\u01b0\u1eddn",
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance"
   ]
 }
