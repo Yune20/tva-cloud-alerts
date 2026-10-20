@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792469096.204138,
+  "last_signals": 1792469420.8669856,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792463275.4111376,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792411261.2633185,
-    "5575146754|Gold|1H|trap_dn": 1792459588.4772303,
+    "5575146754|Gold|1H|trap_dn": 1792469420.8669856,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|1H|momo_up": 1791869804.1951888,
@@ -65,7 +65,7 @@
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792468798.5961463,
-  "last_news": 1792469096.2031107,
+  "last_analysis": 1792469412.5910642,
+  "last_news": 1792469420.8661637,
   "seen_news": [
-    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
-    "Connecting the dots: What falling luxury sales could be telling us about the US ",
-    "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK s\u00e1ng 20/10: T\u1ea5p n\u1eadp c\u00f4ng b\u1ed1 BCTC qu\u00fd 3, lo\u1ea1t t\u00ean tu\u1ed5i l\u1edbn ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
-    "OpenAI bugging suspect Alfozan ordered held without bond",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Newmark Launches Industrial Outdoor Storage Practice, Expanding Capabilities Acr",
     "SpaceX earnings will be all about AI \u2014 for better or for worse",
@@ -446,6 +440,12 @@
     "Genuine Parts Earnings: What To Look For From GPC - TradingView",
     "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market ro",
     "Why the UK is dithering over what to do about e-scooters",
-    "Chinese official says economy resilient but recovery momentum remains weak"
+    "Chinese official says economy resilient but recovery momentum remains weak",
+    "Northern Trust (NTRS) Q3 Earnings Report Preview: What To Look For - TradingView",
+    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
+    "Why Gen Z are planning for life without a state pension",
+    "Elice shares plunge 28% on debut as investor doubts over AI trade deepen",
+    "investingLive Asia-Pacific market news: China holds rates",
+    "V\u00ec sao ng\u01b0\u1eddi ch\u01a1i Ai L\u00e0 Tri\u1ec7u Ph\u00fa ch\u1ec9 c\u00f3 30 gi\u00e2y \u0111\u1ec3 g\u1ecdi \u0111i\u1ec7n cho ng\u01b0\u1eddi th\u00e2n?"
   ]
 }
