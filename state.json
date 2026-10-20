@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792512447.0775363,
+  "last_bot4": 1792513188.1619573,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792511638.4201941
+    "Gold": 1792513188.1618629
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792512758.25886,
+  "last_signals": 1792513188.1627553,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -116,20 +116,20 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1792512759.0619245,
+    "Ethereum|4H:top": 1792513189.3105628,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792512758.895244,
+    "Bitcoin|4H:top": 1792513188.9801126,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792512759.2605484,
+    "US30|4H:top": 1792513189.5847025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792512759.260567,
+    "US30|1D:top": 1792513189.584721,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1792512168.256118,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -141,17 +141,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792512760.039685
+    "DXY|4H:bot": 1792513190.614558,
+    "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792512751.5067167,
-  "last_news": 1792512758.2579303,
+  "last_analysis": 1792513176.061022,
+  "last_news": 1792513185.3326416,
   "seen_news": [
-    "Microsoft pulls out of UK's largest AI data centre",
-    "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
-    "Indonesia stocks rebound 4.8% after new market measures",
-    "China moves to prop up stocks with selling curbs, buybacks after 10% slide this ",
-    "C\u00e1ch t\u00ednh b\u00ecnh qu\u00e2n ti\u1ec1n l\u01b0\u01a1ng \u0111\u00f3ng BHXH khi ngh\u1ec9 h\u01b0u",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 9/2026 - VietstockFinance",
     "France curfews calm unrest as Macron faces criticism over Gulf trip",
     "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
     "Why is Schneider Electric stock sliding today?",
@@ -445,6 +440,12 @@
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "Title Resources Group Appoints Robert Greenbaum EVP - TradingView",
     "Looking for AI stocks that are still cheap? Consider these two under-the-radar p",
-    "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market"
+    "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
+    "H\u00e0 N\u1ed9i ch\u1ed1t m\u1ee9c tr\u1ea7n ti\u1ec1n \u0103n b\u1eefa tr\u01b0a b\u00e1n tr\u00fa t\u1ed1i \u0111a 50.000 \u0111\u1ed3ng/ng\u00e0y",
+    "B\u00c1O C\u00c1O - VietstockFinance",
+    "A Guide to Investing in Cybersecurity ETFs - TradingView",
+    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl",
+    "OpenAI bugging suspect Alfozan held without bail after Saudi government offers t",
+    "Vinted blocks French looters listing stolen goods for sale"
   ]
 }
