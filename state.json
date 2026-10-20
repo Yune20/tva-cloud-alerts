@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792499837.381426,
+  "last_signals": 1792500174.3303757,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792498303.2033274,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,12 +59,12 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792499826.2742887,
-  "last_news": 1792499837.3794916,
+  "last_analysis": 1792500167.6528215,
+  "last_news": 1792500174.329672,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
-    "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
-    "SpaceX earnings will be all about AI \u2014 for better or for worse",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
-    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
-    "Software upgrades eat nearly a third of companies\u2019 IT budgets, survey finds",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "China\u2019s proposed solar curbs raise stakes for overseas manufacturers - TradingVi",
     "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
@@ -445,6 +439,12 @@
     "Banks expect to be hit with higher taxes in Budget",
     "Asia\u2019s Coal Prices To Stay High as Supply Drops and Demand Firms",
     "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
-    "investingLive European news wrap: Rising oil prices keep weighing on risk sentim"
+    "investingLive European news wrap: Rising oil prices keep weighing on risk sentim",
+    "Draymond Green says he's 'not Steph Curry,' wants to play another year even if h",
+    "Living with a stink? Technology might help",
+    "Colombia\u2019s Critical Minerals Could Be a Game Changer for America",
+    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
+    "What are the main events for today?",
+    "Ph\u00e1t hi\u1ec7n 1 nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng tr\u00fang s\u1ed1 51,7 t\u1ef7 \u0111\u1ed3ng nh\u01b0ng ch\u1ec9 l\u1ea5y 24,6 t\u1ef7 \u0111\u1ed3ng"
   ]
 }
