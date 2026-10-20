@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792507649.127086,
+  "last_bot4": 1792508344.016504,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792508021.474698,
+  "last_signals": 1792508344.017088,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792503231.6373234,
+    "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792508021.649222,
+    "Gold|4H:bot": 1792508344.2829409,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792174038.415262
+    "DXY|4H:bot": 1792508346.54702
   },
-  "last_analysis": 1792508014.3743963,
-  "last_news": 1792508021.4737704,
+  "last_analysis": 1792508335.2596707,
+  "last_news": 1792508344.0156136,
   "seen_news": [
-    "Activist Starboard prepares to nominate directors at Knife River, sources say",
-    "BOJ reportedly may upgrade inflation forecast, hold rates steady at next week's ",
-    "M\u00e1y bay b\u1ed1c ch\u00e1y ng\u00f9n ng\u1ee5t ngay tr\u00ean \u0111\u01b0\u1eddng b\u0103ng, h\u00e0nh kh\u00e1ch b\u00ean trong ho\u1ea3ng lo\u1ea1n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
-    "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch - TradingView",
-    "Micron and other chip stocks spring back to life after bruising selloff",
     "Red Cat proposes to acquire engine specialist Steyr Motors - TradingView",
     "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn\u2019t buying it yet",
     "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -445,6 +439,12 @@
     "Is your annuity really guaranteed? Read this before you buy one.",
     "Oil prices fall as traders monitor conflict in the Middle East",
     "Union attacks NatWest plans to reduce working from home",
-    "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers"
+    "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers",
+    "Ratos (RATO_A) Appoints Jon Sintorn Chairman of HL Display - TradingView",
+    "Should you dump your target-date funds when you retire?",
+    "Apple shares aren't cheap. Here's how to get long for less",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Germany\u2019s Renewable Power Reform Sparks Investment Backlash",
+    "Moderna leads US momentum screen with gains of over 276% in three months"
   ]
 }
