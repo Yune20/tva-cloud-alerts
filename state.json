@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792458366.5421672,
+  "last_signals": 1792458988.0614774,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -67,7 +67,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -76,7 +76,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792458358.5781984,
-  "last_news": 1792458366.5413034,
+  "last_analysis": 1792458978.8040147,
+  "last_news": 1792458988.0605454,
   "seen_news": [
-    "The virtual worlds where robots are trained",
-    "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide",
-    "European stock market open: French unrest weighs on stocks to start the new week",
-    "N\u1eef nh\u00e0 b\u00e1o 36 tu\u1ed5i ng\u1ee1 ng\u00e0ng ph\u00e1t hi\u1ec7n nhi\u1ec5m HIV, li\u00ean t\u1ee5c t\u1ef1 tr\u00e1ch ch\u00ednh m\u00ecnh: ",
-    "Untitled - VietstockFinance",
-    "Table-Non-competitive bids for U.S. 6-month bills - TradingView",
     "Gold remains supported as real yields fall amid growth concerns. What to watch n",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 BHXH ch\u00fa \u00fd th\u00f4ng b\u00e1o quan tr\u1ecdng t\u1eeb B\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i Vi\u1ec7t Nam",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
@@ -446,6 +440,12 @@
     "Euro dips on French turmoil, Aussie lifted by China growth - TradingView",
     "Three big takeaways from the IMF-World Bank meetings",
     "Home sellers cut asking prices on 3,000 properties a day",
-    "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?"
+    "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?",
+    "Corn Losses Extending to Monday - TradingView",
+    "Cornell sexual assault case has some prospective students rethinking plans, cons",
+    "Don't fall for this - how to protect yourself from AI scams",
+    "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%",
+    "Sterling today: Pound edges lower; AI jitters cloud dollar outlook",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6813 \u2013 Reuters estimate"
   ]
 }
