@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792518745.8265595,
+  "last_signals": 1792519347.7314682,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792518137.9955168,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,16 +59,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -145,14 +145,8 @@
     "GBP/USD|1D:top": 1792513189.8777733
   },
   "last_analysis": 1792519056.2040136,
-  "last_news": 1792518745.825615,
+  "last_news": 1792519347.7305117,
   "seen_news": [
-    "Musk and Anthropic pledge public share giveaways",
-    "Pakistan\u2019s Growth Slows  as Hormuz Crisis Hits Industry",
-    "GM\u2019s core profit rises 22% on strength of pickup-truck business",
-    "ICYMI: Morgan Stanley names Amazon a top pick, lifts target to $350 on five cata",
-    "NATO b\u1eaft \u0111\u1ea7u xem x\u00e9t k\u1ebf ho\u1ea1ch qu\u00e2n s\u1ef1 ch\u1ed1ng l\u1ea1i Nga m\u00e0 kh\u00f4ng c\u1ea7n d\u1ef1a v\u00e0o M\u1ef9",
-    "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
     "XSMT 20/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung ng\u00e0y 20 th\u00e1ng 10",
     "\u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinance",
     "DarkIris shares sink on announcing share consolidation - TradingView",
@@ -446,6 +440,12 @@
     "Walmart launches joint membership with Sam's Club as it leans into delivery, gas",
     "'I'm fed up of swiping': The singles choosing dating events over apps",
     "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
-    "What\u2019s the likelihood of Yen carry trade reversing?"
+    "What\u2019s the likelihood of Yen carry trade reversing?",
+    "Housing is flashing warning signs just as the Fed weighs more interest rate hike",
+    "UK government to make Jackdaw gas field announcement",
+    "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price",
+    "Why is BlackBerry stock surging today?",
+    "Trump approval falls to record low. Poll shows Republicans losing badly in midte",
+    "Gi\u1eefa l\u00e0n s\u00f3ng gi\u1ea3m l\u00e3i su\u1ea5t, ng\u00e2n h\u00e0ng h\u00fat v\u1ed1n c\u00e1ch n\u00e0o?"
   ]
 }
