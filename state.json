@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792459588.4772303,
+  "last_signals": 1792460208.9832175,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -76,7 +76,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792459579.6243198,
-  "last_news": 1792459588.4762905,
+  "last_analysis": 1792460200.0933926,
+  "last_news": 1792460208.9824173,
   "seen_news": [
-    "H\u01a1n 1 t\u1ef7 USD s\u1eafp ch\u1ea3y v\u00e0o ch\u1ee9ng kho\u00e1n, th\u1eddi \u0111i\u1ec3m gi\u1ea3i ng\u00e2n \u0111\u00e3 xu\u1ea5t hi\u1ec7n?",
-    "\u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinance",
-    "Samsung Makes Unusual Move for Nvidia Chips - TradingView",
-    "SpaceX\u2019s stock made billions for college endowments. But their luck is about to ",
-    "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Sta",
-    "People playing loud music on buses could face \u00a3100 fine",
     "Third runway at Heathrow Airport would drive growth, Healey says",
     "China's Coal Production Slumps 6.8% as Winter Supply Fears Grow",
     "Christiane Amanpour to leave CNN after four decades as Ellison era begins",
@@ -446,6 +440,12 @@
     "The Hormuz shipping attacks nobody is counting: inside the US Navy\u2019s go-dark gui",
     "Ng\u00f4i nh\u00e0 500m\u00b2 \u1edf Qu\u1ea3ng Ninh gi\u1eef n\u1ebfp s\u1ed1ng chung ba th\u1ebf h\u1ec7",
     "Untitled - VietstockFinance",
-    "Microsoft Exits Nscale UK Data Center Deal Amid Power Delays - TradingView"
+    "Microsoft Exits Nscale UK Data Center Deal Amid Power Delays - TradingView",
+    "SK Hynix plunges with RSI at 19.94 in fierce downtrend: Live",
+    "China LPR preview: rates seen on hold for a 17th month after Q3 GDP beat",
+    "\u1ee6y ban ch\u00e2u \u00c2u b\u00e1c k\u1ebf ho\u1ea1ch h\u00f2a b\u00ecnh c\u1ee7a M\u1ef9 v\u1ec1 chuy\u1ec3n kh\u00ed \u0111\u1ed1t t\u1eeb Nga qua Ukraine",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: H\u01b0\u1edbng t\u1edbi m\u1ee5c ti\u00eau t\u0103ng tr\u01b0\u1edfng GDP h\u01a1n 12% trong qu\u00fd 4/2026 - Vie",
+    "Brent Steadies as Traders Monitor Mideast Flows - TradingView",
+    "Why a former Intel skeptic is giving up his negative call on the stock after fou"
   ]
 }
