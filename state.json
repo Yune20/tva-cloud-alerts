@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792506299.6197023,
+  "last_bot4": 1792506925.0421777,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792506596.9914625,
+  "last_signals": 1792506925.042929,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792503231.6373234,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792502295.2153602,
-    "5575146754|Gold|4H|dbot": 1792503231.6373234,
+    "5575146754|Gold|4H|dbot": 1792506925.042929,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792506597.4948478,
+    "Gold|4H:bot": 1792506925.3198943,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792506296.737402,
-  "last_news": 1792506596.9908385,
+  "last_analysis": 1792506914.8520494,
+  "last_news": 1792506925.0411787,
   "seen_news": [
-    "ACV Auctions Announced Transfer or Voluntary Withdrawal of Listing - TradingView",
-    "Investors are buying up vast tracts of timberland across U.S. in one of market's",
-    "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
-    "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
-    "Australia stocks lower at close of trade; S&P/ASX 200 down 0.33%",
-    "The Floor 8 Moves From Launch Into Its Next Phase of Growth",
     "AstraZeneca partners with Oracle on AI clinical research",
     "Macro pulse: France's debt crisis doesn't have to get worse to keep hurting the ",
     "H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng 18 lo\u1ea1i c\u00e2y n\u01a1i c\u00f4ng c\u1ed9ng: C\u00f3 t\u1edbi 16 c\u00e2y ch\u1ee9a \u0111\u1ed9c t\u1ed1 v\u00e0 nguy h\u1ea1",
@@ -445,6 +439,12 @@
     "Colombia\u2019s peso hits one-month high on rate outlook",
     "AI\u2019s cheap seats are filling up: open-weight and small models take over the mach",
     "S\u1ebfp Coteccons l\u00fd gi\u1ea3i vi\u1ec7c g\u1eedi ng\u00e2n h\u00e0ng 7.800 t\u1ef7 \u0111\u1ed3ng nh\u01b0ng v\u1eabn \u0111i vay ti\u1ec1n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Trump says in Kansas he does not plan to hurt Bombardier",
+    "Bitcoin Technicals: Sellers regain control, but the range floor remains the next",
+    "\u0110o\u00e0n V\u0103n H\u1eadu - Do\u00e3n H\u1ea3i My \u0111\u00e3i c\u01a1m kh\u00e1ch, chi\u1ebfc gh\u1ebf tr\u1ed1ng c\u1ea1nh \u0110\u00ecnh B\u1eafc g\u00e2y ch\u00fa ",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
+    "Washington Trust Bancorp (WASH) Stock Trades Up, Here Is Why - TradingView",
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l"
   ]
 }
