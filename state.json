@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792472486.3458133,
+  "last_signals": 1792473096.828339,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792471250.420064,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -79,7 +79,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792472474.650201,
-  "last_news": 1792472486.3446047,
+  "last_analysis": 1792473087.6164958,
+  "last_news": 1792473096.8276322,
   "seen_news": [
-    "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
-    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
-    "The AI telling farmers when to harvest",
-    "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unre",
-    "USDJPY buyers land the punches, but sellers are still standing",
-    "Vi\u1ec7t Nam c\u00f3 s\u1ed1 l\u01b0\u1ee3ng n\u1eef t\u1ef7 ph\u00fa \u0111\u1ee9ng top \u0111\u1ea7u \u0110\u00f4ng Nam \u00c1, n\u1eafm t\u00e0i s\u1ea3n 10,6 t\u1ef7 USD,",
     "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.07%",
     "investingLive European session wrap: French unrest weighs on the euro as Wall St",
     "Qatar l\u1ea1i b\u00e1o tin vui \u0111\u1ebfn c\u1ea3 th\u1ebf gi\u1edbi",
@@ -446,6 +440,12 @@
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "Bruton Limited Sets Oct. 30 SGM on INSW Merger - TradingView",
     "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricu",
-    "How long will humans be needed for translation?"
+    "How long will humans be needed for translation?",
+    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "First Tick: Top global cues to watch in today's trade - TradingView",
+    "OpenAI bugging suspect Alfozan held without bail after Saudi government offers t",
+    "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+    "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
+    "Volkswagen bet on Xpeng to save its China business. It\u2019s not going to plan"
   ]
 }
