@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792514745.0768642,
+  "last_signals": 1792515067.697119,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792514745.628601,
+    "Bitcoin|4H:top": 1792515068.6004314,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -141,18 +141,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792514746.7446895,
+    "DXY|4H:bot": 1792515070.295579,
     "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792514734.6678638,
-  "last_news": 1792514742.3441334,
+  "last_analysis": 1792515058.1879883,
+  "last_news": 1792515067.696478,
   "seen_news": [
-    "Home sellers cut asking prices on 3,000 properties a day",
-    "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?",
-    "Eni launches gas project to boost Egypt production capacity",
-    "China Q3 GDP beats estimates, as does September retail sales",
-    "2 lo\u1ea1i c\u00e1 b\u00e1n \u0111\u1ea7y ngo\u00e0i ch\u1ee3, gi\u00e1 b\u00ecnh d\u00e2n nh\u01b0ng t\u1ed1t cho x\u01b0\u01a1ng kh\u1edbp, nhi\u1ec1u ng\u01b0\u1eddi ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
     "Weekly Recap: Passenger traffic gains and higher capex, rising net debt - Tradin",
     "My unmarried partner of 17 years left me his $1.1 million home. His three childr",
@@ -446,6 +440,12 @@
     "Sterling today: Pound edges up as dollar consolidates",
     "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
     "Ch\u1ec9 duy nh\u1ea5t m\u1ed9t \u0111\u1ed9i b\u00f3ng \u0111\u1ee7 s\u1ee9c h\u1ea5p d\u1eabn Ronaldo l\u00e0m HLV",
-    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance"
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Robot Wars \u2013 How China Has the Robotics Industry in Its Grip",
+    "Food importer files new lawsuit to block Trump\u2019s Canada tariffs",
+    "Ethereum consolidates around key technical levels amid a challenging macro backd",
+    "M\u1eb9 trung ni\u00ean th\u00fa nh\u1eadn: Con c\u1ea7n v\u00e0i tri\u1ec7u t\u00f4i mua ngay, \u0111\u1ebfn l\u01b0\u1ee3t m\u00ecnh v\u00e0i tr\u0103m n",
+    "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
+    "What's Going On With Cerebras Stock on Monday? - TradingView"
   ]
 }
