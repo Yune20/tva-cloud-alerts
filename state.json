@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792484818.013982,
+  "last_signals": 1792485408.1226883,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792484795.5463767,
-  "last_news": 1792484818.0131578,
+  "last_analysis": 1792485400.5473275,
+  "last_news": 1792485408.1218276,
   "seen_news": [
-    "H\u1ecdp 'n\u00f3ng' v\u1ec1 gi\u1ea3m l\u00e3i su\u1ea5t, l\u00e3nh \u0111\u1ea1o c\u00e1c ng\u00e2n h\u00e0ng n\u00f3i g\u00ec?",
-    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
-    "BRIEF-ServisFirst Bancshares Q3 EPS USD 0.8 - TradingView",
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Microsoft pulls out of UK's largest AI data centre",
-    "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
     "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
     "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
     "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
@@ -445,6 +439,12 @@
     "US bans China's DeepSeek from government in race for AI dominance",
     "French bond sell-off accelerates on unrest, CDS nears 2013 highs",
     "European stock market open: Equities retreat as bond yields and fiscal risks wei",
-    "T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i nh\u01b0ng r\u1ee7i ro l\u1ea1m ph\u00e1t gia t\u0103ng - Vietstoc"
+    "T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i nh\u01b0ng r\u1ee7i ro l\u1ea1m ph\u00e1t gia t\u0103ng - Vietstoc",
+    "JPMorgan brings JPM Coin to Ethereum mainnet: what changes, and what it means fo",
+    "Gi\u1ebfng khoan \u1edf mi\u1ec1n T\u00e2y phun c\u1ed9t n\u01b0\u1edbc cao b\u1ea5t th\u01b0\u1eddng 15 m",
+    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
+    "Cellbox Solutions GmbH Raises \u20ac5M Series A to Expand Logistics Offering - Tradin",
+    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
+    "Vinted blocks French looters listing stolen goods for sale"
   ]
 }
