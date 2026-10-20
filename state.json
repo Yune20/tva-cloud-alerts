@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792491538.825384,
+  "last_signals": 1792492150.8432555,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792491532.1221807,
-  "last_news": 1792491538.8244662,
+  "last_analysis": 1792492143.239154,
+  "last_news": 1792492150.8419716,
   "seen_news": [
-    "OpenAI races to raise $30 bln ahead of Anthropic IPO, Reuters reports",
-    "ICYMI: Morgan Stanley names Amazon a top pick, lifts target to $350 on five cata",
-    "Campuchia chu\u1ea9n b\u1ecb x\u00e2y c\u1ea7u b\u1eafc qua s\u00f4ng Mekong",
-    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC | VietstockFinance - Vietstock",
-    "Injective to Hold October Community Buyback on October 21st - TradingView",
-    "When should you dump your target-date funds?",
     "iPhone Duo ch\u00e1y h\u00e0ng, d\u00e2n bu\u00f4n rao b\u00e1n l\u1ea1i gi\u00e1 h\u01a1n 130 tri\u1ec7u \u0111\u1ed3ng",
     "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
     "Commerzbank Aktiengesellschaft: Release of a capital market information - Tradin",
@@ -445,6 +439,12 @@
     "M\u1ed9t c\u00e1 nh\u00e2n n\u00e2ng s\u1edf h\u1eefu l\u00ean 6,8% v\u1ed1n B\u1ea5t \u0111\u1ed9ng s\u1ea3n An Gia",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK | VietstockFinance - Vie",
     "REG - Threadneedle AM Hdgs Prologis, Inc. - Form 8.3 - Prologis, Inc. - TradingV",
-    "Strategist Tom Lee says he\u2019s buying the AI stock dip, and Cisco holds the key"
+    "Strategist Tom Lee says he\u2019s buying the AI stock dip, and Cisco holds the key",
+    "C\u00f3 g\u1ea7n 7.800 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n m\u1eb7t v\u1eabn \u0111i vay h\u01a1n 4.000 t\u1ef7, Coteccons n\u00f3i g\u00ec v\u1ec1 chuy\u1ec7",
+    "Untitled - VietstockFinance",
+    "Prosafe SE (PRS) Reports 80% Fleet Utilisation for September and Q3 - TradingVie",
+    "Walmart launches joint membership with Sam's Club as it leans into delivery, gas",
+    "'I'm fed up of swiping': The singles choosing dating events over apps",
+    "What\u2019s the likelihood of Yen carry trade reversing?"
   ]
 }
