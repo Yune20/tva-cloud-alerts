@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792485408.1226883,
+  "last_signals": 1792486021.1298366,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792485400.5473275,
-  "last_news": 1792485408.1218276,
+  "last_analysis": 1792486014.5617354,
+  "last_news": 1792486021.12899,
   "seen_news": [
-    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
-    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-    "Spain battles climate change on several fronts",
-    "Honeywell Aerospace sees business aviation growth on rising aircraft use",
-    "BlackRock says French bond sell-off is a lesson in selectivity, upgrades US Trea",
     "Bikes 'not for jousting,' says Lime after duel video",
     "Robot Wars \u2013 How China Has the Robotics Industry in Its Grip",
     "BHP Q1 copper output falls 19% on lower grades, disruptions",
@@ -445,6 +439,12 @@
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
     "Cellbox Solutions GmbH Raises \u20ac5M Series A to Expand Logistics Offering - Tradin",
     "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
-    "Vinted blocks French looters listing stolen goods for sale"
+    "Vinted blocks French looters listing stolen goods for sale",
+    "Microsoft pulls out of UK's largest AI data centre",
+    "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
+    "Indonesia stocks rebound 4.8% after new market measures",
+    "China moves to prop up stocks with selling curbs, buybacks after 10% slide this ",
+    "C\u00e1ch t\u00ednh b\u00ecnh qu\u00e2n ti\u1ec1n l\u01b0\u01a1ng \u0111\u00f3ng BHXH khi ngh\u1ec9 h\u01b0u",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 9/2026 - VietstockFinance"
   ]
 }
