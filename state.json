@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792466963.0703745,
+  "last_signals": 1792467558.8972194,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792463275.4111376,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -83,13 +83,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "USD/JPY|1D": true,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792467834,
   "menu_prices": {
@@ -145,14 +145,8 @@
     "DXY|4H:bot": 1792174038.415262
   },
   "last_analysis": 1792467266.7841327,
-  "last_news": 1792466963.068817,
+  "last_news": 1792467558.896241,
   "seen_news": [
-    "K\u1ef9 s\u01b0 gi\u00e0u nh\u1ea5t Vi\u1ec7t Nam v\u1eeba m\u1ea5t h\u01a1n 1 t\u1ef7 USD trong v\u00e0i gi\u1edd",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
-    "E And Ifc Deepen Partnership In Latin America - TradingView",
-    "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
-    "What is the Budget and what could be in it?",
-    "Colombia\u2019s Critical Minerals Could Be a Game Changer for America",
     "N\u1eef Ti\u1ebfn s\u0129 g\u1ea7n 30 n\u0103m \u0111i\u1ec1u tr\u1ecb b\u1ec7nh b\u1ecb coi l\u00e0 \u201c\u00e1n t\u1eed\u201d, g\u00f3p s\u1ee9c \u0111\u01b0a k\u1ef9 thu\u1eadt hi\u1ebfm",
     "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
     "REG - Gamma Communications Morgan Stanley - Holding(s) in Company - TradingView",
@@ -446,6 +440,12 @@
     "Starboard targets Solstice with $100 million cost-cut push after failed deal - F",
     "A breakthrough in US-Iran negotiations is expected to be announced this week, ac",
     "V\u00ec sao ng\u00e0y c\u00e0ng \u00edt h\u1ecdc sinh v\u1ec1 th\u0103m l\u1ea1i th\u1ea7y c\u00f4 gi\u00e1o c\u0169 v\u00e0o nh\u1eefng d\u1ecbp l\u1ec5 t\u1ebft?",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi"
+    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK | VietstockFinance - VietstockFi",
+    "Indonesian Stocks Rebound After Record Rout - TradingView",
+    "Anthropic commits 5% of shares to new public benefit fund that could address AI ",
+    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
+    "Hang Seng tests double bottom at 23,692.5: Live levels",
+    "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn b",
+    "C\u1ea3nh b\u00e1o chi\u00eau tr\u00f2 m\u00ea t\u00edn d\u1ecb \u0111oan bi\u1ebfn t\u01b0\u1edbng \"n\u00fap b\u00f3ng\" t\u00e2m linh, tr\u1ee5c l\u1ee3i"
   ]
 }
