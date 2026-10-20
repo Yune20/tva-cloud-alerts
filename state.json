@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792494623.8761861,
+  "last_signals": 1792495233.9104655,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792481725.2825282,
+    "5575146754|Gold|1H|range_in": 1792495233.9104655,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792494613.008607,
-  "last_news": 1792494623.8752918,
+  "last_analysis": 1792495223.6840727,
+  "last_news": 1792495233.9095283,
   "seen_news": [
-    "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis es",
-    "'I took a chance on the whisky industry and I haven't looked back'",
-    "Retail sold off in Q3, but this AI-picked apparel stock is up 18.81%",
-    "MUFG says firmer China growth offers yuan support, but uneven demand limits the ",
-    "\u0110\u1ed1i th\u1ee7 khu du l\u1ecbch \u0110\u1ea1i Nam c\u1ee7a v\u1ee3 ch\u1ed3ng b\u00e0 Nguy\u1ec5n Ph\u01b0\u01a1ng H\u1eb1ng c\u00f3 \u0111\u1ed9ng th\u00e1i \u0111\u1eb7c ",
-    "CTCP Ch\u1ee9ng kho\u00e1n VIX - VietstockFinance",
     "El Salvador's Bitcoin reserve tops 7,800 coins despite IMF limits - TradingView",
     "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 wi",
     "I find it quite demoralising in store - why I do all my shopping online",
@@ -445,6 +439,12 @@
     "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
     "Faisal Islam: Why China and AI are worrying global finance bosses",
     "Why Canadian Oil Is Lagging Even As Global Crude Soars",
-    "S&P, Nasdaq futures slip amid renewed pressure on tech stocks, oil price jump"
+    "S&P, Nasdaq futures slip amid renewed pressure on tech stocks, oil price jump",
+    "Turning the tides: Could hidden sea power energise our coastal towns?",
+    "Why is Equifax stock rising today?",
+    "The Indian Rupee's sharp rebound following RBI intervention may prove temporary ",
+    "B\u00ed \u1ea9n nh\u1eefng \u0111\u1ec9nh n\u00fai t\u1eebng cao h\u01a1n c\u1ea3 Everest",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "KeyCorp (NYSE:KEY) Posts Q3 2026 Sales In Line With Estimates - TradingView"
   ]
 }
