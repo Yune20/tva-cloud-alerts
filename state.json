@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792509164.7232392,
+  "last_bot4": 1792510071.4199448,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792509164.7231421
+    "Gold": 1792510071.4197662
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792509679.4112773,
+  "last_signals": 1792510071.4206831,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -71,10 +71,10 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -116,13 +116,13 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1792509680.6293344,
+    "Ethereum|4H:top": 1792510072.0009885,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792509680.2526388,
+    "Bitcoin|4H:top": 1792510071.8501227,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792509165.55681,
+    "US30|4H:top": 1792510072.1444297,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792509679.6752176,
+    "Gold|4H:bot": 1792510071.5709543,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792509681.9519746
+    "DXY|4H:bot": 1792510072.7604642
   },
-  "last_analysis": 1792509670.984686,
-  "last_news": 1792509679.4104013,
+  "last_analysis": 1792510060.9596498,
+  "last_news": 1792510068.2776196,
   "seen_news": [
-    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
-    "'I'm fed up of swiping': Why singles now want to meet IRL",
-    "Why is Bunzl stock sliding today?",
-    "investingLive Americas market news wrap: AI trades rebound but so does oil",
-    "VPBankS \u0111\u1ea1t l\u1ee3i nhu\u1eadn h\u01a1n 3.500 t\u1ef7 \u0111\u1ed3ng sau 9 th\u00e1ng, t\u0103ng 8% c\u00f9ng k\u1ef3",
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
     "Daiwa, Mizuho cleared to launch China securities units - Bloomberg",
     "Explainer: China eyes overnight rate as main policy tool, what it means for mark",
     "Xem Ai L\u00e0 Tri\u1ec7u Ph\u00fa m\u1edbi bi\u1ebft: T\u1eebng c\u00f3 t\u00ean m\u1ed9t ng\u01b0\u1eddi Vi\u1ec7t \u0111\u01b0\u1ee3c \u0111\u1eb7t cho \u0111\u1ecba \u0111i\u1ec3m t",
@@ -445,6 +439,12 @@
     "China's growth accelerates as AI boom helps boost exports",
     "GM shares sink as automaker signals rising cost pressures",
     "BOJ reportedly may upgrade inflation forecast, hold rates steady at next week's ",
-    "N\u1eef ca s\u0129 qu\u00ea H\u1ea3i Ph\u00f2ng n\u00f3i v\u1ec1 m\u1ed1i quan h\u1ec7 k\u00e9o d\u00e0i 11 n\u0103m v\u1edbi \u0110\u00e0m V\u0129nh H\u01b0ng"
+    "N\u1eef ca s\u0129 qu\u00ea H\u1ea3i Ph\u00f2ng n\u00f3i v\u1ec1 m\u1ed1i quan h\u1ec7 k\u00e9o d\u00e0i 11 n\u0103m v\u1edbi \u0110\u00e0m V\u0129nh H\u01b0ng",
+    "What\u2019s making Europe so angry? The frustration behind the protests",
+    "Would you buy branded clothing from your favourite tech firm?",
+    "Wall Street gains as healthcare stocks rally, oil prices fall",
+    "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i",
+    "Anh Nguy\u1ec5n T\u01b0 Thoan chuy\u1ec3n kho\u1ea3n th\u00e0nh c\u00f4ng 23,05 tri\u1ec7u \u0111\u1ed3ng li\u1ec1n b\u00e1o c\u00f4ng an: C",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets"
   ]
 }
