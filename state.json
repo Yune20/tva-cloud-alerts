@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792517513.2566,
+  "last_signals": 1792518137.9955168,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792508344.017088,
+    "5575146754|Gold|1H|range_in": 1792518137.9955168,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,14 +59,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792517513.854502,
+    "Bitcoin|4H:top": 1792518138.6840835,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792517504.7684398,
-  "last_news": 1792517513.2556787,
+  "last_analysis": 1792518129.7543619,
+  "last_news": 1792518137.9945676,
   "seen_news": [
-    "C\u00f3 g\u1ea7n 7.800 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n m\u1eb7t v\u1eabn \u0111i vay h\u01a1n 4.000 t\u1ef7, Coteccons n\u00f3i g\u00ec v\u1ec1 chuy\u1ec7",
-    "Untitled - VietstockFinance",
-    "Prosafe SE (PRS) Reports 80% Fleet Utilisation for September and Q3 - TradingVie",
-    "Walmart launches joint membership with Sam's Club as it leans into delivery, gas",
-    "'I'm fed up of swiping': The singles choosing dating events over apps",
-    "What\u2019s the likelihood of Yen carry trade reversing?",
     "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year g",
     "EU tariffs aimed at China hitting Ukraine, steel boss says",
     "China Moves to Rein In Its Booming Hydrogen Industry",
@@ -446,6 +440,12 @@
     "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor ",
     "People playing loud music on buses could face \u00a3100 fine",
     "Revolut services begin to recover after Google Cloud outage",
-    "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalle"
+    "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalle",
+    "investingLive Americas market news wrap: AI trades rebound but so does oil",
+    "Ch\u00e2n dung \u0111\u1ea1i gia c\u1ea3ng bi\u1ec3n v\u1eeba xu\u1ea5t hi\u1ec7n t\u1ea1i Eximbank: R\u00f3t h\u01a1n 700 t\u1ef7 \u0111\u1ed3ng v\u00e0o ",
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK | VietstockFinance - Vie",
+    "Michelin Q3 2026 Earnings Call Is Live - TradingView",
+    "Investors\u2019 search for safety has made toothpaste stocks more expensive than tech",
+    "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catc"
   ]
 }
