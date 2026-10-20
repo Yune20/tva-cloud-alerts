@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792537013.050137,
+  "last_signals": 1792537619.7519836,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792537003.972075,
-  "last_news": 1792537013.049361,
+  "last_analysis": 1792537611.646028,
+  "last_news": 1792537619.751172,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch - TradingView",
-    "Salesforce\u2019s stock falls as investors chafe at the cost of latest AI purchase",
-    "Oil prices fall as traders hope for diplomatic progress in Middle East",
-    "Union attacks NatWest plans to get workers back to the office",
-    "Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals",
     "T\u00ecm th\u1ea5y b\u00e9 trai 3 tu\u1ed5i trong b\u1ec3 n\u01b0\u1edbc sau h\u01a1n 14 gi\u1edd m\u1ea5t t\u00edch",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "Transocean Advances $5.8B Valaris Deal With Brazil Antitrust Nod - TradingView",
@@ -446,6 +440,12 @@
     "\u0110\u1eb7c ph\u00e1i vi\u00ean T\u1ed5ng th\u1ed1ng M\u1ef9 d\u1ef1 ki\u1ebfn g\u1eb7p T\u1ed5ng th\u1ed1ng Nga b\u00e0n v\u1ec1 v\u1ea5n \u0111\u1ec1 Ukraine",
     "HAH: CTCP V\u1eadn t\u1ea3i v\u00e0 X\u1ebfp d\u1ee1 H\u1ea3i An - HAIANTS.,JSC | VietstockFinance - Vietstock",
     "EUR/USD: Euro Steady Near $1.1230 amid French Unrest Clouding Recovery - Trading",
-    "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joini"
+    "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joini",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "Goodyear to Announce Third Quarter 2026 Financial Results - TradingView",
+    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
+    "What\u2019s making Europe so angry? The frustration behind the protests",
+    "China's growth accelerates as AI boom helps boost exports",
+    "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects"
   ]
 }
