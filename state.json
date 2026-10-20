@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792481725.2825282,
+  "last_signals": 1792482343.8814907,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,13 +59,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792481716.652383,
-  "last_news": 1792481725.2816546,
+  "last_analysis": 1792482335.714321,
+  "last_news": 1792482343.8805676,
   "seen_news": [
-    "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
-    "Explainer: China eyes overnight rate as main policy tool, what it means for mark",
-    "HLV Kim Sang-sik d\u1ed3n d\u1eadp \u0111\u00f3n tin vui khi \u0110T Vi\u1ec7t Nam s\u1eafp \u0111\u1ea1i chi\u1ebfn \u1edf gi\u1ea3i ch\u00e2u \u00c1",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 46,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "ONEnergy Inc. Announces Closing Of Non-Brokered Private Placement - TradingView",
-    "Why hedge funds could be making a bond market shock more likely",
     "\u0102n tr\u1ee9ng g\u00e0 lu\u1ed9c m\u1ed7i s\u00e1ng su\u1ed1t 1 n\u0103m, ng\u01b0\u1eddi ph\u1ee5 n\u1eef 63 tu\u1ed5i b\u1ea5t ng\u1edd khi \u0111i kh\u00e1m",
     "T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i nh\u01b0ng r\u1ee7i ro l\u1ea1m ph\u00e1t gia t\u0103ng - Vietstoc",
     "Title Resources Group Appoints Robert Greenbaum EVP - TradingView",
@@ -445,6 +439,12 @@
     "What\u2019s making Europe so angry? The frustration behind the protests",
     "Watch: Did Tesla really just unveil a flying car?",
     "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
-    "Canada September CPI 3.1% y/y vs 3.2% expected"
+    "Canada September CPI 3.1% y/y vs 3.2% expected",
+    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
+    "'I'm fed up of swiping': Why singles now want to meet IRL",
+    "Why is Bunzl stock sliding today?",
+    "investingLive Americas market news wrap: AI trades rebound but so does oil",
+    "VPBankS \u0111\u1ea1t l\u1ee3i nhu\u1eadn h\u01a1n 3.500 t\u1ef7 \u0111\u1ed3ng sau 9 th\u00e1ng, t\u0103ng 8% c\u00f9ng k\u1ef3",
+    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph"
   ]
 }
