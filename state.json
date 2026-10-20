@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792493679.7736082,
-  "last_bot4": 1792499199.1390915,
+  "last_bot4": 1792499837.3805673,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792499462.8836455,
+  "last_signals": 1792499837.381426,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792498303.2033274,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -83,8 +83,8 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792499454.854696,
-  "last_news": 1792499462.8425124,
+  "last_analysis": 1792499826.2742887,
+  "last_news": 1792499837.3794916,
   "seen_news": [
-    "What are the new faces coming to UK bank notes?",
-    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
-    "Daiwa: BOJ shifts focus from reaching 2% inflation to keeping it there, wages ho",
-    "Ch\u1ee9ng kho\u00e1n An B\u00ecnh l\u00e3i g\u1ea5p 4,6 l\u1ea7n c\u00f9ng k\u1ef3, ho\u00e0n th\u00e0nh k\u1ebf ho\u1ea1ch l\u1ee3i nhu\u1eadn n\u0103m 2",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Gold holds decline as energy-led inflation weighs on rate path - TradingView",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
     "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
     "SpaceX earnings will be all about AI \u2014 for better or for worse",
@@ -445,6 +439,12 @@
     "Hilton Worldwide Holdings Announced Transfer or Voluntary Withdrawal of Listing ",
     "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
     "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-    "'I took a chance on the whisky industry and I haven't looked back'"
+    "'I took a chance on the whisky industry and I haven't looked back'",
+    "Genuine Parts Earnings: What To Look For From GPC - TradingView",
+    "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+    "Banks expect to be hit with higher taxes in Budget",
+    "Asia\u2019s Coal Prices To Stay High as Supply Drops and Demand Firms",
+    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
+    "investingLive European news wrap: Rising oil prices keep weighing on risk sentim"
   ]
 }
