@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792523546.770404,
+  "last_signals": 1792524149.5475738,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792523546.770404,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -70,7 +70,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
@@ -129,7 +129,7 @@
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792523548.1169534,
+    "US30|1D:top": 1792524150.340221,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1792512168.256118,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -145,14 +145,8 @@
     "GBP/USD|1D:top": 1792513189.8777733
   },
   "last_analysis": 1792523850.2833636,
-  "last_news": 1792523546.7695518,
+  "last_news": 1792524149.5467496,
   "seen_news": [
-    "Vietlott 20/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Power 6/55 ng\u00e0y 20 th\u00e1ng 10",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
-    "3 Reasons Investors Love BWX (BWXT) - TradingView",
-    "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
-    "What is the Budget and what could be in it?",
-    "Apple commits up to $100 million for US titanium in domestic manufacturing push",
     "Mexico revamps aviation regulator following US safety audit",
     "Beyond Data: Why Context is the Next Frontier in Trading AI",
     "Campuchia \u0111i\u1ec1u ch\u1ec9nh h\u00e0ng lo\u1ea1t c\u1ed9t m\u1ed1c tr\u00ean tuy\u1ebfn K\u00eanh \u0111\u00e0o Funan Techo: T\u1ec9nh tr\u01b0",
@@ -446,6 +440,12 @@
     "We're booking big profits in an AI stock and trimming a credit-exposed bank",
     "Third runway at Heathrow Airport would drive growth, Healey says",
     "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
-    "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat"
+    "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat",
+    "Alphabet Stocks Rise Although KeyBanc Cuts Its AI Valuation Target - TradingView",
+    "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+    "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says",
+    "Apple pinned in no-trade zone between SMAs: Live levels",
+    "US NAHB housing market index 29 vs 31 prior"
   ]
 }
