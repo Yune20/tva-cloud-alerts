@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792514745.0761185,
+  "last_bot4": 1792515458.4684343,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792515067.697119,
+  "last_signals": 1792515458.4692087,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -71,7 +71,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -118,18 +118,18 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792515068.6004314,
+    "Bitcoin|4H:top": 1792515458.986996,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792514745.9681833,
+    "US30|4H:top": 1792515459.3878012,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792513660.9168706,
+    "US30|1D:top": 1792515459.3878207,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1792512168.256118,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -141,18 +141,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792515070.295579,
+    "DXY|4H:bot": 1792515460.0911767,
     "GBP/USD|1D:top": 1792513189.8777733
   },
-  "last_analysis": 1792515058.1879883,
-  "last_news": 1792515067.696478,
+  "last_analysis": 1792515451.1598697,
+  "last_news": 1792515458.467352,
   "seen_news": [
-    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
-    "Weekly Recap: Passenger traffic gains and higher capex, rising net debt - Tradin",
-    "My unmarried partner of 17 years left me his $1.1 million home. His three childr",
-    "Cornell sexual assault case has some prospective students rethinking plans, cons",
-    "Jobless rate falls but small firms cut back hiring",
-    "Oil-Rich Alberta Votes to Stay in Canada in Historic Referendum",
     "South Korean IPO flop is the latest in a string of disappointments for the globa",
     "NYSE becomes latest exchange to extend options hours as appetite for around-the-",
     "Revolut outage hits 'multiple services' as thousands of users report app issues",
@@ -446,6 +440,12 @@
     "Ethereum consolidates around key technical levels amid a challenging macro backd",
     "M\u1eb9 trung ni\u00ean th\u00fa nh\u1eadn: Con c\u1ea7n v\u00e0i tri\u1ec7u t\u00f4i mua ngay, \u0111\u1ebfn l\u01b0\u1ee3t m\u00ecnh v\u00e0i tr\u0103m n",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
-    "What's Going On With Cerebras Stock on Monday? - TradingView"
+    "What's Going On With Cerebras Stock on Monday? - TradingView",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
+    "Euro dips on French turmoil, Aussie lifted by China growth - TradingView",
+    "Trump sued over 50% tariffs on Canada in latest trade challenge",
+    "Home sellers cut asking prices on 3,000 properties a day",
+    "Salesforce deepens AI bets with $5.66 billion Braze deal",
+    "European stock market open: Equities retreat as bond yields and fiscal risks wei"
   ]
 }
