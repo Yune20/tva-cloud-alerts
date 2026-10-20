@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792455309.9511194,
+  "last_signals": 1792455917.8828394,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792412494.1218734,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,11 +65,11 @@
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Bitcoin|1D": false,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792455301.6105711,
-  "last_news": 1792455309.9503293,
+  "last_analysis": 1792455910.6023707,
+  "last_news": 1792455917.8820543,
   "seen_news": [
-    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-    "Spain battles climate change on several fronts",
-    "Record Shipping Costs Force Oil Producers to Slash Prices",
-    "Estee Lauder options see heavy call volume with April 2027 spread structure",
-    "What are the main events for today?",
     "Bikes 'not for jousting,' says Lime after duel video",
     "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?",
     "France urges curfews in some areas after weekend of riots",
@@ -446,6 +440,12 @@
     "JPMorgan brings JPM Coin to Ethereum mainnet: what changes, and what it means fo",
     "N\u1eef sinh n\u00e0y v\u1eeba \u0111\u01b0\u1ee3c Gi\u00e1o s\u01b0 Ng\u00f4 B\u1ea3o Ch\u00e2u trao h\u1ecdc b\u1ed5ng 15 tri\u1ec7u/th\u00e1ng: Nh\u00ecn th\u00e0",
     "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
-    "Truist Securities maintains Hold rating on Tractor Supply, $33 price target - Tr"
+    "Truist Securities maintains Hold rating on Tractor Supply, $33 price target - Tr",
+    "H\u1ecdp 'n\u00f3ng' v\u1ec1 gi\u1ea3m l\u00e3i su\u1ea5t, l\u00e3nh \u0111\u1ea1o c\u00e1c ng\u00e2n h\u00e0ng n\u00f3i g\u00ec?",
+    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
+    "BRIEF-ServisFirst Bancshares Q3 EPS USD 0.8 - TradingView",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Microsoft pulls out of UK's largest AI data centre",
+    "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels"
   ]
 }
