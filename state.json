@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792498912.6716938,
+  "last_signals": 1792499462.8836455,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792498303.2033274,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,10 +62,10 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792498904.2889636,
-  "last_news": 1792498912.670844,
+  "last_analysis": 1792499454.854696,
+  "last_news": 1792499462.8425124,
   "seen_news": [
-    "Northern Trust (NTRS) Q3 Earnings Report Preview: What To Look For - TradingView",
-    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
-    "Why Gen Z are planning for life without a state pension",
-    "Elice shares plunge 28% on debut as investor doubts over AI trade deepen",
-    "investingLive Asia-Pacific market news: China holds rates",
-    "V\u00ec sao ng\u01b0\u1eddi ch\u01a1i Ai L\u00e0 Tri\u1ec7u Ph\u00fa ch\u1ec9 c\u00f3 30 gi\u00e2y \u0111\u1ec3 g\u1ecdi \u0111i\u1ec7n cho ng\u01b0\u1eddi th\u00e2n?",
     "What are the new faces coming to UK bank notes?",
     "Euro dips on French turmoil, US dollar lifted as stocks rebound",
     "Daiwa: BOJ shifts focus from reaching 2% inflation to keeping it there, wages ho",
@@ -445,6 +439,12 @@
     "Campuchia \u0111i\u1ec1u ch\u1ec9nh h\u00e0ng lo\u1ea1t c\u1ed9t m\u1ed1c tr\u00ean tuy\u1ebfn K\u00eanh \u0111\u00e0o Funan Techo: T\u1ec9nh tr\u01b0",
     "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
     "StoneX maintains Buy rating on ServiceNow, $165 price target - TradingView",
-    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil"
+    "My sister moved in with our mother, 78, and says she deserves the $925,000 famil",
+    "B\u1eaft \u0111\u1ea7u t\u1eeb 20/5/2027, to\u00e0n c\u1ea7u ch\u1ee9ng ki\u1ebfn m\u1ed9t s\u1ef1 thay \u0111\u1ed5i l\u1ecbch s\u1eed",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "Hilton Worldwide Holdings Announced Transfer or Voluntary Withdrawal of Listing ",
+    "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
+    "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "'I took a chance on the whisky industry and I haven't looked back'"
   ]
 }
