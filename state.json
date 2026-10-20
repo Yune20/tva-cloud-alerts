@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792527762.7747962,
+  "last_signals": 1792528366.111962,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792527762.7747962,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -69,7 +69,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -142,17 +142,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792527763.9148269
+    "GBP/USD|1D:top": 1792528367.149299
   },
-  "last_analysis": 1792527755.1877115,
-  "last_news": 1792527762.7739236,
+  "last_analysis": 1792528358.1373389,
+  "last_news": 1792528366.111003,
   "seen_news": [
-    "Why is Myriad Genetics stock surging today?",
-    "The Nasdaq remains under pressure amid an ugly mix of higher inflation, growth c",
-    "T\u1ea5t c\u1ea3 ch\u1ee7 xe t\u1ea1i H\u00e0 N\u1ed9i ch\u00fa \u00fd: C\u00f4ng an \u0111ang r\u00e0 so\u00e1t h\u01a1n 1 tri\u1ec7u ph\u01b0\u01a1ng ti\u1ec7n, c\u00f3",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "Albertsons Companies, Inc. 2026: Revenue $18.89B, EPS $0.11\u2014 10-Q Summary - Trad",
-    "Meta is back on offense \u2014 and its next move could signal higher AI spending acro",
     "Nguy\u1ec5n L\u1ed9c T\u00e0i SN 1985 chuy\u1ec3n kho\u1ea3n 900.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n c\u1ee7a Nguy\u1ec5n C\u00f4",
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "Origen Grants Incentive Stock Options - TradingView",
@@ -446,6 +440,12 @@
     "Genuine Parts Earnings: What To Look For From GPC - TradingView",
     "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep b",
     "Bereaved families could face 'unjust' tax bill after civil service pension delay",
-    "Wall Street ends higher on surge in health care stocks, solid earnings"
+    "Wall Street ends higher on surge in health care stocks, solid earnings",
+    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank | VietstockFinance - VietstockFinance",
+    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
+    "The Social Security Administration corrected millions of records, and says there",
+    "Netflix posts third-quarter earnings beat, but shares fall on advertising and re",
+    "Faisal Islam: Why China and AI are worrying global finance bosses",
+    "United Airlines forecasts fourth-quarter profit below estimates as fuel costs bi"
   ]
 }
