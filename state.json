@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792481109.176776,
+  "last_signals": 1792481725.2825282,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792479527.6224658,
+    "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792411261.2633185,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -121,7 +121,7 @@
     "Bitcoin|4H:top": 1792411261.7358527,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792481109.797034,
+    "USOIL|4H:top": 1792481725.9250183,
     "US30|4H:top": 1792168047.9190044,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792481097.342317,
-  "last_news": 1792481106.122099,
+  "last_analysis": 1792481716.652383,
+  "last_news": 1792481725.2816546,
   "seen_news": [
-    "People in China are spending nearly as much of their income as Americans on heal",
-    "'I'm fed up of swiping': Why singles now want to meet IRL",
-    "US set to announce certification of Boeing 737 MAX 10 on Tuesday, sources say",
-    "investingLive Americas market news wrap: AI trades rebound but so does oil",
-    "C\u00f4 g\u00e1i 19 tu\u1ed5i ph\u00e1t hi\u1ec7n ung th\u01b0 v\u00fa d\u00f9 KH\u00d4NG \u0110AU, KH\u00d4NG NG\u1ee8A: H\u1ed1i h\u1eadn v\u00ec b\u1ecf qua ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng t\u0103ng t\u1ed1c - \u00c1p l\u1ef1c gi\u00e1 v\u00e0 chi ph\u00ed v\u1ed1n t\u0103ng - Vietstock",
     "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
     "Explainer: China eyes overnight rate as main policy tool, what it means for mark",
     "HLV Kim Sang-sik d\u1ed3n d\u1eadp \u0111\u00f3n tin vui khi \u0110T Vi\u1ec7t Nam s\u1eafp \u0111\u1ea1i chi\u1ebfn \u1edf gi\u1ea3i ch\u00e2u \u00c1",
@@ -445,6 +439,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
     "ZAWYA: Oman: FSA launches Robo-Advisor trial for investment services - TradingVi",
     "Boomers are buying into the promise of monthly income from options ETFs, but the",
-    "China's growth accelerates as AI boom helps boost exports"
+    "China's growth accelerates as AI boom helps boost exports",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
+    "Cleveland-Cliffs stock: is there any further upside left? - TradingView",
+    "What\u2019s making Europe so angry? The frustration behind the protests",
+    "Watch: Did Tesla really just unveil a flying car?",
+    "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
+    "Canada September CPI 3.1% y/y vs 3.2% expected"
   ]
 }
