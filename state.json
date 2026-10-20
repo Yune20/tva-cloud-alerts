@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792520547.6950574,
+  "last_signals": 1792521150.1161869,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792518137.9955168,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,12 +69,12 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -145,14 +145,8 @@
     "GBP/USD|1D:top": 1792513189.8777733
   },
   "last_analysis": 1792520848.736196,
-  "last_news": 1792520547.6942968,
+  "last_news": 1792521150.1153574,
   "seen_news": [
-    "Turning the tides: Could hidden sea power energise our coastal towns?",
-    "Why is Equifax stock rising today?",
-    "The Indian Rupee's sharp rebound following RBI intervention may prove temporary ",
-    "B\u00ed \u1ea9n nh\u1eefng \u0111\u1ec9nh n\u00fai t\u1eebng cao h\u01a1n c\u1ea3 Everest",
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
-    "KeyCorp (NYSE:KEY) Posts Q3 2026 Sales In Line With Estimates - TradingView",
     "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says",
     "Hertz shares jump 5% as subsidiary Oro Mobility secures $80M strategic investmen",
     "Solana remains under pressure as macro and geopolitical headwinds overshadow Alp",
@@ -446,6 +440,12 @@
     "\u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinance",
     "SpaceX Will Report Q3 Earnings Today: What To Expect - TradingView",
     "Here\u2019s what matters most to Tesla investors heading into earnings",
-    "Traders are betting Netflix's stock drama may be coming to an end"
+    "Traders are betting Netflix's stock drama may be coming to an end",
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
+    "Dollar steady, euro weakens after French protests turn violent - TradingView",
+    "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
+    "Google resolves cloud outage affecting UK banks and websites",
+    "Gas Production Plunges 12.6% as Europe Heads into Winter",
+    "Meta\u2019s global affairs officer Joel Kaplan to leave company after 15 years"
   ]
 }
