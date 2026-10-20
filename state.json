@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792462662.5295198,
+  "last_signals": 1792463275.4111376,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792412494.1218734,
+    "5575146754|Gold|1H|range_in": 1792463275.4111376,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792411261.2633185,
@@ -60,15 +60,15 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -144,15 +144,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792462653.5222538,
-  "last_news": 1792462662.5287209,
+  "last_analysis": 1792463266.6751835,
+  "last_news": 1792463275.4101582,
   "seen_news": [
-    "Banks expect to be hit with higher taxes in Budget",
-    "Why Canadian Oil Is Lagging Even As Global Crude Soars",
-    "Swiss finance minister warns steep European debt could trigger euro crisis",
-    "Broader tech focused indices are higher. How are some of the Magnificent 7 fairi",
-    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 20/10: Lo\u1ea1t doanh nghi\u1ec7p t\u00ean tu\u1ed5i c\u00f4ng b\u1ed1, nh",
-    "L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5% M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti\u1ebfp t\u1ee5c t\u0103ng nh\u1eb9 - VietstockFinan",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
     "Jonathan Reich moves to President & COO at Zedge - TradingView",
     "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 wi",
@@ -446,6 +440,12 @@
     "Campuchia chu\u1ea9n b\u1ecb x\u00e2y c\u1ea7u b\u1eafc qua s\u00f4ng Mekong",
     "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC | VietstockFinance - Vietstock",
     "Injective to Hold October Community Buyback on October 21st - TradingView",
-    "When should you dump your target-date funds?"
+    "When should you dump your target-date funds?",
+    "iPhone Duo ch\u00e1y h\u00e0ng, d\u00e2n bu\u00f4n rao b\u00e1n l\u1ea1i gi\u00e1 h\u01a1n 130 tri\u1ec7u \u0111\u1ed3ng",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC |",
+    "Commerzbank Aktiengesellschaft: Release of a capital market information - Tradin",
+    "\u2018Open your doors for AI\u2019: German chancellor urges businesses to embrace AI as Nv",
+    "Musk and Anthropic pledge public share giveaways",
+    "Pakistan\u2019s Growth Slows  as Hormuz Crisis Hits Industry"
   ]
 }
