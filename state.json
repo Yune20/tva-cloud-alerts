@@ -29,12 +29,12 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792487858.2169244,
+  "last_signals": 1792488469.0239987,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792481725.2825282,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
-    "5575146754|Gold|4H|range_in": 1792411261.2633185,
+    "5575146754|Gold|4H|range_in": 1792488469.0239987,
     "5575146754|Gold|1H|trap_dn": 1792469420.8669856,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
@@ -60,7 +60,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -74,10 +74,10 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792487851.0404494,
-  "last_news": 1792487858.215961,
+  "last_analysis": 1792488462.0044665,
+  "last_news": 1792488469.0230567,
   "seen_news": [
-    "Corn Losses Extending to Monday - TradingView",
-    "Cornell sexual assault case has some prospective students rethinking plans, cons",
-    "Don't fall for this - how to protect yourself from AI scams",
-    "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%",
-    "Sterling today: Pound edges lower; AI jitters cloud dollar outlook",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6813 \u2013 Reuters estimate",
     "EU tariffs aimed at China hitting Ukraine, steel boss says",
     "CIBC warns of inflation risks as \u2018leaky loonie\u2019 faces further slide",
     "The Hormuz shipping attacks nobody is counting: inside the US Navy\u2019s go-dark gui",
@@ -445,6 +439,12 @@
     "Anthropic is AI trade's last big hope for a major IPO this year",
     "The AI telling farmers when to harvest",
     "Jefferies says China online beauty sales fell 6% in September",
-    "Ethereum consolidates around key technical levels amid a challenging macro backd"
+    "Ethereum consolidates around key technical levels amid a challenging macro backd",
+    "Home sellers cut asking prices on 3,000 properties a day",
+    "What\u2019s Trump\u2019s Thinking Behind The \u2018Diesel Deal\u2019 With Russia?",
+    "Eni launches gas project to boost Egypt production capacity",
+    "China Q3 GDP beats estimates, as does September retail sales",
+    "2 lo\u1ea1i c\u00e1 b\u00e1n \u0111\u1ea7y ngo\u00e0i ch\u1ee3, gi\u00e1 b\u00ecnh d\u00e2n nh\u01b0ng t\u1ed1t cho x\u01b0\u01a1ng kh\u1edbp, nhi\u1ec1u ng\u01b0\u1eddi ",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina"
   ]
 }
