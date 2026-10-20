@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792471541.2749252,
-  "last_bot4": 1792475844.0162215,
+  "last_bot4": 1792476468.73446,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792476135.2910726,
+  "last_signals": 1792476468.7350338,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792471250.420064,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792475841.5531118,
-  "last_news": 1792476135.2901537,
+  "last_analysis": 1792476460.611134,
+  "last_news": 1792476468.733525,
   "seen_news": [
-    "AtkinsR\u00e9alis Group Inc. Signs MOU to Evaluate Up To 6 GW of CANDU Reactors in In",
-    "Credit markets have entered uncharted territory as the riskiest junk bonds send ",
-    "Trump's student loan overhaul could lead to more bankruptcy filings, former judg",
-    "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-    "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens",
-    "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.12%",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Nasdaq climbs as chip and AI-linked stocks bounce back - TradingView",
     "China's third-quarter economic growth quickens to 4.5% as exports surge, beating",
@@ -445,6 +439,12 @@
     "US bans DeepSeek AI from government use as tech tension with China continues",
     "Colombia\u2019s peso hits one-month high on rate outlook",
     "Morgan Stanley IM says bond yields are rising for the right reasons, favours US ",
-    "\u0110i\u1ec1u \u0111\u1ed9ng, lu\u00e2n chuy\u1ec3n, b\u1ed5 nhi\u1ec7m nhi\u1ec1u c\u00e1n b\u1ed9 ch\u1ee7 ch\u1ed1t \u1edf H\u00e0 T\u0129nh"
+    "\u0110i\u1ec1u \u0111\u1ed9ng, lu\u00e2n chuy\u1ec3n, b\u1ed5 nhi\u1ec7m nhi\u1ec1u c\u00e1n b\u1ed9 ch\u1ee7 ch\u1ed1t \u1edf H\u00e0 T\u0129nh",
+    "Copper is outshining gold this year. Investors say the rally can survive an AI c",
+    "Burnham vows end to 'rip-off parking charges' under new rules",
+    "France imposes curfews in parts of Paris, other cities after weekend of riots",
+    "UK August ILO unemployment rate 4.7% vs 5.0% expected",
+    "\u0110\u00fang 1 n\u0103m n\u1eefa, \u00f4ng Ph\u1ea1m Nh\u1eadt Qu\u00e2n Anh tri\u1ec3n khai 200 xe VinFast t\u1ef1 h\u00e0nh t\u1ea1i si\u00ea",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance"
   ]
 }
