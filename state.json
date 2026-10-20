@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792501077.3233206,
+  "last_signals": 1792501681.9525113,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792500752.9409,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,15 +143,9 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792174038.415262
   },
-  "last_analysis": 1792501068.280872,
-  "last_news": 1792501077.3216698,
+  "last_analysis": 1792501672.3251293,
+  "last_news": 1792501681.9515927,
   "seen_news": [
-    "Trump approval falls to record low. Poll shows Republicans losing badly in midte",
-    "Elon Musk tuy\u00ean b\u1ed1 s\u1ebd t\u1eb7ng m\u1ed7i tr\u1ebb em M\u1ef9 m\u1ed9t c\u1ed5 phi\u1ebfu SpaceX",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "Bruton Limited Sets Oct. 30 SGM on INSW Merger - TradingView",
-    "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricu",
-    "How long will humans be needed for translation?",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "First Tick: Top global cues to watch in today's trade - TradingView",
     "OpenAI bugging suspect Alfozan held without bail after Saudi government offers t",
@@ -445,6 +439,12 @@
     "Why are more roofs not made of solar tiles?",
     "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
     "Daiwa: BOJ shifts focus from reaching 2% inflation to keeping it there, wages ho",
-    "Th\u1ee7 t\u01b0\u1edbng \u0110\u1ee9c: Vi\u1ec7n tr\u1ee3 Ukraine l\u00e0 'g\u00e1nh n\u1eb7ng kh\u1ed5ng l\u1ed3' cho ng\u00e2n s\u00e1ch ch\u00e2u \u00c2u"
+    "Th\u1ee7 t\u01b0\u1edbng \u0110\u1ee9c: Vi\u1ec7n tr\u1ee3 Ukraine l\u00e0 'g\u00e1nh n\u1eb7ng kh\u1ed5ng l\u1ed3' cho ng\u00e2n s\u00e1ch ch\u00e2u \u00c2u",
+    "Why is Myriad Genetics stock surging today?",
+    "The Nasdaq remains under pressure amid an ugly mix of higher inflation, growth c",
+    "T\u1ea5t c\u1ea3 ch\u1ee7 xe t\u1ea1i H\u00e0 N\u1ed9i ch\u00fa \u00fd: C\u00f4ng an \u0111ang r\u00e0 so\u00e1t h\u01a1n 1 tri\u1ec7u ph\u01b0\u01a1ng ti\u1ec7n, c\u00f3",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "Albertsons Companies, Inc. 2026: Revenue $18.89B, EPS $0.11\u2014 10-Q Summary - Trad",
+    "Meta is back on offense \u2014 and its next move could signal higher AI spending acro"
   ]
 }
