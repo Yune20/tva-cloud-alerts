@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792468491.0766776,
+  "last_signals": 1792469096.204138,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792463275.4111376,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,12 +60,12 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
@@ -145,14 +145,8 @@
     "DXY|4H:bot": 1792174038.415262
   },
   "last_analysis": 1792468798.5961463,
-  "last_news": 1792468491.0757964,
+  "last_news": 1792469096.2031107,
   "seen_news": [
-    "Cleveland-Cliffs earnings analysis: questions answered and next catalysts",
-    "EUR/USD seems to be forming a bottom as growth concerns and France budget vote c",
-    "Gi\u00e1 k\u1ebdm, ch\u00ec t\u0103ng v\u1ecdt, m\u1ed9t c\u1ed5 phi\u1ebfu \u201ct\u00edm l\u1ecbm\u201d sau 14 phi\u00ean t\u1eaft thanh kho\u1ea3n",
-    "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER | VietstockFinance",
-    "GFL Environmental deal could happen as early as next week - Bloomberg - TradingV",
-    "Why Elon Musk, Anthropic and other AI titans are giving away shares",
     "Euro dips on French turmoil, US dollar lifted as stocks rebound",
     "Connecting the dots: What falling luxury sales could be telling us about the US ",
     "C\u1eadp nh\u1eadt s\u1ed1 li\u1ec7u CTCK s\u00e1ng 20/10: T\u1ea5p n\u1eadp c\u00f4ng b\u1ed1 BCTC qu\u00fd 3, lo\u1ea1t t\u00ean tu\u1ed5i l\u1edbn ",
@@ -446,6 +440,12 @@
     "Roth conversions: When the \u2018juice isn't really worth the squeeze,\u2019 according to ",
     "Living with a stink? Technology might help",
     "Colombia\u2019s Critical Minerals Could Be a Game Changer for America",
-    "Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings"
+    "Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings",
+    "Gi\u1ea3i ng\u00e2n v\u00e0o top 3 c\u1ea3 n\u01b0\u1edbc, L\u00e0o Cai t\u0103ng t\u1ed1c ph\u1ea5n \u0111\u1ea5u GRDP \u0111\u1ea1t 10%",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "Genuine Parts Earnings: What To Look For From GPC - TradingView",
+    "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market ro",
+    "Why the UK is dithering over what to do about e-scooters",
+    "Chinese official says economy resilient but recovery momentum remains weak"
   ]
 }
