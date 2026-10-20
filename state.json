@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792504689.2431934,
-  "last_bot4": 1792508344.016504,
+  "last_bot4": 1792509164.7232392,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792507649.1270323
+    "Gold": 1792509164.7231421
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792508837.9839725,
+  "last_signals": 1792509164.7239676,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792508344.017088,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,16 +65,16 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -118,11 +118,11 @@
   "sig_touch": {
     "Ethereum|4H:top": 1791786535.5502043,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792411261.7358527,
+    "Bitcoin|4H:top": 1792509165.25016,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792168047.9190044,
+    "US30|4H:top": 1792509165.55681,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792416301.1007216,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792508838.1780777,
+    "Gold|4H:bot": 1792509164.882039,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792508346.54702
+    "DXY|4H:bot": 1792509166.2296205
   },
-  "last_analysis": 1792508829.2698565,
-  "last_news": 1792508837.9830666,
+  "last_analysis": 1792509153.7400806,
+  "last_news": 1792509161.9132822,
   "seen_news": [
-    "German producer prices hit highest since March 2023 as energy costs soar, fuelin",
-    "L\u1eddi khuy\u00ean kh\u1ea9n c\u1ea5p t\u1edbi t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng \u0111i\u1ec7n tho\u1ea1i Android: M\u00e1y tr\u00ean tay nh\u01b0ng",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
-    "ZAWYA: Oman: FSA launches Robo-Advisor trial for investment services - TradingVi",
-    "Boomers are buying into the promise of monthly income from options ETFs, but the",
-    "China's growth accelerates as AI boom helps boost exports",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
     "Cleveland-Cliffs stock: is there any further upside left? - TradingView",
     "What\u2019s making Europe so angry? The frustration behind the protests",
@@ -445,6 +439,12 @@
     "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
     "Aerospace and military contractors raise 2026 profit forecasts",
     "GBPUSD Technicals: The price extends gains and moves above the 100 day MA in the",
-    "N\u1eef t\u00e0i x\u1ebf ch\u1ed1t c\u1eeda \u00f4 t\u00f4, t\u0103ng ga b\u1ecf ch\u1ea1y khi b\u1ecb CSGT d\u1eebng xe"
+    "N\u1eef t\u00e0i x\u1ebf ch\u1ed1t c\u1eeda \u00f4 t\u00f4, t\u0103ng ga b\u1ecf ch\u1ea1y khi b\u1ecb CSGT d\u1eebng xe",
+    "The virtual worlds where robots are trained",
+    "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+    "U.S. yields fall for the week as AI debt jitters drive traders to safe-haven bon",
+    "Treasury Sec. Bessent says we are on the \"other side of the energy shock\".  The ",
+    "Tin vui cho nh\u1eefng ng\u01b0\u1eddi s\u1eafp bay ch\u1eb7ng H\u00e0 N\u1ed9i \u2013 \u0110\u00e0 L\u1ea1t v\u00e0 H\u00e0 N\u1ed9i \u2013 C\u1ea7n Th\u01a1",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
