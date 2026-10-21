@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792555315.5661697,
+  "last_signals": 1792555930.915342,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792554079.5810323,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,12 +59,12 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792555316.0772638,
+    "Gold|4H:bot": 1792555931.099807,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792555304.023677,
-  "last_news": 1792555315.565235,
+  "last_analysis": 1792555924.093923,
+  "last_news": 1792555930.9143887,
   "seen_news": [
-    "Living with a stink? Technology might help",
-    "US envoy Witkoff to meet Russians, Trump presses Kyiv to settle",
-    "USDCHF consolidates after sharp fall. Traders wait for the next shove.",
-    "Thay \u0111\u1ed5i \u0111\u00e1ng l\u01b0u \u00fd v\u1ec1 k\u1ef3 chi tr\u1ea3 l\u01b0\u01a1ng h\u01b0u th\u00e1ng 11/2026: Ng\u01b0\u1eddi nh\u1eadn l\u01b0\u01a1ng h\u01b0u,",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "Weekly Recap: Q3 sales and profits and component-cost pressure - TradingView",
     "Investors look to earnings to reset the bull market. The key level to watch on t",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Apple\u2019s $1,999 foldable phone is set to hit stores Friday, are you buying one?",
@@ -446,6 +440,12 @@
     "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep b",
     "Bereaved families could face 'unjust' tax bill after civil service pension delay",
     "Euro dips on French turmoil, US dollar lifted as stocks rebound",
-    "Trump: Ukraine has to want to settle this war, if not it's going to be a very ba"
+    "Trump: Ukraine has to want to settle this war, if not it's going to be a very ba",
+    "Netflix posts third-quarter earnings beat, but shares fall on advertising and re",
+    "The virtual worlds where robots are trained",
+    "Why is Samsung Electronics stock surging today?",
+    "investingLive Asia-Pacific market news: RBA\u2019s Hauser puts November hike in play",
+    "Dragon Capital \u0111\u1ec1 xu\u1ea5t mi\u1ec5n thu\u1ebf thu nh\u1eadp c\u00e1 nh\u00e2n cho nh\u00e0 \u0111\u1ea7u t\u01b0 qu\u1ef9 m\u1edf n\u1eafm gi\u1eef ",
+    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank | VietstockFinance - VietstockFinance"
   ]
 }
