@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792567702.6187239,
+  "last_signals": 1792568314.9446194,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792560268.3603444,
+    "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -77,13 +77,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792567691.4866457,
-  "last_news": 1792567702.6099482,
+  "last_analysis": 1792568306.8008068,
+  "last_news": 1792568314.943793,
   "seen_news": [
-    "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
-    "SpaceX and Tesla form special committees to evaluate potential merger, Musk says",
-    "BOJ seen lifting rates to 1.50% in December as 69% of economists expect a Q4 hik",
-    "L\u00e2m \u0110\u1ed3ng r\u00e0 so\u00e1t 166 bi\u1ec7t th\u1ef1 cho thu\u00ea \u1edf \u0110\u00e0 L\u1ea1t",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Ratos (RATO_A) Appoints Jon Sintorn Chairman of HL Display - TradingView",
     "GBPUSD Technicals: The price extends gains and moves above the 100 day MA in the",
     "H\u01b0ng Y\u00ean thu g\u1ea7n 20.000 t\u1ef7 \u0111\u1ed3ng t\u1eeb s\u1eed d\u1ee5ng \u0111\u1ea5t",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
@@ -446,6 +440,12 @@
     "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one ",
     "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
     "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
-    "Dollar hovers near 3-wk low as volatile oil prices weigh, rupee extends rally"
+    "Dollar hovers near 3-wk low as volatile oil prices weigh, rupee extends rally",
+    "Raymond James Names Top 3 Picks in Beauty Stocks",
+    "Goldman Sachs says 6% nominal growth, not 5% yields, is what matters for small c",
+    "LPBank ghi nh\u1eadn LNTT 10.421 t\u1ef7 \u0111\u1ed3ng trong 9 th\u00e1ng, ho\u00e0n th\u00e0nh 70% k\u1ebf ho\u1ea1ch c\u1ea3 n\u0103",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
+    "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch - TradingView",
+    "What\u2019s making Europe so angry? The frustration behind the protests"
   ]
 }
