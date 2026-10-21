@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792563385.489397,
+  "last_signals": 1792564005.7759218,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792560268.3603444,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -77,13 +77,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792563685.0189137,
-  "last_news": 1792563385.4884937,
+  "last_analysis": 1792563998.415009,
+  "last_news": 1792564005.7749596,
   "seen_news": [
-    "Musk ordered slowdown of Starlink service used by Ukraine\u2019s military, WSJ report",
-    "JPMorgan sees Bitcoin returning 10% a year: why volatility makes that hard to co",
-    "M\u1ed9t qu\u1ef9 \u0111\u1ea7u t\u01b0 ngo\u1ea1i v\u1eeba thu h\u1ed3i kho\u1ea3n vay 4 tri\u1ec7u USD t\u1ea1i Dat Bike",
-    "CTCP T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
-    "NEXTDC Limited (NXT) Cuts FY27 Outlook; ~$140M EBITDA From M3 Excluded - Trading",
-    "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
     "Thule Group (THULE) Chair Resigns as 28% Holders Seek Board Changes - TradingVie",
     "Tesla\u2019s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
     "France to deploy military as it braces for fresh unrest this weekend",
@@ -446,6 +440,12 @@
     "REG - Pineapple Power Corp - Notification of Major Holdings - TradingView",
     "Elon Musk ordered Starlink slowdown for Ukraine: Report",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.90%"
+    "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.90%",
+    "X\u00f4n xao th\u00f4ng tin v\u1ec1 Huy\u1ec1n 204",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
+    "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
+    "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+    "How long will humans be needed for translation?"
   ]
 }
