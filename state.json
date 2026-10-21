@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792537908.3058913,
-  "last_bot4": 1792544086.0820947,
+  "last_bot4": 1792544727.8666456,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792544360.9508133,
+  "last_signals": 1792544727.8673074,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,10 +65,10 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792544361.1230495,
+    "Gold|4H:bot": 1792544728.0152743,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792544353.9252958,
-  "last_news": 1792544360.9499786,
+  "last_analysis": 1792544719.3999047,
+  "last_news": 1792544727.8656476,
   "seen_news": [
-    "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
-    "Microsoft Exits Nscale UK Data Center Deal Amid Power Delays - TradingView",
-    "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor ",
-    "People playing loud music on buses could face \u00a3100 fine",
-    "Revolut services begin to recover after Google Cloud outage",
-    "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalle",
     "investingLive Americas market news wrap: AI trades rebound but so does oil",
     "Ch\u00e2n dung \u0111\u1ea1i gia c\u1ea3ng bi\u1ec3n v\u1eeba xu\u1ea5t hi\u1ec7n t\u1ea1i Eximbank: R\u00f3t h\u01a1n 700 t\u1ef7 \u0111\u1ed3ng v\u00e0o ",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK | VietstockFinance - Vie",
@@ -446,6 +440,12 @@
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
     "What's Going On With Cerebras Stock on Monday? - TradingView",
     "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year g",
-    "Microsoft pulls out of UK's largest AI data centre"
+    "Microsoft pulls out of UK's largest AI data centre",
+    "Vi\u1ec7t Nam s\u1edf h\u1eefu \"k\u1ef3 quan\" trong l\u00f2ng n\u00fai: Kho\u00e9t 600m \u0111\u00e1, \u0111\u1eb7t t\u1ed5 h\u1ee3p c\u00f4ng ngh\u1ec7 ph",
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Lemonade, Inc. (LMND) Launches Renters Insurance in Alabama - TradingView",
+    "My partner of 17 years left me his $1 million home. His children say I influence",
+    "Elice's huge stock swings show AI's spending boom is getting more investor scrut",
+    "Don't fall for this - how to protect yourself from AI scams"
   ]
 }
