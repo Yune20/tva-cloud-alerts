@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792579236.3548167,
+  "last_signals": 1792579852.718084,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792579236.3548167,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792579227.997588,
-  "last_news": 1792579236.3540258,
+  "last_analysis": 1792579844.3503225,
+  "last_news": 1792579852.7169378,
   "seen_news": [
-    "DarkIris shares sink on announcing share consolidation - TradingView",
-    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
-    "Asian chip stocks rally as Super Micro forecast revives AI demand optimism",
-    "US September pending home sales -7.3% vs -0.5% expected",
     "Iran agreed to secret nuclear site visits in shift towards compromise, report sa",
     "\u0110\u1ecba \u1ed1c Th\u1ea3o \u0110i\u1ec1n \u0111\u01b0\u1ee3c giao h\u01a1n 4.800m2 \u0111\u1ea5t l\u00e0m d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC | VietstockFinance - VietstockFinance",
@@ -446,6 +440,12 @@
     "Bitcoin rallies on US-Iran deal hopes amid increasingly positive reports. What's",
     "M\u1eb9o b\u1ea3o qu\u1ea3n h\u00e0nh l\u00e1 t\u01b0\u01a1i trong t\u1ee7 l\u1ea1nh c\u1ea3 th\u00e1ng, kh\u00f4ng lo h\u00e9o \u00faa",
     "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
-    "DICK'S Sporting's Digital Expansion Strategy to Fuel Growth - TradingView"
+    "DICK'S Sporting's Digital Expansion Strategy to Fuel Growth - TradingView",
+    "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening",
+    "K\u1ef9 s\u01b0 k\u1ec3 8 gi\u1edd \u2018c\u00e2n n\u00e3o\u2019 ch\u1eb7n d\u00f2ng s\u00f4ng S\u00e0i G\u00f2n \u0111\u1ec3 h\u1ee3p long \u2018l\u00e1 d\u1eeba th\u00e9p\u2019",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "Gold slips as investors await Fed rate signals - TradingView",
+    "House committee says Webull messages point to China access to U.S. customer data",
+    "Musk and Anthropic pledge public share giveaways"
   ]
 }
