@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792615895.2361567,
+  "last_signals": 1792616513.2138808,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792615272.3766441,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,16 +68,16 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792587458.516029,
+    "Bitcoin|4H:top": 1792616514.5354025,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792615895.3678033,
+    "Gold|4H:bot": 1792616513.691133,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -136,17 +136,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792610652.2725205
+    "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792615885.765417,
-  "last_news": 1792615895.2352557,
+  "last_analysis": 1792616499.9549022,
+  "last_news": 1792616513.2130573,
   "seen_news": [
-    "Netflix posts third-quarter earnings beat, but shares fall on advertising and re",
-    "Living with a stink? Technology might help",
-    "Barclays Backs These 5 EU Telcos as AI and Satellite Risks Hit the Sector",
-    "investingLive Asia-Pacific market news: RBA\u2019s Hauser puts November hike in play",
-    "Sau v\u1ee5 ki\u1ec7n 840 tri\u1ec7u USD v\u1edbi Amazon, n\u1eef T\u1ed5ng gi\u00e1m \u0111\u1ed1c SN 1977 c\u1ee7a Gilimex n\u1ed9p \u0111",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "Nhi\u1ec1u n\u01a1i s\u1eafp xu\u1ea5t hi\u1ec7n m\u01b0a to",
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "ALLSPRING AMONG FIRST ASSET MANAGERS TO INTRODUCE ETF SHARE CLASSES - TradingVie",
@@ -440,6 +434,12 @@
     "investingLive European news wrap: Markets remain cautiously optimistic",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 22/10: SASCO, VEFAC, Nh\u1ef1a Ti\u1ec1n Phong, Vosco..",
     "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
-    "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable - Tradin"
+    "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable - Tradin",
+    "7 healthcare stocks that stand out as investors pay up for the sector",
+    "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+    "What is the Budget and what could be in it?",
+    "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
+    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
+    "What are the main events for today?"
   ]
 }
