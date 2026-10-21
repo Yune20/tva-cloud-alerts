@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792570147.8443873,
+  "last_signals": 1792570767.6131082,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792570138.3267047,
-  "last_news": 1792570147.8434353,
+  "last_analysis": 1792570757.7316208,
+  "last_news": 1792570767.6122038,
   "seen_news": [
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "US bans China's DeepSeek from government in race for AI dominance",
-    "How Bad Would It Get If China Blocks Rare Earths to America?",
-    "SpaceX and Tesla\u2019s Terafab targets 2028 for volume chip production, Musk says",
-    "Treasury Sec. Bessent says we are on the \"other side of the energy shock\".  The ",
-    "Ra quy\u1ebft \u0111\u1ecbnh truy t\u1ed1 v\u1ee3 ch\u1ed3ng Ho\u00e0ng Th\u1ecb T\u1eadp SN 1982",
     "Russia\u2019s Oil Export Revenue Slides as Production Declines",
     "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
     "SpaceX\u2019s Musk says Tesla merger good idea but far from certain, needs 50% of Tes",
@@ -446,6 +440,12 @@
     "Capital One's strong quarter and progressing Discover integration are rewarded o",
     "Union attacks NatWest plans to get workers back to the office",
     "French yields hover near 2002 highs; hotter UK inflation sparks gilt pressure",
-    "European stock market open: Stocks tread cautiously as French bond market keeps "
+    "European stock market open: Stocks tread cautiously as French bond market keeps ",
+    "Ashtead Technology surges 15% on \u00a3505 mln takeover offer",
+    "Chart of the day: Gold price eyes $4,100 support as $4,200 resistance keeps bull",
+    "H\u1ee7y d\u1ef1 \u00e1n trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i v\u00e0 logistics h\u01a1n 10.000 t\u1ef7 \u0111\u1ed3ng, nh\u00e0 \u0111\u1ea7u t\u01b0 Trung",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
+    "The CAC 40 Index Opens 0.37% Higher - TradingView",
+    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl"
   ]
 }
