@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792566476.157752,
+  "last_signals": 1792567088.0854254,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792560268.3603444,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792566468.974751,
-  "last_news": 1792566476.156897,
+  "last_analysis": 1792567078.5461218,
+  "last_news": 1792567088.0845544,
   "seen_news": [
-    "Why SpaceX\u2019s stock is surging \u2014\u00a0and lifting the broader AI universe along with i",
-    "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race a",
-    "Union attacks NatWest plans to get workers back to the office",
-    "Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals",
-    "AI data center projects boost US warehouse demand and rents, real estate company",
-    "Goldman Sachs says 6% nominal growth, not 5% yields, is what matters for small c",
     "MARA Selling Bitcoin? Exchange Deposits Put 1,000 BTC Under Watch - TradingView",
     "Obsessed with CoreWeave and the AI trade? You're missing out on some great stock",
     "The tech helping crack decades-old cold cases",
@@ -446,6 +440,12 @@
     "\u0110\u00fang s\u00e1ng nay - 21/10, s\u00e2n bay Gia L\u00e2m ghi nh\u1eadn m\u1ed9t m\u00e1y bay v\u1eadn t\u1ea3i qu\u00e2n s\u1ef1 c\u1ee7a ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Invitation to presentation of Silex Microsystems\u2019 third quarter 2026 - TradingVi",
-    "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joini"
+    "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joini",
+    "\u0110\u1ed1i th\u1ee7 l\u1edbn c\u1ee7a g\u1ea1o Vi\u1ec7t Nam \u0111\u00f3n tin kh\u00f4ng vui",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
+    "ZAWYA: Africa\u2019s conflicts, Ebola outbreak halt children\u2019s education - TradingVie",
+    "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re",
+    "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win",
+    "Elon Musk confirms talks to merge Tesla and SpaceX"
   ]
 }
