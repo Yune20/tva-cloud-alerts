@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792541559.7573576,
+  "last_signals": 1792542167.052017,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -81,14 +81,14 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|4H": false,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|4H": false,
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792542513,
   "menu_prices": {
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792541549.5290082,
-  "last_news": 1792541559.7566469,
+  "last_analysis": 1792542156.4832284,
+  "last_news": 1792542167.0484414,
   "seen_news": [
-    "Robot Wars \u2013 How China Has the Robotics Industry in Its Grip",
-    "Food importer files new lawsuit to block Trump\u2019s Canada tariffs",
-    "Ethereum consolidates around key technical levels amid a challenging macro backd",
-    "M\u1eb9 trung ni\u00ean th\u00fa nh\u1eadn: Con c\u1ea7n v\u00e0i tri\u1ec7u t\u00f4i mua ngay, \u0111\u1ebfn l\u01b0\u1ee3t m\u00ecnh v\u00e0i tr\u0103m n",
-    "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
-    "What's Going On With Cerebras Stock on Monday? - TradingView",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Euro dips on French turmoil, Aussie lifted by China growth - TradingView",
     "Trump sued over 50% tariffs on Canada in latest trade challenge",
@@ -446,6 +440,12 @@
     "SpaceX\u2019s Musk says Tesla merger good idea but far from certain, needs 50% of Tes",
     "T\u0103ng t\u1ed1c d\u1ef1 \u00e1n m\u1edf r\u1ed9ng Qu\u1ed1c l\u1ed9 6 h\u01a1n 9.500 t\u1ef7 \u0111\u1ed3ng",
     "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Key facts: CRYPTO:ZECUSD open interest down ~30%; downside to $888 - TradingView"
+    "Key facts: CRYPTO:ZECUSD open interest down ~30%; downside to $888 - TradingView",
+    "UBS flags 3 tests for the AI trade as Meta kicks off mega-cap tech earnings",
+    "C\u00f4ng an \u0111ang \u0111i\u1ec1u tra t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng s\u1ed1 d\u01b0 h\u01a1n 2 t\u1ef7 \u0111\u1ed3ng: Ng\u01b0\u1eddi d\u00e2n tr\u00ecnh b",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Title Resources Group Appoints Robert Greenbaum EVP - TradingView",
+    "Data center stocks remain under pressure after Korea IPO plunges 30%",
+    "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors"
   ]
 }
