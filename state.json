@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792624886.7438188,
+  "last_signals": 1792625508.4979007,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -68,10 +68,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792624887.6313565,
+    "Bitcoin|4H:top": 1792625509.117311,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792625187.9011252,
-  "last_news": 1792624880.8341048,
+  "last_analysis": 1792625500.843532,
+  "last_news": 1792625508.4970121,
   "seen_news": [
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Why are more roofs not made of solar tiles?",
-    "United Airlines sees elevated fuel costs through 2027, flags margin challenges",
-    "USDCAD Technicals: The USDCAD pair pushes higher off of 100 day MA support. What",
-    "9 ngh\u1ec7 s\u0129 b\u1ecb tuy\u00ean \u00e1n",
     "N\u1eef ca s\u0129 \u0111\u1ea7u t\u01b0 th\u1ef1c hi\u1ec7n MV l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb ca Hu\u1ebf, t\u00f4n vinh v\u1ebb \u0111\u1eb9p c\u1ed1 \u0111\u00f4 qua l",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "REG - UBS Asset Management Prologis, Inc. - Form 8.3 Prologis Inc - TradingView",
@@ -440,6 +434,12 @@
     "EIA Says US Crude Inventories Sink Further",
     "Australia\u2019s Fortescue warns of operations hit as China state buyer talks rumble ",
     "Bank of Korea expected to hold rates today after two hikes, tightening cycle see",
-    "\u0110\u1ec1 xu\u1ea5t ngh\u1ec9 h\u01b0\u1edfng nguy\u00ean l\u01b0\u01a1ng ng\u00e0y 27/7: D\u1ecbp to\u00e0n x\u00e3 h\u1ed9i tri \u00e2n ng\u01b0\u1eddi c\u00f3 c\u00f4ng"
+    "\u0110\u1ec1 xu\u1ea5t ngh\u1ec9 h\u01b0\u1edfng nguy\u00ean l\u01b0\u01a1ng ng\u00e0y 27/7: D\u1ecbp to\u00e0n x\u00e3 h\u1ed9i tri \u00e2n ng\u01b0\u1eddi c\u00f3 c\u00f4ng",
+    "How long will humans be needed for translation?",
+    "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+    "BlackRock\u2019s Hambro sees gold rising on debt and deficits",
+    "Si\u00eau th\u00e1p 211.000 t\u1ef7 \u0111\u1ed3ng, cao g\u1ea5p \u0111\u00f4i Landmark 81, t\u1eebng tham v\u1ecdng tr\u1edf th\u00e0nh t\u00f2a",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "ZTE (H.K.) Limited Cuts Enablence Stake to ~3.25% - TradingView"
   ]
 }
