@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792576780.1404166,
+  "last_signals": 1792577400.5382109,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792576768.8970368,
-  "last_news": 1792576780.1393254,
+  "last_analysis": 1792577391.3603113,
+  "last_news": 1792577400.5373075,
   "seen_news": [
-    "Offshore Yuan Hits Fresh 4-Year High - TradingView",
-    "Housing is flashing warning signs just as the Fed weighs more interest rate hike",
-    "'I'm fed up of swiping': The singles choosing dating events over apps",
-    "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
-    "Australian AI data centre operator NextDC shares shed 44% on revenue delay",
-    "Citadel\u2019s Griffin says AI \u201calmost certainly\u201d a bubble, even as demand signals st",
     "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening",
     "H\u00e0 N\u1ed9i \u0111\u1ec1 xu\u1ea5t s\u1eed d\u1ee5ng h\u01a1n 22.249 c\u0103n h\u1ed9 t\u1ea1i 64 d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i \u0111\u1ec3 ph\u1ee5c v\u1ee5 t\u00e1",
     "HDB: Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HDBank | VietstockFinance",
@@ -446,6 +440,12 @@
     "Bikes 'not for jousting,' says Lime after duel video",
     "Why is Capital One Financial stock rallying today?",
     "Japan\u2019s Katayama sees no gap with BOJ, says wage-driven inflation is near",
-    "H\u1ea3i Ph\u00f2ng: Di\u1ec7n m\u1ea1o c\u1ea7u H\u1ea3i Th\u00e0nh h\u01a1n 2.500 t\u1ef7 \u0111\u1ed3ng tr\u01b0\u1edbc ng\u00e0y h\u1ee3p long"
+    "H\u1ea3i Ph\u00f2ng: Di\u1ec7n m\u1ea1o c\u1ea7u H\u1ea3i Th\u00e0nh h\u01a1n 2.500 t\u1ef7 \u0111\u1ed3ng tr\u01b0\u1edbc ng\u00e0y h\u1ee3p long",
+    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
+    "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price",
+    "Netflix slides as weak profit, ad outlook intensify investor anxiety",
+    "Connecting the dots: How rising government bond yields could hurt your retiremen",
+    "Phan Hi\u1ec3n n\u1ecbnh Kh\u00e1nh Thi c\u1ef1c kh\u00e9o",
+    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t"
   ]
 }
