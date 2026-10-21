@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792590063.774687,
+  "last_signals": 1792590670.995629,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792586545.7221014,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -41,7 +41,6 @@
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
     "5575146754|Gold|4H|dbot": 1792560268.3603444,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
-    "5575146754|Gold|1D|tbot": 1791985450.7187204,
     "5575146754|Gold|1D|dbot": 1792007865.937157,
     "5575146754|Gold|4H|trap_dn": 1792003663.8316255,
     "5575146754|Gold|4H|momo_dn": 1791998261.1367424
@@ -79,13 +78,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -143,15 +142,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792590065.2250462
   },
-  "last_analysis": 1792590055.856899,
-  "last_news": 1792590063.7736614,
+  "last_analysis": 1792590663.0533535,
+  "last_news": 1792590670.9946487,
   "seen_news": [
-    "VPBankS ch\u1ed1t ph\u01b0\u01a1ng \u00e1n chia c\u1ed5 phi\u1ebfu th\u01b0\u1edfng 45%, \u0111\u01b0a v\u1ed1n \u0111i\u1ec1u l\u1ec7 v\u01b0\u1ee3t m\u1ed1c t\u1ef7 USD",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "London Metal Exchange CEO affirms support for use of yuan - TradingView",
-    "Oil prices climb as traders assess Middle East developments",
-    "Burnham vows end to 'rip-off parking charges' under new rules",
-    "Husqvarna swings to Q3 adjusted operating loss on lower sales",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
     "Capital One Financial Q3 2026 Earnings Call Is Live - TradingView",
     "Walmart takes aim at Amazon and Costco with new membership program \u2014 but is it a",
@@ -445,6 +438,12 @@
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Getac Technology Corporation Integrates Veritone Redact Into Getac Video Suite -",
     "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-    "Audit regulator looking into Manchester City accounting"
+    "Audit regulator looking into Manchester City accounting",
+    "SpaceX, Tesla shares rise after Musk says committees exploring possible merger",
+    "Morning Kickstart: Dollar mixed as oil swings on conflicting US-Iran headlines",
+    "N\u1eef sinh qu\u00ea H\u00e0 N\u1ed9i h\u1ecdc chuy\u00ean Amsterdam thi \u0111\u1ed7 tr\u01b0\u1eddng Y, b\u1ea3o l\u01b0u \u0111i h\u00e1t c\u00f3 album",
+    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Gold Slides for Third Straight Session - TradingView",
+    "Pending home sales sink to 25-year low as buyers flee high mortgage rates"
   ]
 }
