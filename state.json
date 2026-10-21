@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792623650.3643491,
+  "last_signals": 1792624260.47188,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792623651.4827156,
+    "Bitcoin|4H:top": 1792624261.5270655,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792623641.3007722,
-  "last_news": 1792623650.2701228,
+  "last_analysis": 1792624251.834857,
+  "last_news": 1792624260.4713042,
   "seen_news": [
-    "Social unrest pressures European markets",
-    "T\u1eeb 1/11, lo\u1ea1t \u0111i\u1ec7n tho\u1ea1i iPhone sau s\u1ebd kh\u00f4ng th\u1ec3 th\u1ef1c hi\u1ec7n giao d\u1ecbch chuy\u1ec3n kho\u1ea3",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Why Baxter (BAX) Stock Is Down Today - TradingView",
-    "Colleges raced to build massive computer-science departments. Now the boom is tu",
-    "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Binance data shows Bitcoin liquidation clusters stacked around $87K - TradingVie",
     "Moderna is about to release the trial results for its cancer vaccine. A lot is r",
@@ -440,6 +434,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "US Crude Oil Inventories Fall More than Expected - TradingView",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Websites taken down worldwide as critical cyber-security update issued"
+    "Websites taken down worldwide as critical cyber-security update issued",
+    "Mattel adds Lee Matheson to board under EdgePoint cooperation deal - TradingView",
+    "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad b",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Just Eat apologises for AI food mistakes after social media ridicule",
+    "Big Oil Eyes Record Profits but Keeps Spending in Check",
+    "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surg"
   ]
 }
