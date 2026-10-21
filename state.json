@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792611264.9581375,
+  "last_signals": 1792611884.7365818,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792609417.7037854,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -78,7 +78,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -126,7 +126,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792611265.1193357,
+    "Gold|4H:bot": 1792611885.0019336,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -139,15 +139,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792610652.2725205
   },
-  "last_analysis": 1792611254.3692992,
-  "last_news": 1792611264.9573493,
+  "last_analysis": 1792611875.4826841,
+  "last_news": 1792611884.7356417,
   "seen_news": [
-    "NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck",
-    "XSMB 21/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 21/10/2026",
-    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo - VietstockFinanc",
-    "DarkIris shares sink on announcing share consolidation - TradingView",
-    "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers",
-    "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
     "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
     "Micron Taiwan unit reaches labor deal with Taichung union - TradingView",
     "Musk says he\u2019s exploring a SpaceX-Tesla megamerger. What would a combined compan",
@@ -441,6 +435,12 @@
     "Zcash jumps after US-Iran deal hopes improve crypto market sentiment. What to wa",
     "Vi\u1ec7t Nam c\u00f3 1 \u201cl\u00e0ng bi\u1ec7t th\u1ef1 Ph\u00e1p\u201d n\u1eb1m \u1edf \u0111\u1ed9 cao 1.555m, m\u00e1t m\u1ebb quanh n\u0103m: T\u1eebng 3",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
-    "Custom Health Holdings Inc. (CHLT) Adds Two C-Suite Executives - TradingView"
+    "Custom Health Holdings Inc. (CHLT) Adds Two C-Suite Executives - TradingView",
+    "Rainmakers: The drones used to seed clouds",
+    "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
+    "Fed could cut balance sheet to $4.5 trillion, paper says",
+    "Crude oil volatility increases amid conflicting reports over US-Iran negotiation",
+    "L\u00e3nh \u0111\u1ea1o Coteccons n\u00f3i g\u00ec khi t\u1ef7 l\u1ec7 ngh\u1ec9 vi\u1ec7c t\u1ea1i CTD t\u0103ng m\u1ea1nh, nh\u00e2n s\u1ef1 \u0111\u01b0\u1ee3c m\u1edd",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance"
   ]
 }
