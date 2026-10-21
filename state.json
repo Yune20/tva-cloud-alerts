@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792569539.2305377,
+  "last_signals": 1792570147.8443873,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792569530.8955886,
-  "last_news": 1792569539.2297285,
+  "last_analysis": 1792570138.3267047,
+  "last_news": 1792570147.8434353,
   "seen_news": [
-    "Dollar and euro drift, yen slips as markets seek direction - TradingView",
-    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl",
-    "Japan exports post huge miss in September as growth slows to 16.7%",
-    "Vinted blocks French looters listing stolen goods for sale",
-    "Dow outperforms as Wall Street rises,\u00a0healthcare stocks lead gains",
-    "European stocks close mostly lower as Middle East headlines drive market swings",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
     "US bans China's DeepSeek from government in race for AI dominance",
     "How Bad Would It Get If China Blocks Rare Earths to America?",
@@ -446,6 +440,12 @@
     "The tech helping crack decades-old cold cases",
     "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
     "Dollar jitters drag on stocks - but one IT name is up 13.9% this month",
-    "More from RBA\u2019s (hawkish) Hauser: Q3 trimmed mean set to run hotter than expecte"
+    "More from RBA\u2019s (hawkish) Hauser: Q3 trimmed mean set to run hotter than expecte",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Key facts: EDEN \u20ac1.22\u20131.26B EBITDA; Italy/Brazil caps; Mobility +10.7% - Trading",
+    "Capital One's strong quarter and progressing Discover integration are rewarded o",
+    "Union attacks NatWest plans to get workers back to the office",
+    "French yields hover near 2002 highs; hotter UK inflation sparks gilt pressure",
+    "European stock market open: Stocks tread cautiously as French bond market keeps "
   ]
 }
