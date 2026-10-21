@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792616513.2138808,
+  "last_signals": 1792617110.3404562,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792615272.3766441,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -77,7 +77,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792616514.5354025,
+    "Bitcoin|4H:top": 1792617110.7815192,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792616513.691133,
+    "Gold|4H:bot": 1792617110.4986532,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -139,14 +139,8 @@
     "GBP/USD|1D:top": 1792616516.0095708
   },
   "last_analysis": 1792616815.0758379,
-  "last_news": 1792616513.2130573,
+  "last_news": 1792617110.2968028,
   "seen_news": [
-    "Nhi\u1ec1u n\u01a1i s\u1eafp xu\u1ea5t hi\u1ec7n m\u01b0a to",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "ALLSPRING AMONG FIRST ASSET MANAGERS TO INTRODUCE ETF SHARE CLASSES - TradingVie",
-    "Investors look to earnings to reset the bull market. The key level to watch on t",
-    "The AI telling farmers when to harvest",
-    "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "CrowdStrike and NVIDIA expand AI agent security from software to silicon - Tradi",
     "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerat",
@@ -440,6 +434,12 @@
     "What is the Budget and what could be in it?",
     "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
     "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
-    "What are the main events for today?"
+    "What are the main events for today?",
+    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
+    "BlackRock\u2019s Rieder sees historic opportunity in high-grade bonds, including hype",
+    "Ng\u00e2n h\u00e0ng t\u01b0 nh\u00e2n \u0111\u1ea7u ti\u00ean c\u00f3 v\u1ed1n ch\u1ee7 s\u1edf h\u1eefu v\u01b0\u1ee3t 200.000 t\u1ef7 \u0111\u1ed3ng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "U.S. readies evacuation of some embassy staff across Gulf region - report - Trad"
   ]
 }
