@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792602893.429832,
+  "last_signals": 1792603521.3802252,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792599032.6984756,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -41,8 +41,7 @@
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
     "5575146754|Gold|4H|dbot": 1792560268.3603444,
     "5575146754|Gold|1D|dbot": 1792007865.937157,
-    "5575146754|Gold|4H|trap_dn": 1792003663.8316255,
-    "5575146754|Gold|4H|momo_dn": 1791998261.1367424
+    "5575146754|Gold|4H|trap_dn": 1792003663.8316255
   },
   "sig_range": {
     "Gold": true,
@@ -80,7 +79,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -141,15 +140,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792599410.5863478
   },
-  "last_analysis": 1792602882.9394605,
-  "last_news": 1792602893.4289205,
+  "last_analysis": 1792603510.2226002,
+  "last_news": 1792603521.379376,
   "seen_news": [
-    "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My",
-    "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-    "Jobless rate falls but small firms cut back hiring",
-    "Global flight activity declines in week 42, Middle East sees sharp drop says Cit",
-    "Silver whipsaws on conflicting US-Iran deal reports as markets hope for breakthr",
-    "Th\u01b0\u1edfng T\u1ebft t\u1eeb th\u00e1ng 11: C\u00f4ng nh\u00e2n \u0111\u1ee1 lo ti\u1ec1n tr\u1ecd, \u0111\u1eb7t v\u00e9 xe v\u1ec1 qu\u00ea",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n tham gia giao th\u00f4ng \u1edf H\u00e0 N\u1ed9i ch\u00fa \u00fd t\u1eeb ng\u00e0y mai",
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
     "Key facts: LEU raises $500M; signs HALEU deals; Needham $206 - TradingView",
@@ -443,6 +436,12 @@
     "Meta and Tesla bulls get confidence boost after SpaceX earnings",
     "Burnham proposes plan to cut standing charges from gas bills",
     "Why Are Rare Earth Stocks Falling When Prices Keep Rising?",
-    "Sterling today: Pound edges up as dollar consolidates"
+    "Sterling today: Pound edges up as dollar consolidates",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "The CAC 40 Index Closes 0.93% Higher - TradingView",
+    "A $50 sports bet costs a young investor hundreds later. Here's how",
+    "US bans China's DeepSeek from government in race for AI dominance",
+    "Reliance\u2019s Ambani meets Marco Rubio in Jamnagar",
+    "European stocks close higher, but French yields hit their highest since 2002"
   ]
 }
