@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792547179.2183928,
+  "last_signals": 1792547800.0644848,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792547179.2183928,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792548057,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792547179.6604216,
+    "Gold|4H:bot": 1792547800.2142434,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792547169.8351305,
-  "last_news": 1792547179.2172322,
+  "last_analysis": 1792547792.2169118,
+  "last_news": 1792547800.0636003,
   "seen_news": [
-    "BOE's Greene keeps banging the hawkish drum, and she\u2019s not alone anymore",
-    "Lo\u1ea1t doanh nghi\u1ec7p l\u1ea1i \u201ckh\u1ea5t\u201d c\u1ed5 t\u1ee9c ti\u1ec1n m\u1eb7t, c\u1ed5 \u0111\u00f4ng ch\u1edd h\u01a1n 10 n\u0103m v\u1eabn ch\u01b0a nh",
-    "\u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinance",
-    "SpaceX Will Report Q3 Earnings Today: What To Expect - TradingView",
-    "Here\u2019s what matters most to Tesla investors heading into earnings",
-    "Traders are betting Netflix's stock drama may be coming to an end",
     "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
     "Dollar steady, euro weakens after French protests turn violent - TradingView",
     "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
@@ -446,6 +440,12 @@
     "DICK'S Sporting's Digital Expansion Strategy to Fuel Growth - TradingView",
     "Australian data center operator NextDC's shares plunge 40% after it slashes earn",
     "UK government to make Jackdaw gas field announcement",
-    "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price"
+    "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price",
+    "Offshore Yuan Hits Fresh 4-Year High - TradingView",
+    "Housing is flashing warning signs just as the Fed weighs more interest rate hike",
+    "'I'm fed up of swiping': The singles choosing dating events over apps",
+    "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
+    "Australian AI data centre operator NextDC shares shed 44% on revenue delay",
+    "Citadel\u2019s Griffin says AI \u201calmost certainly\u201d a bubble, even as demand signals st"
   ]
 }
