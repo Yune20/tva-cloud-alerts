@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792598430.0887218,
+  "last_signals": 1792599032.6984756,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792591894.812079,
+    "5575146754|Gold|1H|range_in": 1792599032.6984756,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
@@ -56,11 +56,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -139,17 +139,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792598431.9073994
+    "GBP/USD|1D:top": 1792599033.7742913
   },
   "last_analysis": 1792598738.530007,
-  "last_news": 1792598430.0089393,
+  "last_news": 1792599032.697588,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Key facts: EDEN \u20ac1.22\u20131.26B EBITDA; Italy/Brazil caps; Mobility +10.7% - Trading",
-    "Capital One's strong quarter and progressing Discover integration are rewarded o",
-    "Union attacks NatWest plans to get workers back to the office",
-    "French yields hover near 2002 highs; hotter UK inflation sparks gilt pressure",
-    "European stock market open: Stocks tread cautiously as French bond market keeps ",
     "Ashtead Technology surges 15% on \u00a3505 mln takeover offer",
     "Chart of the day: Gold price eyes $4,100 support as $4,200 resistance keeps bull",
     "H\u1ee7y d\u1ef1 \u00e1n trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i v\u00e0 logistics h\u01a1n 10.000 t\u1ef7 \u0111\u1ed3ng, nh\u00e0 \u0111\u1ea7u t\u01b0 Trung",
@@ -443,6 +437,12 @@
     "Crude oil inventories show a draw of -3.060M versus estimate of -0.82 million dr",
     "Tin \u0111\u1ed3n t\u00ecnh tr\u01b0\u1eddng g\u00e2y ch\u00fa \u00fd c\u1ee7a ca s\u0129 Chi Pu",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
-    "RBC Capital maintains Outperform rating on Gildan Activewear, $70 price target -"
+    "RBC Capital maintains Outperform rating on Gildan Activewear, $70 price target -",
+    "AUDUSD Technicals: The AUDUSD runs into the 100 day MA and finds willing sellers",
+    "B\u00ean trong b\u1ed3n n\u01b0\u1edbc inox sau nhi\u1ec1u n\u0103m s\u1eed d\u1ee5ng c\u00f3 g\u00ec?",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "YieldMax JP Option Income Strategy ETF announces weekly distribution of $0.0467 ",
+    "Polymarket traders see a 10% chance the AI bubble bursts before New Year\u2019s Day",
+    "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up"
   ]
 }
