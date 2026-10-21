@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792614653.5098448,
+  "last_signals": 1792615272.3766441,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792613117.1915884,
+    "5575146754|Gold|1H|range_in": 1792615272.3766441,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792610649.8655016,
-    "5575146754|Gold|4H|dbot": 1792611264.9581375
+    "5575146754|Gold|4H|dbot": 1792615272.3766441
   },
   "sig_range": {
     "Gold": true,
@@ -53,7 +53,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792614653.929542,
+    "Gold|4H:bot": 1792615272.7648275,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792610652.2725205
   },
-  "last_analysis": 1792614641.877887,
-  "last_news": 1792614653.5088098,
+  "last_analysis": 1792615260.6871042,
+  "last_news": 1792615272.337509,
   "seen_news": [
-    "Pine Tree Acquisition Corp. Sets Separate Trading of Shares and Rights - Trading",
-    "Heckler disrupts Nvidia CEO Huang\u2019s speech at Berlin conference",
-    "Tokenized stock trading takes off overseas as Goldman, other U.S. companies obje",
-    "What is the Budget and what could be in it?",
-    "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
-    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
     "Markets end lower as oil gains and earnings weigh on markets - TradingView",
     "Investors are questioning neoclouds' business model but Nebius says AI computing",
     "Bereaved families could face 'unjust' tax bill after civil service pension delay",
@@ -440,6 +434,12 @@
     "SpaceX\u2019s massive AI targets will test the limits of reality",
     "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul ",
     "Civil servant admits he 'made mistakes' juggling five government jobs",
-    "Nasdaq surges 1% as tech lifted by SpaceX, Tesla on Musk\u2019s hint at possible merg"
+    "Nasdaq surges 1% as tech lifted by SpaceX, Tesla on Musk\u2019s hint at possible merg",
+    "US State Department is to prepared to issue a order departure at US embassies in",
+    "V\u00ec sao h\u1ed9 kinh doanh, ng\u01b0\u1eddi d\u00e2n ph\u1ea3i c\u1ea3nh gi\u00e1c tr\u01b0\u1edbc bi\u00ean lai chuy\u1ec3n ti\u1ec1n x\u00e1c nh",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "SEI Investments Company (SEIC) Q3 EPS Up 6% YoY; Adds $800M to Buyback - Trading",
+    "Trump says data centers should generate their own electricity \u2014 but experts say ",
+    "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' trac"
   ]
 }
