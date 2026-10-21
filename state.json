@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792596215.819924,
+  "last_signals": 1792596817.2493923,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792591894.812079,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -56,10 +56,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|1H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -71,7 +71,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -80,7 +80,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -142,14 +142,8 @@
     "GBP/USD|1D:top": 1792596217.7490869
   },
   "last_analysis": 1792596518.9191957,
-  "last_news": 1792596215.8187354,
+  "last_news": 1792596817.2488105,
   "seen_news": [
-    "Key facts: SMCI raises Q1 guide; FY2026 $39.1B; diversion probe - TradingView",
-    "Why SpaceX\u2019s stock is surging \u2014\u00a0and lifting the broader AI universe along with i",
-    "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one ",
-    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
-    "Dollar hovers near 3-wk low as volatile oil prices weigh, rupee extends rally",
     "Raymond James Names Top 3 Picks in Beauty Stocks",
     "Goldman Sachs says 6% nominal growth, not 5% yields, is what matters for small c",
     "LPBank ghi nh\u1eadn LNTT 10.421 t\u1ef7 \u0111\u1ed3ng trong 9 th\u00e1ng, ho\u00e0n th\u00e0nh 70% k\u1ebf ho\u1ea1ch c\u1ea3 n\u0103",
@@ -443,6 +437,12 @@
     "Why are more roofs not made of solar tiles?",
     "United Airlines sees elevated fuel costs through 2027, flags margin challenges",
     "USDCAD Technicals: The USDCAD pair pushes higher off of 100 day MA support. What",
-    "9 ngh\u1ec7 s\u0129 b\u1ecb tuy\u00ean \u00e1n"
+    "9 ngh\u1ec7 s\u0129 b\u1ecb tuy\u00ean \u00e1n",
+    "N\u1eef ca s\u0129 \u0111\u1ea7u t\u01b0 th\u1ef1c hi\u1ec7n MV l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb ca Hu\u1ebf, t\u00f4n vinh v\u1ebb \u0111\u1eb9p c\u1ed1 \u0111\u00f4 qua l",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "REG - UBS Asset Management Prologis, Inc. - Form 8.3 Prologis Inc - TradingView",
+    "AI stocks are probably in a bubble \u2014 but might be worth holding on to, says Cita",
+    "EBay to lay off 9% of workforce in its second round of job cuts this year",
+    "How the oil capital of the US welcomed a solar power boom"
   ]
 }
