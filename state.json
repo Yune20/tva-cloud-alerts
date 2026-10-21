@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792556535.2321715,
+  "last_signals": 1792557157.7508163,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792554079.5810323,
+    "5575146754|Gold|1H|range_in": 1792557157.7508163,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,13 +59,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792556535.3996117,
+    "Gold|4H:bot": 1792557158.0117216,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792556526.7271497,
-  "last_news": 1792556535.2312346,
+  "last_analysis": 1792557147.0413597,
+  "last_news": 1792557157.7498074,
   "seen_news": [
-    "First Tick: Top global cues to watch in today's trade - TradingView",
-    "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
-    "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51",
-    "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-    "API: Crude, Products Continue to Draw",
-    "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 1.02%",
     "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says cert",
     "Audit regulator looking into Manchester City accounting",
     "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
@@ -446,6 +440,12 @@
     "Gi\u00e1 v\u00e0ng li\u00ean t\u1ee5c s\u1ee5t gi\u1ea3m, lo\u1ea1t qu\u1ef9 l\u1edbn tranh th\u1ee7 \"gom h\u00e0ng\"",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "Saniona (SANION) Files FDA IND For SAN2465 In MDD - TradingView",
-    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de"
+    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
+    "\u00d4ng ch\u1ee7 California Fitness \u0111\u1ebfn t\u1eebng ph\u00f2ng t\u1eadp ch\u1eafp tay xin l\u1ed7i kh\u00e1ch h\u00e0ng",
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
+    "Powering Up: Applied Digital Execs Buy $6.7M in Stock - TradingView",
+    "Investors look to earnings to reset the bull market. The key level to watch on t",
+    "Living with a stink? Technology might help",
+    "Why is SK Hynix stock surging today?"
   ]
 }
