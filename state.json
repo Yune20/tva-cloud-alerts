@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792597802.7505708,
+  "last_signals": 1792598430.0887218,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792591894.812079,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,7 +80,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -139,17 +139,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792597804.4455948
+    "GBP/USD|1D:top": 1792598431.9073994
   },
-  "last_analysis": 1792597791.6537385,
-  "last_news": 1792597802.6932201,
+  "last_analysis": 1792598418.6108842,
+  "last_news": 1792598430.0089393,
   "seen_news": [
-    "Belk, Inc. Closes $1.275B ABL and FILO Financing - TradingView",
-    "France to deploy military as it braces for fresh unrest this weekend",
-    "The tech helping crack decades-old cold cases",
-    "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
-    "Dollar jitters drag on stocks - but one IT name is up 13.9% this month",
-    "More from RBA\u2019s (hawkish) Hauser: Q3 trimmed mean set to run hotter than expecte",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Key facts: EDEN \u20ac1.22\u20131.26B EBITDA; Italy/Brazil caps; Mobility +10.7% - Trading",
     "Capital One's strong quarter and progressing Discover integration are rewarded o",
@@ -443,6 +437,12 @@
     "BFIT: Revenue and memberships grew strongly; FY guidance was reaffirmed - Tradin",
     "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behin",
     "Spain battles climate change on several fronts",
-    "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar"
+    "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
+    "UK Greenlights Major North Sea Gas Field After Years of Legal Battles",
+    "Getty Images files for US bankruptcy, advances restructuring plan",
+    "Crude oil inventories show a draw of -3.060M versus estimate of -0.82 million dr",
+    "Tin \u0111\u1ed3n t\u00ecnh tr\u01b0\u1eddng g\u00e2y ch\u00fa \u00fd c\u1ee7a ca s\u0129 Chi Pu",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "RBC Capital maintains Outperform rating on Gildan Activewear, $70 price target -"
   ]
 }
