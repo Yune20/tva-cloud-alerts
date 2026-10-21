@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792575494.4081495,
+  "last_signals": 1792576112.2606976,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792575483.0203402,
-  "last_news": 1792575494.4072397,
+  "last_analysis": 1792576101.0496414,
+  "last_news": 1792576112.2597857,
   "seen_news": [
-    "What\u2019s the likelihood of Yen carry trade reversing?",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6779 \u2013 Reuters estimate",
-    "Ti\u1ebfn \u0111\u1ed9 GPMB d\u1ef1 \u00e1n \u0111\u01b0\u1eddng V\u00e0nh \u0111ai 3 s\u1ebd s\u1edbm v\u1ec1 \u0111\u00edch",
-    "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
-    "Mercedes-Benz Group AG (MBG) Buys Back 579,764 Shares - TradingView",
-    "Walmart launches joint membership with Sam's Club as it leans into delivery, gas",
     "FPT c\u00f4ng b\u1ed1 k\u1ebft qu\u1ea3 kinh doanh 9 th\u00e1ng, m\u1ed9t m\u1ea3ng t\u0103ng tr\u01b0\u1edfng t\u1edbi 55%",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH | VietstockFinance - VietstockF",
     "DICK'S Sporting's Digital Expansion Strategy to Fuel Growth - TradingView",
@@ -446,6 +440,12 @@
     "Vi\u1ec7t Nam c\u00f3 lo\u1ea1i c\u00e2y qu\u1ea3 ch\u00edn m\u1ecdng, nhi\u1ec1u ng\u01b0\u1eddi \u0103n t\u1eeb b\u00e9 nh\u01b0ng H\u00e0 N\u1ed9i l\u1ea1i c\u1ea5m tr",
     "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
     "Randstad Q3 2026 Earnings Call Is Live - TradingView",
-    "French supermarket giant's shares plunge 14% after warning \u2018unprecedented\u2019 unres"
+    "French supermarket giant's shares plunge 14% after warning \u2018unprecedented\u2019 unres",
+    "C\u1ea7u \u0111i b\u1ed9 h\u00ecnh l\u00e1 d\u1eeba qua s\u00f4ng S\u00e0i G\u00f2n h\u1ee3p long th\u00e0nh c\u00f4ng sau 8 gi\u1edd thi c\u00f4ng",
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Byline Bancorp (BY) Reports Earnings Tomorrow: What To Expect - TradingView",
+    "This Janus Henderson fund manager owns CoreWeave debt \u2014 here's why he's sticking",
+    "Inflation and government borrowing highest for a year ahead of next week's Budge",
+    "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar"
   ]
 }
