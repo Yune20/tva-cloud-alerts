@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792568925.996743,
+  "last_signals": 1792569539.2305377,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792568916.725917,
-  "last_news": 1792568925.996066,
+  "last_analysis": 1792569530.8955886,
+  "last_news": 1792569539.2297285,
   "seen_news": [
-    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam Nguy\u1ec5n Duy Ti\u1ebfn SN 1981",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
-    "US Crude Inventories Fall More Than Expected - TradingView",
-    "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-    "The start-ups hoping to return battery making to the US",
-    "US and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in",
     "Dollar and euro drift, yen slips as markets seek direction - TradingView",
     "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl",
     "Japan exports post huge miss in September as growth slows to 16.7%",
@@ -446,6 +440,12 @@
     "Terveystalo Q3 2026 Earnings Call Is Live - TradingView",
     "AI's spending boom faces a 'gut check': Who can actually make money?",
     "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-    "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels"
+    "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
+    "Belk, Inc. Closes $1.275B ABL and FILO Financing - TradingView",
+    "France to deploy military as it braces for fresh unrest this weekend",
+    "The tech helping crack decades-old cold cases",
+    "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
+    "Dollar jitters drag on stocks - but one IT name is up 13.9% this month",
+    "More from RBA\u2019s (hawkish) Hauser: Q3 trimmed mean set to run hotter than expecte"
   ]
 }
