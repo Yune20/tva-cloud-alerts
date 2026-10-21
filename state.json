@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792548422.0787933,
+  "last_signals": 1792549039.2923484,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792547179.2183928,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,16 +59,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792548412.6388245,
-  "last_news": 1792548422.0780106,
+  "last_analysis": 1792549030.6219597,
+  "last_news": 1792549039.2911453,
   "seen_news": [
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
-    "DarkIris shares sink on announcing share consolidation - TradingView",
-    "To get a reply when reaching out to people, make 1 simple change, says LinkedIn ",
-    "Musk and Anthropic pledge public share giveaways",
-    "SpaceX investors, ahead of results, press Musk on Tesla merger",
-    "The Indian Rupee's sharp rebound following RBI intervention may prove temporary ",
     "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
     "Casella Waste Systems shares gain after Jana Partners discloses stake",
     "Solana remains under pressure as macro and geopolitical headwinds overshadow Alp",
@@ -446,6 +440,12 @@
     "HDB: Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HDBank | VietstockFinance",
     "Gold's Sharp Pullback Sparks Unexpected Wall Street Verdict - TradingView",
     "Traders are betting Netflix's stock drama may be coming to an end",
-    "X-planes: Are they needed in the new era of drones?"
+    "X-planes: Are they needed in the new era of drones?",
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo | VietstockFinanc",
+    "Fidelity identifies preferred stocks as a demand catalyst for Bitcoin - TradingV",
+    "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
+    "Google resolves cloud outage affecting UK banks and websites",
+    "Explainer-Why would Musk merge SpaceX and Tesla?",
+    "PBOC sets USD/ CNY mid-point today at 6.7192 (vs. estimate at 6.6779)"
   ]
 }
