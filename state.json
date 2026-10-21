@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792570767.6131082,
+  "last_signals": 1792571383.780688,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792570757.7316208,
-  "last_news": 1792570767.6122038,
+  "last_analysis": 1792571373.2419114,
+  "last_news": 1792571383.7797518,
   "seen_news": [
-    "Russia\u2019s Oil Export Revenue Slides as Production Declines",
-    "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
-    "SpaceX\u2019s Musk says Tesla merger good idea but far from certain, needs 50% of Tes",
-    "T\u0103ng t\u1ed1c d\u1ef1 \u00e1n m\u1edf r\u1ed9ng Qu\u1ed1c l\u1ed9 6 h\u01a1n 9.500 t\u1ef7 \u0111\u1ed3ng",
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Key facts: CRYPTO:ZECUSD open interest down ~30%; downside to $888 - TradingView",
     "UBS flags 3 tests for the AI trade as Meta kicks off mega-cap tech earnings",
     "C\u00f4ng an \u0111ang \u0111i\u1ec1u tra t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng s\u1ed1 d\u01b0 h\u01a1n 2 t\u1ef7 \u0111\u1ed3ng: Ng\u01b0\u1eddi d\u00e2n tr\u00ecnh b",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
@@ -446,6 +440,12 @@
     "H\u1ee7y d\u1ef1 \u00e1n trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i v\u00e0 logistics h\u01a1n 10.000 t\u1ef7 \u0111\u1ed3ng, nh\u00e0 \u0111\u1ea7u t\u01b0 Trung",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "The CAC 40 Index Opens 0.37% Higher - TradingView",
-    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl"
+    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl",
+    "Vi\u1ec7t Nam quy ho\u1ea1ch 15 \u0111\u1ea3o nh\u1ecf r\u1ed9ng h\u01a1n 577ha t\u1ea1i qu\u1ea7n \u0111\u1ea3o Nam An Th\u1edbi l\u00e0m khu du",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
+    "REG - Concurrent Tech. Canaccord GenuityGrp - Holding(s) in Company - TradingVie",
+    "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+    "Vinted blocks French looters listing stolen goods for sale",
+    "How Bad Would It Get If China Blocks Rare Earths to America?"
   ]
 }
