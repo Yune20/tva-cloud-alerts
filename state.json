@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792554703.0740688,
+  "last_signals": 1792555315.5661697,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792554079.5810323,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
-    "5575146754|Gold|4H|dbot": 1792551587.6167932,
+    "5575146754|Gold|4H|dbot": 1792555315.5661697,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
@@ -64,7 +64,7 @@
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792554703.2428472,
+    "Gold|4H:bot": 1792555316.0772638,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792554690.9676135,
-  "last_news": 1792554703.0731647,
+  "last_analysis": 1792555304.023677,
+  "last_news": 1792555315.565235,
   "seen_news": [
-    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank | VietstockFinance - VietstockFinance",
-    "Stock futures rebound as oil nears $110, AI earnings loom - TradingView",
-    "The Social Security Administration corrected millions of records, and says there",
-    "Netflix posts third-quarter earnings beat, but shares fall on advertising and re",
-    "Faisal Islam: Why China and AI are worrying global finance bosses",
-    "United Airlines forecasts fourth-quarter profit below estimates as fuel costs bi",
     "Living with a stink? Technology might help",
     "US envoy Witkoff to meet Russians, Trump presses Kyiv to settle",
     "USDCHF consolidates after sharp fall. Traders wait for the next shove.",
@@ -446,6 +440,12 @@
     "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
     "Spain battles climate change on several fronts",
     "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
-    "Short-end U.S. yields edge up\u00a0as investors digest French unrest"
+    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "Dios Exploration Inc. (DOS) Plans Up To $600K Placement - TradingView",
+    "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep b",
+    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
+    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
+    "Trump: Ukraine has to want to settle this war, if not it's going to be a very ba"
   ]
 }
