@@ -29,12 +29,12 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792582312.2725506,
+  "last_signals": 1792582919.4676528,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792579236.3548167,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
-    "5575146754|Gold|4H|range_in": 1792488469.0239987,
+    "5575146754|Gold|4H|range_in": 1792582919.4676528,
     "5575146754|Gold|1H|trap_dn": 1792469420.8669856,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
@@ -60,7 +60,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792583183,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792581701.586683,
+    "Bitcoin|4H:top": 1792582920.0417805,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792582301.2406769,
-  "last_news": 1792582312.2716775,
+  "last_analysis": 1792582911.5706952,
+  "last_news": 1792582919.4667535,
   "seen_news": [
-    "C\u1ea3nh t\u01b0\u1ee3ng kh\u00f4ng ng\u1edd l\u00fac n\u1eeda \u0111\u00eam tr\u01b0\u1edbc c\u1eeda ng\u00f4i nh\u00e0 c\u00f3 b\u00e0 b\u1ea7u chu\u1ea9n b\u1ecb \u0111i sinh, ",
-    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
-    "3 Reasons Investors Love BWX (BWXT) - TradingView",
-    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
-    "What is the Budget and what could be in it?",
-    "Woodside Energy cuts 2026 production forecast; Q3 revenue rises",
     "RingCentral (RNG) Reports Earnings Tomorrow: What To Expect - TradingView",
     "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
     "Trump sued over Canadian tariffs in latest legal challenge",
@@ -446,6 +440,12 @@
     "Crude oil volatility increases amid conflicting reports over US-Iran negotiation",
     "4 ng\u01b0\u1eddi con c\u00f9ng mang t\u00ean Nguy\u00ean c\u1ee7a \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 v\u00e0 b\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7p T",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
-    "REG - Squarepoint Ops LLC Rotork PLC - Form 8.3 - Rotork PLC - TradingView"
+    "REG - Squarepoint Ops LLC Rotork PLC - Form 8.3 - Rotork PLC - TradingView",
+    "NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck",
+    "XSMB 21/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 21/10/2026",
+    "DPM: T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - CTCP - PVFCCo - VietstockFinanc",
+    "DarkIris shares sink on announcing share consolidation - TradingView",
+    "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers",
+    "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck"
   ]
 }
