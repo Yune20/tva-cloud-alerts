@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792626166.3639262,
+  "last_signals": 1792626772.264859,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,7 +63,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792626167.4216666,
+    "Bitcoin|4H:top": 1792626772.766416,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792626157.752802,
-  "last_news": 1792626166.363265,
+  "last_analysis": 1792626762.3534677,
+  "last_news": 1792626772.1914232,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
-    "News by CNBC TV18 on TradingView, 2026-10-21 \u2014 cnbctv:ab6e7a6d4094b:0 - TradingV",
-    "Why SpaceX\u2019s stock is surging \u2014\u00a0and lifting the broader AI universe along with i",
-    "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel",
-    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "India\u2019s Top State Refiner to Reduce Middle East Term Oil Purchases",
     "S\u1ebfp h\u1ecfi \u201cEm c\u00f3 th\u1ec3 nh\u1eadn th\u00eam vi\u1ec7c kh\u00f4ng?\u201d, 3 c\u00e1ch t\u1eeb ch\u1ed1i t\u01b0\u1edfng m\u1ea5t l\u00f2ng nh\u01b0ng t",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
     "BFIT: Revenue and memberships grew strongly; FY guidance was reaffirmed - Tradin",
@@ -440,6 +434,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "BRIEF-Peoples Bank of Commerce Q3 EPS USD 0.52 - TradingView",
     "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
-    "The political ad wars are still being fought over the airwaves even as digital g"
+    "The political ad wars are still being fought over the airwaves even as digital g",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Lemonade, Inc. (LMND) Launches Renters Insurance in Alabama - TradingView",
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
+    "EBay to lay off 9% of workforce in its second round of job cuts this year",
+    "The \"trillion pound\" oil fund the government believes Britain could have built",
+    "Comcast planning significant jobs cuts, Bloomberg News reports"
   ]
 }
