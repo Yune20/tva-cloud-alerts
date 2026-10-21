@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792610032.975229,
+  "last_signals": 1792610649.8655016,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792609417.7037854,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -38,7 +38,7 @@
     "5575146754|Gold|1H|trap_dn": 1792469420.8669856,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
-    "5575146754|Gold|4H|tbot": 1792542582.1911855,
+    "5575146754|Gold|4H|tbot": 1792610649.8655016,
     "5575146754|Gold|4H|dbot": 1792560268.3603444,
     "5575146754|Gold|1D|dbot": 1792007865.937157
   },
@@ -54,13 +54,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -72,7 +72,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -126,7 +126,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792561485.0299656,
+    "Gold|4H:bot": 1792610650.2155716,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -137,17 +137,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792610035.2158668
+    "GBP/USD|1D:top": 1792610652.2725205
   },
-  "last_analysis": 1792610022.5968146,
-  "last_news": 1792610032.9742024,
+  "last_analysis": 1792610640.9194818,
+  "last_news": 1792610649.864585,
   "seen_news": [
-    "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
-    "Rainmakers: The drones used to seed clouds",
-    "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
-    "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat",
-    "Zcash jumps after US-Iran deal hopes improve crypto market sentiment. What to wa",
-    "\u0110\u1ed9ng th\u00e1i g\u00e2y ch\u00fa \u00fd c\u1ee7a Ch\u1ee7 t\u1ecbch Coteccons",
     "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
     "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
     "Crude oil volatility increases amid conflicting reports over US-Iran negotiation",
@@ -441,6 +435,12 @@
     "House committee says Webull messages point to China access to U.S. customer data",
     "Bikes 'not for jousting,' says Lime after duel video",
     "Russia\u2019s Northern Sea Route Workaround Supplying Asian Buyers",
-    "Why is Teledyne Technologies stock slipping today?"
+    "Why is Teledyne Technologies stock slipping today?",
+    "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these le",
+    "Mortgage rates drop for the first time in 2 months, but demand still falls furth",
+    "Home sellers cut asking prices on 3,000 properties a day",
+    "India\u2019s 10-year bond yield climbs above 7.45% to multi-year high",
+    "NZDUSD Technicals: The NZDUSD is stretching to a new high since September 23.",
+    "24 \"c\u00e1 m\u1eadp\" \u0111\u00e3 \u00e2m th\u1ea7m l\u00e0m \u0111i\u1ec1u n\u00e0y tr\u01b0\u1edbc nh\u1ecbp t\u0103ng 47 \u0111i\u1ec3m c\u1ee7a VN-Index"
   ]
 }
