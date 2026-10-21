@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792573234.509461,
+  "last_signals": 1792573857.1066375,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792573224.0052545,
-  "last_news": 1792573234.508531,
+  "last_analysis": 1792573845.3141968,
+  "last_news": 1792573857.1058104,
   "seen_news": [
-    "Jobless rate falls but small firms cut back hiring",
-    "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field",
-    "NextDC shares plunge 42% to a near nine-year low after outlook cut",
-    "Iran and US talks continue.  Reports that a deal is close are wrong",
-    "T\u00fai hi\u1ec7u Louis Vuitton, Herm\u00e8s... ng\u1eadp tr\u00e0n, m\u1ef9 ph\u1ea9m high-end g\u00f3i theo \"bao\" \u0111\u01b0\u1ee3",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 109,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "USDCAD Technicals: The USDCAD has been trending lower since last Wednesday peak.",
     "B\u1ee9c \u1ea3nh c\u00f3 th\u1ec3 khi\u1ebfn t\u00e0i kho\u1ea3n Zalo b\u1ecb kh\u00f3a v\u0129nh vi\u1ec5n",
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
@@ -446,6 +440,12 @@
     "B\u00c1O C\u00c1O - VietstockFinance",
     "Dollar and euro drift, yen slips as markets seek direction - TradingView",
     "AI stocks are probably in a bubble \u2014 but might be worth holding onto, says Citad",
-    "Treasury yields steady as investors await jobless claims, mortgage data"
+    "Treasury yields steady as investors await jobless claims, mortgage data",
+    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
+    "Title Resources Group Appoints Robert Greenbaum EVP - TradingView",
+    "George Foreman\u2019s lavish Texas estate with 50-car garage is listed for $6 million",
+    "Trump sued over 50% tariffs on Canada in latest trade challenge",
+    "US bans China's DeepSeek from government in race for AI dominance",
+    "Sterling today: Pound edges up as dollar consolidates"
   ]
 }
