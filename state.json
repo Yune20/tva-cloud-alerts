@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792542582.1911855,
+  "last_signals": 1792543190.8491287,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
-    "5575146754|Gold|4H|dbot": 1792510660.6427407,
+    "5575146754|Gold|4H|dbot": 1792543190.8491287,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
@@ -81,14 +81,14 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|4H": true,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|4H": true,
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792543454,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792542582.3500166,
+    "Gold|4H:bot": 1792543191.0090704,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792542571.205777,
-  "last_news": 1792542579.6657357,
+  "last_analysis": 1792543184.7697833,
+  "last_news": 1792543190.8480573,
   "seen_news": [
-    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
-    "Lemonade, Inc. (LMND) Launches Renters Insurance in Alabama - TradingView",
-    "It\u2019s not just California\u2019s billionaire tax. Wealth is on the ballot in the midte",
-    "What Amazon must do to get its stumbling stock back to record highs and beyond",
-    "Jobless rate falls but small firms cut back hiring",
-    "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field",
     "Arabica Coffee Futures at Near 2-Month High - TradingView",
     "Copper is outshining gold this year. Investors say the rally can survive an AI c",
     "Microsoft pulls out of UK's largest AI data centre",
@@ -446,6 +440,12 @@
     "Latest Financial and Investing News from TradingView - TradingView",
     "Oil prices fall as traders hope for diplomatic progress in Middle East",
     "Bikes 'not for jousting,' says Lime after duel video",
-    "The Next Major Oil Supply Shock Could Come From Saudi Arabia"
+    "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
+    "Yen jumps after JGB auction draws big demand, euro finds relief - TradingView",
+    "Trump sued over 50% tariffs on Canada in latest trade challenge",
+    "Home sellers cut asking prices on 3,000 properties a day",
+    "Sterling today: Pound edges up as dollar consolidates",
+    "Super Micro shares jump 14% as preliminary revenue tops forecast by about $4 bil",
+    "V\u00ec sao H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng lo\u00e0i c\u00e2y mang t\u00ean d\u01b0\u1ee3c li\u1ec7u quen thu\u1ed9c v\u1edbi nhi\u1ec1u ng\u01b0\u1eddi V"
   ]
 }
