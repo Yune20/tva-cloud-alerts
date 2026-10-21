@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792570435.9469712,
-  "last_bot4": 1792573522.8068979,
+  "last_bot4": 1792574216.7212105,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792572903.8943543
+    "Gold": 1792574216.7211127
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792573857.1066375,
+  "last_signals": 1792574216.7234042,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792573845.3141968,
-  "last_news": 1792573857.1058104,
+  "last_analysis": 1792574201.5113907,
+  "last_news": 1792574213.6598532,
   "seen_news": [
-    "USDCAD Technicals: The USDCAD has been trending lower since last Wednesday peak.",
-    "B\u1ee9c \u1ea3nh c\u00f3 th\u1ec3 khi\u1ebfn t\u00e0i kho\u1ea3n Zalo b\u1ecb kh\u00f3a v\u0129nh vi\u1ec5n",
-    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
-    "What's Going On With Cerebras Stock on Monday? - TradingView",
-    "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year g",
-    "Microsoft pulls out of UK's largest AI data centre",
     "Vi\u1ec7t Nam s\u1edf h\u1eefu \"k\u1ef3 quan\" trong l\u00f2ng n\u00fai: Kho\u00e9t 600m \u0111\u00e1, \u0111\u1eb7t t\u1ed5 h\u1ee3p c\u00f4ng ngh\u1ec7 ph",
     "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Lemonade, Inc. (LMND) Launches Renters Insurance in Alabama - TradingView",
@@ -446,6 +440,12 @@
     "George Foreman\u2019s lavish Texas estate with 50-car garage is listed for $6 million",
     "Trump sued over 50% tariffs on Canada in latest trade challenge",
     "US bans China's DeepSeek from government in race for AI dominance",
-    "Sterling today: Pound edges up as dollar consolidates"
+    "Sterling today: Pound edges up as dollar consolidates",
+    "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field",
+    "Why is Intuitive Surgical stock tumbling today?",
+    "Macro pulse: Is the BOJ about to raise interest rates at the worst possible time",
+    "Sau cu\u1ed9c g\u1ecdi y\u00eau c\u1ea7u chuy\u1ec3n kho\u1ea3n 57 tri\u1ec7u \u0111\u1ed3ng \u0111\u1ec3 \u0111\u01b0\u1ee3c tr\u1ea3 l\u1ea1i 114 tri\u1ec7u, ng\u01b0\u1eddi",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "Pound at One-Month High on Strong Data - TradingView"
   ]
 }
