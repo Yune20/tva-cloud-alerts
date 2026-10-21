@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792557157.7508163,
+  "last_signals": 1792557763.809859,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792557157.7508163,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,14 +59,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792557158.0117216,
+    "Gold|4H:bot": 1792557763.977291,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792557147.0413597,
-  "last_news": 1792557157.7498074,
+  "last_analysis": 1792557755.8902192,
+  "last_news": 1792557763.8088055,
   "seen_news": [
-    "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says cert",
-    "Audit regulator looking into Manchester City accounting",
-    "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
-    "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unre",
-    "Oil: Private survey of inventory shows a huge headline crude oil draw, greater t",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang n\u01b0\u1edbc \u0111\u00f4ng d\u00e2n nh\u1ea5t th\u1ebf gi\u1edbi l\u00e0m lo\u1ea1t d\u1ef1 \u00e1n 9,5 t\u1ef7 US",
     "How long will humans be needed for translation?",
     "API: Crude, Product Inventories Continue to Draw",
     "Why is Capital One Financial up around 5% today?",
@@ -446,6 +440,12 @@
     "Powering Up: Applied Digital Execs Buy $6.7M in Stock - TradingView",
     "Investors look to earnings to reset the bull market. The key level to watch on t",
     "Living with a stink? Technology might help",
-    "Why is SK Hynix stock surging today?"
+    "Why is SK Hynix stock surging today?",
+    "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
+    "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51",
+    "Why does Elon Musk want to merge Tesla and SpaceX?",
+    "Gift Nifty 50 V-shaped recovery hits 23,195 resistance: Live",
+    "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i",
+    "LPS \u0111\u1ea1t g\u1ea7n 895 t\u1ef7 \u0111\u1ed3ng l\u1ee3i nhu\u1eadn tr\u01b0\u1edbc thu\u1ebf trong 9 th\u00e1ng, b\u00e1m s\u00e1t k\u1ebf ho\u1ea1ch n\u0103m"
   ]
 }
