@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792559594.7052824,
-  "last_bot4": 1792559296.347056,
+  "last_bot4": 1792560268.3596056,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792559296.3469653
+    "Gold": 1792560268.3595006
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792559594.7062633,
+  "last_signals": 1792560268.3603444,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792557157.7508163,
+    "5575146754|Gold|1H|range_in": 1792560268.3603444,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
-    "5575146754|Gold|4H|dbot": 1792555315.5661697,
+    "5575146754|Gold|4H|dbot": 1792560268.3603444,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
@@ -59,13 +59,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792557763.977291,
+    "Gold|4H:bot": 1792560268.5190718,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792559894.820509,
-  "last_news": 1792559587.7422154,
+  "last_analysis": 1792560258.131224,
+  "last_news": 1792560265.3551798,
   "seen_news": [
-    "Why is Intuitive Surgical stock sliding today?",
-    "US stock market close: Russell 2000 jumps but the Nasdaq finishes flat",
-    "H\u01a1n 283.000 ca b\u1ec7nh h\u00f4 h\u1ea5p: V\u00ec sao Indonesia v\u1eabn ch\u01b0a c\u00f4ng b\u1ed1 th\u1ea3m h\u1ecda qu\u1ed1c gia?",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Capital One Financial Q3 2026 Earnings Call Is Live - TradingView",
-    "September data shows housing market in a deep freeze",
     "4 ng\u01b0\u1eddi gi\u00fap vi\u1ec7c l\u1ea7n l\u01b0\u1ee3t ngh\u1ec9 sau n\u1eeda th\u00e1ng, t\u00f4i v\u00e0 ch\u1ed3ng \u0111\u1ec1u th\u1ea5y ng\u1ea1c nhi\u00ean ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
@@ -446,6 +440,12 @@
     "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says cert",
     "Audit regulator looking into Manchester City accounting",
     "Oil Prices Climb Above $110 as Middle East Supply Fears Persist",
-    "OPmobility\u2019s third-quarter revenue rises amid reorganization"
+    "OPmobility\u2019s third-quarter revenue rises amid reorganization",
+    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
+    "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+    "API: Crude, Product Inventories Continue to Draw",
+    "SK Hynix stuck in downtrend near key resistance: Live levels",
+    "BOJ policymaker Himino warns of upside inflation risks as Japan nears 2% target",
+    "T\u00e1i thi\u1ebft \u0111\u00f4 th\u1ecb V\u0129nh H\u01b0ng: C\u1ea7n t\u00ednh s\u1eb5n sinh k\u1ebf cho ng\u01b0\u1eddi d\u00e2n"
   ]
 }
