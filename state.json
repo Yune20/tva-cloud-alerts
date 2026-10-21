@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792549039.2923484,
+  "last_signals": 1792549655.3011825,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792547179.2183928,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792549030.6219597,
-  "last_news": 1792549039.2911453,
+  "last_analysis": 1792549645.3012693,
+  "last_news": 1792549655.300278,
   "seen_news": [
-    "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
-    "Casella Waste Systems shares gain after Jana Partners discloses stake",
-    "Solana remains under pressure as macro and geopolitical headwinds overshadow Alp",
-    "G\u1ea7n 2,3 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng v\u1edbi lo\u1ea1t si\u00eau d\u1ef1 \u00e1n l\u00e0m thay \u0111\u1ed5i Th\u1ee7 \u0111\u00f4: Vingroup, Sun Gro",
-    "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER | VietstockFinance",
-    "Coeur d'Alene Bancorp Announces Its Third Quarter 2026 Results - TradingView",
     "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
     "\u0110\u00fang h\u00f4m nay 21/10, ch\u00ednh th\u1ee9c h\u1ee3p long c\u00e2y c\u1ea7u ngh\u00ecn t\u1ef7 \u201ckh\u00f3 l\u00e0m v\u00e0 ch\u01b0a t\u1eebng c",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC | VietstockFinance - VietstockFinance",
@@ -446,6 +440,12 @@
     "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
     "Google resolves cloud outage affecting UK banks and websites",
     "Explainer-Why would Musk merge SpaceX and Tesla?",
-    "PBOC sets USD/ CNY mid-point today at 6.7192 (vs. estimate at 6.6779)"
+    "PBOC sets USD/ CNY mid-point today at 6.7192 (vs. estimate at 6.6779)",
+    "To get a reply when reaching out to people, make 1 simple change, says LinkedIn ",
+    "Musk and Anthropic pledge public share giveaways",
+    "Musk ordered slowdown of Starlink in Ukraine, WSJ reports",
+    "Finland President Stubb offers some optimism for Russia-Ukraine peace",
+    "\u0110\u1ea1i l\u00fd b\u00e1o Suzuki XL7 2026 ra m\u1eaft th\u00e1ng n\u00e0y: Gi\u00e1 d\u1ef1 ki\u1ebfn t\u0103ng nh\u1eb9, d\u1ec5 c\u00f3 2 b\u1ea3n c",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance"
   ]
 }
