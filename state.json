@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792548715.18336,
-  "last_bot4": 1792550622.8673232,
+  "last_bot4": 1792551587.616116,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792550622.8672163
+    "Gold": 1792551587.6160076
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792551233.4728892,
+  "last_signals": 1792551587.6167932,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792547179.2183928,
+    "5575146754|Gold|1H|range_in": 1792551587.6167932,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
-    "5575146754|Gold|4H|dbot": 1792547179.2183928,
+    "5575146754|Gold|4H|dbot": 1792551587.6167932,
     "5575146754|Gold|4H|dn": 1791989871.6339068,
     "5575146754|Gold|1H|momo_dn": 1791983893.9874923,
     "5575146754|Gold|1D|tbot": 1791985450.7187204,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792548422.4754314,
+    "Gold|4H:bot": 1792551587.8844032,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792551219.2887874,
-  "last_news": 1792551233.4722834,
+  "last_analysis": 1792551574.3184264,
+  "last_news": 1792551584.7336862,
   "seen_news": [
-    "What is the Budget and what could be in it?",
-    "Alphabet hovers above $337 support as bears dominate: Live levels",
-    "Canada September CPI 3.1% y/y vs 3.2% expected",
-    "Sai l\u1ea7m khi ng\u00e2m m\u1ed9c nh\u0129 bi\u1ebfn \"v\u00e0ng \u0111en\" th\u00e0nh \"thu\u1ed1c \u0111\u1ed9c\"",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
-    "Aurbis Resources Corp. (AURR) Cuts Price on 1.0M Warrants, Adds Sweetener - Trad",
     "Beyond Data: Why Context is the Next Frontier in Trading AI",
     "D\u01b0 n\u1ee3 margin l\u1eadp k\u1ef7 l\u1ee5c g\u1ea7n n\u1eeda tri\u1ec7u t\u1ef7, nh\u00f3m CTCK c\u00f3 ng\u00e2n h\u00e0ng h\u1eadu thu\u1eabn b\u1ee9t p",
     "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
@@ -446,6 +440,12 @@
     "US September housing starts 1.221M vs 1.305M",
     "Ph\u00f3 Ch\u1ee7 t\u1ecbch UBCKNN h\u00e9 l\u1ed9 6 \u0111\u1ecbnh h\u01b0\u1edbng l\u1edbn c\u1ee7a ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam sau c\u1ed9t m\u1ed1c ",
     "PVD: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Khoan v\u00e0 D\u1ecbch v\u1ee5 khoan D\u1ea7u kh\u00ed - PV DRILLING | Vietsto",
-    "Commerzbank Aktiengesellschaft: Release of a capital market information - Tradin"
+    "Commerzbank Aktiengesellschaft: Release of a capital market information - Tradin",
+    "UAE's VerraPak plans AI-enabled packaging plant by 2030 - TradingView",
+    "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+    "Tesla supplier CATL shares plunge after disappointing Q3 results",
+    "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
+    "\"NS\u01afT kh\u1eafc kh\u1ed5 nh\u1ea5t m\u00e0n \u1ea3nh\" s\u1ed1ng b\u00ean v\u1ee3 k\u00e9m 25 tu\u1ed5i \u1edf \u0111\u01b0\u1eddng Th\u1ee5y Khu\u00ea, l\u01b0\u01a1ng 7,"
   ]
 }
