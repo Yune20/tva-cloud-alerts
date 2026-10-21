@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792585348.7953687,
+  "last_signals": 1792585951.178351,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792579236.3548167,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792586398,
@@ -145,14 +145,8 @@
     "GBP/USD|1D:top": 1792533234.9321594
   },
   "last_analysis": 1792585650.3542383,
-  "last_news": 1792585348.7936568,
+  "last_news": 1792585951.1773694,
   "seen_news": [
-    "Netflix posts third-quarter earnings beat, but shares fall on advertising and re",
-    "The virtual worlds where robots are trained",
-    "Why is Samsung Electronics stock surging today?",
-    "investingLive Asia-Pacific market news: RBA\u2019s Hauser puts November hike in play",
-    "Dragon Capital \u0111\u1ec1 xu\u1ea5t mi\u1ec5n thu\u1ebf thu nh\u1eadp c\u00e1 nh\u00e2n cho nh\u00e0 \u0111\u1ea7u t\u01b0 qu\u1ef9 m\u1edf n\u1eafm gi\u1eef ",
-    "ABB: Ng\u00e2n h\u00e0ng TMCP An B\u00ecnh - ABBank | VietstockFinance - VietstockFinance",
     "A possible SpaceX-Tesla merger? Here\u2019s what people are saying",
     "What are the main events for today?",
     "Gi\u00e1 v\u00e0ng li\u00ean t\u1ee5c s\u1ee5t gi\u1ea3m, lo\u1ea1t qu\u1ef9 l\u1edbn tranh th\u1ee7 \"gom h\u00e0ng\"",
@@ -446,6 +440,12 @@
     "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
     "BRIEF-Community Trust Bancorp Q3 EPS USD 1.43 - TradingView",
     "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul ",
-    "Civil servant admits he 'made mistakes' juggling five government jobs"
+    "Civil servant admits he 'made mistakes' juggling five government jobs",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "Crude Oil Rises to 5-Week High - TradingView",
+    "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+    "Russia to Send First Diesel Tanker to U.S. on Thursday",
+    "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark"
   ]
 }
