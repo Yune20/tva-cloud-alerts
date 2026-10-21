@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792608186.5188258,
+  "last_signals": 1792608798.020708,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792599032.6984756,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -40,8 +40,7 @@
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792542582.1911855,
     "5575146754|Gold|4H|dbot": 1792560268.3603444,
-    "5575146754|Gold|1D|dbot": 1792007865.937157,
-    "5575146754|Gold|4H|trap_dn": 1792003663.8316255
+    "5575146754|Gold|1D|dbot": 1792007865.937157
   },
   "sig_range": {
     "Gold": true,
@@ -70,10 +69,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -140,15 +139,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792599410.5863478
   },
-  "last_analysis": 1792608175.7108102,
-  "last_news": 1792608186.5179021,
+  "last_analysis": 1792608788.282558,
+  "last_news": 1792608798.019918,
   "seen_news": [
-    "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening",
-    "K\u1ef9 s\u01b0 k\u1ec3 8 gi\u1edd \u2018c\u00e2n n\u00e3o\u2019 ch\u1eb7n d\u00f2ng s\u00f4ng S\u00e0i G\u00f2n \u0111\u1ec3 h\u1ee3p long \u2018l\u00e1 d\u1eeba th\u00e9p\u2019",
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
-    "Gold slips as investors await Fed rate signals - TradingView",
-    "House committee says Webull messages point to China access to U.S. customer data",
-    "Musk and Anthropic pledge public share giveaways",
     "Tr\u00e1i phi\u1ebfu 'n\u00f3ng' gi\u1eefa l\u00fac l\u00e3i su\u1ea5t ng\u00e2n h\u00e0ng \u00ec \u1ea1ch 'h\u1ea1 nhi\u1ec7t'",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
     "Yen jumps after JGB auction draws big demand, euro finds relief - TradingView",
@@ -442,6 +435,12 @@
     "UK Approves Jackdaw Gas Field as Energy Crisis Deepens",
     "Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war",
     "Connecting the dots: How rising government bond yields could hurt your retiremen",
-    "H\u00f4m nay 22/10, Nga ch\u00ednh th\u1ee9c b\u00e1o tin vui cho M\u1ef9"
+    "H\u00f4m nay 22/10, Nga ch\u00ednh th\u1ee9c b\u00e1o tin vui cho M\u1ef9",
+    "Google resolves cloud outage affecting UK banks and websites",
+    "Britain regulator ends Home REIT probe, defers to fraud office",
+    "European markets steady for now but widening bond yield spreads offer a warning",
+    "M\u1ed9t hi\u1ec7n t\u01b0\u1ee3ng l\u1ea1 v\u1eeba x\u1ea3y ra tr\u00ean th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam",
+    "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
+    "SpaceX offer will be hard for Tesla to refuse - TradingView"
   ]
 }
