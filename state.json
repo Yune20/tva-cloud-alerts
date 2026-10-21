@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792592508.6703932,
+  "last_signals": 1792593122.1548212,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792591894.812079,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,7 +60,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -120,14 +120,14 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792592509.7107568,
+    "US30|4H:top": 1792593123.3225758,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
-    "US30|1D:top": 1792592509.7107785,
+    "US30|1D:top": 1792593123.3225951,
     "GBP/USD|4H:top": 1792166194.2284777,
     "Gold|4H:bot": 1792561485.0299656,
     "USD/JPY|1D:top": 1792014451.125386,
@@ -140,17 +140,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792592509.943875
+    "GBP/USD|1D:top": 1792593123.5475082
   },
-  "last_analysis": 1792592499.597917,
-  "last_news": 1792592508.6693466,
+  "last_analysis": 1792593110.6033702,
+  "last_news": 1792593122.153843,
   "seen_news": [
-    "X\u00f4n xao th\u00f4ng tin v\u1ec1 Huy\u1ec1n 204",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
-    "How long will humans be needed for translation?",
     "Why are more roofs not made of solar tiles?",
     "Adidas shares rise after 2026 guidance hike",
     "Social unrest pressures European markets",
@@ -444,6 +438,12 @@
     "Europe\u2019s Power Demand Returns to Growth",
     "Colombia\u2019s peso hits one-month high on rate outlook",
     "US stocks open higher as earnings and AI demand take center stage",
-    "B\u1eaft \u0111\u1ed1i t\u01b0\u1ee3ng c\u00f3 7 ti\u1ec1n \u00e1n tr\u1ed9m 25,5 ch\u1ec9 v\u00e0ng"
+    "B\u1eaft \u0111\u1ed1i t\u01b0\u1ee3ng c\u00f3 7 ti\u1ec1n \u00e1n tr\u1ed9m 25,5 ch\u1ec9 v\u00e0ng",
+    "Higher Oil Availability Pressures Middle East Crude Benchmarks",
+    "S&P 500 squeezed below 7,800 in tight consolidation: Live levels",
+    "Crude oil futures reacted to the news headlines keeps traders focused on the tec",
+    "Em g\u00e1i 19 tu\u1ed5i c\u1ee7a \u0110\u1eb7ng V\u0103n L\u00e2m g\u00e2y s\u1ed1t v\u1edbi v\u00f2ng eo \"con ki\u1ebfn\", v\u00f3c d\u00e1ng ng\u00e0y c\u00e0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
+    "Crude Oil Pulls Back - TradingView"
   ]
 }
