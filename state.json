@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792560875.7413013,
+  "last_signals": 1792561484.635842,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792560268.3603444,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,8 +65,8 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792560875.8912425,
+    "Gold|4H:bot": 1792561485.0299656,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792560867.7263978,
-  "last_news": 1792560875.7403646,
+  "last_analysis": 1792561475.3356256,
+  "last_news": 1792561484.6349537,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Canaan Inc. (CAN) Appoints KPMG in Singapore as Auditor - TradingView",
-    "Walmart takes aim at Amazon and Costco with new membership program \u2014 but is it a",
-    "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive",
-    "Why are more roofs not made of solar tiles?",
-    "Dollar gains as French turmoil due to violent protests drags down the euro",
     "Europe\u2019s Power Demand Returns to Growth",
     "Colombia\u2019s peso hits one-month high on rate outlook",
     "SpaceX beats Q3 forecasts across all three segments as AI revenue tops $7.5 bill",
@@ -446,6 +440,12 @@
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 chi\u1ec1u ng\u00e0y 21/10: LPBank b\u00e1o l\u00e3i 9 th\u00e1ng v\u01b0\u1ee3t 10.000 t\u1ef7",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Gold Slides for Third Straight Session - TradingView",
-    "September data shows housing market in a deep freeze"
+    "September data shows housing market in a deep freeze",
+    "VPBankS ch\u1ed1t ph\u01b0\u01a1ng \u00e1n chia c\u1ed5 phi\u1ebfu th\u01b0\u1edfng 45%, \u0111\u01b0a v\u1ed1n \u0111i\u1ec1u l\u1ec7 v\u01b0\u1ee3t m\u1ed1c t\u1ef7 USD",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "London Metal Exchange CEO affirms support for use of yuan - TradingView",
+    "Oil prices climb as traders assess Middle East developments",
+    "Burnham vows end to 'rip-off parking charges' under new rules",
+    "Husqvarna swings to Q3 adjusted operating loss on lower sales"
   ]
 }
