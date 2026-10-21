@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792581375.8492813,
-  "last_bot4": 1792586251.1796794,
+  "last_bot4": 1792587104.329026,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792586545.7221014,
+  "last_signals": 1792587104.3298817,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792586545.7221014,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,7 +60,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792582920.0417805,
+    "Bitcoin|4H:top": 1792587105.0814428,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -145,14 +145,8 @@
     "GBP/USD|1D:top": 1792533234.9321594
   },
   "last_analysis": 1792586849.7079268,
-  "last_news": 1792586545.7204547,
+  "last_news": 1792587104.3280537,
   "seen_news": [
-    "\u00d4ng ch\u1ee7 California Fitness \u0111\u1ebfn t\u1eebng ph\u00f2ng t\u1eadp ch\u1eafp tay xin l\u1ed7i kh\u00e1ch h\u00e0ng",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "Powering Up: Applied Digital Execs Buy $6.7M in Stock - TradingView",
-    "Investors look to earnings to reset the bull market. The key level to watch on t",
-    "Living with a stink? Technology might help",
-    "Why is SK Hynix stock surging today?",
     "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
     "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51",
     "Why does Elon Musk want to merge Tesla and SpaceX?",
@@ -446,6 +440,12 @@
     "Tokenized stock trading takes off overseas as Goldman, other U.S. companies obje",
     "What is the Budget and what could be in it?",
     "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
-    "Short-end U.S. yields edge up\u00a0as investors digest French unrest"
+    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
+    "Markets end lower as oil gains and earnings weigh on markets - TradingView",
+    "Investors are questioning neoclouds' business model but Nebius says AI computing",
+    "Bereaved families could face 'unjust' tax bill after civil service pension delay",
+    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
+    "What are the main events for today?",
+    "S\u00e2n bay Gia B\u00ecnh tham gia Routes World 2026, h\u01b0\u1edbng t\u1edbi m\u1ea1ng l\u01b0\u1edbi k\u1ebft n\u1ed1i h\u00e0ng kh"
   ]
 }
