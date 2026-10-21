@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792540097.3857126,
+  "last_signals": 1792540666.143276,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792529862.0768735,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792540088.1843233,
-  "last_news": 1792540097.38491,
+  "last_analysis": 1792540655.2887416,
+  "last_news": 1792540666.1422575,
   "seen_news": [
-    "Ng\u00e0nh t\u00e0i ch\u00ednh tham v\u1ea5n \u0111\u1ed1i t\u00e1c Trung Qu\u1ed1c, Hoa K\u1ef3 tr\u01b0\u1edbc th\u1ec1m APEC 2027",
-    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
-    "REG - Amundi SA Prologis, Inc. - Form 8.3 - Prologis, Inc. - TradingView",
-    "Apple announces product launch event for Oct. 28. Analysts expect touchscreen la",
-    "US bans China's DeepSeek from government in race for AI dominance",
-    "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
     "Enterprise Financial Services (EFSC) Q3 Earnings: What To Expect - TradingView",
     "Here's what to expect when Netflix reports earnings after the bell",
     "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
@@ -446,6 +440,12 @@
     "US Crude Inventories Fall More Than Expected - TradingView",
     "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
     "The start-ups hoping to return battery making to the US",
-    "US and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in"
+    "US and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in",
+    "Dollar and euro drift, yen slips as markets seek direction - TradingView",
+    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl",
+    "Japan exports post huge miss in September as growth slows to 16.7%",
+    "Vinted blocks French looters listing stolen goods for sale",
+    "Dow outperforms as Wall Street rises,\u00a0healthcare stocks lead gains",
+    "European stocks close mostly lower as Middle East headlines drive market swings"
   ]
 }
