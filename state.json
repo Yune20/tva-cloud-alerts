@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792597193.3169503,
+  "last_signals": 1792597802.7505708,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792591894.812079,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -74,7 +74,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -139,17 +139,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792596217.7490869
+    "GBP/USD|1D:top": 1792597804.4455948
   },
-  "last_analysis": 1792597180.696435,
-  "last_news": 1792597193.3152587,
+  "last_analysis": 1792597791.6537385,
+  "last_news": 1792597802.6932201,
   "seen_news": [
-    "C\u1eadp nh\u1eadt: H\u00e0ng lo\u1ea1t c\u00f4ng ty h\u1ed3i sinh t\u1eeb l\u1ed7 sang l\u00e3i trong qu\u00fd III/2026",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
-    "Terveystalo Q3 2026 Earnings Call Is Live - TradingView",
-    "AI's spending boom faces a 'gut check': Who can actually make money?",
-    "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-    "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
     "Belk, Inc. Closes $1.275B ABL and FILO Financing - TradingView",
     "France to deploy military as it braces for fresh unrest this weekend",
     "The tech helping crack decades-old cold cases",
@@ -443,6 +437,12 @@
     "Why SpaceX\u2019s stock is surging \u2014\u00a0and lifting the broader AI universe along with i",
     "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel",
     "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "India\u2019s Top State Refiner to Reduce Middle East Term Oil Purchases"
+    "India\u2019s Top State Refiner to Reduce Middle East Term Oil Purchases",
+    "S\u1ebfp h\u1ecfi \u201cEm c\u00f3 th\u1ec3 nh\u1eadn th\u00eam vi\u1ec7c kh\u00f4ng?\u201d, 3 c\u00e1ch t\u1eeb ch\u1ed1i t\u01b0\u1edfng m\u1ea5t l\u00f2ng nh\u01b0ng t",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
+    "BFIT: Revenue and memberships grew strongly; FY guidance was reaffirmed - Tradin",
+    "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behin",
+    "Spain battles climate change on several fronts",
+    "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar"
   ]
 }
