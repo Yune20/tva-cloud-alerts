@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792619365.6636598,
+  "last_signals": 1792619981.2781618,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792615272.3766441,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792619365.8204389,
+    "Gold|4H:bot": 1792619981.436588,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792619353.8932183,
-  "last_news": 1792619365.6627195,
+  "last_analysis": 1792619973.5679617,
+  "last_news": 1792619981.2774332,
   "seen_news": [
-    "SpaceX, Tesla shares rise after Musk says committees exploring possible merger",
-    "Morning Kickstart: Dollar mixed as oil swings on conflicting US-Iran headlines",
-    "N\u1eef sinh qu\u00ea H\u00e0 N\u1ed9i h\u1ecdc chuy\u00ean Amsterdam thi \u0111\u1ed7 tr\u01b0\u1eddng Y, b\u1ea3o l\u01b0u \u0111i h\u00e1t c\u00f3 album",
-    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Gold Slides for Third Straight Session - TradingView",
-    "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
     "V\u1ee5 vi\u1ec7c 'thi\u00ean nga \u0111en' t\u00e1c \u0111\u1ed9ng l\u1edbn \u0111\u1ebfn th\u1ecb tr\u01b0\u1eddng kim c\u01b0\u01a1ng Vi\u1ec7t Nam",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "RBC Capital maintains Underperform rating on 3M, $135 price target - TradingView",
@@ -440,6 +434,12 @@
     "The AI telling farmers when to harvest",
     "Japan\u2019s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
     "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.43%",
-    "Meta Q3 beats on revenue and EPS as $9.9B legal charge lifts full-year expense o"
+    "Meta Q3 beats on revenue and EPS as $9.9B legal charge lifts full-year expense o",
+    "INmune Bio Establishes Global Commercialization Framework for Ebstrocel\u2122 Through",
+    "L\u1ee3i nhu\u1eadn to\u00e0n ng\u00e0nh s\u1ee5t gi\u1ea3m m\u1ea1nh, nh\u00e0 \u0111\u1ea7u t\u01b0 thua l\u1ed7, CTCK v\u1eabn ki\u1ebfm b\u1eabm t\u1eeb cho",
+    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
+    "US Stocks Rise on Tech Gains - TradingView",
+    "Tokenized stock trading takes off overseas as Goldman, other U.S. companies obje",
+    "Audit regulator looking into Manchester City accounting"
   ]
 }
