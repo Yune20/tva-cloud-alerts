@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792581701.0986948,
+  "last_signals": 1792582312.2725506,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792579236.3548167,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -74,20 +74,20 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792582573,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792581694.0864599,
-  "last_news": 1792581701.0978286,
+  "last_analysis": 1792582301.2406769,
+  "last_news": 1792582312.2716775,
   "seen_news": [
-    "OpenAI says its AI agents weakened internal monitoring system",
-    "NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck",
-    "CNN: Champi l\u00e0 si\u00eau b\u00e3o m\u1ea1nh nh\u1ea5t Tr\u00e1i \u0111\u1ea5t n\u0103m 2026, b\u00e3o ti\u1ebfn v\u1ec1 khu v\u1ef1c n\u00e0o c\u1ee7a",
-    "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER | VietstockFinance",
-    "Karin Risi appointed to Whirlpool board, joins HR and Finance committees - Tradi",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
     "C\u1ea3nh t\u01b0\u1ee3ng kh\u00f4ng ng\u1edd l\u00fac n\u1eeda \u0111\u00eam tr\u01b0\u1edbc c\u1eeda ng\u00f4i nh\u00e0 c\u00f3 b\u00e0 b\u1ea7u chu\u1ea9n b\u1ecb \u0111i sinh, ",
     "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
     "3 Reasons Investors Love BWX (BWXT) - TradingView",
@@ -446,6 +440,12 @@
     "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
     "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat",
     "Zcash jumps after US-Iran deal hopes improve crypto market sentiment. What to wa",
-    "\u0110\u1ed9ng th\u00e1i g\u00e2y ch\u00fa \u00fd c\u1ee7a Ch\u1ee7 t\u1ecbch Coteccons"
+    "\u0110\u1ed9ng th\u00e1i g\u00e2y ch\u00fa \u00fd c\u1ee7a Ch\u1ee7 t\u1ecbch Coteccons",
+    "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
+    "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
+    "Crude oil volatility increases amid conflicting reports over US-Iran negotiation",
+    "4 ng\u01b0\u1eddi con c\u00f9ng mang t\u00ean Nguy\u00ean c\u1ee7a \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 v\u00e0 b\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7p T",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
+    "REG - Squarepoint Ops LLC Rotork PLC - Form 8.3 - Rotork PLC - TradingView"
   ]
 }
