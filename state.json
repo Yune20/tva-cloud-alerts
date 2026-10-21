@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792571997.6525497,
+  "last_signals": 1792572616.140919,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,13 +68,13 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792571987.2229173,
-  "last_news": 1792571997.6518245,
+  "last_analysis": 1792572607.4292295,
+  "last_news": 1792572616.1399815,
   "seen_news": [
-    "Con trai c\u1ea3 c\u1ee7a b\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7p Th\u1ea3o v\u00e0 \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 tr\u1edf th\u00e0nh ph\u00f3 T\u1ed5n",
-    "B\u00c1O C\u00c1O - VietstockFinance",
-    "Latest Financial and Investing News from TradingView - TradingView",
-    "Oil prices fall as traders hope for diplomatic progress in Middle East",
-    "Bikes 'not for jousting,' says Lime after duel video",
-    "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
     "Yen jumps after JGB auction draws big demand, euro finds relief - TradingView",
     "Trump sued over 50% tariffs on Canada in latest trade challenge",
     "Home sellers cut asking prices on 3,000 properties a day",
@@ -446,6 +440,12 @@
     "What is happening to UK prices?",
     "India\u2019s Coal Crisis Deepens as Power Demand Surges",
     "Quilter Q3 core net inflows rise 30% on strong platform flows",
-    "Why Treasury yields move together but become more volatile further out the curve"
+    "Why Treasury yields move together but become more volatile further out the curve",
+    "Obsessed with CoreWeave and the AI trade? You're missing out on some great stock",
+    "Elon Musk confirms he is considering merging Tesla and SpaceX",
+    "Why is Akzo Nobel stock climbing today?",
+    "SpaceX\u2019s Musk says Tesla merger good idea but far from certain, needs 50% of Tes",
+    "Tin vui: Kh\u1ed1i ngo\u1ea1i ng\u1eaft chu\u1ed7i 21 phi\u00ean \u201cx\u1ea3 h\u00e0ng\u201d, chi g\u1ea7n 300 t\u1ef7 \u0111\u1ed3ng gom m\u1ed9t c",
+    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph"
   ]
 }
