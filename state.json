@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792571383.780688,
+  "last_signals": 1792571997.6525497,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792568314.9446194,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792518746.4533086,
+    "Bitcoin|4H:top": 1792571998.6758487,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792571373.2419114,
-  "last_news": 1792571383.7797518,
+  "last_analysis": 1792571987.2229173,
+  "last_news": 1792571997.6518245,
   "seen_news": [
-    "UBS flags 3 tests for the AI trade as Meta kicks off mega-cap tech earnings",
-    "C\u00f4ng an \u0111ang \u0111i\u1ec1u tra t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng s\u1ed1 d\u01b0 h\u01a1n 2 t\u1ef7 \u0111\u1ed3ng: Ng\u01b0\u1eddi d\u00e2n tr\u00ecnh b",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "Title Resources Group Appoints Robert Greenbaum EVP - TradingView",
-    "Data center stocks remain under pressure after Korea IPO plunges 30%",
-    "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
     "Con trai c\u1ea3 c\u1ee7a b\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7p Th\u1ea3o v\u00e0 \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 tr\u1edf th\u00e0nh ph\u00f3 T\u1ed5n",
     "B\u00c1O C\u00c1O - VietstockFinance",
     "Latest Financial and Investing News from TradingView - TradingView",
@@ -446,6 +440,12 @@
     "REG - Concurrent Tech. Canaccord GenuityGrp - Holding(s) in Company - TradingVie",
     "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
     "Vinted blocks French looters listing stolen goods for sale",
-    "How Bad Would It Get If China Blocks Rare Earths to America?"
+    "How Bad Would It Get If China Blocks Rare Earths to America?",
+    "Key facts: CRYPTO:ZECUSD open interest down ~30%; downside to $888 - TradingView",
+    "Japan exports post huge miss in September as growth slows to 16.7%",
+    "What is happening to UK prices?",
+    "India\u2019s Coal Crisis Deepens as Power Demand Surges",
+    "Quilter Q3 core net inflows rise 30% on strong platform flows",
+    "Why Treasury yields move together but become more volatile further out the curve"
   ]
 }
