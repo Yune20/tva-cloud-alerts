@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792587104.3298817,
+  "last_signals": 1792587457.8575253,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792586545.7221014,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792587734,
@@ -118,7 +118,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792513660.7607393,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792587105.0814428,
+    "Bitcoin|4H:top": 1792587458.516029,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792586849.7079268,
-  "last_news": 1792587104.3280537,
+  "last_analysis": 1792587449.371857,
+  "last_news": 1792587457.8565097,
   "seen_news": [
-    "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
-    "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51",
-    "Why does Elon Musk want to merge Tesla and SpaceX?",
-    "Gift Nifty 50 V-shaped recovery hits 23,195 resistance: Live",
-    "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets i",
-    "LPS \u0111\u1ea1t g\u1ea7n 895 t\u1ef7 \u0111\u1ed3ng l\u1ee3i nhu\u1eadn tr\u01b0\u1edbc thu\u1ebf trong 9 th\u00e1ng, b\u00e1m s\u00e1t k\u1ebf ho\u1ea1ch n\u0103m",
     "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
     "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unre",
     "Oil: Private survey of inventory shows a huge headline crude oil draw, greater t",
@@ -446,6 +440,12 @@
     "Bereaved families could face 'unjust' tax bill after civil service pension delay",
     "Euro dips on French turmoil, US dollar lifted as stocks rebound",
     "What are the main events for today?",
-    "S\u00e2n bay Gia B\u00ecnh tham gia Routes World 2026, h\u01b0\u1edbng t\u1edbi m\u1ea1ng l\u01b0\u1edbi k\u1ebft n\u1ed1i h\u00e0ng kh"
+    "S\u00e2n bay Gia B\u00ecnh tham gia Routes World 2026, h\u01b0\u1edbng t\u1edbi m\u1ea1ng l\u01b0\u1edbi k\u1ebft n\u1ed1i h\u00e0ng kh",
+    "Netflix posts third-quarter earnings beat, but shares fall on advertising and re",
+    "Living with a stink? Technology might help",
+    "Barclays Backs These 5 EU Telcos as AI and Satellite Risks Hit the Sector",
+    "investingLive Asia-Pacific market news: RBA\u2019s Hauser puts November hike in play",
+    "Sau v\u1ee5 ki\u1ec7n 840 tri\u1ec7u USD v\u1edbi Amazon, n\u1eef T\u1ed5ng gi\u00e1m \u0111\u1ed1c SN 1977 c\u1ee7a Gilimex n\u1ed9p \u0111",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed"
   ]
 }
