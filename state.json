@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792553474.479419,
+  "last_signals": 1792554079.5810323,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792551587.6167932,
+    "5575146754|Gold|1H|range_in": 1792554079.5810323,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792488469.0239987,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792525354.912333,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792553474.6656516,
+    "Gold|4H:bot": 1792554079.8429382,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792533234.9321594
   },
-  "last_analysis": 1792553466.6690383,
-  "last_news": 1792553474.4785347,
+  "last_analysis": 1792554072.7083004,
+  "last_news": 1792554079.580141,
   "seen_news": [
-    "Asia\u2019s Coal Prices To Stay High as Supply Drops and Demand Firms",
-    "Euro dips on French turmoil, US dollar lifted as stocks rebound",
-    "Trump: Ukraine has to want to settle this war, if not it's going to be a very ba",
-    "\u0110\u00e2y m\u1edbi l\u00e0 sao Vi\u1ec7t duy nh\u1ea5t xu\u1ea5t hi\u1ec7n trong show Victoria's Secret n\u0103m nay",
-    "H\u1ee3p \u0111\u1ed3ng t\u01b0\u01a1ng lai - VietstockFinance",
-    "Gold edges lower as investors weigh Fed rate signals - TradingView",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 21/10: Techcombank l\u1eadp k\u1ef7 l\u1ee5c l\u1ee3i nhu\u1eadn, m\u1ed9t ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
     "Genuine Parts Earnings: What To Look For From GPC - TradingView",
@@ -446,6 +440,12 @@
     "Trump sued over Canadian tariffs in latest legal challenge",
     "Why is MiniMax stock climbing today?",
     "Nvidia in talks to invest hundreds of millions in Firmus after AI cloud firm\u2019s I",
-    "\u0110\u1ebfn Lai Ch\u00e2u s\u00e1ng Ch\u1ee7 nh\u1eadt, nh\u1ea5t \u0111\u1ecbnh ph\u1ea3i gh\u00e9 khu ch\u1ee3 phi\u00ean v\u00f9ng cao r\u1ef1c r\u1ee1 s\u1eafc"
+    "\u0110\u1ebfn Lai Ch\u00e2u s\u00e1ng Ch\u1ee7 nh\u1eadt, nh\u1ea5t \u0111\u1ecbnh ph\u1ea3i gh\u00e9 khu ch\u1ee3 phi\u00ean v\u00f9ng cao r\u1ef1c r\u1ee1 s\u1eafc",
+    "investingLive European news wrap: Rising oil prices keep weighing on risk sentim",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 l\u01b0\u01a1ng h\u01b0u, tr\u1ee3 c\u1ea5p tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd \u0111\u1ec1 xu\u1ea5t quy \u0111\u1ecbnh m\u1edbi n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "StoneX maintains Buy rating on ServiceNow, $165 price target - TradingView",
+    "People in China are spending nearly as much of their income as Americans on heal",
+    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit"
   ]
 }
