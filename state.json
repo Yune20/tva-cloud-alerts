@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792592185.333892,
-  "last_bot4": 1792598738.5310214,
+  "last_bot4": 1792599409.5712686,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792598094.4662488
+    "Gold": 1792599409.5711713
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792599032.6984756,
+  "last_signals": 1792599409.5720286,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792599032.6984756,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,7 +60,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -74,7 +74,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -139,17 +139,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792599033.7742913
+    "GBP/USD|1D:top": 1792599410.5863478
   },
-  "last_analysis": 1792598738.530007,
-  "last_news": 1792599032.697588,
+  "last_analysis": 1792599395.819158,
+  "last_news": 1792599405.912647,
   "seen_news": [
-    "Ashtead Technology surges 15% on \u00a3505 mln takeover offer",
-    "Chart of the day: Gold price eyes $4,100 support as $4,200 resistance keeps bull",
-    "H\u1ee7y d\u1ef1 \u00e1n trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i v\u00e0 logistics h\u01a1n 10.000 t\u1ef7 \u0111\u1ed3ng, nh\u00e0 \u0111\u1ea7u t\u01b0 Trung",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
-    "The CAC 40 Index Opens 0.37% Higher - TradingView",
-    "It\u2019s no secret what the best financial advice for retirement is \u2014 but most peopl",
     "Vi\u1ec7t Nam quy ho\u1ea1ch 15 \u0111\u1ea3o nh\u1ecf r\u1ed9ng h\u01a1n 577ha t\u1ea1i qu\u1ea7n \u0111\u1ea3o Nam An Th\u1edbi l\u00e0m khu du",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
     "REG - Concurrent Tech. Canaccord GenuityGrp - Holding(s) in Company - TradingVie",
@@ -443,6 +437,12 @@
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "YieldMax JP Option Income Strategy ETF announces weekly distribution of $0.0467 ",
     "Polymarket traders see a 10% chance the AI bubble bursts before New Year\u2019s Day",
-    "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up"
+    "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+    "S\u1ebd tr\u00ecnh Trung \u01b0\u01a1ng ngh\u1ecb quy\u1ebft m\u1edbi v\u1ec1 ch\u00ednh s\u00e1ch ti\u1ec1n l\u01b0\u01a1ng",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Meta\u2019s Muse retention outpaces ChatGPT, Claude - TradingView",
+    "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your brea",
+    "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+    "The tech helping crack decades-old cold cases"
   ]
 }
