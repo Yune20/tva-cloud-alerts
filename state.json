@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792667499.1369991,
+  "last_signals": 1792668117.260776,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792663812.6964338,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -77,12 +77,12 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792667500.1032739
+    "GBP/USD|1D:top": 1792668119.3677876
   },
-  "last_analysis": 1792667486.7388368,
-  "last_news": 1792667499.1313689,
+  "last_analysis": 1792668108.6512444,
+  "last_news": 1792668117.260009,
   "seen_news": [
-    "My father-in-law, 81, sold his $75,000 home and paid off his daughter\u2019s $50,000 ",
-    "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-    "Meta fined $25bn for 'lies' over user data privacy",
-    "Meta sued in Australian class action over alleged social media harm to children",
-    "Most analysts now expect the next BOJ rate hike in December, none see October mo",
-    "Ph\u00e1t hi\u1ec7n b\u1ea3n l\u00e0ng gi\u1eefa h\u01a1n 1.200 c\u00e2y c\u1ed5 th\u1ee5 \u1edf Vi\u1ec7t Nam, \u0111\u1ebfn m\u00f9a hoa c\u1ea3 s\u01b0\u1eddn n\u00fai",
     "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
     "Google resolves cloud outage affecting UK banks and websites",
     "Hang Seng crashes to 23,204 in oversold freefall: Live levels",
@@ -445,6 +439,12 @@
     "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
     "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
     "India's Middle East Oil Imports Jumped 32% in September",
-    "Pearson narrows profit guidance, reorganises into four units; shares slip"
+    "Pearson narrows profit guidance, reorganises into four units; shares slip",
+    "Why following crypto ETF flows is like looking in the rear-view mirror",
+    "Mi\u1ec1n B\u1eafc s\u1eafp c\u00f3 m\u01b0a trong 2 ng\u00e0y li\u00ean ti\u1ebfp",
+    "B\u00c1O C\u00c1O - VietstockFinance",
+    "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
+    "American Airlines expects deeper 2026 loss on pricier fuel despite record revenu",
+    "Jobless rate falls but small firms cut back hiring"
   ]
 }
