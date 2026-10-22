@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792657526.4128084,
-  "last_bot4": 1792660411.9768689,
+  "last_bot4": 1792661380.2012548,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792660411.9767723
+    "Gold": 1792661380.2011387
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792661017.3011575,
+  "last_signals": 1792661380.2019885,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792657849.7683835,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -140,18 +140,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792661018.793114,
+    "DXY|4H:bot": 1792661381.581973,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792661010.3058643,
-  "last_news": 1792661017.3003187,
+  "last_analysis": 1792661370.256888,
+  "last_news": 1792661377.620245,
   "seen_news": [
-    "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps d",
-    "Tr\u01b0\u1edfng th\u00f4n, t\u1ed5 tr\u01b0\u1edfng d\u00e2n ph\u1ed1 \u0111\u00f3ng BHXH nh\u01b0ng kh\u00f3 \u0111\u01b0\u1ee3c h\u01b0\u1edfng l\u01b0\u01a1ng h\u01b0u",
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Encavis GmbH Signs 3.5-Year Hybrid PPA in Spain - TradingView",
-    "James Talarico fires back at Elon Musk in Texas Senate race feud",
-    "The 'trillion pound' oil fund the government believes Britain could have built",
     "Sterling today: Pound edges up as dollar consolidates",
     "PBOC is expected to set the USD/CNY reference rate at 6.6756 \u2013 Reuters estimate",
     "C\u00f4ng b\u1ed1 Quy\u1ebft \u0111\u1ecbnh thanh tra t\u1ea1i T\u1ed5ng C\u00f4ng ty \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n nh\u00e0 H\u00e0 N\u1ed9i",
@@ -445,6 +439,12 @@
     "What is happening to UK prices?",
     "Panasonic Industry moves up AI sales target to fiscal 2029",
     "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oi",
-    "M\u1ef9 \u0111\u00e1nh gi\u00e1: Lo\u1ea1i n\u01b0\u1edbc quen thu\u1ed9c c\u1ee7a ng\u01b0\u1eddi Vi\u1ec7t v\u1eeba l\u1ecdc m\u1ee1 m\u00e1u, ki\u1ec3m so\u00e1t \u0111\u01b0\u1eddng"
+    "M\u1ef9 \u0111\u00e1nh gi\u00e1: Lo\u1ea1i n\u01b0\u1edbc quen thu\u1ed9c c\u1ee7a ng\u01b0\u1eddi Vi\u1ec7t v\u1eeba l\u1ecdc m\u1ee1 m\u00e1u, ki\u1ec3m so\u00e1t \u0111\u01b0\u1eddng",
+    "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fr",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "+43% upside: Profits are surging for this AI-picked tech giant climbing fast",
+    "Bitmine\u2019s 5% hard cap leaves Ether\u2019s biggest corporate buyer weeks from the exit",
+    "Kh\u00e9p l\u1ea1i \u0111\u1ed3n \u0111o\u00e1n v\u1ec1 m\u1ed1i quan h\u1ec7 c\u1ee7a Thu Minh v\u00e0 H\u01b0\u01a1ng Tr\u00e0m",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets"
   ]
 }
