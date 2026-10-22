@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792687838.6863852,
+  "last_signals": 1792688462.798394,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
-    "5575146754|Gold|1H|trap_dn": 1792670590.41308,
+    "5575146754|Gold|1H|trap_dn": 1792688462.798394,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792673425.2975047,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792687839.562613,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792687839.9526544,
+    "EUR/USD|4H:bot": 1792688464.2013297,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792685256.4715257
   },
-  "last_analysis": 1792687830.736136,
-  "last_news": 1792687838.6854672,
+  "last_analysis": 1792688455.224525,
+  "last_news": 1792688462.7974029,
   "seen_news": [
-    "The tech helping crack decades-old cold cases",
-    "GM to Add Hybrids as U.S. Gasoline Holds Above $4",
-    "Why is Galderma stock surging today?",
-    "JPMorgan doubles SpaceX target to $500 on AI growth, maps out possible Tesla mer",
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i c\u00f3 th\u1ec3 c\u1ea5t, h\u1ea1 c\u00e1nh th\u1eb3ng \u0111\u1ee9ng: Bay li\u00ean t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
     "A top strategist has a warning for retail investors chasing the AI rally",
     "Critical web security flaws spark global alarm as Google, OpenAI and Amazon resp",
     "What is happening to UK prices?",
@@ -447,6 +441,12 @@
     "Qu\u1ea3 g\u00ec \"\u0111en s\u00ec nh\u01b0 than, b\u00e1n \u0111\u1eaft ngang th\u1ecbt\": \u0110em kho c\u00e1 th\u00ec c\u01a1m n\u1ea5u c\u1ea3 n\u1ed3i \u0111\u1ea7y ",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
-    "\u2018AI is on trial\u2019: Bond yields sink below 5% as investors look for safety"
+    "\u2018AI is on trial\u2019: Bond yields sink below 5% as investors look for safety",
+    "Ch\u1ee3 Vi\u1ec7t c\u00f3 lo\u1ea1i c\u00e1 nh\u1ecf nh\u00ecn qu\u00e1 \u0111\u1ed7i b\u00ecnh th\u01b0\u1eddng nh\u01b0ng l\u1ea1i \u0111\u01b0\u1ee3c th\u1ea7y thu\u1ed1c x\u01b0a g",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Yields plunge as fears about sustaining AI boom resurface - TradingView",
+    "Young Americans are giving up their cars. It\u2019s a path to financial freedom, for ",
+    "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?"
   ]
 }
