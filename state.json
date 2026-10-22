@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792628975.406972,
+  "last_signals": 1792629580.2917893,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -71,7 +71,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792628975.9016635,
+    "Bitcoin|4H:top": 1792629580.8439903,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792628965.8342915,
-  "last_news": 1792628975.405404,
+  "last_analysis": 1792629572.8009284,
+  "last_news": 1792629580.2908998,
   "seen_news": [
-    "Ca s\u0129 Vi\u1ec7t v\u1eeba \u0111\u01b0\u1ee3c th\u0103ng ch\u1ee9c Thi\u1ebfu t\u00e1: Th\u1ea1c s\u0129 thanh nh\u1ea1c t\u1ea1i Trung Qu\u1ed1c, 4 l\u1ea7",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
-    "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's",
-    "Union attacks NatWest plans to get workers back to the office",
-    "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "Belk, Inc. Closes $1.275B ABL and FILO Financing - TradingView",
     "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one ",
@@ -440,6 +434,12 @@
     "Saniona (SANION) Files FDA IND For SAN2465 In MDD - TradingView",
     "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
     "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "UK Greenlights Major North Sea Gas Field After Years of Legal Battles"
+    "UK Greenlights Major North Sea Gas Field After Years of Legal Battles",
+    "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behin",
+    "The tech helping crack decades-old cold cases",
+    "Government websites go dark after AI-discovered flaw sparks security scramble",
+    "AUDUSD Technicals: The AUDUSD runs into the 100 day MA and finds willing sellers",
+    "Kh\u00f4ng m\u1ed9t b\u00f3ng c\u00e2y tr\u00ean con \u0111\u01b0\u1eddng '\u0111\u1ed9c nh\u1ea5t v\u00f4 nh\u1ecb' H\u00e0 N\u1ed9i",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
