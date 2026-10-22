@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792655399.420655,
+  "last_signals": 1792656003.9028363,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792649540.211089,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -140,18 +140,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792655401.110326,
+    "DXY|4H:bot": 1792656005.4160993,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792655387.0495603,
-  "last_news": 1792655396.7038214,
+  "last_analysis": 1792655994.0278535,
+  "last_news": 1792656003.9016988,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Lemonade, Inc. (LMND) Launches Renters Insurance in Alabama - TradingView",
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "EBay to lay off 9% of workforce in its second round of job cuts this year",
-    "The \"trillion pound\" oil fund the government believes Britain could have built",
-    "Comcast planning significant jobs cuts, Bloomberg News reports",
     "Moderna is about to release the trial results for its cancer vaccine. A lot is r",
     "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
     "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
@@ -445,6 +439,12 @@
     "Key facts: Equity LifeStyle Properties (ELS) keeps 2026 FFO; Q3 FFO - TradingVie",
     "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
     "How long will humans be needed for translation?",
-    "EIA Says US Crude Inventories Sink Further"
+    "EIA Says US Crude Inventories Sink Further",
+    "Cairn Homes plc (CRN) Buys Back 100,000 Shares for Cancellation - TradingView",
+    "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
+    "The political ad wars are still being fought over the airwaves even as digital g",
+    "Why are more roofs not made of solar tiles?",
+    "French yields breach 5% amid Paris budget paralysis and nationwide unrest",
+    "What are the main events for today?"
   ]
 }
