@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792646617.1636982,
+  "last_signals": 1792647274.8487043,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792638597.9195697,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -79,7 +79,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -126,7 +126,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792646618.965269,
+    "GBP/USD|4H:top": 1792647275.7287917,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -137,18 +137,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792641397.149426,
+    "DXY|4H:bot": 1792647276.132776,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792646915.6645107,
-  "last_news": 1792646611.2062023,
+  "last_analysis": 1792647267.307116,
+  "last_news": 1792647274.8478146,
   "seen_news": [
-    "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
-    "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
-    "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets ",
-    "M\u1ed9t doanh nghi\u1ec7p tr\u00fang t\u1edbi 46 g\u00f3i th\u1ea7u t\u1eeb Sungroup, Vingroup, Masterise trong v\u00f2",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "South State declares $0.66 dividend - TradingView",
     "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
     "Living with a stink? Technology might help",
     "Dollar up slightly, other currencies see small moves ahead of central bank delug",
@@ -442,6 +436,12 @@
     "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
     "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
     "investingLive European news wrap: Markets remain cautiously optimistic",
-    "T\u00e0i x\u1ebf l\u1ebbn v\u00e0o ph\u00f2ng ng\u1ee7 b\u00e0 ch\u1ee7 tr\u1ed9m h\u00e0ng ch\u1ee5c t\u00fai x\u00e1ch h\u00e0ng hi\u1ec7u b\u00e1n \u0111\u01b0\u1ee3c 8,5 t"
+    "T\u00e0i x\u1ebf l\u1ebbn v\u00e0o ph\u00f2ng ng\u1ee7 b\u00e0 ch\u1ee7 tr\u1ed9m h\u00e0ng ch\u1ee5c t\u00fai x\u00e1ch h\u00e0ng hi\u1ec7u b\u00e1n \u0111\u01b0\u1ee3c 8,5 t",
+    "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
+    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
+    "BlackRock\u2019s Rieder sees historic opportunity in high-grade bonds, including hype",
+    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01b0a 22/10 t\u1ea1i SJC, PNJ, DOJI, Ph\u00fa Qu\u00fd, B\u1ea3o T\u00edn Minh C",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "Byline Bancorp (BY) Reports Earnings Tomorrow: What To Expect - TradingView"
   ]
 }
