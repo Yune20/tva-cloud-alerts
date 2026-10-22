@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792640423.9196942,
+  "last_signals": 1792641025.049583,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792638597.9195697,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -39,7 +39,8 @@
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792610649.8655016,
-    "5575146754|Gold|4H|dbot": 1792637935.6767678
+    "5575146754|Gold|4H|dbot": 1792637935.6767678,
+    "5575146754|Gold|4H|dn": 1792641025.049583
   },
   "sig_range": {
     "Gold": true,
@@ -68,7 +69,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -124,7 +125,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792166194.2284777,
+    "GBP/USD|4H:top": 1792641026.7541528,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -139,14 +140,8 @@
     "GBP/USD|1D:top": 1792636089.025557
   },
   "last_analysis": 1792640731.05163,
-  "last_news": 1792640423.9188752,
+  "last_news": 1792641024.9630759,
   "seen_news": [
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat",
-    "Zcash jumps after US-Iran deal hopes improve crypto market sentiment. What to wa",
-    "Vi\u1ec7t Nam c\u00f3 1 \u201cl\u00e0ng bi\u1ec7t th\u1ef1 Ph\u00e1p\u201d n\u1eb1m \u1edf \u0111\u1ed9 cao 1.555m, m\u00e1t m\u1ebb quanh n\u0103m: T\u1eebng 3",
-    "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
-    "Custom Health Holdings Inc. (CHLT) Adds Two C-Suite Executives - TradingView",
     "Rainmakers: The drones used to seed clouds",
     "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
     "Fed could cut balance sheet to $4.5 trillion, paper says",
@@ -440,6 +435,12 @@
     "HAH: CTCP V\u1eadn t\u1ea3i v\u00e0 X\u1ebfp d\u1ee1 H\u1ea3i An - HAIANTS.,JSC - VietstockFinance",
     "Terveystalo Q3 2026 Earnings Call Is Live - TradingView",
     "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-    "'I'm fed up of swiping': The singles choosing dating events over apps"
+    "'I'm fed up of swiping': The singles choosing dating events over apps",
+    "VHM: CTCP Vinhomes - Vinhomes.,JSC - VietstockFinance",
+    "Yen Edges Up Ahead of BOJ Policy Meeting - TradingView",
+    "Mortgage rates drop for the first time in 2 months, but demand still falls furth",
+    "Vinted blocks French looters listing stolen goods for sale",
+    "Russia\u2019s Northern Sea Route Workaround Supplying Asian Buyers",
+    "India\u2019s 10-year bond yield climbs above 7.45% to multi-year high"
   ]
 }
