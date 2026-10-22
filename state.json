@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792668410.8998907,
-  "last_bot4": 1792673425.2967026,
+  "last_bot4": 1792674356.5895126,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792673425.296608
+    "Gold": 1792674356.5893853
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792674028.3112574,
+  "last_signals": 1792674356.5902426,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792674028.4807088,
+    "Gold|4H:bot": 1792674356.7916834,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792674029.3387206
+    "GBP/USD|1D:top": 1792674357.7144814
   },
-  "last_analysis": 1792673734.0567245,
-  "last_news": 1792674028.3103619,
+  "last_analysis": 1792674343.7292905,
+  "last_news": 1792674352.7716186,
   "seen_news": [
-    "US State Department is to prepared to issue a order departure at US embassies in",
-    "L\u1ea5y \u00fd ki\u1ebfn vi\u1ec7c s\u00e1p nh\u1eadp m\u1ed9t ph\u1ea7n di\u1ec7n t\u00edch t\u1ec9nh Ph\u00fa Th\u1ecd v\u1ec1 H\u00e0 N\u1ed9i",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
-    "Weatherford International Q3 Earnings Call Highlights - TradingView",
-    "Trump says data centers should generate their own electricity \u2014 but experts say ",
-    "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' trac",
     "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable - Tradin",
     "People in China are spending nearly as much of their income as Americans on heal",
     "Civil servant admits he 'made mistakes' juggling five government jobs",
@@ -445,6 +439,12 @@
     "\"Tr\u1ea1m giao nh\u1eadn J&T Express\" g\u00e2y s\u1ed1t t\u1ea1i k\u00fd t\u00fac x\u00e1",
     "SMC: CTCP \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i SMC - SMC J.S.C. - VietstockFinance",
     "Markets are pricing in long-term AI winners. This veteran investor says history ",
-    "Why governments pulled websites offline over the decades-old PHP programming lan"
+    "Why governments pulled websites offline over the decades-old PHP programming lan",
+    "Goldman Sachs forecasts 9% of workers could face AI displacement",
+    "Netflix, Tesla and Meta earnings put Wall Street's cautious mood back in focus",
+    "FPT tr\u01b0\u1edbc l\u00e0n s\u00f3ng bi\u1ebfn \u0111\u1ed9ng v\u0129 m\u00f4 v\u00e0 t\u1ea7m nh\u00ecn c\u00f4ng ngh\u1ec7 b\u1ec1n v\u1eefng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "Freedom Capital Markets maintains Hold rating on FormFactor, $140 price target -",
+    "This top strategist has a warning for retail investors chasing the AI rally"
   ]
 }
