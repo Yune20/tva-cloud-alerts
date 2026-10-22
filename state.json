@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792626772.264859,
+  "last_signals": 1792627386.9155996,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,7 +63,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -77,7 +77,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792626772.766416,
+    "Bitcoin|4H:top": 1792627387.3914967,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792626762.3534677,
-  "last_news": 1792626772.1914232,
+  "last_analysis": 1792627375.6682403,
+  "last_news": 1792627386.9146583,
   "seen_news": [
-    "S\u1ebfp h\u1ecfi \u201cEm c\u00f3 th\u1ec3 nh\u1eadn th\u00eam vi\u1ec7c kh\u00f4ng?\u201d, 3 c\u00e1ch t\u1eeb ch\u1ed1i t\u01b0\u1edfng m\u1ea5t l\u00f2ng nh\u01b0ng t",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
-    "BFIT: Revenue and memberships grew strongly; FY guidance was reaffirmed - Tradin",
-    "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behin",
-    "Spain battles climate change on several fronts",
-    "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
     "UK Greenlights Major North Sea Gas Field After Years of Legal Battles",
     "Getty Images files for US bankruptcy, advances restructuring plan",
     "Crude oil inventories show a draw of -3.060M versus estimate of -0.82 million dr",
@@ -440,6 +434,12 @@
     "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
     "EBay to lay off 9% of workforce in its second round of job cuts this year",
     "The \"trillion pound\" oil fund the government believes Britain could have built",
-    "Comcast planning significant jobs cuts, Bloomberg News reports"
+    "Comcast planning significant jobs cuts, Bloomberg News reports",
+    "Moderna is about to release the trial results for its cancer vaccine. A lot is r",
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
+    "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+    "Australia\u2019s Santos trims 2026 output forecast on Alaska oilfield delays",
+    "Tesla earnings call: Targets 5 million cars a year by 2030, says 2027 Megapack s"
   ]
 }
