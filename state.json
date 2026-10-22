@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792637935.6767678,
+  "last_signals": 1792638597.9195697,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792636700.0771737,
+    "5575146754|Gold|1H|range_in": 1792638597.9195697,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
@@ -53,7 +53,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792637935.8275378,
+    "Gold|4H:bot": 1792638598.2026448,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792638231.0792358,
-  "last_news": 1792637935.6758416,
+  "last_analysis": 1792638588.071451,
+  "last_news": 1792638597.9186573,
   "seen_news": [
-    "Google resolves cloud outage affecting UK banks and websites",
-    "Britain regulator ends Home REIT probe, defers to fraud office",
-    "European markets steady for now but widening bond yield spreads offer a warning",
-    "M\u1ed9t hi\u1ec7n t\u01b0\u1ee3ng l\u1ea1 v\u1eeba x\u1ea3y ra tr\u00ean th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam",
-    "T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - VietstockFinance",
-    "SpaceX offer will be hard for Tesla to refuse - TradingView",
     "Bitcoin rallies on US-Iran deal hopes amid increasingly positive reports. What's",
     "M\u1ed9t c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng \u0111\u01b0\u1ee3c h\u01a1n 50 qu\u1ef9 c\u00f9ng \u201cxu\u1ed1ng ti\u1ec1n\u201d gom h\u00e0ng, l\u1ee3i nhu\u1eadn qu\u00fd",
     "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
@@ -440,6 +434,12 @@
     "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
     "Why is Unitree Robotics stock climbing today?",
     "Iran\u2019s floating oil reserves in Asia run dry under US naval blockade, WSJ report",
-    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t"
+    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
+    "Deepseek raises $15 bln in Tencent, CATL-backed funding round - Bloomberg",
+    "Kinder Morgan commits to $4.2B Texas gas pipeline to fuel hyperscale data center",
+    "Qu\u1ed1c gia th\u00e2n thi\u1ebft b\u1ea5t ng\u1edd mu\u1ed1n g\u1ea1ch t\u00ean Nga kh\u1ecfi d\u1ef1 \u00e1n 14 t\u1ef7 USD",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "AeroVironment Expands Australian Defense Manufacturing Through NIOA - TradingVie",
+    "Netflix has dipped its toe into theatrical. Is it ready to jump in?"
   ]
 }
