@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792701216.9919612,
-  "last_bot4": 1792702185.0922208,
+  "last_bot4": 1792702808.1399064,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792701570.1117938
+    "Gold": 1792702808.1397793
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792702185.0927818,
+  "last_signals": 1792702808.1405804,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -40,7 +40,7 @@
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792673425.2975047,
     "5575146754|Gold|4H|dbot": 1792674028.3112574,
-    "5575146754|Gold|4H|dn": 1792698727.1818526,
+    "5575146754|Gold|4H|dn": 1792702808.1405804,
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
@@ -125,7 +125,7 @@
     "USOIL|4H:top": 1792484818.5559955,
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792702186.1327643,
+    "Bitcoin|4H:bot": 1792702808.759,
     "EUR/USD|4H:bot": 1792688464.2013297,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792700594.3665743
   },
-  "last_analysis": 1792702482.25721,
-  "last_news": 1792702185.0916781,
+  "last_analysis": 1792702796.4700484,
+  "last_news": 1792702805.2452538,
   "seen_news": [
-    "Goldman Sachs forecasts 9% of workers could face AI displacement",
-    "Netflix, Tesla and Meta earnings put Wall Street's cautious mood back in focus",
-    "FPT tr\u01b0\u1edbc l\u00e0n s\u00f3ng bi\u1ebfn \u0111\u1ed9ng v\u0129 m\u00f4 v\u00e0 t\u1ea7m nh\u00ecn c\u00f4ng ngh\u1ec7 b\u1ec1n v\u1eefng",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
-    "Freedom Capital Markets maintains Hold rating on FormFactor, $140 price target -",
-    "This top strategist has a warning for retail investors chasing the AI rally",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
     "Old Republic International (NYSE:ORI) exceeds Q3 2026 expectations - TradingView",
     "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes aft",
@@ -447,6 +441,12 @@
     "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
     "Market playbook: Why a convincing market story doesn't always make a good trade",
     "M\u1ed9t ng\u01b0\u1eddi ph\u1ee5 n\u1eef Vi\u1ec7t v\u1eeba c\u00f3 th\u00eam h\u01a1n 4.000 t\u1ef7 \u0111\u1ed3ng",
-    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc"
+    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
+    "US futures tumble as AI rally faces fresh scrutiny despite solid Meta earnings",
+    "T\u1eadp \u0111o\u00e0n c\u1ee7a b\u1ea7u Hi\u1ec3n kh\u1ea3o s\u00e1t khu li\u00ean h\u1ee3p th\u1ec3 thao h\u01a1n 8.000 ch\u1ed7 ng\u1ed3i t\u1ea1i t\u1ec9nh",
+    "SMC: CTCP \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i SMC - SMC J.S.C. - VietstockFinance",
+    "Applied Industrial Technologies elects Michael Olosky to its board - TradingView",
+    "Oil prices approach Iran-war highs as soaring tanker rates trigger a second ener",
+    "Disney\u2019s multiplatform Super Bowl plan frustrates ABC affiliates"
   ]
 }
