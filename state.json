@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792690330.0764737,
-  "last_bot4": 1792690638.1028144,
+  "last_bot4": 1792691606.9721282,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792690638.102722
+    "Gold": 1792691606.9720268
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792690940.3873072,
+  "last_signals": 1792691606.9729245,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -123,7 +123,7 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792689703.447303,
+    "US30|4H:top": 1792691608.0851274,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1792688464.2013297,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792685256.4715257
   },
-  "last_analysis": 1792691239.622221,
-  "last_news": 1792690940.3747108,
+  "last_analysis": 1792691594.9957113,
+  "last_news": 1792691604.4797504,
   "seen_news": [
-    "Why Are Rare Earth Stocks Falling When Prices Keep Rising?",
-    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-    "Oil rises as hopes for a deal fade amid growing prospects of another US attack o",
-    "Tr\u1ea1m s\u1ea1c \u00f4 t\u00f4 \u0111i\u1ec7n c\u00f3 quy m\u00f4 l\u1edbn nh\u1ea5t Vi\u1ec7t Nam b\u1eaft \u0111\u1ea7u \u0111i v\u00e0o ho\u1ea1t \u0111\u1ed9ng",
-    "Ch\u1ee9ng quy\u1ec1n FPT/ACBS/7M/116 HOSE: CFPT2636 - VietstockFinance",
-    "Dollar holds steady as Middle East tensions simmer, oil rises - TradingView",
     "Burnham proposes plan to cut standing charges from gas bills",
     "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
     "Solana plunges as geopolitical tensions overshadow Alpenglow upgrade amid macroe",
@@ -447,6 +441,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
     "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
     "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your brea",
-    "Third-party evaluators found vulnerabilities in OpenAI monitoring system during "
+    "Third-party evaluators found vulnerabilities in OpenAI monitoring system during ",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
+    "DAX Closes in the Red - TradingView",
+    "The Social Security Administration wants more babies signed up for \u2018Trump accoun",
+    "Elon Musk invests about $1 billion in Skydance",
+    "The 'trillion pound' oil fund the government believes Britain could have built",
+    "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge"
   ]
 }
