@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792704361.4119124,
+  "last_signals": 1792704971.157732,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792661017.3011575,
-    "5575146754|Gold|4H|momo_dn": 1792701216.9929087,
+    "5575146754|Gold|4H|momo_dn": 1792704971.157732,
     "5575146754|Gold|1D|dn": 1792700592.8450043
   },
   "sig_range": {
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -138,22 +138,16 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
     "Ethereum|4H:bot": 1792695649.1413653,
-    "USD/JPY|4H:bot": 1792083385.8380995,
-    "JPY Index|4H:bot": 1792083386.3816352,
+    "USD/JPY|4H:bot": 1792704972.6279578,
+    "JPY Index|4H:bot": 1792704972.9507046,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792704363.9078817
+    "GBP/USD|1D:top": 1792704972.2646
   },
-  "last_analysis": 1792704351.9809973,
-  "last_news": 1792704361.3985066,
+  "last_analysis": 1792704963.9692936,
+  "last_news": 1792704971.1569884,
   "seen_news": [
-    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
-    "US initial jobless claims 194K vs 200K estimate. Better than expected.",
-    "Si\u00eau du thuy\u1ec1n tr\u1ecb gi\u00e1 tr\u0103m t\u1ef7 \u0111\u1ed3ng c\u1ee7a Lionel Messi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "M/I Homes CEO Flags 'Increasingly Difficult' Housing Market - TradingView",
-    "California's Proposition 40: What voters need to know about billionaire wealth t",
     "S\u1eeda 3 lu\u1eadt v\u1ec1 b\u1ea5t \u0111\u1ed9ng s\u1ea3n: G\u1ee1 v\u01b0\u1edbng m\u1eafc th\u1ee7 t\u1ee5c, t\u0103ng minh b\u1ea1ch th\u1ecb tr\u01b0\u1eddng",
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "Ribbon Communications Inc. (RBBN) Appoints SVP to Lead Acumen AI - TradingView",
@@ -447,6 +441,12 @@
     "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
     "OpenAI close to raising up to $30 billion at $1.25 trillion valuation, UAE inves",
     "Si\u00eau n\u00fat giao g\u1ea7n 2.400 t\u1ef7 v\u01b0\u1ee3t \u0111\u1ea1i l\u1ed9 r\u1ed9ng nh\u1ea5t Vi\u1ec7t Nam v\u1edbi 16 l\u00e0n xe \u0111ang d\u1ea7n",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "Rivian acquires Third Dimension AI to boost autonomous driving",
+    "Nasdaq sinks as chip stocks tumble",
+    "C\u00f4ng ty cao su b\u00e1o doanh thu cao nh\u1ea5t 55 qu\u00fd, c\u1ed5 phi\u1ebfu \u0111\u00e3 t\u0103ng 30% trong 3 th\u00e1ng",
+    "C4G: CTCP T\u1eadp \u0111o\u00e0n CIENCO4 - T\u1eadp \u0111o\u00e0n CIENCO4 - VietstockFinance",
+    "New Bubbleroom Sweden Q3 2026 Earnings Call Is Live - TradingView",
+    "Treasury yields see extreme plunge. Why investors are ducking for cover."
   ]
 }
