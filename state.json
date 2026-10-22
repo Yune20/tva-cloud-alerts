@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792677770.5450807,
+  "last_signals": 1792678406.4525068,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -45,7 +45,8 @@
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792661017.3011575,
-    "5575146754|Gold|4H|momo_dn": 1792677770.5450807
+    "5575146754|Gold|4H|momo_dn": 1792677770.5450807,
+    "5575146754|Gold|1D|dn": 1792678406.4525068
   },
   "sig_range": {
     "Gold": true,
@@ -69,7 +70,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -142,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792677772.6073663
+    "GBP/USD|1D:top": 1792678408.93138
   },
-  "last_analysis": 1792677760.6558762,
-  "last_news": 1792677770.544183,
+  "last_analysis": 1792678399.1492357,
+  "last_news": 1792678406.4516866,
   "seen_news": [
-    "Chart of the day: Gold price falls below $4,100 as sellers threaten another brea",
-    "Hoa h\u1eadu qu\u00ea Thanh H\u00f3a t\u1eebng l\u1ed9i ru\u1ed9ng c\u1ea5y l\u00faa: K\u1ebft h\u00f4n v\u1edbi thi\u1ebfu gia t\u1eadp \u0111o\u00e0n ngh",
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
-    "REG - HarbourVest Global - Launch of Tender Offer and Publication of circular - ",
-    "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-    "Southwest Airlines cuts 2026 profit forecast on higher fuel",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Finland's Verkkokauppa Q3 revenue misses estimates on weak demand - TradingView",
     "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
@@ -446,6 +441,12 @@
     "CPI Property Group (O5G) Sees Kingstown Lawsuit Dismissed in Full - TradingView",
     "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
     "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home pro",
-    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit"
+    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+    "Sun Token to Be Integrated With Symbiosis - TradingView",
+    "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices ",
+    "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
+    "Living with a stink? Technology might help",
+    "What Jackdaw\u2019s Approval Means for the Future of North Sea Drilling",
+    "Why is Strategy stock sliding today?"
   ]
 }
