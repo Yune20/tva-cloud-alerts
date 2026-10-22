@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792635762.354375,
-  "last_bot4": 1792640731.053021,
+  "last_bot4": 1792641395.8329544,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792640098.043543
+    "Gold": 1792641395.8328547
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792641025.049583,
+  "last_signals": 1792641395.8336394,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792638597.9195697,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -72,8 +72,8 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -125,7 +125,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792641026.7541528,
+    "GBP/USD|4H:top": 1792641396.7285814,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -136,18 +136,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792516066.3352554,
+    "DXY|4H:bot": 1792641397.149426,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792640731.05163,
-  "last_news": 1792641024.9630759,
+  "last_analysis": 1792641385.118548,
+  "last_news": 1792641392.7113652,
   "seen_news": [
-    "Rainmakers: The drones used to seed clouds",
-    "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
-    "Fed could cut balance sheet to $4.5 trillion, paper says",
-    "Crude oil volatility increases amid conflicting reports over US-Iran negotiation",
-    "L\u00e3nh \u0111\u1ea1o Coteccons n\u00f3i g\u00ec khi t\u1ef7 l\u1ec7 ngh\u1ec9 vi\u1ec7c t\u1ea1i CTD t\u0103ng m\u1ea1nh, nh\u00e2n s\u1ef1 \u0111\u01b0\u1ee3c m\u1edd",
-    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
     "Orion Energy Systems Expands Into EV Charging, Maintenance and Electrical Infras",
     "\u2018Super\u2019 El Ni\u00f1o may soon make your coffee super expensive",
@@ -441,6 +435,12 @@
     "Mortgage rates drop for the first time in 2 months, but demand still falls furth",
     "Vinted blocks French looters listing stolen goods for sale",
     "Russia\u2019s Northern Sea Route Workaround Supplying Asian Buyers",
-    "India\u2019s 10-year bond yield climbs above 7.45% to multi-year high"
+    "India\u2019s 10-year bond yield climbs above 7.45% to multi-year high",
+    "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
+    "Ibovespa Falls as Election Uncertainty Weighs - TradingView",
+    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
+    "What is PHP and why did it spark a global cyber security scramble?",
+    "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat",
+    "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expe"
   ]
 }
