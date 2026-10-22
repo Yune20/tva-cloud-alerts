@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792682869.4583633,
+  "last_signals": 1792683427.661407,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792681962.975362,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792682871.2182994,
+    "EUR/USD|4H:bot": 1792683429.6566825,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792682870.991622
+    "GBP/USD|1D:top": 1792683429.4084265
   },
-  "last_analysis": 1792682858.1497228,
-  "last_news": 1792682869.4574625,
+  "last_analysis": 1792683421.4482312,
+  "last_news": 1792683427.6605492,
   "seen_news": [
-    "Cairn Homes plc (CRN) Buys Back 100,000 Shares for Cancellation - TradingView",
-    "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
-    "The political ad wars are still being fought over the airwaves even as digital g",
-    "Why are more roofs not made of solar tiles?",
-    "French yields breach 5% amid Paris budget paralysis and nationwide unrest",
-    "What are the main events for today?",
     "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings",
     "European stock market open: Stocks tumble as French debt worries and bond yields",
@@ -447,6 +441,12 @@
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
     "Government-linked $1B Bitcoin transfer reaches Coinbase addresses - TradingView",
     "Moderna has a plan to revolutionize how certain cancers are treated. We\u2019re about",
-    "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exis"
+    "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exis",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "SuperCom (SPCB) Launches SafeGenie to Monitor and Control AI Agents - TradingVie",
+    "Two big reasons Micron and other chip stocks are falling on Thursday",
+    "Under-the-radar stocks to play the next leg of the energy trade with oil prices ",
+    "'I wasn't thinking straight' says five jobs civil servant",
+    "Ofgem Approves Deal to Keep UK Gas Import Capacity From Europe"
   ]
 }
