@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792653806.6136758,
+  "last_signals": 1792654423.92153,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792649540.211089,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -77,7 +77,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1792653806.9099572,
+    "Gold|1D:bot": 1792654424.2422504,
     "Ethereum|4H:bot": 1792357119.032691,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
@@ -143,15 +143,9 @@
     "DXY|4H:bot": 1792647276.132776,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792653798.0691395,
-  "last_news": 1792653806.612762,
+  "last_analysis": 1792654414.105846,
+  "last_news": 1792654423.9204466,
   "seen_news": [
-    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "EIA Says US Crude Inventories Sink Further",
-    "Australia\u2019s Fortescue warns of operations hit as China state buyer talks rumble ",
-    "Bank of Korea expected to hold rates today after two hikes, tightening cycle see",
-    "\u0110\u1ec1 xu\u1ea5t ngh\u1ec9 h\u01b0\u1edfng nguy\u00ean l\u01b0\u01a1ng ng\u00e0y 27/7: D\u1ecbp to\u00e0n x\u00e3 h\u1ed9i tri \u00e2n ng\u01b0\u1eddi c\u00f3 c\u00f4ng",
     "How long will humans be needed for translation?",
     "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
     "BlackRock\u2019s Hambro sees gold rising on debt and deficits",
@@ -445,6 +439,12 @@
     "Bitcoin treasury companies return to profit as prices exceed $80K - TradingView",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
     "Websites taken down worldwide as critical cyber-security update issued",
-    "European stocks buckle as French yields cross 5% barrier"
+    "European stocks buckle as French yields cross 5% barrier",
+    "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad b",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Just Eat apologises for AI food mistakes after social media ridicule",
+    "Big Oil Eyes Record Profits but Keeps Spending in Check",
+    "UCB raises 2026 outlook on strong US Bimzelx and Cimzia sales",
+    "France business confidence improves in October but cracks remain beneath the sur"
   ]
 }
