@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792665034.6247463,
+  "last_signals": 1792665660.3321085,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792663812.6964338,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -65,7 +65,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -129,7 +129,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792665035.4977212,
+    "GBP/USD|4H:top": 1792665662.7647266,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792665035.4977326
+    "GBP/USD|1D:top": 1792665662.764745
   },
-  "last_analysis": 1792665026.3741493,
-  "last_news": 1792665034.6239672,
+  "last_analysis": 1792665651.5769985,
+  "last_news": 1792665660.3312469,
   "seen_news": [
-    "NFLX: Netflix Stock Drops 6% as Weak Outlook Eclipses Profit Jump - TradingView",
-    "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating ",
-    "Union attacks NatWest plans to get workers back to the office",
-    "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
-    "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
-    "Bank of Korea holds rate at 3% after back-to-back hikes, keeps door open to Nove",
     "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Home BancShares declares $0.23 dividend - TradingView",
     "GM aims to develop vehicles in as little as two years with AI, software push",
@@ -445,6 +439,12 @@
     "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire t",
     "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
     "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "Sterling today: Pound edges higher on U.S. tech drag"
+    "Sterling today: Pound edges higher on U.S. tech drag",
+    "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+    "Inflation and government borrowing highest for a year ahead of next week's Budge",
+    "Washington\u2019s Central Asia Charm Offensive Yields $12 Billion in Deals",
+    "Sterling today: Pound climbs on hot UK CPI as dollar weakens",
+    "Ethereum tumbles as renewed Middle East tensions weigh on risk sentiment. What's",
+    "H\u00e0 N\u1ed9i: L\u00e0m r\u00f5 tr\u00e1ch nhi\u1ec7m, ki\u00ean quy\u1ebft thu h\u1ed3i d\u1ef1 \u00e1n ch\u1eadm tri\u1ec3n khai"
   ]
 }
