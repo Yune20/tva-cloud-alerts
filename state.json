@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792635469.1431074,
+  "last_signals": 1792636087.377701,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -59,7 +59,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -74,10 +74,10 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792634857.5147412,
+    "Gold|4H:bot": 1792636087.6189027,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -136,17 +136,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792635471.3515027
+    "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792635460.9435246,
-  "last_news": 1792635469.1354167,
+  "last_analysis": 1792636079.0978367,
+  "last_news": 1792636087.3768678,
   "seen_news": [
-    "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar",
-    "Reliance says Ambanis and Rubio discussed global energy, data centres in visit",
-    "Bitcoin shows some buying life as risk-on flows return and push the digital curr",
-    "4 d\u1ea5u hi\u1ec7u c\u1ee7a m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng s\u1ed1ng th\u1ecd: N\u1ebfu b\u1ea1n c\u00f3 t\u1ea5t c\u1ea3 th\u00ec xin ch\u00fac m\u1eebng!",
-    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "NFLX: Netflix Stock Drops 6% as Weak Outlook Eclipses Profit Jump - TradingView",
     "UAL options activity points to bullish positioning after earnings beat",
     "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
     "Ng\u00e0y 22/10, g\u1eedi 100 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i 7 ng\u00e2n h\u00e0ng nh\u1eadn bao nhi\u00eau ti\u1ec1n l\u00e3i sau 24 th",
@@ -440,6 +434,12 @@
     "K\u1ef9 s\u01b0 MIT ph\u00e1t minh robot \"\u0111\u1ed9t bi\u1ebfn\", c\u00f3 th\u1ec3 m\u1edf \u0111\u01b0\u1eddng cho d\u00f2ng drone ch\u01b0a t\u1eebng t",
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
     "Cattle Extending Higher on Tuesday - TradingView",
-    "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case"
+    "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+    "Tuy\u1ebfn c\u00e1p treo l\u00ean th\u1eb3ng \u0111\u1ec9nh n\u00fai cao h\u01a1n 1.500 m, nhi\u1ec7t \u0111\u1ed9 t\u1eebng xu\u1ed1ng -5 \u0111\u1ed9 C n",
+    "B\u00c1O C\u00c1O - VietstockFinance",
+    "Goodyear to Announce Third Quarter 2026 Financial Results - TradingView",
+    "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+    "Inflation and government borrowing highest for a year ahead of next week's Budge",
+    "Washington\u2019s Central Asia Charm Offensive Yields $12 Billion in Deals"
   ]
 }
