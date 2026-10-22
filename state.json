@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792630196.9923687,
+  "last_signals": 1792630825.9063606,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,7 +63,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -71,7 +71,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -112,7 +112,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1792630198.2965233,
+    "Bitcoin|4H:top": 1792630826.4060667,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792616516.0095708
   },
-  "last_analysis": 1792630499.9592574,
-  "last_news": 1792630196.9916224,
+  "last_analysis": 1792630817.0875752,
+  "last_news": 1792630825.9054577,
   "seen_news": [
-    "What is happening to UK prices?",
-    "India\u2019s Coal Crisis Deepens as Power Demand Surges",
-    "UK\u2019s FTSE 100 ticks higher on energy boost; hot inflation report limits gains",
-    "European stock market open: Stocks tread cautiously as French bond market keeps ",
-    "Th\u1ea7y gi\u00e1o tr\u01b0\u1eddng h\u1ecdc \u0111\u1eb7c bi\u1ec7t n\u1ed5i ti\u1ebfng 10 n\u0103m, 30 tu\u1ed5i mua nh\u00e0 cao c\u1ea5p 80 t\u1ef7",
-    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu | VietstockFinance - VietstockFinance",
     "AT&T earnings analysis: questions answered and next catalysts",
     "Chart of the day: Gold price eyes $4,100 support as $4,200 resistance keeps bull",
     "Showbiz c\u00f3 1 m\u1ef9 nh\u00e2n \u0111\u1eb9p \u0111\u1ebfn m\u1ee9c \u0111\u01b0\u1ee3c \u0111\u1ed3ng nghi\u1ec7p cho 7.000 t\u1ef7 \u0111\u1ed3ng: M\u1ecdi c\u00f4 g\u00e1i ",
@@ -440,6 +434,12 @@
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111ang s\u1eed d\u1ee5ng \u0111i\u1ec7n ch\u00fa \u00fd \u0111\u1ec1 xu\u1ea5t m\u1edbi nh\u1ea5t v\u1ec1 gi\u00e1 \u0111i\u1ec7n",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
     "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
-    "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's"
+    "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's",
+    "GM to Add Hybrids as U.S. Gasoline Holds Above $4",
+    "Why is Tesla stock falling after-hours today?",
+    "Crude oil inventories show a draw of -3.060M versus estimate of -0.82 million dr",
+    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01a1n s\u00e1ng 22/10 t\u1ea1i SJC, PNJ, DOJI, Ph\u00fa Qu\u00fd, B\u1ea3o T\u00edn M",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "Belk, Inc. Closes $1.275B ABL and FILO Financing - TradingView"
   ]
 }
