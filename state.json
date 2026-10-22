@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792679272.6891038,
+  "last_signals": 1792679874.8557312,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -72,7 +72,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
@@ -123,7 +123,7 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792679274.7065947,
+    "US30|4H:top": 1792679876.022154,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1792679275.5635722,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792679275.1754527
+    "GBP/USD|1D:top": 1792679876.2842531
   },
-  "last_analysis": 1792679258.9539726,
-  "last_news": 1792679267.1325855,
+  "last_analysis": 1792679866.5986862,
+  "last_news": 1792679874.7776203,
   "seen_news": [
-    "Burnham vows end to 'rip-off parking charges' under new rules",
-    "A brutal October for Asia. Where the money is actually going and what it knows",
-    "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
-    "V\u00ec sao \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 v\u00e0 b\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7p Th\u1ea3o \u0111\u1eb7t t\u00ean con trai \u0111\u1ea7u l\u00e0 \u0110\u1eb7",
-    "DXS: CTCP D\u1ecbch v\u1ee5 B\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0110\u1ea5t Xanh - DXS - VietstockFinance",
-    "Krsnaa Diagnostics Announces Strategic Ai Collaboration With Azmed - TradingView",
     "Iran\u2019s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
     "Dollar gains as French turmoil due to violent protests drags down the euro",
     "More on Meta earnings (call): Plans effective 2-for-1 split via non-voting share",
@@ -447,6 +441,12 @@
     "Prisma Properties (PRISMA) Q3 Mgmt Profit Up 28% to SEK 78M - TradingView",
     "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racket",
     "Audit regulator looking into Manchester City accounting",
-    "U.S. Energy Red Tape Gives China an Edge"
+    "U.S. Energy Red Tape Gives China an Edge",
+    "IREN vs APLD: comparing two AI infrastructure stocks",
+    "Trading Education: Gold falls despite lower yields: A lesson in trading what the",
+    "Th\u1ecbt b\u00f2 v\u00e0 th\u1ecbt g\u00e0, lo\u1ea1i n\u00e0o t\u1ed1t h\u01a1n cho \u0111\u01b0\u1eddng ru\u1ed9t? Ph\u00e1t hi\u1ec7n s\u1ef1 kh\u00e1c bi\u1ec7t \u00edt a",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Airbus Projects Global Freighter Fleet To Grow 46% By 2045 - TradingView",
+    "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My"
   ]
 }
