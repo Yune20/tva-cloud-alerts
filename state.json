@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792657849.7683835,
+  "last_signals": 1792658471.287075,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792657849.7683835,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,13 +62,13 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792658733,
   "menu_prices": {
@@ -143,15 +143,9 @@
     "DXY|4H:bot": 1792657238.9794624,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792657842.3390727,
-  "last_news": 1792657849.7674048,
+  "last_analysis": 1792658463.8482451,
+  "last_news": 1792658471.2861545,
   "seen_news": [
-    "C\u00f4ng an ki\u1ec3m tra 56 c\u00f4ng nh\u00e2n, nh\u00e2n vi\u00ean c\u1ee7a m\u1ed9t c\u00f4ng ty",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Saniona (SANION) Files FDA IND For SAN2465 In MDD - TradingView",
-    "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "UK Greenlights Major North Sea Gas Field After Years of Legal Battles",
     "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behin",
     "The tech helping crack decades-old cold cases",
     "Government websites go dark after AI-discovered flaw sparks security scramble",
@@ -445,6 +439,12 @@
     "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation",
     "H\u00f2a Minzy: \"Ch\u1ecb c\u01b0\u1eddi c\u01b0\u1eddi cho em tho\u1ea3i m\u00e1i ch\u1ee9 th\u1eadt t\u00e2m l\u00e0 ch\u1ecb x\u00f3t l\u1eafm\"",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-10-21 \u2014 cnbctv:ab6e7a6d4094b:0 - TradingV"
+    "News by CNBC TV18 on TradingView, 2026-10-21 \u2014 cnbctv:ab6e7a6d4094b:0 - TradingV",
+    "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 s\u1ed5 BHXH ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a BHXH Vi\u1ec7t Nam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
+    "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
+    "World's largest wealth fund posts $30 billion loss after bond market turbulence"
   ]
 }
