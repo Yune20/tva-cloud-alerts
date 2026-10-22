@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792674746.5268621,
+  "last_signals": 1792675289.9717042,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792674746.8665948,
+    "Gold|4H:bot": 1792675290.336208,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792674748.568557
+    "GBP/USD|1D:top": 1792675291.745551
   },
   "last_analysis": 1792675055.219457,
-  "last_news": 1792674746.5259173,
+  "last_news": 1792675289.9708037,
   "seen_news": [
-    "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Ir",
-    "No order, no seat: Starbucks China rolls out new store policy",
-    "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
-    "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
-    "investingLive European news wrap: Markets remain cautiously optimistic",
-    "T\u00e0i x\u1ebf l\u1ebbn v\u00e0o ph\u00f2ng ng\u1ee7 b\u00e0 ch\u1ee7 tr\u1ed9m h\u00e0ng ch\u1ee5c t\u00fai x\u00e1ch h\u00e0ng hi\u1ec7u b\u00e1n \u0111\u01b0\u1ee3c 8,5 t",
     "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
     "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
     "BlackRock\u2019s Rieder sees historic opportunity in high-grade bonds, including hype",
@@ -445,6 +439,12 @@
     "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes aft",
     "Trump sued over Canadian tariffs in latest legal challenge",
     "Grid Constraints Curtailed 119 GW of Renewables in India in September",
-    "Coinbase Ireland fined \u20ac3.25M by Irish regulators over safeguarding breaches"
+    "Coinbase Ireland fined \u20ac3.25M by Irish regulators over safeguarding breaches",
+    "Goodyear to Announce Third Quarter 2026 Financial Results - TradingView",
+    "California's Proposition 40: What voters need to know about the billionaire weal",
+    "Civil servant admits he 'made mistakes' juggling five government jobs",
+    "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
+    "Canada September PPI +2.0% m/m vs +1.3% prior",
+    "M\u1eabu xe tay ga Ch\u00e2u \u00c2u Wottan ONE 125 ra m\u1eaft: Anh em song sinh c\u1ee7a Honda SH Mode,"
   ]
 }
