@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792679272.6878111,
-  "last_bot4": 1792680152.2223346,
+  "last_bot4": 1792680952.2857482,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792680472.9747238,
+  "last_signals": 1792680952.2863522,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -72,7 +72,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
@@ -123,10 +123,10 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792680474.24305,
+    "US30|4H:top": 1792680953.2273047,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792680474.703233,
+    "EUR/USD|4H:bot": 1792680953.5808766,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792680474.4410446
+    "GBP/USD|1D:top": 1792680953.4254441
   },
-  "last_analysis": 1792680464.1760259,
-  "last_news": 1792680472.973836,
+  "last_analysis": 1792680943.900301,
+  "last_news": 1792680952.2849054,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
-    "Asian markets recover as earnings optimism offsets AI concerns - TradingView",
-    "Top HSBC strategist has a warning for retail investors chasing the AI rally",
-    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
-    "Is an 'AI war' complicating your job search?",
-    "Colombia\u2019s peso hits one-month high on rate outlook",
     "C\u1ea7n h\u1ea1n ch\u1ebf t\u1ed1i \u0111a ph\u00e2n l\u00f4, b\u00e1n n\u1ec1n t\u1ea1i c\u00e1c \u0111\u00f4 th\u1ecb l\u1edbn",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "Bitcoin treasury companies return to profit as prices exceed $80K - TradingView",
@@ -447,6 +441,12 @@
     "European corporate earnings set to get a boost from energy windfall",
     "investingLive European session wrap: Dollar, yen and bonds kick it old school",
     "C\u01b0\u1eddng \u0110\u00f4 La \u0111\u1ec1u \u0111\u1eb7n l\u00e0m vi\u1ec7c n\u00e0y m\u1ed7i s\u00e1ng sau khi r\u1eddi ch\u1ee9c T\u1ed5ng gi\u00e1m \u0111\u1ed1c",
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance"
+    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
+    "iPhone Duo preorder surge prompts Apple to raise shipment targets, DigiTimes say",
+    "FX option expiries for 22 October 10am New York cut",
+    "Con g\u00e1i Beckham n\u1ee3",
+    "DXS: CTCP D\u1ecbch v\u1ee5 B\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0110\u1ea5t Xanh - DXS - VietstockFinance",
+    "ROLLINS, INC. INCREASES REGULAR QUARTERLY CASH DIVIDEND - TradingView",
+    "Southwest Airlines cuts 2026 profit forecast on higher fuel"
   ]
 }
