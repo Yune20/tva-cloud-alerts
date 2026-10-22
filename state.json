@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792663203.3393412,
+  "last_signals": 1792663812.6964338,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792657849.7683835,
+    "5575146754|Gold|1H|range_in": 1792663812.6964338,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -129,7 +129,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792663204.263521,
+    "GBP/USD|4H:top": 1792663814.1768372,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -140,18 +140,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792663204.7189643,
-    "GBP/USD|1D:top": 1792636089.025557
+    "DXY|4H:bot": 1792663814.8002534,
+    "GBP/USD|1D:top": 1792663814.1768496
   },
-  "last_analysis": 1792663195.6055095,
-  "last_news": 1792663203.3383832,
+  "last_analysis": 1792663803.4564052,
+  "last_news": 1792663812.6956663,
   "seen_news": [
-    "Gi\u1edbi si\u00eau gi\u00e0u M\u1ef9, ch\u00e2u \u00c2u, \u1ea2 R\u1eadp \u0111ua nhau t\u00ecm n\u01a1i 'gi\u1ea5u' v\u00e0ng - l\u00e1ng gi\u1ec1ng Vi\u1ec7t",
-    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "Gold eases as investors await Fed signals on rate path - TradingView",
-    "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second-largest diesel",
-    "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI,",
     "Sterling today: Pound climbs on hot UK CPI as dollar weakens",
     "Musk races to seal $3.7 trillion SpaceX-Tesla merger before Trump exits, Bloombe",
     "K\u1ef9 s\u01b0 MIT ph\u00e1t minh robot \"\u0111\u1ed9t bi\u1ebfn\", c\u00f3 th\u1ec3 m\u1edf \u0111\u01b0\u1eddng cho d\u00f2ng drone ch\u01b0a t\u1eebng t",
@@ -445,6 +439,12 @@
     "Oil rises as hopes for a deal fade amid growing prospects of another US attack o",
     "Tr\u1ea1m s\u1ea1c \u00f4 t\u00f4 \u0111i\u1ec7n c\u00f3 quy m\u00f4 l\u1edbn nh\u1ea5t Vi\u1ec7t Nam b\u1eaft \u0111\u1ea7u \u0111i v\u00e0o ho\u1ea1t \u0111\u1ed9ng",
     "Ch\u1ee9ng quy\u1ec1n FPT/ACBS/7M/116 HOSE: CFPT2636 - VietstockFinance",
-    "Dollar holds steady as Middle East tensions simmer, oil rises - TradingView"
+    "Dollar holds steady as Middle East tensions simmer, oil rises - TradingView",
+    "Burnham proposes plan to cut standing charges from gas bills",
+    "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
+    "Solana plunges as geopolitical tensions overshadow Alpenglow upgrade amid macroe",
+    "Mua t\u00f4m th\u1ea5y 4 lo\u1ea1i nh\u01b0 n\u00e0y th\u00ec nh\u1edb quay l\u01b0ng m\u00e0 \u0111i, nhi\u1ec1u ng\u01b0\u1eddi b\u00e1n h\u00e0ng th\u1eadm c",
+    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Verkkokauppa.com Q3 2026 Earnings Call Is Live - TradingView"
   ]
 }
