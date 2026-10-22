@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792681369.817742,
+  "last_signals": 1792681961.1188488,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792682127,
@@ -123,10 +123,10 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792681371.6922383,
+    "US30|4H:top": 1792681962.975362,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792681372.3843548,
+    "EUR/USD|4H:bot": 1792681963.7726586,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792681372.0550182
+    "GBP/USD|1D:top": 1792681963.4354773
   },
-  "last_analysis": 1792681358.0996695,
-  "last_news": 1792681369.8166523,
+  "last_analysis": 1792681953.1583238,
+  "last_news": 1792681961.046057,
   "seen_news": [
-    "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad b",
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Just Eat apologises for AI food mistakes after social media ridicule",
-    "Big Oil Eyes Record Profits but Keeps Spending in Check",
-    "UCB raises 2026 outlook on strong US Bimzelx and Cimzia sales",
-    "France business confidence improves in October but cracks remain beneath the sur",
     "Is EUR/USD giving traders a false sense of security as euro risks mount?",
     "H\u00e9 l\u1ed9 \u0111\u1ed9ng c\u01a1 g\u00e2y \u00e1n c\u1ee7a nghi ph\u1ea1m s\u00e1t h\u1ea1i t\u00e0i x\u1ebf \u00f4 t\u00f4 \u1edf H\u00e0 N\u1ed9i",
     "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC - VietstockFinance",
@@ -447,6 +441,12 @@
     "Is an 'AI war' complicating your job search?",
     "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
     "Norway stocks lower at close of trade; Oslo OBX down 0.99%",
-    "Chart of the day: Gold price falls below $4,100 as sellers threaten another brea"
+    "Chart of the day: Gold price falls below $4,100 as sellers threaten another brea",
+    "Websites taken down worldwide as critical cyber-security update issued",
+    "Iran\u2019s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
+    "Israel stocks lower at close of trade; TA 35 down 1.09%",
+    "Crude oil buyers remain in control from a technical perspective. What would tilt",
+    "B\u00e0 n\u1ed9i khoe t\u1eadp \u0111i cho ch\u00e1u s\u1edbm n\u00ean 10 th\u00e1ng \u0111\u00e3 bi\u1ebft \u0111i, nh\u01b0ng l\u1ea1i b\u1ecb b\u00e1c s\u0129 tr\u00e1",
+    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance"
   ]
 }
