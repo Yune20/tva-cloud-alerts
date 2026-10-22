@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792711088.4347901,
+  "last_signals": 1792711704.5771835,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -143,17 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792705590.5547972
+    "GBP/USD|1D:top": 1792705590.5547972,
+    "USD/JPY|1D:bot": 1792711706.0206394,
+    "JPY Index|1D:bot": 1792711706.3310635
   },
-  "last_analysis": 1792711080.465009,
-  "last_news": 1792711088.4339151,
+  "last_analysis": 1792711694.9924035,
+  "last_news": 1792711704.5763893,
   "seen_news": [
-    "Websites taken down worldwide as critical cyber-security update issued",
-    "Iran\u2019s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
-    "Israel stocks lower at close of trade; TA 35 down 1.09%",
-    "Crude oil buyers remain in control from a technical perspective. What would tilt",
-    "B\u00e0 n\u1ed9i khoe t\u1eadp \u0111i cho ch\u00e1u s\u1edbm n\u00ean 10 th\u00e1ng \u0111\u00e3 bi\u1ebft \u0111i, nh\u01b0ng l\u1ea1i b\u1ecb b\u00e1c s\u0129 tr\u00e1",
-    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
     "Morocco stocks higher at close of trade; Moroccan All Shares up 0.01%",
     "France business confidence improves in October but cracks remain beneath the sur",
     "3 sai l\u1ea7m khi g\u1eedi ti\u1ebft ki\u1ec7m nhi\u1ec1u ng\u01b0\u1eddi m\u1eafc m\u00e0 kh\u00f4ng nh\u1eadn ra m\u00ecnh \u0111ang m\u1ea5t ti\u1ec1n",
@@ -447,6 +443,12 @@
     "The start-ups hoping to return battery making to the US",
     "European Natural Gas Prices Rise on Middle East Escalation",
     "Grupo Mexico to press ahead with major US copper projects after output dip",
-    "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuati"
+    "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuati",
+    "Is an 'AI war' complicating your job search?",
+    "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
+    "Analysis-Musk\u2019s political baggage clouds prospects for SpaceX-Tesla deal",
+    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.",
+    "Ch\u00e2u \u00c1 b\u1ea5t ng\u1edd g\u1eedi tin kh\u00f4ng vui cho Iran",
+    "DXS: CTCP D\u1ecbch v\u1ee5 B\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0110\u1ea5t Xanh - DXS - VietstockFinance"
   ]
 }
