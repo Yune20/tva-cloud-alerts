@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792706195.2770588,
+  "last_signals": 1792706814.8194165,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -40,7 +40,7 @@
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792673425.2975047,
     "5575146754|Gold|4H|dbot": 1792674028.3112574,
-    "5575146754|Gold|4H|dn": 1792702808.1405804,
+    "5575146754|Gold|4H|dn": 1792706814.8194165,
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792705590.5547972
   },
-  "last_analysis": 1792706187.2538302,
-  "last_news": 1792706195.2760005,
+  "last_analysis": 1792706806.6009288,
+  "last_news": 1792706814.818489,
   "seen_news": [
-    "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc X\u00e2y d\u1ef1ng H\u00e0 N\u1ed9i quy ho\u1ea1ch 2 khu \u0111\u1ea5t g\u1ea7n 3,6ha, d\u1ef1 ki\u1ebfn x\u00e2y t\u00f2a nh",
-    "VLB: CTCP X\u00e2y d\u1ef1ng v\u00e0 S\u1ea3n xu\u1ea5t V\u1eadt li\u1ec7u x\u00e2y d\u1ef1ng Bi\u00ean H\u00f2a - BBCC - VietstockFina",
-    "CPI Property Group (O5G) Sees Kingstown Lawsuit Dismissed in Full - TradingView",
-    "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
-    "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home pro",
-    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
     "Sun Token to Be Integrated With Symbiosis - TradingView",
     "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices ",
     "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
@@ -447,6 +441,12 @@
     "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
     "Paddy Power cuts 1,400 jobs and blames betting tax rises",
     "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-    "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since De"
+    "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since De",
+    "Dollar up slightly, other currencies see small moves ahead of central bank delug",
+    "JPMorgan sees hedge fund de-risking limiting stock downside, with chips the key ",
+    "V\u1ee3 d\u1eady t\u1eeb 5 gi\u1edd s\u00e1ng n\u1ea5u c\u01a1m cho ch\u1ed3ng mang \u0111i l\u00e0m nh\u01b0ng anh l\u1ea1i n\u1ed5i gi\u1eadn: H\u1ed9p c",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
+    "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a"
   ]
 }
