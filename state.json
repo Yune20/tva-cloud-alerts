@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792646617.1627285,
-  "last_bot4": 1792647646.0165215,
+  "last_bot4": 1792648315.699029,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792647646.0173564,
+  "last_signals": 1792648315.699834,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792638597.9195697,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
-    "5575146754|Gold|1H|trap_dn": 1792644766.638044,
+    "5575146754|Gold|1H|trap_dn": 1792648315.699834,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792610649.8655016,
@@ -66,15 +66,15 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -126,7 +126,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792647647.796693,
+    "GBP/USD|4H:top": 1792648317.5680158,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -140,15 +140,9 @@
     "DXY|4H:bot": 1792647276.132776,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792647949.1520529,
-  "last_news": 1792647642.7964091,
+  "last_analysis": 1792648306.2572114,
+  "last_news": 1792648315.6980822,
   "seen_news": [
-    "Walmart launches tools for AI agents to shop for customers",
-    "Tesla Q3 earnings beat as margins and cash flow surprise, revenue narrowly misse",
-    "D\u1ea5u hi\u1ec7u t\u1ea1o \u0111\u00e1y c\u1ee7a th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "5 alternatives to Ledger to store your Bitcoin - TradingView",
-    "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices ",
     "Why investors should be skeptical of a potential Tesla-SpaceX merger",
     "Southwest Airlines cuts 2026 profit forecast on higher fuel",
     "The AI telling farmers when to harvest",
@@ -442,6 +436,12 @@
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "3 Stocks Set to Benefit From Long-Term AI Tailwinds - TradingView",
     "7 healthcare stocks that stand out as investors pay up for the sector",
-    "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did"
+    "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+    "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
+    "What is the Budget and what could be in it?",
+    "Dollar up slightly, other currencies see small moves ahead of central bank delug",
+    "US stocks close higher as tech leads the rally",
+    "5 kh\u00f4ng khi \u0103n m\u01b0\u1edbp",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i"
   ]
 }
