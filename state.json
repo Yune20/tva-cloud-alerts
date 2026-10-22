@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792684040.0815754,
+  "last_signals": 1792684641.1756775,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -78,13 +78,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792681962.975362,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792684042.3157403,
+    "EUR/USD|4H:bot": 1792684642.5217113,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792684042.0076451
+    "GBP/USD|1D:top": 1792684642.3550994
   },
   "last_analysis": 1792684345.781782,
-  "last_news": 1792684040.0805945,
+  "last_news": 1792684641.1748528,
   "seen_news": [
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
-    "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
-    "Why is Tesla stock sliding today?",
-    "Gold drops as Middle East tensions escalate, but growth concerns could provide s",
-    "\u0110\u1ebfn tu\u1ed5i 40 m\u1edbi b\u1ecf c\u00e1ch \u2018c\u00f3 bao nhi\u00eau g\u1eedi b\u1ea5y nhi\u00eau\u2019: M\u1eb9 H\u00e0 N\u1ed9i chia ti\u1ec1n th\u00e0nh ",
     "India Ramps Up Coal Supplies to Record High as Power Crisis Looms",
     "Why is Nestl\u00e9 stock climbing today?",
     "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation",
@@ -447,6 +441,12 @@
     "Just Eat apologises for AI food mistakes after social media ridicule",
     "Big Oil Eyes Record Profits but Keeps Spending in Check",
     "Poland stocks lower at close of trade; WIG30 down 1.49%",
-    "What are the main events for today?"
+    "What are the main events for today?",
+    "ContextVision AB (publ) (CONTX) Treasury Stake Reaches 5.01% After Buybacks - Tr",
+    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
+    "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
+    "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "Why is Newmont stock sliding today?",
+    "European stock market open: Stocks tumble as French debt worries and bond yields"
   ]
 }
