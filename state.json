@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792692563.3333051,
+  "last_signals": 1792693172.4758174,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792685256.4715257
   },
-  "last_analysis": 1792692552.0189724,
-  "last_news": 1792692560.4180984,
+  "last_analysis": 1792693163.7357645,
+  "last_news": 1792693172.4751618,
   "seen_news": [
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "ZTE (H.K.) Limited Cuts Enablence Stake to ~3.25% - TradingView",
-    "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire t",
-    "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "Sterling today: Pound edges higher on U.S. tech drag",
     "Trump-aligned super PACs pour millions into once-safe GOP House seats",
     "Inflation and government borrowing highest for a year ahead of next week's Budge",
     "Washington\u2019s Central Asia Charm Offensive Yields $12 Billion in Deals",
@@ -447,6 +441,12 @@
     "EU\u2019s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
     "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
     "The evidence mounts that the US dollar is leveraged to the AI trade",
-    "Ng\u00e0y 23/10, g\u1eedi 100 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i MB, VPBank, Techcombank, Sacombank, SHB, ACB "
+    "Ng\u00e0y 23/10, g\u1eedi 100 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i MB, VPBank, Techcombank, Sacombank, SHB, ACB ",
+    "Why is JetBlue Airways stock sliding today?",
+    "US stocks are taking on water. What could steady the ships?",
+    "M\u1ef9 mang 'b\u00e1u v\u1eadt c\u00f4ng ngh\u1ec7 ch\u1ec9 20 n\u01b0\u1edbc c\u00f3' sang Vi\u1ec7t Nam, ph\u1ee5c v\u1ee5 si\u00eau c\u00f4ng tr\u00ecn",
+    "Ch\u1ee9ng quy\u1ec1n FPT/ACBS/7M/116 HOSE: CFPT2636 - VietstockFinance",
+    "Dollar holds steady as Middle East tensions simmer, oil rises - TradingView",
+    "Moderna\u2019s stock tumbles after reported leak of data for cancer vaccine"
   ]
 }
