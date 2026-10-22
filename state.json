@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792675658.5847194,
+  "last_signals": 1792676276.2141054,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -121,7 +121,7 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792484818.5559955,
-    "US30|4H:top": 1792609418.6047666,
+    "US30|4H:top": 1792676277.9611814,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
     "EUR/USD|4H:bot": 1791856778.9963248,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792675658.8188014,
+    "Gold|4H:bot": 1792676276.556657,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792675659.8615952
+    "GBP/USD|1D:top": 1792676278.4080405
   },
-  "last_analysis": 1792675646.0912013,
-  "last_news": 1792675658.5837932,
+  "last_analysis": 1792676266.4809005,
+  "last_news": 1792676276.2059064,
   "seen_news": [
-    "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets ",
-    "\u0110ang truy t\u00ecm g\u1eaft gao 4 ph\u1ea1m nh\u00e2n tr\u1ed1n kh\u1ecfi Tr\u1ea1i giam A2 \u1edf Kh\u00e1nh H\u00f2a",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "3 Stocks Set to Benefit From Long-Term AI Tailwinds - TradingView",
-    "7 healthcare stocks that stand out as investors pay up for the sector",
-    "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
     "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
     "What is the Budget and what could be in it?",
     "Dollar up slightly, other currencies see small moves ahead of central bank delug",
@@ -445,6 +439,12 @@
     "Jobless claims near the lowest since the 1960s as low-fire trend continues",
     "No order, no seat: Starbucks China rolls out new store policy",
     "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
-    "European stocks buckle under French yields, mixed tech earnings"
+    "European stocks buckle under French yields, mixed tech earnings",
+    "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
+    "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+    "Si\u00eau du thuy\u1ec1n tr\u1ecb gi\u00e1 tr\u0103m t\u1ef7 \u0111\u1ed3ng c\u1ee7a Lionel Messi",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "M/I Homes CEO Flags 'Increasingly Difficult' Housing Market - TradingView",
+    "California's Proposition 40: What voters need to know about billionaire wealth t"
   ]
 }
