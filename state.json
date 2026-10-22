@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792650150.3931532,
+  "last_signals": 1792650754.7156098,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792649540.211089,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -42,7 +42,8 @@
     "5575146754|Gold|4H|dbot": 1792637935.6767678,
     "5575146754|Gold|4H|dn": 1792648927.150473,
     "5575146754|Gold|1H|dn": 1792642002.018924,
-    "5575146754|Gold|1D|tbot": 1792650150.3931532
+    "5575146754|Gold|1D|tbot": 1792650150.3931532,
+    "5575146754|Gold|1D|dbot": 1792650754.7156098
   },
   "sig_range": {
     "Gold": true,
@@ -67,14 +68,14 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -127,12 +128,12 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792648317.5680158,
+    "GBP/USD|4H:top": 1792650756.1552072,
     "Gold|4H:bot": 1792639206.078319,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1792650150.5468218,
+    "Gold|1D:bot": 1792650754.9735339,
     "Ethereum|4H:bot": 1792357119.032691,
     "USD/JPY|4H:bot": 1792083385.8380995,
     "JPY Index|4H:bot": 1792083386.3816352,
@@ -141,15 +142,9 @@
     "DXY|4H:bot": 1792647276.132776,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792650142.830572,
-  "last_news": 1792650150.392249,
+  "last_analysis": 1792650746.0630658,
+  "last_news": 1792650754.7148757,
   "seen_news": [
-    "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-    "Australia\u2019s Fortescue posts 6% fall in quarterly iron ore shipments",
-    "More on Meta earnings (call): Plans effective 2-for-1 split via non-voting share",
-    "Vi\u1ec7t Nam l\u00e0m ra 1,75 tri\u1ec7u t\u1ea5n \"v\u00e0ng l\u1ecfng\", ch\u1ec9 ti\u00eau th\u1ee5 85%: M\u1ed9t \"\u00f4ng tr\u00f9m\" chi",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "Gold Slides for Third Straight Session - TradingView",
     "Reports: US reduces troops and diplomats across Middle East amid threat of milit",
     "1 c\u00f4ng ty m\u1edbi l\u00ean s\u00e0n ch\u1ec9 c\u00f3 7 nh\u00e2n vi\u00ean, \u0111\u1ea1t l\u1ee3i nhu\u1eadn 251 t\u1ef7 \u0111\u1ed3ng trong 9 th\u00e1n",
     "DXS: CTCP D\u1ecbch v\u1ee5 B\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0110\u1ea5t Xanh - DXS - VietstockFinance",
@@ -443,6 +438,12 @@
     "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
     "REG - HarbourVest Global - Launch of Tender Offer and Publication of circular - ",
     "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-    "Southwest Airlines cuts 2026 profit forecast on higher fuel"
+    "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Finland's Verkkokauppa Q3 revenue misses estimates on weak demand - TradingView",
+    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
+    "Audit regulator looking into Manchester City accounting",
+    "U.S. Energy Red Tape Gives China an Edge",
+    "Why is Meituan stock sliding today?"
   ]
 }
