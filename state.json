@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792703752.8324766,
+  "last_signals": 1792704361.4119124,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792703753.7323725
+    "GBP/USD|1D:top": 1792704363.9078817
   },
-  "last_analysis": 1792703739.5656846,
-  "last_news": 1792703750.062716,
+  "last_analysis": 1792704351.9809973,
+  "last_news": 1792704361.3985066,
   "seen_news": [
-    "Petra Diamonds Limited (PDL) Delays FY2026 Results; Expects Share Suspension - T",
-    "The 3 questions every AI investor needs to ask right now",
-    "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-    "No order, no seat: Starbucks China rolls out new store policy",
-    "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
-    "European stocks buckle under French yields, mixed tech earnings",
     "Short-end U.S. yields edge up\u00a0as investors digest French unrest",
     "US initial jobless claims 194K vs 200K estimate. Better than expected.",
     "Si\u00eau du thuy\u1ec1n tr\u1ecb gi\u00e1 tr\u0103m t\u1ef7 \u0111\u1ed3ng c\u1ee7a Lionel Messi",
@@ -447,6 +441,12 @@
     "Trump sued over Canadian tariffs in latest legal challenge",
     "Grid Constraints Curtailed 119 GW of Renewables in India in September",
     "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
-    "Trump invokes Defense Production Act for oil as pump prices bite 12 days before "
+    "Trump invokes Defense Production Act for oil as pump prices bite 12 days before ",
+    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
+    "Civil servant admits he 'made mistakes' juggling five government jobs",
+    "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
+    "OpenAI close to raising up to $30 billion at $1.25 trillion valuation, UAE inves",
+    "Si\u00eau n\u00fat giao g\u1ea7n 2.400 t\u1ef7 v\u01b0\u1ee3t \u0111\u1ea1i l\u1ed9 r\u1ed9ng nh\u1ea5t Vi\u1ec7t Nam v\u1edbi 16 l\u00e0n xe \u0111ang d\u1ea7n",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance"
   ]
 }
