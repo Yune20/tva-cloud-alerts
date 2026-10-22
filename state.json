@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792636087.377701,
+  "last_signals": 1792636700.0771737,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792622436.4878566,
+    "5575146754|Gold|1H|range_in": 1792636700.0771737,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
@@ -53,7 +53,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -125,7 +125,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792166194.2284777,
-    "Gold|4H:bot": 1792636087.6189027,
+    "Gold|4H:bot": 1792636700.4247463,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -138,15 +138,9 @@
     "DXY|4H:bot": 1792516066.3352554,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792636079.0978367,
-  "last_news": 1792636087.3768678,
+  "last_analysis": 1792636691.5476136,
+  "last_news": 1792636700.076332,
   "seen_news": [
-    "UAL options activity points to bullish positioning after earnings beat",
-    "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
-    "Ng\u00e0y 22/10, g\u1eedi 100 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i 7 ng\u00e2n h\u00e0ng nh\u1eadn bao nhi\u00eau ti\u1ec1n l\u00e3i sau 24 th",
-    "MACRO REPORT C\u1eadp nh\u1eadt v\u0129 m\u00f4 th\u00e1ng 9 v\u00e0 9 th\u00e1ng \u0111\u1ea7u n\u0103m C\u1eadp nh\u1eadt V\u0129 m\u00f4 Vi\u1ec7t Nam t",
-    "Aurora was Integrated With Robinhood Crypto Chain - TradingView",
-    "GM aims to develop vehicles in as little as two years with AI, software push",
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
     "Standard Chartered Moves To Take Full Control Of Zodia Custody - TradingView",
     "My partner of 17 years left me his $1 million home. His children say I influence",
@@ -440,6 +434,12 @@
     "Goodyear to Announce Third Quarter 2026 Financial Results - TradingView",
     "Trump-aligned super PACs pour millions into once-safe GOP House seats",
     "Inflation and government borrowing highest for a year ahead of next week's Budge",
-    "Washington\u2019s Central Asia Charm Offensive Yields $12 Billion in Deals"
+    "Washington\u2019s Central Asia Charm Offensive Yields $12 Billion in Deals",
+    "NFLX: Netflix Stock Drops 6% as Weak Outlook Eclipses Profit Jump - TradingView",
+    "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating ",
+    "Union attacks NatWest plans to get workers back to the office",
+    "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
+    "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+    "Bank of Korea holds rate at 3% after back-to-back hikes, keeps door open to Nove"
   ]
 }
