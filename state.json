@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792652590.2150116,
+  "last_signals": 1792653195.3517442,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792649540.211089,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -43,7 +43,8 @@
     "5575146754|Gold|4H|dn": 1792652590.2150116,
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
-    "5575146754|Gold|1D|dbot": 1792650754.7156098
+    "5575146754|Gold|1D|dbot": 1792650754.7156098,
+    "5575146754|Gold|4H|trap_dn": 1792653195.3517442
   },
   "sig_range": {
     "Gold": true,
@@ -60,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -75,18 +76,18 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792653462,
   "menu_prices": {
@@ -142,15 +143,9 @@
     "DXY|4H:bot": 1792647276.132776,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792652582.892242,
-  "last_news": 1792652590.2140546,
+  "last_analysis": 1792653188.6720302,
+  "last_news": 1792653195.3508475,
   "seen_news": [
-    "The S&P 500 holds gains despite pushback on an imminent US-Iran deal as hopes st",
-    "Ch\u1ec9 \u0111\u1ea1o m\u1edbi nh\u1ea5t v\u1ec1 hai tuy\u1ebfn cao t\u1ed1c d\u00e0i g\u1ea7n 140km do T&T v\u00e0 S\u01a1n H\u1ea3i \u0111\u1ea7u t\u01b0 t\u1ea1i",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "US Crude Oil Inventories Fall More than Expected - TradingView",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Websites taken down worldwide as critical cyber-security update issued",
     "Mattel adds Lee Matheson to board under EdgePoint cooperation deal - TradingView",
     "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad b",
     "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -444,6 +439,12 @@
     "More on Meta earnings (call): Plans effective 2-for-1 split via non-voting share",
     "M\u1ef9 \u0111\u01b0a 'b\u00e1u v\u1eadt c\u00f4ng ngh\u1ec7 m\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi' sang Vi\u1ec7t Nam ph\u1ee5c v\u1ee5 d\u1ef1 \u00e1n 5.200 ",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "Pre-Markets Down, Housing Remains at Recessionary Levels - TradingView"
+    "Pre-Markets Down, Housing Remains at Recessionary Levels - TradingView",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
+    "Asian markets recover as earnings optimism offsets AI concerns - TradingView",
+    "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
+    "Is an 'AI war' complicating your job search?",
+    "Colombia\u2019s peso hits one-month high on rate outlook"
   ]
 }
