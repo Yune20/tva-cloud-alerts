@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792656614.7093992,
+  "last_signals": 1792657237.5587935,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792649540.211089,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
-    "5575146754|Gold|4H|trap_dn": 1792653195.3517442
+    "5575146754|Gold|4H|trap_dn": 1792657237.5587935
   },
   "sig_range": {
     "Gold": true,
@@ -58,11 +58,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -140,18 +140,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792656617.1259415,
+    "DXY|4H:bot": 1792657238.9794624,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792656604.0590818,
-  "last_news": 1792656614.708438,
+  "last_analysis": 1792657227.1333983,
+  "last_news": 1792657237.5577846,
   "seen_news": [
-    "India\u2019s Top State Refiner to Reduce Middle East Term Oil Purchases",
-    "Comcast plans significant job cuts, Bloomberg News reports",
-    "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation",
-    "N\u1eef di\u1ec5n vi\u00ean SN 1981 b\u00e1n \u1ed1c kh\u1eafp TP.HCM",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
-    "News by CNBC TV18 on TradingView, 2026-10-21 \u2014 cnbctv:ab6e7a6d4094b:0 - TradingV",
     "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on",
     "Chi\u1ebfn l\u01b0\u1ee3c \u201c4 trong 1\u201d: Th\u1ee9 Nga s\u1ebd b\u00e1n kh\u00f4ng \u0111\u01a1n thu\u1ea7n ch\u1ec9 l\u00e0 m\u1ed9t chi\u1ebfc m\u00e1y bay",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
@@ -445,6 +439,12 @@
     "European stock market open: Stocks tumble as French debt worries and bond yields",
     "B\u1ed1n m\u00f3n g\u00e2y t\u1eafc ngh\u1ebdn m\u1ea1ch m\u00e1u nh\u01b0ng nhi\u1ec1u ng\u01b0\u1eddi \u0103n n\u1ea5y \u0103n \u0111\u1ec3 v\u00ec ngon c\u00f2n t\u01b0\u1edfng ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Metapic\u2019s new creator app gains strong early traction following September launch"
+    "Metapic\u2019s new creator app gains strong early traction following September launch",
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
+    "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+    "Why is Tesla stock sliding today?",
+    "Gold drops as Middle East tensions escalate, but growth concerns could provide s",
+    "\u0110\u1ebfn tu\u1ed5i 40 m\u1edbi b\u1ecf c\u00e1ch \u2018c\u00f3 bao nhi\u00eau g\u1eedi b\u1ea5y nhi\u00eau\u2019: M\u1eb9 H\u00e0 N\u1ed9i chia ti\u1ec1n th\u00e0nh "
   ]
 }
