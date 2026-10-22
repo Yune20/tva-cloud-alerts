@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792710468.5624912,
+  "last_signals": 1792711088.4347901,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
-    "5575146754|Gold|4H|trap_dn": 1792661017.3011575,
+    "5575146754|Gold|4H|trap_dn": 1792711088.4347901,
     "5575146754|Gold|4H|momo_dn": 1792708645.0835164,
     "5575146754|Gold|1D|dn": 1792700592.8450043
   },
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792705590.5547972
   },
-  "last_analysis": 1792710459.925208,
-  "last_news": 1792710468.5618336,
+  "last_analysis": 1792711080.465009,
+  "last_news": 1792711088.4339151,
   "seen_news": [
-    "My partner of 17 years left me his $1 million home. His children are crying foul",
-    "Third-party evaluators find vulnerabilities in OpenAI monitoring system during t",
-    "Is an 'AI war' complicating your job search?",
-    "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
-    "Norway stocks lower at close of trade; Oslo OBX down 0.99%",
-    "Chart of the day: Gold price falls below $4,100 as sellers threaten another brea",
     "Websites taken down worldwide as critical cyber-security update issued",
     "Iran\u2019s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
     "Israel stocks lower at close of trade; TA 35 down 1.09%",
@@ -447,6 +441,12 @@
     "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
     "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
     "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-    "Rising Crude Oil Imports Reduce China\u2019s Need to Draw from Stocks"
+    "Rising Crude Oil Imports Reduce China\u2019s Need to Draw from Stocks",
+    "ETFs tied to Meta Platforms feel the downward pressure - TradingView",
+    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+    "The start-ups hoping to return battery making to the US",
+    "European Natural Gas Prices Rise on Middle East Escalation",
+    "Grupo Mexico to press ahead with major US copper projects after output dip",
+    "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuati"
   ]
 }
