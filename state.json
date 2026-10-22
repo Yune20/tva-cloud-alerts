@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792671194.974595,
+  "last_signals": 1792671522.960042,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792663812.6964338,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -73,21 +73,21 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792671782,
   "menu_prices": {
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792671196.3448772
+    "GBP/USD|1D:top": 1792671524.5524464
   },
-  "last_analysis": 1792670900.0074396,
-  "last_news": 1792671194.903668,
+  "last_analysis": 1792671511.5840425,
+  "last_news": 1792671522.9592006,
   "seen_news": [
-    "Why is Resonac stock sliding today?",
-    "Heads up: UK September CPI inflation report due today, BOE rate hike for Novembe",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 xe m\u00e1y, \u00f4 t\u00f4 ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t t\u1eeb c\u00f4ng an",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "THURSDAY WHITE HOUSE SCHEDULE - President Trump travels to Sioux City, Iowa - Tr",
-    "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
     "Dip in the dollar takes a breather with Fed in focus - TradingView",
     "The Social Security Administration wants more babies signed up for \u2018Trump accoun",
     "Apple's iPhone Duo in short supply \u2014 plus, the 2 stocks fueling an AI rebound",
@@ -445,6 +439,12 @@
     "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs dat",
     "The Japanese yen is once again acting as a safe haven as growth concerns replace",
     "M\u1ed9t h\u00e3ng xe Trung Qu\u1ed1c x\u00e2y nh\u00e0 m\u00e1y t\u1ea1i Vi\u1ec7t Nam chu\u1ea9n b\u1ecb l\u00e0m xe m\u00e1y \u0111i\u1ec7n gi\u00e1 r\u1ebb:",
-    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan"
+    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
+    "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
+    "Market playbook: Why a convincing market story doesn't always make a good trade",
+    "Ph\u00e1t hi\u1ec7n c\u00f4 g\u00e1i sinh n\u0103m 1994 v\u1eeba mua nh\u00e0 \u1edf d\u1ef1 \u00e1n b\u1ea5t \u0111\u1ed9ng s\u1ea3n c\u00f3 gi\u00e1 h\u01a1n 780 t",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "Curbline Properties Q3 2026 Earnings Call Is Live - TradingView",
+    "IBM\u2019s stock falls as investors struggle to shake off July earnings miss"
   ]
 }
