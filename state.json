@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792634857.25756,
+  "last_signals": 1792635469.1431074,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792622436.4878566,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -71,10 +71,10 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
@@ -136,17 +136,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792516066.3352554,
-    "GBP/USD|1D:top": 1792634858.4206576
+    "GBP/USD|1D:top": 1792635471.3515027
   },
-  "last_analysis": 1792634849.6238058,
-  "last_news": 1792634857.256764,
+  "last_analysis": 1792635460.9435246,
+  "last_news": 1792635469.1354167,
   "seen_news": [
-    "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-    "Inflation and government borrowing highest for a year ahead of next week's Budge",
-    "Washington\u2019s Central Asia Charm Offensive Yields $12 Billion in Deals",
-    "Anthropic adds former Harvard science dean to oversight body",
-    "HOLA PRIME SIMPLIFIES PROP TRADING RULES WITH LAUNCH OF IT\u2019S RULEBOOK",
-    "Chuy\u1ec3n nh\u1ea7m 100 tri\u1ec7u \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n ng\u01b0\u1eddi l\u1ea1 c\u00f3 l\u1ea5y l\u1ea1i \u0111\u01b0\u1ee3c kh\u00f4ng?",
     "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar",
     "Reliance says Ambanis and Rubio discussed global energy, data centres in visit",
     "Bitcoin shows some buying life as risk-on flows return and push the digital curr",
@@ -440,6 +434,12 @@
     "Gold eases as investors await Fed signals on rate path - TradingView",
     "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second-largest diesel",
     "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI,"
+    "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI,",
+    "Sterling today: Pound climbs on hot UK CPI as dollar weakens",
+    "Musk races to seal $3.7 trillion SpaceX-Tesla merger before Trump exits, Bloombe",
+    "K\u1ef9 s\u01b0 MIT ph\u00e1t minh robot \"\u0111\u1ed9t bi\u1ebfn\", c\u00f3 th\u1ec3 m\u1edf \u0111\u01b0\u1eddng cho d\u00f2ng drone ch\u01b0a t\u1eebng t",
+    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
+    "Cattle Extending Higher on Tuesday - TradingView",
+    "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case"
   ]
 }
