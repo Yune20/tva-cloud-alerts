@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792679272.6878111,
-  "last_bot4": 1792685254.8113964,
+  "last_bot4": 1792685932.5148423,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792685254.812042,
+  "last_signals": 1792685932.5155492,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792661017.3011575,
-    "5575146754|Gold|4H|momo_dn": 1792677770.5450807,
+    "5575146754|Gold|4H|momo_dn": 1792685932.5155492,
     "5575146754|Gold|1D|dn": 1792678406.4525068
   },
   "sig_range": {
@@ -81,15 +81,15 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792686198,
   "menu_prices": {
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792681962.975362,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792685256.7460012,
+    "EUR/USD|4H:bot": 1792685933.8815367,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792685256.4715257
   },
-  "last_analysis": 1792685550.5475,
-  "last_news": 1792685251.5492992,
+  "last_analysis": 1792685925.5760913,
+  "last_news": 1792685932.5138726,
   "seen_news": [
-    "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 s\u1ed5 BHXH ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a BHXH Vi\u1ec7t Nam",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
-    "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "World's largest wealth fund posts $30 billion loss after bond market turbulence",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Lf Corp To Acquire 5 Billion Won Worth Of Own Shares - TradingView",
     "Why a global bank is slashing thousands of jobs \u2014 and what the Fed says about AI",
@@ -447,6 +441,12 @@
     "Apex funding talks value satellite maker at $4 billion - Bloomberg",
     "US 10-year yields fall, near 5% level but it's for the wrong reasons",
     "C\u1ed5 phi\u1ebfu \u0111\u1ea1i gia c\u1ea3ng bi\u1ec3n l\u1eadp \u0111\u1ec9nh l\u1ecbch s\u1eed, gi\u00e1 tr\u1ecb c\u00f4ng ty v\u01b0\u1ee3t 37.000 t\u1ef7 \u0111\u1ed3ng",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "Gucci sales slid further in Q3, Kering says, dampening revival hopes",
+    "Gold drops as Middle East tensions escalate, but growth concerns could provide s",
+    "B\u1ea7u Hi\u1ec3n n\u00f3i v\u1ec1 b\u00e0i to\u00e1n t\u1ea1i s\u00e2n bay 5.800 t\u1ef7 \u0111\u1ed3ng: \u201cBay th\u00ec l\u1ed7 m\u00e0 kh\u00f4ng bay th\u00ec",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Future Fuels Inc. (FTUR) Closes C$6.57M Financing - TradingView",
+    "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease"
   ]
 }
