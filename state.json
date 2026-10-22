@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792702808.1405804,
+  "last_signals": 1792703426.1155531,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792700594.3665743
+    "GBP/USD|1D:top": 1792703428.6810162
   },
-  "last_analysis": 1792702796.4700484,
-  "last_news": 1792702805.2452538,
+  "last_analysis": 1792703414.618737,
+  "last_news": 1792703426.1143725,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
-    "Old Republic International (NYSE:ORI) exceeds Q3 2026 expectations - TradingView",
-    "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes aft",
-    "Trump sued over Canadian tariffs in latest legal challenge",
-    "Grid Constraints Curtailed 119 GW of Renewables in India in September",
-    "Coinbase Ireland fined \u20ac3.25M by Irish regulators over safeguarding breaches",
     "Goodyear to Announce Third Quarter 2026 Financial Results - TradingView",
     "California's Proposition 40: What voters need to know about the billionaire weal",
     "Civil servant admits he 'made mistakes' juggling five government jobs",
@@ -447,6 +441,12 @@
     "SMC: CTCP \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i SMC - SMC J.S.C. - VietstockFinance",
     "Applied Industrial Technologies elects Michael Olosky to its board - TradingView",
     "Oil prices approach Iran-war highs as soaring tanker rates trigger a second ener",
-    "Disney\u2019s multiplatform Super Bowl plan frustrates ABC affiliates"
+    "Disney\u2019s multiplatform Super Bowl plan frustrates ABC affiliates",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "Undervalued technology stocks to watch as Q3 earnings season unfolds - TradingVi",
+    "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose ",
+    "The AI telling farmers when to harvest",
+    "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
+    "US banks are blocking third-party AI agents access to customer accounts, sources"
   ]
 }
