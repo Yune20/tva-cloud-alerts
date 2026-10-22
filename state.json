@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792668117.260776,
+  "last_signals": 1792668734.3407345,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792663812.6964338,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792668119.3677876
+    "GBP/USD|1D:top": 1792668736.7143762
   },
-  "last_analysis": 1792668108.6512444,
-  "last_news": 1792668117.260009,
+  "last_analysis": 1792668725.5411873,
+  "last_news": 1792668734.3276088,
   "seen_news": [
-    "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
-    "Google resolves cloud outage affecting UK banks and websites",
-    "Hang Seng crashes to 23,204 in oversold freefall: Live levels",
-    "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
-    "V\u00ec sao Doraemon kh\u00f4ng ch\u00ea Nobita v\u00f4 d\u1ee5ng?",
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
     "European markets steady for now but widening bond yield spreads offer a warning",
     "\u0110\u1ec1 xu\u1ea5t ho\u00e1n \u0111\u1ed5i \u0111\u1ea5t b\u1ecb thu h\u1ed3i sang th\u1eeda \u0111\u1ea5t kh\u00e1c trong c\u00f9ng \u0111\u1ecba b\u00e0n c\u1ea5p x\u00e3",
     "HAH: CTCP V\u1eadn t\u1ea3i v\u00e0 X\u1ebfp d\u1ee1 H\u1ea3i An - HAIANTS.,JSC - VietstockFinance",
@@ -445,6 +439,12 @@
     "B\u00c1O C\u00c1O - VietstockFinance",
     "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
     "American Airlines expects deeper 2026 loss on pricier fuel despite record revenu",
-    "Jobless rate falls but small firms cut back hiring"
+    "Jobless rate falls but small firms cut back hiring",
+    "Meta fined $25bn for 'lies' over user data privacy",
+    "Procter & Gamble shares rise 2% in premarket trade after Q1 sales, profit beat",
+    "Kinder Morgan commits to $4.2B Texas gas pipeline to fuel hyperscale data center",
+    "L\u00e0ng du l\u1ecbch t\u1ed1t nh\u1ea5t th\u1ebf gi\u1edbi c\u1ea5m xe ch\u1edf kh\u00e1ch v\u00e0o th\u00f4n: Du kh\u00e1ch di chuy\u1ec3n th\u1ebf",
+    "Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Undervalued consumer staples stocks to watch as Q3 earnings season unfolds - Tra"
   ]
 }
