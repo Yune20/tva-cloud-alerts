@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792708036.9157367,
+  "last_signals": 1792708645.0835164,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792661017.3011575,
-    "5575146754|Gold|4H|momo_dn": 1792704971.157732,
+    "5575146754|Gold|4H|momo_dn": 1792708645.0835164,
     "5575146754|Gold|1D|dn": 1792700592.8450043
   },
   "sig_range": {
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -145,15 +145,9 @@
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792705590.5547972
   },
-  "last_analysis": 1792708028.4728396,
-  "last_news": 1792708036.914979,
+  "last_analysis": 1792708637.6886656,
+  "last_news": 1792708645.0825734,
   "seen_news": [
-    "B\u1eaft B\u00ed th\u01b0 \u0110\u1ea3ng \u1ee7y, Ch\u1ee7 t\u1ecbch x\u00e3 v\u00ec th\u00f4ng \u0111\u1ed3ng v\u1edbi 2 c\u00f4ng ty khai th\u00e1c 386.934 m\u00b3",
-    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Prisma Properties (PRISMA) Q3 Mgmt Profit Up 28% to SEK 78M - TradingView",
-    "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racket",
-    "Audit regulator looking into Manchester City accounting",
-    "U.S. Energy Red Tape Gives China an Edge",
     "IREN vs APLD: comparing two AI infrastructure stocks",
     "Trading Education: Gold falls despite lower yields: A lesson in trading what the",
     "Th\u1ecbt b\u00f2 v\u00e0 th\u1ecbt g\u00e0, lo\u1ea1i n\u00e0o t\u1ed1t h\u01a1n cho \u0111\u01b0\u1eddng ru\u1ed9t? Ph\u00e1t hi\u1ec7n s\u1ef1 kh\u00e1c bi\u1ec7t \u00edt a",
@@ -447,6 +441,12 @@
     "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
     "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
     "EU\u2019s Arctic Strategy Excludes Oil and Gas",
-    "SK Hynix drops US IPO plan for Solidigm, newspaper reports"
+    "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+    "Sun Token to Be Integrated With Symbiosis - TradingView",
+    "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow gro",
+    "Living with a stink? Technology might help",
+    "What Jackdaw\u2019s Approval Means for the Future of North Sea Drilling",
+    "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
+    "ECB\u2019s Panetta says rising yields a drag on growth, not a crisis, ahead of rate m"
   ]
 }
