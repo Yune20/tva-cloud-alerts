@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792668410.8998907,
-  "last_bot4": 1792676559.5346751,
+  "last_bot4": 1792677218.2799294,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792675947.8631656
+    "Gold": 1792677218.2798152
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792676866.4844906,
+  "last_signals": 1792677218.2806797,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -141,17 +141,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792676868.1479192
+    "GBP/USD|1D:top": 1792677219.3898149
   },
-  "last_analysis": 1792676857.7612672,
-  "last_news": 1792676866.483755,
+  "last_analysis": 1792677207.5105863,
+  "last_news": 1792677215.5353246,
   "seen_news": [
-    "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices ",
-    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-    "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-    "Why is Alibaba stock sliding today?",
-    "Tesla Q3 earnings beat as margins and cash flow surprise, revenue narrowly misse",
-    "14 th\u01b0\u01a1ng nh\u00e2n \u0111\u1ea7u m\u1ed1i gi\u1ea3m th\u00eam 300-350 \u0111\u1ed3ng/l\u00edt x\u0103ng d\u1ea7u so v\u1edbi gi\u00e1 \u0111i\u1ec1u h\u00e0nh",
     "Living with a stink? Technology might help",
     "Why is JD.com stock sliding today?",
     "FX option expiries for 22 October 10am New York cut",
@@ -445,6 +439,12 @@
     "Ribbon Communications Inc. (RBBN) Appoints SVP to Lead Acumen AI - TradingView",
     "Comcast beats earnings expectations as media revenue offsets weakness in connect",
     "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-    "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets"
+    "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "Key facts: BTCUSD OI +3%; $1.23B Options Expire; Support ~$80k - TradingView",
+    "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can alway",
+    "What is the Budget and what could be in it?",
+    "Dollar up slightly, other currencies see small moves ahead of central bank delug",
+    "Morning Kickstart: Stocks fall as oil rises on Iran risks"
   ]
 }
