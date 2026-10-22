@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792660411.9777668,
+  "last_signals": 1792661017.3011575,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792657849.7683835,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
-    "5575146754|Gold|4H|trap_dn": 1792657237.5587935
+    "5575146754|Gold|4H|trap_dn": 1792661017.3011575
   },
   "sig_range": {
     "Gold": true,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -140,18 +140,12 @@
     "JPY Index|4H:bot": 1792083386.3816352,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792660414.4870842,
+    "DXY|4H:bot": 1792661018.793114,
     "GBP/USD|1D:top": 1792636089.025557
   },
-  "last_analysis": 1792660400.416549,
-  "last_news": 1792660408.9566283,
+  "last_analysis": 1792661010.3058643,
+  "last_news": 1792661017.3003187,
   "seen_news": [
-    "Australia\u2019s Fortescue warns of possible operations hit as China state buyer talk",
-    "Bitmine\u2019s 5% hard cap leaves Ether\u2019s biggest corporate buyer weeks from the exit",
-    "N\u1eef NS\u01afT U60 t\u1eeb M\u1ef9 v\u1ec1 nh\u1eadn show \"c\u00e1t-x\u00ea kh\u00f4ng \u0111\u1ee7 ti\u1ec1n v\u00e9 m\u00e1y bay\"",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
-    "Yen jumps after JGB auction draws big demand, euro finds relief - TradingView",
-    "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruis",
     "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps d",
     "Tr\u01b0\u1edfng th\u00f4n, t\u1ed5 tr\u01b0\u1edfng d\u00e2n ph\u1ed1 \u0111\u00f3ng BHXH nh\u01b0ng kh\u00f3 \u0111\u01b0\u1ee3c h\u01b0\u1edfng l\u01b0\u01a1ng h\u01b0u",
     "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
@@ -445,6 +439,12 @@
     "Why is Galderma stock surging today?",
     "JPMorgan doubles SpaceX target to $500 on AI growth, maps out possible Tesla mer",
     "Ph\u00e1t hi\u1ec7n m\u1ed9t m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i c\u00f3 th\u1ec3 c\u1ea5t, h\u1ea1 c\u00e1nh th\u1eb3ng \u0111\u1ee9ng: Bay li\u00ean t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
+    "A top strategist has a warning for retail investors chasing the AI rally",
+    "Critical web security flaws spark global alarm as Google, OpenAI and Amazon resp",
+    "What is happening to UK prices?",
+    "Panasonic Industry moves up AI sales target to fiscal 2029",
+    "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oi",
+    "M\u1ef9 \u0111\u00e1nh gi\u00e1: Lo\u1ea1i n\u01b0\u1edbc quen thu\u1ed9c c\u1ee7a ng\u01b0\u1eddi Vi\u1ec7t v\u1eeba l\u1ecdc m\u1ee1 m\u00e1u, ki\u1ec3m so\u00e1t \u0111\u01b0\u1eddng"
   ]
 }
