@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792681961.1188488,
+  "last_signals": 1792682514.2487135,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -75,20 +75,20 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1792682773,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792681962.975362,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792681963.7726586,
+    "EUR/USD|4H:bot": 1792682516.668474,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792681963.4354773
+    "GBP/USD|1D:top": 1792682516.3609595
   },
-  "last_analysis": 1792681953.1583238,
-  "last_news": 1792681961.046057,
+  "last_analysis": 1792682504.503812,
+  "last_news": 1792682514.2477605,
   "seen_news": [
-    "Is EUR/USD giving traders a false sense of security as euro risks mount?",
-    "H\u00e9 l\u1ed9 \u0111\u1ed9ng c\u01a1 g\u00e2y \u00e1n c\u1ee7a nghi ph\u1ea1m s\u00e1t h\u1ea1i t\u00e0i x\u1ebf \u00f4 t\u00f4 \u1edf H\u00e0 N\u1ed9i",
-    "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC - VietstockFinance",
-    "Yen rallies as dollar wobbles toward Fed meeting - TradingView",
-    "Barclays to slash 5,000 jobs in AI efficiency push",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "B\u1ea5t ng\u1edd danh t\u00ednh ng\u01b0\u1eddi quay clip 2 c\u00f4 gi\u00e1o m\u1ea7m non t\u00e1t b\u00e9 g\u00e1i trong bu\u1ed5i l\u00e0m th",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Key facts: Equity LifeStyle Properties (ELS) keeps 2026 FFO; Q3 FFO - TradingVie",
@@ -447,6 +441,12 @@
     "Israel stocks lower at close of trade; TA 35 down 1.09%",
     "Crude oil buyers remain in control from a technical perspective. What would tilt",
     "B\u00e0 n\u1ed9i khoe t\u1eadp \u0111i cho ch\u00e1u s\u1edbm n\u00ean 10 th\u00e1ng \u0111\u00e3 bi\u1ebft \u0111i, nh\u01b0ng l\u1ea1i b\u1ecb b\u00e1c s\u0129 tr\u00e1",
-    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance"
+    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
+    "Morocco stocks higher at close of trade; Moroccan All Shares up 0.01%",
+    "France business confidence improves in October but cracks remain beneath the sur",
+    "3 sai l\u1ea7m khi g\u1eedi ti\u1ebft ki\u1ec7m nhi\u1ec1u ng\u01b0\u1eddi m\u1eafc m\u00e0 kh\u00f4ng nh\u1eadn ra m\u00ecnh \u0111ang m\u1ea5t ti\u1ec1n",
+    "VPL: CTCP Vinpearl - VINPEARL JSC - VietstockFinance",
+    "Asian markets recover as earnings optimism offsets AI concerns - TradingView",
+    "Investors\u2019 recent money moves show a preference for quality over momentum within"
   ]
 }
