@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792679272.6878111,
-  "last_bot4": 1792684348.4794784,
+  "last_bot4": 1792685254.8113964,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792684348.4793942
+    "Gold": 1792685254.811322
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792684641.1756775,
+  "last_signals": 1792685254.812042,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -76,7 +76,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792681962.975362,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792079938.987164,
-    "EUR/USD|4H:bot": 1792684642.5217113,
+    "EUR/USD|4H:bot": 1792685256.7460012,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,17 +143,11 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792684642.3550994
+    "GBP/USD|1D:top": 1792685256.4715257
   },
   "last_analysis": 1792684948.4495704,
-  "last_news": 1792684641.1748528,
+  "last_news": 1792685251.5492992,
   "seen_news": [
-    "India Ramps Up Coal Supplies to Record High as Power Crisis Looms",
-    "Why is Nestl\u00e9 stock climbing today?",
-    "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation",
-    "H\u00f2a Minzy: \"Ch\u1ecb c\u01b0\u1eddi c\u01b0\u1eddi cho em tho\u1ea3i m\u00e1i ch\u1ee9 th\u1eadt t\u00e2m l\u00e0 ch\u1ecb x\u00f3t l\u1eafm\"",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-10-21 \u2014 cnbctv:ab6e7a6d4094b:0 - TradingV",
     "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 s\u1ed5 BHXH ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a BHXH Vi\u1ec7t Nam",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
@@ -447,6 +441,12 @@
     "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
     "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "Why is Newmont stock sliding today?",
-    "European stock market open: Stocks tumble as French debt worries and bond yields"
+    "European stock market open: Stocks tumble as French debt worries and bond yields",
+    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
+    "Britain Finally Creates an Oil Wealth Fund\u201450 Years Too Late",
+    "Apex funding talks value satellite maker at $4 billion - Bloomberg",
+    "US 10-year yields fall, near 5% level but it's for the wrong reasons",
+    "C\u1ed5 phi\u1ebfu \u0111\u1ea1i gia c\u1ea3ng bi\u1ec3n l\u1eadp \u0111\u1ec9nh l\u1ecbch s\u1eed, gi\u00e1 tr\u1ecb c\u00f4ng ty v\u01b0\u1ee3t 37.000 t\u1ef7 \u0111\u1ed3ng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance"
   ]
 }
