@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792769975.097056,
+  "last_signals": 1792770586.315528,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -82,10 +82,10 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792769977.4266534,
-    "USD/JPY|1D:bot": 1792769978.2116761,
-    "JPY Index|1D:bot": 1792769979.0121422
+    "GBP/USD|1D:top": 1792770588.5340478,
+    "USD/JPY|1D:bot": 1792770589.3216214,
+    "JPY Index|1D:bot": 1792770590.0761914
   },
-  "last_analysis": 1792769965.6015575,
-  "last_news": 1792769975.0960355,
+  "last_analysis": 1792770577.828723,
+  "last_news": 1792770586.3146932,
   "seen_news": [
-    "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuati",
-    "Doanh thu t\u0103ng 442%, v\u1eabn l\u1ed7 126 t\u1ef7: \u0110i\u1ec1u g\u00ec \u0111ang x\u1ea3y ra \u1edf c\u00f4ng ty l\u00e0m c\u1ea3ng 28.00",
-    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "ServiceNow Orchestrates AI's Next Act\u2014Can Earnings Deliver? - TradingView",
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
     "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Northrim BanCorp, PBCO Financial shareholders approve acquisition of PBCO - Trad",
     "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premat",
@@ -447,6 +441,12 @@
     "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do t",
     "DOJ sues to block Alaska from certifying Senate race winner if Republican narrow",
     "What is the Budget and what could be in it?",
-    "Middle East Physical Crude Slides While Brent Hits Five-Month High"
+    "Middle East Physical Crude Slides While Brent Hits Five-Month High",
+    "Fan BIGBANG t\u1eeb TP.HCM ch\u1eadt v\u1eadt bay ra H\u00e0 N\u1ed9i tr\u01b0\u1edbc concert: B\u1ecb l\u1ee1 chuy\u1ebfn mua l\u1ea1i",
+    "SHB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SAHABANK - VietstockFinance",
+    "Gold dips below $4,000 as deepening stock rout fuels volatility - TradingView",
+    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
+    "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNB",
+    "Living with a stink? Technology might help"
   ]
 }
