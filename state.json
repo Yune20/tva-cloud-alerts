@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792782756.2519777,
+  "last_signals": 1792783348.9129543,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -72,7 +72,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792782758.71182,
-    "USD/JPY|1D:bot": 1792782759.5477028,
-    "JPY Index|1D:bot": 1792782760.351649
+    "GBP/USD|1D:top": 1792783349.989061,
+    "USD/JPY|1D:bot": 1792783350.3549316,
+    "JPY Index|1D:bot": 1792783350.7257946
   },
   "last_analysis": 1792783055.3170245,
-  "last_news": 1792782756.1663272,
+  "last_news": 1792783348.912109,
   "seen_news": [
-    "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before B",
-    "SeABank \u0111i\u1ec1u ch\u1ec9nh gi\u1ea3m k\u1ebf ho\u1ea1ch kinh doanh 2026 v\u00e0 b\u1ea7u Ch\u1ee7 t\u1ecbch H\u0110QT m\u1edbi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
-    "What Knowles (KN) Said on Its Q3 Earnings Call - TradingView",
-    "The stock market is splitting in two. Is that signaling trouble ahead, or just a",
-    "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "ZTE (H.K.) Limited Cuts Enablence Stake to ~3.25% - TradingView",
     "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
@@ -446,6 +440,12 @@
     "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s ke",
     "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite make",
     "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
-    "BofA sees Norwegian krone weakening against Swedish krona"
+    "BofA sees Norwegian krone weakening against Swedish krona",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
+    "ETFs tied to Meta Platforms feel the downward pressure - TradingView",
+    "Even the wealthy increasingly want all-inclusive resorts",
+    "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "Burnham proposes plan to cut standing charges from gas bills",
+    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes"
   ]
 }
