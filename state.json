@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792712312.7627568,
-  "last_bot4": 1792720396.201195,
+  "last_bot4": 1792721377.2414706,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792719769.329509
+    "Gold": 1792721377.2413425
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792721002.4378462,
+  "last_signals": 1792721377.2421956,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1792721632,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792721003.6473882,
-    "USD/JPY|1D:bot": 1792721003.9728987,
-    "JPY Index|1D:bot": 1792721004.3378587
+    "GBP/USD|1D:top": 1792721378.2351475,
+    "USD/JPY|1D:bot": 1792721378.5559146,
+    "JPY Index|1D:bot": 1792721378.8846014
   },
-  "last_analysis": 1792720703.9752162,
-  "last_news": 1792721002.4368596,
+  "last_analysis": 1792721366.4310544,
+  "last_news": 1792721374.3087108,
   "seen_news": [
-    "Young investors are betting on prediction markets and crypto. But this bestselli",
-    "Brent crude tops $113 after Trump hints at action on Iran, U.S. orders staff to ",
-    "How long will humans be needed for translation?",
-    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-    "Oil rises as hopes for a deal fade amid growing prospects of another US attack o",
-    "\u0110\u1eb1ng sau s\u1ee9c h\u00fat c\u1ee7a Vingroup: C\u00e1nh chim \u0111\u1ea7u \u0111\u00e0n d\u1eabn d\u1eaft th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n ",
     "Brent crude tops $113, highest level since May, after Trump hints at action on I",
     "Burnham proposes plan to cut standing charges from gas bills",
     "EU\u2019s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
@@ -449,6 +443,12 @@
     "Why Trump Can't Afford to Lose The Rare Earth Race",
     "Why is Samsung Electronics stock declining today?",
     "What is blockchain finality? Why Bitcoin, Ethereum and Solana settle at very dif",
-    "Nam MC SN 1987 t\u1eebng d\u1eabn \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia l\u00e0 c\u1ef1u h\u1ecdc sinh tr\u01b0\u1eddng chuy\u00ean top"
+    "Nam MC SN 1987 t\u1eebng d\u1eabn \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia l\u00e0 c\u1ef1u h\u1ecdc sinh tr\u01b0\u1eddng chuy\u00ean top",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
+    "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+    "The 'trillion pound' oil fund the government believes Britain could have built",
+    "Hang Seng oversold at 22,858 in descending channel: Live levels",
+    "Japan\u2019s 2.4% underlying inflation puts a higher BoJ terminal rate in play"
   ]
 }
