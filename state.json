@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792712312.7627568,
+  "last_news_report": 1792723279.1626422,
   "last_bot4": 1792722946.1328785,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792722655.1256213,
+  "last_signals": 1792723279.1636877,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1792674028.3112574,
+    "5575146754|Gold|1H|range_in": 1792723279.1636877,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,15 +81,15 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": true,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
-    "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1H": false,
+    "JPY Index|4H": true,
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792723531,
   "menu_prices": {
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792722657.4047265,
-    "USD/JPY|1D:bot": 1792722658.1223354,
-    "JPY Index|1D:bot": 1792722658.8466716
+    "GBP/USD|1D:top": 1792723280.2007146,
+    "USD/JPY|1D:bot": 1792723280.5421581,
+    "JPY Index|1D:bot": 1792723280.917705
   },
-  "last_analysis": 1792722646.7795763,
-  "last_news": 1792722655.1247559,
+  "last_analysis": 1792723266.1554375,
+  "last_news": 1792723273.7056253,
   "seen_news": [
-    "D\u1ef1 b\u00e1o l\u1ed9c \u0111i\u1ec1n s\u1ea3n 2027: 4 con gi\u00e1p d\u1ec5 c\u00f3 tin vui s\u1eeda nh\u00e0, \u0111\u1ed5i nh\u00e0 ho\u1eb7c t\u00edch th",
-    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "SPCX: SpaceX Stock Soars 10% as Revenue Explodes, Musk Confirms Merger Talks - T",
-    "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is ",
-    "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "Sterling today: Pound edges higher on U.S. tech drag",
     "Meta stock sinks 7% as AI spend pushes free cash flow negative",
     "Inflation and government borrowing highest for a year ahead of next week's Budge",
     "Sterling today: Pound climbs on hot UK CPI as dollar weakens",
@@ -449,6 +443,12 @@
     "Third-party evaluators found vulnerabilities in OpenAI monitoring system during ",
     "Burnham proposes plan to cut standing charges from gas bills",
     "EU\u2019s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-    "SK\u00a0Group\u2019s data center\u00a0unit seeks funding for $350 bln AI buildout - Bloomberg"
+    "SK\u00a0Group\u2019s data center\u00a0unit seeks funding for $350 bln AI buildout - Bloomberg",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
+    "Dollar holds steady as Middle East tensions simmer, oil rises - TradingView",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Australia\u2019s Zip slumps 50% after fraud incident hits Q1 growth",
+    "Japan core inflation tops BoJ\u2019s 2% target for first time since December, yen fir"
   ]
 }
