@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792783949.879643,
+  "last_signals": 1792784546.714388,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -82,7 +82,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792783951.4428334,
-    "USD/JPY|1D:bot": 1792783951.962532,
-    "JPY Index|1D:bot": 1792783952.3836265
+    "GBP/USD|1D:top": 1792784549.0416121,
+    "USD/JPY|1D:bot": 1792784549.757392,
+    "JPY Index|1D:bot": 1792784550.5641956
   },
   "last_analysis": 1792784251.6809425,
-  "last_news": 1792783949.878324,
+  "last_news": 1792784546.7137868,
   "seen_news": [
-    "U.S. oil rises above $100, Brent at five-month high as Iran says it\u2019s prepared f",
-    "Inflation and government borrowing highest for a year ahead of next week's Budge",
-    "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
-    "Wall Street futures edge lower after AI selloff, telecom slide",
-    "HSBC\u2019s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and w",
-    "Ng\u00e2n h\u00e0ng c\u1ea3nh b\u00e1o kh\u1ea9n: Tin nh\u1eafn gi\u1ea3 n\u1eb1m l\u1eabn ngay trong h\u1ed9p th\u01b0 SMS ch\u00ednh ch\u1ee7",
     "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
     "Renewables Boom Pushes Australia\u2019s Gas Power to Quarter-Century Low",
     "Why is Tango Therapeutics stock sliding today?",
@@ -446,6 +440,12 @@
     "What Knowles (KN) Said on Its Q3 Earnings Call - TradingView",
     "CrowdStrike CEO's alarming prediction \u2014 plus, the sell-off spreads beyond tech",
     "The grads ditching the UK for a fresh start abroad",
-    "Pound edges higher, outperforming as investor nerves rattle euro zone markets"
+    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+    "Earnings macro week ahead: The Fed and Big Tech report on the same day",
+    "Ng\u01b0\u1eddi Vi\u1ec7t li\u00ean t\u1ee5c l\u1ecdt Top \u1ea3nh h\u01b0\u1edfng nh\u1ea5t th\u1ebf gi\u1edbi: L\u00e0 Ti\u1ebfn s\u0129 s\u1edf h\u1eefu h\u01a1n 7.300",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
+    "Universal Insurance Holdings Reports Q3 2026 Earnings of $1.80 per Share - Tradi",
+    "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona"
   ]
 }
