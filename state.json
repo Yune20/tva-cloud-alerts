@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792767193.2235706,
-  "last_bot4": 1792775538.650769,
+  "last_bot4": 1792776232.345098,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792774659.9078965
+    "Gold": 1792776232.3450046
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792775863.6063492,
+  "last_signals": 1792776232.3458173,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -84,7 +84,7 @@
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792775864.8057022,
-    "USD/JPY|1D:bot": 1792775865.1494274,
-    "JPY Index|1D:bot": 1792775865.530772
+    "GBP/USD|1D:top": 1792776233.5813863,
+    "USD/JPY|1D:bot": 1792776234.0150983,
+    "JPY Index|1D:bot": 1792776234.3833032
   },
-  "last_analysis": 1792775853.3900077,
-  "last_news": 1792775863.6054614,
+  "last_analysis": 1792776221.006949,
+  "last_news": 1792776229.7366645,
   "seen_news": [
-    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dil",
-    "Ph\u00f3 C\u1ee5c tr\u01b0\u1edfng C\u1ee5c An ninh m\u1ea1ng (A05): \u0110\u1ea7u t\u01b0 h\u1ec7 th\u1ed1ng th\u00f4ng tin nh\u01b0ng kh\u00f4ng qua",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "ETFs tied to Meta Platforms feel the downward pressure - TradingView",
-    "This hot AI-fueled stock has been in a rut. It just beat earnings expectations b",
-    "France is flashing euro crisis signals. This time, the fault lines are different",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "SpaceX says Tesla merger needs Musk\u2019s approval, discloses megapack purchases - T",
     "France is getting its credit rating reviewed by Moody\u2019s. What to expect as Frenc",
@@ -446,6 +440,12 @@
     "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "U.S. Rig Count Holds Steady as Oil Prices Surge",
     "FCC grants Intel waiver to use existing foreign-made robotic devices",
-    "European stocks post weekly losses. French yields climb. Brent above $117/crude "
+    "European stocks post weekly losses. French yields climb. Brent above $117/crude ",
+    "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+    "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+    "European stocks post weekly loss as France turmoil, oil prices dent earnings opt",
+    "Gold gets caught in market liquidation despite falling real yields supporting hi",
+    "C\u1eadp nh\u1eadt BCTC qu\u00fd 2/2026 ng\u00e0y 24/10: M\u1ed9t ng\u00e2n h\u00e0ng l\u00e3i gi\u1ea3m 79%, th\u00eam nhi\u1ec1u doan"
   ]
 }
