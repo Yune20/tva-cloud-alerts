@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792734162.3621428,
-  "last_bot4": 1792740368.791489,
+  "last_bot4": 1792741340.230383,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792740368.7913656
+    "Gold": 1792741340.230263
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792740973.194075,
+  "last_signals": 1792741340.2315102,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,15 +81,15 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792741602,
   "menu_prices": {
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792688464.2013297,
+    "EUR/USD|4H:bot": 1792741341.5594106,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792740975.38967,
-    "USD/JPY|1D:bot": 1792740976.0140312,
-    "JPY Index|1D:bot": 1792740976.6411288
+    "GBP/USD|1D:top": 1792741341.357611,
+    "USD/JPY|1D:bot": 1792741341.733457,
+    "JPY Index|1D:bot": 1792741342.119429
   },
-  "last_analysis": 1792740676.9442723,
-  "last_news": 1792740973.1933122,
+  "last_analysis": 1792741329.8377848,
+  "last_news": 1792741337.5246046,
   "seen_news": [
-    "Is an 'AI war' complicating your job search?",
-    "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
-    "Analysis-Musk\u2019s political baggage clouds prospects for SpaceX-Tesla deal",
-    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.",
-    "Ch\u00e2u \u00c1 b\u1ea5t ng\u1edd g\u1eedi tin kh\u00f4ng vui cho Iran",
-    "DXS: CTCP D\u1ecbch v\u1ee5 B\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0110\u1ea5t Xanh - DXS - VietstockFinance",
     "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
     "Australia flash PMI: private sector shrinks for first time in five months as pri",
     "Ph\u00e1t hi\u1ec7n nam sinh 19 tu\u1ed5i b\u1ecf \u0111\u1ea1i h\u1ecdc, t\u1eebng s\u1ed1ng trong xe k\u00e9o, 21 tu\u1ed5i khi\u1ebfn Fac",
@@ -449,6 +443,12 @@
     "Rising Crude Oil Imports Reduce China\u2019s Need to Draw from Stocks",
     "Dollar ticks up amid oil surge; yen holds gains on haven demand",
     "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
-    "2 c\u00f4 gi\u00e1o t\u00e1t h\u1ecdc sinh m\u1ea7m non: Kh\u00f4ng c\u00f3 bi\u1ec3u hi\u1ec7n b\u1ea5t th\u01b0\u1eddng, l\u00e0 ng\u01b0\u1eddi c\u00f3 chuy\u00ea"
+    "2 c\u00f4 gi\u00e1o t\u00e1t h\u1ecdc sinh m\u1ea7m non: Kh\u00f4ng c\u00f3 bi\u1ec3u hi\u1ec7n b\u1ea5t th\u01b0\u1eddng, l\u00e0 ng\u01b0\u1eddi c\u00f3 chuy\u00ea",
+    "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuati",
+    "Doanh thu t\u0103ng 442%, v\u1eabn l\u1ed7 126 t\u1ef7: \u0110i\u1ec1u g\u00ec \u0111ang x\u1ea3y ra \u1edf c\u00f4ng ty l\u00e0m c\u1ea3ng 28.00",
+    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "ServiceNow Orchestrates AI's Next Act\u2014Can Earnings Deliver? - TradingView",
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet"
   ]
 }
