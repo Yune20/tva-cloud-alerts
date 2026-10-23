@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792789050.837182,
-  "last_bot4": 1792789050.838191,
+  "last_bot4": 1792789726.1886246,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792788160.120083
+    "Gold": 1792789726.1885207
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792789362.6873715,
+  "last_signals": 1792789726.1893175,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -81,8 +81,8 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|1H": true,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792789364.212483,
-    "USD/JPY|1D:bot": 1792789364.5417957,
-    "JPY Index|1D:bot": 1792789364.8546247
+    "GBP/USD|1D:top": 1792789727.2132106,
+    "USD/JPY|1D:bot": 1792789727.5416195,
+    "JPY Index|1D:bot": 1792789727.902508
   },
-  "last_analysis": 1792789354.013983,
-  "last_news": 1792789362.6861622,
+  "last_analysis": 1792789714.6773925,
+  "last_news": 1792789723.2484734,
   "seen_news": [
-    "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-    "Scotiabank sees mixed Canadian REIT earnings outlook, favours select office name",
-    "How have interest rate expectations changed after this week's events?",
-    "60 c\u00e1n b\u1ed9, chi\u1ebfn s\u0129 \u0111\u1ed3ng lo\u1ea1t kh\u00e1m x\u00e9t t\u1ea1i 4 t\u1ec9nh th\u00e0nh, ph\u00e1 chuy\u00ean \u00e1n \u0111\u1eb7c bi\u1ec7t ",
-    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
-    "Heatbit unveils Bitwater, a water heater that mines Bitcoin - TradingView",
     "H\u00e0ng hi\u1ebfm Honda SH150i HRC 2026 nh\u1eadp t\u01b0 v\u1ec1 Vi\u1ec7t Nam: Gi\u00e1 kho\u1ea3ng 250 tri\u1ec7u \u0111\u1ed3ng, ",
     "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank - VietstockFinance",
     "THURSDAY WHITE HOUSE SCHEDULE - President Trump travels to Sioux City, Iowa - Tr",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
     "Reliance Q3 Earnings Call Highlights - TradingView",
     "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got h",
-    "Trump dropping some Canada tariffs but 'replacing' them with other products"
+    "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "Why is Cumberland Pharmaceuticals stock sliding today?",
+    "Dow leads stocks lower; small caps win the week",
+    "Ti\u1ebfn s\u0129 Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o v\u1eeba c\u00f3 th\u00eam 57 tri\u1ec7u USD, nh\u01b0ng kh\u00f4ng c\u00f2n l\u00e0 ng\u01b0\u1edd",
+    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "Apple's Most Expensive iPhone Sends Unexpected Signal - TradingView",
+    "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered pe"
   ]
 }
