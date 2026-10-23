@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792745814.0219452,
+  "last_signals": 1792746427.3510025,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,10 +63,10 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792745815.125163,
-    "USD/JPY|1D:bot": 1792745815.4493036,
-    "JPY Index|1D:bot": 1792745815.758885
+    "GBP/USD|1D:top": 1792746428.3070674,
+    "USD/JPY|1D:bot": 1792746428.6347106,
+    "JPY Index|1D:bot": 1792746428.963966
   },
-  "last_analysis": 1792745806.602387,
-  "last_news": 1792745814.0210247,
+  "last_analysis": 1792746419.4021988,
+  "last_news": 1792746427.3500457,
   "seen_news": [
-    "Brockhaus Technologies AG (BKHT) Discloses Insider Sale in Buyback Allocation - ",
-    "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-    "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
-    "US 10-year yields fall, near 5% level but it's for the wrong reasons",
-    "C\u1ea3nh gi\u00e1c chi\u00eau l\u1eeba d\u1ee5 \"c\u00e0y phim AI\": Nguy c\u01a1 m\u1ea5t ti\u1ec1n, l\u1ed9 d\u1eef li\u1ec7u c\u00e1 nh\u00e2n v\u00e0 s\u1ead",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Future Fuels Inc. (FTUR) Closes C$6.57M Financing - TradingView",
     "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
@@ -449,6 +443,12 @@
     "B\u00c1O C\u00c1O - VietstockFinance",
     "Future Fuels Inc. (FTUR) Raises C$6.57M in Brokered Placement - TradingView",
     "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we though",
-    "Websites taken down worldwide as critical cyber-security update issued"
+    "Websites taken down worldwide as critical cyber-security update issued",
+    "M\u1eabu xe Hyundai 7 ch\u1ed7 rao b\u00e1n x\u1ea3 kho, gi\u00e1 ch\u1ec9 ngang xe c\u1ee1 A",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "BlackBerry Continues to Rise: What's Going On? - TradingView",
+    "This market signal just occurred for only the second time since 1999. Here\u2019s wha",
+    "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule"
   ]
 }
