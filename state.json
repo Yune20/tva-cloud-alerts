@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792778100.8162177,
-  "last_bot4": 1792784852.8309314,
+  "last_bot4": 1792785744.4647677,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792785151.6137314,
+  "last_signals": 1792785744.4715195,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792786215,
   "menu_prices": {
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792785153.300318,
-    "USD/JPY|1D:bot": 1792785153.8514166,
-    "JPY Index|1D:bot": 1792785154.537236
+    "GBP/USD|1D:top": 1792785746.8108006,
+    "USD/JPY|1D:bot": 1792785747.637725,
+    "JPY Index|1D:bot": 1792785748.3885407
   },
   "last_analysis": 1792785460.6138399,
-  "last_news": 1792785151.6126614,
+  "last_news": 1792785744.4641778,
   "seen_news": [
-    "Gold drops below $4,000 for first time since July as yields and dollar weigh",
-    "Mi\u1ec1n B\u1eafc s\u1eafp c\u00f3 m\u01b0a trong 2 ng\u00e0y",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Yen jumps as oil, AI and France worries rattle markets - TradingView",
-    "France is getting its credit rating reviewed. The French debt turmoil has helped",
-    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
     "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn t\u1ed1i 23/10 t\u1ea1i SJC, DOJI, PNJ, B\u1ea3o T\u00edn Minh Ch\u00e2u,...",
     "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
     "Reliance Q3 Earnings Call Highlights - TradingView",
@@ -446,6 +440,12 @@
     "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
     "Inflation and government borrowing highest for a year ahead of next week's Budge",
     "Why Smart Investors Are Selling Oil Stocks and Buying MLPs",
-    "After previous day\u2019s slump, trading is quieter among AI shares"
+    "After previous day\u2019s slump, trading is quieter among AI shares",
+    "Trump's executive order targets mortgage insurance, refinance costs. What it mea",
+    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
+    "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+    "OpenAI mandates offline training for frontier models to prevent AI escapes",
+    "investingLive European session wrap: Equities cautious as Treasury yields reboun",
+    "\u00d4ng L\u00ea Ho\u00e0ng Kh\u00e1nh Nh\u1ef1t b\u1ecb kh\u1edfi t\u1ed1, doanh nghi\u1ec7p c\u00f4ng b\u1ed1 t\u00e0i li\u1ec7u quan tr\u1ecdng"
   ]
 }
