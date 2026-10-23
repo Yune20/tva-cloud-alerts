@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792786357.714431,
+  "last_signals": 1792786890.717103,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792786359.3716617,
-    "USD/JPY|1D:bot": 1792786359.88437,
-    "JPY Index|1D:bot": 1792786360.3813398
+    "GBP/USD|1D:top": 1792786892.390729,
+    "USD/JPY|1D:bot": 1792786892.986431,
+    "JPY Index|1D:bot": 1792786893.543639
   },
   "last_analysis": 1792786594.9896655,
-  "last_news": 1792786357.713554,
+  "last_news": 1792786890.716551,
   "seen_news": [
-    "EBay Stock Moves Higher: What's Going On? - TradingView",
-    "It\u2019s been a painful month for hedge funds. To turn it around, they are shorting ",
-    "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukra",
-    "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production",
-    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
     "Google resolves cloud outage affecting UK banks and websites",
     "Treasury yields set for third weekly drop as AI worries fuel haven bid",
     "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
@@ -446,6 +440,12 @@
     "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
     "The tech helping crack decades-old cold cases",
     "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
-    "TSX stocks to watch next week as analysts see triple-digit upside"
+    "TSX stocks to watch next week as analysts see triple-digit upside",
+    "Trump: We may do another operation against Iran",
+    "Vi\u1ec7t Nam \u0111ang x\u00e2y si\u00eau s\u00e2n v\u1eadn \u0111\u1ed9ng l\u1edbn nh\u1ea5t h\u00e0nh tinh, quy m\u00f4 g\u1ea5p 3,3 l\u1ea7n M\u1ef9 \u0110\u00ec",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
+    "Bank of America Corporation (BAC) Adds Two Directors - TradingView",
+    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+    "White House says the US is lifting tariffs on some Canadian goods"
   ]
 }
