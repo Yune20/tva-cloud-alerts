@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792756906.0492609,
+  "last_signals": 1792757521.6517909,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792756906.356415,
+    "USOIL|4H:top": 1792757522.0743887,
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792756907.1769247,
-    "USD/JPY|1D:bot": 1792756907.4983852,
-    "JPY Index|1D:bot": 1792756907.8742697
+    "GBP/USD|1D:top": 1792757522.8000226,
+    "USD/JPY|1D:bot": 1792757523.17646,
+    "JPY Index|1D:bot": 1792757523.5572777
   },
-  "last_analysis": 1792756896.0060623,
-  "last_news": 1792756906.0483246,
+  "last_analysis": 1792757513.5512495,
+  "last_news": 1792757521.6510177,
   "seen_news": [
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Dip in the dollar takes a breather with Fed in focus - TradingView",
-    "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into ",
-    "Meta fined $25bn for 'lies' over user data privacy",
-    "Japan considers ending gasoline subsidies in December- Reuters",
-    "Canada September PPI +2.0% m/m vs +1.3% prior",
     "Trump asked Musk to lift Starlink slowdown, WSJ reports",
     "Union attacks NatWest plans to get workers back to the office",
     "U.S. propses tighter rules on investments in Chinese tech sectors",
@@ -449,6 +443,12 @@
     "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
     "Wall Street futures edge lower after AI selloff, telecom slide",
     "HSBC\u2019s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and w",
-    "Ng\u00e2n h\u00e0ng c\u1ea3nh b\u00e1o kh\u1ea9n: Tin nh\u1eafn gi\u1ea3 n\u1eb1m l\u1eabn ngay trong h\u1ed9p th\u01b0 SMS ch\u00ednh ch\u1ee7"
+    "Ng\u00e2n h\u00e0ng c\u1ea3nh b\u00e1o kh\u1ea9n: Tin nh\u1eafn gi\u1ea3 n\u1eb1m l\u1eabn ngay trong h\u1ed9p th\u01b0 SMS ch\u00ednh ch\u1ee7",
+    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
+    "Renewables Boom Pushes Australia\u2019s Gas Power to Quarter-Century Low",
+    "Why is Tango Therapeutics stock sliding today?",
+    "investingLive European session wrap: Equities cautious as Treasury yields reboun",
+    "Huy\u1ec1n Lizzie b\u1ecb nh\u1ea7m th\u00e0nh Ng\u1ecdc Trinh",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets"
   ]
 }
