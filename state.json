@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792718851.2952013,
+  "last_signals": 1792719462.5909858,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -64,9 +64,9 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -147,15 +147,9 @@
     "USD/JPY|1D:bot": 1792711706.0206394,
     "JPY Index|1D:bot": 1792711706.3310635
   },
-  "last_analysis": 1792718842.6058438,
-  "last_news": 1792718851.2941852,
+  "last_analysis": 1792719452.8660855,
+  "last_news": 1792719462.5901685,
   "seen_news": [
-    "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-    "What is happening to UK prices?",
-    "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
-    "Honeywell earnings analysis: questions answered and next catalysts",
-    "Meta shares fall 7% on huge spending plans",
-    "T\u1ef7 ph\u00fa s\u1edf h\u1eefu 4,8 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng n\u00f3i v\u1ec1 th\u1ee9 'ch\u1ec9 t\u0103ng ch\u1ee9 kh\u00f4ng gi\u1ea3m' trong \u00edt nh",
     "Citi\u2019s $60 Oil Call Meets $112 Brent",
     "Spotify earnings analysis: questions answered and next catalysts",
     "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
@@ -449,6 +443,12 @@
     "Robinhood Gets Dubai License, Plans 2027 Middle East Launch - TradingView",
     "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
     "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "SK Hynix bounces from oversold low amid bearish trend: Live levels"
+    "SK Hynix bounces from oversold low amid bearish trend: Live levels",
+    "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6758 \u2013 Reuters estimate",
+    "Vi\u1ec7t Nam gia t\u0103ng l\u01b0\u1ee3ng xu\u1ea5t kh\u1ea9u g\u1ea1o sang Singapore",
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Yields plummet as fears about AI boom sustainability flare - TradingView",
+    "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease"
   ]
 }
