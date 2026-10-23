@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792788160.120881,
+  "last_signals": 1792788766.5991695,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -75,7 +75,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792788161.5485208,
-    "USD/JPY|1D:bot": 1792788162.0497515,
-    "JPY Index|1D:bot": 1792788162.5113273
+    "GBP/USD|1D:top": 1792788767.615906,
+    "USD/JPY|1D:bot": 1792788768.0112226,
+    "JPY Index|1D:bot": 1792788768.327912
   },
-  "last_analysis": 1792788148.8494413,
-  "last_news": 1792788157.5526915,
+  "last_analysis": 1792788758.1518097,
+  "last_news": 1792788766.598256,
   "seen_news": [
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
-    "K+S Aktiengesellschaft (SDF) Receives Major Holdings Notice From BlackRock - Tra",
-    "Our top 10 things to watch in the stock market Friday",
-    "Why are more roofs not made of solar tiles?",
-    "Why is Infosys ADR stock tumbling today?",
-    "Canada August retail sales +1.2% vs +1.3% expected",
     "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud d",
     "What is PHP and why did it spark a global cyber-security scramble?",
     "Thursday\u2019s insider activity: Notable buys at Agora and Rapport",
@@ -446,6 +440,12 @@
     "Renewables Boom Pushes Australia\u2019s Gas Power to Quarter-Century Low",
     "OpenAI resumes frontier AI training with enhanced security, no internet access",
     "Bitcoin erases all the weekly gains as growth concerns lead to widespread risk a",
-    "Ng\u00e2n h\u00e0ng \u0111\u1ea7u ti\u00ean b\u00e1o l\u00e3i qu\u00fd 3 t\u0103ng tr\u01b0\u1edfng \u00e2m"
+    "Ng\u00e2n h\u00e0ng \u0111\u1ea7u ti\u00ean b\u00e1o l\u00e3i qu\u00fd 3 t\u0103ng tr\u01b0\u1edfng \u00e2m",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+    "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
+    "Nh\u1eadt B\u1ea3n mang 'si\u00eau m\u00e1y' n\u1eb7ng 300 t\u1ea5n l\u1ea7n \u0111\u1ea7u ti\u00ean \u0111\u1ebfn Vi\u1ec7t Nam, m\u1ea5t 2 th\u00e1ng l\u1eafp",
+    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
+    "Autoliv (ALV) reports earnings tomorrow: what to expect - TradingView"
   ]
 }
