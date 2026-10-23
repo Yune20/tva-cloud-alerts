@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792782156.1870887,
+  "last_signals": 1792782756.2519777,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -82,7 +82,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792782157.842063,
-    "USD/JPY|1D:bot": 1792782158.4238064,
-    "JPY Index|1D:bot": 1792782159.0218759
+    "GBP/USD|1D:top": 1792782758.71182,
+    "USD/JPY|1D:bot": 1792782759.5477028,
+    "JPY Index|1D:bot": 1792782760.351649
   },
   "last_analysis": 1792782461.7301066,
-  "last_news": 1792782156.176426,
+  "last_news": 1792782756.1663272,
   "seen_news": [
-    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes",
-    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-    "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
-    "XSMB 23/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 23/10/2026",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Blue Dolphin Energy Company (BDCO) Appoints Chris McDougall as CFO - TradingView",
     "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before B",
     "SeABank \u0111i\u1ec1u ch\u1ec9nh gi\u1ea3m k\u1ebf ho\u1ea1ch kinh doanh 2026 v\u00e0 b\u1ea7u Ch\u1ee7 t\u1ecbch H\u0110QT m\u1edbi",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
@@ -446,6 +440,12 @@
     "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks",
     "\u0110\u00f3ng h\u01a1n 100 tri\u1ec7u \u0111\u1ed3ng b\u1ea3o hi\u1ec3m nh\u00e2n th\u1ecd trong 7 n\u0103m, \u0111\u1ebfn khi d\u1eebng h\u1ee3p \u0111\u1ed3ng ch\u1ec9",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
-    "AXTI Q3'26 Earnings: revenue estimate is 66.00M USD - TradingView"
+    "AXTI Q3'26 Earnings: revenue estimate is 66.00M USD - TradingView",
+    "NT2: CTCP \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Nh\u01a1n Tr\u1ea1ch 2 - PVPOWER NT2 - VietstockFinance",
+    "Biohaven\u2019s Vyglxia SCA Resubmission Accepted; FDA Sets Q1 2027 Goal Date - Tradi",
+    "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s ke",
+    "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite make",
+    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+    "BofA sees Norwegian krone weakening against Swedish krona"
   ]
 }
