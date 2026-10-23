@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792750116.209381,
+  "last_signals": 1792750737.1041152,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792750118.7898176,
+    "EUR/USD|4H:bot": 1792750739.0098424,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792750118.3216417,
-    "USD/JPY|1D:bot": 1792749503.213211,
-    "JPY Index|1D:bot": 1792749503.6470914
+    "GBP/USD|1D:top": 1792750738.747255,
+    "USD/JPY|1D:bot": 1792750739.2660782,
+    "JPY Index|1D:bot": 1792750739.792225
   },
-  "last_analysis": 1792750107.9731064,
-  "last_news": 1792750116.2086186,
+  "last_analysis": 1792750728.908029,
+  "last_news": 1792750737.103182,
   "seen_news": [
-    "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: R",
-    "X-planes: Are they needed in the new era of drones?",
-    "Why Trump Can't Afford to Lose The Rare Earth Race",
-    "Why is Samsung Electronics stock declining today?",
-    "What is blockchain finality? Why Bitcoin, Ethereum and Solana settle at very dif",
-    "Nam MC SN 1987 t\u1eebng d\u1eabn \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia l\u00e0 c\u1ef1u h\u1ecdc sinh tr\u01b0\u1eddng chuy\u00ean top",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
     "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
@@ -449,6 +443,12 @@
     "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid",
     "Macro pulse: Europe's economy is losing steam but inflation won't let up",
     "Ch\u00e2n dung t\u00e2n Ch\u1ee7 t\u1ecbch SeABank: Th\u1ea1c s\u0129 H\u1ecdc vi\u1ec7n Ng\u00e2n h\u00e0ng, h\u01a1n 26 n\u0103m l\u00e0m vi\u1ec7c ",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "TCEX ho\u00e0n th\u00e0nh th\u1ea9m \u0111\u1ecbnh an to\u00e0n h\u1ec7 th\u1ed1ng th\u00f4ng tin c\u1ea5p \u0111\u1ed9 4, ti\u1ebfn th\u00eam m\u1ed9t b\u01b0\u1edb",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
+    "Grupo Mexico pulls out of Argentina cargo rail privatization bid - TradingView",
+    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
+    "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "The tech helping crack decades-old cold cases"
   ]
 }
