@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792772186.7633114,
+  "last_signals": 1792772565.1149824,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -76,13 +76,13 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792772186.9277089,
+    "Gold|4H:bot": 1792772565.286385,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792772188.0078282,
-    "USD/JPY|1D:bot": 1792772188.466709,
-    "JPY Index|1D:bot": 1792772188.9792929
+    "GBP/USD|1D:top": 1792772566.4413035,
+    "USD/JPY|1D:bot": 1792772566.9038754,
+    "JPY Index|1D:bot": 1792772567.2594056
   },
-  "last_analysis": 1792772177.7552104,
-  "last_news": 1792772186.7615235,
+  "last_analysis": 1792772556.4224367,
+  "last_news": 1792772565.1140575,
   "seen_news": [
-    "L\u2019Or\u00e9al stock rallies as third-quarter sales beat estimates",
-    "Trading Sphere is brewing something wicked this Halloween",
-    "Trung Qu\u1ed1c c\u00f3 20 n\u0103m kinh nghi\u1ec7m nh\u01b0ng v\u1eabn b\u1ecb t\u1eeb ch\u1ed1i, nh\u00e0 th\u1ea7u kh\u00f4ng c\u00f3 kinh ng",
-    "Vietnam strategy report - VietstockFinance",
-    "What Moody's (MCO) Said on Its Q3 Earnings Call - TradingView",
-    "Treasury yields log biggest drop since the 2023 banking crisis. Here\u2019s what\u2019s go",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "HUGO BOSS AG (BOSS) Reports Major Holdings Notice - TradingView",
     "Volvo Cars plunges 29% as CEO says China sales slump came 'faster than we though",
@@ -447,6 +441,12 @@
     "72h c\u0103ng th\u1eb3ng: Nga - Trung Qu\u1ed1c \u0111i\u1ec1u t\u00e0u v\u00e0 m\u00e1y bay, m\u1ed9t n\u01b0\u1edbc b\u1ecb \"k\u1eb9p ch\u1eb7t\", l\u1ea7",
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
     "TD Cowen maintains Hold rating on Tractor Supply, $36 price target - TradingView",
-    "Retire on 8% a year with little or no risk? How to use annuities the right way."
+    "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+    "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
+    "Kh\u1edfi t\u1ed1 ch\u1ee7 c\u1eeda h\u00e0ng \u0111\u1ed3ng h\u1ed3 \u0111eo tay Ph\u1ea1m V\u0103n \u0110\u01b0\u01a1ng SN 1962",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "What EastGroup Properties (EGP) Said on Its Q3 Earnings Call - TradingView",
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
+    "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ"
   ]
 }
