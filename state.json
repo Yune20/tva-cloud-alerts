@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792719462.5909858,
+  "last_signals": 1792720068.9614456,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,10 +63,10 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,18 +144,12 @@
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
     "GBP/USD|1D:top": 1792705590.5547972,
-    "USD/JPY|1D:bot": 1792711706.0206394,
-    "JPY Index|1D:bot": 1792711706.3310635
+    "USD/JPY|1D:bot": 1792720070.5028226,
+    "JPY Index|1D:bot": 1792720070.921948
   },
   "last_analysis": 1792719766.7715027,
-  "last_news": 1792719462.5901685,
+  "last_news": 1792720068.9605637,
   "seen_news": [
-    "Citi\u2019s $60 Oil Call Meets $112 Brent",
-    "Spotify earnings analysis: questions answered and next catalysts",
-    "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
-    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 23/10: IDP l\u00e3i 9 th\u00e1ng h\u01a1n 800 t\u1ef7, c\u00f4ng ty B\u0110",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "MERC Q3'26 Earnings: revenue estimate is 489.06M USD - TradingView",
     "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets ",
     "Vi\u1ec7t Nam c\u00f3 1 chuy\u1ebfn t\u00e0u h\u1ecfa v\u1eeba \u0111\u01b0\u1ee3c t\u1ea1p ch\u00ed M\u1ef9 vinh danh trong top \u0111\u1eb9p nh\u1ea5t th",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
@@ -449,6 +443,12 @@
     "Vi\u1ec7t Nam gia t\u0103ng l\u01b0\u1ee3ng xu\u1ea5t kh\u1ea9u g\u1ea1o sang Singapore",
     "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Yields plummet as fears about AI boom sustainability flare - TradingView",
-    "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease"
+    "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "C\u1ed5 phi\u1ebfu c\u00f4ng ngh\u1ec7 b\u1ecb b\u00e1n th\u00e1o v\u00ec l\u0169 l\u01b0\u1ee3t \u0111\u1ed5 ti\u1ec1n v\u00e0o AI",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Carnival Corporation Ltd. (CCL) Declares $0.15 Quarterly Dividend - TradingView",
+    "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "What is happening to UK prices?",
+    "Tehran Turns to Central Asia for Trade as Conflict With U.S. Simmers"
   ]
 }
