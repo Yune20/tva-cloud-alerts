@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792778725.0507162,
+  "last_signals": 1792779337.7516918,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,10 +66,10 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792778726.27073,
-    "USD/JPY|1D:bot": 1792778726.7547615,
-    "JPY Index|1D:bot": 1792778727.1298363
+    "GBP/USD|1D:top": 1792779340.272443,
+    "USD/JPY|1D:bot": 1792779341.1912491,
+    "JPY Index|1D:bot": 1792779342.0111916
   },
-  "last_analysis": 1792778717.7242343,
-  "last_news": 1792778725.0499725,
+  "last_analysis": 1792779329.4987154,
+  "last_news": 1792779337.7508821,
   "seen_news": [
-    "Nh\u1eefng th\u1ee9 kh\u00e1c th\u00ec c\u1ee9 t\u00ecm M\u1ef9, Nh\u1eadt, \u0110\u1ee9c nh\u01b0ng ri\u00eang c\u00f4ng ngh\u1ec7 n\u00e0y Nga m\u00e0 ng\u1ecf \u00fd t",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "What Tesla (TSLA) Said on Its Q3 Earnings Call - TradingView",
-    "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Why Trump Can't Afford to Lose The Rare Earth Race",
     "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
     "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback",
     "The 'trillion pound' oil fund the government believes Britain could have built",
@@ -446,6 +440,12 @@
     "US expected to remove 50% tariffs on some Canadian products as soon as today - r",
     "C\u00f4 g\u00e1i \u0111\u00f3ng qu\u1ea3ng c\u00e1o 13 n\u0103m tr\u01b0\u1edbc gi\u1edd l\u00e0m d\u00e2u gia t\u1ed9c n\u1ed5i ti\u1ebfng Vi\u1ec7t Nam: T\u1ea1i s",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Wedbush Drops Strong Verdict on Popular AI Cybersecurity Stock - TradingView"
+    "Wedbush Drops Strong Verdict on Popular AI Cybersecurity Stock - TradingView",
+    "Economic data and Treasury auctions highlight Monday\u2019s schedule",
+    "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603",
+    "Sao Th\u1ee7y ngh\u1ecbch h\u00e0nh l\u1ea7n 3 t\u1eeb ng\u00e0y 24/10: 12 con gi\u00e1p c\u00f3 g\u1eb7p bi\u1ebfn \u0111\u1ed9ng g\u00ec?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
+    "POTOMAC BANCSHARES DECLARES QUARTERLY CASH DIVIDEND - TradingView",
+    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85"
   ]
 }
