@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792788766.5991695,
+  "last_signals": 1792789362.6873715,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792788767.615906,
-    "USD/JPY|1D:bot": 1792788768.0112226,
-    "JPY Index|1D:bot": 1792788768.327912
+    "GBP/USD|1D:top": 1792789364.212483,
+    "USD/JPY|1D:bot": 1792789364.5417957,
+    "JPY Index|1D:bot": 1792789364.8546247
   },
-  "last_analysis": 1792788758.1518097,
-  "last_news": 1792788766.598256,
+  "last_analysis": 1792789354.013983,
+  "last_news": 1792789362.6861622,
   "seen_news": [
-    "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud d",
-    "What is PHP and why did it spark a global cyber-security scramble?",
-    "Thursday\u2019s insider activity: Notable buys at Agora and Rapport",
-    "Morning Kickstart: Tech selloff leaves buyers on the defensive",
-    "Ph\u00f4 mai ph\u00e1t mi\u1ec5n ph\u00ed \u1edf concert Ch\u00f4ng Gai l\u00ean th\u1ecbnh h\u00e0nh Threads: Fan \u0111\u1ed5 \u0111i si\u00eau",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
     "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
     "Scotiabank sees mixed Canadian REIT earnings outlook, favours select office name",
     "How have interest rate expectations changed after this week's events?",
@@ -446,6 +440,12 @@
     "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
     "Nh\u1eadt B\u1ea3n mang 'si\u00eau m\u00e1y' n\u1eb7ng 300 t\u1ea5n l\u1ea7n \u0111\u1ea7u ti\u00ean \u0111\u1ebfn Vi\u1ec7t Nam, m\u1ea5t 2 th\u00e1ng l\u1eafp",
     "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Autoliv (ALV) reports earnings tomorrow: what to expect - TradingView"
+    "Autoliv (ALV) reports earnings tomorrow: what to expect - TradingView",
+    "Canada August retail sales +1.2% vs +1.3% expected",
+    "Si\u00eau s\u00e2n bay 90.000 t\u1ef7 \u0111\u1ed3ng, r\u1ed9ng g\u1ea5p 18 l\u1ea7n N\u1ed9i B\u00e0i: \u0110\u00f3n h\u01a1n 63 tri\u1ec7u kh\u00e1ch m\u1ed7i",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
+    "Reliance Q3 Earnings Call Highlights - TradingView",
+    "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got h",
+    "Trump dropping some Canada tariffs but 'replacing' them with other products"
   ]
 }
