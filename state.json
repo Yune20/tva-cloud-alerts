@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792716658.561019,
+  "last_signals": 1792717275.98438,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -147,15 +147,9 @@
     "USD/JPY|1D:bot": 1792711706.0206394,
     "JPY Index|1D:bot": 1792711706.3310635
   },
-  "last_analysis": 1792716651.2519107,
-  "last_news": 1792716658.560251,
+  "last_analysis": 1792717263.5818262,
+  "last_news": 1792717275.983581,
   "seen_news": [
-    "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-    "The grads ditching the UK for a fresh start abroad",
-    "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter",
-    "L\u2019Or\u00e9al stock jumps as third-quarter sales beat estimates",
-    "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil marke",
-    "Chi\u1ebfc iPhone 13 tri\u1ec7u c\u1ee7a Ronaldo",
     "US airlines struggle to offset soaring fuel costs with big fare hikes",
     "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on",
     "Qu\u1ea3 g\u00ec \"\u0111en s\u00ec nh\u01b0 than, b\u00e1n \u0111\u1eaft ngang th\u1ecbt\": \u0110em kho c\u00e1 th\u00ec c\u01a1m n\u1ea5u c\u1ea3 n\u1ed3i \u0111\u1ea7y ",
@@ -449,6 +443,12 @@
     "BlackBerry Continues to Rise: What's Going On? - TradingView",
     "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
     "Just Eat apologises for AI food mistakes after social media ridicule",
-    "Microsoft develops AI tool that can diagnose \u2019sequentially\u2019 like a doctor"
+    "Microsoft develops AI tool that can diagnose \u2019sequentially\u2019 like a doctor",
+    "Brockhaus Technologies AG (BKHT) Discloses Insider Sale in Buyback Allocation - ",
+    "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+    "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+    "US 10-year yields fall, near 5% level but it's for the wrong reasons",
+    "C\u1ea3nh gi\u00e1c chi\u00eau l\u1eeba d\u1ee5 \"c\u00e0y phim AI\": Nguy c\u01a1 m\u1ea5t ti\u1ec1n, l\u1ed9 d\u1eef li\u1ec7u c\u00e1 nh\u00e2n v\u00e0 s\u1ead"
   ]
 }
