@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792717275.98438,
+  "last_signals": 1792717875.4559019,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -148,14 +148,8 @@
     "JPY Index|1D:bot": 1792711706.3310635
   },
   "last_analysis": 1792717580.7120376,
-  "last_news": 1792717275.983581,
+  "last_news": 1792717875.4550147,
   "seen_news": [
-    "US airlines struggle to offset soaring fuel costs with big fare hikes",
-    "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on",
-    "Qu\u1ea3 g\u00ec \"\u0111en s\u00ec nh\u01b0 than, b\u00e1n \u0111\u1eaft ngang th\u1ecbt\": \u0110em kho c\u00e1 th\u00ec c\u01a1m n\u1ea5u c\u1ea3 n\u1ed3i \u0111\u1ea7y ",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
-    "\u2018AI is on trial\u2019: Bond yields sink below 5% as investors look for safety",
     "Ch\u1ee3 Vi\u1ec7t c\u00f3 lo\u1ea1i c\u00e1 nh\u1ecf nh\u00ecn qu\u00e1 \u0111\u1ed7i b\u00ecnh th\u01b0\u1eddng nh\u01b0ng l\u1ea1i \u0111\u01b0\u1ee3c th\u1ea7y thu\u1ed1c x\u01b0a g",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Yields plunge as fears about sustaining AI boom resurface - TradingView",
@@ -449,6 +443,12 @@
     "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
     "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
     "US 10-year yields fall, near 5% level but it's for the wrong reasons",
-    "C\u1ea3nh gi\u00e1c chi\u00eau l\u1eeba d\u1ee5 \"c\u00e0y phim AI\": Nguy c\u01a1 m\u1ea5t ti\u1ec1n, l\u1ed9 d\u1eef li\u1ec7u c\u00e1 nh\u00e2n v\u00e0 s\u1ead"
+    "C\u1ea3nh gi\u00e1c chi\u00eau l\u1eeba d\u1ee5 \"c\u00e0y phim AI\": Nguy c\u01a1 m\u1ea5t ti\u1ec1n, l\u1ed9 d\u1eef li\u1ec7u c\u00e1 nh\u00e2n v\u00e0 s\u1ead",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Future Fuels Inc. (FTUR) Closes C$6.57M Financing - TradingView",
+    "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+    "The grads ditching the UK for a fresh start abroad",
+    "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter",
+    "Nikkei 225 deeply oversold at 62,287 after breakdown: Live levels"
   ]
 }
