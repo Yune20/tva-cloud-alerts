@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792751959.4191515,
+  "last_signals": 1792752575.104549,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -78,17 +78,17 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1792752837,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792751961.9364927,
+    "EUR/USD|4H:bot": 1792752576.248034,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792751961.587246,
-    "USD/JPY|1D:bot": 1792751962.259111,
-    "JPY Index|1D:bot": 1792751962.8584883
+    "GBP/USD|1D:top": 1792752576.0837839,
+    "USD/JPY|1D:bot": 1792752576.4122777,
+    "JPY Index|1D:bot": 1792752576.7377145
   },
-  "last_analysis": 1792751950.384474,
-  "last_news": 1792751959.4183605,
+  "last_analysis": 1792752566.6410213,
+  "last_news": 1792752575.1035957,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Universal Insurance Holdings Reports Q3 2026 Earnings of $1.80 per Share - Tradi",
-    "Third-party evaluators found vulnerabilities in OpenAI monitoring system during ",
-    "Burnham proposes plan to cut standing charges from gas bills",
-    "EU\u2019s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-    "SK\u00a0Group\u2019s data center\u00a0unit seeks funding for $350 bln AI buildout - Bloomberg",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
     "Dollar holds steady as Middle East tensions simmer, oil rises - TradingView",
     "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -449,6 +443,12 @@
     "The 'trillion pound' oil fund the government believes Britain could have built",
     "European Natural Gas Prices Surge to Highest Level Since 2022",
     "India 40-year bond yield hits highest level since 2018",
-    "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks"
+    "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks",
+    "Citi\u2019s $60 Oil Call Meets $112 Brent",
+    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
+    "Bitcoin erases all the weekly gains as growth concerns lead to widespread risk a",
+    "VN-Index t\u0103ng g\u1ea7n 70 \u0111i\u1ec3m sau 1 tu\u1ea7n b\u00f9ng n\u1ed5",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Carnival Corporation Ltd. (CCL) Declares $0.15 Quarterly Dividend - TradingView"
   ]
 }
