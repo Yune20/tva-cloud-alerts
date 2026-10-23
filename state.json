@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792734162.3621428,
-  "last_bot4": 1792742314.1928897,
+  "last_bot4": 1792742980.8147104,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792742314.1936657,
+  "last_signals": 1792742980.815424,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -69,8 +69,8 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|1H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792742315.976416,
+    "EUR/USD|4H:bot": 1792742982.772872,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792742315.7431235,
-    "USD/JPY|1D:bot": 1792742316.2071235,
-    "JPY Index|1D:bot": 1792742316.6837928
+    "GBP/USD|1D:top": 1792742982.4414992,
+    "USD/JPY|1D:bot": 1792742983.034365,
+    "JPY Index|1D:bot": 1792742983.5551906
   },
-  "last_analysis": 1792742614.4989073,
-  "last_news": 1792742311.4209838,
+  "last_analysis": 1792742969.2999337,
+  "last_news": 1792742980.813921,
   "seen_news": [
-    "Etsy bans AI-generated recipes and patterns from its online marketplace",
-    "Websites taken down worldwide as critical cyber-security update issued",
-    "SK Hynix scraps Solidigm IPO plans, citing market conditions",
-    "Crude oil buyers remain in control from a technical perspective. What would tilt",
-    "570 ca m\u1eafc, 45 ng\u01b0\u1eddi t\u1eed vong v\u00ec b\u1ec7nh Whitmore t\u1ea1i 4 t\u1ec9nh, Th\u00e1i Lan c\u1ea3nh b\u00e1o ng\u01b0\u1edd",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
     "Grid operator says lights will stay on this winter after concerns",
     "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
     "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
@@ -449,6 +443,12 @@
     "Volvo Cars shares plunge 31% amid China, U.S. slump and fresh job cuts",
     "The AI telling farmers when to harvest",
     "Why is Sodexo stock surging today?",
-    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1."
+    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.",
+    "Japan core inflation in September surges to its highest this year at 2.1%",
+    "The start-ups hoping to return battery making to the US",
+    "German yields hit 2-month lows as French debt costs spike",
+    "Eurozone October flash services PMI 51.7 vs 52.5 expected",
+    "SeABank \u0111i\u1ec1u ch\u1ec9nh k\u1ebf ho\u1ea1ch kinh doanh 2026 v\u00e0 b\u1ea7u Ch\u1ee7 t\u1ecbch H\u0110QT m\u1edbi",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
