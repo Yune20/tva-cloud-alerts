@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792738813.3771415,
+  "last_signals": 1792739435.6599529,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -43,7 +43,7 @@
     "5575146754|Gold|1H|dn": 1792728264.0235655,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
-    "5575146754|Gold|4H|trap_dn": 1792729496.1859038,
+    "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792722655.1256213,
     "5575146754|Gold|1D|trap_dn": 1792734529.4177973
@@ -79,7 +79,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792738815.3078487,
-    "USD/JPY|1D:bot": 1792738815.9259079,
-    "JPY Index|1D:bot": 1792738816.5297081
+    "GBP/USD|1D:top": 1792739437.5821438,
+    "USD/JPY|1D:bot": 1792739438.2006183,
+    "JPY Index|1D:bot": 1792739438.8080223
   },
-  "last_analysis": 1792738804.1015704,
-  "last_news": 1792738813.3762672,
+  "last_analysis": 1792739425.8136032,
+  "last_news": 1792739435.6592374,
   "seen_news": [
-    "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racket",
-    "Audit regulator looking into Manchester City accounting",
-    "Australia\u2019s Rio Tinto to invest $1.9 billion in Queensland bauxite project",
-    "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
-    "Nam sinh \u1edf \u0110\u1ed3ng Nai b\u1ecba chuy\u1ec7n b\u1ecb xe kh\u00e1ch ch\u1edf g\u1ea7n t\u1edbi Campuchia, nh\u00e0 tr\u01b0\u1eddng g\u1eedi",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
     "FCC grants Intel waiver for foreign-made robotic devices",
     "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation d",
     "G\u00e0 nh\u1ea1n c\u00f3 l\u00f4ng m\u00e0u g\u00ec? C\u00e2u h\u1ecfi t\u1ea1i Ai L\u00e0 Tri\u1ec7u Ph\u00fa khi\u1ebfn ng\u01b0\u1eddi ch\u01a1i su\u00fdt \u0111\u00e1nh r",
@@ -449,6 +443,12 @@
     "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since De",
     "C\u00f4ng an th\u00f4ng b\u00e1o \u0111\u1ebfn t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111\u1ebfn ng\u00e2n h\u00e0ng giao d\u1ecbch v\u1edbi n\u1ed9i dung sau",
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "Broadcom Stocks Dip 4.5% After New AI Fraud Defense Launch - TradingView"
+    "Broadcom Stocks Dip 4.5% After New AI Fraud Defense Launch - TradingView",
+    "UK retail sales fall more than expected in September, complicating BOE rate hike",
+    "Unitree gi\u1edbi thi\u1ec7u robot bi\u1ebft v\u00f5 Kungfu \u0111\u1ec3 c\u1ee9u b\u1ea1n trong l\u00fac nguy c\u1ea5p",
+    "SHB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SAHABANK - VietstockFinance",
+    "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
+    "The U.S. stock market is fracturing into two camps, and it\u2019s leaving investors w",
+    "American Express brings Airbnb bookings and rewards to Amex Travel platform"
   ]
 }
