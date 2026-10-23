@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792712312.7627568,
-  "last_bot4": 1792721377.2414706,
+  "last_bot4": 1792722045.3175418,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792721377.2421956,
+  "last_signals": 1792722045.318203,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1792722305,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792721378.2351475,
-    "USD/JPY|1D:bot": 1792721378.5559146,
-    "JPY Index|1D:bot": 1792721378.8846014
+    "GBP/USD|1D:top": 1792722046.3981051,
+    "USD/JPY|1D:bot": 1792722046.7244656,
+    "JPY Index|1D:bot": 1792722047.11299
   },
-  "last_analysis": 1792721366.4310544,
-  "last_news": 1792721374.3087108,
+  "last_analysis": 1792722038.2166548,
+  "last_news": 1792722045.3165567,
   "seen_news": [
-    "Brent crude tops $113, highest level since May, after Trump hints at action on I",
-    "Burnham proposes plan to cut standing charges from gas bills",
-    "EU\u2019s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-    "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
-    "The evidence mounts that the US dollar is leveraged to the AI trade",
-    "Ng\u00e0y 23/10, g\u1eedi 100 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i MB, VPBank, Techcombank, Sacombank, SHB, ACB ",
     "Why is JetBlue Airways stock sliding today?",
     "US stocks are taking on water. What could steady the ships?",
     "M\u1ef9 mang 'b\u00e1u v\u1eadt c\u00f4ng ngh\u1ec7 ch\u1ec9 20 n\u01b0\u1edbc c\u00f3' sang Vi\u1ec7t Nam, ph\u1ee5c v\u1ee5 si\u00eau c\u00f4ng tr\u00ecn",
@@ -449,6 +443,12 @@
     "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
     "The 'trillion pound' oil fund the government believes Britain could have built",
     "Hang Seng oversold at 22,858 in descending channel: Live levels",
-    "Japan\u2019s 2.4% underlying inflation puts a higher BoJ terminal rate in play"
+    "Japan\u2019s 2.4% underlying inflation puts a higher BoJ terminal rate in play",
+    "How long will humans be needed for translation?",
+    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+    "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
+    "D\u00e2n v\u0103n ph\u00f2ng ng\u00e0y n\u00e0o c\u0169ng mua Vietlott, 3 l\u1ea7n v\u1ee1 \u00f2a v\u00ec 70k chuy\u1ec3n th\u1eb3ng v\u00e0o t\u00e0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
+    "Flaherty & Crumrine Total Return Fund Inc declares $0.1067 dividend - TradingVie"
   ]
 }
