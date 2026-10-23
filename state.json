@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792750737.1041152,
+  "last_signals": 1792751350.223076,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792750739.0098424,
+    "EUR/USD|4H:bot": 1792751351.4432025,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792750738.747255,
-    "USD/JPY|1D:bot": 1792750739.2660782,
-    "JPY Index|1D:bot": 1792750739.792225
+    "GBP/USD|1D:top": 1792751351.2865322,
+    "USD/JPY|1D:bot": 1792751351.594014,
+    "JPY Index|1D:bot": 1792751351.8977125
   },
-  "last_analysis": 1792750728.908029,
-  "last_news": 1792750737.103182,
+  "last_analysis": 1792751343.2165682,
+  "last_news": 1792751350.2223718,
   "seen_news": [
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
-    "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-    "The 'trillion pound' oil fund the government believes Britain could have built",
-    "Hang Seng oversold at 22,858 in descending channel: Live levels",
-    "Japan\u2019s 2.4% underlying inflation puts a higher BoJ terminal rate in play",
     "How long will humans be needed for translation?",
     "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
     "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
@@ -449,6 +443,12 @@
     "Grupo Mexico pulls out of Argentina cargo rail privatization bid - TradingView",
     "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-    "The tech helping crack decades-old cold cases"
+    "The tech helping crack decades-old cold cases",
+    "Nh\u1eefng th\u1ee9 kh\u00e1c th\u00ec c\u1ee9 t\u00ecm M\u1ef9, Nh\u1eadt, \u0110\u1ee9c nh\u01b0ng ri\u00eang c\u00f4ng ngh\u1ec7 n\u00e0y Nga m\u00e0 ng\u1ecf \u00fd t",
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "What Tesla (TSLA) Said on Its Q3 Earnings Call - TradingView",
+    "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Why Trump Can't Afford to Lose The Rare Earth Race"
   ]
 }
