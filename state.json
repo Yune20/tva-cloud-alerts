@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792778100.8162177,
-  "last_bot4": 1792783058.106401,
+  "last_bot4": 1792783949.8789983,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792783348.9129543,
+  "last_signals": 1792783949.879643,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -69,7 +69,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792783349.989061,
-    "USD/JPY|1D:bot": 1792783350.3549316,
-    "JPY Index|1D:bot": 1792783350.7257946
+    "GBP/USD|1D:top": 1792783951.4428334,
+    "USD/JPY|1D:bot": 1792783951.962532,
+    "JPY Index|1D:bot": 1792783952.3836265
   },
   "last_analysis": 1792783652.273135,
-  "last_news": 1792783348.912109,
+  "last_news": 1792783949.878324,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
-    "ZTE (H.K.) Limited Cuts Enablence Stake to ~3.25% - TradingView",
-    "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
-    "Why Smart Investors Are Selling Oil Stocks and Buying MLPs",
-    "Trump says Bombardier to invest $270 million in the US",
     "U.S. oil rises above $100, Brent at five-month high as Iran says it\u2019s prepared f",
     "Inflation and government borrowing highest for a year ahead of next week's Budge",
     "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
@@ -446,6 +440,12 @@
     "Even the wealthy increasingly want all-inclusive resorts",
     "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
     "Burnham proposes plan to cut standing charges from gas bills",
-    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes"
+    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes",
+    "Sang n\u0103m 2027, ng\u01b0\u1eddi lao \u0111\u1ed9ng c\u00f3 thu nh\u1eadp 50 tri\u1ec7u \u0111\u1ed3ng ph\u1ea3i \u0111\u00f3ng thu\u1ebf TNCN bao ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
+    "What Knowles (KN) Said on Its Q3 Earnings Call - TradingView",
+    "CrowdStrike CEO's alarming prediction \u2014 plus, the sell-off spreads beyond tech",
+    "The grads ditching the UK for a fresh start abroad",
+    "Pound edges higher, outperforming as investor nerves rattle euro zone markets"
   ]
 }
