@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792755016.850572,
+  "last_signals": 1792755621.993297,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792755018.4589872,
-    "USD/JPY|1D:bot": 1792755018.9460044,
-    "JPY Index|1D:bot": 1792755019.5040588
+    "GBP/USD|1D:top": 1792755623.590247,
+    "USD/JPY|1D:bot": 1792755624.0268457,
+    "JPY Index|1D:bot": 1792755624.5185616
   },
-  "last_analysis": 1792755005.9143465,
-  "last_news": 1792755016.849809,
+  "last_analysis": 1792755612.0965075,
+  "last_news": 1792755621.9925544,
   "seen_news": [
-    "ZTE (H.K.) Limited Cuts Enablence Stake to ~3.25% - TradingView",
-    "SK Hynix shares pare losses in choppy trade as chipmaker halts Solidigm IPO revi",
-    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
-    "While tech stocks slide, an AI-picked retailer surges 31% in October",
-    "HSBC\u2019s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and w",
-    "Nam di\u1ec5n vi\u00ean U60 m\u1edbi sinh con v\u1edbi v\u1ee3 k\u00e9m 26 tu\u1ed5i: \"Tr\u1eddi cho th\u00ec t\u00f4i l\u1ea1i \u0111\u1ebb n\u1eefa\"",
     "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
     "Japan government, BOJ gap on inflation laid bare ahead of key policy meeting",
     "Gold drops below $4,000 for first time since July as yields and dollar weigh",
@@ -449,6 +443,12 @@
     "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
     "XSMB 23/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 23/10/2026",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Blue Dolphin Energy Company (BDCO) Appoints Chris McDougall as CFO - TradingView"
+    "Blue Dolphin Energy Company (BDCO) Appoints Chris McDougall as CFO - TradingView",
+    "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before B",
+    "SeABank \u0111i\u1ec1u ch\u1ec9nh gi\u1ea3m k\u1ebf ho\u1ea1ch kinh doanh 2026 v\u00e0 b\u1ea7u Ch\u1ee7 t\u1ecbch H\u0110QT m\u1edbi",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
+    "What Knowles (KN) Said on Its Q3 Earnings Call - TradingView",
+    "The stock market is splitting in two. Is that signaling trouble ahead, or just a",
+    "Lawsuit accuses Trump of illegally profiting off foreign crypto deals"
   ]
 }
