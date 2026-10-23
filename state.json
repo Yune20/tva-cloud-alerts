@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792770586.315528,
+  "last_signals": 1792771217.8675082,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -66,7 +66,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792769975.453331,
+    "Gold|4H:bot": 1792771218.0471096,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792770588.5340478,
-    "USD/JPY|1D:bot": 1792770589.3216214,
-    "JPY Index|1D:bot": 1792770590.0761914
+    "GBP/USD|1D:top": 1792771219.1669788,
+    "USD/JPY|1D:bot": 1792771219.534058,
+    "JPY Index|1D:bot": 1792771219.937022
   },
-  "last_analysis": 1792770891.9924467,
-  "last_news": 1792770586.3146932,
+  "last_analysis": 1792771207.5566673,
+  "last_news": 1792771217.8665993,
   "seen_news": [
-    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Northrim BanCorp, PBCO Financial shareholders approve acquisition of PBCO - Trad",
-    "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premat",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Is an 'AI war' complicating your job search?",
-    "OVH Groupe stock tumbles 18% following block trade pricing",
     "What EastGroup Properties (EGP) Said on Its Q3 Earnings Call - TradingView",
     "My partner of 17 years left me his $1 million home. His children are crying foul",
     "Volvo Cars shares plunge 31% amid China, U.S. slump and fresh job cuts",
@@ -447,6 +441,12 @@
     "Gold dips below $4,000 as deepening stock rout fuels volatility - TradingView",
     "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
     "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNB",
-    "Living with a stink? Technology might help"
+    "Living with a stink? Technology might help",
+    "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
+    "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
+    "UK retail sales fall more than expected in September, complicating BOE rate hike",
+    "Ba lo\u1ea1i rau \u00edt \"ng\u1eadm\" thu\u1ed1c tr\u1eeb s\u00e2u nh\u1ea5t ch\u1ee3, nhi\u1ec1u ng\u01b0\u1eddi kh\u00f4ng bi\u1ebft m\u00e0 mua!",
+    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Argentina\u2019s Retail Sales Surge in August - TradingView"
   ]
 }
