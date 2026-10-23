@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792745195.6878917,
+  "last_signals": 1792745814.0219452,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -63,10 +63,10 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792745196.7173698,
-    "USD/JPY|1D:bot": 1792745197.072293,
-    "JPY Index|1D:bot": 1792745197.4249291
+    "GBP/USD|1D:top": 1792745815.125163,
+    "USD/JPY|1D:bot": 1792745815.4493036,
+    "JPY Index|1D:bot": 1792745815.758885
   },
-  "last_analysis": 1792745491.6797519,
-  "last_news": 1792745187.7553022,
+  "last_analysis": 1792745806.602387,
+  "last_news": 1792745814.0210247,
   "seen_news": [
-    "106 nh\u00e2n vi\u00ean Taseco Land s\u1eafp \u0111\u01b0\u1ee3c mua 10 tri\u1ec7u c\u1ed5 phi\u1ebfu ESOP",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "BlackBerry Continues to Rise: What's Going On? - TradingView",
-    "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-    "Just Eat apologises for AI food mistakes after social media ridicule",
-    "Microsoft develops AI tool that can diagnose \u2019sequentially\u2019 like a doctor",
     "Brockhaus Technologies AG (BKHT) Discloses Insider Sale in Buyback Allocation - ",
     "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
     "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
@@ -449,6 +443,12 @@
     "France October PMI slumps back into contraction as political uncertainty weighs ",
     "B\u00ean trong c\u01a1 ng\u01a1i tr\u0103m t\u1ef7 c\u1ee7a C\u01b0\u1eddng \u0110\u00f4 La: M\u1ed9t cu\u1ed9c s\u1ed1ng xa hoa nh\u00ecn \u0111\u00e2u c\u0169ng th",
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
-    "ACNB Reports Record Third-Quarter Earnings of $15.7 Million - TradingView"
+    "ACNB Reports Record Third-Quarter Earnings of $15.7 Million - TradingView",
+    "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
+    "TPHCM t\u00ecm nh\u00e2n ch\u1ee9ng v\u1ec1 \u0111\u1ecba \u0111i\u1ec3m nghi c\u00f3 m\u1ed9 li\u1ec7t s\u0129 t\u1eadp th\u1ec3 g\u1ea7n s\u00e2n v\u1eadn \u0111\u1ed9ng Th\u1ed1",
+    "B\u00c1O C\u00c1O - VietstockFinance",
+    "Future Fuels Inc. (FTUR) Raises C$6.57M in Brokered Placement - TradingView",
+    "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we though",
+    "Websites taken down worldwide as critical cyber-security update issued"
   ]
 }
