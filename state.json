@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792747658.0992486,
+  "last_signals": 1792748274.4142604,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -122,11 +122,11 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792484818.5559955,
+    "USOIL|4H:top": 1792748274.9012961,
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792747660.0558755,
+    "EUR/USD|4H:bot": 1792748276.2186446,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792747659.7942946,
+    "GBP/USD|1D:top": 1792748275.972523,
     "USD/JPY|1D:bot": 1792746428.6347106,
     "JPY Index|1D:bot": 1792746428.963966
   },
-  "last_analysis": 1792747648.5333166,
-  "last_news": 1792747658.0984502,
+  "last_analysis": 1792748264.6440766,
+  "last_news": 1792748274.4135683,
   "seen_news": [
-    "Tri\u1ec7t ph\u00e1 \u0111\u01b0\u1eddng d\u00e2y cho vay l\u00e3i n\u1eb7ng g\u1ea7n 100 t\u1ef7 \u0111\u1ed3ng, ho\u1ea1t \u0111\u1ed9ng t\u1ea1i 4 \u0111\u1ecba ph\u01b0\u01a1ng",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Robinhood Gets Dubai License, Plans 2027 Middle East Launch - TradingView",
-    "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
-    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "SK Hynix bounces from oversold low amid bearish trend: Live levels",
     "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
     "PBOC is expected to set the USD/CNY reference rate at 6.6758 \u2013 Reuters estimate",
     "Vi\u1ec7t Nam gia t\u0103ng l\u01b0\u1ee3ng xu\u1ea5t kh\u1ea9u g\u1ea1o sang Singapore",
@@ -449,6 +443,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "ETFs tied to Meta Platforms feel the downward pressure - TradingView",
     "This hot AI-fueled stock has been in a rut. It just beat earnings expectations b",
-    "France is flashing euro crisis signals. This time, the fault lines are different"
+    "France is flashing euro crisis signals. This time, the fault lines are different",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "SpaceX says Tesla merger needs Musk\u2019s approval, discloses megapack purchases - T",
+    "France is getting its credit rating reviewed by Moody\u2019s. What to expect as Frenc",
+    "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered pe",
+    "Just Eat apologises for AI food mistakes after social media ridicule",
+    "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts"
   ]
 }
