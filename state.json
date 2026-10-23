@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792790868.073897,
+  "last_signals": 1792791464.0192542,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792790870.5290425,
-    "USD/JPY|1D:bot": 1792790871.2179952,
-    "JPY Index|1D:bot": 1792790872.0233963
+    "GBP/USD|1D:top": 1792791465.533208,
+    "USD/JPY|1D:bot": 1792791466.0413067,
+    "JPY Index|1D:bot": 1792791466.5453343
   },
-  "last_analysis": 1792790857.0122328,
-  "last_news": 1792790868.072972,
+  "last_analysis": 1792791455.8860254,
+  "last_news": 1792791464.0184588,
   "seen_news": [
-    "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle Eas",
-    "Trump sued over Canadian tariffs in latest legal challenge",
-    "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
-    "Meta to delay new commercial terms criticised by publishers, advertisers",
-    "Heads up: UK retail sales to test the case for further BOE rate hikes",
-    "L\u00fac nh\u1ecf nh\u01b0 \"con v\u1ecbt x\u1ea5u x\u00ed\", c\u00f4 b\u00e9 Tr\u00e0 Vinh l\u1edbn l\u00ean th\u00e0nh m\u1ef9 nh\u00e2n \u0111\u00f3ng lo\u1ea1t phi",
     "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
     "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
     "Gold breaks below $4,000 target area before bouncing. What do buyers need to pro",
@@ -446,6 +440,12 @@
     "Russia stocks higher at close of trade; MOEX Russia Index up 1.51%",
     "Morning Kickstart: Tech selloff leaves buyers on the defensive",
     "M\u1ed9t c\u01b0\u1eddng qu\u1ed1c EU b\u1ecb nh\u00e0 \u0111\u1ea7u t\u01b0 quay l\u01b0ng, nguy c\u01a1 kh\u1ee7ng ho\u1ea3ng lan sang c\u00e1c n\u01b0\u1edbc",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance"
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
+    "Why is Maplebear stock slipping today?",
+    "How have interest rate expectations changed after this week's events?",
+    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra khi ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 giao d\u1ecbch nh\u1eadn ti\u1ec1n, ch",
+    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Morning Bid: France's debt strains, AI in focus - TradingView",
+    "The mobile ambitions of SpaceX are hitting telecom stocks again. Here\u2019s what the"
   ]
 }
