@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792734162.3621428,
-  "last_bot4": 1792741340.230383,
+  "last_bot4": 1792742314.1928897,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792741340.230263
+    "Gold": 1792742314.1927915
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792741941.0827625,
+  "last_signals": 1792742314.1936657,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,15 +81,15 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "USD/JPY|1D": false,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792742570,
   "menu_prices": {
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792741943.007893,
+    "EUR/USD|4H:bot": 1792742315.976416,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792741942.7454722,
-    "USD/JPY|1D:bot": 1792741943.2657437,
-    "JPY Index|1D:bot": 1792741943.785506
+    "GBP/USD|1D:top": 1792742315.7431235,
+    "USD/JPY|1D:bot": 1792742316.2071235,
+    "JPY Index|1D:bot": 1792742316.6837928
   },
-  "last_analysis": 1792741647.261065,
-  "last_news": 1792741941.0819716,
+  "last_analysis": 1792742300.612184,
+  "last_news": 1792742311.4209838,
   "seen_news": [
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
-    "Asian markets recover as earnings optimism offsets AI concerns - TradingView",
-    "Japan core inflation in September surges to its highest this year at 2.1%",
-    "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-    "Mexico\u2019s Bimbo lifts lower end of full-year\u00a0EBITDA outlook",
-    "HSBC: Gold no short-term hedge for stocks, but three forces keep long-term case ",
     "Etsy bans AI-generated recipes and patterns from its online marketplace",
     "Websites taken down worldwide as critical cyber-security update issued",
     "SK Hynix scraps Solidigm IPO plans, citing market conditions",
@@ -449,6 +443,12 @@
     "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premat",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
     "Is an 'AI war' complicating your job search?",
-    "OVH Groupe stock tumbles 18% following block trade pricing"
+    "OVH Groupe stock tumbles 18% following block trade pricing",
+    "What EastGroup Properties (EGP) Said on Its Q3 Earnings Call - TradingView",
+    "My partner of 17 years left me his $1 million home. His children are crying foul",
+    "Volvo Cars shares plunge 31% amid China, U.S. slump and fresh job cuts",
+    "The AI telling farmers when to harvest",
+    "Why is Sodexo stock surging today?",
+    "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1."
   ]
 }
