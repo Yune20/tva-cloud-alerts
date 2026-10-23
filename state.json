@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792796848.9953902,
+  "last_signals": 1792797450.3746743,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -134,25 +134,19 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1792695649.1413653,
+    "Ethereum|4H:bot": 1792797451.2715814,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792796850.0576887,
-    "USD/JPY|1D:bot": 1792796850.3947008,
-    "JPY Index|1D:bot": 1792796850.7947943
+    "GBP/USD|1D:top": 1792797451.6434014,
+    "USD/JPY|1D:bot": 1792797452.0597138,
+    "JPY Index|1D:bot": 1792797452.492806
   },
   "last_analysis": 1792797157.2006037,
-  "last_news": 1792796848.9946222,
+  "last_news": 1792797450.3737876,
   "seen_news": [
-    "Fan BIGBANG t\u1eeb TP.HCM ch\u1eadt v\u1eadt bay ra H\u00e0 N\u1ed9i tr\u01b0\u1edbc concert: B\u1ecb l\u1ee1 chuy\u1ebfn mua l\u1ea1i",
-    "SHB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SAHABANK - VietstockFinance",
-    "Gold dips below $4,000 as deepening stock rout fuels volatility - TradingView",
-    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
-    "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNB",
-    "Living with a stink? Technology might help",
     "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
     "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
     "UK retail sales fall more than expected in September, complicating BOE rate hike",
@@ -446,6 +440,12 @@
     "Spotify Stock Rises Despite Missing EPS Estimates - TradingView",
     "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
     "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
-    "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out"
+    "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+    "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
+    "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Sol",
+    "What is the Budget and what could be in it?",
+    "Middle East Physical Crude Slides While Brent Hits Five-Month High",
+    "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
+    "Why the market senses a weekend Iran escalation and what happens next"
   ]
 }
