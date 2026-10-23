@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792756239.7159443,
+  "last_signals": 1792756906.0492609,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
-    "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Bitcoin|1D": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792756240.0395463,
+    "USOIL|4H:top": 1792756906.356415,
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792756240.7263236,
-    "USD/JPY|1D:bot": 1792756241.0829074,
-    "JPY Index|1D:bot": 1792756241.422933
+    "GBP/USD|1D:top": 1792756907.1769247,
+    "USD/JPY|1D:bot": 1792756907.4983852,
+    "JPY Index|1D:bot": 1792756907.8742697
   },
-  "last_analysis": 1792756540.0425613,
-  "last_news": 1792756235.3025239,
+  "last_analysis": 1792756896.0060623,
+  "last_news": 1792756906.0483246,
   "seen_news": [
-    "Three AI listings stalled in a month: the money behind the AI boom is getting pi",
-    "3 c\u00e1ch \u0111\u01a1n gi\u1ea3n l\u00e0m r\u1eafn kh\u00f4ng d\u00e1m \u0111\u1ebfn g\u1ea7n nh\u00e0",
-    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
-    "Fidelity D&D Bancorp raises quarterly dividend by 7% to $0.46/share - TradingVie",
-    "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
-    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Dip in the dollar takes a breather with Fed in focus - TradingView",
     "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into ",
@@ -449,6 +443,12 @@
     "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
     "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
     "Why Smart Investors Are Selling Oil Stocks and Buying MLPs",
-    "Trump says Bombardier to invest $270 million in the US"
+    "Trump says Bombardier to invest $270 million in the US",
+    "U.S. oil rises above $100, Brent at five-month high as Iran says it\u2019s prepared f",
+    "Inflation and government borrowing highest for a year ahead of next week's Budge",
+    "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
+    "Wall Street futures edge lower after AI selloff, telecom slide",
+    "HSBC\u2019s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and w",
+    "Ng\u00e2n h\u00e0ng c\u1ea3nh b\u00e1o kh\u1ea9n: Tin nh\u1eafn gi\u1ea3 n\u1eb1m l\u1eabn ngay trong h\u1ed9p th\u01b0 SMS ch\u00ednh ch\u1ee7"
   ]
 }
