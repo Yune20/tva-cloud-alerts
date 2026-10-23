@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792793558.5699482,
+  "last_signals": 1792794106.0538228,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792793559.506845,
-    "USD/JPY|1D:bot": 1792793559.8018708,
-    "JPY Index|1D:bot": 1792793560.1220179
+    "GBP/USD|1D:top": 1792794107.1797636,
+    "USD/JPY|1D:bot": 1792794107.6283336,
+    "JPY Index|1D:bot": 1792794107.9800675
   },
-  "last_analysis": 1792793552.4995768,
-  "last_news": 1792793558.568842,
+  "last_analysis": 1792794097.9957755,
+  "last_news": 1792794106.052869,
   "seen_news": [
-    "C\u00f4 g\u00e1i xinh \u0111\u1eb9p l\u1ea5y \u00f4ng ch\u00fa h\u01a1n 24 tu\u1ed5i, m\u1eb9 k\u1ebf b\u1eb1ng tu\u1ed5i con ch\u1ed3ng, cu\u1ed9c s\u1ed1ng h\u00f4",
-    "VIX: CTCP Ch\u1ee9ng kho\u00e1n VIX - VIX - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
-    "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My",
-    "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-    "No order, no seat: Starbucks China rolls out new store policy",
     "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
     "Trade Tech Solutions Launches Perpetual Futures Prop Firm Technology as Platform",
     "iPhone Duo sang tay ch\u00eanh t\u1edbi 15 tri\u1ec7u \u0111\u1ed3ng ngay ng\u00e0y m\u1edf b\u00e1n",
@@ -446,6 +440,12 @@
     "What are the main events for today?",
     "H\u1ec7 th\u1ed1ng ph\u00f2ng kh\u00f4ng \u0111\u1ed9c \u0111\u00e1o c\u1ee7a Ph\u1ea7n Lan \u0111\u00e1nh ch\u1eb7n m\u1ecdi t\u00ean l\u1eeda h\u00e0nh tr\u00ecnh Nga?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "Yen Edges Up Ahead of BOJ Policy Meeting - TradingView"
+    "Yen Edges Up Ahead of BOJ Policy Meeting - TradingView",
+    "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control",
+    "\u0110\u1ed1i t\u01b0\u1ee3ng \u0111\u01b0\u1ee3c t\u0103ng tr\u1ee3 c\u1ea5p h\u01b0u tr\u00ed x\u00e3 h\u1ed9i t\u1eeb 5/10/2026",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
+    "Humana AB (HUM) Reports Record Q3 Adjusted Operating Profit - TradingView",
+    "Will Anthropic pull off a November IPO? Time is running out to file key paperwor",
+    "Moody's holds steady on France's credit rating as country grapples with turmoil "
   ]
 }
