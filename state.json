@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792772565.1149824,
+  "last_signals": 1792773160.2923276,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -72,7 +72,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792773366,
   "menu_prices": {
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792772565.286385,
+    "Gold|4H:bot": 1792773160.6444533,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792772566.4413035,
-    "USD/JPY|1D:bot": 1792772566.9038754,
-    "JPY Index|1D:bot": 1792772567.2594056
+    "GBP/USD|1D:top": 1792773162.6260145,
+    "USD/JPY|1D:bot": 1792773163.387933,
+    "JPY Index|1D:bot": 1792773164.1458912
   },
-  "last_analysis": 1792772556.4224367,
-  "last_news": 1792772565.1140575,
+  "last_analysis": 1792773151.1650841,
+  "last_news": 1792773160.291583,
   "seen_news": [
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "HUGO BOSS AG (BOSS) Reports Major Holdings Notice - TradingView",
-    "Volvo Cars plunges 29% as CEO says China sales slump came 'faster than we though",
-    "The Indian workers filming their work to train AI",
-    "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
-    "Why is Bloom Energy stock recovering today?",
     "Nvidia's Huang heads to Kazakhstan for the first time \u2014 and he's not the only on",
     "'I wasn't thinking straight' says five jobs civil servant",
     "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
@@ -447,6 +441,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "What EastGroup Properties (EGP) Said on Its Q3 Earnings Call - TradingView",
     "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ"
+    "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+    "Trading Sphere is brewing something wicked this Halloween",
+    "G\u1ea7n 6.000 l\u01b0\u1ee3t t\u01b0\u01a1ng t\u00e1c v\u1edbi b\u1ee9c \u1ea3nh C\u1ef1u CEO Green SM Nguy\u1ec5n V\u0103n Thanh l\u1ed9 \"b\u1ee5ng ",
+    "Vietnam strategy report - VietstockFinance",
+    "Smith-Midland Corporation (SMID) Wins $2.2M SlenderWall Contract - TradingView",
+    "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wa",
+    "Rainmakers: The drones used to seed clouds"
   ]
 }
