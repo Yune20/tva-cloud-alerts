@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792714187.5564299,
+  "last_signals": 1792714814.5912204,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792674028.3112574,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1H|dn": 1792642002.018924,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
-    "5575146754|Gold|4H|trap_dn": 1792711088.4347901,
+    "5575146754|Gold|4H|trap_dn": 1792714814.5912204,
     "5575146754|Gold|4H|momo_dn": 1792708645.0835164,
     "5575146754|Gold|1D|dn": 1792700592.8450043
   },
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -147,15 +147,9 @@
     "USD/JPY|1D:bot": 1792711706.0206394,
     "JPY Index|1D:bot": 1792711706.3310635
   },
-  "last_analysis": 1792714180.6113827,
-  "last_news": 1792714187.5554724,
+  "last_analysis": 1792714806.4343734,
+  "last_news": 1792714814.590255,
   "seen_news": [
-    "ContextVision AB (publ) (CONTX) Treasury Stake Reaches 5.01% After Buybacks - Tr",
-    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
-    "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
-    "Barclays cutting 5,000 jobs as it increases reliance on AI",
-    "Why is Newmont stock sliding today?",
-    "European stock market open: Stocks tumble as French debt worries and bond yields",
     "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
     "Britain Finally Creates an Oil Wealth Fund\u201450 Years Too Late",
     "Apex funding talks value satellite maker at $4 billion - Bloomberg",
@@ -449,6 +443,12 @@
     "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
     "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
     "T\u00ecnh c\u1ea3nh c\u1ee7a ng\u01b0\u1eddi th\u1ea5t nghi\u1ec7p: \u0110\u00e3 kh\u00f4ng l\u00e0m ra ti\u1ec1n, mu\u1ed1n ki\u1ebfm vi\u1ec7c c\u0169ng t\u1ed1n h",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Rosneft stretches refinery repairs from days to months as Ukraine strikes bite",
+    "Truy t\u00ecm Ho\u00e0ng Th\u1ecb \u00c1nh Tuy\u1ebft SN 1992, b\u1ea5t c\u1ee9 ai bi\u1ebft th\u00f4ng tin ho\u1eb7c ph\u00e1t hi\u1ec7n b\u00e1",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "SuperCom (SPCB) Launches SafeGenie to Monitor and Control AI Agents - TradingVie",
+    "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exis",
+    "'I wasn't thinking straight' says five jobs civil servant"
   ]
 }
