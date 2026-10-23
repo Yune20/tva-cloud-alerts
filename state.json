@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792724566.3779235,
+  "last_signals": 1792725182.1060054,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792723279.1636877,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,10 +66,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792663814.8002534,
-    "GBP/USD|1D:top": 1792724567.3101735,
-    "USD/JPY|1D:bot": 1792724567.5957692,
-    "JPY Index|1D:bot": 1792724567.8904843
+    "GBP/USD|1D:top": 1792725183.028418,
+    "USD/JPY|1D:bot": 1792725183.3503826,
+    "JPY Index|1D:bot": 1792725183.7789726
   },
-  "last_analysis": 1792724557.8793187,
-  "last_news": 1792724566.3769646,
+  "last_analysis": 1792725174.83216,
+  "last_news": 1792725182.1050577,
   "seen_news": [
-    "EUR/CHF falls to three-month lows as French bond turmoil raises fresh euro risks",
-    "M\u1ed9t c\u1ed5 phi\u1ebfu \u0111\u00ecnh \u0111\u00e1m b\u1ecb 16 qu\u1ef9 \u0111\u1ed3ng lo\u1ea1t \u201cx\u1ea3 h\u00e0ng\u201d",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
-    "ZTE (H.K.) Limited Cuts Enablence Stake to ~3.25% - TradingView",
-    "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
-    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
     "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
     "Fidelity D&D Bancorp raises quarterly dividend by 7% to $0.46/share - TradingVie",
     "Meta stock sinks 8% as AI spend pushes free cash flow negative",
@@ -449,6 +443,12 @@
     "\u0110\u1ed3ng lo\u1ea1t ki\u1ec3m tra 8 \u0111\u1ecba \u0111i\u1ec3m, c\u00f4ng an b\u1eaft L\u00ea Th\u00e0nh Long SN 1997 v\u00e0 nhi\u1ec1u gi\u00e1m \u0111",
     "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Argentina\u2019s Retail Sales Surge in August - TradingView",
-    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de"
+    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
+    "B\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7p Th\u1ea3o \u0111\u00e3 \u0111\u00f3ng c\u1eeda h\u00e0ng King Coffee \u0111\u1ea7u ti\u00ean \u1edf M\u1ef9?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
+    "NFLX: Netflix Stock Drops 6% as Weak Outlook Eclipses Profit Jump - TradingView",
+    "SK Hynix shares reverse losses after chipmaker drops review of Solidigm IPO",
+    "Inflation and government borrowing highest for a year ahead of next week's Budge",
+    "Yen shines as AI jitters spur safe-haven rush"
   ]
 }
