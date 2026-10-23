@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792756239.714602,
-  "last_bot4": 1792764982.028573,
+  "last_bot4": 1792765668.6199234,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792765316.3773048,
+  "last_signals": 1792765668.620758,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
-    "5575146754|Gold|1D|dn": 1792722655.1256213,
+    "5575146754|Gold|1D|dn": 1792765668.620758,
     "5575146754|Gold|1D|trap_dn": 1792756239.7159443
   },
   "sig_range": {
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -122,10 +122,10 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792761187.2742255,
-    "US30|4H:top": 1792765318.2441251,
+    "US30|4H:top": 1792765670.0875807,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792765318.986614,
+    "EUR/USD|4H:bot": 1792765670.6660483,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -142,19 +142,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792765318.6247163,
-    "USD/JPY|1D:bot": 1792765319.4146743,
-    "JPY Index|1D:bot": 1792765320.1513867
+    "GBP/USD|1D:top": 1792765670.4067361,
+    "USD/JPY|1D:bot": 1792765670.918051,
+    "JPY Index|1D:bot": 1792765671.546216
   },
-  "last_analysis": 1792765304.7539666,
-  "last_news": 1792765316.376228,
+  "last_analysis": 1792765658.9474468,
+  "last_news": 1792765668.6188989,
   "seen_news": [
-    "V\u00e2y b\u1eaft th\u00e0nh c\u00f4ng Nguy\u1ec5n Th\u1ecb Minh H\u01b0\u01a1ng SN 1982",
-    "DGW: CTCP Th\u1ebf Gi\u1edbi S\u1ed1 - DIGIWORLD - VietstockFinance",
-    "Humana AB (HUM) Reports Record Q3 Adjusted Operating Profit - TradingView",
-    "Americans are having fewer babies \u2014 and pampering them with luxury diapers",
-    "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-    "No order, no seat: Starbucks China rolls out new store policy",
     "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
     "3 big reasons Micron and other chip stocks fell hard on Thursday",
     "Elon Musk invests about $1 billion in Skydance",
@@ -448,6 +442,12 @@
     "Restaurant earnings will test whether owning more brands pays off",
     "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
     "Why is Sallie Mae stock plunging today?",
-    "US S&P Global flash October services PMI 57.9 vs 58.0 expected"
+    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
+    "C\u00e1n b\u1ed9 ng\u00e2n h\u00e0ng d\u1eebng lo\u1ea1t l\u1ec7nh chuy\u1ec3n ti\u1ec1n, r\u00fat tr\u01b0\u1edbc h\u1ea1n s\u1ed5 ti\u1ebft ki\u1ec7m, t\u1eeb 28 t",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "Yen Edges Up Ahead of BOJ Policy Meeting - TradingView",
+    "Surging economy gets off to a good start in the fourth quarter \u2014 but there\u2019s one",
+    "Texas Senate race: Talarico campaign turns its fire on Elon Musk",
+    "Civil servant admits he 'made mistakes' juggling five government jobs"
   ]
 }
