@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792778100.8162177,
-  "last_bot4": 1792786597.39181,
+  "last_bot4": 1792787251.0317326,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792786890.717103,
+  "last_signals": 1792787251.032545,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792786892.390729,
-    "USD/JPY|1D:bot": 1792786892.986431,
-    "JPY Index|1D:bot": 1792786893.543639
+    "GBP/USD|1D:top": 1792787260.3109028,
+    "USD/JPY|1D:bot": 1792787263.3083375,
+    "JPY Index|1D:bot": 1792787266.2327745
   },
-  "last_analysis": 1792786594.9896655,
-  "last_news": 1792786890.716551,
+  "last_analysis": 1792787235.310737,
+  "last_news": 1792787251.030807,
   "seen_news": [
-    "Google resolves cloud outage affecting UK banks and websites",
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-    "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
-    "C\u00f4ng an truy t\u00ecm, b\u1eaft gi\u1eef Ng\u00f4 V\u0103n L\u1ee3i 58 tu\u1ed5i",
-    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "Western Digital Q1 Earnings Call Highlights - TradingView",
     "U.S. stock futures slide amid AI-driven tech jitters, oil price spike",
     "Three AI listings stalled in a month: the money behind the AI boom is getting pi",
     "C\u00f4 gi\u00e1o m\u1ea7m non t\u01b0\u1eddng tr\u00ecnh sau clip \u2018t\u00e1c \u0111\u1ed9ng\u2019 v\u00e0o m\u1eb7t b\u00e9 g\u00e1i 3 tu\u1ed5i",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
     "Bank of America Corporation (BAC) Adds Two Directors - TradingView",
     "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "White House says the US is lifting tariffs on some Canadian goods"
+    "White House says the US is lifting tariffs on some Canadian goods",
+    "Meta fined $25bn for 'lies' over user data privacy",
+    "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production",
+    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
+    "NZDUSD buyers are trying to make a play. The 38.2% retracement remains the next ",
+    "M\u1ed9t ti\u1ebfn s\u0129 li\u00ean t\u1ee5c b\u1ecb b\u00e1n gi\u1ea3i ch\u1ea5p c\u1ed5 phi\u1ebfu",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance"
   ]
 }
