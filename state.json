@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792739435.6599529,
+  "last_signals": 1792740036.040767,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792739437.5821438,
-    "USD/JPY|1D:bot": 1792739438.2006183,
-    "JPY Index|1D:bot": 1792739438.8080223
+    "GBP/USD|1D:top": 1792740037.6533353,
+    "USD/JPY|1D:bot": 1792740038.1532845,
+    "JPY Index|1D:bot": 1792740038.6490035
   },
   "last_analysis": 1792739742.5403183,
-  "last_news": 1792739435.6592374,
+  "last_news": 1792740035.9742026,
   "seen_news": [
-    "FCC grants Intel waiver for foreign-made robotic devices",
-    "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation d",
-    "G\u00e0 nh\u1ea1n c\u00f3 l\u00f4ng m\u00e0u g\u00ec? C\u00e2u h\u1ecfi t\u1ea1i Ai L\u00e0 Tri\u1ec7u Ph\u00fa khi\u1ebfn ng\u01b0\u1eddi ch\u01a1i su\u00fdt \u0111\u00e1nh r",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "M/I Homes CEO Flags 'Increasingly Difficult' Housing Market - TradingView",
-    "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premat",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "HPE Stocks Fall 6.14% as Secure Agentic Stack Broadens - TradingView",
     "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
@@ -449,6 +443,12 @@
     "SHB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SAHABANK - VietstockFinance",
     "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
     "The U.S. stock market is fracturing into two camps, and it\u2019s leaving investors w",
-    "American Express brings Airbnb bookings and rewards to Amex Travel platform"
+    "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
+    "Gold dips below $4,000 as deepening stock rout fuels volatility - TradingView",
+    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
+    "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "What is the Budget and what could be in it?",
+    "EU\u2019s Arctic Strategy Excludes Oil and Gas"
   ]
 }
