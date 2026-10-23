@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792744211.5202067,
+  "last_signals": 1792744820.9007342,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792744213.2520866,
-    "USD/JPY|1D:bot": 1792744213.773805,
-    "JPY Index|1D:bot": 1792744214.3167648
+    "GBP/USD|1D:top": 1792744822.6263654,
+    "USD/JPY|1D:bot": 1792744823.123196,
+    "JPY Index|1D:bot": 1792744823.6316824
   },
   "last_analysis": 1792744512.2575693,
-  "last_news": 1792744211.5192876,
+  "last_news": 1792744820.9001062,
   "seen_news": [
-    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
-    "First Canadian Graphite Inc. (FCI) Plans $3.0M Unit Financing - TradingView",
-    "Under-the-radar stocks to play the next leg of the energy trade with oil prices ",
-    "Barclays cutting 5,000 jobs as it increases reliance on AI",
-    "Ofgem Approves Deal to Keep UK Gas Import Capacity From Europe",
-    "U.S. stock futures steady after Nasdaq posts worst day since June",
     "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
     "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
     "Britain Finally Creates an Oil Wealth Fund\u201450 Years Too Late",
@@ -449,6 +443,12 @@
     "Volvo Cars plunges 29% as CEO says China sales slump came 'faster than we though",
     "The Indian workers filming their work to train AI",
     "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
-    "Why is Bloom Energy stock recovering today?"
+    "Why is Bloom Energy stock recovering today?",
+    "Nvidia's Huang heads to Kazakhstan for the first time \u2014 and he's not the only on",
+    "'I wasn't thinking straight' says five jobs civil servant",
+    "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
+    "Why is Lifco stock dropping today?",
+    "European stock market open: Stocks slip as weak French PMI adds to economic worr",
+    "T\u1eadp trung gi\u1ea3i quy\u1ebft v\u01b0\u1edbng m\u1eafc h\u1ea1 t\u1ea7ng v\u00e0 m\u1eb7t b\u1eb1ng n\u00fat giao T\u00fay Loan"
   ]
 }
