@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792728264.0235655,
+  "last_signals": 1792728876.0750365,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792727040.4065168,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
     "5575146754|Gold|4H|range_in": 1792593732.9109154,
-    "5575146754|Gold|1H|trap_dn": 1792720396.2019277,
+    "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|1D|range_in": 1792157936.8352716,
     "5575146754|Gold|1H|trap_up": 1792124552.5360003,
     "5575146754|Gold|4H|tbot": 1792673425.2975047,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -142,20 +142,14 @@
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
-    "DXY|4H:bot": 1792728265.4982238,
-    "GBP/USD|1D:top": 1792728265.0089638,
-    "USD/JPY|1D:bot": 1792728265.3377776,
-    "JPY Index|1D:bot": 1792728265.6582634
+    "DXY|4H:bot": 1792728878.9513156,
+    "GBP/USD|1D:top": 1792728877.9715712,
+    "USD/JPY|1D:bot": 1792728878.6525548,
+    "JPY Index|1D:bot": 1792728879.2521431
   },
-  "last_analysis": 1792728256.3125174,
-  "last_news": 1792728264.0226274,
+  "last_analysis": 1792728867.105803,
+  "last_news": 1792728876.0740716,
   "seen_news": [
-    "Reported fraud losses among older Americans hit $3 billion in 2025 as big losses",
-    "Why are more roofs not made of solar tiles?",
-    "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-    "U.S. Treasury yields drop to 1-month lows on safe-haven flows",
-    "Ethereum tumbles as renewed Middle East tensions weigh on risk sentiment. What's",
-    "\u00d4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 \u0111ang b\u00e1n nh\u00e0 \u1edf \"ch\u1eefa l\u00e0nh\", \"l\u1ed1i s\u1ed1ng t\u1ec9nh th\u1ee9c\" trong K\u0110T",
     "Fannie Mae, Freddie Mac soar after comments from Pershing's Bill Ackman - Tradin",
     "Moderna\u2019s cancer vaccine hits its targets, but a data leak rattles investors and",
     "Trump's approval rating on economy hits all-time low as midterm looms: CNBC surv",
@@ -449,6 +443,12 @@
     "U.S. propses tighter rules on investments in Chinese tech sectors",
     "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
     "B\u1ea5t ng\u1edd d\u1eebng thi c\u00f4ng si\u00eau s\u00e2n bay c\u00f3 v\u1ed1n b\u1ed5 sung h\u01a1n 2.500 t\u1ef7 \u0111\u1ed3ng d\u00f9 ho\u00e0n th\u00e0n",
-    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance"
+    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
+    "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+    "Si\u00eau b\u00e3o m\u1ea1nh nh\u1ea5t th\u1ebf gi\u1edbi 2026 Champi bi\u1ebfn th\u00e0nh h\u00ecnh s\u1ed1 6 k\u1ef3 d\u1ecb: \u0110ang \u00e1p s\u00e1t ",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
+    "EBay Stock Moves Higher: What's Going On? - TradingView",
+    "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans"
   ]
 }
