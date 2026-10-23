@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792751350.223076,
+  "last_signals": 1792751959.4191515,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792751351.4432025,
+    "EUR/USD|4H:bot": 1792751961.9364927,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792751351.2865322,
-    "USD/JPY|1D:bot": 1792751351.594014,
-    "JPY Index|1D:bot": 1792751351.8977125
+    "GBP/USD|1D:top": 1792751961.587246,
+    "USD/JPY|1D:bot": 1792751962.259111,
+    "JPY Index|1D:bot": 1792751962.8584883
   },
-  "last_analysis": 1792751343.2165682,
-  "last_news": 1792751350.2223718,
+  "last_analysis": 1792751950.384474,
+  "last_news": 1792751959.4183605,
   "seen_news": [
-    "How long will humans be needed for translation?",
-    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-    "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
-    "D\u00e2n v\u0103n ph\u00f2ng ng\u00e0y n\u00e0o c\u0169ng mua Vietlott, 3 l\u1ea7n v\u1ee1 \u00f2a v\u00ec 70k chuy\u1ec3n th\u1eb3ng v\u00e0o t\u00e0",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Flaherty & Crumrine Total Return Fund Inc declares $0.1067 dividend - TradingVie",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "Universal Insurance Holdings Reports Q3 2026 Earnings of $1.80 per Share - Tradi",
     "Third-party evaluators found vulnerabilities in OpenAI monitoring system during ",
@@ -449,6 +443,12 @@
     "What Tesla (TSLA) Said on Its Q3 Earnings Call - TradingView",
     "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Why Trump Can't Afford to Lose The Rare Earth Race"
+    "Why Trump Can't Afford to Lose The Rare Earth Race",
+    "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
+    "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback",
+    "The 'trillion pound' oil fund the government believes Britain could have built",
+    "European Natural Gas Prices Surge to Highest Level Since 2022",
+    "India 40-year bond yield hits highest level since 2018",
+    "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks"
   ]
 }
