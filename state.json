@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792768146.340878,
+  "last_signals": 1792768754.0447412,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -72,7 +72,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
@@ -121,7 +121,7 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792761187.2742255,
-    "US30|4H:top": 1792768147.2597544,
+    "US30|4H:top": 1792768755.1469939,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
     "EUR/USD|4H:bot": 1792767526.6147385,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792768146.5350916,
+    "Gold|4H:bot": 1792768754.2074378,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792768147.5259712,
-    "USD/JPY|1D:bot": 1792768147.8822317,
-    "JPY Index|1D:bot": 1792768148.2153463
+    "GBP/USD|1D:top": 1792768755.3321822,
+    "USD/JPY|1D:bot": 1792768755.6723747,
+    "JPY Index|1D:bot": 1792768756.0302236
   },
-  "last_analysis": 1792768138.3253284,
-  "last_news": 1792768146.339995,
+  "last_analysis": 1792768745.5528455,
+  "last_news": 1792768754.0437534,
   "seen_news": [
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "Gold dips below $4,000 as deepening stock rout fuels volatility - TradingView",
-    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
-    "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-    "What is the Budget and what could be in it?",
-    "EU\u2019s Arctic Strategy Excludes Oil and Gas",
     "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
     "Audit regulator looking into Manchester City accounting",
     "China\u2019s DeepSeek,\u00a0MiniMax win approval for AI global use, state media-affiliated",
@@ -447,6 +441,12 @@
     "Oil India Strikes Natural Gas in Shallow Offshore Basin",
     "Why is Mobileye stock sliding today?",
     "AUDUSD recovery runs into the 100-day moving average. What next?",
-    "C\u1ea3nh b\u00e1o kh\u00f4ng k\u00edch vang l\u00ean, c\u1ea3 4 s\u00e2n bay t\u1ea1i M\u00e1txc\u01a1va \u0111\u1ed3ng lo\u1ea1t d\u1eebng ho\u1ea1t \u0111\u1ed9ng"
+    "C\u1ea3nh b\u00e1o kh\u00f4ng k\u00edch vang l\u00ean, c\u1ea3 4 s\u00e2n bay t\u1ea1i M\u00e1txc\u01a1va \u0111\u1ed3ng lo\u1ea1t d\u1eebng ho\u1ea1t \u0111\u1ed9ng",
+    "Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar",
+    "Canadian jet maker Bombardier says it plans new $270 million US investment",
+    "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+    "D\u01b0\u01a1ng Th\u00fay Ng\u00e2n SN 2004 chuy\u1ec3n kho\u1ea3n 25.990.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n c\u1ee7a Tr\u1ea7n Th\u1ecb ",
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
+    "Broadcom Stocks Dip 4.5% After New AI Fraud Defense Launch - TradingView"
   ]
 }
