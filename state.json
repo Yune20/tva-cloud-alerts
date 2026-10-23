@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792741340.2315102,
+  "last_signals": 1792741941.0827625,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,9 +68,9 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
-    "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Bitcoin|1D": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792696881.5038025,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792741341.5594106,
+    "EUR/USD|4H:bot": 1792741943.007893,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792741341.357611,
-    "USD/JPY|1D:bot": 1792741341.733457,
-    "JPY Index|1D:bot": 1792741342.119429
+    "GBP/USD|1D:top": 1792741942.7454722,
+    "USD/JPY|1D:bot": 1792741943.2657437,
+    "JPY Index|1D:bot": 1792741943.785506
   },
   "last_analysis": 1792741647.261065,
-  "last_news": 1792741337.5246046,
+  "last_news": 1792741941.0819716,
   "seen_news": [
-    "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
-    "Australia flash PMI: private sector shrinks for first time in five months as pri",
-    "Ph\u00e1t hi\u1ec7n nam sinh 19 tu\u1ed5i b\u1ecf \u0111\u1ea1i h\u1ecdc, t\u1eebng s\u1ed1ng trong xe k\u00e9o, 21 tu\u1ed5i khi\u1ebfn Fac",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
-    "Smith-Midland Corporation (SMID) Wins $2.2M SlenderWall Contract - TradingView",
-    "My partner of 17 years left me his $1 million home. His children are crying foul",
     "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
     "Asian markets recover as earnings optimism offsets AI concerns - TradingView",
     "Japan core inflation in September surges to its highest this year at 2.1%",
@@ -449,6 +443,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "ServiceNow Orchestrates AI's Next Act\u2014Can Earnings Deliver? - TradingView",
     "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet"
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Northrim BanCorp, PBCO Financial shareholders approve acquisition of PBCO - Trad",
+    "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premat",
+    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+    "Is an 'AI war' complicating your job search?",
+    "OVH Groupe stock tumbles 18% following block trade pricing"
   ]
 }
