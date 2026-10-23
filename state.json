@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792767193.2235706,
-  "last_bot4": 1792773710.0454414,
+  "last_bot4": 1792774659.9079933,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792772843.152616
+    "Gold": 1792774659.9078965
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792774303.1767905,
+  "last_signals": 1792774659.908763,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -67,12 +67,12 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
@@ -83,7 +83,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792774303.5699968,
+    "Gold|4H:bot": 1792774660.1281817,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792774305.4522984,
-    "USD/JPY|1D:bot": 1792774306.1615574,
-    "JPY Index|1D:bot": 1792774306.8833542
+    "GBP/USD|1D:top": 1792774661.03015,
+    "USD/JPY|1D:bot": 1792774661.3852916,
+    "JPY Index|1D:bot": 1792774661.812029
   },
-  "last_analysis": 1792774012.7777736,
-  "last_news": 1792774303.1762397,
+  "last_analysis": 1792774650.5706878,
+  "last_news": 1792774657.3934073,
   "seen_news": [
-    "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
-    "TPHCM t\u00ecm nh\u00e2n ch\u1ee9ng v\u1ec1 \u0111\u1ecba \u0111i\u1ec3m nghi c\u00f3 m\u1ed9 li\u1ec7t s\u0129 t\u1eadp th\u1ec3 g\u1ea7n s\u00e2n v\u1eadn \u0111\u1ed9ng Th\u1ed1",
-    "B\u00c1O C\u00c1O - VietstockFinance",
-    "Future Fuels Inc. (FTUR) Raises C$6.57M in Brokered Placement - TradingView",
-    "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we though",
-    "Websites taken down worldwide as critical cyber-security update issued",
     "M\u1eabu xe Hyundai 7 ch\u1ed7 rao b\u00e1n x\u1ea3 kho, gi\u00e1 ch\u1ec9 ngang xe c\u1ee1 A",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "BlackBerry Continues to Rise: What's Going On? - TradingView",
@@ -447,6 +441,12 @@
     "T\u1ef7 ph\u00fa gi\u00e0u nh\u1ea5t Indonesia \u0111\u1ee9ng sau Como - \u0111\u1ed9i b\u00f3ng v\u1eeba khi\u1ebfn MU th\u1ea3m b\u1ea1i",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "HUGO BOSS AG (BOSS) Reports Major Holdings Notice - TradingView",
-    "Walmart, Best Buy and other stores now use digital price tags. Critics say they "
+    "Walmart, Best Buy and other stores now use digital price tags. Critics say they ",
+    "US fines Air France, KLM over flights in prohibited Iraqi airspace",
+    "France October PMI slumps back into contraction as political uncertainty weighs ",
+    "H\u00e0 N\u1ed9i: Kh\u1ea9n tr\u01b0\u01a1ng l\u1ea5y \u00fd ki\u1ebfn nh\u00e2n d\u00e2n v\u1ec1 \u0111i\u1ec1u ch\u1ec9nh \u0111\u1ecba gi\u1edbi h\u00e0nh ch\u00ednh",
+    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
+    "ACNB Reports Record Third-Quarter Earnings of $15.7 Million - TradingView",
+    "What we want to see when this data center stock reports earnings next week"
   ]
 }
