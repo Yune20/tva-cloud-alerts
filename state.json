@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792734162.3621428,
-  "last_bot4": 1792739742.5418622,
+  "last_bot4": 1792740368.791489,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792739105.4021394
+    "Gold": 1792740368.7913656
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792740036.040767,
+  "last_signals": 1792740368.7921684,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,15 +81,15 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792740625,
   "menu_prices": {
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792740037.6533353,
-    "USD/JPY|1D:bot": 1792740038.1532845,
-    "JPY Index|1D:bot": 1792740038.6490035
+    "GBP/USD|1D:top": 1792740369.8831117,
+    "USD/JPY|1D:bot": 1792740370.2467995,
+    "JPY Index|1D:bot": 1792740370.5617473
   },
-  "last_analysis": 1792739742.5403183,
-  "last_news": 1792740035.9742026,
+  "last_analysis": 1792740358.5673065,
+  "last_news": 1792740365.5811713,
   "seen_news": [
-    "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "HPE Stocks Fall 6.14% as Secure Agentic Stack Broadens - TradingView",
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-    "Rising Crude Oil Imports Reduce China\u2019s Need to Draw from Stocks",
     "ETFs tied to Meta Platforms feel the downward pressure - TradingView",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
     "The start-ups hoping to return battery making to the US",
@@ -449,6 +443,12 @@
     "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
     "Jobless claims near the lowest since the 1960s as low-fire trend continues",
     "What is the Budget and what could be in it?",
-    "EU\u2019s Arctic Strategy Excludes Oil and Gas"
+    "EU\u2019s Arctic Strategy Excludes Oil and Gas",
+    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
+    "Audit regulator looking into Manchester City accounting",
+    "China\u2019s DeepSeek,\u00a0MiniMax win approval for AI global use, state media-affiliated",
+    "Falling Treasury yields may be hiding a darker story about the AI boom",
+    "VIDEO: Th\u00f3t tim kho\u1ea3nh kh\u1eafc xe t\u1ea3i treo l\u01a1 l\u1eedng tr\u00ean cao t\u1ed1c, ng\u01b0\u1eddi d\u00e2n c\u0103ng ch\u0103",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t"
   ]
 }
