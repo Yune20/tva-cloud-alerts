@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792753185.6389813,
+  "last_signals": 1792753800.932794,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792753186.6620595,
-    "USD/JPY|1D:bot": 1792753187.0114598,
-    "JPY Index|1D:bot": 1792753187.325481
+    "GBP/USD|1D:top": 1792753802.1791544,
+    "USD/JPY|1D:bot": 1792753802.5142527,
+    "JPY Index|1D:bot": 1792753802.8610566
   },
-  "last_analysis": 1792753177.9360926,
-  "last_news": 1792753185.638085,
+  "last_analysis": 1792753791.7083807,
+  "last_news": 1792753800.9316123,
   "seen_news": [
-    "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is ",
-    "Elon Musk confirms he is considering merging Tesla and SpaceX",
-    "Sterling today: Pound edges higher on U.S. tech drag",
-    "Solana\u2019s Alpenglow upgrade cuts settlement to under a second: what it changes, a",
-    "V\u00e0o tay Iran l\u00e0 t\u00e0u s\u00e2n bay M\u1ef9 \u201cn\u00edn th\u1edf\u201d: L\u00e0 th\u1ee9 g\u00ec m\u00e0 Gi\u00e1m \u0111\u1ed1c CIA ph\u1ea3i t\u1ee9c t\u1ed1c",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
     "Sterling today: Pound climbs on hot UK CPI as dollar weakens",
     "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
     "\u0110\u1ed3ng lo\u1ea1t ki\u1ec3m tra 8 \u0111\u1ecba \u0111i\u1ec3m, c\u00f4ng an b\u1eaft L\u00ea Th\u00e0nh Long SN 1997 v\u00e0 nhi\u1ec1u gi\u00e1m \u0111",
@@ -449,6 +443,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "Flaherty & Crumrine Total Return Fund Inc declares $0.1067 dividend - TradingVie",
     "France is getting its credit rating reviewed. What to expect as French debt turm",
-    "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease"
+    "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "Th\u00f4ng b\u00e1o quan tr\u1ecdng t\u1eeb C\u1ee5c C06, B\u1ed9 C\u00f4ng an v\u1ec1 \u1ee9ng d\u1ee5ng VNeID, t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
+    "Universal Insurance Holdings Reports Q3 2026 Earnings of $1.80 per Share - Tradi",
+    "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+    "How Elon Musk\u2019s SpaceX Became a Gatekeeper of Modern Warfare"
   ]
 }
