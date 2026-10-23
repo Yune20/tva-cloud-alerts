@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792736980.6819413,
+  "last_signals": 1792737591.5648267,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792734529.4177973,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -81,15 +81,15 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1792737852,
   "menu_prices": {
@@ -143,19 +143,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792736982.8261135,
-    "USD/JPY|1D:bot": 1792736983.492449,
-    "JPY Index|1D:bot": 1792736984.16304
+    "GBP/USD|1D:top": 1792737592.5351906,
+    "USD/JPY|1D:bot": 1792737592.9085784,
+    "JPY Index|1D:bot": 1792737593.2120197
   },
-  "last_analysis": 1792736972.9256277,
-  "last_news": 1792736980.6808803,
+  "last_analysis": 1792737583.1917007,
+  "last_news": 1792737591.563949,
   "seen_news": [
-    "S\u00e2n bay qu\u1ed1c t\u1ebf \u1edf Vi\u1ec7t Nam nh\u01b0ng \"tr\u1eafng\" chuy\u1ebfn bay qu\u1ed1c t\u1ebf c\u1ea3 n\u0103m: Th\u00f4ng tin m\u1edb",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
-    "Northrim BanCorp, PBCO Financial shareholders approve acquisition of PBCO - Trad",
-    "Treasury yields log biggest drop since the 2023 banking crisis. Here\u2019s what\u2019s go",
-    "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can alway",
-    "What is the Budget and what could be in it?",
     "Broadcom Stocks Dip 4.5% After New AI Fraud Defense Launch - TradingView",
     "The U.S. stock market is fracturing into two camps, and it\u2019s leaving investors w",
     "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
@@ -449,6 +443,12 @@
     "Humana AB (HUM) Reports Record Q3 Adjusted Operating Profit - TradingView",
     "Americans are having fewer babies \u2014 and pampering them with luxury diapers",
     "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-    "No order, no seat: Starbucks China rolls out new store policy"
+    "No order, no seat: Starbucks China rolls out new store policy",
+    "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
+    "3 big reasons Micron and other chip stocks fell hard on Thursday",
+    "Elon Musk invests about $1 billion in Skydance",
+    "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
+    "FX option expiries for 23 October 10am New York cut"
   ]
 }
