@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792769365.8823345,
+  "last_signals": 1792769975.097056,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|dtop": 1792170549.1391222,
@@ -73,7 +73,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -85,7 +85,7 @@
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792769366.1389732,
+    "Gold|4H:bot": 1792769975.453331,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -141,19 +141,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792769367.7801654,
-    "USD/JPY|1D:bot": 1792769368.301169,
-    "JPY Index|1D:bot": 1792769368.8609438
+    "GBP/USD|1D:top": 1792769977.4266534,
+    "USD/JPY|1D:bot": 1792769978.2116761,
+    "JPY Index|1D:bot": 1792769979.0121422
   },
-  "last_analysis": 1792769357.3712285,
-  "last_news": 1792769365.8815336,
+  "last_analysis": 1792769965.6015575,
+  "last_news": 1792769975.0960355,
   "seen_news": [
-    "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
-    "Living with a stink? Technology might help",
-    "Rising Crude Oil Imports Reduce China\u2019s Need to Draw from Stocks",
-    "Dollar ticks up amid oil surge; yen holds gains on haven demand",
-    "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
-    "2 c\u00f4 gi\u00e1o t\u00e1t h\u1ecdc sinh m\u1ea7m non: Kh\u00f4ng c\u00f3 bi\u1ec3u hi\u1ec7n b\u1ea5t th\u01b0\u1eddng, l\u00e0 ng\u01b0\u1eddi c\u00f3 chuy\u00ea",
     "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuati",
     "Doanh thu t\u0103ng 442%, v\u1eabn l\u1ed7 126 t\u1ef7: \u0110i\u1ec1u g\u00ec \u0111ang x\u1ea3y ra \u1edf c\u00f4ng ty l\u00e0m c\u1ea3ng 28.00",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
@@ -447,6 +441,12 @@
     "Wells Fargo, Intuit others object to their shares being tokenized- regulatory do",
     "Why the market senses a weekend Iran escalation and what happens next",
     "C\u00f4ng Vinh l\u00e0m g\u00ec sau khi gi\u1ea3i ngh\u1ec7?",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance"
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
+    "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do t",
+    "DOJ sues to block Alaska from certifying Senate race winner if Republican narrow",
+    "What is the Budget and what could be in it?",
+    "Middle East Physical Crude Slides While Brent Hits Five-Month High"
   ]
 }
