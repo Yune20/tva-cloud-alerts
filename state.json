@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792794106.0538228,
+  "last_signals": 1792794465.2075894,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792794107.1797636,
-    "USD/JPY|1D:bot": 1792794107.6283336,
-    "JPY Index|1D:bot": 1792794107.9800675
+    "GBP/USD|1D:top": 1792794466.2983782,
+    "USD/JPY|1D:bot": 1792794466.6437747,
+    "JPY Index|1D:bot": 1792794467.0213213
   },
-  "last_analysis": 1792794097.9957755,
-  "last_news": 1792794106.052869,
+  "last_analysis": 1792794457.136477,
+  "last_news": 1792794465.2068405,
   "seen_news": [
-    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-    "Trade Tech Solutions Launches Perpetual Futures Prop Firm Technology as Platform",
-    "iPhone Duo sang tay ch\u00eanh t\u1edbi 15 tri\u1ec7u \u0111\u1ed3ng ngay ng\u00e0y m\u1edf b\u00e1n",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
-    "TD Cowen reiterates Hold rating on Spotify Technology, $525 price target - Tradi",
-    "Higher interest rates have made family offices pickier about investing in real e",
     "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
     "Lights will stay on this winter, grid operator says after concerns",
     "Oil India Strikes Natural Gas in Shallow Offshore Basin",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
     "Humana AB (HUM) Reports Record Q3 Adjusted Operating Profit - TradingView",
     "Will Anthropic pull off a November IPO? Time is running out to file key paperwor",
-    "Moody's holds steady on France's credit rating as country grapples with turmoil "
+    "Moody's holds steady on France's credit rating as country grapples with turmoil ",
+    "R\u1ee7 nhau \u0111i h\u1ecdp l\u1edbp sau 20 n\u0103m, l\u1edbp tr\u01b0\u1edfng v\u1eeba nh\u1eafn 1 c\u00e2u, h\u01a1n n\u1eeda th\u00e0nh vi\u00ean l\u1eadp",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
+    "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
+    "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+    "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "France spared\u00a0Moody\u2019s ratings downgrade as it struggles with unrest"
   ]
 }
