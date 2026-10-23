@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792765668.620758,
+  "last_signals": 1792766276.9428906,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792744211.5202067,
     "5575146754|Gold|4H|ttop": 1792162074.3126972,
@@ -67,9 +67,9 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -122,10 +122,10 @@
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792761187.2742255,
-    "US30|4H:top": 1792765670.0875807,
+    "US30|4H:top": 1792766278.7514544,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792702808.759,
-    "EUR/USD|4H:bot": 1792765670.6660483,
+    "EUR/USD|4H:bot": 1792766279.557928,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -142,19 +142,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792765670.4067361,
-    "USD/JPY|1D:bot": 1792765670.918051,
-    "JPY Index|1D:bot": 1792765671.546216
+    "GBP/USD|1D:top": 1792766279.1330297,
+    "USD/JPY|1D:bot": 1792766279.9196427,
+    "JPY Index|1D:bot": 1792766280.6573431
   },
-  "last_analysis": 1792765658.9474468,
-  "last_news": 1792765668.6188989,
+  "last_analysis": 1792766267.0230567,
+  "last_news": 1792766276.9417927,
   "seen_news": [
-    "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
-    "3 big reasons Micron and other chip stocks fell hard on Thursday",
-    "Elon Musk invests about $1 billion in Skydance",
-    "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-    "FX option expiries for 23 October 10am New York cut",
     "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
     "Lights will stay on this winter, grid operator says after concerns",
     "Dollar up slightly, other currencies see small moves ahead of central bank delug",
@@ -448,6 +442,12 @@
     "Yen Edges Up Ahead of BOJ Policy Meeting - TradingView",
     "Surging economy gets off to a good start in the fourth quarter \u2014 but there\u2019s one",
     "Texas Senate race: Talarico campaign turns its fire on Elon Musk",
-    "Civil servant admits he 'made mistakes' juggling five government jobs"
+    "Civil servant admits he 'made mistakes' juggling five government jobs",
+    "Dollar edges higher as investors weigh AI jitters and central bank outlook",
+    "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control",
+    "C\u00f4ng an truy t\u00ecm Ho\u00e0ng Th\u1ecb \u00c1nh Tuy\u1ebft SN 1992",
+    "IJC: CTCP Ph\u00e1t tri\u1ec3n H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt - Becamex IJC - VietstockFinance",
+    "Humana AB (HUM) Reports Record Q3 Adjusted Operating Profit - TradingView",
+    "Young Americans are giving up on cars. It\u2019s a path to financial freedom for some"
   ]
 }
