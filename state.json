@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792851730.1322196,
+  "last_signals": 1792852346.9862454,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792108789.1603777,
+    "Bitcoin|1D:bot": 1792852347.8063662,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792851731.380326,
-    "USD/JPY|1D:bot": 1792851731.7912292,
-    "JPY Index|1D:bot": 1792851732.168527
+    "GBP/USD|1D:top": 1792852348.6551125,
+    "USD/JPY|1D:bot": 1792852349.205753,
+    "JPY Index|1D:bot": 1792852349.697898
   },
-  "last_analysis": 1792851723.2877045,
-  "last_news": 1792851730.131329,
+  "last_analysis": 1792852334.5242016,
+  "last_news": 1792852346.985157,
   "seen_news": [
-    "Why Trump and Carney Haven\u2019t Touched Energy in Their Tariff War",
-    "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered c",
-    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
-    "N\u00f3ng: California t\u1ea1m ng\u1eebng nhi\u1ec1u ph\u00f2ng t\u1eadp sau khi CEO ch\u1eafp tay xin l\u1ed7i kh\u00e1ch h\u00e0",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
-    "Applied Industrial Technologies elects Michael Olosky to its board - TradingView",
     "T\u00ecnh h\u00ecnh c\u1ee7a Do\u00e3n H\u1ea3i My sau khi g\u1eb7p tai n\u1ea1n trong c\u0103n bi\u1ec7t th\u1ef1",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "New Bubbleroom Sweden Q3 2026 Earnings Call Is Live - TradingView",
@@ -446,6 +440,12 @@
     "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "What SLB (SLB) Said on Its Q3 Earnings Call - TradingView",
     "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
-    "Corruption is voters' top issue ahead of midterm election, CNBC survey shows"
+    "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
+    "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
+    "Gold breaks below $4,000 target area before bouncing. What do buyers need to pro",
+    "T\u1eeb nay \u0111\u1ebfn 30/06/2027, t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng ph\u1ea3i li\u00ean k\u1ebft VNeID",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "Adtran Holdings, Inc. (ADTN) Receives BlackRock Voting Rights Notification - Tra"
   ]
 }
