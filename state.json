@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792815291.9275932,
+  "last_signals": 1792815920.5894597,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792815294.2623127,
-    "USD/JPY|1D:bot": 1792815294.9688182,
-    "JPY Index|1D:bot": 1792815295.657867
+    "GBP/USD|1D:top": 1792815922.0256858,
+    "USD/JPY|1D:bot": 1792815922.5185485,
+    "JPY Index|1D:bot": 1792815922.995093
   },
-  "last_analysis": 1792815284.5823343,
-  "last_news": 1792815291.9264278,
+  "last_analysis": 1792815896.45026,
+  "last_news": 1792815920.5885775,
   "seen_news": [
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-    "Zcash falls sharply as intensifying growth concerns weigh on the crypto market",
-    "Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng g\u1ea7n 1.000 t\u1ef7 \u0111\u1ed3ng tu\u1ea7n 19-23/10, ng\u01b0\u1ee3c chi\u1ec1u tung ti\u1ec1n \"gom\"",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Gold set for second weekly loss as oil-fuelled inflation concerns bolster Fed hi",
-    "The U.S. economy is great by this measure, and the good times aren\u2019t over. So wh",
     "10-year Treasury yield drops back to 5% this week as investors seek cover from A",
     "Elon Musk confirms he is considering merging Tesla and SpaceX",
     "Renewables Boom Pushes Australia\u2019s Gas Power to Quarter-Century Low",
@@ -446,6 +440,12 @@
     "Trump: We may do another operation against Iran",
     "C\u00f4ng an ki\u1ec3m tra 500 c\u00e1n b\u1ed9, c\u00f4ng nh\u00e2n vi\u00ean 1 c\u00f4ng ty",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
-    "Nvidia Explores Former Nuclear Sites for AI Data Centers - TradingView"
+    "Nvidia Explores Former Nuclear Sites for AI Data Centers - TradingView",
+    "EASYJET PLC (EZJ): Morgan Stanley Falls Below 5% Threshold - TradingView",
+    "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
+    "Meta fined $25bn for 'lies' over user data privacy",
+    "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production",
+    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie"
   ]
 }
