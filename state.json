@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792807969.921519,
+  "last_signals": 1792808576.4018204,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792807970.6459296,
+    "Bitcoin|4H:bot": 1792808577.2601619,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792807971.489413,
-    "USD/JPY|1D:bot": 1792807972.0191438,
-    "JPY Index|1D:bot": 1792807972.6464822
+    "GBP/USD|1D:top": 1792808578.072713,
+    "USD/JPY|1D:bot": 1792808578.7209659,
+    "JPY Index|1D:bot": 1792808579.2987828
   },
-  "last_analysis": 1792807960.7392142,
-  "last_news": 1792807969.9197867,
+  "last_analysis": 1792808568.4091575,
+  "last_news": 1792808576.4009986,
   "seen_news": [
-    "France is flashing euro crisis signals. This time, the fault lines are different",
-    "What is happening to UK prices?",
-    "India 40-year bond yield hits highest level since 2018",
-    "Biggest earnings week ahead: Can Microsoft, Alphabet and Amazon turn the Nasdaq ",
-    "Soi c\u1eadn c\u1ea3nh BIGBANG h\u1ea1 c\u00e1nh N\u1ed9i B\u00e0i: \"Ngo\u1ea1i\" G-Dragon cu\u1ed1i c\u00f9ng c\u00f9ng ch\u1ecbu c\u1edfi \u00e1",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
     "Macro pulse: Europe's economy is losing steam but inflation won't let up",
     "Qu\u00e1i v\u1eadt bi\u1ec3n kh\u1ed5ng l\u1ed3 c\u00f3 kh\u1ea3 n\u0103ng khoan s\u00e2u h\u01a1n 10 km v\u01b0\u1ee3t 13.400 km t\u1eeb ch\u00e2u Ph",
@@ -446,6 +440,12 @@
     "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly si",
     "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603",
     "Xe \u0111i\u1ec7n t\u0103ng nhanh, chung c\u01b0 H\u00e0 N\u1ed9i loay hoay t\u00ecm ch\u1ed7 s\u1ea1c",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc"
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation d",
+    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh mua \u0111\u1ed3 s\u1ea1ch \u1edf qu\u00ea c\u1ea5p \u0111\u00f4ng t\u1ee7 l\u1ea1nh d\u00f9ng d\u1ea7n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
+    "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
+    "Oil markets are on edge ahead of the weekend, as midterm elections near and fres",
+    "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback"
   ]
 }
