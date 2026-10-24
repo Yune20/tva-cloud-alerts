@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792825758.8263304,
+  "last_signals": 1792826365.7766178,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792825760.6041174,
-    "USD/JPY|1D:bot": 1792825761.129072,
-    "JPY Index|1D:bot": 1792825761.6565495
+    "GBP/USD|1D:top": 1792826367.2458696,
+    "USD/JPY|1D:bot": 1792826367.7188513,
+    "JPY Index|1D:bot": 1792826368.1712887
   },
-  "last_analysis": 1792825750.3975797,
-  "last_news": 1792825758.8255832,
+  "last_analysis": 1792826355.3395622,
+  "last_news": 1792826365.7758057,
   "seen_news": [
-    "C\u00f9ng t\u1ea5n c\u00f4ng th\u1ecb tr\u01b0\u1eddng cafe 30 t\u1ef7 \u0111\u00f4, \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 v\u00e0 b\u00e0 L\u00ea Ho\u00e0ng Di\u1ec7",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "Spotify Stock Rises Despite Missing EPS Estimates - TradingView",
-    "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
-    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
-    "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
     "Fulton Financial Q3 2026 Earnings Call Is Live - TradingView",
     "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Sol",
     "What is the Budget and what could be in it?",
@@ -446,6 +440,12 @@
     "Ca s\u0129 SN 1985 qu\u00ea Thanh Ho\u00e1 l\u00e0 hi\u1ec7n t\u01b0\u1ee3ng m\u1ea1ng, b\u00e1n c\u00e0 ph\u00ea th\u00e0nh \u0111\u1ea1i gia, s\u1ed1ng t",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "SAB Biotherapeutics Highlights Diabetes Trial Progress, Human Antibody Platform ",
-    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "Broadcom Stocks Dip 4.5% After New AI Fraud Defense Launch - TradingView",
+    "Moody's holds steady on France's credit rating as country grapples with turmoil ",
+    "Lights will stay on this winter, grid operator says after concerns",
+    "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+    "UK budget to prioritise bond markets as Labour tensions mount, Bloomberg reports",
+    "UMich final October final consumer sentiment 48.0 vs 46.3 expected"
   ]
 }
