@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792858267.8915055,
+  "last_signals": 1792858878.351671,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792852347.8063662,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792858268.8888776,
-    "USD/JPY|1D:bot": 1792858269.2485812,
-    "JPY Index|1D:bot": 1792858269.5778816
+    "GBP/USD|1D:top": 1792858880.018946,
+    "USD/JPY|1D:bot": 1792858880.4572406,
+    "JPY Index|1D:bot": 1792858880.9894388
   },
-  "last_analysis": 1792858260.1872046,
-  "last_news": 1792858267.8906102,
+  "last_analysis": 1792858870.0885067,
+  "last_news": 1792858878.3506608,
   "seen_news": [
-    "Is an 'AI war' complicating your job search?",
-    "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
-    "Tr\u1ea7n Ng\u1ecdc V\u00e0ng kh\u00f3 che gi\u1ea5u \u0111i\u1ec1u \u0111\u1eb7c bi\u1ec7t d\u00e0nh cho T\u00f3c Ti\u00ean",
-    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall Ahead of Global ",
-    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "CTD: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 70,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Commerzbank Aktiengesellschaft (CBK) Reports Major Holdings Notice by BlackRock ",
     "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
@@ -446,6 +440,12 @@
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-10-23 \u2014 cnbctv:27afc0159094b:0 - TradingV",
     "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-    "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble"
+    "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Securitize CEO says public companies will want tokenized trading - TradingView",
+    "Walmart, Best Buy and other stores now use digital price tags. Critics say they ",
+    "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+    "What is the Budget and what could be in it?",
+    "Middle East Physical Crude Slides While Brent Hits Five-Month High"
   ]
 }
