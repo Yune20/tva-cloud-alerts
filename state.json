@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792808576.4018204,
+  "last_signals": 1792809191.501398,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792808577.2601619,
+    "Bitcoin|4H:bot": 1792809192.6644738,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792808578.072713,
-    "USD/JPY|1D:bot": 1792808578.7209659,
-    "JPY Index|1D:bot": 1792808579.2987828
+    "GBP/USD|1D:top": 1792809193.9067907,
+    "USD/JPY|1D:bot": 1792809194.692307,
+    "JPY Index|1D:bot": 1792809195.453063
   },
-  "last_analysis": 1792808568.4091575,
-  "last_news": 1792808576.4009986,
+  "last_analysis": 1792809181.098898,
+  "last_news": 1792809191.5005896,
   "seen_news": [
-    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
-    "Macro pulse: Europe's economy is losing steam but inflation won't let up",
-    "Qu\u00e1i v\u1eadt bi\u1ec3n kh\u1ed5ng l\u1ed3 c\u00f3 kh\u1ea3 n\u0103ng khoan s\u00e2u h\u01a1n 10 km v\u01b0\u1ee3t 13.400 km t\u1eeb ch\u00e2u Ph",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Carnival Corporation Ltd. (CCL) Declares $0.15 Quarterly Dividend - TradingView",
-    "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
     "How Elon Musk\u2019s SpaceX Became a Gatekeeper of Modern Warfare",
     "Chili\u2019s workers\u2019 lawsuit looks to strike New York state\u2019s lower wage for tipped ",
     "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "ContextVision AB (CONTX) Signs Clinical Validation Pact - TradingView",
     "Oil markets are on edge ahead of the weekend, as midterm elections near and fres",
-    "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback"
+    "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback",
+    "C\u0103n h\u1ed9 39m\u00b2 m\u00e0 nh\u00ecn nh\u01b0 60m\u00b2: Kh\u00f4ng ph\u1ea3i nh\u1edd \u00edt \u0111\u1ed3, m\u00e0 nh\u1edd c\u00e1ch s\u1eafp x\u1ebfp qu\u00e1 th\u00f4n",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Why Meta (META) shares are getting obliterated today - TradingView",
+    "France is flashing euro crisis signals. This time, the fault lines are different",
+    "The 'trillion pound' oil fund the government believes Britain could have built",
+    "India 40-year bond yield hits highest level since 2018"
   ]
 }
