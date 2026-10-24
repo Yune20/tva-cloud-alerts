@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792846723.6986723,
+  "last_signals": 1792847331.207112,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792846724.2463849,
+    "Bitcoin|4H:bot": 1792847331.7977195,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792846724.714113,
-    "USD/JPY|1D:bot": 1792846725.0857096,
-    "JPY Index|1D:bot": 1792846725.4831526
+    "GBP/USD|1D:top": 1792847332.429083,
+    "USD/JPY|1D:bot": 1792847332.786295,
+    "JPY Index|1D:bot": 1792847333.1825144
   },
-  "last_analysis": 1792846716.278118,
-  "last_news": 1792846723.6977532,
+  "last_analysis": 1792847320.832768,
+  "last_news": 1792847331.2063463,
   "seen_news": [
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t nh\u00e0 m\u00e1y s\u1ea3n xu\u1ea5t c\u1ee7a Vi\u1ec7t Nam l\u1edbn th\u1ee9 2 th\u1ebf gi\u1edbi, s\u1edf h\u1eefu c\u00f4ng ngh\u1ec7",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
-    "RingCentral Q3 Revenue Rises 5.9%; Raises 2026 Outlook - TradingView",
-    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "The tech helping crack decades-old cold cases",
-    "Zcash falls sharply as intensifying growth concerns weigh on the crypto market",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Universal Insurance Holdings Reports Q3 2026 Earnings of $1.80 per Share - Tradi",
     "10-year Treasury yield drops back to 5% this week as investors seek cover from A",
@@ -446,6 +440,12 @@
     "C\u1ea3nh b\u00e1o th\u00f3i quen \u0103n tr\u00e1i c\u00e2y nhi\u1ec1u ng\u01b0\u1eddi m\u1eafc ph\u1ea3i: T\u1ed1t \u0111\u1ebfn m\u1ea5y c\u0169ng c\u1ea7n \u0111\u00fang l",
     "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
     "What Knowles (KN) Said on Its Q3 Earnings Call - TradingView",
-    "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage"
+    "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+    "Nam ca s\u0129 Vi\u1ec7t n\u1ed5i ti\u1ebfng \u0111\u1eb9p trai kh\u00f4ng tu\u1ed5i nay \u0111i b\u01b0ng b\u00fan b\u00f2, c\u00f2n m\u1eb7c c\u1ea3 v\u1edbi ",
+    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
+    "Gold set for second weekly loss as oil-fuelled inflation concerns bolster Fed hi",
+    "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+    "Meta fined $25bn for 'lies' over user data privacy",
+    "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production"
   ]
 }
