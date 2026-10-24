@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792848920.6638484,
+  "last_signals": 1792849527.0468378,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792848921.901208,
+    "Bitcoin|4H:bot": 1792849527.5104773,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792848923.1658785,
-    "USD/JPY|1D:bot": 1792848924.0064294,
-    "JPY Index|1D:bot": 1792848924.7973804
+    "GBP/USD|1D:top": 1792849527.9664874,
+    "USD/JPY|1D:bot": 1792849528.2697136,
+    "JPY Index|1D:bot": 1792849528.5486712
   },
-  "last_analysis": 1792848910.0734425,
-  "last_news": 1792848920.661816,
+  "last_analysis": 1792849520.055341,
+  "last_news": 1792849527.0459397,
   "seen_news": [
-    "Spain battles climate change on several fronts",
-    "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-    "Instacart in talks with DoorDash and Uber for sale, The Information reports",
-    "investingLive Americas market news wrap: War worries boost oil to the highest si",
-    "C\u1eadu b\u00e9 14 tu\u1ed5i \u0111\u00e3 suy th\u1eadn, ng\u01b0\u1eddi m\u1eb9 \u00f2a kh\u00f3c khi bi\u1ebft 3 m\u00f3n th\u01b0\u1eddng cho con \u0103n l\u00e0",
-    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
     "Tank barrel production returns to UK after 20 years",
     "Morning Kickstart: Tech selloff leaves buyers on the defensive",
     "6 th\u00f3i quen r\u1eeda b\u00e1t nguy hi\u1ec3m l\u00e0m t\u0103ng nguy b\u1ec7nh t\u1eadt",
@@ -446,6 +440,12 @@
     "C\u1ee5c H\u00e0ng kh\u00f4ng \u0111\u1ec1 ngh\u1ecb c\u00e1c h\u00e3ng kh\u00f4i ph\u1ee5c, m\u1edf m\u1edbi \u0111\u01b0\u1eddng bay n\u1ed9i \u0111\u1ecba",
     "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
     "Wedbush Drops Strong Verdict on Popular AI Cybersecurity Stock - TradingView",
-    "My niece\u2019s college rent is covered by a 529 plan. What else can I pay for tax-fr"
+    "My niece\u2019s college rent is covered by a 529 plan. What else can I pay for tax-fr",
+    "Rosenblatt maintains Buy rating on Comcast, $31 price target - TradingView",
+    "Investors\u2019 recent money moves show a preference for lowering risks over boosting",
+    "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "The grads ditching the UK for a fresh start abroad",
+    "Dow leads stocks lower; small caps win the week",
+    "L\u1eddi khuy\u00ean cho 3 con gi\u00e1p may m\u1eafn v\u01b0\u1ee3t b\u1eadc, gi\u00e0u c\u00f3 vi\u00ean m\u00e3n trong th\u00e1ng 10 \u00e2m"
   ]
 }
