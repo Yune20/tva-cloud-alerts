@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792850501.7372587,
+  "last_signals": 1792851116.3734677,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792850140.5027418,
+    "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792850502.7550678,
-    "USD/JPY|1D:bot": 1792850503.1462553,
-    "JPY Index|1D:bot": 1792850503.5075088
+    "GBP/USD|1D:top": 1792851118.1066632,
+    "USD/JPY|1D:bot": 1792851118.6389542,
+    "JPY Index|1D:bot": 1792851119.166277
   },
-  "last_analysis": 1792850493.1809957,
-  "last_news": 1792850501.7356594,
+  "last_analysis": 1792851107.4610856,
+  "last_news": 1792851116.3726416,
   "seen_news": [
-    "Reliance Q3 Earnings Call Highlights - TradingView",
-    "The mobile ambitions of SpaceX are hitting telecom stocks again. Here\u2019s what the",
-    "American Express is cutting 5% of its workforce to 'prepare for AI'",
-    "What is PHP and why did it spark a global cyber-security scramble?",
-    "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
-    "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
     "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle Eas",
     "How long will humans be needed for translation?",
     "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
@@ -446,6 +440,12 @@
     "Morning Kickstart: Tech selloff leaves buyers on the defensive",
     "H\u00e0 N\u1ed9i: T\u00f2a k\u00eau g\u1ecdi c\u1ef1u Gi\u00e1m \u0111\u1ed1c SeABank Hai B\u00e0 Tr\u01b0ng \u0111\u1ea7u th\u00fa tr\u01b0\u1edbc ng\u00e0y x\u00e9t x\u1eed ",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
-    "Heatbit unveils Bitwater, a water heater that mines Bitcoin - TradingView"
+    "Heatbit unveils Bitwater, a water heater that mines Bitcoin - TradingView",
+    "Honda HR-V 2027 ra m\u1eaft v\u1edbi g\u00f3i ngo\u1ea1i th\u1ea5t th\u1ec3 thao, m\u00e2m m\u1edbi, th\u00eam c\u1eeda s\u1ed5 tr\u1eddi to",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
+    "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens - TradingVie",
+    "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom",
+    "America by the numbers: How voters feel about the economy, inflation, AI and Tru",
+    "As Christmas rush looms, how do China-made toys find their way to the US?"
   ]
 }
