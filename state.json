@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792843956.5084853,
-  "last_bot4": 1792848254.7936172,
+  "last_bot4": 1792848920.6631014,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792848548.1019454,
+  "last_signals": 1792848920.6638484,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792848549.0520804,
+    "Bitcoin|4H:bot": 1792848921.901208,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792848549.8821173,
-    "USD/JPY|1D:bot": 1792848550.4144247,
-    "JPY Index|1D:bot": 1792848550.9263144
+    "GBP/USD|1D:top": 1792848923.1658785,
+    "USD/JPY|1D:bot": 1792848924.0064294,
+    "JPY Index|1D:bot": 1792848924.7973804
   },
-  "last_analysis": 1792848252.7911494,
-  "last_news": 1792848548.101306,
+  "last_analysis": 1792848910.0734425,
+  "last_news": 1792848920.661816,
   "seen_news": [
-    "T\u00e0u ch\u1edf 43.000 t\u1ea5n d\u1ea7u Nga \u0111\u00e3 b\u00e1o tin c\u1ef1c vui cho M\u1ef9",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
-    "RBC Capital reiterates Outperform rating on Tesla, $480 price target - TradingVi",
-    "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered pe",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Dow leads stocks lower; small caps win the week",
     "Spain battles climate change on several fronts",
     "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
     "Instacart in talks with DoorDash and Uber for sale, The Information reports",
@@ -446,6 +440,12 @@
     "N\u1eef ca s\u0129 SN 1978 \u0111i \u00dac: \"\u0110\u00fang l\u00e0 ng\u01b0\u1eddi t\u00ednh kh\u00f4ng b\u1eb1ng tr\u1eddi t\u00ednh\"",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Undervalued technology stocks to watch as Q3 earnings season unfolds - TradingVi",
-    "Fact vs. fiction: Doctors share whether peptides are safe and effective"
+    "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+    "Saudi Arabia intercepts Houthi missile as Trump threatens new strikes",
+    "Canada August retail sales +1.2% vs +1.3% expected",
+    "C\u1ee5c H\u00e0ng kh\u00f4ng \u0111\u1ec1 ngh\u1ecb c\u00e1c h\u00e3ng kh\u00f4i ph\u1ee5c, m\u1edf m\u1edbi \u0111\u01b0\u1eddng bay n\u1ed9i \u0111\u1ecba",
+    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph",
+    "Wedbush Drops Strong Verdict on Popular AI Cybersecurity Stock - TradingView",
+    "My niece\u2019s college rent is covered by a 529 plan. What else can I pay for tax-fr"
   ]
 }
