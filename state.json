@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792801037.6679573,
+  "last_signals": 1792801636.7810998,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -134,25 +134,19 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1792801038.6384194,
+    "Ethereum|4H:bot": 1792801637.3712356,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792801039.199946,
-    "USD/JPY|1D:bot": 1792801039.6768646,
-    "JPY Index|1D:bot": 1792801040.1441753
+    "GBP/USD|1D:top": 1792801637.7854924,
+    "USD/JPY|1D:bot": 1792801638.0634384,
+    "JPY Index|1D:bot": 1792801638.4160273
   },
-  "last_analysis": 1792801029.9897454,
-  "last_news": 1792801037.6670423,
+  "last_analysis": 1792801629.9255774,
+  "last_news": 1792801636.7803822,
   "seen_news": [
-    "US telecom operators wobble after report SpaceX in talks for cell sites",
-    "European stock market open: Stocks slip as weak French PMI adds to economic worr",
-    "T\u1ef7 ph\u00fa gi\u00e0u nh\u1ea5t Indonesia \u0111\u1ee9ng sau Como - \u0111\u1ed9i b\u00f3ng v\u1eeba khi\u1ebfn MU th\u1ea3m b\u1ea1i",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "HUGO BOSS AG (BOSS) Reports Major Holdings Notice - TradingView",
-    "Walmart, Best Buy and other stores now use digital price tags. Critics say they ",
     "US fines Air France, KLM over flights in prohibited Iraqi airspace",
     "France October PMI slumps back into contraction as political uncertainty weighs ",
     "H\u00e0 N\u1ed9i: Kh\u1ea9n tr\u01b0\u01a1ng l\u1ea5y \u00fd ki\u1ebfn nh\u00e2n d\u00e2n v\u1ec1 \u0111i\u1ec1u ch\u1ec9nh \u0111\u1ecba gi\u1edbi h\u00e0nh ch\u00ednh",
@@ -446,6 +440,12 @@
     "\u0110\u01b0\u1eddng n\u1ed1i Ph\u1ea1m H\u00f9ng - L\u00ea \u0110\u1ee9c Th\u1ecd thi c\u00f4ng tr\u1edf l\u1ea1i sau 9 n\u0103m",
     "Vietnam strategy report - VietstockFinance",
     "What EastGroup Properties (EGP) Said on Its Q3 Earnings Call - TradingView",
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l"
+    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
+    "NS\u01afT Ch\u00ed Trung \u1edf Nauy: \"\u0110i xa m\u1edbi th\u1ea5y ch\u1eef Vi\u1ec7t Nam qu\u00fd th\u1ebf n\u00e0o\"",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "Deutz AG: Dr. Dietmar Voggenreiter, buy - TradingView",
+    "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wa",
+    "How does the UK state pension compare with other countries?",
+    "$120 Oil Is Almost Here, and Trump Has Few Good Options"
   ]
 }
