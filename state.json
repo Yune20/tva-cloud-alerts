@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792860099.200416,
+  "last_signals": 1792860707.5243013,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792852347.8063662,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792860100.1930304,
-    "USD/JPY|1D:bot": 1792860100.5612018,
-    "JPY Index|1D:bot": 1792860100.9035456
+    "GBP/USD|1D:top": 1792860708.609636,
+    "USD/JPY|1D:bot": 1792860708.9221816,
+    "JPY Index|1D:bot": 1792860709.238595
   },
-  "last_analysis": 1792860089.887657,
-  "last_news": 1792860099.1994948,
+  "last_analysis": 1792860702.2202525,
+  "last_news": 1792860707.5235767,
   "seen_news": [
-    "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
-    "China indicates rare earths will keep flowing to EU, regardless of U.S. trade de",
-    "Island inflation rate rises to 3%, figures show",
-    "Swiss stocks outperform Europe as investors retreat from AI trade - Bloomberg",
-    "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
-    "Ph\u00e1t hi\u1ec7n t\u00e0u d\u00e0i g\u1ea7n 340 m\u00e9t, tr\u1ecdng t\u1ea3i h\u01a1n 310.000 t\u1ea5n v\u1eeba xu\u1ea5t hi\u1ec7n t\u1ea1i Trung",
     "Exclusive-Boeing supplier dispute has halted 777 freighter production for two mo",
     "C\u1ea3nh b\u00e1o: Ch\u1ec9 m\u1ed9t k\u00fd t\u1ef1 kh\u00e1c bi\u1ec7t, nguy c\u01a1 m\u1ea5t ti\u1ec1n v\u00e0 l\u1ed9 d\u1eef li\u1ec7u c\u00e1 nh\u00e2n",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -446,6 +440,12 @@
     "Civil servant admits he 'made mistakes' juggling five government jobs",
     "UK to inject \u00a320.4 billion into state-backed lenders in budget, FT reports",
     "US stocks are mixed, but weak breadth keeps the recovery in question",
-    "\u201cV\u00ec bi\u1ebft c\u00f3 nhi\u1ec1u kh\u00e1ch \u0111i xem BigBang, ch\u00fang t\u00f4i \u0111\u00e3 \u0111\u00e1p s\u1edbm 15 ph\u00fat\u201d: Vietnam A"
+    "\u201cV\u00ec bi\u1ebft c\u00f3 nhi\u1ec1u kh\u00e1ch \u0111i xem BigBang, ch\u00fang t\u00f4i \u0111\u00e3 \u0111\u00e1p s\u1edbm 15 ph\u00fat\u201d: Vietnam A",
+    "Living with a stink? Technology might help",
+    "Johnson & Johnson\u2019s prostate cancer drug shrinks tumors in early-stage trial",
+    "Trump: The question is, do we want to finish Iran war or let it wither",
+    "2 \u1ee9ng d\u1ee5ng m\u00e0 ng\u01b0\u1eddi d\u00f9ng n\u00ean x\u00f3a ngay \u0111\u1ec3 kh\u00f4ng b\u1ecb theo d\u00f5i",
+    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Reliance Q3 Earnings Call Highlights - TradingView"
   ]
 }
