@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792813473.171507,
+  "last_signals": 1792814078.6329858,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792813474.637185,
-    "USD/JPY|1D:bot": 1792813475.058202,
-    "JPY Index|1D:bot": 1792813475.5406175
+    "GBP/USD|1D:top": 1792814080.1517022,
+    "USD/JPY|1D:bot": 1792814080.6234317,
+    "JPY Index|1D:bot": 1792814081.1377308
   },
-  "last_analysis": 1792813467.18268,
-  "last_news": 1792813473.1706982,
+  "last_analysis": 1792814069.7193727,
+  "last_news": 1792814078.6322286,
   "seen_news": [
-    "Yen jumps as oil, AI and France worries rattle markets - TradingView",
-    "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-    "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-    "The tech helping crack decades-old cold cases",
-    "Egypt Moves to Defend Saudi Arabia as Iran War Threatens to Widen",
-    "TSX stocks to watch next week as analysts see triple-digit upside",
     "Trump: We may do another operation against Iran",
     "Vi\u1ec7t Nam \u0111ang x\u00e2y si\u00eau s\u00e2n v\u1eadn \u0111\u1ed9ng l\u1edbn nh\u1ea5t h\u00e0nh tinh, quy m\u00f4 g\u1ea5p 3,3 l\u1ea7n M\u1ef9 \u0110\u00ec",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
     "Netflix Stock Rises as Deutsche Bank Sends Bullish Message to Investors - Tradin",
     "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
-    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona"
+    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
+    "XTI Aerospace Reports Preliminary Q3 Revenue of $35.3 Million - TradingView",
+    "Trump's executive order targets mortgage insurance, refinance costs. What it mea",
+    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
+    "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+    "US expected to lift 50% tariffs on select Canadian agricultural imports, WSJ say"
   ]
 }
