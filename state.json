@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792846117.0134346,
+  "last_signals": 1792846723.6986723,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792846117.4888206,
+    "Bitcoin|4H:bot": 1792846724.2463849,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792846117.9596279,
-    "USD/JPY|1D:bot": 1792846118.2820885,
-    "JPY Index|1D:bot": 1792846118.6560814
+    "GBP/USD|1D:top": 1792846724.714113,
+    "USD/JPY|1D:bot": 1792846725.0857096,
+    "JPY Index|1D:bot": 1792846725.4831526
   },
-  "last_analysis": 1792846109.1245856,
-  "last_news": 1792846117.01255,
+  "last_analysis": 1792846716.278118,
+  "last_news": 1792846723.6977532,
   "seen_news": [
-    "Gold set for second weekly loss as oil-fuelled inflation concerns bolster Fed hi",
-    "The U.S. economy is great by this measure, and the good times aren\u2019t over. So wh",
-    "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-    "The grads ditching the UK for a fresh start abroad",
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-    "NZDUSD buyers are trying to make a play. The 38.2% retracement remains the next ",
     "Ph\u00e1t hi\u1ec7n m\u1ed9t nh\u00e0 m\u00e1y s\u1ea3n xu\u1ea5t c\u1ee7a Vi\u1ec7t Nam l\u1edbn th\u1ee9 2 th\u1ebf gi\u1edbi, s\u1edf h\u1eefu c\u00f4ng ngh\u1ec7",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
     "RingCentral Q3 Revenue Rises 5.9%; Raises 2026 Outlook - TradingView",
@@ -446,6 +440,12 @@
     "Netanyahu explores crypto to bypass potential sanctions",
     "Trump: We may do another operation against Iran",
     "Starbucks ra quy \u0111\u1ecbnh m\u1edbi t\u1ea1i 8.000 c\u1eeda h\u00e0ng, kh\u00e1ch kh\u00f4ng c\u00f2n \u0111\u01b0\u1ee3c ng\u1ed3i mi\u1ec5n ph\u00ed",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance"
+    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
+    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
+    "investingLive European session wrap: Equities cautious as Treasury yields reboun",
+    "C\u1ea3nh b\u00e1o th\u00f3i quen \u0103n tr\u00e1i c\u00e2y nhi\u1ec1u ng\u01b0\u1eddi m\u1eafc ph\u1ea3i: T\u1ed1t \u0111\u1ebfn m\u1ea5y c\u0169ng c\u1ea7n \u0111\u00fang l",
+    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
+    "What Knowles (KN) Said on Its Q3 Earnings Call - TradingView",
+    "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage"
   ]
 }
