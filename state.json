@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792852759.0137837,
+  "last_signals": 1792853285.8424137,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792852347.8063662,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792852761.5757408,
-    "USD/JPY|1D:bot": 1792852762.3955865,
-    "JPY Index|1D:bot": 1792852763.2229254
+    "GBP/USD|1D:top": 1792853287.7937167,
+    "USD/JPY|1D:bot": 1792853288.3122003,
+    "JPY Index|1D:bot": 1792853288.8892963
   },
-  "last_analysis": 1792852745.8012836,
-  "last_news": 1792852756.5438213,
+  "last_analysis": 1792853278.3024771,
+  "last_news": 1792853285.8415287,
   "seen_news": [
-    "Key facts: BTCUSD OI +3%; $1.23B Options Expire; Support ~$80k - TradingView",
-    "Will Anthropic pull off a November IPO? Time is running out to file key paperwor",
-    "What next for France as riots rattle markets? Three questions facing investors a",
-    "Before you crank up the thermostat, try these tips to keep your house warmer for",
-    "UK unveils $800 million AI security funding plan",
-    "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control",
     "SUNMI Technology Launches Windows POS Line, Expanding Beyond Android - TradingVi",
     "What a day in customer service looks like \u2014 as AI changes everything",
     "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -446,6 +440,12 @@
     "D\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i c\u00f3 c\u1ea3 nh\u00e0 li\u1ec1n k\u1ec1, 9 l\u1ea7n nh\u1eadn h\u1ed3 s\u01a1 v\u1eabn ch\u01b0a b\u00e1n h\u1ebft",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
     "Triumph Financial Q3 Earnings Call Highlights - TradingView",
-    "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do t"
+    "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do t",
+    "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung",
+    "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+    "Why Trump and Carney Haven\u2019t Touched Energy in Their Tariff War",
+    "Bitcoin erases all the weekly gains as growth concerns lead to widespread risk a",
+    "Ch\u00ednh th\u1ee9c khai m\u1ea1c S\u00f3ng Festival 2026 t\u1ea1i H\u00e0 N\u1ed9i: 31 ng\u00e2n h\u00e0ng, t\u1ed5 ch\u1ee9c t\u00e0i ch\u00ed",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed"
   ]
 }
