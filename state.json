@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792844278.8827996,
+  "last_signals": 1792844898.059267,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792844280.0265079,
+    "Bitcoin|4H:bot": 1792844899.3088038,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792844281.2039466,
-    "USD/JPY|1D:bot": 1792844281.9106371,
-    "JPY Index|1D:bot": 1792844282.5719304
+    "GBP/USD|1D:top": 1792844900.5294354,
+    "USD/JPY|1D:bot": 1792844901.320862,
+    "JPY Index|1D:bot": 1792844902.0995505
   },
-  "last_analysis": 1792844269.7279172,
-  "last_news": 1792844278.8819914,
+  "last_analysis": 1792844887.8520868,
+  "last_news": 1792844898.0584147,
   "seen_news": [
-    "Why Smart Investors Are Selling Oil Stocks and Buying MLPs",
-    "Trump says Canada \u2019working very hard\u2019 to make a deal with US",
-    "investingLive European session wrap: Equities cautious as Treasury yields reboun",
-    "Ch\u00ednh th\u1ee9c gi\u1edbi thi\u1ec7u d\u1ef1 \u00e1n Qtopia: \u201cTh\u00e0nh ph\u1ed1 cu\u1ed1i tu\u1ea7n\u201d s\u00f4i \u0111\u1ed9ng t\u1ea1i si\u00eau \u0111\u00f4 t",
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
-    "Triumph Financial Q3 Earnings Call Highlights - TradingView",
     "Inflation and government borrowing highest for a year ahead of next week's Budge",
     "Saudi Arabia intercepts Houthi missile as Trump threatens new strikes",
     "Trump: We may do another operation against Iran",
@@ -446,6 +440,12 @@
     "C\u1ee1 Chi Pu m\u1edbi d\u00e1m l\u00e0m \u0111i\u1ec1u n\u00e0y",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Netflix Stock Rises as Deutsche Bank Sends Bullish Message to Investors - Tradin",
-    "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next bi"
+    "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next bi",
+    "Canada September PPI +2.0% m/m vs +1.3% prior",
+    "V\u00ec sao ng\u00e0y c\u00e0ng nhi\u1ec1u gia \u0111\u00ecnh kh\u00f4ng c\u00f2n tr\u1ed3ng c\u00e2y trong nh\u00e0 hay ngo\u00e0i ban c\u00f4ng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
+    "Solayer Pay Adds Five Blockchain Networks For Direct Stablecoin Card Deposits - ",
+    "Moderna\u2019s cancer vaccine is \u2018likely\u2019 to get approved. Skeptics question if it wi",
+    "Why popular airplanes are getting scrapped years early"
   ]
 }
