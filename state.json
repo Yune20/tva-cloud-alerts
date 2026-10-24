@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792835525.7079527,
+  "last_signals": 1792836134.2206216,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792835527.0174387,
-    "USD/JPY|1D:bot": 1792835527.5115824,
-    "JPY Index|1D:bot": 1792835527.9386454
+    "GBP/USD|1D:top": 1792836136.7022266,
+    "USD/JPY|1D:bot": 1792836137.5011344,
+    "JPY Index|1D:bot": 1792836138.29108
   },
-  "last_analysis": 1792835517.3776677,
-  "last_news": 1792835525.5991435,
+  "last_analysis": 1792836125.7302556,
+  "last_news": 1792836134.2194357,
   "seen_news": [
-    "Rainmakers: The drones used to seed clouds",
-    "Trump ends tariffs on some Canadian products, as Senator Collins faces close rac",
-    "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
-    "N\u0103m m\u00f3n \u0103n s\u00e1ng n\u1eb1m trong \"danh s\u00e1ch \u0111en\", b\u00e1c s\u0129 H\u00e0n Qu\u1ed1c khuy\u00ean: \u0110\u1eebng \u0103n d\u00f9 \"\u0111",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Crude Oil Rises to 5-Week High - TradingView",
     "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
     "UK October flash services PMI 53.1 vs 51.8 expected",
     "C\u00e1c kho\u1ea3n chi \u0111\u01b0\u1ee3c tr\u1eeb khi x\u00e1c \u0111\u1ecbnh thu nh\u1eadp ch\u1ecbu thu\u1ebf thu nh\u1eadp doanh nghi\u1ec7p",
@@ -446,6 +440,12 @@
     "Anthropic is AI trade's last big hope for a major IPO this year",
     "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
-    "OpenAI resumes frontier AI training after security overhaul, discloses flaw in w"
+    "OpenAI resumes frontier AI training after security overhaul, discloses flaw in w",
+    "U.S. Rig Count Holds Steady as Oil Prices Surge",
+    "UK\u2019s Healey to give two state-backed lenders \u00a320 billion capital boost in budget",
+    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dil",
+    "\u00d4ng Trump d\u1ecda m\u1edf th\u00eam chi\u1ebfn d\u1ecbch qu\u00e2n s\u1ef1 'th\u1ecbnh n\u1ed9 d\u1eef d\u1ed9i' nh\u1eb1m v\u00e0o Iran",
+    "DIG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n X\u00e2y d\u1ef1ng - T\u1eacP \u0110O\u00c0N DIC (DIC GROUP) ",
+    "Simpson Manufacturing Co., Inc. (SSD) Declares $0.30 Quarterly Dividend - Tradin"
   ]
 }
