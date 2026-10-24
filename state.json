@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792876770.6570606,
-  "last_bot4": 1792881443.258916,
+  "last_bot4": 1792882373.825622,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792880575.3501637
+    "Gold": 1792882373.825523
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792882049.121128,
+  "last_signals": 1792882373.8265803,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792882049.8325107,
+    "Bitcoin|1D:bot": 1792882374.363212,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792882050.5366144,
-    "USD/JPY|1D:bot": 1792882050.9877727,
-    "JPY Index|1D:bot": 1792882051.452633
+    "GBP/USD|1D:top": 1792882374.8751807,
+    "USD/JPY|1D:bot": 1792882375.2193012,
+    "JPY Index|1D:bot": 1792882375.634498
   },
-  "last_analysis": 1792881753.1900275,
-  "last_news": 1792882049.120518,
+  "last_analysis": 1792882365.180153,
+  "last_news": 1792882372.15885,
   "seen_news": [
-    "EASYJET PLC (EZJ): Morgan Stanley Falls Below 5% Threshold - TradingView",
-    "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a",
-    "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuabl",
-    "What is PHP and why did it spark a global cyber-security scramble?",
-    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-    "What are the main events for today?",
     "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure ",
     "No order, no seat: Starbucks China rolls out new store policy",
     "France\u2019s luxury stores board up windows ahead of fresh protests",
@@ -446,6 +440,12 @@
     "V\u00ec sao n\u00ean cho v\u00e0i gi\u1ecdt gi\u1ea5m v\u00e0o n\u1ed3i khi n\u1ea5u c\u01a1m? Bi\u1ebft c\u00f4ng d\u1ee5ng nhi\u1ec1u ng\u01b0\u1eddi s\u1ebd ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "TD Cowen maintains Hold rating on Tractor Supply, $36 price target - TradingView",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr"
+    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
+    "Zcash falls sharply as intensifying growth concerns weigh on the crypto market",
+    "Fan qu\u1ed1c t\u1ebf \"\u1ee5p v\u01b0\u01a1ng mi\u1ec7n\" cho VIP Vi\u1ec7t v\u00ec qu\u00e1 sung, H\u00e0 N\u1ed9i \u0111\u01b0\u1ee3c ch\u00ednh BIGBANG ",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "K+S Aktiengesellschaft (SDF) Reports Major Holdings Notification - TradingView",
+    "What next for France as riots rattle markets? Three questions facing investors a",
+    "White House lifts tariffs on some Canadian goods as midterm elections loom"
   ]
 }
