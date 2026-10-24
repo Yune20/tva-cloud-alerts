@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792837362.228263,
+  "last_signals": 1792837972.1019497,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792810431.0344856,
+    "Bitcoin|4H:bot": 1792837972.6413877,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792837364.126945,
-    "USD/JPY|1D:bot": 1792837364.7193327,
-    "JPY Index|1D:bot": 1792837365.341273
+    "GBP/USD|1D:top": 1792837973.1827574,
+    "USD/JPY|1D:bot": 1792837973.5469556,
+    "JPY Index|1D:bot": 1792837973.9358847
   },
-  "last_analysis": 1792837353.0969193,
-  "last_news": 1792837362.2274065,
+  "last_analysis": 1792837963.831288,
+  "last_news": 1792837972.100992,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
-    "Western Digital Q1 Earnings Call Highlights - TradingView",
-    "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Soli",
-    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    "PHP Foundation \u2019under-funded\u2019 with one full-time staff member, director says",
-    "US expected to remove 50% tariffs on some Canadian products as soon as today - r",
     "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
     "Just Eat apologises for AI food mistakes after social media ridicule",
     "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly si",
@@ -446,6 +440,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Brockhaus Technologies AG (BKHT) Discloses Insider Sale in Buyback Allocation - ",
     "This hot AI-fueled stock has been in a rut. It just beat earnings expectations b",
-    "Trump is pushing a massive AI buildout. His own voters are wary of what comes wi"
+    "Trump is pushing a massive AI buildout. His own voters are wary of what comes wi",
+    "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
+    "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
+    "Ph\u01b0\u01a1ng \u00e1n \u0111i\u1ec1u ch\u1ec9nh \u0111\u1ecba gi\u1edbi H\u00e0 N\u1ed9i - Ph\u00fa Th\u1ecd: T\u1ea7m nh\u00ecn t\u1eeb kh\u00f4ng gian ph\u00e1t tri\u1ec3",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Stocks Fall Sharply on Risk-Off as Meta Slides -7% - TradingView",
+    "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy "
   ]
 }
