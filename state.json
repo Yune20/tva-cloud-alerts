@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792817729.0902812,
+  "last_signals": 1792818351.522805,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792817730.0876088,
-    "USD/JPY|1D:bot": 1792817730.4477565,
-    "JPY Index|1D:bot": 1792817730.815035
+    "GBP/USD|1D:top": 1792818354.68445,
+    "USD/JPY|1D:bot": 1792818355.6826913,
+    "JPY Index|1D:bot": 1792818356.6663084
   },
-  "last_analysis": 1792817720.3345325,
-  "last_news": 1792817729.0893528,
+  "last_analysis": 1792818336.2451887,
+  "last_news": 1792818351.5219965,
   "seen_news": [
-    "Why is Cumberland Pharmaceuticals stock sliding today?",
-    "Dow leads stocks lower; small caps win the week",
-    "Ti\u1ebfn s\u0129 Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o v\u1eeba c\u00f3 th\u00eam 57 tri\u1ec7u USD, nh\u01b0ng kh\u00f4ng c\u00f2n l\u00e0 ng\u01b0\u1edd",
-    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "Apple's Most Expensive iPhone Sends Unexpected Signal - TradingView",
-    "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered pe",
     "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
     "Instacart in talks with DoorDash and Uber for sale, The Information reports",
     "investingLive Americas market news wrap: War worries boost oil to the highest si",
@@ -446,6 +440,12 @@
     "10-year Treasury yield drops back to 5% this week as investors seek cover from A",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-    "Bitcoin erases all the weekly gains as growth concerns lead to widespread risk a"
+    "Bitcoin erases all the weekly gains as growth concerns lead to widespread risk a",
+    "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got h",
+    "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "X-planes: Are they needed in the new era of drones?",
+    "Canada August retail sales +1.2% vs +1.3% expected",
+    "L\u1ea7n \u0111\u1ea7u ti\u00ean, Trung Qu\u1ed1c mang 'b\u00e1u v\u1eadt c\u00f4ng ngh\u1ec7 l\u1edbn nh\u1ea5t \u0110\u00f4ng Nam \u00c1' sang Vi\u1ec7t ",
+    "Tri\u1ec3n v\u1ecdng T\u00edn nhi\u1ec7m: Ngu\u1ed3n v\u1ed1n th\u1eaft ch\u1eb7t v\u00e0 \u00e1p l\u1ef1c d\u00f2ng ti\u1ec1n l\u00e0m gia t\u0103ng s\u1ef1 ph"
   ]
 }
