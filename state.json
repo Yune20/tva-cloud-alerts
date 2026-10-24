@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792839182.1757905,
+  "last_signals": 1792839840.5468624,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792839183.8286216,
-    "USD/JPY|1D:bot": 1792839184.3393118,
-    "JPY Index|1D:bot": 1792839184.8443267
+    "GBP/USD|1D:top": 1792839842.9403799,
+    "USD/JPY|1D:bot": 1792839843.6814864,
+    "JPY Index|1D:bot": 1792839844.461749
   },
-  "last_analysis": 1792839174.3554845,
-  "last_news": 1792839182.1749866,
+  "last_analysis": 1792839831.929733,
+  "last_news": 1792839840.5460339,
   "seen_news": [
-    "C\u0103n h\u1ed9 39m\u00b2 m\u00e0 nh\u00ecn nh\u01b0 60m\u00b2: Kh\u00f4ng ph\u1ea3i nh\u1edd \u00edt \u0111\u1ed3, m\u00e0 nh\u1edd c\u00e1ch s\u1eafp x\u1ebfp qu\u00e1 th\u00f4n",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Why Meta (META) shares are getting obliterated today - TradingView",
-    "France is flashing euro crisis signals. This time, the fault lines are different",
-    "The 'trillion pound' oil fund the government believes Britain could have built",
-    "India 40-year bond yield hits highest level since 2018",
     "Carnival Corporation Ltd. (CCL) Declares $0.15 Quarterly Dividend - TradingView",
     "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
     "The AI telling farmers when to harvest",
@@ -446,6 +440,12 @@
     "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
     "PHP Foundation \u2019under-funded\u2019 with one full-time staff member, director says",
     "US expected to remove 50% tariffs on some Canadian products as soon as today - r",
-    "\u0110\u1eebng chia s\u1ebb 3 \u0111i\u1ec1u n\u00e0y v\u1edbi b\u1ea5t k\u1ef3 ai, k\u1ec3 c\u1ea3 cha m\u1eb9, con c\u00e1i hay ng\u01b0\u1eddi \u0111\u1ea7u \u1ea5p ta"
+    "\u0110\u1eebng chia s\u1ebb 3 \u0111i\u1ec1u n\u00e0y v\u1edbi b\u1ea5t k\u1ef3 ai, k\u1ec3 c\u1ea3 cha m\u1eb9, con c\u00e1i hay ng\u01b0\u1eddi \u0111\u1ea7u \u1ea5p ta",
+    "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603",
+    "Th\u1ee7 m\u00f4n SN 1986 t\u1eebng kho\u00e1c \u00e1o \u0110T Vi\u1ec7t Nam c\u00f3 tin vui",
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "BW Energy: Long-Term Incentive Program \u2013 new awards - TradingView",
+    "Do machines have feelings? AI has philosophers and tech leaders rethinking consc",
+    "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback"
   ]
 }
