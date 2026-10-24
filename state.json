@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792811688.5986683,
+  "last_signals": 1792812251.2347069,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -81,7 +81,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792811689.5345592,
-    "USD/JPY|1D:bot": 1792811689.8495965,
-    "JPY Index|1D:bot": 1792811690.2040136
+    "GBP/USD|1D:top": 1792812253.5064552,
+    "USD/JPY|1D:bot": 1792812254.195521,
+    "JPY Index|1D:bot": 1792812254.9525099
   },
-  "last_analysis": 1792811636.0356925,
-  "last_news": 1792811688.5976126,
+  "last_analysis": 1792812244.1258788,
+  "last_news": 1792812251.233897,
   "seen_news": [
-    "Earnings macro week ahead: The Fed and Big Tech report on the same day",
-    "Ng\u01b0\u1eddi Vi\u1ec7t li\u00ean t\u1ee5c l\u1ecdt Top \u1ea3nh h\u01b0\u1edfng nh\u1ea5t th\u1ebf gi\u1edbi: L\u00e0 Ti\u1ebfn s\u0129 s\u1edf h\u1eefu h\u01a1n 7.300",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
-    "Universal Insurance Holdings Reports Q3 2026 Earnings of $1.80 per Share - Tradi",
-    "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
-    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
     "Netflix Stock Rises as Deutsche Bank Sends Bullish Message to Investors - Tradin",
     "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
@@ -446,6 +440,12 @@
     "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
     "B\u1ea5t b\u00ecnh cho \u0110\u00ecnh B\u1eafc",
     "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme"
+    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+    "CrowdStrike CEO's alarming prediction \u2014 plus, the sell-off spreads beyond tech",
+    "Burnham proposes plan to cut standing charges from gas bills",
+    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+    "Canada September PPI +2.0% m/m vs +1.3% prior",
+    "Tu\u1ea7n t\u1edbi, m\u1ed9t ng\u00e2n h\u00e0ng l\u0103n ch\u1ed1t tr\u1ea3 c\u1ed5 t\u1ee9c 50% - m\u1ee9c cao nh\u1ea5t ng\u00e0nh trong n\u0103m 2",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -"
   ]
 }
