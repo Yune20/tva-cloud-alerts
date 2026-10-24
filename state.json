@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792806367.854456,
+  "last_signals": 1792806976.7652988,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1792761187.2742255,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
-    "Bitcoin|4H:bot": 1792806368.8128655,
+    "Bitcoin|4H:bot": 1792806977.3345284,
     "EUR/USD|4H:bot": 1792767526.6147385,
     "Ethereum|1D:bot": 1792368154.280337,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,19 +140,13 @@
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1792108789.1603777,
     "DXY|4H:bot": 1792728878.9513156,
-    "GBP/USD|1D:top": 1792806369.7970545,
-    "USD/JPY|1D:bot": 1792806370.4259431,
-    "JPY Index|1D:bot": 1792806371.0549684
+    "GBP/USD|1D:top": 1792806977.9079394,
+    "USD/JPY|1D:bot": 1792806978.215001,
+    "JPY Index|1D:bot": 1792806978.5939388
   },
-  "last_analysis": 1792806359.5231729,
-  "last_news": 1792806367.8528566,
+  "last_analysis": 1792806970.490126,
+  "last_news": 1792806976.764381,
   "seen_news": [
-    "Economic data and Treasury auctions highlight Monday\u2019s schedule",
-    "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603",
-    "Sao Th\u1ee7y ngh\u1ecbch h\u00e0nh l\u1ea7n 3 t\u1eeb ng\u00e0y 24/10: 12 con gi\u00e1p c\u00f3 g\u1eb7p bi\u1ebfn \u0111\u1ed9ng g\u00ec?",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - L\u1ea1m ph\u00e1t t\u0103ng v\u1ecdt v\u01b0\u1ee3t 4.5%, M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t ti",
-    "POTOMAC BANCSHARES DECLARES QUARTERLY CASH DIVIDEND - TradingView",
-    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "N\u1ebfu \u0111\u01b0\u1ee3c quay l\u1ea1i tu\u1ed5i 35, t\u00f4i s\u1ebd m\u1edf s\u1ed5 ti\u1ebft ki\u1ec7m theo c\u00e1ch n\u00e0y thay v\u00ec \u0111\u1ec3 ti\u1ec1n ",
     "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Triumph Financial Q3 Earnings Call Highlights - TradingView",
@@ -446,6 +440,12 @@
     "C\u00e1c kho\u1ea3n chi \u0111\u01b0\u1ee3c tr\u1eeb khi x\u00e1c \u0111\u1ecbnh thu nh\u1eadp ch\u1ecbu thu\u1ebf thu nh\u1eadp doanh nghi\u1ec7p",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Brockhaus Technologies AG (BKHT) Discloses Insider Sale in Buyback Allocation - ",
-    "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy "
+    "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy ",
+    "Ng\u01b0\u1eddi d\u00e2n hay mua h\u00e0ng online ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t t\u1eeb c\u00f4ng  an",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Wedbush Drops Strong Verdict on Popular AI Cybersecurity Stock - TradingView",
+    "Investors are starting to find opportunities in the battered bond market",
+    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
+    "Democrat on US FCC urges broadcast industry to be more aggressive confronting th"
   ]
 }
