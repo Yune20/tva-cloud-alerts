@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792909603.2754886,
-  "last_bot4": 1792908997.8402452,
+  "last_bot4": 1792909922.3787737,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792908997.8401856
+    "Gold": 1792909922.3786924
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792909313.3861015,
+  "last_signals": 1792909922.3794749,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -64,9 +64,9 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792909315.1991286,
-    "JPY Index|1D:bot": 1792909315.7254403
+    "USD/JPY|1D:bot": 1792909925.1791894,
+    "JPY Index|1D:bot": 1792909925.8481312
   },
-  "last_analysis": 1792909305.2497792,
-  "last_news": 1792909313.3853548,
+  "last_analysis": 1792909911.8398075,
+  "last_news": 1792909920.3442118,
   "seen_news": [
-    "Ph\u00f3 T\u1ed5ng Gi\u00e1m \u0111\u1ed1c VietinBank d\u1ef1 b\u00e1o 3 n\u0103m t\u1edbi, c\u00f3 th\u1ec3 m\u1ed9t n\u1eeda giao d\u1ecbch ng\u00e2n h\u00e0n",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
-    "Brookdale Announces Third Quarter 2026 Earnings Release and Conference Call - Tr",
-    "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure ",
-    "What is PHP and why did it spark a global cyber-security scramble?",
-    "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
     "Brockhaus Technologies AG (BKHT) Reports Major Holdings Notification - TradingVi",
     "Moody's holds steady on France's credit rating as country grapples with turmoil ",
@@ -446,6 +440,12 @@
     "T\u00e2y T\u1ea1ng k\u1ef3 b\u00ed: V\u00ec sao kh\u00e1ch du l\u1ecbch th\u1edf oxy, ng\u01b0\u1eddi d\u00e2n b\u1ea3n \u0111\u1ecba v\u1eabn s\u1ed1ng kh\u1ecfe",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "TRON Released GreatVoyage-V4.8.2.4 (Empedocles) - TradingView",
-    "What next for France as riots rattle markets? Three questions facing investors a"
+    "What next for France as riots rattle markets? Three questions facing investors a",
+    "1 chi\u1ebfc l\u00e1 3 c\u00f4ng d\u1ee5ng: \u0110em pha n\u01b0\u1edbc th\u00e0nh \"thu\u1ed1c b\u1ed5 ph\u1ed5i\", m\u1eaft s\u00e1ng, gan kho\u1ebb m",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "TD Cowen maintains Hold rating on Tractor Supply, $36 price target - TradingView",
+    "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuabl",
+    "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand"
   ]
 }
