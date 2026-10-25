@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792948641.9314997,
+  "last_signals": 1792949249.0540056,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792948643.3097987,
-    "JPY Index|1D:bot": 1792948643.7041848
+    "USD/JPY|1D:bot": 1792949250.4927447,
+    "JPY Index|1D:bot": 1792949250.8195677
   },
   "last_analysis": 1792948951.6849854,
-  "last_news": 1792948641.9307475,
+  "last_news": 1792949249.0531452,
   "seen_news": [
-    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
-    "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate cer",
-    "Will a new code end 'rip-off parking charges'?",
-    "Street Calls of the Week",
-    "Canada September PPI +2.0% m/m vs +1.3% prior",
-    "Ch\u00ednh ph\u1ee7 Anh c\u00f4ng b\u1ed1 g\u00f3i ng\u00e2n s\u00e1ch t\u1eadp trung cho an to\u00e0n AI",
     "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
     "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
     "BofA sees Norwegian krone weakening against Swedish krona",
@@ -446,6 +440,12 @@
     "Trump says he ordered DOJ suit to block Alaska Senate race certification if Repu",
     "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
     "India 40-year bond yield hits highest level since 2018",
-    "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603"
+    "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603",
+    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
+    "Biggest earnings week ahead: Can Microsoft, Alphabet and Amazon turn the Nasdaq ",
+    "Lo\u1ea1t m\u00e1y bay \"m\u1edbi 99%\" b\u1ecb k\u00e9o \u0111i x\u1ebb th\u1ecbt l\u1ea5y s\u1eaft v\u1ee5n: Bi k\u1ecbch n\u00e0o \u1edf ph\u00eda sau?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance"
   ]
 }
