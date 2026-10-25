@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792920464.3542154,
+  "last_news_report": 1792931411.4556913,
   "last_bot4": 1792931085.1449912,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792930797.287714,
+  "last_signals": 1792931411.456678,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792930799.9699528,
-    "JPY Index|1D:bot": 1792930800.6414766
+    "USD/JPY|1D:bot": 1792931412.7300022,
+    "JPY Index|1D:bot": 1792931413.041745
   },
-  "last_analysis": 1792930790.387176,
-  "last_news": 1792930797.2869484,
+  "last_analysis": 1792931399.8930686,
+  "last_news": 1792931407.2659404,
   "seen_news": [
-    "H\u1ed3 T\u00e2y th\u1ebf m\u00e0 l\u1ea1i hay: To\u00e0n idol K-pop thi nhau ch\u1ea1y b\u1ed9, gi\u1edd \u0111\u1ebfn l\u01b0\u1ee3t Taeyang BI",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
-    "Rosenblatt maintains Buy rating on Comcast, $31 price target - TradingView",
-    "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-    "Tank barrel production returns to UK after 20 years",
-    "Netanyahu explores crypto to bypass potential sanctions",
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
     "Tezos Opened Quantumnet for Testing - TradingView",
     "America by the numbers: How voters feel about the economy, inflation, AI and Tru",
@@ -446,6 +440,12 @@
     "C\u00f3 500 tri\u1ec7u g\u1eedi BIDV, VietinBank, Vietcombank, Agribank, SHB, BAC A Bank: L\u00e3i t",
     "SZC: CTCP Sonadezi Ch\u00e2u \u0110\u1ee9c - SZC - VietstockFinance",
     "Moderna Stock Slides Again Friday: What's Going On? - TradingView",
-    "Why economic health no longer dictates stock-market returns"
+    "Why economic health no longer dictates stock-market returns",
+    "Goldman Sachs raised to Buy at Freedom Broker - TradingView",
+    "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mu",
+    "The grads ditching the UK for a fresh start abroad",
+    "Policy choices will matter crucially amid growing socioeconomic challenges",
+    "investingLive Americas market news wrap: War worries boost oil to the highest si",
+    "H\u00e0ng ngh\u00ecn ng\u01b0\u1eddi s\u0103n qu\u00e0 t\u1eeb c\u00e1c ng\u00e2n h\u00e0ng t\u1ea1i S\u00f3ng Festival 2026"
   ]
 }
