@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792937452.7625816,
+  "last_signals": 1792938048.7125158,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792937455.3417184,
-    "JPY Index|1D:bot": 1792937455.9502103
+    "USD/JPY|1D:bot": 1792938050.0709167,
+    "JPY Index|1D:bot": 1792938050.4324937
   },
   "last_analysis": 1792937756.7841704,
-  "last_news": 1792937450.5650406,
+  "last_news": 1792938048.7115586,
   "seen_news": [
-    "Bella Protocol to Be Integrated With Decentrawood - TradingView",
-    "Walmart, Best Buy and other stores now use digital price tags. Critics say they ",
-    "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-    "No order, no seat: Starbucks China rolls out new store policy",
-    "France\u2019s luxury stores board up windows ahead of fresh protests",
-    "Why the market senses a weekend Iran escalation and what happens next",
     "Is an 'AI war' complicating your job search?",
     "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
     "Abuse survivors approve $800 million settlement with Archdiocese of New York",
@@ -446,6 +440,12 @@
     "Retail investors are not more sophisticated than 30 years ago, says former hedge",
     "Rosebank: Life on the oil field at the centre of a political storm",
     "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
-    "UK\u2019s Rayner says no Brexit reopening as Burnham floats EU free movement"
+    "UK\u2019s Rayner says no Brexit reopening as Burnham floats EU free movement",
+    "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+    "Ki\u1ec3m tra \u0111\u1ed9t xu\u1ea5t m\u1ed9t doanh nghi\u1ec7p trong khu c\u00f4ng nghi\u1ec7p",
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
+    "TRON Released GreatVoyage-V4.8.2.4 (Empedocles) - TradingView",
+    "In pictures: Initially peaceful protests across France over inequality again des",
+    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f"
   ]
 }
