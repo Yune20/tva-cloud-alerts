@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792931411.4556913,
-  "last_bot4": 1792937452.7618625,
+  "last_bot4": 1792938381.087746,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792937452.7617705
+    "Gold": 1792938381.087667
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792938048.7125158,
+  "last_signals": 1792938381.0884051,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792938050.0709167,
-    "JPY Index|1D:bot": 1792938050.4324937
+    "USD/JPY|1D:bot": 1792938383.2841458,
+    "JPY Index|1D:bot": 1792938383.7826836
   },
-  "last_analysis": 1792937756.7841704,
-  "last_news": 1792938048.7115586,
+  "last_analysis": 1792938369.3812454,
+  "last_news": 1792938379.020267,
   "seen_news": [
-    "Is an 'AI war' complicating your job search?",
-    "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
-    "Abuse survivors approve $800 million settlement with Archdiocese of New York",
-    "UK retail sales fall more than expected in September, complicating BOE rate hike",
-    "C\u00f4ng ty con c\u1ee7a H\u00f3a ch\u1ea5t \u0110\u1ee9c Giang (DGC) b\u00e1o l\u00e3i qu\u00fd 3/2026 gi\u1ea3m 46% so v\u1edbi c\u00f9ng",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "Middle East Physical Crude Slides While Brent Hits Five-Month High",
     "UK immigration crackdown threatens \u00a315 billion care sector - Bloomberg",
     "US stocks are mixed, but weak breadth keeps the recovery in question",
@@ -446,6 +440,12 @@
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "TRON Released GreatVoyage-V4.8.2.4 (Empedocles) - TradingView",
     "In pictures: Initially peaceful protests across France over inequality again des",
-    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f"
+    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
+    "NS\u01afT Kim T\u1eed Long \u0111ang \u0111i, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng SN 1974 ch\u1eb7n l\u1ea1i",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "BP, Louisiana agree to Deepwater Horizon settlement payout, resolve coastal case",
+    "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+    "No order, no seat: Starbucks China rolls out new store policy",
+    "Oil India Strikes Natural Gas in Shallow Offshore Basin"
   ]
 }
