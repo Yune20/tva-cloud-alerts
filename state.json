@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792917661.1820037,
+  "last_signals": 1792918278.500387,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792917662.5106192,
-    "JPY Index|1D:bot": 1792917662.8362753
+    "USD/JPY|1D:bot": 1792918280.5989227,
+    "JPY Index|1D:bot": 1792918281.1210563
   },
-  "last_analysis": 1792917654.2462053,
-  "last_news": 1792917661.1811,
+  "last_analysis": 1792918268.4464974,
+  "last_news": 1792918278.4994848,
   "seen_news": [
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-    "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
-    "UK unveils $800 million AI security funding plan",
-    "European stocks post weekly losses. French yields climb. Brent above $117/crude ",
-    "Kh\u00f4ng c\u00f3 ti\u1ec1n mua nh\u00e0, \u1edf thu\u00ea 5 tri\u1ec7u/th\u00e1ng: \u0110\u00f3ng ch\u1eadm 4 ng\u00e0y \u0111\u00e3 b\u1ecb \u0111\u00e1 ra \u0111\u01b0\u1eddng",
     "'I wasn't thinking straight' says five jobs civil servant",
     "U.S. Rig Count Holds Steady as Oil Prices Surge",
     "UK\u2019s Healey to give two state-backed lenders \u00a320 billion capital boost in budget",
@@ -446,6 +440,12 @@
     "Spain battles climate change on several fronts",
     "Yemen\u2019s Houthis renew threat against Riyadh airport as flights set to resume",
     "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation d",
-    "XSMN 25/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 25 th\u00e1ng 10"
+    "XSMN 25/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam ng\u00e0y 25 th\u00e1ng 10",
+    "The Indian workers filming their work to train AI",
+    "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+    "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
+    "Ph\u00e1t hi\u1ec7n sinh v\u1eadt s\u1ed1ng th\u1ecd \u0111\u1ebfn kh\u00f3 tin tr\u00ean Tr\u00e1i \u0111\u1ea5t: \u01af\u1edbc t\u00ednh tu\u1ed5i \u0111\u1eddi l\u00ean t\u1edbi",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Unbuzzd Wellness Inc. Raises $1.08M in Private Placement - TradingView"
   ]
 }
