@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792950448.4638484,
+  "last_signals": 1792951068.0397696,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792950450.0554075,
-    "JPY Index|1D:bot": 1792950450.3929625
+    "USD/JPY|1D:bot": 1792951069.6599464,
+    "JPY Index|1D:bot": 1792951070.0547764
   },
-  "last_analysis": 1792950710.3603444,
-  "last_news": 1792950448.4630857,
+  "last_analysis": 1792951060.0555835,
+  "last_news": 1792951068.0389535,
   "seen_news": [
-    "N\u00f3ng: Chu\u1ed7i ph\u00f2ng t\u1eadp California t\u1ea1m d\u1eebng to\u00e0n b\u1ed9 c\u00e1c c\u01a1 s\u1edf t\u1ea1i H\u00e0 N\u1ed9i",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Citi Revamps Palantir Stock Price Target for 2027 - TradingView",
-    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
-    "Rainmakers: The drones used to seed clouds",
-    "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
     "Solayer Pay Adds Five Blockchain Networks For Direct Stablecoin Card Deposits - ",
     "Why popular airplanes are getting scrapped years early",
     "The AI telling farmers when to harvest",
@@ -446,6 +440,12 @@
     "Bio Essence elects Thea Zhang and Geoff Fellows to its board - TradingView",
     "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
-    "Will a new code end 'rip-off parking charges'?"
+    "Will a new code end 'rip-off parking charges'?",
+    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+    "BofA sees Norwegian krone weakening against Swedish krona",
+    "Record ETF Inflows, Yet Stock Market Leadership Is Shifting. What's Going On?",
+    "Doanh nghi\u1ec7p th\u00e9p b\u1ecb m\u1edf th\u1ee7 t\u1ee5c ph\u00e1 s\u1ea3n, MB rao b\u00e1n nh\u00e0 m\u00e1y luy\u1ec7n gang r\u1ed9ng h\u01a1n ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
+    "Innventure Disclosed Failure to Satisfy a Continued Listing Rule or Standard - T"
   ]
 }
