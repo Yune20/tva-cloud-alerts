@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792928557.7812254,
+  "last_signals": 1792929163.5185208,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -64,10 +64,10 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792928559.631782,
-    "JPY Index|1D:bot": 1792928560.0790632
+    "USD/JPY|1D:bot": 1792929166.062407,
+    "JPY Index|1D:bot": 1792929166.6714292
   },
-  "last_analysis": 1792928550.3944004,
-  "last_news": 1792928557.7802947,
+  "last_analysis": 1792929154.6449618,
+  "last_news": 1792929163.5176125,
   "seen_news": [
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
-    "UK's Healey to give two state-backed lenders \u00a320 billion capital boost in budget",
-    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
-    "Fuel Oil Becomes Asia\u2019s Next Cost Shock",
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
     "NZDUSD buyers are trying to make a play. The 38.2% retracement remains the next ",
     "Tin m\u1edbi v\u1ee5 mua \u0111\u1eb7c s\u1ea3n kh\u00e2u nh\u1ee5c L\u1ea1ng S\u01a1n tr\u00ean m\u1ea1ng, nh\u1eadn v\u1ec1 c\u1ee5c x\u01b0\u01a1ng ch\u00e2n gi\u00f2",
     "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "Over $815M in crypto positions liquidated as Bitcoin, Ether prices drop - Tradin",
     "My husband wants to sell our $1.5 million home and invest the proceeds. But this",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr"
+    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
+    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
+    "Gold set for second weekly loss as oil-fuelled inflation concerns bolster Fed hi",
+    "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink ",
+    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
+    "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie"
   ]
 }
