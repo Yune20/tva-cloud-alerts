@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792907298.057679,
+  "last_signals": 1792907865.9261253,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792907300.8550346,
-    "JPY Index|1D:bot": 1792907301.6148868
+    "USD/JPY|1D:bot": 1792907867.8820143,
+    "JPY Index|1D:bot": 1792907868.3369577
   },
-  "last_analysis": 1792907289.3776062,
-  "last_news": 1792907298.0568411,
+  "last_analysis": 1792907857.3523562,
+  "last_news": 1792907865.92534,
   "seen_news": [
-    "Triumph Financial Q3 Earnings Call Highlights - TradingView",
-    "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung",
-    "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-    "Why Trump and Carney Haven\u2019t Touched Energy in Their Tariff War",
-    "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered c",
-    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
     "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times repo",
     "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control",
     "V\u00ec sao n\u00ean cho v\u00e0i gi\u1ecdt gi\u1ea5m v\u00e0o n\u1ed3i khi n\u1ea5u c\u01a1m? Bi\u1ebft c\u00f4ng d\u1ee5ng nhi\u1ec1u ng\u01b0\u1eddi s\u1ebd ",
@@ -446,6 +440,12 @@
     "Sau 5 n\u0103m \"\u0111\u1ed5 v\u1ee1\" v\u1edbi nh\u00e0 th\u1ea7u Trung Qu\u1ed1c, si\u00eau s\u00e2n bay 11 t\u1ef7 USD t\u1ea1i qu\u1ed1c gia l",
     "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "What SLB (SLB) Said on Its Q3 Earnings Call - TradingView",
-    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. "
+    "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. ",
+    "Adtran Holdings, Inc. (ADTN) Receives BlackRock Voting Rights Notification - Tra",
+    "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom",
+    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
+    "Gold breaks below $4,000 target area before bouncing. What do buyers need to pro"
   ]
 }
