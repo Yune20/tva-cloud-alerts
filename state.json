@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792907865.9261253,
+  "last_signals": 1792908406.963049,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792907867.8820143,
-    "JPY Index|1D:bot": 1792907868.3369577
+    "USD/JPY|1D:bot": 1792908412.627854,
+    "JPY Index|1D:bot": 1792908413.3755152
   },
-  "last_analysis": 1792907857.3523562,
-  "last_news": 1792907865.92534,
+  "last_analysis": 1792908397.5899997,
+  "last_news": 1792908406.9624822,
   "seen_news": [
-    "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times repo",
-    "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control",
-    "V\u00ec sao n\u00ean cho v\u00e0i gi\u1ecdt gi\u1ea5m v\u00e0o n\u1ed3i khi n\u1ea5u c\u01a1m? Bi\u1ebft c\u00f4ng d\u1ee5ng nhi\u1ec1u ng\u01b0\u1eddi s\u1ebd ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "TD Cowen maintains Hold rating on Tractor Supply, $36 price target - TradingView",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
     "Zcash falls sharply as intensifying growth concerns weigh on the crypto market",
     "Fan qu\u1ed1c t\u1ebf \"\u1ee5p v\u01b0\u01a1ng mi\u1ec7n\" cho VIP Vi\u1ec7t v\u00ec qu\u00e1 sung, H\u00e0 N\u1ed9i \u0111\u01b0\u1ee3c ch\u00ednh BIGBANG ",
     "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
@@ -446,6 +440,12 @@
     "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
     "How the oil capital of the US welcomed a solar power boom",
     "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
-    "Gold breaks below $4,000 target area before bouncing. What do buyers need to pro"
+    "Gold breaks below $4,000 target area before bouncing. What do buyers need to pro",
+    "JetBlue creditors hire restructuring advisors as bonds, stock drops - WSJ - Trad",
+    "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung",
+    "Four ways Labour could raise money in the Budget without hiking income tax",
+    "Why Trump and Carney Haven\u2019t Touched Energy in Their Tariff War",
+    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
+    "\u0110\u1ec1 xu\u1ea5t nh\u00e2n t\u00e0i \u0111\u01b0\u1ee3c l\u1ef1a ch\u1ecdn c\u1ed9ng s\u1ef1, quy\u1ebft \u0111\u1ecbnh m\u1ee9c l\u01b0\u01a1ng th\u01b0\u1edfng"
   ]
 }
