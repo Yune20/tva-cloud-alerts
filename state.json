@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792913621.0823636,
+  "last_signals": 1792913977.4287398,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -64,7 +64,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792913622.4233432,
-    "JPY Index|1D:bot": 1792913622.7216752
+    "USD/JPY|1D:bot": 1792913979.2802122,
+    "JPY Index|1D:bot": 1792913979.7272608
   },
-  "last_analysis": 1792913614.422832,
-  "last_news": 1792913621.080827,
+  "last_analysis": 1792913968.792062,
+  "last_news": 1792913977.4278753,
   "seen_news": [
-    "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your brea",
-    "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNB",
-    "How long will humans be needed for translation?",
-    "Heads up: UK retail sales to test the case for further BOE rate hikes",
-    "Th\u00e1ng 10-11, gieo 3 lo\u1ea1i rau n\u00e0y, ch\u1ec9 7 -14 ng\u00e0y \u0111\u00e3 c\u00f3 rau \u0103n, ph\u00f9 h\u1ee3p tr\u1ed3ng t\u1ea1i",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "US initial jobless claims 194K vs 200K estimate. Better than expected.",
     "M\u1ed9t s\u00e2n bay m\u1edf \u0111\u01b0\u1eddng b\u0103ng m\u1edbi ngay tr\u00ean bi\u1ec3n, di\u1ec7n t\u00edch t\u01b0\u01a1ng \u0111\u01b0\u01a1ng 900 s\u00e2n b\u00f3ng",
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
@@ -446,6 +440,12 @@
     "US stocks are mixed, but weak breadth keeps the recovery in question",
     "80 n\u0103m \u0111\u1ed5 v\u1ee1 c\u1ee7a m\u00f4 h\u00ecnh th\u1ebb gym d\u00e0i h\u1ea1n: Th\u1ef1c ch\u1ea5t l\u00e0 cho doanh nghi\u1ec7p vay ti\u1ec1n",
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "Brockhaus Technologies AG (BKHT) Reports Major Holdings Notification - TradingVi"
+    "Brockhaus Technologies AG (BKHT) Reports Major Holdings Notification - TradingVi",
+    "Living with a stink? Technology might help",
+    "Trump: The question is, do we want to finish Iran war or let it wither",
+    "M\u1ef9: N\u1ed5 t\u1ea1i nh\u00e0 m\u00e1y ch\u1ebf bi\u1ebfn ng\u0169 c\u1ed1c l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi",
+    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall Ahead of Global ",
+    "Moody's holds steady on France's credit rating as country grapples with turmoil "
   ]
 }
