@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792909603.2754886,
-  "last_bot4": 1792911443.7405927,
+  "last_bot4": 1792912087.836291,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792911762.382877,
+  "last_signals": 1792912087.8372924,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792911764.912962,
-    "JPY Index|1D:bot": 1792911765.5331311
+    "USD/JPY|1D:bot": 1792912089.8078148,
+    "JPY Index|1D:bot": 1792912090.273795
   },
-  "last_analysis": 1792911752.5365212,
-  "last_news": 1792911762.382072,
+  "last_analysis": 1792912078.393065,
+  "last_news": 1792912087.835341,
   "seen_news": [
-    "C\u1eaft \u0111\u00f4i qu\u1ea3 chanh r\u1ed3i \"b\u00f4i kh\u1eafp nh\u00e0\": Nh\u1eefng hi\u1ec7u qu\u1ea3 \"v\u00e0ng m\u01b0\u1eddi\" s\u1ebd khi\u1ebfn b\u1ea1n b\u1ea5",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "Norsk Hydro Q3 2026 Earnings Call Is Live - TradingView",
-    "Walmart, Best Buy and other stores now use digital price tags. Critics say they ",
-    "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-    "No order, no seat: Starbucks China rolls out new store policy",
     "Ethereum delays Glamsterdam Hoodi testnet launch over security risks - TradingVi",
     "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
     "Is an 'AI war' complicating your job search?",
@@ -446,6 +440,12 @@
     "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "EASYJET PLC (EZJ): Morgan Stanley Falls Below 5% Threshold - TradingView",
     "Retail investors are not more sophisticated than 30 years ago, says former hedge",
-    "Rosebank: Life on the oil field at the centre of a political storm"
+    "Rosebank: Life on the oil field at the centre of a political storm",
+    "T\u1ea1m b\u00e0n giao m\u1eb7t b\u1eb1ng l\u00e0m c\u00f4ng vi\u00ean B\u1ebfn Nh\u00e0 R\u1ed3ng - Kh\u00e1nh H\u1ed9i",
+    "VRE: CTCP Vincom Retail - VINCOM RETAIL.,JSC - VietstockFinance",
+    "Zevia Raises $15 Million, With Up to $5 Million More, From Bubble Holdings - Tra",
+    "American embassies tighten security as Iran threat warnings intensify ahead of U",
+    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
+    "Oil India Strikes Natural Gas in Shallow Offshore Basin"
   ]
 }
