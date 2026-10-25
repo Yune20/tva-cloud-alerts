@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792909603.2754886,
-  "last_bot4": 1792918563.5958028,
+  "last_bot4": 1792919259.7274346,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792917954.3237228
+    "Gold": 1792919259.7273436
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792918888.0572886,
+  "last_signals": 1792919259.7281275,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792918889.328631,
-    "JPY Index|1D:bot": 1792918889.6821635
+    "USD/JPY|1D:bot": 1792919262.5826976,
+    "JPY Index|1D:bot": 1792919263.2167578
   },
-  "last_analysis": 1792918881.9571693,
-  "last_news": 1792918888.0563235,
+  "last_analysis": 1792919249.126127,
+  "last_news": 1792919257.5857701,
   "seen_news": [
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Why are more roofs not made of solar tiles?",
-    "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
-    "Robot h\u1ed9 v\u1ec7 g\u00e2y ch\u00fa \u00fd v\u1edbi m\u00e0n t\u01b0\u1edbc dao, n\u00e2ng \u00f4 t\u00f4 gi\u1ea3i c\u1ee9u ng\u01b0\u1eddi",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Rogers Communication Q3 Earnings Call Highlights - TradingView",
     "\u0110\u01b0\u1eddng s\u1eaft t\u1ed1c \u0111\u1ed9 cao B\u1eafc - Nam c\u1ea7n 700-900 c\u00e1n b\u1ed9 qu\u1ea3n l\u00fd, ch\u1ee7 \u0111\u1ea7u t\u01b0 cho bi\u1ebft k",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Bybit Wins Dubai VARA Approval For Spot Crypto Exchange Services - TradingView",
@@ -446,6 +440,12 @@
     "Vietnam strategy report - VietstockFinance",
     "Canopy Growth Shareholders Approve Reverse Split Authority, Elect Board - Tradin",
     "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet"
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+    "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+    "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dil",
+    "XSMT 25/10 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 25 th\u00e1ng 10",
+    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance"
   ]
 }
