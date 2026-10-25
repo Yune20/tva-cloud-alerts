@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792931411.4556913,
-  "last_bot4": 1792935202.705673,
+  "last_bot4": 1792935887.2803507,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792934558.726041
+    "Gold": 1792935887.2802854
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792935461.4890847,
+  "last_signals": 1792935887.2813902,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792935462.9733603,
-    "JPY Index|1D:bot": 1792935463.3051465
+    "USD/JPY|1D:bot": 1792935890.483777,
+    "JPY Index|1D:bot": 1792935891.1555169
   },
-  "last_analysis": 1792935454.6674433,
-  "last_news": 1792935461.488091,
+  "last_analysis": 1792935877.5124712,
+  "last_news": 1792935885.3051991,
   "seen_news": [
-    "Lights will stay on this winter, grid operator says after concerns",
-    "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-    "Why South Korea\u2019s stock market represents the purest AI trade",
-    "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since De",
-    "T\u1ec9nh s\u1edf h\u1eefu s\u00e2n v\u1eadn \u0111\u1ed9ng 22.000 ch\u1ed7 ng\u1ed3i l\u1edbn nh\u1ea5t mi\u1ec1n n\u00fai ph\u00eda B\u1eafc ti\u1ebfp t\u1ee5c x\u00e2y",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
     "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
     "UAE closes more beaches as Gulf oil spill raises environmental concerns",
     "AUDUSD recovery runs into the 100-day moving average. What next?",
@@ -446,6 +440,12 @@
     "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
     "White House lifts tariffs on some Canadian goods as midterm elections loom",
     "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-    "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control"
+    "USDCAD falls below 1.4000 as stronger Canadian spending keeps sellers in control",
+    "How have interest rate expectations changed after this week's events?",
+    "Phim Vi\u1ec7t quy t\u1ee5 d\u00e0n cast kh\u1ee7ng c\u1ee1 n\u00e0y ai l\u00e0m l\u1ea1i: To\u00e0n nam th\u1ea7n tr\u0103m t\u1ef7, Ho\u00e0i L",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "Blue Ribbon Income Fund Sets $0.04 Monthly Distribution - TradingView",
+    "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuabl",
+    "What is PHP and why did it spark a global cyber-security scramble?"
   ]
 }
