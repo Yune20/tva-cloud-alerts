@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792965459.8797216,
+  "last_signals": 1792966060.489611,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792965453.9067783,
-  "last_news": 1792965459.8788395,
+  "last_analysis": 1792966052.9409637,
+  "last_news": 1792966060.48863,
   "seen_news": [
-    "US stocks are mixed, but weak breadth keeps the recovery in question",
-    "K\u1ebft qu\u1ea3 th\u1eed nghi\u1ec7m vaccine ung th\u01b0 h\u1eafc t\u1ed1",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "Amazon cloud capacity sold out through 2027, CEO Jassy says - TradingView",
-    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-    "People in China are spending nearly as much of their income as Americans on heal",
     "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
     "Trump: The question is, do we want to finish Iran war or let it wither",
     "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a LyLy",
@@ -446,6 +440,12 @@
     "UK\u2019s Rayner says no Brexit reopening as Burnham floats EU free movement",
     "Economic and event calendar in Asia Monday, October 26, 2026 - RBA speaker soon",
     "Sam Altman: AI \u0111ang t\u00ecm ra nh\u1eefng l\u1ed7 h\u1ed5ng v\u01b0\u1ee3t ngo\u00e0i s\u1ee9c t\u01b0\u1edfng t\u01b0\u1ee3ng c\u1ee7a hacker",
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance"
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "Is an 'AI war' complicating your job search?",
+    "Strategy bitcoin purchases shrink as buybacks take priority ahead of earnings",
+    "C\u00f4 d\u00e2u c\u1ee7a Qu\u00e2n A.P l\u00e0 ai?",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019 - TradingVi",
+    "American embassies tighten security as Iran threat warnings intensify ahead of U"
   ]
 }
