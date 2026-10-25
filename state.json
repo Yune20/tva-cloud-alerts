@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792966484.4895084,
+  "last_signals": 1792966839.5632515,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -60,7 +60,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -119,7 +119,7 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792761187.2742255,
+    "USOIL|4H:top": 1792966839.9414694,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792966476.3088548,
-  "last_news": 1792966484.4878266,
+  "last_analysis": 1792966830.51169,
+  "last_news": 1792966839.5622785,
   "seen_news": [
-    "Should you travel together? Ask these questions before booking: 'It'll save you ",
-    "Are California voters about to impose 'world's first' tax on billionaires?",
-    "UK immigration crackdown threatens \u00a315 billion care sector - Bloomberg",
-    "Why the market senses a weekend Iran escalation and what happens next",
-    "B\u1ea5t ng\u1edd ph\u00e1t hi\u1ec7n qu\u1ea7y h\u00e0ng Vi\u1ec7t gi\u1eefa Lotte Mall l\u1edbn nh\u1ea5t H\u00e0n Qu\u1ed1c",
-    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Chuy\u1ec7n ch\u01b0a k\u1ec3 v\u1ec1 th\u1ea7y tr\u00f2 nh\u1eadn Hu\u00e2n ch\u01b0\u01a1ng Lao \u0111\u1ed9ng h\u1ea1ng Nh\u00ec",
     "HDB: Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HDBank - VietstockFinance",
     "Key facts: TSLA cuts capex $20B; Q rev flat, income -56%; 75% paid FSD - Trading",
@@ -446,6 +440,12 @@
     "Bitcoin buyers are fighting back, but sellers aren't finished. Here are the two ",
     "B\u1ed9 X\u00e2y d\u1ef1ng: Ph\u00ed v\u00ed \u0111i\u1ec7n t\u1eed kh\u00f4ng ph\u1ea3i ph\u00ed duy tr\u00ec t\u00e0i kho\u1ea3n giao th\u00f4ng",
     "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "Amazon cloud capacity sold out through 2027, CEO Jassy says - TradingView"
+    "Amazon cloud capacity sold out through 2027, CEO Jassy says - TradingView",
+    "Preview: RBNZ set to lift OCR to 3% ahead of election as oil and weak kiwi fuel ",
+    "Tri\u1ec7t ph\u00e1 \u0111\u01b0\u1eddng d\u00e2y l\u1eeba \u0111\u1ea3o h\u01a1n 400 t\u1ef7 th\u00f4ng qua n\u1ec1n t\u1ea3ng AI Livestream Tatao Li",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Trump announces Audi will build $4 billion US factory in Georgia - TradingView",
+    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "I paid off $11,000 of credit card debt in 18 months while still traveling, shopp"
   ]
 }
