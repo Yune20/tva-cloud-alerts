@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792893460.725402,
+  "last_signals": 1792893782.081792,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792893462.9570487,
-    "JPY Index|1D:bot": 1792893463.461086
+    "USD/JPY|1D:bot": 1792893784.0327418,
+    "JPY Index|1D:bot": 1792893784.5150402
   },
-  "last_analysis": 1792893169.8709342,
-  "last_news": 1792893460.7248197,
+  "last_analysis": 1792893774.077404,
+  "last_news": 1792893782.0808785,
   "seen_news": [
-    "US expected to remove 50% tariffs on some Canadian products as soon as today - r",
-    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 25/10: Ch\u1ee9ng kho\u00e1n lao d\u1ed1c, ng\u00e0nh th\u00e9p \u0111\u1ed5i chi\u1ec1u, ",
-    "NT2: CTCP \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Nh\u01a1n Tr\u1ea1ch 2 - PVPOWER NT2 - VietstockFinance",
-    "SuperRare to Release GIFcraft Collection on October 26th - TradingView",
-    "Biotech stocks are surging. How investors can play the new drug innovation boom",
-    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
     "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "BW Energy: Long-Term Incentive Program \u2013 new awards - TradingView",
     "Trump says he ordered DOJ suit to block Alaska Senate race certification if Repu",
@@ -446,6 +440,12 @@
     "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy ",
     "The virtual worlds where robots are trained",
     "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
-    "UK October flash services PMI 53.1 vs 51.8 expected"
+    "UK October flash services PMI 53.1 vs 51.8 expected",
+    "First Citizens BancShares Declares Dividends - TradingView",
+    "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Soli",
+    "Websites taken down worldwide as critical cyber-security update issued",
+    "Chinese equities face prolonged downturn as earnings forecasts tumble",
+    "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
+    "Campuchia c\u00f4ng b\u1ed1 d\u1eef li\u1ec7u m\u1edbi, m\u1ed9t con s\u1ed1 gi\u1ea3m 11%: B\u1ee9c tranh ph\u00eda sau c\u00f3 g\u00ec \u0111\u00e1n"
   ]
 }
