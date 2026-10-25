@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792927305.4632535,
+  "last_signals": 1792927654.8277037,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792927307.3408563,
-    "JPY Index|1D:bot": 1792927307.763385
+    "USD/JPY|1D:bot": 1792927656.0697088,
+    "JPY Index|1D:bot": 1792927656.360566
   },
-  "last_analysis": 1792927295.52208,
-  "last_news": 1792927303.6914594,
+  "last_analysis": 1792927648.8777766,
+  "last_news": 1792927654.826733,
   "seen_news": [
-    "Morgan Stanley tops estimates as equities trading revenue beats expectations by ",
-    "Rising demand from families needing Christmas help",
-    "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
-    "Houthis launch broad assault on Saudi sites as U.S. warns of Iranian plots",
-    "Trump: We may do another operation against Iran",
-    "B\u1ed9 X\u00e2y d\u1ef1ng: Doanh nghi\u1ec7p thu ph\u00ed kh\u00f4ng d\u1eebng ch\u01b0a l\u00e0m r\u00f5 \u0111\u1ea7y \u0111\u1ee7 b\u1ea3n ch\u1ea5t kho\u1ea3n p",
     "Tr\u0103m tri\u1ec7u c\u1ed5 phi\u1ebfu s\u1eafp l\u00ean s\u00e0n HoSE",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t ph\u1ee7 b\u00f3ng l\u00ean t\u0103ng tr\u01b0\u1edfng kinh t\u1ebf - VietstockFinan",
     "Nvidia Explores Former Nuclear Sites for AI Data Centers - TradingView",
@@ -446,6 +440,12 @@
     "The AI telling farmers when to harvest",
     "Recent labor market data show some signs of AI-related hiring headwinds",
     "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
-    "Tr\u1ebb sinh v\u00e0o 3 th\u00e1ng n\u00e0y th\u01b0\u1eddng c\u00f3 l\u1ee3i th\u1ebf khi \u0111i h\u1ecdc: B\u1ed1 m\u1eb9 hi\u1ec3u l\u00fd do s\u1ebd bi\u1ebft "
+    "Tr\u1ebb sinh v\u00e0o 3 th\u00e1ng n\u00e0y th\u01b0\u1eddng c\u00f3 l\u1ee3i th\u1ebf khi \u0111i h\u1ecdc: B\u1ed1 m\u1eb9 hi\u1ec3u l\u00fd do s\u1ebd bi\u1ebft ",
+    "Trump's executive order targets mortgage insurance, refinance costs. What it mea",
+    "The start-ups hoping to return battery making to the US",
+    "HSBC sees cautious optimism in VC and PE activity",
+    "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+    "Ph\u00f3 Ch\u1ee7 t\u1ecbch Qu\u1ea3ng Ninh tr\u1ef1c ti\u1ebfp 'ch\u0103m s\u00f3c' doanh nghi\u1ec7p",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc"
   ]
 }
