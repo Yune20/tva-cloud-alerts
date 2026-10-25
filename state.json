@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792934558.726794,
+  "last_signals": 1792934918.390511,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792934559.960544,
-    "JPY Index|1D:bot": 1792934560.341906
+    "USD/JPY|1D:bot": 1792934919.7652476,
+    "JPY Index|1D:bot": 1792934920.0893228
   },
-  "last_analysis": 1792934551.1531453,
-  "last_news": 1792934557.0536335,
+  "last_analysis": 1792934913.5560637,
+  "last_news": 1792934918.3896663,
   "seen_news": [
-    "1 chi\u1ebfc l\u00e1 3 c\u00f4ng d\u1ee5ng: \u0110em pha n\u01b0\u1edbc th\u00e0nh \"thu\u1ed1c b\u1ed5 ph\u1ed5i\", m\u1eaft s\u00e1ng, gan kho\u1ebb m",
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
-    "TD Cowen maintains Hold rating on Tractor Supply, $36 price target - TradingView",
-    "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuabl",
-    "White House lifts tariffs on some Canadian goods as midterm elections loom",
-    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "Brookdale Announces Third Quarter 2026 Earnings Release and Conference Call - Tr",
     "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure ",
@@ -446,6 +440,12 @@
     "Why Trump and Carney Haven\u2019t Touched Energy in Their Tariff War",
     "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
     "Gold breaks below $4,000 target area before bouncing. What do buyers need to pro",
-    "Ch\u1ee7 t\u1ecbch Chery xin l\u1ed7i v\u1ec1 s\u1ef1 c\u1ed1 \u00f4 t\u00f4 r\u1ee5ng c\u1ea7u sau t\u1ea1i Malaysia"
+    "Ch\u1ee7 t\u1ecbch Chery xin l\u1ed7i v\u1ec1 s\u1ef1 c\u1ed1 \u00f4 t\u00f4 r\u1ee5ng c\u1ea7u sau t\u1ea1i Malaysia",
+    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
+    "Hai t\u1eeb \u201cXIN\u201d v\u00e0 \u201cMUA\u201d khi\u1ebfn c\u01b0 d\u00e2n m\u1ea1ng tranh lu\u1eadn: C\u00f4 gi\u00e1o nh\u1ea1y c\u1ea3m hay ph\u1ee5 huy",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "UK's Healey to give two state-backed lenders \u00a320 billion capital boost in budget",
+    "What next for France as riots rattle markets? Three questions facing investors a",
+    "How the oil capital of the US welcomed a solar power boom"
   ]
 }
