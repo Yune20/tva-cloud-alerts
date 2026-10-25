@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792938761.6420274,
+  "last_signals": 1792939300.6530907,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -141,18 +141,12 @@
     "Bitcoin|1D:bot": 1792886249.2223122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
-    "USD/JPY|1D:bot": 1792938762.9312506,
-    "JPY Index|1D:bot": 1792938763.2645738
+    "USD/JPY|1D:bot": 1792939302.7471185,
+    "JPY Index|1D:bot": 1792939303.2574732
   },
-  "last_analysis": 1792938752.0170772,
-  "last_news": 1792938761.6410258,
+  "last_analysis": 1792939294.17815,
+  "last_news": 1792939300.6524649,
   "seen_news": [
-    "Living with a stink? Technology might help",
-    "Trump: The question is, do we want to finish Iran war or let it wither",
-    "M\u1ef9: N\u1ed5 t\u1ea1i nh\u00e0 m\u00e1y ch\u1ebf bi\u1ebfn ng\u0169 c\u1ed1c l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi",
-    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall Ahead of Global ",
-    "Moody's holds steady on France's credit rating as country grapples with turmoil ",
     "X\u00e3 Tam H\u01b0ng l\u1ea5y \u00fd ki\u1ebfn ng\u01b0\u1eddi d\u00e2n v\u1ec1 quy ho\u1ea1ch chi ti\u1ebft hai d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Why Is TTM Technologies Stock Gaining Friday? - TradingView",
@@ -446,6 +440,12 @@
     "American embassies tighten security as Iran threat warnings intensify ahead of U",
     "Is an 'AI war' complicating your job search?",
     "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
-    "Qatari mediators in Tehran for U.S.-coordinated effort to ease tensions"
+    "Qatari mediators in Tehran for U.S.-coordinated effort to ease tensions",
+    "US stocks are mixed, but weak breadth keeps the recovery in question",
+    "K\u1ebft qu\u1ea3 th\u1eed nghi\u1ec7m vaccine ung th\u01b0 h\u1eafc t\u1ed1",
+    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
+    "Amazon cloud capacity sold out through 2027, CEO Jassy says - TradingView",
+    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "People in China are spending nearly as much of their income as Americans on heal"
   ]
 }
