@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792970304.9213367,
+  "last_signals": 1792970857.5968177,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -119,7 +119,7 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792970305.294612,
+    "USOIL|4H:top": 1792970857.9644823,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792970297.6803782,
-  "last_news": 1792970304.919922,
+  "last_analysis": 1792970849.6141586,
+  "last_news": 1792970857.5958474,
   "seen_news": [
-    "Horizen to Conduct Scheduled Maintenance on November 5th - TradingView",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-    "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
-    "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans?",
-    "European stocks post weekly losses. French yields climb. Brent above $117/crude ",
     "'I wasn't thinking straight' says five jobs civil servant",
     "U.S. Rig Count Holds Steady as Oil Prices Surge",
     "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
@@ -446,6 +440,12 @@
     "The Indian workers filming their work to train AI",
     "Oil Prices Rise Despite Middle East Export Recovery",
     "North Korea\u2019s Kim Jong Un makes surprise China visit as ties strengthen",
-    "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists "
+    "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists ",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
+    "Anthropic\u2019s Claude accessed Georgia state vote count information behind paywall,",
+    "Standard Chartered sees debt-funded share of AI capex rising to 40% in 2027 from",
+    "C\u1ea3 v\u1ea1n ng\u01b0\u1eddi xoay x\u1edf tho\u00e1t kh\u1ecfi s\u00e2n M\u1ef9 \u0110\u00ecnh l\u00fac n\u1eeda \u0111\u00eam",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
