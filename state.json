@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792995081.0965729,
+  "last_signals": 1792995691.9300268,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -73,9 +73,9 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1792995081.7436674,
+    "Ethereum|1D:bot": 1792995692.5441241,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792995081.5823734,
+    "Bitcoin|1D:bot": 1792995692.3931575,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792995073.7696602,
-  "last_news": 1792995081.0958614,
+  "last_analysis": 1792995684.0285263,
+  "last_news": 1792995691.9289346,
   "seen_news": [
-    "Preview: RBNZ set to lift OCR to 3% ahead of election as oil and weak kiwi fuel ",
-    "Tri\u1ec7t ph\u00e1 \u0111\u01b0\u1eddng d\u00e2y l\u1eeba \u0111\u1ea3o h\u01a1n 400 t\u1ef7 th\u00f4ng qua n\u1ec1n t\u1ea3ng AI Livestream Tatao Li",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "Trump announces Audi will build $4 billion US factory in Georgia - TradingView",
-    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-    "I paid off $11,000 of credit card debt in 18 months while still traveling, shopp",
     "Should you travel together? Ask these questions before booking: 'It'll save you ",
     "Are California voters about to impose 'world's first' tax on billionaires?",
     "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
@@ -446,6 +440,12 @@
     "FX option expiries for 26 October 10am New York cut",
     "Houthi n\u1ed1i l\u1ea1i c\u00e1c cu\u1ed9c t\u1ea5n c\u00f4ng s\u00e2n bay v\u00e0 c\u01a1 s\u1edf d\u1ea7u m\u1ecf c\u1ee7a \u1ea2 R\u1eadp X\u00ea \u00dat",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "Weekly Recap: 9M profit up on Mexico sale and Neoenergia, Caruna buys - TradingV"
+    "Weekly Recap: 9M profit up on Mexico sale and Neoenergia, Caruna buys - TradingV",
+    "Major central banks take centre stage this week but will there be any surprises?",
+    "C\u00f3 100 tri\u1ec7u n\u00ean g\u1eedi ti\u1ebft ki\u1ec7m, mua v\u00e0ng hay \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n?",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "Weekly Recap: DRC deal with Orion CMC Congo and \u00a311.2m in Cornish Metals - Tradi",
+    "Defense tech investment boom sparks bubble warning as private equity pours in",
+    "No order, no seat: Starbucks China rolls out new store policy"
   ]
 }
