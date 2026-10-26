@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793027446.1122754,
+  "last_signals": 1793028009.8613243,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
     "5575146754|Gold|4H|range_in": 1793027446.1122754,
@@ -72,9 +72,9 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": true,
+    "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793018374.5314183,
-    "Ethereum|1D:bot": 1793027447.315478,
+    "Ethereum|1D:bot": 1793028011.0247357,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793027446.9773223,
+    "Bitcoin|1D:bot": 1793028010.7227557,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793027432.7084525,
-  "last_news": 1793027443.178808,
+  "last_analysis": 1793027996.4330854,
+  "last_news": 1793028009.8605018,
   "seen_news": [
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "Weekly Recap: LSE:DGE refinancing risk and United Spirits tax raids - TradingVie",
-    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-    "I paid off $11,000 of credit card debt in 18 months while still traveling, shopp",
-    "Is an 'AI war' complicating your job search?",
-    "NOW 55% OFF: Rattled by Fed headlines? Meet the AI doubled the market\u2019s return",
     "Should you travel together? Ask these questions before booking: 'It'll save you ",
     "Are California voters about to impose 'world's first' tax on billionaires?",
     "Unitree Robotics shares surge on JPMorgan double-upgrade",
@@ -446,6 +440,12 @@
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
     "Broader US stock indices are higher after each held support targets on Friday",
     "C\u00e1ch \u0111\u1ed9c l\u1ea1 ng\u01b0\u1eddi Trung Qu\u1ed1c c\u1ed5 \u0111\u1ea1i tu\u1ea7n tra v\u00e0 t\u00ednh gi\u1edd ban \u0111\u00eam",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t"
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Dollar rebounds as euro slips ahead of key central bank decisions",
+    "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
+    "\u0110\u00f4 \u0111\u1ed1c qu\u00e2n \u0111\u1ed9i M\u1ef9 b\u00e1o \u0111i\u1ec1u kh\u00f3 tin t\u1eeb eo bi\u1ec3n Hormuz",
+    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
+    "Commodities intraday targets/key levels - TradingView",
+    "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a"
   ]
 }
