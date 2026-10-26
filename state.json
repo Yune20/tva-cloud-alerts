@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792976293.9842215,
+  "last_signals": 1792976905.0915933,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -61,7 +61,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792976285.350806,
-  "last_news": 1792976293.9832778,
+  "last_analysis": 1792976898.271259,
+  "last_news": 1792976905.0907898,
   "seen_news": [
-    "Street Calls of the Week",
-    "Macro pulse: Europe's economy is losing steam but inflation won't let up",
-    "Ph\u00ed qu\u1ea3n l\u00fd t\u00e0i kho\u1ea3n Agribank: M\u1ed7i th\u00e1ng m\u1ea5t bao nhi\u00eau, khi n\u00e0o \u0111\u01b0\u1ee3c mi\u1ec5n?",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
-    "Las Vegas Sands 3Q 2026: Revenue $3.22B, EPS $0.48\u2014 10-Q Summary - TradingView",
-    "We stopped helping our neighbors with free home repairs and our friendship coole",
     "L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed, Vi\u1ec7t Nam x\u00e2y d\u1ef1ng th\u00e0nh c\u00f4ng c\u00e1p treo 3 d\u00e2y kh\u00f4ng d\u1eeb",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
     "Bio Essence elects Thea Zhang and Geoff Fellows to its board - TradingView",
@@ -446,6 +440,12 @@
     "'AI ng\u00e0y c\u00e0ng gi\u1ecfi, \u00f4 t\u00f4 c\u00e0ng d\u1ec5 b\u1ecb hack'",
     "B\u00c1O C\u00c1O - VietstockFinance",
     "Artrya Q1 2027 Earnings Call Is Live - TradingView",
-    "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My"
+    "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My",
+    "Biggest earnings week ahead: Can Microsoft, Alphabet and Amazon turn the Nasdaq ",
+    "S\u00e2n v\u01b0\u1eddn c\u00f3 6 th\u1ee9 n\u00e0y, \u0111\u1eebng tr\u00e1ch v\u00ec sao r\u1eafn hay t\u00ecm \u0111\u1ebfn",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Brent Retreats as Middle East Tensions Intensify - TradingView",
+    "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+    "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?"
   ]
 }
