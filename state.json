@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792984013.2602692,
+  "last_signals": 1792984625.349434,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -60,13 +60,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792984013.4944122,
+    "Gold|4H:bot": 1792984625.5019937,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792983999.9787247,
-  "last_news": 1792984010.6521425,
+  "last_analysis": 1792984617.8903618,
+  "last_news": 1792984625.1116157,
   "seen_news": [
-    "Key facts: AMD Drops 8% Then Rebounds; GAAP Operating Margin 17% - TradingView",
-    "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mu",
-    "The grads ditching the UK for a fresh start abroad",
-    "U.S, Canada \u201cvery close\u201d to trade deal, White House\u2019s Hassett says",
-    "investingLive Americas market news wrap: War worries boost oil to the highest si",
-    "H\u00e3ng may n\u1ed9i y l\u00e0 \u0111\u1ed1i t\u00e1c c\u1ee7a Victoria\u2019s Secret c\u00f3 29.000 c\u00f4ng nh\u00e2n \u1edf H\u1ea3i Ph\u00f2ng,",
     "Tank barrel production returns to UK after 20 years",
     "Britain will not join Canada\u2019s defence bank, source says",
     "Canada August retail sales +1.2% vs +1.3% expected",
@@ -446,6 +440,12 @@
     "Solana, Tether, and XRP Ledger Drive New Wave of Asset Tokenization - TradingVie",
     "Trump is pushing a massive AI buildout. His own voters are wary of what comes wi",
     "Meta fined $25bn for 'lies' over user data privacy",
-    "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck"
+    "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
+    "Bybit Wins Dubai VARA Approval For Spot Crypto Exchange Services - TradingView",
+    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+    "The start-ups hoping to return battery making to the US",
+    "Fuel Oil Becomes Asia\u2019s Next Cost Shock",
+    "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+    "Saudi Arabia to store crude in Singapore caverns from 2027 as Hormuz disruption "
   ]
 }
