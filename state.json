@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792975354.308179,
-  "last_bot4": 1792983330.4511135,
+  "last_bot4": 1792984013.2594833,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792982720.7001743
+    "Gold": 1792984013.259364
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792983663.4528975,
+  "last_signals": 1792984013.2602692,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -60,13 +60,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792983663.6118422,
+    "Gold|4H:bot": 1792984013.4944122,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792983645.4224014,
-  "last_news": 1792983663.4520705,
+  "last_analysis": 1792983999.9787247,
+  "last_news": 1792984010.6521425,
   "seen_news": [
-    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget cha",
-    "Fuel Oil Becomes Asia\u2019s Next Cost Shock",
-    "HSBC sees cautious optimism in VC and PE activity",
-    "Dow leads stocks lower; small caps win the week",
-    "C\u00f4 v\u1ee3 cao tay: Sau 18 n\u0103m c\u01b0\u1edbi tuy\u00ean b\u1ed1 thu ti\u1ec1n c\u1ee7a ch\u1ed3ng cho nh\u1eefng vi\u1ec7c tr\u01b0\u1edbc ",
     "Key facts: AMD Drops 8% Then Rebounds; GAAP Operating Margin 17% - TradingView",
     "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mu",
     "The grads ditching the UK for a fresh start abroad",
@@ -446,6 +440,12 @@
     "Treasury yields set for third weekly drop as AI worries fuel haven bid",
     "Musk says SpaceX closed $40 billion GPU debt deal, predicts neocloud shakeout",
     "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
-    "Weekly Recap: Q2 PAT \u20b96,367 crore and INR 175 billion capital raise - TradingVie"
+    "Weekly Recap: Q2 PAT \u20b96,367 crore and INR 175 billion capital raise - TradingVie",
+    "Nh\u1eadt Kim Anh ch\u00ednh th\u1ee9c th\u00f4ng b\u00e1o tin vui",
+    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Solana, Tether, and XRP Ledger Drive New Wave of Asset Tokenization - TradingVie",
+    "Trump is pushing a massive AI buildout. His own voters are wary of what comes wi",
+    "Meta fined $25bn for 'lies' over user data privacy",
+    "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck"
   ]
 }
