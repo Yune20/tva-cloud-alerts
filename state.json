@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793008640.552373,
+  "last_news_report": 1793019690.2227147,
   "last_bot4": 1793019079.0149033,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793019079.01588,
+  "last_signals": 1793019690.2239795,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1793016791.8427422,
@@ -58,7 +58,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793018374.5314183,
-    "Ethereum|1D:bot": 1793019080.5980277,
+    "Ethereum|1D:bot": 1793019690.9692085,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793019080.1748376,
+    "Bitcoin|1D:bot": 1793019690.7742639,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793019030.6828225,
-  "last_news": 1793019075.93445,
+  "last_analysis": 1793019644.6860638,
+  "last_news": 1793019673.9342706,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
-    "Tezos Opened Quantumnet for Testing - TradingView",
-    "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Why is MiniMax stock sliding today?",
-    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
     "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Ma",
     "Heating oil costs 'more than double' ahead of winter",
     "Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed wee",
@@ -446,6 +440,12 @@
     "ORN Q3'26 Earnings: EPS estimate is 0.09 USD - TradingView",
     "Musk says SpaceX\u2019s AI rivals are in trouble, sending their stocks lower",
     "America by the numbers: How voters feel about the economy, inflation, AI and Tru",
-    "Four ways Labour could raise money in the Budget without hiking income tax"
+    "Four ways Labour could raise money in the Budget without hiking income tax",
+    "OHB Acquires 25% Stake In Mediamobil - TradingView",
+    "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mu",
+    "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+    "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice",
+    "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
+    "Tri\u1ec1u c\u01b0\u1eddng d\u00e2ng cao gi\u1eefa tr\u1eddi n\u1eafng n\u00f3ng, ng\u01b0\u1eddi d\u00e2n TP.HCM b\u00ec b\u00f5m l\u1ed9i n\u01b0\u1edbc \u0111i v\u1ec1"
   ]
 }
