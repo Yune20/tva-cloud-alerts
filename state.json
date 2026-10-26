@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792998751.1187546,
+  "last_signals": 1792999374.63562,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1792998752.1984663,
+    "Ethereum|1D:bot": 1792999375.9175215,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792998751.910058,
+    "Bitcoin|1D:bot": 1792999375.5840638,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792998741.5470994,
-  "last_news": 1792998751.0554633,
+  "last_analysis": 1792999365.3207636,
+  "last_news": 1792999374.634693,
   "seen_news": [
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Instacart gains on report it's in talks to sell itself (update) - TradingView",
-    "What a day in customer service looks like \u2014 as AI changes everything",
-    "How long will humans be needed for translation?",
-    "Asia Is Building the World\u2019s Next $15 Trillion Energy Market",
-    "Anthropic\u2019s Claude accessed public US state of Georgia voter information, Axios ",
     "BW Energy: Drilling rig incident on the Dussafu licence - TradingView",
     "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
     "The Indian workers filming their work to train AI",
@@ -446,6 +440,12 @@
     "Living with a stink? Technology might help",
     "Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom",
     "Heads up: European daylight saving time has ended, here's what traders need to k",
-    "Thi\u1ebfu gia T\u1eadp \u0111o\u00e0n S\u01a1n H\u1ea3i l\u00e0m vi\u1ec7c \u1edf c\u00f4ng tr\u01b0\u1eddng"
+    "Thi\u1ebfu gia T\u1eadp \u0111o\u00e0n S\u01a1n H\u1ea3i l\u00e0m vi\u1ec7c \u1edf c\u00f4ng tr\u01b0\u1eddng",
+    "Berkshire shares shake the Buffett blues with new all-time highs",
+    "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+    "Saudi Arabia Turns to Singapore for Oil Storage",
+    "Chinese beauty brands, flush with success at home, start to vie for global shelf",
+    "EUR/CHF rebounds from 0.9200 but is the worst really over for the euro?",
+    "5 lo\u00e0i chim \u0111\u1ed9t ng\u1ed9t gh\u00e9 nh\u00e0 b\u00e1o hi\u1ec7u phong th\u1ee7y r\u1ea5t t\u1ed1t"
   ]
 }
