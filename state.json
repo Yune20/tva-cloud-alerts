@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792964277.2258108,
-  "last_bot4": 1792972042.6461163,
+  "last_bot4": 1792972798.072095,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1792971144.3053248
+    "Gold": 1792972798.0719965
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792972360.1225386,
+  "last_signals": 1792972798.0728798,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -75,8 +75,8 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -119,7 +119,7 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792972360.6323643,
+    "USOIL|4H:top": 1792972798.4167,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792972350.6066837,
-  "last_news": 1792972360.1217415,
+  "last_analysis": 1792972780.8708737,
+  "last_news": 1792972795.5493207,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Bybit Wins Dubai VARA Approval For Spot Crypto Exchange Services - TradingView",
-    "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Soli",
-    "Websites taken down worldwide as critical cyber-security update issued",
-    "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
-    "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
     "First Hawaiian Q3 2026 Earnings Call Is Live - TradingView",
     "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
     "Why are more roofs not made of solar tiles?",
@@ -446,6 +440,12 @@
     "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
     "'I wasn't thinking straight' says five jobs civil servant",
     "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-    "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- repo"
+    "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- repo",
+    "Binance Delists Seven Cryptocurrencies From Its Alpha Platform - TradingView",
+    "In pictures: Protests over inequality, rising living costs turn violent across F",
+    "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+    "UK immigration crackdown threatens \u00a315 billion care sector - Bloomberg",
+    "UMich final October final consumer sentiment 48.0 vs 46.3 expected"
   ]
 }
