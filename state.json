@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793022771.966944,
+  "last_signals": 1793023338.8403606,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
     "5575146754|Gold|4H|range_in": 1793016791.8427422,
@@ -70,14 +70,14 @@
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
-    "US30|4H": true,
+    "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -145,14 +145,8 @@
     "JPY Index|1D:bot": 1792954957.2799993
   },
   "last_analysis": 1793023045.9569488,
-  "last_news": 1793022771.9661665,
+  "last_news": 1793023338.83973,
   "seen_news": [
-    "T\u1ed5ng th\u1ed1ng Putin n\u00f3i v\u1ec1 l\u00e0n s\u00f3ng bi\u1ec3u t\u00ecnh \u1edf ch\u00e2u \u00c2u",
-    "HTG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ec7t may H\u00f2a Th\u1ecd - HOA THO CORPORATION - VietstockFinan",
-    "ZAWYA: Saudi oil output rises to 8mbpd; business activity strengthens - TradingV",
-    "More pain may be coming for the AI trade. Why I\u2019m not giving up on it",
-    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
-    "Why is ZAI stock slipping today?",
     "Weekly Recap: \u20ac1.0B share buyback and projected \u20ac9.02B Jan\u2013Sep net profit - Trad",
     "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung",
     "What is PHP and why did it spark a global cyber-security scramble?",
@@ -446,6 +440,12 @@
     "TP.HCM m\u1eddi nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i c\u00f9ng ki\u1ebfn t\u1ea1o c\u01a1 h\u1ed9i, \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng m\u1edbi",
     "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
     "Here's How PSX's Flexible Crude Slate Supports Its Refining Economics - TradingV",
-    "The 5 big voting issues in the midterm elections that will impact your wallet"
+    "The 5 big voting issues in the midterm elections that will impact your wallet",
+    "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
+    "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+    "Rosebank: Life on the oil field at the centre of a political storm",
+    "Super El Ni\u00f1o May Soften Winter Energy Squeeze",
+    "Weekend - China warns of countermeasures as US Treasury widens tech investment c",
+    "L\u1ea7u N\u0103m G\u00f3c c\u00f4ng b\u1ed1 t\u00e0i li\u1ec7u m\u1edbi v\u1ec1 UFO: Ph\u00e1t hi\u1ec7n tam gi\u00e1c \u0111en b\u00ed \u1ea9n kh\u00f4ng th\u1ec3 "
   ]
 }
