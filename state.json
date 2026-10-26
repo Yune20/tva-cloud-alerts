@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1792997527.9340167,
+  "last_news_report": 1793008640.552373,
   "last_bot4": 1793008309.1154487,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793008021.214124,
+  "last_signals": 1793008640.5534556,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -74,7 +74,7 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
@@ -82,7 +82,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1793008021.8739307,
+    "Ethereum|1D:bot": 1793008641.2292843,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793008021.7121546,
+    "Bitcoin|1D:bot": 1793008641.0668375,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793008011.7596705,
-  "last_news": 1793008021.2132237,
+  "last_analysis": 1793008624.331383,
+  "last_news": 1793008635.7173753,
   "seen_news": [
-    "BofA sees Norwegian krone weakening against Swedish krona",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6691 \u2013 Reuters estimate",
-    "N\u1eef di\u1ec5n vi\u00ean phim gi\u1edd v\u00e0ng h\u1ea1 sinh con th\u1ee9 3 cho \u0111\u1ea1i gia l\u1eeba \u0111\u1ea3o \u0111\u1ea7u t\u01b0 ti\u1ec1n s\u1ed1,",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Dow Jones and Nasdaq 100 outlook: top stock market news for this week - TradingV",
-    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "Li\u00ean t\u1ee5c nh\u1eadn cu\u1ed9c g\u1ecdi l\u1ea1, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng l\u1eadp t\u1ee9c \u0111i r\u00fat 270 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i Qu\u1ef9 t",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Kh\u00f4ng c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "Consumer Discretionary Earnings: EPS beats outpace revenue - TradingView",
@@ -446,6 +440,12 @@
     "Healey's Budget needs to sustain the stronger economy through gathering clouds",
     "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
     "India 40-year bond yield hits highest level since 2018",
-    "Gold could rebound in the near-term as growth and US strikes fears subside; eyes"
+    "Gold could rebound in the near-term as growth and US strikes fears subside; eyes",
+    "Rapidus and HCLTech announce partnership for next-generation semiconductor techn",
+    "We stopped helping our neighbors with free home repairs and our friendship coole",
+    "How war, security and coalition math are shaping the Israeli election",
+    "Why are more roofs not made of solar tiles?",
+    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
+    "ECB set to hold at 2.50% as Morgan Stanley sees December as natural moment for n"
   ]
 }
