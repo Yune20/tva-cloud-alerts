@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793055707.8876913,
+  "last_signals": 1793056316.5430775,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -72,7 +72,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793055708.5575426,
+    "Ethereum|1D:bot": 1793056317.7757754,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793055708.3842032,
+    "Bitcoin|1D:bot": 1793056317.4870036,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
   "last_analysis": 1793056018.4914484,
-  "last_news": 1793055707.886775,
+  "last_news": 1793056316.5424182,
   "seen_news": [
-    "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l",
-    "Is Wall Street Getting It All Wrong About AI, Oil, and Bonds?",
-    "Brazil\u2019s real weakens 12% as Lula wins reelection",
-    "Broader US stock indices are higher after each held support targets on Friday",
-    "C\u00e1ch \u0111\u1ed9c l\u1ea1 ng\u01b0\u1eddi Trung Qu\u1ed1c c\u1ed5 \u0111\u1ea1i tu\u1ea7n tra v\u00e0 t\u00ednh gi\u1edd ban \u0111\u00eam",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "Dollar rebounds as euro slips ahead of key central bank decisions",
     "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
     "\u0110\u00f4 \u0111\u1ed1c qu\u00e2n \u0111\u1ed9i M\u1ef9 b\u00e1o \u0111i\u1ec1u kh\u00f3 tin t\u1eeb eo bi\u1ec3n Hormuz",
@@ -446,6 +440,12 @@
     "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
     "Radnet Announces Agreement To Acquire Onrad - TradingView",
     "Israeli election draws tens of thousands of citizens flying back to vote",
-    "Rosebank: Life on the oil field at the centre of a political storm"
+    "Rosebank: Life on the oil field at the centre of a political storm",
+    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
+    "Caterpillar Stocks Move Higher Before Data-Center Backlog Test - TradingView",
+    "Mortgage rates above 7% are the 'new normal'\u2014here's why",
+    "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
+    "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
+    "Ex-FBI chief\u00a0Comey faces third prosecution attempt\u00a0by Trump Justice Department"
   ]
 }
