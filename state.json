@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793019690.2227147,
-  "last_bot4": 1793024625.9825263,
+  "last_bot4": 1793027446.1114404,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793023957.1889615
+    "Gold": 1793027446.1113296
   },
   "bot_chats": {
     "bot4": [
@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793024376.164669,
+  "last_signals": 1793027446.1122754,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
-    "5575146754|Gold|4H|range_in": 1793016791.8427422,
+    "5575146754|Gold|4H|range_in": 1793027446.1122754,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1792978136.2311237,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -57,13 +57,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|1H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793018374.5314183,
-    "Ethereum|1D:bot": 1793024377.2010014,
+    "Ethereum|1D:bot": 1793027447.315478,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793024376.908742,
+    "Bitcoin|1D:bot": 1793027446.9773223,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793024333.053725,
-  "last_news": 1793024376.163938,
+  "last_analysis": 1793027432.7084525,
+  "last_news": 1793027443.178808,
   "seen_news": [
-    "Major central banks take centre stage this week but will there be any surprises?",
-    "C\u00f3 100 tri\u1ec7u n\u00ean g\u1eedi ti\u1ebft ki\u1ec7m, mua v\u00e0ng hay \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n?",
-    "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
-    "Weekly Recap: DRC deal with Orion CMC Congo and \u00a311.2m in Cornish Metals - Tradi",
-    "Defense tech investment boom sparks bubble warning as private equity pours in",
-    "No order, no seat: Starbucks China rolls out new store policy",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Weekly Recap: LSE:DGE refinancing risk and United Spirits tax raids - TradingVie",
     "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
@@ -446,6 +440,12 @@
     "Strategy breaks four-week Bitcoin buying run as BTC slips - TradingView",
     "Mortgage rates above 7% are the 'new normal'\u2014here's why",
     "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
-    "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'"
+    "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
+    "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l",
+    "Is Wall Street Getting It All Wrong About AI, Oil, and Bonds?",
+    "Brazil\u2019s real weakens 12% as Lula wins reelection",
+    "Broader US stock indices are higher after each held support targets on Friday",
+    "C\u00e1ch \u0111\u1ed9c l\u1ea1 ng\u01b0\u1eddi Trung Qu\u1ed1c c\u1ed5 \u0111\u1ea1i tu\u1ea7n tra v\u00e0 t\u00ednh gi\u1edd ban \u0111\u00eam",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t"
   ]
 }
