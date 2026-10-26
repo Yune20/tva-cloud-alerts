@@ -1,6 +1,6 @@
 {
   "last_news_report": 1792997527.9340167,
-  "last_bot4": 1793000270.859757,
+  "last_bot4": 1793000953.7189443,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793000592.7874944,
+  "last_signals": 1793000953.7202117,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -81,7 +81,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1793000593.9031463,
+    "Ethereum|1D:bot": 1793000954.9920573,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793000593.5954223,
+    "Bitcoin|1D:bot": 1793000954.6369355,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793000585.1512203,
-  "last_news": 1793000592.7866466,
+  "last_analysis": 1793000944.6021967,
+  "last_news": 1793000953.662349,
   "seen_news": [
-    "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans?",
-    "BOJ preview: Daiwa sees hold, but 2% inflation call could open door to December ",
-    "D\u1edf dang khu ngh\u1ec9 d\u01b0\u1ee1ng h\u00e0ng tr\u0103m tri\u1ec7u USD b\u00ean v\u1ecbnh L\u0103ng C\u00f4",
-    "Vietnam strategy report - VietstockFinance",
-    "Bolsonaro overtakes Lual in Brazil's presidential runoff vote - TradingView",
-    "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
     "European stocks post weekly losses. French yields climb. Brent above $117/crude ",
     "Tri\u1ec7t ph\u00e1 chuy\u00ean \u00e1n \u0111\u1eb7c bi\u1ec7t l\u1edbn, b\u1eaft gi\u00e1m \u0111\u1ed1c Nguy\u1ec5n Th\u1ecb Ng\u1ecdc Tr\u00e2m: C\u00e1c b\u1ecb h\u1ea1i ",
     "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
@@ -446,6 +440,12 @@
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
     "Pick N Pay Stores Announces Agreement On Store Labour Model Restructure - Tradin",
     "Moody's holds steady on France's credit rating as country grapples with turmoil ",
-    "The Indian workers filming their work to train AI"
+    "The Indian workers filming their work to train AI",
+    "M\u1ed9t doanh nghi\u1ec7p tr\u00ean s\u00e0n \"r\u00f3t\" g\u1ea7n 670 t\u1ef7 v\u00e0o ch\u1ee9ng kho\u00e1n, t\u1ea1m l\u00e3i h\u01a1n tr\u0103m t\u1ef7 ",
+    "SAB: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - SABECO - Vietsto",
+    "BW Energy: Drilling rig incident on the Dussafu licence - TradingView",
+    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
+    "How long will humans be needed for translation?",
+    "Oil Prices Rise Despite Middle East Export Recovery"
   ]
 }
