@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792982432.8028529,
+  "last_signals": 1792983044.8508544,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792982433.1950042,
+    "Gold|4H:bot": 1792983045.014218,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792982424.4278355,
-  "last_news": 1792982432.7816494,
+  "last_analysis": 1792983036.64339,
+  "last_news": 1792983044.8500063,
   "seen_news": [
-    "NZDUSD buyers are trying to make a play. The 38.2% retracement remains the next ",
-    "T\u1ef7 l\u1ec7 margin tr\u00ean quy m\u00f4 v\u1ed1n h\u00f3a th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n l\u1eadp k\u1ef7 l\u1ee5c m\u1edbi, \u0111i\u1ec1u g\u00ec ",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
-    "Howard Hughes Holdings Set to Join S&P SmallCap 600 - TradingView",
-    "What Democrats and Republicans fear most about each other: CNBC survey has the a",
-    "Budget to include \u00a31bn for social and affordable housing",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 39,600 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Stock of the Day: Is IREN About to Reverse? - TradingView",
     "Trump is pushing a massive AI buildout. His own voters are wary of what comes wi",
@@ -446,6 +440,12 @@
     "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
     "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
     "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
-    "D\u1ea5u hi\u1ec7u bi\u1ec3u t\u00ecnh \u1edf Ph\u00e1p ch\u01b0a \u0111\u1ea1t \u0111\u1ec9nh, l\u00e0n s\u00f3ng th\u1ee9 2 s\u1eafp b\u1eaft \u0111\u1ea7u?"
+    "D\u1ea5u hi\u1ec7u bi\u1ec3u t\u00ecnh \u1edf Ph\u00e1p ch\u01b0a \u0111\u1ea1t \u0111\u1ec9nh, l\u00e0n s\u00f3ng th\u1ee9 2 s\u1eafp b\u1eaft \u0111\u1ea7u?",
+    "Gold dips below $4,000 as long liquidation swamps ETF buying, Saxo Bank says",
+    "T\u1eeb ng\u00e0y 26/10, FChoice Awards 2026 tr\u1edf l\u1ea1i: C\u00e1ch th\u1ee9c g\u1eedi \u0111\u1ec1 c\u1eed, t\u1ef1 \u0111\u1ec1 c\u1eed nh\u1eefng ",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "CitroTech Targets Wildfire Defense Growth With Hexion JV, CitroSafe Push - Tradi",
+    "Trump's executive order targets mortgage insurance, refinance costs. What it mea",
+    "The AI telling farmers when to harvest"
   ]
 }
