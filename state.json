@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793041628.3124065,
-  "last_bot4": 1793043475.9464018,
+  "last_bot4": 1793044138.9592774,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793043772.5165687,
+  "last_signals": 1793044138.9598904,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793040375.2609503,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -74,10 +74,10 @@
     "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793043773.5035813,
+    "Ethereum|1D:bot": 1793044139.5575075,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793043773.2548475,
+    "Bitcoin|1D:bot": 1793044139.3893979,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793043472.9470465,
-  "last_news": 1793043772.5160582,
+  "last_analysis": 1793044130.7063687,
+  "last_news": 1793044138.9584014,
   "seen_news": [
-    "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
-    "GS \u0110\u1eb7ng H\u00f9ng V\u00f5: \u0110\u00e1nh thu\u1ebf b\u1ea5t \u0111\u1ed9ng s\u1ea3n b\u1ecf hoang t\u1eeb 1-5% m\u1ed7i n\u0103m m\u1edbi \u0111\u1ee7 s\u1ee9c r\u0103n ",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
-    "Carl Zeiss Meditec AG (AFX) Names Bronwyn Brophy O\u2019Connor CEO Effective Dec 1, 2",
-    "These four shocks could hand investors an unexpected buying window, strategists ",
-    "Why popular airplanes are getting scrapped years early",
     "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
     "CitroTech Targets Wildfire Defense Growth With Hexion JV, CitroSafe Push - Tradi",
     "Verizon\u2019s stock rises as subscriber surge impresses Wall Street",
@@ -446,6 +440,12 @@
     "VN-Index \"quay xe\" sau 3 phi\u00ean t\u0103ng m\u1ea1nh 80 \u0111i\u1ec3m, \u0111i\u1ec1u g\u00ec \u0111ang di\u1ec5n ra?",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
     "What's in Store for These 4 Transportation Stocks This Earnings Season? - Tradin",
-    "Prediction market traders say an Anthropic IPO is near-certain this year after c"
+    "Prediction market traders say an Anthropic IPO is near-certain this year after c",
+    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 27/10: FPT Telecom l\u00e3i g\u1ea7n 1.300 t\u1ef7 \u0111\u1ed3ng, Nh\u00e0",
+    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
+    "Burnham Holdings declares $0.23 dividend - TradingView",
+    "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go",
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme"
   ]
 }
