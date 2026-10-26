@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792987065.1972234,
+  "last_signals": 1792987687.3553588,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -42,7 +42,7 @@
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
-    "5575146754|Gold|1D|dn": 1792963649.9201307,
+    "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1792966484.4895084
   },
   "sig_range": {
@@ -60,7 +60,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792987065.4468424,
+    "Gold|4H:bot": 1792987687.7410033,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792987056.6747913,
-  "last_news": 1792987065.1964011,
+  "last_analysis": 1792987678.8854325,
+  "last_news": 1792987687.352417,
   "seen_news": [
-    "Canada September PPI +2.0% m/m vs +1.3% prior",
-    "V\u00ec sao tua-bin gi\u00f3 kh\u00f4ng c\u00f3 s\u00e1u ho\u1eb7c t\u00e1m c\u00e1nh \u0111\u1ec3 \u0111\u00f3n nhi\u1ec1u gi\u00f3 h\u01a1n?",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: 3Q/2026 - VietstockFinance",
-    "Stockholders Of Sunrise Realty Trust, A Tannenbaum Capital Group Affiliate, Appr",
-    "Worried about this stock-market selloff? Relief may be coming after the midterms",
-    "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
     "C\u00f4ng an ki\u1ec3m tra 120 c\u00f4ng nh\u00e2n ngay t\u1ea1i c\u00f4ng tr\u01b0\u1eddng",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7: Th\u00e1ng 09/2026 - Kh\u1ed1i l\u01b0\u1ee3ng ph\u00e1t h\u00e0nh Tr\u00e1i phi\u1ebfu Ch\u00edn",
     "Bitcoin Core Speeds Up Bug Fixes As AI Changes Disclosure Rules - TradingView",
@@ -446,6 +440,12 @@
     "Vingroup huy \u0111\u1ed9ng th\u00e0nh c\u00f4ng h\u00e0ng tr\u0103m t\u1ef7 Won tr\u00e1i phi\u1ebfu H\u00e0n Qu\u1ed1c, l\u00e3i su\u1ea5t 8%",
     "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
     "What to expect from Xylem\u2019s (XYL) Q3 earnings - TradingView",
-    "America by the numbers: How voters feel about the economy, inflation, AI and Tru"
+    "America by the numbers: How voters feel about the economy, inflation, AI and Tru",
+    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
+    "The virtual worlds where robots are trained",
+    "Why is Eagers Auto stock surging today?",
+    "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
+    "Nguy\u1ec5n Ng\u1ecdc L\u00e2m chuy\u1ec3n kho\u1ea3n 15.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n Vietcombank c\u1ee7a Nguy\u1ec5",
+    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance"
   ]
 }
