@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793008640.552373,
-  "last_bot4": 1793017685.2162104,
+  "last_bot4": 1793018373.023221,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793018021.4006743,
+  "last_signals": 1793018373.0240746,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1793016791.8427422,
@@ -58,7 +58,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -123,8 +123,8 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793018022.6044946,
-    "Ethereum|1D:bot": 1793018022.1021934,
+    "EUR/USD|4H:bot": 1793018374.5314183,
+    "Ethereum|1D:bot": 1793018373.9244556,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793018021.9013498,
+    "Bitcoin|1D:bot": 1793018373.7380166,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793017999.49585,
-  "last_news": 1793018021.3999028,
+  "last_analysis": 1793018357.0131934,
+  "last_news": 1793018373.0225582,
   "seen_news": [
-    "Four ways Labour could raise money in the Budget without hiking income tax",
-    "Why is Zip Co stock surging today?",
-    "Trump: We may do another operation against Iran",
-    "4 lo\u1ea1i rau c\u1ee7 t\u1ebf b\u00e0o ung th\u01b0 r\u1ea5t th\u00edch, \"b\u00e1n r\u1ebb nh\u01b0 cho\" c\u0169ng \u0111\u1eebng \u0111\u1ed9ng v\u00e0o d\u00f9 c",
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
-    "First Tick: Top global cues to watch in today's trade - TradingView",
     "Nifty slide brings 18 month old support back to the fore - TradingView",
     "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
     "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
@@ -446,6 +440,12 @@
     "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offe",
     "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may h",
     "The start-ups hoping to return battery making to the US",
-    "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September"
+    "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September",
+    "How the oil capital of the US welcomed a solar power boom",
+    "PrimeXBT\u2019s PXTrader 2.0 platform: 5 Features to Check Out Before Your Next Trade",
+    "Sun Group ra m\u1eaft \u1ee9ng d\u1ee5ng \u0111\u1eb7c bi\u1ec7t, tr\u1ef1c ti\u1ebfp k\u1ebft n\u1ed1i v\u1edbi to\u00e0n b\u1ed9 h\u1ec7 sinh th\u00e1i n",
+    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
+    "Walmart sets holiday shopping event plans - TradingView",
+    "Caregiving for adult relatives can cost thousands. AARP survey finds support cou"
   ]
 }
