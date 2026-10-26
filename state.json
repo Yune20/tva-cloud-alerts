@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793049424.2726738,
+  "last_signals": 1793050026.177989,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793040375.2609503,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -64,9 +64,9 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793046959.444234,
+    "Ethereum|1D:bot": 1793050027.6567545,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793049425.2582834,
+    "Bitcoin|1D:bot": 1793050027.2623148,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
   "last_analysis": 1793049730.0719776,
-  "last_news": 1793049424.2718172,
+  "last_news": 1793050026.1773548,
   "seen_news": [
-    "How the oil capital of the US welcomed a solar power boom",
-    "PrimeXBT\u2019s PXTrader 2.0 platform: 5 Features to Check Out Before Your Next Trade",
-    "Sun Group ra m\u1eaft \u1ee9ng d\u1ee5ng \u0111\u1eb7c bi\u1ec7t, tr\u1ef1c ti\u1ebfp k\u1ebft n\u1ed1i v\u1edbi to\u00e0n b\u1ed9 h\u1ec7 sinh th\u00e1i n",
-    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
-    "Walmart sets holiday shopping event plans - TradingView",
-    "Caregiving for adult relatives can cost thousands. AARP survey finds support cou",
     "Th\u1ee7 t\u01b0\u1edbng Ba Lan th\u01b0\u1edfng th\u1ee9c rau mu\u1ed1ng x\u00e0o t\u1ecfi t\u1ea1i H\u00e0 N\u1ed9i: V\u00ec sao nhi\u1ec1u kh\u00e1ch qu",
     "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
     "ORN Q3'26 Earnings: EPS estimate is 0.09 USD - TradingView",
@@ -446,6 +440,12 @@
     "Meta announces $95 billion stock offering to fund AI expansion",
     "The tech helping crack decades-old cold cases",
     "Exclusive: HyProMag USA maps three new magnet plants to quadruple U.S. capacity",
-    "Carney says Canada has not budged as US trade deal looks less imminent than clai"
+    "Carney says Canada has not budged as US trade deal looks less imminent than clai",
+    "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus ",
+    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa \u0111ang x\u00e2y t\u1ed5 h\u1ee3p th\u1ec3 thao l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi, quy m\u00f4 40ha v",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
+    "SR BANCORP, INC. ANNOUNCES FINANCIAL RESULTS - TradingView",
+    "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amaz",
+    "DOJ charges ex-FBI Director James Comey in new case"
   ]
 }
