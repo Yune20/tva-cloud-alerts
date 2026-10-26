@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792972798.0728798,
+  "last_signals": 1792973263.37367,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -63,10 +63,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -119,7 +119,7 @@
     "Bitcoin|4H:top": 1792633013.8373923,
     "USD/JPY|4H:top": 1792000672.5384696,
     "JPY Index|4H:top": 1792000673.3525965,
-    "USOIL|4H:top": 1792972798.4167,
+    "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792972780.8708737,
-  "last_news": 1792972795.5493207,
+  "last_analysis": 1792973254.963999,
+  "last_news": 1792973263.3682466,
   "seen_news": [
-    "First Hawaiian Q3 2026 Earnings Call Is Live - TradingView",
-    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
-    "Why are more roofs not made of solar tiles?",
-    "Chinese equities face prolonged downturn as earnings forecasts tumble",
-    "US expected to remove 50% tariffs on some Canadian products as soon as today - r",
-    "5 th\u00f3i quen khi\u1ebfn b\u1ea1n l\u1ecdt v\u00e0o \"t\u1ea7m ng\u1eafm\" c\u1ee7a gan nhi\u1ec5m m\u1ee1: C\u00e1i th\u1ee9 3 ch\u1eb3ng ai ng",
     "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
     "Should Aggregators block AI Agents?",
     "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before B",
@@ -446,6 +440,12 @@
     "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
     "UK immigration crackdown threatens \u00a315 billion care sector - Bloomberg",
-    "UMich final October final consumer sentiment 48.0 vs 46.3 expected"
+    "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+    "Websites taken down worldwide as critical cyber-security update issued",
+    "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
+    "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
+    "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
+    "\u0110\u1ea3 n\u1eef m\u00e0n \u1ea3nh tu\u1ed5i 64: D\u00e0nh 2 n\u0103m luy\u1ec7n Rubik \u0111\u1ec3 \u0111\u00f3ng phim, t\u1eadp squat khi \u0111\u00e1nh r",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
   ]
 }
