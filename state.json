@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793057307.6050205,
+  "last_signals": 1793057964.8985102,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -72,7 +72,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793057308.9544036,
+    "Ethereum|1D:bot": 1793057965.5730855,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793057308.645217,
+    "Bitcoin|1D:bot": 1793057965.4157321,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793057297.5458965,
-  "last_news": 1793057307.6041782,
+  "last_analysis": 1793057912.1668699,
+  "last_news": 1793057964.8976774,
   "seen_news": [
-    "A $1 Trillion Depreciation Bomb Is Ticking Beneath the AI Market - TradingView",
-    "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-    "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-    "Are California voters about to impose 'world's first' tax on billionaires?",
-    "Russian Refiners Ramp Up Diesel Output to Supply Trump Deal",
-    "U.S.  yields hover near 3-week lows as ahead of Fed decision",
     "Investors are doing just as well this year by shunning AI. How to invest if the ",
     "What is PHP and why did it spark a global cyber-security scramble?",
     "India\u2019s BPCL to Cut Russian Oil Imports Due to Higher Prices",
@@ -446,6 +440,12 @@
     "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
     "The start-ups hoping to return battery making to the US",
     "Dollar rebounds as euro slips ahead of key central bank decisions",
-    "BoJ preview: MUFG sees hold but a 2% inflation call, with two dissenters the key"
+    "BoJ preview: MUFG sees hold but a 2% inflation call, with two dissenters the key",
+    "B\u00e1c s\u0129 Nguy\u1ec5n L\u00e2n Hi\u1ebfu ti\u1ebft l\u1ed9 c\u00e1ch b\u1ec7nh vi\u1ec7n Singapore ti\u1ebft ki\u1ec7m h\u00e0ng tri\u1ec7u USD",
+    "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midt",
+    "Lights will stay on this winter, grid operator says after concerns",
+    "Analysis-China\u2019s lab-grown diamond makers target AI, chip sectors for next wave ",
+    "ICYMI: Morgan Stanley sees 10%-15% more downside for Chinese offshore stocks bef",
+    "Cu\u1ed9c s\u1ed1ng t\u1ea1i nh\u00e0 c\u1ee7a 2 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng Vi\u1ec7t c\u00f3 ngh\u00ecn t\u1ef7"
   ]
 }
