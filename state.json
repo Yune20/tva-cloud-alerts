@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792973263.37367,
+  "last_signals": 1792973857.7244313,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792766898.0420725,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -57,7 +57,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792973254.963999,
-  "last_news": 1792973263.3682466,
+  "last_analysis": 1792973849.1770968,
+  "last_news": 1792973857.7236347,
   "seen_news": [
-    "Airbnb hosts can no longer make guests strip beds and wash dishes under new rule",
-    "Should Aggregators block AI Agents?",
-    "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before B",
-    "Tin vui cho ng\u01b0\u1eddi d\u00f9ng \u0111i\u1ec7n tho\u1ea1i Samsung Galaxy",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Valaris Sets Nov. 26 Court Hearing for Transocean Combination - TradingView",
     "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
     "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
     "2 c\u1ed5 phi\u1ebfu nh\u00e0 Masan v\u00e0 Vinamilk chi\u1ebfm g\u1ea7n 74% v\u1ed1n h\u00f3a to\u00e0n ng\u00e0nh th\u1ef1c ph\u1ea9m",
@@ -446,6 +440,12 @@
     "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
     "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
     "\u0110\u1ea3 n\u1eef m\u00e0n \u1ea3nh tu\u1ed5i 64: D\u00e0nh 2 n\u0103m luy\u1ec7n Rubik \u0111\u1ec3 \u0111\u00f3ng phim, t\u1eadp squat khi \u0111\u00e1nh r",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Soli",
+    "Why are more roofs not made of solar tiles?",
+    "UAE closes more beaches as Gulf oil spill raises environmental concerns",
+    "Bitcoin ETF inflows fade as price pressure tests ETF buyers\u2019 $81,300 cost basis",
+    "BIDV thu gi\u1eef bi\u1ec7t th\u1ef1 t\u1ea1i Vinhomes Riverside c\u1ee7a b\u00e0 \u0110\u1eb7ng Th\u1ecb H\u01b0\u01a1ng Lan",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,800 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
