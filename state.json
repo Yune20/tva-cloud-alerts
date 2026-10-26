@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792991410.6372929,
+  "last_signals": 1792992025.9317627,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -60,7 +60,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1792991411.2141647,
+    "Ethereum|1D:bot": 1792992027.47332,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792991411.038476,
+    "Bitcoin|1D:bot": 1792992027.1202936,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792991402.6248584,
-  "last_news": 1792991410.6363623,
+  "last_analysis": 1792992017.7400906,
+  "last_news": 1792992025.9306238,
   "seen_news": [
-    "What is PHP and why did it spark a global cyber-security scramble?",
-    "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-    "Earnings flood, Fed meeting will test rickety AI market rally",
-    "Goldman Sachs cuts Kospi target 25% to 9,000, still sees over 60% upside",
-    "\u0110\u1ecbch L\u1ec7 Nhi\u1ec7t Ba m\u1eafc m\u01b0a h\u00fat 300 tri\u1ec7u ng\u01b0\u1eddi xem, m\u00f3n \u0111\u1ed3 n\u00e0y b\u1ea5t ng\u1edd g\u00e2y s\u1ed1t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Q3/2026 - VietstockFinance",
     "SZC: CTCP Sonadezi Ch\u00e2u \u0110\u1ee9c - SZC - VietstockFinance",
     "FCA Proposes Crypto Crime Guidance On Wallet Checks And Blockchain Analytics - T",
     "More than a third of S&P 500 companies are about to report earnings as market co",
@@ -446,6 +440,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "News by CNBC TV18 on TradingView, 2026-10-26 \u2014 cnbctv:8568b5ce5094b:0 - TradingV",
     "What next for France as riots rattle markets? Three questions facing investors a",
-    "White House lifts tariffs on some Canadian goods as midterm elections loom"
+    "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+    "Lights will stay on this winter, grid operator says after concerns",
+    "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+    "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
+    "Weekend - China warns of countermeasures as US Treasury widens tech investment c",
+    "Nam ca s\u0129 SN 1977 s\u1edf h\u1eefu bi\u1ec7t th\u1ef1 t\u1eeb Vi\u1ec7t Nam qua M\u1ef9: \"C\u00f3 giai \u0111o\u1ea1n t\u00f4i ch\u00e1n n\u1ea3n"
   ]
 }
