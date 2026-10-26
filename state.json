@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793052580.613047,
+  "last_signals": 1793053251.7247975,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793040375.2609503,
+    "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1792978136.2311237,
@@ -57,7 +57,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793052581.2819817,
+    "Ethereum|1D:bot": 1793053252.484353,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793052581.1200485,
+    "Bitcoin|1D:bot": 1793053252.2913601,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793052878.6855426,
-  "last_news": 1793052574.1363523,
+  "last_analysis": 1793053244.584697,
+  "last_news": 1793053251.7239335,
   "seen_news": [
-    "Retail investors are getting cold feet about stocks, just when the market needs ",
-    "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-    "White House lifts tariffs on some Canadian goods as midterm elections loom",
-    "Nasdaq finds some relief as US-Iran tensions cool; downside risks persist",
-    "Ph\u00e2n lu\u1ed3ng giao th\u00f4ng \u0111\u01b0\u1eddng Kim M\u00e3 ph\u1ee5c v\u1ee5 thi c\u00f4ng ga S9",
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "AI giant Anthropic unveils plans for blockbuster share listing",
     "Brazil ETF tumbles nearly 15% in Tokyo after Lula\u2019s comeback runoff win",
     "TP.HCM m\u1eddi nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i c\u00f9ng ki\u1ebfn t\u1ea1o c\u01a1 h\u1ed9i, \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng m\u1edbi",
@@ -446,6 +440,12 @@
     "B\u1eaft gi\u1eef h\u00e0ng tr\u0103m \u0111\u1ed1i t\u01b0\u1ee3ng l\u1eadp \u1ed5 nh\u00f3m l\u1eeba \u0111\u1ea3o xuy\u00ean qu\u1ed1c gia t\u1ea1i Thanh H\u00f3a",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
     "Injective launches onchain futures market tracking Nvidia GPU rental costs - Tra",
-    "Options traders are seizing control of the S&P 500"
+    "Options traders are seizing control of the S&P 500",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "Dollar General Faces FTC and State Lawsuit Seeking Monetary Relief - TradingView",
+    "Dividend stocks are having an excellent October as tech sector struggles",
+    "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly",
+    "The AI telling farmers when to harvest",
+    "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm"
   ]
 }
