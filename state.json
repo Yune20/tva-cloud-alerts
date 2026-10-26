@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792984625.349434,
+  "last_signals": 1792985233.062125,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -60,7 +60,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792984625.5019937,
+    "Gold|4H:bot": 1792985233.288835,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792984617.8903618,
-  "last_news": 1792984625.1116157,
+  "last_analysis": 1792985224.951425,
+  "last_news": 1792985233.0612123,
   "seen_news": [
-    "Tank barrel production returns to UK after 20 years",
-    "Britain will not join Canada\u2019s defence bank, source says",
-    "Canada August retail sales +1.2% vs +1.3% expected",
-    "Sang n\u0103m 2027, nh\u1eefng tr\u01b0\u1eddng h\u1ee3p sau s\u1ebd kh\u00f4ng \u0111\u01b0\u1ee3c sang t\u00ean s\u1ed5 \u0111\u1ecf: Ng\u01b0\u1eddi d\u00e2n l\u01b0u ",
-    "Ti\u00eau \u0111i\u1ec3m Th\u1ecb tr\u01b0\u1eddng: L\u1ea1m ph\u00e1t \u1edf M\u1ef9 - V\u1eabn neo \u1edf m\u1ee9c cao? (14/10/2026) - Vietstoc",
-    "Starcore International Mines Ltd. (SAM) Appoints CEO, COO, CFO After AGM - Tradi",
     "Trading on Margin: What It Means and How to Get Started",
     "30 n\u0103m ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam: T\u1eeb 2 c\u1ed5 phi\u1ebfu \u0111\u1ebfn 10 tri\u1ec7u t\u1ef7 v\u1ed1n h\u00f3a, m\u1ed9t ch\u01b0\u01a1ng m",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 duy tr\u00ec \u1ed5n \u0111\u1ecbnh tr\u01b0\u1edbc nhi\u1ec1u bi\u1ebfn \u0111\u1ed9ng - Viets",
@@ -446,6 +440,12 @@
     "The start-ups hoping to return battery making to the US",
     "Fuel Oil Becomes Asia\u2019s Next Cost Shock",
     "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-    "Saudi Arabia to store crude in Singapore caverns from 2027 as Hormuz disruption "
+    "Saudi Arabia to store crude in Singapore caverns from 2027 as Hormuz disruption ",
+    "Goldman\u2019s 79-tonne central bank gold estimate goes mainstream as reserves shift ",
+    "C\u1eadn c\u1ea3nh V\u00e0nh \u0111ai 3 TP.HCM qua T\u00e2y Ninh t\u0103ng t\u1ed1c v\u1ec1 \u0111\u00edch",
+    "VRE: CTCP Vincom Retail - VINCOM RETAIL.,JSC - VietstockFinance",
+    "Dollar Slips as Traders Await Fed Decision - TradingView",
+    "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mu",
+    "The grads ditching the UK for a fresh start abroad"
   ]
 }
