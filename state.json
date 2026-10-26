@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792981822.2485647,
+  "last_signals": 1792982432.8028529,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1792978136.2311237,
-    "5575146754|Gold|4H|dbot": 1792978748.9421968,
+    "5575146754|Gold|4H|dbot": 1792982432.8028529,
     "5575146754|Gold|4H|dn": 1792728264.0235655,
     "5575146754|Gold|1H|dn": 1792728264.0235655,
     "5575146754|Gold|1D|tbot": 1792650150.3931532,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792981822.550143,
+    "Gold|4H:bot": 1792982433.1950042,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792981813.7821672,
-  "last_news": 1792981822.247839,
+  "last_analysis": 1792982424.4278355,
+  "last_news": 1792982432.7816494,
   "seen_news": [
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-    "investingLive European session wrap: Equities cautious as Treasury yields reboun",
-    "Gi\u00e1m \u0111\u1ed1c Ph\u00e2n t\u00edch SSI d\u1ef1 b\u00e1o k\u1ecbch b\u1ea3n 10 t\u1ef7 USD ch\u1ea3y v\u00e0o ch\u1ee9ng kho\u00e1n Vi\u1ec7t nam",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
-    "Over $815M in crypto positions liquidated as Bitcoin, Ether prices drop - Tradin",
-    "Trump's executive order targets mortgage insurance, refinance costs. What it mea",
     "NZDUSD buyers are trying to make a play. The 38.2% retracement remains the next ",
     "T\u1ef7 l\u1ec7 margin tr\u00ean quy m\u00f4 v\u1ed1n h\u00f3a th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n l\u1eadp k\u1ef7 l\u1ee5c m\u1edbi, \u0111i\u1ec1u g\u00ec ",
     "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
@@ -446,6 +440,12 @@
     "My husband wants to sell our $1.5 million home and invest the proceeds. But this",
     "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms dur",
     "Rainmakers: The drones used to seed clouds",
-    "Why is Ingenia Communities stock rallying today?"
+    "Why is Ingenia Communities stock rallying today?",
+    "Why popular airplanes are getting scrapped years early",
+    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
+    "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
+    "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
+    "D\u1ea5u hi\u1ec7u bi\u1ec3u t\u00ecnh \u1edf Ph\u00e1p ch\u01b0a \u0111\u1ea1t \u0111\u1ec9nh, l\u00e0n s\u00f3ng th\u1ee9 2 s\u1eafp b\u1eaft \u0111\u1ea7u?"
   ]
 }
