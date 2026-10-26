@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793030793.6635253,
+  "last_news_report": 1793041628.3124065,
   "last_bot4": 1793041282.3869588,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793040992.1980264,
+  "last_signals": 1793041628.3134408,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793040375.2609503,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -61,7 +61,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -73,11 +73,11 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
-    "GBP/USD|1D": false,
+    "GBP/USD|4H": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793040993.339651,
+    "Ethereum|1D:bot": 1793041629.0290637,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793040993.0126705,
+    "Bitcoin|1D:bot": 1793041628.8425317,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793040983.0482407,
-  "last_news": 1793040992.1972046,
+  "last_analysis": 1793041615.9155862,
+  "last_news": 1793041623.3772044,
   "seen_news": [
-    "Sterling today: Pound slips as dollar holds firm ahead of Fed decision",
-    "Germany Ifo business confidence improves in October as expectations surprise hig",
-    "Nghi\u00ean c\u1ee9u Harvard cho th\u1ea5y: Tr\u01b0\u1edbc 10 tu\u1ed5i, tr\u1ebb c\u00f3 3 c\u01a1 h\u1ed9i tr\u1edf n\u00ean th\u00f4ng minh h",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "The Commercial Bank Q3 2026 Earnings Call Is Live - TradingView",
-    "Cheesecake Factory was just the subject of unflattering headlines. It\u2019s actually",
     "Kh\u1ed1i ngo\u1ea1i 'x\u1ea3' g\u1ea7n 900 t\u1ef7 \u0111\u1ed3ng, VN-Index \u0111\u1ee9t chu\u1ed7i t\u0103ng",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
     "Consumer Discretionary Earnings: EPS beats outpace revenue - TradingView",
@@ -446,6 +440,12 @@
     "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
     "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
     "\u201cCh\u1eadt v\u1eadt\u201d ngh\u1ec1 m\u00f4i gi\u1edbi ch\u1ee9ng kho\u00e1n",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance"
+    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
+    "Vi\u1ec7t Nam c\u00f3 1 \u201cl\u00e0ng bi\u1ec7t th\u1ef1 Ph\u00e1p\u201d n\u1eb1m \u1edf \u0111\u1ed9 cao 1.500m, m\u00e1t m\u1ebb quanh n\u0103m: Gi\u00e1 ch",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
+    "CoreWeave, Iren Slip as Musk Predicts Neocloud Shakeout - TradingView",
+    "J&J's potential 'game-changer' drug \u2014 plus, what Microsoft's mass buyouts mean",
+    "Healey to shield low-income pensioners from income tax in the Budget",
+    "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens"
   ]
 }
