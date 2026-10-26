@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793041628.3124065,
-  "last_bot4": 1793041931.4455097,
+  "last_bot4": 1793042568.0024016,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793041282.3868978
+    "Gold": 1793042568.0023327
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793042225.6054683,
+  "last_signals": 1793042568.0032363,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793040375.2609503,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -71,7 +71,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793042226.2967098,
+    "Ethereum|1D:bot": 1793042569.3025138,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793042226.1296008,
+    "Bitcoin|1D:bot": 1793042568.9283931,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793041931.4442112,
-  "last_news": 1793042225.6047273,
+  "last_analysis": 1793042554.035237,
+  "last_news": 1793042564.963009,
   "seen_news": [
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Will a new code end 'rip-off parking charges'?",
-    "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz",
-    "BofA sees Norwegian krone weakening against Swedish krona",
-    "What is the FOMC blackout period and why do central banks have one",
-    "B\u1ed9 X\u00e2y d\u1ef1ng si\u1ebft ti\u1ebfn \u0111\u1ed9 gi\u1ea3i ng\u00e2n v\u1ed1n \u0111\u1ea7u t\u01b0 c\u00f4ng",
     "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses ",
     "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
     "U.S. stock futures rise after bruising tech-fueled losses",
@@ -446,6 +440,12 @@
     "Binance Delists Seven Cryptocurrencies From Its Alpha Platform - TradingView",
     "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylv",
     "Why are more roofs not made of solar tiles?",
-    "Sterling today: Pound slips as dollar holds firm ahead of Fed decision"
+    "Sterling today: Pound slips as dollar holds firm ahead of Fed decision",
+    "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too b",
+    "How war, security and coalition math are shaping the Israeli election",
+    "What is the Budget and what could be in it?",
+    "Fed hold expected this week as markets watch for December hike signals",
+    "Saudi Arabia offers cash to Houthis to stop attacks - report",
+    "\u0110\u1ea1i gia g\u1ed1c Thanh H\u00f3a t\u1eebng ghi d\u1ea5u t\u1ea1i s\u00e2n v\u1eadn \u0111\u1ed9ng 40.000 ch\u1ed7 l\u1edbn ngang s\u00e2n M\u1ef9 "
   ]
 }
