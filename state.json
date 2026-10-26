@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793053862.707853,
+  "last_signals": 1793054482.1087122,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -43,7 +43,7 @@
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
-    "5575146754|Gold|1D|trap_dn": 1793032419.5030375
+    "5575146754|Gold|1D|trap_dn": 1793054482.1087122
   },
   "sig_range": {
     "Gold": true,
@@ -64,7 +64,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793053252.484353,
+    "Ethereum|1D:bot": 1793054482.8844576,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793053863.5605812,
+    "Bitcoin|1D:bot": 1793054482.6678512,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793053853.469914,
-  "last_news": 1793053862.7072742,
+  "last_analysis": 1793054472.098545,
+  "last_news": 1793054482.1078439,
   "seen_news": [
-    "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
-    "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-    "Rosebank: Life on the oil field at the centre of a political storm",
-    "Super El Ni\u00f1o May Soften Winter Energy Squeeze",
-    "Weekend - China warns of countermeasures as US Treasury widens tech investment c",
-    "L\u1ea7u N\u0103m G\u00f3c c\u00f4ng b\u1ed1 t\u00e0i li\u1ec7u m\u1edbi v\u1ec1 UFO: Ph\u00e1t hi\u1ec7n tam gi\u00e1c \u0111en b\u00ed \u1ea9n kh\u00f4ng th\u1ec3 ",
     "Civil servant who juggled five jobs says he was 'surprised' to be charged with f",
     "Bitcoin sellers make a play below the range. Can they keep control?",
     "Nghi\u00ean c\u1ee9u vi\u00ean c\u1ee7a m\u1ed9t tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc SN 1999 c\u00f3 t\u00e0i s\u1ea3n h\u01a1n 2.000 t\u1ef7",
@@ -446,6 +440,12 @@
     "White House lifts tariffs on some Canadian goods as midterm elections loom",
     "IEA\u2019s Birol: Energy Prices Won\u2019t Return to Pre-War Levels in 2027",
     "JetBlue seeks to reassure investors as losses deepen",
-    "NZIER Shadow Board majority backs 25bp RBNZ hike to 3% as oil and weaker kiwi bi"
+    "NZIER Shadow Board majority backs 25bp RBNZ hike to 3% as oil and weaker kiwi bi",
+    "Japan services PPI preview: 3.7% pace in focus ahead of Friday\u2019s BoJ decision",
+    "L\u1eddi khuy\u00ean cho nh\u1eefng ng\u01b0\u1eddi \u0103n s\u00e1ng b\u1eb1ng c\u01a1m tr\u1eafng m\u1ed7i ng\u00e0y",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "Northwest Bancshares\u2019s (NASDAQ:NWBI) Q3 2026 sales beat estimates - TradingView",
+    "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+    "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fi"
   ]
 }
