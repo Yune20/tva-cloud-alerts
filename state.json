@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792999985.2336614,
+  "last_signals": 1793000592.7874944,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -81,8 +81,8 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1792999985.973233,
+    "Ethereum|1D:bot": 1793000593.9031463,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792999985.7947102,
+    "Bitcoin|1D:bot": 1793000593.5954223,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792999977.7348146,
-  "last_news": 1792999985.232822,
+  "last_analysis": 1793000585.1512203,
+  "last_news": 1793000592.7866466,
   "seen_news": [
-    "How the oil capital of the US welcomed a solar power boom",
-    "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
-    "Anthropic\u2019s Claude accessed Georgia state vote count information behind paywall,",
-    "Standard Chartered sees debt-funded share of AI capex rising to 40% in 2027 from",
-    "C\u1ea3 v\u1ea1n ng\u01b0\u1eddi xoay x\u1edf tho\u00e1t kh\u1ecfi s\u00e2n M\u1ef9 \u0110\u00ecnh l\u00fac n\u1eeda \u0111\u00eam",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 76,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans?",
     "BOJ preview: Daiwa sees hold, but 2% inflation call could open door to December ",
     "D\u1edf dang khu ngh\u1ec9 d\u01b0\u1ee1ng h\u00e0ng tr\u0103m tri\u1ec7u USD b\u00ean v\u1ecbnh L\u0103ng C\u00f4",
@@ -446,6 +440,12 @@
     "Preview: RBNZ set to lift OCR to 3% ahead of election as oil and weak kiwi fuel ",
     "Lo\u1ea1i c\u00e1 gi\u00e0u omega-3 canxi g\u1ea5p 25 l\u1ea7n c\u00e1 h\u1ed3i nh\u01b0ng gi\u00e1 r\u1ebb h\u01a1n \u00edt nh\u1ea5t 10 l\u1ea7n, ch",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: Q3 sales, EBIT upgrade and $40M synergies, margin pressure - Tradi"
+    "Weekly Recap: Q3 sales, EBIT upgrade and $40M synergies, margin pressure - Tradi",
+    "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists ",
+    "X\u00f4n xao clip L\u01b0u Di\u1ec7c Phi s\u1ed1ng hai m\u1eb7t, c\u00f3 th\u00e1i \u0111\u1ed9 coi th\u01b0\u1eddng \u0111\u00e0n em g\u00e2y \"n\u00f3ng m",
+    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
+    "Pick N Pay Stores Announces Agreement On Store Labour Model Restructure - Tradin",
+    "Moody's holds steady on France's credit rating as country grapples with turmoil ",
+    "The Indian workers filming their work to train AI"
   ]
 }
