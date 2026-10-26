@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793009879.8440895,
+  "last_signals": 1793010495.7029665,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -43,7 +43,7 @@
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
-    "5575146754|Gold|1D|trap_dn": 1792988352.1046674
+    "5575146754|Gold|1D|trap_dn": 1793010495.7029665
   },
   "sig_range": {
     "Gold": true,
@@ -60,7 +60,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -74,7 +74,7 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": true,
+    "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1793009880.8676324,
+    "Ethereum|1D:bot": 1793010496.9297378,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793009880.6621125,
+    "Bitcoin|1D:bot": 1793010496.608345,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793009867.7699714,
-  "last_news": 1793009879.8429205,
+  "last_analysis": 1793010485.537877,
+  "last_news": 1793010495.7020905,
   "seen_news": [
-    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
-    "Anthropic\u2019s Claude AI accessed Georgia voter data without authorization- Axios",
-    "BOJ to hold at 1.25%, but Ueda signals further hikes toward neutral",
-    "T\u00e1c gi\u1ea3 'Cha gi\u00e0u, cha ngh\u00e8o' tuy\u00ean b\u1ed1 d\u00f9ng kho\u1ea3n n\u1ee3 1,2 t\u1ef7 USD \u0111\u1ec3 l\u00e0m gi\u00e0u, g\u1ecdi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - VietstockFinance",
-    "Revolver Resources Executes A$3 Million Bridge Loan Facility With BBPRI Pty - Tr",
     "M\u1ed9t h\u00e3ng bia h\u01a1n 160 n\u0103m tu\u1ed5i t\u1ed5 ch\u1ee9c ch\u01a1i pickleball, giao l\u01b0u c\u1ed9ng \u0111\u1ed3ng t\u1ea1i H\u00e0",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 09/2026 - T\u0103ng tr\u01b0\u1edfng b\u1ee9t t\u1ed1c, xu\u1ea5t si\u00eau tr\u1edf l\u1ea1i - Vietstoc",
     "Japan bond yields edge higher before key central bank meets - TradingView",
@@ -446,6 +440,12 @@
     "Nghi\u00ean c\u1ee9u Harvard cho th\u1ea5y: Tr\u01b0\u1edbc 10 tu\u1ed5i, tr\u1ebb c\u00f3 3 c\u01a1 h\u1ed9i tr\u1edf n\u00ean th\u00f4ng minh h",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
     "The Commercial Bank Q3 2026 Earnings Call Is Live - TradingView",
-    "Cheesecake Factory was just the subject of unflattering headlines. It\u2019s actually"
+    "Cheesecake Factory was just the subject of unflattering headlines. It\u2019s actually",
+    "Kh\u1ed1i ngo\u1ea1i 'x\u1ea3' g\u1ea7n 900 t\u1ef7 \u0111\u1ed3ng, VN-Index \u0111\u1ee9t chu\u1ed7i t\u0103ng",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
+    "Consumer Discretionary Earnings: EPS beats outpace revenue - TradingView",
+    "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong t",
+    "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+    "What is the Budget and what could be in it?"
   ]
 }
