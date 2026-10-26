@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793030793.6635253,
-  "last_bot4": 1793035175.4377828,
+  "last_bot4": 1793035863.628618,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793035509.4775589,
+  "last_signals": 1793035863.629157,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
     "5575146754|Gold|4H|range_in": 1793032419.5030375,
@@ -71,18 +71,18 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -123,8 +123,8 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793035511.6308112,
-    "Ethereum|1D:bot": 1793035510.6351974,
+    "EUR/USD|4H:bot": 1793035865.98542,
+    "Ethereum|1D:bot": 1793035865.0376244,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793035510.3315332,
+    "Bitcoin|1D:bot": 1793035864.7020676,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793035494.3940406,
-  "last_news": 1793035509.4765155,
+  "last_analysis": 1793035852.7598476,
+  "last_news": 1793035863.6277614,
   "seen_news": [
-    "People in China are spending nearly as much of their income as Americans on heal",
-    "Salon owners urge Budget VAT cut as staffing pressures grow",
-    "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
-    "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
-    "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
-    "L\u1eadp danh s\u00e1ch ng\u01b0\u1eddi d\u00f9ng drone, flycam \u1edf TPHCM",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Saudi Arabia Trade Surplus Narrows in August - TradingView",
     "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level d",
@@ -446,6 +440,12 @@
     "Can JetBlue still avoid bankruptcy? Analysis says yes, but it won\u2019t be easy",
     "Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree ",
     "Ph\u00f3 Ch\u1ee7 t\u1ecbch Qu\u1ed1c h\u1ed9i n\u00f3i g\u00ec v\u1ec1 \u0111\u1ec1 xu\u1ea5t ti\u1ebfp t\u1ee5c n\u00e2ng m\u1ee9c ph\u1ea1t vi ph\u1ea1m h\u00e0nh ch\u00edn",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
+    "BNP Paribas weighs jumbo \u20ac16B SRT as European issuance accelerates - Bloomberg",
+    "What are the main events for today?",
+    "Trung Qu\u1ed1c \u0111\u01b0a 'b\u00e1u v\u1eadt c\u00f4ng ngh\u1ec7' cao 125m sang Vi\u1ec7t Nam, ph\u1ee5c v\u1ee5 si\u00eau d\u1ef1 \u00e1n 1.",
+    "Vietnam strategy report - VietstockFinance",
+    "Gold gains as oil slide cools some inflation concerns - TradingView"
   ]
 }
