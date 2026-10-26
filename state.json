@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793044747.4137657,
+  "last_signals": 1793045412.3183062,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793040375.2609503,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -64,7 +64,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793044748.794305,
+    "Ethereum|1D:bot": 1793045413.0709653,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793044748.4000437,
+    "Bitcoin|1D:bot": 1793045412.8759005,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793045047.93179,
-  "last_news": 1793044747.4130614,
+  "last_analysis": 1793045402.378881,
+  "last_news": 1793045412.3174741,
   "seen_news": [
-    "The Kospi index is the leading indicator for the global AI trade \u2014 and Goldman j",
-    "What Democrats and Republicans fear most about each other: CNBC survey has the a",
-    "Budget to include \u00a31bn for social and affordable housing",
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-    "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
-    "Ph\u1ee5 n\u1eef kh\u00f4ng c\u1ea7n qu\u00e1 lo l\u1eafng v\u1ec1 r\u1ee5ng t\u00f3c: 3 m\u00f3n n\u00ean \u0103n nhi\u1ec1u h\u01a1n, ch\u00fang t\u1ed1t ngan",
     "Meta launches $35 billion stock offering to fund AI expansion",
     "Oil retreats as Trump refrains from striking Iran over the weekend; risk of atta",
     "D\u1ef1 \u00e1n C\u1ea3ng h\u00e0ng kh\u00f4ng qu\u1ed1c t\u1ebf Long Th\u00e0nh c\u00f3 nguy c\u01a1 ch\u1eadm ti\u1ebfn \u0111\u1ed9",
@@ -446,6 +440,12 @@
     "Why popular airplanes are getting scrapped years early",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "Skydance offers buyouts to some employees to cut costs after Warner Bros merger",
-    "Germany Ifo business confidence improves in October as expectations surprise hig"
+    "Germany Ifo business confidence improves in October as expectations surprise hig",
+    "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+    "Ben & Jerry\u2019s exploring deal with KKR executive to separate ice cream brand from",
+    "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
+    "M\u1ed9t c\u00f4ng ty Vi\u1ec7t Nam \u0111\u1eb7t mua 1.000 robot t\u1eeb Trung Qu\u1ed1c gi\u1eefa l\u00fac th\u1ecb tr\u01b0\u1eddng \u0111\u01b0\u1ee3c ",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "Tesla Stock Soars on Wave of Analyst Upgrades - TradingView"
   ]
 }
