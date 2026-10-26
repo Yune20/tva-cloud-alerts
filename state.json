@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793030793.6635253,
-  "last_bot4": 1793037505.326369,
+  "last_bot4": 1793038474.291786,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793037505.3262618
+    "Gold": 1793038474.291644
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793038102.482035,
+  "last_signals": 1793038474.2925222,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -71,7 +71,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
@@ -82,7 +82,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793038104.07773,
+    "Ethereum|1D:bot": 1793038475.0890584,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793038103.6673074,
+    "Bitcoin|1D:bot": 1793038474.9033122,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793037808.783279,
-  "last_news": 1793038102.4814477,
+  "last_analysis": 1793038462.275271,
+  "last_news": 1793038471.6978545,
   "seen_news": [
-    "Stock earnings pick of the week: Can Microsoft's AI growth still justify its spe",
-    "L\u1eddi n\u00f3i cu\u1ed1i c\u00f9ng \u0111\u1ea7y \u00e1m \u1ea3nh c\u1ee7a \"Ng\u01b0\u1eddi \u0111\u1eb9p ng\u1ee7\" \u0111\u00e3 \u0111\u00f3ng b\u0103ng c\u1ea3 th\u1eadp k\u1ef7 tr\u00ean \u0111\u1ec9",
-    "B\u00c1O C\u00c1O - VietstockFinance",
-    "Binance Delists Seven Cryptocurrencies From Its Alpha Platform - TradingView",
-    "Support for semiconductor stocks could be as much as 15% lower than current leve",
-    "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "FTSE MIB Rises on Monday - TradingView",
     "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 mil",
@@ -446,6 +440,12 @@
     "Geopolitical tensions complicate the gold bull case, says AHG president",
     "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
     "B\u00e1c s\u0129 ch\u1ec9nh h\u00ecnh c\u1ea3nh b\u00e1o: \u0110i\u1ec1u g\u00e2y h\u1ea1i nh\u1ea5t cho \u0111\u1ea7u g\u1ed1i kh\u00f4ng ph\u1ea3i ch\u1ea1y b\u1ed9 m\u00e0 ",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "'I wasn't thinking straight' says five jobs civil servant",
+    "Dollar General sued by FTC, U.S. states over alleged overcharging",
+    "Market outlook for the week of 26th-30th October",
+    "Nhi\u1ec1u gia \u0111\u00ecnh \u0111\u1eb7t 1 b\u00e1t mu\u1ed1i trong nh\u00e0: H\u00f3a ra v\u00ec 5 l\u00fd do n\u00e0y",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
+    "France's Verimatrix Q3 anti-piracy revenue rises, reaffirms FY outlook - Trading"
   ]
 }
