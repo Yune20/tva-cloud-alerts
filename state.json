@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793053251.7247975,
+  "last_signals": 1793053862.707853,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -64,7 +64,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793053252.2913601,
+    "Bitcoin|1D:bot": 1793053863.5605812,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793053244.584697,
-  "last_news": 1793053251.7239335,
+  "last_analysis": 1793053853.469914,
+  "last_news": 1793053862.7072742,
   "seen_news": [
-    "AI giant Anthropic unveils plans for blockbuster share listing",
-    "Brazil ETF tumbles nearly 15% in Tokyo after Lula\u2019s comeback runoff win",
-    "TP.HCM m\u1eddi nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i c\u00f9ng ki\u1ebfn t\u1ea1o c\u01a1 h\u1ed9i, \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng m\u1edbi",
-    "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
-    "Here's How PSX's Flexible Crude Slate Supports Its Refining Economics - TradingV",
-    "The 5 big voting issues in the midterm elections that will impact your wallet",
     "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
     "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
     "Rosebank: Life on the oil field at the centre of a political storm",
@@ -446,6 +440,12 @@
     "Dividend stocks are having an excellent October as tech sector struggles",
     "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly",
     "The AI telling farmers when to harvest",
-    "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm"
+    "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
+    "TikTok parent ByteDance\u2019s chatbot is now giving travel-booking sites a run for t",
+    "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may h",
+    "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "IEA\u2019s Birol: Energy Prices Won\u2019t Return to Pre-War Levels in 2027",
+    "JetBlue seeks to reassure investors as losses deepen",
+    "NZIER Shadow Board majority backs 25bp RBNZ hike to 3% as oil and weaker kiwi bi"
   ]
 }
