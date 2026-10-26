@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793030793.6635253,
-  "last_bot4": 1793038474.291786,
+  "last_bot4": 1793039139.5361352,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793038474.2925222,
+  "last_signals": 1793039139.5367527,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -71,7 +71,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
-    "Ethereum|1D:bot": 1793038475.0890584,
+    "Ethereum|1D:bot": 1793039140.3904843,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793038474.9033122,
+    "Bitcoin|1D:bot": 1793039140.201584,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793038462.275271,
-  "last_news": 1793038471.6978545,
+  "last_analysis": 1793039132.6408758,
+  "last_news": 1793039139.5353143,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "FTSE MIB Rises on Monday - TradingView",
-    "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 mil",
-    "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink ",
-    "The 'trillion pound' oil fund the government believes Britain could have built",
-    "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms",
     "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my l",
     "Behind \u2018Mad Money\u2019 was a brilliant writer viewers never saw. We lost him too soo",
     "Healey's Budget needs to sustain the stronger economy through gathering clouds",
@@ -446,6 +440,12 @@
     "Market outlook for the week of 26th-30th October",
     "Nhi\u1ec1u gia \u0111\u00ecnh \u0111\u1eb7t 1 b\u00e1t mu\u1ed1i trong nh\u00e0: H\u00f3a ra v\u00ec 5 l\u00fd do n\u00e0y",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
-    "France's Verimatrix Q3 anti-piracy revenue rises, reaffirms FY outlook - Trading"
+    "France's Verimatrix Q3 anti-piracy revenue rises, reaffirms FY outlook - Trading",
+    "\u0110\u1ed3ng ti\u1ec1n c\u1ee7a n\u1ec1n kinh t\u1ebf s\u1ed1 2 th\u1ebf gi\u1edbi t\u0103ng cao nh\u1ea5t 4 n\u0103m, tr\u01b0\u1edbc th\u1ec1m lo\u1ea1t cu\u1ed9",
+    "B\u00c1O C\u00c1O - VietstockFinance",
+    "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView",
+    "These energy stocks are poised to profit from an imminent AI power crunch",
+    "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran ",
+    "Barclays cutting 5,000 jobs as it increases reliance on AI"
   ]
 }
