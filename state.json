@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792979366.0731595,
+  "last_signals": 1792979976.1740568,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792978136.2311237,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -80,13 +80,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1792980237,
   "menu_prices": {
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792979356.954459,
-  "last_news": 1792979366.0718071,
+  "last_analysis": 1792979968.4908178,
+  "last_news": 1792979976.1729107,
   "seen_news": [
-    "Jabil FY 2026: Revenue $35.95B, EPS $9.75\u2014 10-K Summary - TradingView",
-    "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms dur",
-    "The start-ups hoping to return battery making to the US",
-    "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
-    "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Tre",
-    "'Mi\u1ebfng b\u00e1nh' c\u1eeda h\u00e0ng ti\u1ec7n l\u1ee3i 11.100 t\u1ef7 \u0111\u1ed3ng t\u1ea1i Vi\u1ec7t Nam: Chu\u1ed7i ngo\u1ea1i Circle K",
     "Firms 'holding back' on new jobs ahead of Budget",
     "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
     "Trump: We may do another operation against Iran",
@@ -446,6 +440,12 @@
     "Consumer Discretionary Earnings: EPS beats outpace revenue - TradingView",
     "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
     "Will a new code end 'rip-off parking charges'?",
-    "SK Hynix neutral in no-trade zone, awaiting breakout: Live"
+    "SK Hynix neutral in no-trade zone, awaiting breakout: Live",
+    "Commodities intraday targets/key levels - TradingView",
+    "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI",
+    "Brazil's Lula wins historic presidential election in runoff vote",
+    "What is the Budget and what could be in it?",
+    "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+    "Record ETF Inflows, Yet Stock Market Leadership Is Shifting. What's Going On?"
   ]
 }
