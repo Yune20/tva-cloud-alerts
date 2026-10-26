@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793030793.6635253,
-  "last_bot4": 1793036537.8935647,
+  "last_bot4": 1793037505.326369,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793036537.893448
+    "Gold": 1793037505.3262618
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793037136.966333,
+  "last_signals": 1793037505.3271685,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793020898.4043832,
     "5575146754|Gold|4H|range_in": 1793032419.5030375,
@@ -58,7 +58,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -71,7 +71,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
@@ -84,7 +84,7 @@
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -123,8 +123,8 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793037138.9338627,
-    "Ethereum|1D:bot": 1793037138.0997694,
+    "EUR/USD|4H:bot": 1793037506.5627294,
+    "Ethereum|1D:bot": 1793037506.0592117,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793037137.782033,
+    "Bitcoin|1D:bot": 1793037505.885834,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793036841.7982988,
-  "last_news": 1793037136.9655678,
+  "last_analysis": 1793037495.5213048,
+  "last_news": 1793037502.7422738,
   "seen_news": [
-    "Websites taken down worldwide as critical cyber-security update issued",
-    "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
-    "Genmab shares jump 13% on colorectal cancer drug trial results",
-    "Market outlook for the week of 26th-30th October",
-    "Nh\u1ea1c s\u0129 Vi\u1ec7t c\u00f3 b\u00e0i h\u00e1t l\u1ecdt top hay nh\u1ea5t th\u1ebf gi\u1edbi, thu 120 tri\u1ec7u/1 l\u1ea7n di\u1ec5n \u1edf ch",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "French yields retreat from 2002 highs as Moody\u2019s holds; ECB in focus",
     "European stock market open: Stocks push higher as French bond market tensions ea",
     "TP.HCM ch\u1ea5n ch\u1ec9nh c\u00f4ng t\u00e1c \u0111\u1ea5u gi\u00e1 quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t",
@@ -446,6 +440,12 @@
     "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
     "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
     "Big, noisy and coming to a town near you - why the data centre backlash is growi",
-    "India's Stock Market Feels the Heat From High Oil Prices"
+    "India's Stock Market Feels the Heat From High Oil Prices",
+    "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
+    "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+    "G\u1ea7n 300 nh\u00e2n vi\u00ean t\u1ea1i m\u1ed9t c\u00f4ng ty ch\u1ee9ng kho\u00e1n ngh\u1ec9 vi\u1ec7c trong qu\u00fd 3",
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Green Circle Decarbonize Technology Limited Issues Statement Regarding Unusual M",
+    "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug"
   ]
 }
