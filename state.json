@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793012043.3435898,
+  "last_signals": 1793012659.9547129,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -74,7 +74,7 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": true,
+    "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1793012044.0148516,
+    "Ethereum|1D:bot": 1793012661.452558,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793012043.8154345,
+    "Bitcoin|1D:bot": 1793012661.090924,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793012034.191952,
-  "last_news": 1793012043.342722,
+  "last_analysis": 1793012650.6826818,
+  "last_news": 1793012659.9536347,
   "seen_news": [
-    "Gold dips below $4,000 as long liquidation swamps ETF buying, Saxo Bank says",
-    "T\u1eeb ng\u00e0y 26/10, FChoice Awards 2026 tr\u1edf l\u1ea1i: C\u00e1ch th\u1ee9c g\u1eedi \u0111\u1ec1 c\u1eed, t\u1ef1 \u0111\u1ec1 c\u1eed nh\u1eefng ",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
-    "CitroTech Targets Wildfire Defense Growth With Hexion JV, CitroSafe Push - Tradi",
-    "Trump's executive order targets mortgage insurance, refinance costs. What it mea",
-    "The AI telling farmers when to harvest",
     "What Democrats and Republicans fear most about each other: CNBC survey has the a",
     "Budget to include \u00a31bn for social and affordable housing",
     "Treasury yields set for third weekly drop as AI worries fuel haven bid",
@@ -446,6 +440,12 @@
     "Nikkei slips, bounces, as Iran oil fears weigh; ING sees BOJ holding at 1.25%, t",
     "Ng\u01b0\u1eddi mua v\u00e0ng \u1edf \u0111\u1ec9nh gi\u00e1 190,2 tri\u1ec7u \u0111\u1ed3ng \u0111ang l\u1ed7 bao nhi\u00eau?",
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
-    "REG - Literacy Capital PLC - PDMR Dealing Announcement - TradingView"
+    "REG - Literacy Capital PLC - PDMR Dealing Announcement - TradingView",
+    "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
+    "GS \u0110\u1eb7ng H\u00f9ng V\u00f5: \u0110\u00e1nh thu\u1ebf b\u1ea5t \u0111\u1ed9ng s\u1ea3n b\u1ecf hoang t\u1eeb 1-5% m\u1ed7i n\u0103m m\u1edbi \u0111\u1ee7 s\u1ee9c r\u0103n ",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
+    "Carl Zeiss Meditec AG (AFX) Names Bronwyn Brophy O\u2019Connor CEO Effective Dec 1, 2",
+    "These four shocks could hand investors an unexpected buying window, strategists ",
+    "Why popular airplanes are getting scrapped years early"
   ]
 }
