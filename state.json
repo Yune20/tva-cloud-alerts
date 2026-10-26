@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1792997527.9350893,
+  "last_signals": 1792998141.048446,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -75,7 +75,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1792997528.5668907,
+    "Ethereum|1D:bot": 1792998142.4221766,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1792997528.4095156,
+    "Bitcoin|1D:bot": 1792998142.0641675,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1792997514.0717957,
-  "last_news": 1792997521.4814472,
+  "last_analysis": 1792998133.034779,
+  "last_news": 1792998141.0468004,
   "seen_news": [
-    "Australia\u2019s NEXTDC CEO to forgo fiscal 2027 bonuses after forecast cut, project ",
-    "Trump: The question is, do we want to finish Iran war or let it wither",
-    "Hoa h\u1eadu Qu\u1ef3nh Anh b\u1ecb c\u1ea5m di\u1ec5n 6 th\u00e1ng sau \u1ed3n \u00e0o nh\u00f3m chat n\u00f3i x\u1ea5u",
-    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
-    "Macallum New Energy Requests Trading Halt Pending Proposed Capital Raising Annou",
-    "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
     "AUDUSD recovery runs into the 100-day moving average. What next?",
     "Vi\u1ec7t Nam c\u00f3 '\u0111\u1ea1i gia' sang L\u00e0o nh\u1eadn th\u1ea7u 2 d\u1ef1 \u00e1n tr\u1ecb gi\u00e1 790 t\u1ef7 \u0111\u1ed3ng: Th\u00e1p \u0111\u00f4i 1",
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
@@ -446,6 +440,12 @@
     "Bitcoin buyers are fighting back, but sellers aren't finished. Here are the two ",
     "\u00d4ng Nguy\u1ec5n Xu\u00e2n \u00c1i Qu\u1ed1c l\u00e0m Ph\u00f3 T\u1ed5ng Gi\u00e1m \u0111\u1ed1c SACOMBANK",
     "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
-    "Bitcoin Hashrate Reclaims One Zettahash As Mining Competition Rebounds - Trading"
+    "Bitcoin Hashrate Reclaims One Zettahash As Mining Competition Rebounds - Trading",
+    "Nh\u00e0 \u1edf \u0111\u1ed1i di\u1ec7n \u0111\u1ed3n c\u1ea3nh s\u00e1t nh\u01b0ng ng\u01b0\u1eddi ph\u1ee5 n\u1eef ph\u1ea3i quy\u1ebft \u0111\u1ecbnh rao b\u00e1n v\u00ec l\u00fd do ",
+    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
+    "Precious Metals Buffeted By Higher Interest Rates, Deficits and Geopolitics - Tr",
+    "Retail investors are not more sophisticated than 30 years ago, says former hedge",
+    "How does the UK state pension compare with other countries?",
+    "Dollar drifts lower ahead of c.bank-packed week; Chinese yuan hits 4-yr high"
   ]
 }
