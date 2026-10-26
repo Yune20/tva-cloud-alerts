@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793000953.7202117,
+  "last_signals": 1793001573.2232978,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -81,7 +81,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1793000954.9920573,
+    "Ethereum|1D:bot": 1793001574.8036637,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793000954.6369355,
+    "Bitcoin|1D:bot": 1793001574.383387,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793000944.6021967,
-  "last_news": 1793000953.662349,
+  "last_analysis": 1793001564.0825446,
+  "last_news": 1793001573.2223978,
   "seen_news": [
-    "European stocks post weekly losses. French yields climb. Brent above $117/crude ",
-    "Tri\u1ec7t ph\u00e1 chuy\u00ean \u00e1n \u0111\u1eb7c bi\u1ec7t l\u1edbn, b\u1eaft gi\u00e1m \u0111\u1ed1c Nguy\u1ec5n Th\u1ecb Ng\u1ecdc Tr\u00e2m: C\u00e1c b\u1ecb h\u1ea1i ",
-    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
-    "Utssav CZ Gold Jewels to issue 1:1 bonus shares - TradingView",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Elon Musk Spacex Closed $40B Of Debt For GPUs - TradingView",
     "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
@@ -446,6 +440,12 @@
     "BW Energy: Drilling rig incident on the Dussafu licence - TradingView",
     "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
     "How long will humans be needed for translation?",
-    "Oil Prices Rise Despite Middle East Export Recovery"
+    "Oil Prices Rise Despite Middle East Export Recovery",
+    "US Natural Gas Sinks to Two-Year Low - TradingView",
+    "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
+    "X-planes: Are they needed in the new era of drones?",
+    "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
+    "GSK cancer drug clears rectal tumours in 76% of patients in trial, data shows",
+    "Standard Chartered sees debt-funded share of AI capex rising to 40% in 2027 from"
   ]
 }
