@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793011720.5088377,
+  "last_signals": 1793012043.3435898,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1792981209.056693,
     "5575146754|Gold|4H|range_in": 1792762226.039031,
@@ -74,7 +74,7 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
@@ -124,7 +124,7 @@
     "DXY|4H:top": 1791864527.4493434,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1792767526.6147385,
-    "Ethereum|1D:bot": 1793011721.1349082,
+    "Ethereum|1D:bot": 1793012044.0148516,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
@@ -138,21 +138,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793011720.9820232,
+    "Bitcoin|1D:bot": 1793012043.8154345,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793011427.9819775,
-  "last_news": 1793011720.508091,
+  "last_analysis": 1793012034.191952,
+  "last_news": 1793012043.342722,
   "seen_news": [
-    "Why popular airplanes are getting scrapped years early",
-    "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
-    "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
-    "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
-    "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
-    "D\u1ea5u hi\u1ec7u bi\u1ec3u t\u00ecnh \u1edf Ph\u00e1p ch\u01b0a \u0111\u1ea1t \u0111\u1ec9nh, l\u00e0n s\u00f3ng th\u1ee9 2 s\u1eafp b\u1eaft \u0111\u1ea7u?",
     "Gold dips below $4,000 as long liquidation swamps ETF buying, Saxo Bank says",
     "T\u1eeb ng\u00e0y 26/10, FChoice Awards 2026 tr\u1edf l\u1ea1i: C\u00e1ch th\u1ee9c g\u1eedi \u0111\u1ec1 c\u1eed, t\u1ef1 \u0111\u1ec1 c\u1eed nh\u1eefng ",
     "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
@@ -446,6 +440,12 @@
     "U.S. stock futures rise after bruising tech-fueled losses",
     "BOJ to hold at 1.25%, but Ueda signals further hikes toward neutral",
     "Ch\u01b0a trao gi\u1ea3i \u0111\u00e3 v\u1ed9i \u0103n m\u1eebng: Lamine Yamal thu\u00ea chuy\u00ean c\u01a1 ri\u00eang, d\u1ecdn s\u1eb5n ti\u1ec7c m",
-    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance"
+    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Why is PagSeguro Digital stock plummeting 30% today?",
+    "Nikkei slips, bounces, as Iran oil fears weigh; ING sees BOJ holding at 1.25%, t",
+    "Ng\u01b0\u1eddi mua v\u00e0ng \u1edf \u0111\u1ec9nh gi\u00e1 190,2 tri\u1ec7u \u0111\u1ed3ng \u0111ang l\u1ed7 bao nhi\u00eau?",
+    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
+    "REG - Literacy Capital PLC - PDMR Dealing Announcement - TradingView"
   ]
 }
