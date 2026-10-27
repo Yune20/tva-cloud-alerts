@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793063195.79801,
+  "last_signals": 1793063817.3523958,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -60,7 +60,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793063186.113881,
-  "last_news": 1793063195.7972147,
+  "last_analysis": 1793063805.503844,
+  "last_news": 1793063817.3515847,
   "seen_news": [
-    "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    "Can JetBlue still avoid bankruptcy? Analysis says yes, but it won\u2019t be easy",
-    "Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree ",
-    "Ph\u00f3 Ch\u1ee7 t\u1ecbch Qu\u1ed1c h\u1ed9i n\u00f3i g\u00ec v\u1ec1 \u0111\u1ec1 xu\u1ea5t ti\u1ebfp t\u1ee5c n\u00e2ng m\u1ee9c ph\u1ea1t vi ph\u1ea1m h\u00e0nh ch\u00edn",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
     "BNP Paribas weighs jumbo \u20ac16B SRT as European issuance accelerates - Bloomberg",
     "What are the main events for today?",
@@ -446,6 +440,12 @@
     "Onconetix announces 1-for-10 reverse stock split - TradingView",
     "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency",
     "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
-    "In China, the AI bubble has already burst"
+    "In China, the AI bubble has already burst",
+    "Visa\u2019s Stablecoin Funding Moves Beyond the Pilot Stage - TradingView",
+    "Federal Reserve is likely to hold interest rates steady in October. Here's what ",
+    "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+    "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape",
+    "South Korea\u2019s economy grows faster than expected in third quarter",
+    "Moody\u2019s Zandi says a Fed hike this week would be a mistake as 5% yields do the t"
   ]
 }
