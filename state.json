@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793081865.0589373,
+  "last_signals": 1793082471.3423634,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793076627.1409492,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -61,10 +61,10 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793082737,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793081856.6310775,
-  "last_news": 1793081865.058013,
+  "last_analysis": 1793082463.3182533,
+  "last_news": 1793082471.3415928,
   "seen_news": [
-    "TikTok parent ByteDance\u2019s chatbot is now giving travel-booking sites a run for t",
-    "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may h",
-    "White House lifts tariffs on some Canadian goods as midterm elections loom",
-    "IEA\u2019s Birol: Energy Prices Won\u2019t Return to Pre-War Levels in 2027",
-    "JetBlue seeks to reassure investors as losses deepen",
-    "NZIER Shadow Board majority backs 25bp RBNZ hike to 3% as oil and weaker kiwi bi",
     "Japan services PPI preview: 3.7% pace in focus ahead of Friday\u2019s BoJ decision",
     "L\u1eddi khuy\u00ean cho nh\u1eefng ng\u01b0\u1eddi \u0103n s\u00e1ng b\u1eb1ng c\u01a1m tr\u1eafng m\u1ed7i ng\u00e0y",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
@@ -447,6 +441,12 @@
     "Japan finance minister Katayama warns of decisive action as yen intervention ris",
     "V\u1eeba huy \u0111\u1ed9ng 40 t\u1ef7 USD mua GPU, Elon Musk c\u1ea3nh b\u00e1o h\u01a1n 200 c\u00f4ng ty AI s\u1eafp b\u1ecb \u0111\u00e0o",
     "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
-    "Cattle Rally Extends to Monday Following Cattle on Feed Reaction - TradingView"
+    "Cattle Rally Extends to Monday Following Cattle on Feed Reaction - TradingView",
+    "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is te",
+    "M\u1ed9t doanh nghi\u1ec7p c\u00f3 gi\u00e1 c\u1ed5 phi\u1ebfu t\u0103ng g\u1ea7n 400 l\u1ea7n trong 17 th\u00e1ng, c\u1ed5 t\u1ee9c b\u1eb1ng ti",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
+    "Dividend stocks are having an excellent October as tech sector struggles",
+    "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it of"
   ]
 }
