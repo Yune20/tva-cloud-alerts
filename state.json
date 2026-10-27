@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793141635.810674,
+  "last_signals": 1793142247.6568892,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -68,9 +68,9 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793141636.6188047,
+    "Bitcoin|1D:bot": 1793142248.2094448,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793131943.2158966
   },
-  "last_analysis": 1793141627.0073082,
-  "last_news": 1793141635.7171981,
+  "last_analysis": 1793142239.6683528,
+  "last_news": 1793142247.656128,
   "seen_news": [
-    "Gi\u00e1 kh\u00ed \u0111\u1ed1t t\u1ea1i EU \u0111\u1ea1t m\u1ee9c cao nh\u1ea5t trong 4 n\u0103m",
-    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
-    "IP Strategy Holdings, Inc. Regains Compliance with Nasdaq Listing Rule - Trading",
-    "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to",
-    "JetBlue stock surges 19% as company outlook calms investors",
-    "The grads ditching the UK for a fresh start abroad",
     "Microsoft earnings will look funky \u2014 but an elusive number is finally arriving",
     "Boeing narrows loss on higher defense sales, targets Max production increase for",
     "The tech helping crack decades-old cold cases",
@@ -450,6 +444,12 @@
     "Four ways Labour could raise money in the Budget without hiking income tax",
     "TD Cowen keeps United, Delta top airline picks as fuel costs threaten earnings",
     "Economic and event calendar in Asia Wednesday, October 28, 2026. AUD CPI, RBA an",
-    "4 \"m\u00f3n kho\u00e1i kh\u1ea9u\" v\u1ea1n ng\u01b0\u1eddi m\u00ea l\u00e0 th\u1ee7 ph\u1ea1m gia t\u0103ng \u0111au kh\u1edbp"
+    "4 \"m\u00f3n kho\u00e1i kh\u1ea9u\" v\u1ea1n ng\u01b0\u1eddi m\u00ea l\u00e0 th\u1ee7 ph\u1ea1m gia t\u0103ng \u0111au kh\u1edbp",
+    "H\u00e3ng xe \u0111i\u1ec7n AVES c\u1ee7a \u00f4ng Nguy\u1ec5n V\u0103n Thanh ti\u1ebfp t\u1ee5c t\u0103ng v\u1ed1n th\u00eam 40%, s\u1ea3n xu\u1ea5t ",
+    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Commvault earnings: what to look for from CVLT - TradingView",
+    "My husband wants to sell our $1.5 million home and downsize. But this is where w",
+    "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+    "The Indian workers filming their work to train AI"
   ]
 }
