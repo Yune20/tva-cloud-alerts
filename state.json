@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793094543.9685035,
+  "last_signals": 1793095159.3901002,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793092687.9945865,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -67,8 +67,8 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793095418,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793094534.7368534,
-  "last_news": 1793094543.9675798,
+  "last_analysis": 1793095150.924828,
+  "last_news": 1793095159.3891416,
   "seen_news": [
-    "Lula land - TradingView",
-    "The arc of Trump: How the president lost the coalition that put him in the White",
-    "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday",
-    "SK Hynix shares rise to two-week high on report of $12 billion dividend",
-    "Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree ",
-    "\u00d4ng Trump b\u1ea5t ng\u1edd treo th\u01b0\u1edfng 1 tri\u1ec7u USD cho lo\u1ea1i tin b\u00e1o \u0111\u1eb7c bi\u1ec7t",
     "Big, noisy and coming to a town near you - why the data centre backlash is growi",
     "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
     "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in Augus",
@@ -447,6 +441,12 @@
     "Commvault earnings: what to look for from CVLT - TradingView",
     "As AI becomes more fractured, one names stands out: AMD",
     "I'm a single mum on \u00a341,000 and limit my weekly shop to \u00a340 - it's hard",
-    "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire"
+    "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
+    "Agoda Highlights Trending Snackpacking Destinations for Youth Travelers in Octob",
+    "Federal Reserve is likely to hold interest rates steady in October. Here's what ",
+    "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape",
+    "French yields edge higher as Moody\u2019s relief fades; Israeli election in focus",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6731 \u2013 Reuters estimate"
   ]
 }
