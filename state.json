@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793105747.7409334,
+  "last_signals": 1793106360.8872635,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -61,10 +61,10 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -139,22 +139,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793105748.1762488,
+    "Bitcoin|1D:bot": 1793106361.4742327,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793105739.2074227,
-  "last_news": 1793105747.7401404,
+  "last_analysis": 1793106350.7971766,
+  "last_news": 1793106360.8862653,
   "seen_news": [
-    "Cincinnati Financial Corporation (CINF) Posts Q3 Combined Ratio Of 90.9% - Tradi",
-    "HSBC announces share buyback of up to $1 billion as third-quarter profit meets e",
-    "Spain battles climate change on several fronts",
-    "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-    "investingLive European session wrap: Stocks rebound as oil eases, French bonds f",
-    "Nh\u1eadn h\u01a1n 4,7 t\u1ef7 \u0111\u1ed3ng nh\u1edd mua nh\u00e0, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng chi\u1ebfm \u0111o\u1ea1t r\u1ed3i b\u1ecf tr\u1ed1n",
     "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mub",
     "The grads ditching the UK for a fresh start abroad",
     "Dollar steadies as AI jitters spur yen gains and weigh on euro",
@@ -448,6 +442,12 @@
     "D\u1ef1 \u00e1n t\u1ef7 USD c\u1ee7a M\u1ef9 b\u1ed7ng 'l\u1ed9 d\u1ea5u v\u1ebft' ti\u1ec1n Nga: NYT h\u00e9 l\u1ed9 c\u00e2u chuy\u1ec7n ph\u00eda sau cu",
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
     "European Bond Markets Mixed Ahead of Policy Decisions - TradingView",
-    "A leading Silicon Valley cheerleader just showed all the reasons to be worried a"
+    "A leading Silicon Valley cheerleader just showed all the reasons to be worried a",
+    "Quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t li\u00ean quan \u0111\u1ebfn t\u1ea1m tr\u00fa, t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u1ea7n bi\u1ebft",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
+    "Johnson Controls (NYSE:JCI) exceeds Q3 CY2026 expectations - TradingView",
+    "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "Minimum wage increase set to slow for 18-20 year-olds",
+    "Iran War Pushes Trump's Average Gasoline Prices Above Biden's"
   ]
 }
