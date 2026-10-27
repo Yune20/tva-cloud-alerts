@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793115451.5944202,
+  "last_signals": 1793116062.814087,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793115452.1826582,
+    "Bitcoin|1D:bot": 1793116063.3380854,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793115440.7705498,
-  "last_news": 1793115451.5928671,
+  "last_analysis": 1793116054.4112942,
+  "last_news": 1793116062.813177,
   "seen_news": [
-    "BENQI to Hold Giveaway - TradingView",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-    "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-    "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
-    "Hang Seng tests HKD 22829 support amid bear flag: Live levels",
-    "Chart of the day: Gold price hangs by a thread at $4,000 as bond market risks lo",
     "Major Chinese brands drop Mbapp\u00e9 as backlash grows over Mao joke",
     "Is Wall Street Getting It All Wrong About AI, Oil, and Bonds?",
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
@@ -450,6 +444,12 @@
     "U.S. economy is gathering steam. This is the chief reason why.",
     "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous governme",
     "How long will humans be needed for translation?",
-    "18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs"
+    "18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs",
+    "We stopped helping our neighbors with free home repairs and our friendship coole",
+    "World Bank's Banga: Availability of capital 'not really an issue' as AI demand d",
+    "Donald Trump's biggest economic problem looks strangely familiar",
+    "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
+    "UPS CEO says delivery company will make more money on slightly fewer holiday del",
+    "October US consumer confidence 91.7 vs 81.0 expected"
   ]
 }
