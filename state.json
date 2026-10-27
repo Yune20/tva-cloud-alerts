@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793063486.971626,
-  "last_bot4": 1793066326.1439824,
+  "last_bot4": 1793066981.643347,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793066617.2136552,
+  "last_signals": 1793066981.644037,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -72,13 +72,13 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793066323.6563292,
-  "last_news": 1793066617.2131808,
+  "last_analysis": 1793066973.2205722,
+  "last_news": 1793066981.6258514,
   "seen_news": [
-    "'I wasn't thinking straight' says five jobs civil servant",
-    "Dollar General sued by FTC, U.S. states over alleged overcharging",
-    "Market outlook for the week of 26th-30th October",
-    "Nhi\u1ec1u gia \u0111\u00ecnh \u0111\u1eb7t 1 b\u00e1t mu\u1ed1i trong nh\u00e0: H\u00f3a ra v\u00ec 5 l\u00fd do n\u00e0y",
-    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
-    "France's Verimatrix Q3 anti-piracy revenue rises, reaffirms FY outlook - Trading",
     "\u0110\u1ed3ng ti\u1ec1n c\u1ee7a n\u1ec1n kinh t\u1ebf s\u1ed1 2 th\u1ebf gi\u1edbi t\u0103ng cao nh\u1ea5t 4 n\u0103m, tr\u01b0\u1edbc th\u1ec1m lo\u1ea1t cu\u1ed9",
     "B\u00c1O C\u00c1O - VietstockFinance",
     "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView",
@@ -446,6 +440,12 @@
     "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in Augus",
     "B\u00ed th\u01b0 Th\u00e0nh \u1ee7y TPHCM: Kh\u00f4ng \u0111\u1ec3 ng\u01b0\u1eddi thi\u1ebfu n\u0103ng l\u1ef1c gi\u1eef v\u1ecb tr\u00ed quan tr\u1ecdng",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "News Release - TradingView"
+    "News Release - TradingView",
+    "Salon owners urge Budget VAT cut as staffing pressures grow",
+    "The Iran War Just Added $39 Billion to the World's LNG Bill",
+    "Hang Seng tests SMA(20) resistance in bear pennant: Live",
+    "South Korea Q3 GDP grows 1.0%, beating forecasts as AI chip boom lifts exports",
+    "\u0110\u00fang h\u00f4m qua - 26/10, l\u1ea7n \u0111\u1ea7u ti\u00ean, s\u00e2n bay Ph\u00fa Qu\u1ed1c ghi nh\u1eadn m\u00e1y bay ch\u1edf 304 v\u1ecb",
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance"
   ]
 }
