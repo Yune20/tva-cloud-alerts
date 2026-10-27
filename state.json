@@ -29,12 +29,12 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793073495.8373735,
+  "last_signals": 1793074108.1920562,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
-    "5575146754|Gold|4H|tbot": 1792978136.2311237,
+    "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
     "5575146754|Gold|4H|dn": 1792728264.0235655,
     "5575146754|Gold|1H|dn": 1792728264.0235655,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -129,7 +129,7 @@
     "EUR/USD|1D:bot": 1792014450.962082,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
-    "Gold|4H:bot": 1792991410.737846,
+    "Gold|4H:bot": 1793074108.4399478,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793073489.9279327,
-  "last_news": 1793073495.8365145,
+  "last_analysis": 1793074099.4133608,
+  "last_news": 1793074108.1912315,
   "seen_news": [
-    "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-    "Ben & Jerry\u2019s exploring deal with KKR executive to separate ice cream brand from",
-    "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
-    "M\u1ed9t c\u00f4ng ty Vi\u1ec7t Nam \u0111\u1eb7t mua 1.000 robot t\u1eeb Trung Qu\u1ed1c gi\u1eefa l\u00fac th\u1ecb tr\u01b0\u1eddng \u0111\u01b0\u1ee3c ",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
-    "Tesla Stock Soars on Wave of Analyst Upgrades - TradingView",
     "The once Magnificent 7 are not so magnificent, but they still are large cap tech",
     "To\u00e0n c\u1ea3nh tuy\u1ebfn \u0111\u01b0\u1eddng r\u1ed9ng g\u1ea5p g\u1ea7n 4 l\u1ea7n \u0111\u01b0\u1eddng b\u0103ng s\u00e2n bay, k\u1ebft n\u1ed1i \u0111\u1ea1i l\u1ed9 \u0111\u1eb9p ",
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
@@ -446,6 +440,12 @@
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
     "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView",
     "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before ",
-    "Why are more roofs not made of solar tiles?"
+    "Why are more roofs not made of solar tiles?",
+    "Prediction market traders say an Anthropic IPO is near-certain this year after c",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Asia chipmaking, AI stocks surge on Anthropic IPO cheer",
+    "investingLive Asia-Pacific market news: Regional stocks mostly rose",
+    "C\u1eadn c\u1ea3nh c\u1ea7u d\u00e2y v\u0103ng b\u1ecb s\u00e0 lan \u0111\u00e2m l\u1ec7ch nh\u1ecbp \u1edf C\u00e0 Mau",
+    "B\u00c1O C\u00c1O - VietstockFinance"
   ]
 }
