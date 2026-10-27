@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793067589.027176,
+  "last_signals": 1793068197.0182056,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793067580.1980484,
-  "last_news": 1793067589.026442,
+  "last_analysis": 1793068189.993127,
+  "last_news": 1793068197.017473,
   "seen_news": [
-    "Neocloud Stocks Slide After Musk Warns of AI Failures - TradingView",
-    "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung",
-    "The 'trillion pound' oil fund the government believes Britain could have built",
-    "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms",
-    "Why is Bloom Energy stock surging today?",
-    "European stock market open: Stocks push higher as French bond market tensions ea",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
     "Apple responds to user reports of broken iPhone Duo screens on new foldable phon",
@@ -446,6 +440,12 @@
     "LUNG Q3'26 Earnings: EPS estimate is (0.26) USD - TradingView",
     "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
     "'I wasn't thinking straight' says five jobs civil servant",
-    "Why is SoftBank stock rallying today?"
+    "Why is SoftBank stock rallying today?",
+    "Sugar Prices Fall Sharply on Brazilian Real Decline - TradingView",
+    "NBA enters prediction markets with Kalshi, Polymarket partnerships",
+    "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "Britain will not join Canada-led defence bank initiative",
+    "Japan services PPI picks up to 3.7% as August revised lower, backing BoJ hike pa",
+    "C\u00f4ng ngh\u1ec7 27/10: T\u00ecm l\u00fd do iPhone Duo n\u1ee9t m\u00e0n h\u00ecnh"
   ]
 }
