@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793139777.1594021,
+  "last_signals": 1793140399.990738,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793139778.0998466,
+    "Bitcoin|1D:bot": 1793140400.5093412,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793131943.2158966
   },
-  "last_analysis": 1793139768.2225754,
-  "last_news": 1793139777.1585655,
+  "last_analysis": 1793140392.1934998,
+  "last_news": 1793140399.989769,
   "seen_news": [
-    "Why is Nebius stock surging today?",
-    "US New home sales for September 0.676M annualized vs 0.650M estimate",
-    "D\u1ef1 \u00e1n \u0111\u1ea7u t\u01b0 x\u00e2y d\u1ef1ng Tr\u1ee5c kh\u00f4ng gian Qu\u1ed1c l\u1ed9 1A:31 h\u1ed9 ph\u01b0\u1eddng Ho\u00e0ng Li\u1ec7t \u0111\u01b0\u1ee3c ph",
-    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "H2O America Q3 2026 Earnings Call Is Live - TradingView",
-    "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go",
     "M\u1ed9t khu \u0111\u00f4 th\u1ecb hi\u1ec7n \u0111\u1ea1i, n\u1eb1m s\u00e1t v\u00e1ch H\u00e0 N\u1ed9i b\u1ecb \u0111i\u1ec1u ch\u1ec9nh gi\u1ea3m g\u1ea7n 2/3 di\u1ec7n t\u00edc",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
     "FirstService Residential debuts Los Angeles episode of Skyline Sessions - Tradin",
@@ -450,6 +444,12 @@
     "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
     "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-    "Investors From 119 Countries Pile Into Dangote\u2019s Record Refinery IPO"
+    "Investors From 119 Countries Pile Into Dangote\u2019s Record Refinery IPO",
+    "Retail traders buy the dip on chip stocks \u2014 but Robinhood gets burned by the cry",
+    "Frozen housing market sends remodelers mixed messages",
+    "Landline switchover could cut people off in emergency, minister warned",
+    "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
+    "Robinhood profit misses estimates as crypto trading slows",
+    "Goldman: Markets selling US banks on higher rates, but income guidance rises int"
   ]
 }
