@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793118280.3587363,
+  "last_signals": 1793118881.1663725,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793067591.4360147,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793118281.8750129,
+    "EUR/USD|4H:bot": 1793118883.188917,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793118280.9892678,
+    "Bitcoin|1D:bot": 1793118882.0466218,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793116692.1854963
   },
   "last_analysis": 1793118585.4228096,
-  "last_news": 1793118276.0307968,
+  "last_news": 1793118881.1654456,
   "seen_news": [
-    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
-    "Simpson Manufacturing Company, Inc. Stock 12\u2011Month Price Target Raised to $216.4",
-    "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-    "The start-ups hoping to return battery making to the US",
-    "U.S.  yields hover near 3-week lows as ahead of Fed decision",
-    "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
     "China tech stocks plunge as AI trade cracks deepen, is Wall Street next?",
     "Nh\u1eadn c\u1ed5 t\u1ee9c \"kh\u1ee7ng\" t\u1eeb c\u00f4ng ty con Vingroup, m\u1ed9t doanh nghi\u1ec7p s\u00e0n HoSE b\u00e1o l\u00e3i c",
     "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
@@ -450,6 +444,12 @@
     "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the mark",
     "One week out, prediction markets see Democrats as favored to sweep Congress",
     "Rosebank: Life on the oil field at the centre of a political storm",
-    "U.S. Military Eyes Nuclear Reactors to Survive 90 Days Without the Grid"
+    "U.S. Military Eyes Nuclear Reactors to Survive 90 Days Without the Grid",
+    "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the ",
+    "Lula\u2019s election win leaves Brazil facing a fiscal tightrope",
+    "Are California voters about to impose 'world's first' tax on billionaires?",
+    "India\u2019s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
+    "Dollar rebounds as euro slips ahead of key central bank decisions",
+    "USDCAD buyers push higher, but the 100-day MA remains a key hurdle"
   ]
 }
