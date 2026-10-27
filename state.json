@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793064742.9381778,
+  "last_signals": 1793065408.6475587,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -60,13 +60,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793065043.9326727,
-  "last_news": 1793064742.9372725,
+  "last_analysis": 1793065400.2676268,
+  "last_news": 1793065408.6467612,
   "seen_news": [
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Earnings to watch: RenaissanceRe (RNR) reports Q3 results tomorrow - TradingView",
-    "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
-    "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-    "Big, noisy and coming to a town near you - why the data centre backlash is growi",
-    "India's Stock Market Feels the Heat From High Oil Prices",
     "Citi expects USD/JPY to remain range-bound amid BoJ\u2019s rate decision",
     "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
     "G\u1ea7n 300 nh\u00e2n vi\u00ean t\u1ea1i m\u1ed9t c\u00f4ng ty ch\u1ee9ng kho\u00e1n ngh\u1ec9 vi\u1ec7c trong qu\u00fd 3",
@@ -446,6 +440,12 @@
     "Gold continues to find support between $3960 and $3996",
     "Th\u00e0nh ph\u1ed1 nh\u1ecf nh\u1ea5t Vi\u1ec7t Nam d\u1ef1 ki\u1ebfn \u0111\u1ed5i \u0111\u1ea5t \u0111\u1ec3 l\u00e0m \u0111o\u1ea1n \u0111\u01b0\u1eddng V\u00e0nh \u0111ai 3 h\u01a1n 8.1",
     "Vietnam strategy report - VietstockFinance",
-    "Gold gains as oil slide cools some inflation concerns - TradingView"
+    "Gold gains as oil slide cools some inflation concerns - TradingView",
+    "Nam ngh\u1ec7 s\u0129 \u0111\u00ecnh \u0111\u00e1m SN 1973 qu\u00ea V\u0169ng T\u00e0u l\u00e0m \u00f4ng ch\u1ee7 b\u1ea3o t\u00e0ng h\u01a1n 400 c\u1ed5 v\u1eadt \u1edf ",
+    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C QU\u00dd 4 2026 - VietstockFinance",
+    "Gold Steady Ahead of Fed Rate Call - TradingView",
+    "China industrial profits post strongest growth in three months, rising 14.4%",
+    "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live"
   ]
 }
