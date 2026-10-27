@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793118280.3571408,
-  "last_bot4": 1793128245.5402856,
+  "last_news_report": 1793129148.4341025,
+  "last_bot4": 1793129151.8120606,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793127601.359083
+    "Gold": 1793129151.8120089
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793128542.3761637,
+  "last_signals": 1793129151.8132877,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793128543.6503599,
+    "Bitcoin|1D:bot": 1793129153.1638706,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793126695.1142128
   },
   "last_analysis": 1793128846.593706,
-  "last_news": 1793128542.3750207,
+  "last_news": 1793129141.1263027,
   "seen_news": [
-    "Japan services PPI picks up to 3.7% as August revised lower, backing BoJ hike pa",
-    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng l\u00e1i xe m\u00e1y lao xu\u1ed1ng s\u00f4ng, \u0111i\u1ec1u x\u1ea3y ra trong h\u01a1n 30 ph\u00fat sau \u0111\u00f3 kh",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Gold eases on firmer dollar ahead of Fed decision - TradingView",
-    "AI debt trouble could help Fed\u2019s Warsh get his way with fewer rate hikes",
-    "Coca-Cola earnings are out \u2013 Here are the numbers",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "FWRG Q3'26 Earnings: revenue estimate is 349.36M USD - TradingView",
     "SoFi\u2019s stock climbs as lending surge drives an earnings beat and rosy outlook",
@@ -450,6 +444,12 @@
     "First-time buyer wary of Budget housing loan scheme",
     "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
     "Dollar firms on AI rebound as euro trips on French worries",
-    "AUDUSD trades up and down in a 35 pip trading range over the last 3 days.  Look "
+    "AUDUSD trades up and down in a 35 pip trading range over the last 3 days.  Look ",
+    "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 ",
+    "How much is the minimum wage?",
+    "Boeing shares sell off on slower-than-expected 737 production, weaker free cash ",
+    "Macro takeaways from earnings: Travel, package delivery and home appliances in f",
+    "V\u00ec sao Ha Ji Won tr\u1ebb \u0111\u1eb9p h\u01a1n 23 n\u0103m tr\u01b0\u1edbc?",
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance"
   ]
 }
