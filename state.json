@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793116062.814087,
+  "last_signals": 1793116690.1803937,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793115123.3190866,
-    "5575146754|Gold|1H|trap_up": 1793112552.9214687,
+    "5575146754|Gold|1H|trap_up": 1793116690.1803937,
     "5575146754|Gold|1D|range_in": 1793112552.9214687
   },
   "sig_range": {
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793116063.3380854,
+    "Bitcoin|1D:bot": 1793116691.166324,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793101978.1766002
+    "GBP/USD|4H:bot": 1793116692.1854963
   },
-  "last_analysis": 1793116054.4112942,
-  "last_news": 1793116062.813177,
+  "last_analysis": 1793116680.9755836,
+  "last_news": 1793116690.1794538,
   "seen_news": [
-    "Major Chinese brands drop Mbapp\u00e9 as backlash grows over Mao joke",
-    "Is Wall Street Getting It All Wrong About AI, Oil, and Bonds?",
-    "Brazil\u2019s real weakens 12% as Lula wins reelection",
-    "ROADMAP: Morgan Stanley sees three catalysts ending the correction to ~7150, the",
-    "HOSE c\u1eadp nh\u1eadt danh s\u00e1ch c\u1ed5 phi\u1ebfu b\u1ecb c\u1eaft margin cu\u1ed1i th\u00e1ng 10",
-    "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
     "BoJ preview: MUFG sees hold but a 2% inflation call, with two dissenters the key",
     "Ng\u00e2n h\u00e0ng khuy\u1ebfn c\u00e1o t\u1ea5t c\u1ea3 kh\u00e1ch h\u00e0ng kh\u00f4ng t\u1ea3i l\u00ean nh\u1eefng h\u00ecnh \u1ea3nh sau",
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
@@ -450,6 +444,12 @@
     "Donald Trump's biggest economic problem looks strangely familiar",
     "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
     "UPS CEO says delivery company will make more money on slightly fewer holiday del",
-    "October US consumer confidence 91.7 vs 81.0 expected"
+    "October US consumer confidence 91.7 vs 81.0 expected",
+    "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
+    "Top Auto Parts Stocks to Watch, According to Bank of America",
+    "US August Case-Shiller 20-city house price index +2.7% y/y vs +2.6% expected",
+    "Phim v\u1eeba chi\u1ebfu \u0111\u00e3 ph\u00e1 k\u1ef7 l\u1ee5c 2026: N\u1eef ch\u00ednh \u0111\u1eb9p nh\u1ea5t c\u1ea3 n\u01b0\u1edbc, \"c\u01a1 \u0111\u1ecba viral\" kh\u00f4",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
