@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793107265.4098923,
-  "last_bot4": 1793109747.3007658,
+  "last_bot4": 1793110684.7902246,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793109106.1000547
+    "Gold": 1793110684.7901266
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793110045.4327948,
+  "last_signals": 1793110684.791148,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -44,7 +44,8 @@
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
-    "5575146754|Gold|1H|momo_up": 1793074721.1093717
+    "5575146754|Gold|1H|momo_up": 1793074721.1093717,
+    "5575146754|Gold|1H|trap_up": 1793110684.791148
   },
   "sig_range": {
     "Gold": true,
@@ -76,13 +77,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -139,22 +140,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793110046.4909647,
+    "Bitcoin|1D:bot": 1793110685.45759,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793110344.0584898,
-  "last_news": 1793110045.4319673,
+  "last_analysis": 1793110671.474953,
+  "last_news": 1793110680.8735738,
   "seen_news": [
-    "Serbia tuy\u00ean b\u1ed1 s\u1ebd kh\u00f4ng \u00e1p \u0111\u1eb7t l\u1ec7nh tr\u1eebng ph\u1ea1t \u0111\u1ed1i v\u1edbi Nga",
-    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
-    "Keystone says website breach exposed hardware wallet buyers\u2019 addresses - Trading",
-    "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offe",
-    "Caregiving for adult relatives can cost thousands. AARP survey finds support cou",
-    "Four ways Labour could raise money in the Budget without hiking income tax",
     "BRIEF-Capital Bancorp Q3 Net Interest Income USD 53.1 Million - TradingView",
     "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stock",
     "Rainmakers: The drones used to seed clouds",
@@ -448,6 +443,12 @@
     "\u2018When do I sell my stocks?\u2019 Ignore the noise and focus on these things.",
     "JetBlue stock surges 14% as company outlook calms investors",
     "The Indian workers filming their work to train AI",
-    "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters"
+    "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
+    "Why is Nebius stock surging today?",
+    "US New home sales for September 0.676M annualized vs 0.650M estimate",
+    "D\u1ef1 \u00e1n \u0111\u1ea7u t\u01b0 x\u00e2y d\u1ef1ng Tr\u1ee5c kh\u00f4ng gian Qu\u1ed1c l\u1ed9 1A:31 h\u1ed9 ph\u01b0\u1eddng Ho\u00e0ng Li\u1ec7t \u0111\u01b0\u1ee3c ph",
+    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "H2O America Q3 2026 Earnings Call Is Live - TradingView",
+    "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go"
   ]
 }
