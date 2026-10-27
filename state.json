@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793092687.9945865,
+  "last_signals": 1793093311.8945167,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793092687.9945865,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793092679.5656724,
-  "last_news": 1793092687.9937983,
+  "last_analysis": 1793093304.0716805,
+  "last_news": 1793093311.8936656,
   "seen_news": [
-    "Apple says it will replace iPhone Duo handsets with screen problems",
-    "Exclusive-US, Canada working on deal to ease steel, auto tariffs, sources say",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6731 \u2013 Reuters estimate",
-    "Xu\u1ea5t s\u1eafc gi\u00e0nh Qu\u1ea3 b\u00f3ng V\u00e0ng 2026, Harry Kane b\u1ea5t ng\u1edd nh\u1eafc \u0111\u1ebfn ng\u01b0\u1eddi \u0111\u1eb7c bi\u1ec7t su",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "IBC Advanced Alloys Announces Issuance of Share-Based Compensation to Directors ",
     "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
     "SPACCircle Acquisition prices $100M IPO on Nasdaq",
     "Gold continues to find support between $3960 and $3996",
@@ -447,6 +441,12 @@
     "Gold gets stuck in a consolidation around the $4,000 level as traders await the ",
     "Lu\u1eadt s\u01b0 ki\u1ebfn ngh\u1ecb gi\u00e1m \u0111\u1ecbnh t\u00e2m th\u1ea7n v\u1edbi Mr Pips",
     "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "Serviceware SE (SJJ) Reports 3.97% Voting Stake - TradingView"
+    "Serviceware SE (SJJ) Reports 3.97% Voting Stake - TradingView",
+    "Moody\u2019s Zandi says a Fed hike this week would be a mistake as 5% yields do the t",
+    "Microsoft d\u00e0nh g\u00f3i tr\u1ee3 c\u1ea5p cho 60.000 nh\u00e2n vi\u00ean t\u1ef1 nguy\u1ec7n ngh\u1ec9 vi\u1ec7c",
+    "FPT: CTCP FPT - FPT Corp - VietstockFinance",
+    "Binance Delists Seven Cryptocurrencies From Its Alpha Platform - TradingView",
+    "Designer Betsey Johnson takes $7 million SoCal home off the market",
+    "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency"
   ]
 }
