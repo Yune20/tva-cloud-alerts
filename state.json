@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793137924.4278092,
+  "last_signals": 1793138542.1961868,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -68,9 +68,9 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793137925.03329,
+    "Bitcoin|1D:bot": 1793138543.0766807,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793131943.2158966
   },
-  "last_analysis": 1793137916.369497,
-  "last_news": 1793137924.4268813,
+  "last_analysis": 1793138532.9533122,
+  "last_news": 1793138542.1953325,
   "seen_news": [
-    "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
-    "Why is Terrestrial Energy stock surging today?",
-    "investingLive European news wrap: Markets remain rangebound ahead of the FOMC de",
-    "B\u1ed9 Y t\u1ebf: C\u1ea5m l\u1ea5y b\u1ed9 ph\u1eadn c\u01a1 th\u1ec3 ng\u01b0\u1eddi d\u01b0\u1edbi 18 tu\u1ed5i khi c\u00f2n s\u1ed1ng",
-    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
-    "Vossloh AG (VOS) Holds 2026 Guidance, Targets Midpoint Sales - TradingView",
     "Earnings to watch: RenaissanceRe (RNR) reports Q3 results tomorrow - TradingView",
     "Meet the financial-literacy teacher who helps high-school students open their ow",
     "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
@@ -450,6 +444,12 @@
     "CoreWeave and other AI stocks rise as Anthropic restores the market\u2019s faith in s",
     "Trump administration may let more Russian diesel onto market, energy secretary t",
     "Will a new code end 'rip-off parking charges'?",
-    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions"
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
+    "Will Rubio\u2019s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
+    "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+    "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still ",
+    "\u0110\u00fang ng\u00e0y 30/10, Vi\u1ec7t Nam d\u1ef1 ki\u1ebfn kh\u1edfi c\u00f4ng qu\u1ea7n th\u1ec3 ngh\u1ec9 d\u01b0\u1ee1ng 16.200 t\u1ef7 \u0111\u1ed3ng \u0111",
+    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
+    "Gold Stays Under Pressure - TradingView"
   ]
 }
