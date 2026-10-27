@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793074108.1920562,
+  "last_signals": 1793074721.1093717,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -43,7 +43,8 @@
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
-    "5575146754|Gold|1D|trap_dn": 1793054482.1087122
+    "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
+    "5575146754|Gold|1H|momo_up": 1793074721.1093717
   },
   "sig_range": {
     "Gold": true,
@@ -57,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -78,13 +79,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -145,14 +146,8 @@
     "JPY Index|1D:bot": 1792954957.2799993
   },
   "last_analysis": 1793074416.3602912,
-  "last_news": 1793074108.1912315,
+  "last_news": 1793074721.1087651,
   "seen_news": [
-    "The once Magnificent 7 are not so magnificent, but they still are large cap tech",
-    "To\u00e0n c\u1ea3nh tuy\u1ebfn \u0111\u01b0\u1eddng r\u1ed9ng g\u1ea5p g\u1ea7n 4 l\u1ea7n \u0111\u01b0\u1eddng b\u0103ng s\u00e2n bay, k\u1ebft n\u1ed1i \u0111\u1ea1i l\u1ed9 \u0111\u1eb9p ",
-    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
-    "Cincinnati Financial Corporation (CINF) Posts Q3 Combined Ratio Of 90.9% - Tradi",
-    "We stopped helping our neighbors with free home repairs and our friendship coole",
-    "What Democrats and Republicans fear most about each other: CNBC survey has the a",
     "Chi\u1ebfc gh\u1ebf Ch\u1ee7 t\u1ecbch \u1ee6y ban Ch\u1ee9ng kho\u00e1n Nh\u00e0 n\u01b0\u1edbc \u0111\u1ea7y b\u1ea5t ng\u1edd v\u00e0 h\u00e0nh tr\u00ecnh \u201ckhai s",
     "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
     "Gorman-Rupp 3Q 2026: Revenue $193.3M, Net income $22.7M, EPS $0.86\u2014 10-Q Summary",
@@ -446,6 +441,12 @@
     "Asia chipmaking, AI stocks surge on Anthropic IPO cheer",
     "investingLive Asia-Pacific market news: Regional stocks mostly rose",
     "C\u1eadn c\u1ea3nh c\u1ea7u d\u00e2y v\u0103ng b\u1ecb s\u00e0 lan \u0111\u00e2m l\u1ec7ch nh\u1ecbp \u1edf C\u00e0 Mau",
-    "B\u00c1O C\u00c1O - VietstockFinance"
+    "B\u00c1O C\u00c1O - VietstockFinance",
+    "Khi ph\u00e1t hi\u1ec7n b\u1ecb t\u1ea1m ho\u00e3n xu\u1ea5t c\u1ea3nh, ng\u01b0\u1eddi n\u1ed9p thu\u1ebf c\u1ea7n l\u00e0m g\u00ec?",
+    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:f7bde9db4094b:0 - TradingV",
+    "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to",
+    "HSBC reports third-quarter pretax profit in line with estimates on net income bo",
+    "X-planes: Are they needed in the new era of drones?"
   ]
 }
