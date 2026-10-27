@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793136695.8011196,
+  "last_signals": 1793137313.8112254,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -68,9 +68,9 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793136697.0741963,
+    "Bitcoin|1D:bot": 1793137314.3153372,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793131943.2158966
   },
-  "last_analysis": 1793136687.0289917,
-  "last_news": 1793136695.8004344,
+  "last_analysis": 1793137306.1608346,
+  "last_news": 1793137313.8102598,
   "seen_news": [
-    "Ripple strikes deal with Robinhood to expand its RLSUD digital dollar",
-    "Minimum wage set to rise but 18-20 year-olds will not get bigger increases",
-    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
-    "US September durable goods orders +1.8% vs +1.7% expected",
-    "Ki\u1ec3m to\u00e1n Nh\u00e0 n\u01b0\u1edbc tr\u01b0\u1edbc y\u00eau c\u1ea7u \u0111\u1ed5i m\u1edbi trong b\u1ed1i c\u1ea3nh m\u1edbi",
-    "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
     "A rising wealth tide lifts all yachts",
     "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "Investors From 119 Countries Pile Into Dangote\u2019s Record Refinery IPO",
@@ -450,6 +444,12 @@
     "Oil: Private survey of inventory shows a headline crude oil draw vs build expect",
     "Xinh \u0111\u1eb9p \u0111i \u0111\u00f3n con tan h\u1ecdc nh\u01b0ng sao ng\u01b0\u1eddi m\u1eb9 trong \u1ea3nh n\u00e0y l\u1ea1i b\u1ea5t ng\u1edd v\u01b0\u1edbng t",
     "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
-    "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView"
+    "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView",
+    "Nasdaq rallies as AI and chip stocks outperform",
+    "Trung Qu\u1ed1c, Nh\u1eadt B\u1ea3n m\u1ea5t kho\u1ea3ng 4 n\u0103m, Dubai m\u1ea5t 3,5 n\u0103m, c\u00f2n t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V",
+    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
+    "S\u00e9ch\u00e9 Environnement Q3 2026 Earnings Call Is Live - TradingView",
+    "As Trump touts energy companies\u2019 fortunes, U.S. consumers face the most expensiv",
+    "Chart: Anthropic's cash pile towers over nearly every U.S. company"
   ]
 }
