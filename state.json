@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793060387.8403006,
+  "last_signals": 1793060991.4922943,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -74,7 +74,7 @@
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
@@ -121,7 +121,7 @@
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793060390.0637314,
+    "DXY|4H:top": 1793060994.1218758,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793060380.122973,
-  "last_news": 1793060387.8385646,
+  "last_analysis": 1793060982.440487,
+  "last_news": 1793060991.4914706,
   "seen_news": [
-    "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
-    "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
-    "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
-    "EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover",
-    "Obesity drug developer Corxel to go public in US via SPAC deal",
-    "Heads up: European daylight saving time has ended, here's what traders need to k",
     "No order, no seat: Starbucks China rolls out new store policy",
     "Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount",
     "Anthropic\u2019s IPO filing shows explosive growth, risks and staggering costs",
@@ -446,6 +440,12 @@
     "L\u00e0n s\u00f3ng gi\u1ea3m l\u00e3i su\u1ea5t ng\u00e0y c\u00e0ng s\u00f4i \u0111\u1ed9ng",
     "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
     "DoubleZero: Edge for Builders is set for mainnet launch - Q4 2026 - TradingView",
-    "Investors are doing just as well this year by shunning AI. How to invest if the "
+    "Investors are doing just as well this year by shunning AI. How to invest if the ",
+    "Australia CPI preview: banks see 1.0% core rise, above the RBA\u2019s 0.8% forecast",
+    "D\u1ef1 b\u00e1o khu v\u1ef1c t\u1eeb H\u00e0 T\u0129nh \u0111\u1ebfn \u0110\u00e0 N\u1eb5ng c\u00f3 n\u01a1i m\u01b0a tr\u00ean 300 mm",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Alliance Resource Partners Q3 2026 Earnings Call Is Live - TradingView",
+    "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep ",
+    "Jim Cramer warns this overlooked danger could threaten the market rally"
   ]
 }
