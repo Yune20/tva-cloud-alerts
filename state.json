@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793144080.437884,
+  "last_signals": 1793144694.2025166,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793144081.3231347,
+    "Bitcoin|1D:bot": 1793144694.6548812,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793131943.2158966
   },
-  "last_analysis": 1793144070.731106,
-  "last_news": 1793144080.4369206,
+  "last_analysis": 1793144686.1321676,
+  "last_news": 1793144694.201694,
   "seen_news": [
-    "Sau tu\u1ed5i 50, t\u00f4i ch\u1ecdn s\u1ed1ng m\u1ed9t m\u00ecnh theo 3 KH\u00d4NG: Kh\u00f4ng ti\u00eau t\u00f9y h\u1ee9ng, kh\u00f4ng vay",
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
-    "Commerzbank Aktiengesellschaft (CBK) 2027 SREP P2R Cut 5 bps to 2.10% - TradingV",
-    "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too b",
-    "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max pro",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Akbank Q3 2026 Earnings Call Is Live - TradingView",
     "U.S. economy is gathering steam. This is the chief reason why.",
@@ -450,6 +444,12 @@
     "Trump administration sued over rollback of corporate ownership reporting rules",
     "All 5 major NZ banks expect RBNZ to hike to 3% today, but split on how far rates",
     "Ng\u00e0y mai, t\u1ec9nh n\u00e0y s\u1ebd kh\u00e1nh th\u00e0nh \u0111\u01b0\u1eddng b\u0103ng s\u1ed1 2 t\u1ea1i s\u00e2n bay h\u01a1n 60 n\u0103m tu\u1ed5i, \u0111",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about",
+    "Bessent says SEC and CFTC can fill the Clarity Act gap, but agency rules come wi",
+    "H\u1eadu v\u1eadn r\u1ef1c r\u1ee1: 3 con gi\u00e1p kh\u1ed5 tr\u01b0\u1edbc s\u01b0\u1edbng sau, h\u1eadu v\u1eadn tay c\u1ea7m ti\u1ec1n t\u1ef7 sau tu\u1ed5i",
+    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
+    "SK Hynix Stock Jumps as Massive Payout Rumors Swirl - TradingView",
+    "SK Hynix third-quarter profit sharply beats estimates on AI memory boost"
   ]
 }
