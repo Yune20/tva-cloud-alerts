@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793068823.2142396,
+  "last_signals": 1793069438.718142,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -64,10 +64,10 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793068813.3310852,
-  "last_news": 1793068823.2131925,
+  "last_analysis": 1793069431.0542674,
+  "last_news": 1793069438.717414,
   "seen_news": [
-    "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-    "How long will humans be needed for translation?",
-    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
-    "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
-    "\u201cCh\u1eadt v\u1eadt\u201d ngh\u1ec1 m\u00f4i gi\u1edbi ch\u1ee9ng kho\u00e1n",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
     "Vi\u1ec7t Nam c\u00f3 1 \u201cl\u00e0ng bi\u1ec7t th\u1ef1 Ph\u00e1p\u201d n\u1eb1m \u1edf \u0111\u1ed9 cao 1.500m, m\u00e1t m\u1ebb quanh n\u0103m: Gi\u00e1 ch",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
     "CoreWeave, Iren Slip as Musk Predicts Neocloud Shakeout - TradingView",
@@ -446,6 +440,12 @@
     "\"B\u00e0 ngo\u1ea1i T\u00edm\" 71 tu\u1ed5i \u1edf TP.HCM k\u1ec3 chuy\u1ec7n \u0111\u1ed9i n\u00f3n gi\u1ea5u t\u00f3c b\u1ea1c \u0111\u1ec3 \u0111\u01b0\u1ee3c r\u1ee7 \u0111\u00e1nh c",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Today\u2019s Stock Recommendation: October 27, 2026 - TradingView",
-    "Elon Musk says more than 200 neoclouds face 'guppy-level death'"
+    "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
+    "Sau tuy\u00ean b\u1ed1 ch\u1ea5n \u0111\u1ed9ng c\u1ee7a Elon Musk, \u0111\u1ebfn l\u01b0\u1ee3t Bill Gates \u0111\u1ed3ng \u00fd: \"Trong 20 n\u0103m ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "STANDEX ANNOUNCES APPOINTMENT OF BRENNA PREISSER TO BOARD OF DIRECTORS - Trading",
+    "Apple responds to user reports of broken iPhone Duo screens on new foldable phon",
+    "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+    "India 40-year bond yield hits highest level since 2018"
   ]
 }
