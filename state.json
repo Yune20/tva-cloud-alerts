@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793136087.728242,
+  "last_signals": 1793136695.8011196,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793136088.348343,
+    "Bitcoin|1D:bot": 1793136697.0741963,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793131943.2158966
   },
-  "last_analysis": 1793136079.6611981,
-  "last_news": 1793136087.7264793,
+  "last_analysis": 1793136687.0289917,
+  "last_news": 1793136695.8004344,
   "seen_news": [
-    "Another Apple launch is off to a bad start",
-    "3 lo\u1ea1i tr\u00e0 b\u1ecb li\u1ec7t v\u00e0o \u201cdanh s\u00e1ch h\u1ea1i gan\u201d, th\u00edch \u0111\u1ebfn \u0111\u00e2u c\u0169ng ph\u1ea3i ki\u1ec1m ch\u1ebf",
-    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
-    "Century Lithium Corp. (LCE) Adds New Board Nominee; AGM Set Nov. 25 - TradingVie",
-    "Frozen housing market sends remodelers mixed messages",
-    "Will a new code end 'rip-off parking charges'?",
     "Ripple strikes deal with Robinhood to expand its RLSUD digital dollar",
     "Minimum wage set to rise but 18-20 year-olds will not get bigger increases",
     "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
@@ -450,6 +444,12 @@
     "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
     "Tensor Auto and Munich taxi operator plan autonomous fleet",
     "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in ",
-    "C\u1ef1u sinh vi\u00ean Kinh t\u1ebf TP.HCM \u0111i b\u00e1n \u0111i\u1ec7n tho\u1ea1i, rau c\u1ee7, th\u1ecbt c\u00e1, gi\u1edd c\u00f3 t\u00e0i s\u1ea3n "
+    "C\u1ef1u sinh vi\u00ean Kinh t\u1ebf TP.HCM \u0111i b\u00e1n \u0111i\u1ec7n tho\u1ea1i, rau c\u1ee7, th\u1ecbt c\u00e1, gi\u1edd c\u00f3 t\u00e0i s\u1ea3n ",
+    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
+    "Why is Nabors Industries stock sliding today?",
+    "Oil: Private survey of inventory shows a headline crude oil draw vs build expect",
+    "Xinh \u0111\u1eb9p \u0111i \u0111\u00f3n con tan h\u1ecdc nh\u01b0ng sao ng\u01b0\u1eddi m\u1eb9 trong \u1ea3nh n\u00e0y l\u1ea1i b\u1ea5t ng\u1edd v\u01b0\u1edbng t",
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
+    "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView"
   ]
 }
