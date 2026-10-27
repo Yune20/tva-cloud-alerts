@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793122946.465945,
+  "last_signals": 1793123574.5725827,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793122947.356865,
+    "Bitcoin|1D:bot": 1793123575.1499443,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793122948.149351
   },
-  "last_analysis": 1793122937.8476224,
-  "last_news": 1793122946.4651241,
+  "last_analysis": 1793123565.2656178,
+  "last_news": 1793123574.5716412,
   "seen_news": [
-    "Moody\u2019s Zandi says a Fed hike this week would be a mistake as 5% yields do the t",
-    "Microsoft d\u00e0nh g\u00f3i tr\u1ee3 c\u1ea5p cho 60.000 nh\u00e2n vi\u00ean t\u1ef1 nguy\u1ec7n ngh\u1ec9 vi\u1ec7c",
-    "FPT: CTCP FPT - FPT Corp - VietstockFinance",
-    "Binance Delists Seven Cryptocurrencies From Its Alpha Platform - TradingView",
-    "Designer Betsey Johnson takes $7 million SoCal home off the market",
-    "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "AISIX Solutions Inc. (AISX) Launches Flood Risk Scores for Eli Report - TradingV",
     "The impressive real estate portfolio of sitcom producer Chuck Lorre of \u2018Big Bang",
@@ -450,6 +444,12 @@
     "Exclusive-Jetblue CEO says company not in talks with its creditors",
     "European stock market open: Stocks retreat as caution returns, UK leads losses",
     "Vi\u1ec7t Nam c\u00f3 gia t\u1ed9c gi\u00e0u c\u00f3 v\u1edbi 11 anh ch\u1ecb em, ng\u01b0\u1eddi cha l\u00e0m ngh\u1ec1 th\u1ee7 c\u00f4ng nu\u00f4i ",
-    "CSV: CTCP H\u00f3a ch\u1ea5t C\u01a1 b\u1ea3n Mi\u1ec1n Nam - H\u00d3A CH\u1ea4T C\u01a0 B\u1ea2N MI\u1ec0N NAM - VietstockFinance"
+    "CSV: CTCP H\u00f3a ch\u1ea5t C\u01a1 b\u1ea3n Mi\u1ec1n Nam - H\u00d3A CH\u1ea4T C\u01a0 B\u1ea2N MI\u1ec0N NAM - VietstockFinance",
+    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
+    "Serviceware SE (SJJ) Reports 3.97% Voting Stake - TradingView",
+    "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 inve",
+    "How the oil capital of the US welcomed a solar power boom",
+    "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
+    "Trump says he will visit tanker in Texas with first oil from Venezuela deal"
   ]
 }
