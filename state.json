@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793107265.4098923,
-  "last_bot4": 1793113228.2243292,
+  "last_bot4": 1793113903.2701452,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793112552.9205956
+    "Gold": 1793113903.2700546
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793113228.2251806,
+  "last_signals": 1793113903.270905,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793113228.764383,
+    "Bitcoin|1D:bot": 1793113903.9398005,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793113535.4027536,
-  "last_news": 1793113228.2227962,
+  "last_analysis": 1793113889.5272803,
+  "last_news": 1793113900.443527,
   "seen_news": [
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
-    "SATS ASA (SATS) Q3 EPS NOK 0.69; EBITDA +22% YoY - TradingView",
-    "Options traders are seizing control of the S&P 500",
-    "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly",
-    "The AI telling farmers when to harvest",
-    "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
     "Will the Budget pass Burnham's Makerfield test?",
     "Asian currencies mixed as dollar firms, yen slips ahead of Fed decision",
@@ -450,6 +444,12 @@
     "The tech helping crack decades-old cold cases",
     "OPEC+ Set to Keep Oil Quotas Unchanged",
     "Canadian dollar steadies after seven-day rally ahead of rate decisions",
-    "S&P 500 rebounds as US-Iran escalation fears fade, but bearish drivers remain in"
+    "S&P 500 rebounds as US-Iran escalation fears fade, but bearish drivers remain in",
+    "Living with a stink? Technology might help",
+    "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
+    "Boeing will not reach 737 production target until early 2027",
+    "Gold tests its 100-hour moving average as buyers look for more control",
+    "Kh\u1edfi t\u1ed1 L\u00ea Th\u1ecb An SN 1970, ai l\u00e0 b\u1ecb h\u1ea1i li\u00ean h\u1ec7 ngay s\u1ed1 \u0111i\u1ec7n tho\u1ea1i 096.387.9119",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i"
   ]
 }
