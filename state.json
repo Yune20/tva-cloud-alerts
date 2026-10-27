@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793090490.3489373,
+  "last_signals": 1793091097.815615,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793084921.4870257,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -61,10 +61,10 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793091364,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793090482.2018836,
-  "last_news": 1793090490.348305,
+  "last_analysis": 1793091091.284191,
+  "last_news": 1793091097.814656,
   "seen_news": [
-    "Why Saudi Just Abandoned Its Core Oil Rule",
-    "Why is SK Hynix stock surging today?",
-    "The USD is stronger vs the CAD, AUD and NZD today. What do the charts tell trade",
-    "T\u1eeb 1/11, gia \u0111\u00ecnh c\u00f3 con nh\u1ecf ch\u00fa \u00fd quy \u0111\u1ecbnh m\u1edbi \u0111\u1ec3 kh\u00f4ng b\u1ecf l\u1ee1 quy\u1ec1n l\u1ee3i",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "River City Bank Q3 2026 Earnings Call Is Live - TradingView",
     "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says",
     "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
     "Bi\u1ec3u c\u1ea3m tr\u00e1i ng\u01b0\u1ee3c c\u1ee7a Mbappe v\u00e0 Yamal khi Harry Kane gi\u00e0nh Qu\u1ea3 b\u00f3ng v\u00e0ng 2026",
@@ -447,6 +441,12 @@
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Key facts: EURONEXT:INGA buys 1.24M; ING Deutschland pension depots - TradingVie",
     "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep ",
-    "Jim Cramer warns this overlooked danger could threaten the market rally"
+    "Jim Cramer warns this overlooked danger could threaten the market rally",
+    "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
+    "Why is Informa stock sliding today?",
+    "Japan September services PPI holds at 3.7% y/y, in line with forecast, before Bo",
+    "T\u00f2a nh\u00e0 c\u0169 7 t\u1ea7ng khi\u1ebfn 1,4 t\u1ef7 d\u00e2n Trung Qu\u1ed1c s\u1eedng s\u1ed1t: 10 n\u0103m ch\u1edd \u0111\u1ee3i \u0111\u1ed5i l\u1ea5y c",
+    "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - ",
+    "INFICON Holding AG (IFCN) Q3 Sales $233.3M, Raises FY26 Guidance - TradingView"
   ]
 }
