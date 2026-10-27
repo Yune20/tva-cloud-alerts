@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793105082.240934,
+  "last_signals": 1793105747.7409334,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -76,7 +76,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -139,22 +139,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793105083.034191,
+    "Bitcoin|1D:bot": 1793105748.1762488,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793105382.2370791,
-  "last_news": 1793105082.240062,
+  "last_analysis": 1793105739.2074227,
+  "last_news": 1793105747.7401404,
   "seen_news": [
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
-    "Earnings to watch: RenaissanceRe (RNR) reports Q3 results tomorrow - TradingView",
-    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
-    "Budget to include \u00a31bn for social and affordable housing",
-    "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-    "Gift Nifty 50 consolidates between key MAs: Live levels",
     "Cincinnati Financial Corporation (CINF) Posts Q3 Combined Ratio Of 90.9% - Tradi",
     "HSBC announces share buyback of up to $1 billion as third-quarter profit meets e",
     "Spain battles climate change on several fronts",
@@ -448,6 +442,12 @@
     "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
     "Salon owners urge Budget VAT cut as staffing pressures grow",
     "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
-    "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone"
+    "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone",
+    "UPS raises annual forecasts as higher-margin parcels drive quarterly profit beat",
+    "investingLive Asia-Pacific market news: Regional stocks mostly rose",
+    "D\u1ef1 \u00e1n t\u1ef7 USD c\u1ee7a M\u1ef9 b\u1ed7ng 'l\u1ed9 d\u1ea5u v\u1ebft' ti\u1ec1n Nga: NYT h\u00e9 l\u1ed9 c\u00e2u chuy\u1ec7n ph\u00eda sau cu",
+    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
+    "European Bond Markets Mixed Ahead of Policy Decisions - TradingView",
+    "A leading Silicon Valley cheerleader just showed all the reasons to be worried a"
   ]
 }
