@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793107265.4098923,
-  "last_bot4": 1793114829.57745,
+  "last_bot4": 1793115451.5938547,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793115123.3190866,
+  "last_signals": 1793115451.5944202,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -75,19 +75,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793115124.0513654,
+    "Bitcoin|1D:bot": 1793115452.1826582,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793114825.1554847,
-  "last_news": 1793115123.318336,
+  "last_analysis": 1793115440.7705498,
+  "last_news": 1793115451.5928671,
   "seen_news": [
-    "T\u1ea1m gi\u1eef xe c\u1ee9u th\u01b0\u01a1ng '4 kh\u00f4ng'",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Gold Stays Under Pressure - TradingView",
-    "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
-    "Israeli election draws tens of thousands of citizens flying back to vote",
-    "Donald Trump's biggest economic problem looks strangely familiar",
     "BENQI to Hold Giveaway - TradingView",
     "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
     "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
@@ -450,6 +444,12 @@
     "Commerzbank Aktiengesellschaft (CBK) 2027 SREP P2R Cut 5 bps to 2.10% - TradingV",
     "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too b",
     "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max pro",
-    "As Christmas rush looms, how do China-made toys find their way to the US?"
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
+    "Akbank Q3 2026 Earnings Call Is Live - TradingView",
+    "U.S. economy is gathering steam. This is the chief reason why.",
+    "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous governme",
+    "How long will humans be needed for translation?",
+    "18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs"
   ]
 }
