@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793066981.644037,
+  "last_signals": 1793067589.027176,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -78,7 +78,7 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
@@ -121,7 +121,7 @@
     "JPY Index|4H:top": 1792000673.3525965,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793060994.1218758,
+    "DXY|4H:top": 1793067591.4360147,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793037506.5627294,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793066973.2205722,
-  "last_news": 1793066981.6258514,
+  "last_analysis": 1793067580.1980484,
+  "last_news": 1793067589.026442,
   "seen_news": [
-    "\u0110\u1ed3ng ti\u1ec1n c\u1ee7a n\u1ec1n kinh t\u1ebf s\u1ed1 2 th\u1ebf gi\u1edbi t\u0103ng cao nh\u1ea5t 4 n\u0103m, tr\u01b0\u1edbc th\u1ec1m lo\u1ea1t cu\u1ed9",
-    "B\u00c1O C\u00c1O - VietstockFinance",
-    "Voi Technology AB (publ) Calls EGM; Board Changes Proposed - TradingView",
-    "These energy stocks are poised to profit from an imminent AI power crunch",
-    "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran ",
-    "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "Neocloud Stocks Slide After Musk Warns of AI Failures - TradingView",
     "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung",
     "The 'trillion pound' oil fund the government believes Britain could have built",
@@ -446,6 +440,12 @@
     "Hang Seng tests SMA(20) resistance in bear pennant: Live",
     "South Korea Q3 GDP grows 1.0%, beating forecasts as AI chip boom lifts exports",
     "\u0110\u00fang h\u00f4m qua - 26/10, l\u1ea7n \u0111\u1ea7u ti\u00ean, s\u00e2n bay Ph\u00fa Qu\u1ed1c ghi nh\u1eadn m\u00e1y bay ch\u1edf 304 v\u1ecb",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance"
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
+    "C\u1ef1u Ph\u00f3 Th\u1ee7 t\u01b0\u1edbng \u0110\u1ee9c l\u00e0m l\u00e3nh \u0111\u1ea1o c\u1ea5p cao c\u00f4ng ty ch\u1ee9ng kho\u00e1n Vi\u1ec7t",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "LUNG Q3'26 Earnings: EPS estimate is (0.26) USD - TradingView",
+    "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+    "'I wasn't thinking straight' says five jobs civil servant",
+    "Why is SoftBank stock rallying today?"
   ]
 }
