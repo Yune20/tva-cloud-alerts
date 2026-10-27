@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793077596.7635317,
+  "last_signals": 1793078204.1095393,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793076627.1409492,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -64,11 +64,11 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793077587.1663148,
-  "last_news": 1793077594.2391279,
+  "last_analysis": 1793078196.8503256,
+  "last_news": 1793078204.108571,
   "seen_news": [
-    "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus ",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa \u0111ang x\u00e2y t\u1ed5 h\u1ee3p th\u1ec3 thao l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi, quy m\u00f4 40ha v",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
-    "SR BANCORP, INC. ANNOUNCES FINANCIAL RESULTS - TradingView",
-    "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amaz",
-    "DOJ charges ex-FBI Director James Comey in new case",
     "C\u00f4ng an ti\u1ebfn h\u00e0nh \u0111i\u1ec1u tra, x\u00e1c minh t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng trong tr\u01b0\u1eddng h\u1ee3p sau",
     "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "BRIEF-Capital Bancorp Q3 Net Interest Income USD 53.1 Million - TradingView",
@@ -447,6 +441,12 @@
     "Vossloh AG (VOS) Holds 2026 Guidance, Targets Midpoint Sales - TradingView",
     "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
     "The virtual worlds where robots are trained",
-    "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock"
+    "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
+    "Albemarle Corporation (ALB) Declares $0.41 Quarterly Dividend - TradingView",
+    "Why Lumentum\u2019s stock led the S&P 500 higher on Monday",
+    "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply conc",
+    "The tech helping crack decades-old cold cases",
+    "Apple says it will replace iPhone Duo units showing screen problems",
+    "Bond market tensions ease but Treasury yields near 5% and France's debt risks ke"
   ]
 }
