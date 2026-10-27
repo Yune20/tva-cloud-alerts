@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793109438.0671458,
+  "last_signals": 1793110045.4327948,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -73,7 +73,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793109439.2172608,
+    "Bitcoin|1D:bot": 1793110046.4909647,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -147,14 +147,8 @@
     "GBP/USD|4H:bot": 1793101978.1766002
   },
   "last_analysis": 1793109747.2995434,
-  "last_news": 1793109438.0663447,
+  "last_news": 1793110045.4319673,
   "seen_news": [
-    "SK Hynix tests SuperTrend resistance at KRW 1,348,500: Live",
-    "Citadel Securities warns AI trade has little margin for error as three risks con",
-    "EU s\u1eafp n\u1ee3 h\u01a1n 1.000 t\u1ef7 USD nh\u01b0ng v\u1eabn c\u1ed1 cho Ukraine vay, T\u1ed5ng Ki\u1ec3m to\u00e1n ch\u00e2u \u00c2u ",
-    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView",
-    "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amaz",
     "Serbia tuy\u00ean b\u1ed1 s\u1ebd kh\u00f4ng \u00e1p \u0111\u1eb7t l\u1ec7nh tr\u1eebng ph\u1ea1t \u0111\u1ed1i v\u1edbi Nga",
     "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
     "Keystone says website breach exposed hardware wallet buyers\u2019 addresses - Trading",
@@ -448,6 +442,12 @@
     "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
     "Budget to include \u00a31bn for social and affordable housing",
     "Why is IREN stock surging today?",
-    "FOMC Preview: A hawkish hold as markets watch for signals about timing and exten"
+    "FOMC Preview: A hawkish hold as markets watch for signals about timing and exten",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
+    "First Financial Reports Record Q3 Net Income of $27.4 Million - TradingView",
+    "\u2018When do I sell my stocks?\u2019 Ignore the noise and focus on these things.",
+    "JetBlue stock surges 14% as company outlook calms investors",
+    "The Indian workers filming their work to train AI",
+    "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters"
   ]
 }
