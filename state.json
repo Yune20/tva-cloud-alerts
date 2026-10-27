@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793127937.8818767,
+  "last_signals": 1793128542.3761637,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -69,13 +69,13 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793127938.9732084,
+    "Bitcoin|1D:bot": 1793128543.6503599,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793126695.1142128
   },
   "last_analysis": 1793128245.539033,
-  "last_news": 1793127937.8805118,
+  "last_news": 1793128542.3750207,
   "seen_news": [
-    "Mbapp\u00e9 dropped by major Chinese brands as backlash grows over Mao joke",
-    "GM to transfer stock listing to Nasdaq",
-    "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in Augus",
-    "H\u1ea3i Ph\u00f2ng: D\u1ef1 ki\u1ebfn \u0111\u1ea7u t\u01b0 8.119 t\u1ef7 \u0111\u1ed3ng l\u00e0m \u0111\u01b0\u1eddng V\u00e0nh \u0111ai 3",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "BTIG reiterates Buy rating on Faeth Therapeutics, $55 price target - TradingView",
     "Japan services PPI picks up to 3.7% as August revised lower, backing BoJ hike pa",
     "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng l\u00e1i xe m\u00e1y lao xu\u1ed1ng s\u00f4ng, \u0111i\u1ec1u x\u1ea3y ra trong h\u01a1n 30 ph\u00fat sau \u0111\u00f3 kh",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
@@ -450,6 +444,12 @@
     "Albemarle Corporation (ALB) Declares $0.41 Quarterly Dividend - TradingView",
     "Margin debt growth slows sharply as stock market warning signs build",
     "Tax on banks, energy bill help and minimum wage rise - what could be in the Budg",
-    "The Diesel Crisis Is Here To Stay"
+    "The Diesel Crisis Is Here To Stay",
+    "Alaska Airlines to launch nonstop service between Anchorage and Tokyo Narita - T",
+    "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max pr",
+    "First-time buyer wary of Budget housing loan scheme",
+    "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
+    "Dollar firms on AI rebound as euro trips on French worries",
+    "AUDUSD trades up and down in a 35 pip trading range over the last 3 days.  Look "
   ]
 }
