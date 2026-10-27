@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793069438.718142,
+  "last_signals": 1793070056.8995447,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -63,16 +63,16 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793069431.0542674,
-  "last_news": 1793069438.717414,
+  "last_analysis": 1793070047.7696617,
+  "last_news": 1793070056.8986142,
   "seen_news": [
-    "Vi\u1ec7t Nam c\u00f3 1 \u201cl\u00e0ng bi\u1ec7t th\u1ef1 Ph\u00e1p\u201d n\u1eb1m \u1edf \u0111\u1ed9 cao 1.500m, m\u00e1t m\u1ebb quanh n\u0103m: Gi\u00e1 ch",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
-    "CoreWeave, Iren Slip as Musk Predicts Neocloud Shakeout - TradingView",
-    "J&J's potential 'game-changer' drug \u2014 plus, what Microsoft's mass buyouts mean",
-    "Healey to shield low-income pensioners from income tax in the Budget",
-    "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
     "\u0110\u01a1n h\u00e0ng g\u1ea7n k\u00edn n\u0103m 2027, \u0111\u1ea1i gia vonfram Vi\u1ec7t Nam nh\u1eafm m\u1ed1c 8.000 t\u1ea5n, tham v\u1ecdn",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
     "Binance Delists Seven Cryptocurrencies From Its Alpha Platform - TradingView",
@@ -446,6 +440,12 @@
     "STANDEX ANNOUNCES APPOINTMENT OF BRENNA PREISSER TO BOARD OF DIRECTORS - Trading",
     "Apple responds to user reports of broken iPhone Duo screens on new foldable phon",
     "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "India 40-year bond yield hits highest level since 2018"
+    "India 40-year bond yield hits highest level since 2018",
+    "Resonance Health Raises $6m to Develop Liver Fibrosis Software - TradingView",
+    "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+    "The Indian workers filming their work to train AI",
+    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
+    "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
+    "Ng\u00f4i tr\u01b0\u1eddng 38 n\u0103m tu\u1ed5i l\u1ea7n \u0111\u1ea7u ti\u00ean c\u00f3 h\u1ecdc sinh v\u00e0o Chung k\u1ebft \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Ol"
   ]
 }
