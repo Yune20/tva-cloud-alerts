@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793118280.3571408,
-  "last_bot4": 1793126021.4540656,
+  "last_bot4": 1793126692.5271854,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793126021.4548705,
+  "last_signals": 1793126692.5280788,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793126022.9033086,
+    "Bitcoin|1D:bot": 1793126693.8904815,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793126023.438943
+    "GBP/USD|4H:bot": 1793126695.1142128
   },
-  "last_analysis": 1793126322.5164766,
-  "last_news": 1793126015.523867,
+  "last_analysis": 1793126683.3088996,
+  "last_news": 1793126692.5261052,
   "seen_news": [
-    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
-    "ECB rate outlook grows more complicated as bank lending conditions tighten",
-    "Tr\u1ebb c\u00f3 nh\u1ea5t \u0111\u1ecbnh ph\u1ea3i ng\u1ee7 tr\u01b0a kh\u00f4ng? \u00c9p con ng\u1ee7 c\u00f3 khi c\u00f2n nhi\u1ec1u t\u00e1c h\u1ea1i!",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Lula land - TradingView",
-    "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
     "Customers are chasing higher-rate products, and that\u2019s bad news for banks like H",
     "UPS beats quarterly expectations, raises full-year guidance again",
     "Mbapp\u00e9 dropped by major Chinese brands drop as backlash grows over Mao joke",
@@ -450,6 +444,12 @@
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Asiatel Outsourcing Inc. (ATOI) Sets Leaders For KPO, AI, Canada Push - TradingV",
     "Speaker Mike Johnson calls election-transfer concerns \u2018absurd\u2019",
-    "I'm a single mum on \u00a341,000 and limit my weekly shop to \u00a340 - it's hard"
+    "I'm a single mum on \u00a341,000 and limit my weekly shop to \u00a340 - it's hard",
+    "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+    "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "Russia\u2019s Crude Exports Set to Fall as Diesel Production Rises",
+    "Crusoe CEO defends CoreWeave amid selloff",
+    "Oil consolidates around recent highs as fears of imminent US strikes ease. What'",
+    "Ph\u00e1t hi\u1ec7n 1 doanh nghi\u1ec7p s\u1edf h\u1eefu 60 \u201cchong ch\u00f3ng\u201d kh\u1ed5ng l\u1ed3, n\u1ed9p ng\u00e2n s\u00e1ch 100 t\u1ef7/"
   ]
 }
