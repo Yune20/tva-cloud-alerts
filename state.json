@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793074421.7908006,
-  "last_bot4": 1793074424.9108987,
+  "last_bot4": 1793075086.4847507,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793074721.1093717,
+  "last_signals": 1793075086.48526,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
-    "5575146754|Gold|4H|range_in": 1793038102.482035,
+    "5575146754|Gold|4H|range_in": 1793075086.48526,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -59,7 +59,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793074416.3602912,
-  "last_news": 1793074721.1087651,
+  "last_analysis": 1793075078.3569086,
+  "last_news": 1793075086.4840298,
   "seen_news": [
-    "Chi\u1ebfc gh\u1ebf Ch\u1ee7 t\u1ecbch \u1ee6y ban Ch\u1ee9ng kho\u00e1n Nh\u00e0 n\u01b0\u1edbc \u0111\u1ea7y b\u1ea5t ng\u1edd v\u00e0 h\u00e0nh tr\u00ecnh \u201ckhai s",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
-    "Gorman-Rupp 3Q 2026: Revenue $193.3M, Net income $22.7M, EPS $0.86\u2014 10-Q Summary",
-    "Sorry investors, but there\u2019s no such thing as an early \u2018Santa Claus rally.\u2019 Here",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Budget to include \u00a31bn for social and affordable housing",
     "AIXTRON SE (AIXA) Receives Voting Rights Notice From JPMorgan - TradingView",
     "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mub",
     "Zuckerberg wins Meta deal to help him foot bill for possible California billiona",
@@ -447,6 +441,12 @@
     "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:f7bde9db4094b:0 - TradingV",
     "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to",
     "HSBC reports third-quarter pretax profit in line with estimates on net income bo",
-    "X-planes: Are they needed in the new era of drones?"
+    "X-planes: Are they needed in the new era of drones?",
+    "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
+    "Ng\u00e0y 27/10, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng 12 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacombank, ",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "Elon Musk's SpaceX Secures Massive $40 Billion Deal - TradingView",
+    "HSBC reports third-quarter pretax profit in line with estimates on net interest ",
+    "How the oil capital of the US welcomed a solar power boom"
   ]
 }
