@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793119865.359834,
+  "last_signals": 1793120482.6462862,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793119866.149068,
+    "Bitcoin|1D:bot": 1793120483.353295,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793116692.1854963
+    "GBP/USD|4H:bot": 1793120483.9852486
   },
-  "last_analysis": 1793119857.5818589,
-  "last_news": 1793119865.3588295,
+  "last_analysis": 1793120474.8538163,
+  "last_news": 1793120482.6454406,
   "seen_news": [
-    "What are the main events for today?",
-    "Sau nhi\u1ec1u tranh c\u00e3i, phe \u0111\u1ed1i l\u1eadp c\u00f4ng nh\u1eadn k\u1ebft qu\u1ea3 b\u1ea7u c\u1eed T\u1ed5ng th\u1ed1ng Brazil",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "Key facts: EURONEXT:INGA buys 1.24M; ING Deutschland pension depots - TradingVie",
-    "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep ",
-    "Jim Cramer warns this overlooked danger could threaten the market rally",
     "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
     "Why is Informa stock sliding today?",
     "Japan September services PPI holds at 3.7% y/y, in line with forecast, before Bo",
@@ -450,6 +444,12 @@
     "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
     "C\u00f3 3 c\u00e2u n\u00f3i nghe nh\u01b0 quan t\u00e2m nh\u01b0ng th\u1ef1c ch\u1ea5t \u0111ang khi\u1ebfn b\u1ea1n c\u1ea3m th\u1ea5y c\u00f3 l\u1ed7i",
     "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Piper Sandler reiterates Overweight rating on 1st Source, $105 price target - Tr"
+    "Piper Sandler reiterates Overweight rating on 1st Source, $105 price target - Tr",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng quy\u1ebfn r\u0169 nh\u1ea5t n\u0103m 2026",
+    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
+    "BlackBerry appoints David Chaikof to its board - TradingView",
+    "JetBlue has been losing money for years. It just charted a path to profitability",
+    "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+    "Rainmakers: The drones used to seed clouds"
   ]
 }
