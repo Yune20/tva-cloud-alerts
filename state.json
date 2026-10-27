@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793081249.073708,
+  "last_signals": 1793081865.0589373,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793076627.1409492,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -65,7 +65,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793081241.4867184,
-  "last_news": 1793081249.0729287,
+  "last_analysis": 1793081856.6310775,
+  "last_news": 1793081865.058013,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
-    "Dollar General Faces FTC and State Lawsuit Seeking Monetary Relief - TradingView",
-    "Dividend stocks are having an excellent October as tech sector struggles",
-    "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly",
-    "The AI telling farmers when to harvest",
-    "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
     "TikTok parent ByteDance\u2019s chatbot is now giving travel-booking sites a run for t",
     "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may h",
     "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -447,6 +441,12 @@
     "Canadian dollar steadies after seven-day rally ahead of rate decisions",
     "FX option expiries for 27 October 10am New York cut",
     "V\u00ec sao H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng lo\u1ea1i c\u00e2y c\u00f3 qu\u1ea3 quen thu\u1ed9c, nhi\u1ec1u nh\u00e0 t\u1eebng d\u00f9ng thay x\u00e0 ",
-    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance"
+    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
+    "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
+    "Bucher Industries sees lower 2026 sales, margins as glass, farm units slump",
+    "Japan finance minister Katayama warns of decisive action as yen intervention ris",
+    "V\u1eeba huy \u0111\u1ed9ng 40 t\u1ef7 USD mua GPU, Elon Musk c\u1ea3nh b\u00e1o h\u01a1n 200 c\u00f4ng ty AI s\u1eafp b\u1ecb \u0111\u00e0o",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
+    "Cattle Rally Extends to Monday Following Cattle on Feed Reaction - TradingView"
   ]
 }
