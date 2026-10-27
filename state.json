@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793074421.7908006,
-  "last_bot4": 1793076911.493785,
+  "last_bot4": 1793077596.7626743,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793076013.1471844
+    "Gold": 1793077596.762581
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793077229.2605226,
+  "last_signals": 1793077596.7635317,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793076627.1409492,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -64,16 +64,16 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793077218.695882,
-  "last_news": 1793077229.2597487,
+  "last_analysis": 1793077587.1663148,
+  "last_news": 1793077594.2391279,
   "seen_news": [
-    "Bitcoin Flashes Bullish Signal Against NASDAQ: Is $100,000 in 2026 Possible? - T",
-    "Why Lumentum\u2019s stock led the S&P 500 higher on Monday",
-    "Meta announces $95 billion stock offering to fund AI expansion",
-    "The tech helping crack decades-old cold cases",
-    "Exclusive: HyProMag USA maps three new magnet plants to quadruple U.S. capacity",
-    "Carney says Canada has not budged as US trade deal looks less imminent than clai",
     "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus ",
     "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa \u0111ang x\u00e2y t\u1ed5 h\u1ee3p th\u1ec3 thao l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi, quy m\u00f4 40ha v",
     "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
@@ -447,6 +441,12 @@
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
     "GE HealthCare (GEHC) reports earnings tomorrow: what to expect - TradingView",
     "With the Anthropic IPO, the devil is in the details",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet"
+    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "Ph\u00e1t hi\u1ec7n m\u1ed9t gi\u00e0n khoan d\u00e0i 100 m\u00e9t kh\u00f4ng \u0111\u1ed9ng c\u01a1, ho\u1ea1t \u0111\u1ed9ng l\u1ed9n ng\u01b0\u1ee3c v\u00e0 xoay ",
+    "DRI: CTCP \u0110\u1ea7u t\u01b0 Cao su \u0110\u1eafk L\u1eafk - DRI - VietstockFinance",
+    "Vossloh AG (VOS) Holds 2026 Guidance, Targets Midpoint Sales - TradingView",
+    "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+    "The virtual worlds where robots are trained",
+    "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock"
   ]
 }
