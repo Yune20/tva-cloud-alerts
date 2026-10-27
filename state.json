@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793114512.5881627,
+  "last_signals": 1793115123.3190866,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -44,7 +44,7 @@
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
-    "5575146754|Gold|1H|momo_up": 1793113228.2251806,
+    "5575146754|Gold|1H|momo_up": 1793115123.3190866,
     "5575146754|Gold|1H|trap_up": 1793112552.9214687,
     "5575146754|Gold|1D|range_in": 1793112552.9214687
   },
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793114513.3267539,
+    "Bitcoin|1D:bot": 1793115124.0513654,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793101978.1766002
   },
   "last_analysis": 1793114825.1554847,
-  "last_news": 1793114512.5872617,
+  "last_news": 1793115123.318336,
   "seen_news": [
-    "Australia\u2019s Star Entertainment surges 13% as cost cuts, casino strength drive pr",
-    "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus ",
-    "N\u1eef c\u00e1n b\u1ed9 h\u01b0u tr\u00ed l\u1eb7n l\u1ed9i t\u1eeb TPHCM ra H\u00e0 N\u1ed9i d\u1ef1 t\u00f2a, mong s\u1edbm l\u1ea5y l\u1ea1i 20 t\u1ef7 b\u1ecb M",
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
-    "Gravitas Collective Discloses 19.9% Stake in Hepion Pharmaceuticals - TradingVie",
-    "TikTok parent ByteDance\u2019s chatbot is now giving travel-booking sites a run for t",
     "T\u1ea1m gi\u1eef xe c\u1ee9u th\u01b0\u01a1ng '4 kh\u00f4ng'",
     "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Gold Stays Under Pressure - TradingView",
@@ -450,6 +444,12 @@
     "X\u00e3 Cam L\u00e2m v\u00e0 Ninh Ph\u01b0\u1edbc, t\u1ec9nh Kh\u00e1nh H\u00f2a ch\u00ednh th\u1ee9c l\u00ean \u0111\u00f4 th\u1ecb lo\u1ea1i III",
     "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
     "Lincoln Electric Q3 Sales Rise 15.1%; Adjusted EPS Reaches $2.98 - TradingView",
-    "With the Anthropic IPO, the devil is in the details"
+    "With the Anthropic IPO, the devil is in the details",
+    "Sau tu\u1ed5i 50, t\u00f4i ch\u1ecdn s\u1ed1ng m\u1ed9t m\u00ecnh theo 3 KH\u00d4NG: Kh\u00f4ng ti\u00eau t\u00f9y h\u1ee9ng, kh\u00f4ng vay",
+    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
+    "Commerzbank Aktiengesellschaft (CBK) 2027 SREP P2R Cut 5 bps to 2.10% - TradingV",
+    "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too b",
+    "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max pro",
+    "As Christmas rush looms, how do China-made toys find their way to the US?"
   ]
 }
