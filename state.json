@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793089880.595489,
+  "last_signals": 1793090490.3489373,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793084921.4870257,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -80,13 +80,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793090754,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793089872.5113366,
-  "last_news": 1793089880.5945754,
+  "last_analysis": 1793090482.2018836,
+  "last_news": 1793090490.348305,
   "seen_news": [
-    "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-    "How does the UK state pension compare with other countries?",
-    "EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover",
-    "Microsoft offers buyouts to around 60,000 employees to contain costs",
-    "RBA is talking more but promising nothing: Westpac\u2019s Ellis says read the data ca",
-    "Thanh H\u00f3a: Lo ng\u1ea1i s\u1ea1t l\u1edf b\u1edd s\u00f4ng",
     "Why Saudi Just Abandoned Its Core Oil Rule",
     "Why is SK Hynix stock surging today?",
     "The USD is stronger vs the CAD, AUD and NZD today. What do the charts tell trade",
@@ -447,6 +441,12 @@
     "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 bi",
     "Chancellor to cut tariffs on marmalade and other products to help with cost-of-l",
     "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
-    "BofA: China core semiconductor sales rise 24% in June-August"
+    "BofA: China core semiconductor sales rise 24% in June-August",
+    "What are the main events for today?",
+    "Sau nhi\u1ec1u tranh c\u00e3i, phe \u0111\u1ed1i l\u1eadp c\u00f4ng nh\u1eadn k\u1ebft qu\u1ea3 b\u1ea7u c\u1eed T\u1ed5ng th\u1ed1ng Brazil",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Key facts: EURONEXT:INGA buys 1.24M; ING Deutschland pension depots - TradingVie",
+    "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep ",
+    "Jim Cramer warns this overlooked danger could threaten the market rally"
   ]
 }
