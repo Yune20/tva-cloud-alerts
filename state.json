@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793086205.192932,
+  "last_signals": 1793086817.2869558,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793084921.4870257,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -73,7 +73,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -145,15 +145,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793086194.4126418,
-  "last_news": 1793086205.1919487,
+  "last_analysis": 1793086811.1868248,
+  "last_news": 1793086817.2861753,
   "seen_news": [
-    "B\u00e1c s\u0129 Nguy\u1ec5n L\u00e2n Hi\u1ebfu ti\u1ebft l\u1ed9 c\u00e1ch b\u1ec7nh vi\u1ec7n Singapore ti\u1ebft ki\u1ec7m h\u00e0ng tri\u1ec7u USD",
-    "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midt",
-    "Lights will stay on this winter, grid operator says after concerns",
-    "Analysis-China\u2019s lab-grown diamond makers target AI, chip sectors for next wave ",
-    "ICYMI: Morgan Stanley sees 10%-15% more downside for Chinese offshore stocks bef",
-    "Cu\u1ed9c s\u1ed1ng t\u1ea1i nh\u00e0 c\u1ee7a 2 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng Vi\u1ec7t c\u00f3 ngh\u00ecn t\u1ef7",
     "\u0110i\u1ec3m danh 5 ch\u00f2m sao may m\u1eafn nh\u1ea5t ng\u00e0y 27/10: Th\u1eddi c\u01a1 v\u00e0ng g\u00f5 c\u1eeda, t\u00e0i l\u1ed9c v\u00e0 t\u00ec",
     "Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - VietstockFinance",
     "XPeng lands approval for L4 robotaxi tests in Guangzhou - TradingView",
@@ -447,6 +441,12 @@
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
     "ROADMAP: Morgan Stanley sees three catalysts ending the correction to ~7150, the",
     "HOSE c\u1eadp nh\u1eadt danh s\u00e1ch c\u1ed5 phi\u1ebfu b\u1ecb c\u1eaft margin cu\u1ed1i th\u00e1ng 10",
-    "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina"
+    "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
+    "BoJ preview: MUFG sees hold but a 2% inflation call, with two dissenters the key",
+    "Ng\u00e2n h\u00e0ng khuy\u1ebfn c\u00e1o t\u1ea5t c\u1ea3 kh\u00e1ch h\u00e0ng kh\u00f4ng t\u1ea3i l\u00ean nh\u1eefng h\u00ecnh \u1ea3nh sau",
+    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
+    "Caterpillar Stocks Move Higher Before Data-Center Backlog Test - TradingView",
+    "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickl",
+    "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l"
   ]
 }
