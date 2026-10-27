@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793107265.4098923,
-  "last_bot4": 1793112552.9206717,
+  "last_bot4": 1793113228.2243292,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793112552.9214687,
+  "last_signals": 1793113228.2251806,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793104468.3071437,
@@ -44,7 +44,7 @@
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
-    "5575146754|Gold|1H|momo_up": 1793074721.1093717,
+    "5575146754|Gold|1H|momo_up": 1793113228.2251806,
     "5575146754|Gold|1H|trap_up": 1793112552.9214687,
     "5575146754|Gold|1D|range_in": 1793112552.9214687
   },
@@ -66,15 +66,15 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -141,22 +141,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793112554.1758487,
+    "Bitcoin|1D:bot": 1793113228.764383,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793112856.7598116,
-  "last_news": 1793112549.5099862,
+  "last_analysis": 1793113216.7366693,
+  "last_news": 1793113228.2227962,
   "seen_news": [
-    "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is te",
-    "M\u1ed9t doanh nghi\u1ec7p c\u00f3 gi\u00e1 c\u1ed5 phi\u1ebfu t\u0103ng g\u1ea7n 400 l\u1ea7n trong 17 th\u00e1ng, c\u1ed5 t\u1ee9c b\u1eb1ng ti",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
-    "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
-    "Dividend stocks are having an excellent October as tech sector struggles",
-    "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it of",
     "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
     "SATS ASA (SATS) Q3 EPS NOK 0.69; EBITDA +22% YoY - TradingView",
     "Options traders are seizing control of the S&P 500",
@@ -450,6 +444,12 @@
     "IP Strategy Holdings, Inc. Regains Compliance with Nasdaq Listing Rule - Trading",
     "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to",
     "JetBlue stock surges 19% as company outlook calms investors",
-    "The grads ditching the UK for a fresh start abroad"
+    "The grads ditching the UK for a fresh start abroad",
+    "Microsoft earnings will look funky \u2014 but an elusive number is finally arriving",
+    "Boeing narrows loss on higher defense sales, targets Max production increase for",
+    "The tech helping crack decades-old cold cases",
+    "OPEC+ Set to Keep Oil Quotas Unchanged",
+    "Canadian dollar steadies after seven-day rally ahead of rate decisions",
+    "S&P 500 rebounds as US-Iran escalation fears fade, but bearish drivers remain in"
   ]
 }
