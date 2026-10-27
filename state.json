@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793096395.4565463,
-  "last_bot4": 1793097061.1119764,
+  "last_bot4": 1793097687.369812,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793097061.1130173,
+  "last_signals": 1793097687.3705933,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793095788.6879444,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -65,9 +65,9 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793097935,
@@ -139,21 +139,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793059155.5087285,
+    "Bitcoin|1D:bot": 1793097688.3374183,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793097051.3820786,
-  "last_news": 1793097058.571953,
+  "last_analysis": 1793097677.179562,
+  "last_news": 1793097687.3689241,
   "seen_news": [
-    "Sugar Prices Fall Sharply on Brazilian Real Decline - TradingView",
-    "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-    "Barclays cutting 5,000 jobs as it increases reliance on AI",
-    "Britain will not join Canada-led defence bank initiative",
-    "Japan services PPI picks up to 3.7% as August revised lower, backing BoJ hike pa",
-    "C\u00f4ng ngh\u1ec7 27/10: T\u00ecm l\u00fd do iPhone Duo n\u1ee9t m\u00e0n h\u00ecnh",
     "Canadian household credit holds firm even as mortgage delinquencies rise",
     "PBOC sets USD/ CNY central rate at 6.7171 (vs. estimate at 6.6731)",
     "\"B\u00e0 ngo\u1ea1i T\u00edm\" 71 tu\u1ed5i \u1edf TP.HCM k\u1ec3 chuy\u1ec7n \u0111\u1ed9i n\u00f3n gi\u1ea5u t\u00f3c b\u1ea1c \u0111\u1ec3 \u0111\u01b0\u1ee3c r\u1ee7 \u0111\u00e1nh c",
@@ -447,6 +441,12 @@
     "Mbapp\u00e9 dropped by major Chinese brands drop as backlash grows over Mao joke",
     "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
     "BMW Group reaches one million automated vehicle movements in plants",
-    "Bitcoin at risk of a big correction after breaking below the major $80K support."
+    "Bitcoin at risk of a big correction after breaking below the major $80K support.",
+    "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+    "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'br",
+    "The Iran War Just Added $39 Billion to the World's LNG Bill",
+    "Dollar firms on AI rebound as euro trips on French worries",
+    "South Korea Q3 GDP grows 1.0%, beating forecasts as AI chip boom lifts exports",
+    "Ca s\u0129 SN 1983 qu\u00ea \u0110\u1eafk L\u1eafk ch\u1ec9 c\u1ea7n 1 b\u00e0i hit l\u00e0 \u0111\u1ed5i \u0111\u1eddi: C\u00f3 n\u0103m ki\u1ebfm ch\u1ee5c t\u1ef7 \u0111\u1ed3ng"
   ]
 }
