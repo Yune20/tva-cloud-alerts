@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793098912.4716961,
+  "last_signals": 1793099530.5573683,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -139,21 +139,15 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793098912.9685128,
+    "Bitcoin|1D:bot": 1793099531.0875776,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793098903.990171,
-  "last_news": 1793098912.4708707,
+  "last_analysis": 1793099519.4399595,
+  "last_news": 1793099530.5563953,
   "seen_news": [
-    "Resonance Health Raises $6m to Develop Liver Fibrosis Software - TradingView",
-    "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-    "The Indian workers filming their work to train AI",
-    "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
-    "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
-    "Ng\u00f4i tr\u01b0\u1eddng 38 n\u0103m tu\u1ed5i l\u1ea7n \u0111\u1ea7u ti\u00ean c\u00f3 h\u1ecdc sinh v\u00e0o Chung k\u1ebft \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Ol",
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "SOUTHWEST AIRLINES ANNOUNCES PRICING OF NOTES - TradingView",
     "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -447,6 +441,12 @@
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Gold eases on firmer dollar ahead of Fed decision - TradingView",
     "AI debt trouble could help Fed\u2019s Warsh get his way with fewer rate hikes",
-    "Coca-Cola earnings are out \u2013 Here are the numbers"
+    "Coca-Cola earnings are out \u2013 Here are the numbers",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "FWRG Q3'26 Earnings: revenue estimate is 349.36M USD - TradingView",
+    "SoFi\u2019s stock climbs as lending surge drives an earnings beat and rosy outlook",
+    "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North Ame",
+    "Apple to replace iPhone Duos affected by screen problem",
+    "Who controls powerful AI? Anthropic has a plan for long after its leaders depart"
   ]
 }
