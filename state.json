@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793101977.2175047,
+  "last_signals": 1793102594.7871985,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -139,22 +139,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793101977.65584,
+    "Bitcoin|1D:bot": 1793102595.5086331,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793101969.2298527,
-  "last_news": 1793101977.2166271,
+  "last_analysis": 1793102586.3404524,
+  "last_news": 1793102594.7863984,
   "seen_news": [
-    "How long will humans be needed for translation?",
-    "Why is Advantest stock surging today?",
-    "The cost of intelligence is collapsing",
-    "T\u1ec7 n\u1ea1n 'AI \u0103n xin' g\u00e2y b\u1ee9c x\u00fac \u1edf Trung Qu\u1ed1c: Con bu\u00f4n gi\u1eadt d\u00e2y, \u0111\u00fat t\u00fai h\u01a1n 11 t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
-    "Service International (SCI) Q3 earnings report preview: what to look for - Tradi",
     "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
     "T\u1eeb th\u00e1ng 11, ng\u01b0\u1eddi m\u1eafc n\u1ee3 x\u1ea5u ng\u00e2n h\u00e0ng c\u00f3 th\u1ec3 vay ti\u1ebfp trong tr\u01b0\u1eddng h\u1ee3p sau",
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
@@ -448,6 +442,12 @@
     "Here\u2019s the question three tech-sector earnings reports raise about the future of",
     "Anthropic's IPO is risky business",
     "What is the Budget and what could be in it?",
-    "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens"
+    "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+    "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoid",
+    "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. publi",
+    "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
+    "Sterling today: Pound slips as dollar holds firm ahead of Fed decision",
+    "Ethereum Foundation \u201cdump\u201d is a $6.4m treasury sale, not a crisis",
+    "Sau Big Bang, T\u00f9ng D\u01b0\u01a1ng l\u00e0m g\u00ec \u0111\u1ec3 k\u00e9o h\u00e0ng v\u1ea1n ng\u01b0\u1eddi \u0111\u1ebfn M\u1ef9 \u0110\u00ecnh"
   ]
 }
