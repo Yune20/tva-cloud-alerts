@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793101365.5362716,
+  "last_signals": 1793101977.2175047,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793075086.48526,
@@ -73,19 +73,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -139,22 +139,16 @@
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
-    "Bitcoin|1D:bot": 1793101366.6649344,
+    "Bitcoin|1D:bot": 1793101977.65584,
     "DXY|4H:bot": 1792728878.9513156,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793100754.576623
+    "GBP/USD|4H:bot": 1793101978.1766002
   },
-  "last_analysis": 1793101356.6929572,
-  "last_news": 1793101365.5356085,
+  "last_analysis": 1793101969.2298527,
+  "last_news": 1793101977.2166271,
   "seen_news": [
-    "Dallas Fed manufacturing index unexpectedly rises in October - TradingView",
-    "China industrial profits post strongest growth in three months as tech boom wide",
-    "Will a new code end 'rip-off parking charges'?",
-    "Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision",
-    "Saudi Arabia offers cash to Houthis to stop attacks - report",
-    "Nh\u1eefng c\u00e2y c\u1ed9t \u0111i\u1ec7n gi\u1eefa x\u00f3m B\u1ed3ng Lai v\u00e0 c\u1ea3m x\u00fac \u0111\u1eb7c bi\u1ec7t c\u1ee7a Tr\u01b0\u1edfng ph\u00e1i \u0111o\u00e0n ng",
     "How long will humans be needed for translation?",
     "Why is Advantest stock surging today?",
     "The cost of intelligence is collapsing",
@@ -448,6 +442,12 @@
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Gold retreats on stronger dollar; traders brace for Fed - TradingView",
     "Big Tech\u2019s earnings are on deck. There\u2019s more for investors to watch than AI spe",
-    "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 73"
+    "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 73",
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Solana Price Falls Below $100: Are Whale Sell-Offs Adding Pressure? - TradingVie",
+    "Here\u2019s the question three tech-sector earnings reports raise about the future of",
+    "Anthropic's IPO is risky business",
+    "What is the Budget and what could be in it?",
+    "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens"
   ]
 }
