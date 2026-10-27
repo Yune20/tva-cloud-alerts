@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793072267.9147234,
+  "last_signals": 1793072880.0346618,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793053251.7247975,
     "5575146754|Gold|4H|range_in": 1793038102.482035,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -144,15 +144,9 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993
   },
-  "last_analysis": 1793072256.0615776,
-  "last_news": 1793072267.9128845,
+  "last_analysis": 1793072871.6143112,
+  "last_news": 1793072880.0339622,
   "seen_news": [
-    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 27/10: FPT Telecom l\u00e3i g\u1ea7n 1.300 t\u1ef7 \u0111\u1ed3ng, Nh\u00e0",
-    "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
-    "Burnham Holdings declares $0.23 dividend - TradingView",
-    "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
     "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
     "Shell to Report Q3 Earnings: What's in Store for the Stock? - TradingView",
     "Why popular airplanes are getting scrapped years early",
@@ -446,6 +440,12 @@
     "Will a new code end 'rip-off parking charges'?",
     "Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision",
     "Saudi Arabia offers cash to Houthis to stop attacks - report",
-    "Nh\u1eefng c\u00e2y c\u1ed9t \u0111i\u1ec7n gi\u1eefa x\u00f3m B\u1ed3ng Lai v\u00e0 c\u1ea3m x\u00fac \u0111\u1eb7c bi\u1ec7t c\u1ee7a Tr\u01b0\u1edfng ph\u00e1i \u0111o\u00e0n ng"
+    "Nh\u1eefng c\u00e2y c\u1ed9t \u0111i\u1ec7n gi\u1eefa x\u00f3m B\u1ed3ng Lai v\u00e0 c\u1ea3m x\u00fac \u0111\u1eb7c bi\u1ec7t c\u1ee7a Tr\u01b0\u1edfng ph\u00e1i \u0111o\u00e0n ng",
+    "How long will humans be needed for translation?",
+    "Why is Advantest stock surging today?",
+    "The cost of intelligence is collapsing",
+    "T\u1ec7 n\u1ea1n 'AI \u0103n xin' g\u00e2y b\u1ee9c x\u00fac \u1edf Trung Qu\u1ed1c: Con bu\u00f4n gi\u1eadt d\u00e2y, \u0111\u00fat t\u00fai h\u01a1n 11 t",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Vi\u1ec7t Nam & EFTA - Vi\u1ec7t Nam c\u1eaft gi\u1ea3m thu\u1ebf, EFTA lu\u1eadt h\u00f3a cam k\u1ebft -",
+    "Service International (SCI) Q3 earnings report preview: what to look for - Tradi"
   ]
 }
