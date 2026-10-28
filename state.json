@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793216960.1575477,
+  "last_signals": 1793217573.7212405,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793215387.8813174,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,11 +62,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|1H": true,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793166739.8556073,
-    "Gold|4H:top": 1793216960.392367,
+    "Gold|4H:top": 1793217573.9454465,
     "Bitcoin|4H:top": 1793166739.5531008,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793216961.6935017,
+    "EUR/USD|1D:bot": 1793217575.8990667,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793216947.5688179,
-  "last_news": 1793216955.2560253,
+  "last_analysis": 1793217563.1813111,
+  "last_news": 1793217573.7205167,
   "seen_news": [
-    "Zcash extends gains as geopolitical fears ease ahead of the FOMC decision. What'",
-    "T\u1ed5ng th\u1ed1ng M\u1ef9 Trump s\u1ebd l\u00e0m g\u00ec n\u1ebfu \u0111\u1ea3ng C\u1ed9ng h\u00f2a thua trong cu\u1ed9c b\u1ea7u c\u1eed gi\u1eefa nhi\u1ec7",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
-    "Gold eases on firmer dollar ahead of Fed decision - TradingView",
-    "Traders are betting big against this restaurant giant into earnings",
-    "What do you want from the Budget?",
     "V\u1eeba v\u1ec1 h\u01b0u m\u1eb9 t\u00f4i mang 2 t\u1ef7 ra chia h\u1ebft cho c\u00e1c con r\u1ed3i tuy\u00ean b\u1ed1 1 quy\u1ebft \u0111\u1ecbnh \u0111a",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Etsy, Inc. Reports Third Quarter 2026 Results - TradingView",
@@ -452,6 +446,12 @@
     "DA Davidson maintains Neutral rating on Manhattan Associates, $230 price target ",
     "Here\u2019s what just sent Oracle\u2019s stock soaring",
     "Microsoft will post earnings after the bell as investors focus on job cuts and c",
-    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs"
+    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "SA analyst upgrades/downgrades: TSLA, AMZN, HE, SPCX - TradingView",
+    "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018",
+    "Three media outlets seek full White House access in amended lawsuit",
+    "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "Phillips 66 posts record quarterly profit on refining strength",
+    "The full statement from the October 2026 FOMC rate decision"
   ]
 }
