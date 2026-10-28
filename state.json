@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793168325.2772214,
+  "last_signals": 1793168930.0490875,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793168314.8688476,
-  "last_news": 1793168322.6843827,
+  "last_analysis": 1793168920.3936136,
+  "last_news": 1793168930.0482728,
   "seen_news": [
-    "Standard Chartered: Gold must hold $3,886 or risk deeper correction as oil fuels",
-    "Viettel ch\u1ebf t\u1ea1o th\u00e0nh c\u00f4ng m\u00e1y bay UAV s\u1ea3i c\u00e1nh 18m, b\u00e1n k\u00ednh ho\u1ea1t \u0111\u1ed9ng 1.000 km",
-    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
-    "Main Street prices $500M of 6.55% notes due 2030 - TradingView",
-    "The rest of the market is leaving Big Tech behind after a historic comeback",
-    "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Report",
     "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
     "Goldman Sachs Drops Stark Forecast for AI Stocks - TradingView",
     "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
@@ -450,6 +444,12 @@
     "Th\u1ecb tr\u01b0\u1eddng t\u00e0i ch\u00ednh Vi\u1ec7t Nam n\u0103m 2027 \u0111\u1ed1i di\u1ec7n \u00e1p l\u1ef1c thanh kho\u1ea3n v\u00e0 ch\u1ea5t l\u01b0\u1ee3ng",
     "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
     "Gold Little-Changed as Markets Await Fed Decision - TradingView",
-    "CoreWeave and other AI stocks rise as Anthropic restores the market\u2019s faith in s"
+    "CoreWeave and other AI stocks rise as Anthropic restores the market\u2019s faith in s",
+    "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
+    "\u00d4ng Lee Kenny Kilryol chuy\u1ec3n kho\u1ea3n 70 tri\u1ec7u \u0111\u1ed3ng cho ph\u1ee5 n\u1eef SN 1999: C\u00f4ng an h\u1ed7 ",
+    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
+    "Tradeweb Markets (TW) Q3 earnings: what to expect - TradingView",
+    "As Trump touts energy companies\u2019 fortunes, U.S. consumers face the most expensiv",
+    "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter"
   ]
 }
