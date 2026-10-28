@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793218784.0499115,
+  "last_signals": 1793219152.3545477,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793215387.8813174,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -73,7 +73,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793218785.4979043,
+    "Ethereum|4H:top": 1793219153.5095048,
     "Gold|4H:top": 1793217573.9454465,
-    "Bitcoin|4H:top": 1793218785.099662,
+    "Bitcoin|4H:top": 1793219153.2040632,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793218786.7614832,
+    "EUR/USD|1D:bot": 1793219154.3810973,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793218487.4851348,
-  "last_news": 1793218784.048807,
+  "last_analysis": 1793219143.3711112,
+  "last_news": 1793219152.353713,
   "seen_news": [
-    "FEC campaign finance system offline days before midterms after hackers reportedl",
-    "More cats abandoned 'due to rising costs'",
-    "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
-    "Microsoft stock setup analysis ahead of today\u2019s earnings release",
-    "Topix explained: why Japan\u2019s biggest-ever index overhaul will cull 683 stocks by",
-    "Ch\u1ee9ng kho\u00e1n DSC gi\u1ea3m 57,3% m\u1ee5c ti\u00eau l\u1ee3i nhu\u1eadn n\u0103m 2026",
     "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
     "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.37%",
     "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
@@ -452,6 +446,12 @@
     "T\u1ef7 ph\u00fa Elon Musk tuy\u1ec3n lo\u1ea1t nh\u00e2n t\u00e0i t\u1ea1i Vi\u1ec7t Nam, c\u00f3 v\u1ecb tr\u00ed qu\u1ea3n l\u00fd kh\u00f4ng y\u00eau c",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Gold eases on firmer dollar ahead of Fed decision - TradingView",
-    "U.S. oil-refinery stocks are up roughly 150% this year. How long could this hist"
+    "U.S. oil-refinery stocks are up roughly 150% this year. How long could this hist",
+    "What we now know about the UK economy in four charts",
+    "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
+    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
+    "Microsoft and Alphabet earnings after the close. What is expected?",
+    "Vi\u1ec7t Nam s\u1eafp c\u00f3 m\u1ed9t khu ph\u1ee9c h\u1ee3p th\u00f4ng minh 60.000 t\u1ef7 \u0111\u1ed3ng ngay t\u1ea1i Th\u1ee7 Thi\u00eam do",
+    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance"
   ]
 }
