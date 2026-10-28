@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793213775.711567,
+  "last_signals": 1793214135.6922197,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793213436.8892357,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -47,7 +47,8 @@
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793116690.1803937,
     "5575146754|Gold|1D|range_in": 1793200403.3995583,
-    "5575146754|Gold|4H|ttop": 1793213775.711567
+    "5575146754|Gold|4H|ttop": 1793213775.711567,
+    "5575146754|Gold|4H|dtop": 1793214135.6922197
   },
   "sig_range": {
     "Gold": true,
@@ -62,9 +63,9 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -119,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793166739.8556073,
-    "Gold|4H:top": 1793213775.9163892,
+    "Gold|4H:top": 1793214135.914529,
     "Bitcoin|4H:top": 1793166739.5531008,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -130,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793213778.044701,
+    "EUR/USD|1D:bot": 1793214137.7215865,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793213761.4908597,
-  "last_news": 1793213772.7507677,
+  "last_analysis": 1793214124.7060564,
+  "last_news": 1793214135.6912086,
   "seen_news": [
-    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-    "Russia\u2019s Crude Exports Set to Fall as Diesel Production Rises",
-    "JPM puts ArcelorMittal on Positive Catalyst Watch on steel price gains",
-    "AUD/NZD in focus as hawkish RBA signals clash with RBNZ\u2019s surprise 4-3 hold",
-    "C\u1ef1u th\u1ee7 m\u00f4n \u0110T Vi\u1ec7t Nam b\u00e1o tin vui \u1edf tu\u1ed5i 40",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Sterling today: Pound dips on firm dollar as Fed, budget loom",
     "RBNZ holds OCR at 2.75% in surprise 4-3 vote, says tighter policy still likely",
     "B\u1eafc Ninh m\u1edf r\u1ed9ng quy m\u00f4 khu nh\u00e0 \u1edf x\u00e3 h\u1ed9i do Arita l\u00e0m ch\u1ee7 \u0111\u1ea7u t\u01b0 l\u00ean 5,3ha",
@@ -451,6 +446,12 @@
     "M\u1ed9t c\u1ef1u sinh vi\u00ean \u0110\u1ea1i h\u1ecdc Kinh t\u1ebf TPHCM \u0111\u01b0\u1ee3c m\u1ec7nh danh \u201cn\u1eef ho\u00e0ng b\u00e1n c\u00e1\u201d, n\u1eafm gi",
     "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
     "Putin salutes Musk's genius as Russia plays catch-up with Starlink - TradingView",
-    "Oracle stock pops 10% on forecast for 35% average revenue growth through 2030"
+    "Oracle stock pops 10% on forecast for 35% average revenue growth through 2030",
+    "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
+    "Meta delays indefinitely its rollout of new commercial terms after publishers\u2019 c",
+    "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal ",
+    "Ng\u01b0\u1eddi cha kh\u1edfi nghi\u1ec7p v\u1edbi 400 tri\u1ec7u \u0111\u1ed3ng t\u1eeb ng\u00e0nh thu\u1ed1c th\u00fa y, g\u00e2y d\u1ef1ng t\u1eadp \u0111o\u00e0n",
+    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
+    "DWS: Record inflows and rising recurring fees strengthen the growth platform - T"
   ]
 }
