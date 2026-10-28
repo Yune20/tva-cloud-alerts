@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793173927.4004765,
+  "last_signals": 1793174526.0042956,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -71,7 +71,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793067591.4360147,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793155906.0608058,
+    "EUR/USD|4H:bot": 1793174527.1234086,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793147143.7987452
   },
   "last_analysis": 1793174232.3808758,
-  "last_news": 1793173927.3996384,
+  "last_news": 1793174526.003415,
   "seen_news": [
-    "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about",
-    "Bessent says SEC and CFTC can fill the Clarity Act gap, but agency rules come wi",
-    "H\u1eadu v\u1eadn r\u1ef1c r\u1ee1: 3 con gi\u00e1p kh\u1ed5 tr\u01b0\u1edbc s\u01b0\u1edbng sau, h\u1eadu v\u1eadn tay c\u1ea7m ti\u1ec1n t\u1ef7 sau tu\u1ed5i",
-    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
-    "SK Hynix Stock Jumps as Massive Payout Rumors Swirl - TradingView",
-    "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
     "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
     "Beta Bionics Q3 2026 Earnings Call Is Live - TradingView",
     "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
@@ -450,6 +444,12 @@
     "Th\u00eam m\u1ed9t c\u1ea7u th\u1ee7 n\u1ed5i ti\u1ebfng b\u1ecb tr\u1ed9m \u0111\u1ed9t nh\u1eadp nh\u00e0 ri\u00eang",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Alzecure Pharma Johan Sandin Takes Office Today As Acting CEO - TradingView",
-    "My husband wants to sell our $1.5 million home and downsize. But this is where w"
+    "My husband wants to sell our $1.5 million home and downsize. But this is where w",
+    "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows",
+    "The grads ditching the UK for a fresh start abroad",
+    "Oil Traders Brace for Iran Escalation After U.S. Elections",
+    "Ambani\u2019s Jio becomes India\u2019s second-most valuable firm in $131.5 billion debut",
+    "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in Augus",
+    "Nam c\u00f4ng nh\u00e2n \u1edf V\u0129nh Long tr\u00fang v\u00e9 s\u1ed1 \u0111\u1eb7c bi\u1ec7t 28 t\u1ef7 \u0111\u1ed3ng"
   ]
 }
