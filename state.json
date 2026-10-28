@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793192705.1945062,
+  "last_signals": 1793193313.3869696,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -78,13 +78,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793192707.8048458,
+    "EUR/USD|1D:bot": 1793193314.5301096,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793192707.4690204
+    "GBP/USD|4H:bot": 1793193314.3716345
   },
   "last_analysis": 1793193017.37706,
-  "last_news": 1793192705.1930902,
+  "last_news": 1793193313.3861153,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Helus Pharma Inc. Stock 12\u2011Month Price Target Cut to $43.72, Implies 316% Upside",
-    "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World'",
-    "Healey to shield low-income pensioners from income tax in the Budget",
-    "Sterling today: Pound slips as dollar holds firm ahead of Fed decision",
-    "Wall Street faces a double test as Fed decision and Microsoft, Alphabet earnings",
     "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to ",
     "My hometown shows that high streets have to change or die",
     "SK Hynix tests 38.2% Fib inside Ichimoku cloud: Live levels",
@@ -450,6 +444,12 @@
     "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
     "H\u00e0 N\u1ed9i x\u00e2y m\u1edbi tr\u1ee5 s\u1edf UBND th\u00e0nh ph\u1ed1 v\u00e0 trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i ng\u1ea7m g\u1ea7n H\u1ed3 G\u01b0\u01a1m",
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Oppenheimer maintains Outperform rating on JFrog, $125 price target - TradingVie"
+    "Oppenheimer maintains Outperform rating on JFrog, $125 price target - TradingVie",
+    "CEO VinFast ch\u00e2u \u00c1 l\u1ea7n \u0111\u1ea7u ti\u1ebft l\u1ed9 m\u1ee5c ti\u00eau \u0111\u01b0a qu\u1ed1c gia 1,4 t\u1ef7 d\u00e2n th\u00e0nh m\u1ed9t tr",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Flagstar Bank, N.A. Sets $0.01 Quarterly Common Dividend - TradingView",
+    "11 bargain-priced stocks of companies that have huge growth potential over the n",
+    "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burge",
+    "Budget 2026: Key points at a glance"
   ]
 }
