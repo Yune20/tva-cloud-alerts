@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793192082.969676,
+  "last_signals": 1793192705.1945062,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793192084.9406276,
+    "EUR/USD|1D:bot": 1793192707.8048458,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793192084.6432455
+    "GBP/USD|4H:bot": 1793192707.4690204
   },
-  "last_analysis": 1793192075.62213,
-  "last_news": 1793192082.968787,
+  "last_analysis": 1793192694.464545,
+  "last_news": 1793192705.1930902,
   "seen_news": [
-    "US FHFA Monthly home prices index 0.3% vs 0.2% estimate",
-    "B\u00ed th\u01b0 H\u00e0 N\u1ed9i ch\u1ec9 ra nh\u1eefng quy\u1ebft s\u00e1ch l\u1edbn t\u1ea1i k\u1ef3 h\u1ecdp H\u0110ND mang t\u00ednh 'l\u1ecbch s\u1eed'",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Axos Financial (AX) Q3 earnings report preview: what to look for - TradingView",
-    "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-La",
-    "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "Helus Pharma Inc. Stock 12\u2011Month Price Target Cut to $43.72, Implies 316% Upside",
     "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World'",
@@ -450,6 +444,12 @@
     "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
     "Microsoft stock setup analysis ahead of today\u2019s earnings release",
     "Topix explained: why Japan\u2019s biggest-ever index overhaul will cull 683 stocks by",
-    "Ch\u1ee9ng kho\u00e1n DSC gi\u1ea3m 57,3% m\u1ee5c ti\u00eau l\u1ee3i nhu\u1eadn n\u0103m 2026"
+    "Ch\u1ee9ng kho\u00e1n DSC gi\u1ea3m 57,3% m\u1ee5c ti\u00eau l\u1ee3i nhu\u1eadn n\u0103m 2026",
+    "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
+    "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.37%",
+    "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
+    "H\u00e0 N\u1ed9i x\u00e2y m\u1edbi tr\u1ee5 s\u1edf UBND th\u00e0nh ph\u1ed1 v\u00e0 trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i ng\u1ea7m g\u1ea7n H\u1ed3 G\u01b0\u01a1m",
+    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Oppenheimer maintains Outperform rating on JFrog, $125 price target - TradingVie"
   ]
 }
