@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793223932.5588255,
+  "last_signals": 1793224556.8120065,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -72,7 +72,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793223933.3037107,
+    "Ethereum|4H:top": 1793224557.560521,
     "Gold|4H:top": 1793220124.8456864,
-    "Bitcoin|4H:top": 1793223933.0965586,
+    "Bitcoin|4H:top": 1793224557.3834872,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793223923.4099205,
-  "last_news": 1793223932.5579846,
+  "last_analysis": 1793224545.8189828,
+  "last_news": 1793224556.8110535,
   "seen_news": [
-    "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate d",
-    "Agribank th\u00f4ng b\u00e1o: Kh\u00e1ch h\u00e0ng chuy\u1ec3n ti\u1ec1n t\u1edbi Techcombank, ACB, MSB v\u00e0 9 ng\u00e2n h",
-    "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
-    "Citizens maintains Market Outperform rating on NRC Health, $27 price target - Tr",
-    "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoid",
-    "Why China is desperate to ship cars outside of the country",
     "China\u2019s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
     "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
     "The market is pricing in a 78% chance of a Bank of Canada rate hike",
@@ -452,6 +446,12 @@
     "Radian names new CFO and CIO - TradingView",
     "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increas",
     "Apple to replace iPhone Duos affected by screen problem",
-    "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf"
+    "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf",
+    "Cigna declares $1.56 dividend - TradingView",
+    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
+    "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+    "Healey to shield low-income pensioners from income tax in the Budget",
+    "U.S. Treasury yields hover near multi-week lows ahead of Fed decision",
+    "The full statement from the Bank of Canada rate decision for October 2026. Hikes"
   ]
 }
