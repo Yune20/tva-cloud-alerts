@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793216960.155569,
-  "last_bot4": 1793221374.7962751,
+  "last_bot4": 1793222047.3279443,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793220746.5312297
+    "Gold": 1793222047.3278553
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793221723.9250176,
+  "last_signals": 1793222047.3287098,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -80,7 +80,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793221725.6537266,
+    "Ethereum|4H:top": 1793222047.987387,
     "Gold|4H:top": 1793220124.8456864,
-    "Bitcoin|4H:top": 1793221725.2047565,
+    "Bitcoin|4H:top": 1793222047.8066285,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793221727.0151522,
+    "EUR/USD|1D:bot": 1793222048.485948,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793221714.6450202,
-  "last_news": 1793221723.9238374,
+  "last_analysis": 1793222036.8429427,
+  "last_news": 1793222044.6872835,
   "seen_news": [
-    "\"Kh\u00f4ng ch\u1eb7n nh\u1ea7m qu\u00e1 nhi\u1ec1u giao d\u1ecbch h\u1ee3p ph\u00e1p c\u1ee7a ng\u01b0\u1eddi d\u00e2n\"",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Albemarle Corporation (ALB) Declares $0.41 Quarterly Dividend - TradingView",
-    "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our sav",
-    "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain tracti",
-    "Your pay, energy bills and savings: How the Budget affects you",
     "Microsoft and Alphabet report tonight. Wall Street's earnings recovery has a cat",
     "\u0110i\u1ec1u tra h\u01a1n 20 t\u1ef7 c\u1ee7a doanh nghi\u1ec7p, c\u00f4ng an kh\u1edfi t\u1ed1 n\u1eef gi\u00e1m \u0111\u1ed1c SN 1973",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
@@ -452,6 +446,12 @@
     "Solar Has Overtaken Nuclear in the Global Power Mix",
     "Canadian dollar holds gains after Bank of Canada delivers rate hike",
     "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepen",
-    "MC d\u1eabn cho VTV t\u1eeb 14 tu\u1ed5i tung \u1ea3nh qu\u00e1 kh\u1ee9 ch\u1ee9ng minh \"\u0111\u1eebng khinh th\u01b0\u1eddng b\u00f4ng ho"
+    "MC d\u1eabn cho VTV t\u1eeb 14 tu\u1ed5i tung \u1ea3nh qu\u00e1 kh\u1ee9 ch\u1ee9ng minh \"\u0111\u1eebng khinh th\u01b0\u1eddng b\u00f4ng ho",
+    "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
+    "QatarEnergy Extends LNG Force Majeure to End of 2026",
+    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
+    "Vance writes to Iran hard-liner Rezaei to revive talks as Trump weighs new strik",
+    "M\u1ed9t c\u00f4ng ty tuy\u1ec3n h\u01a1n 12.200 ng\u01b0\u1eddi t\u1eeb \u0111\u1ea7u n\u0103m, chi 10.396 t\u1ef7 cho nh\u00e2n vi\u00ean, qu\u1ea3n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance"
   ]
 }
