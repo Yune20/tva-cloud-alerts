@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793160558.8543198,
+  "last_signals": 1793161174.1620207,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -62,7 +62,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
@@ -117,9 +117,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793160559.5423276,
+    "Ethereum|4H:top": 1793161174.7620678,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1793160559.346885,
+    "Bitcoin|4H:top": 1793161174.6253583,
     "USD/JPY|4H:top": 1793156517.77801,
     "JPY Index|4H:top": 1793156518.2536283,
     "USOIL|4H:top": 1792973263.908907,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793160547.2704215,
-  "last_news": 1793160556.3097942,
+  "last_analysis": 1793161166.4411151,
+  "last_news": 1793161174.1612456,
   "seen_news": [
-    "Hai v\u1ee3 ch\u1ed3ng ng\u01b0\u1eddi Vi\u1ec7t v\u1eeba c\u00f3 th\u00eam 500 tri\u1ec7u USD ch\u1ec9 sau m\u1ed9t ng\u00e0y",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Zarif Law Group Announces Participation in The PIPEs Conference - TradingView",
-    "Is that used EV worth the price? This checklist could save you thousands of doll",
-    "As holiday shopping approaches, seasonal hiring gives 'mixed signals,' experts s",
-    "Healey's Budget needs to sustain the stronger economy through gathering clouds",
     "5 Data Center Power Stocks to Watch Before Earnings",
     "Higher tariffs on Canadian imports would be \u2019catastrophic,\u2019 Honda exec says",
     "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in Augus",
@@ -450,6 +444,12 @@
     "How much is the minimum wage?",
     "Why is Samsung Electronics stock surging today?",
     "Topix explained: why Japan\u2019s biggest-ever index overhaul will cull 683 stocks by",
-    "M\u1ed9t gia \u0111\u00ecnh Vi\u1ec7t c\u00f3 b\u1ed1 l\u00e0 Gi\u00e1m \u0111\u1ed1c, nu\u00f4i d\u1ea1y 8 ng\u01b0\u1eddi con \u0111\u1ec1u l\u00e0m Gi\u00e1o s\u01b0, PGS, "
+    "M\u1ed9t gia \u0111\u00ecnh Vi\u1ec7t c\u00f3 b\u1ed1 l\u00e0 Gi\u00e1m \u0111\u1ed1c, nu\u00f4i d\u1ea1y 8 ng\u01b0\u1eddi con \u0111\u1ec1u l\u00e0m Gi\u00e1o s\u01b0, PGS, ",
+    "Apple to replace iPhone Duos affected by screen problem",
+    "Why is the New Zealand Dollar sliding today?",
+    "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
+    "M\u00f3n b\u00e1nh tart tr\u1ee9ng ph\u1ee7 c\u00e0 cu\u1ed1ng khi\u1ebfn d\u00e2n m\u1ea1ng s\u1ee3 h\u00e3i",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "FWRG Q3'26 Earnings: revenue estimate is 349.36M USD - TradingView"
   ]
 }
