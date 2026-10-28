@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793227033.6511645,
+  "last_signals": 1793227645.093472,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -72,7 +72,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
@@ -83,14 +83,14 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|1H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793227905,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793227034.3239696,
-    "Gold|4H:top": 1793227033.8061788,
-    "Bitcoin|4H:top": 1793227034.1637218,
+    "Ethereum|4H:top": 1793227646.5765111,
+    "Gold|4H:top": 1793227645.4588559,
+    "Bitcoin|4H:top": 1793227646.23773,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793227021.7220843,
-  "last_news": 1793227033.6503463,
+  "last_analysis": 1793227636.8525023,
+  "last_news": 1793227645.0924573,
   "seen_news": [
-    "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-    "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
-    "US estrogen supply crunch widens as women seek alternatives to scarce patches",
-    "BOC's Macklem: Our surveys show businesses are planning to pass on more of these",
-    "C\u1eb7p v\u1ee3 ch\u1ed3ng nghe ti\u1ebfng nh\u01b0 ph\u1ee5 n\u1eef k\u00eau c\u1ee9u l\u00fac 3h30 s\u00e1ng \u1edf chung c\u01b0, c\u1ea3nh s\u00e1t ph",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
     "At least 68 people dead in high-speed Spain train crash",
     "The one thing the chancellor didn't mention that will affect your pay",
     "Will Rubio\u2019s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
@@ -452,6 +446,12 @@
     "How Trump\u2019s Russian Diesel Could End Up in Cuba Instead",
     "Chipotle tops quarterly sales expectations as it continues to attract diners",
     "ICYMI: Oracle jumps around 11% on $225bn 2030 revenue goal and $20bn cap on new ",
-    "Nhi\u1ec1u gia \u0111\u00ecnh tr\u1ed3ng m\u1ed9t c\u00e2y ch\u00e8 trong nh\u00e0: H\u00f3a ra kh\u00f4ng ch\u1ec9 \u0111\u1ec3 l\u1ea5y l\u00e1"
+    "Nhi\u1ec1u gia \u0111\u00ecnh tr\u1ed3ng m\u1ed9t c\u00e2y ch\u00e8 trong nh\u00e0: H\u00f3a ra kh\u00f4ng ch\u1ec9 \u0111\u1ec3 l\u1ea5y l\u00e1",
+    "US Oil Inventories Fall Again As Prices Rise",
+    "US FTC demands Walmart, Uber, Delta and others hand over data on personalized pr",
+    "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
+    "Doanh thu g\u00e2y s\u1ed1c c\u1ee7a phim c\u00f3 Lan Ng\u1ecdc - K\u1ef3 Duy\u00ean - Chi Pu, Tr\u1ea1i Bu\u00f4n Ng\u01b0\u1eddi + \u00c1n",
+    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
+    "Brown & Brown Q3 2026 Earnings Call Is Live - TradingView"
   ]
 }
