@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793152780.126705,
+  "last_signals": 1793153398.540057,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793098295.310403,
+    "5575146754|Gold|1H|range_in": 1793153398.540057,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793152771.6695833,
-  "last_news": 1793152780.1259322,
+  "last_analysis": 1793153390.0903175,
+  "last_news": 1793153398.5393133,
   "seen_news": [
-    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "Serviceware SE (SJJ) Reports 3.97% Voting Stake - TradingView",
-    "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 inve",
-    "How the oil capital of the US welcomed a solar power boom",
-    "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
-    "Trump says he will visit tanker in Texas with first oil from Venezuela deal",
     "The big reason Boeing\u2019s stock is falling so hard after earnings",
     "JetBlue stock surges 20% as company outlook calms investors",
     "Spain battles climate change on several fronts",
@@ -450,6 +444,12 @@
     "PBOC is expected to set the USD/CNY reference rate at 6.6734 \u2013 Reuters estimate",
     "Ti\u1ebfp t\u1ee5c \u0111\u1ec1 \u00e1n gi\u00e3n d\u00e2n ph\u1ed1 c\u1ed5 Ho\u00e0n Ki\u1ebfm v\u1edbi ch\u00ednh s\u00e1ch \u01b0u \u0111\u00e3i nh\u00e0 \u1edf x\u00e3 h\u1ed9i",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "BOE: Honeymoon\u2019s NFS underpins a wider, lower-cost uranium growth plan - Trading"
+    "BOE: Honeymoon\u2019s NFS underpins a wider, lower-cost uranium growth plan - Trading",
+    "Oil edges higher after Houthis claim missile strike on Saudi Arabia\u2019s biggest re",
+    "M\u1ef9 mang 'qu\u00e1i v\u1eadt' 230 t\u1ea5n sang Vi\u1ec7t Nam, m\u1ea5t 11 ng\u00e0y l\u1eafp r\u00e1p, ph\u1ee5c v\u1ee5 khai th\u00e1c",
+    "CSV: CTCP H\u00f3a ch\u1ea5t C\u01a1 b\u1ea3n Mi\u1ec1n Nam - H\u00d3A CH\u1ea4T C\u01a0 B\u1ea2N MI\u1ec0N NAM - VietstockFinance",
+    "US Futures Steady Ahead of Fed Decision - TradingView",
+    "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to",
+    "Rainmakers: The drones used to seed clouds"
   ]
 }
