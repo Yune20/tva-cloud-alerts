@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793219152.3545477,
+  "last_signals": 1793219781.4940856,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793215387.8813174,
+    "5575146754|Gold|1H|range_in": 1793219781.4940856,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -48,7 +48,7 @@
     "5575146754|Gold|1H|trap_up": 1793218184.489898,
     "5575146754|Gold|1D|range_in": 1793200403.3995583,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
-    "5575146754|Gold|4H|dtop": 1793214135.6922197
+    "5575146754|Gold|4H|dtop": 1793219781.4940856
   },
   "sig_range": {
     "Gold": true,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793219153.5095048,
-    "Gold|4H:top": 1793217573.9454465,
-    "Bitcoin|4H:top": 1793219153.2040632,
+    "Ethereum|4H:top": 1793219782.9509833,
+    "Gold|4H:top": 1793219781.8933542,
+    "Bitcoin|4H:top": 1793219782.6124427,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793219154.3810973,
+    "EUR/USD|1D:bot": 1793219784.160431,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793219143.3711112,
-  "last_news": 1793219152.353713,
+  "last_analysis": 1793219770.1984508,
+  "last_news": 1793219781.4932072,
   "seen_news": [
-    "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
-    "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.37%",
-    "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
-    "H\u00e0 N\u1ed9i x\u00e2y m\u1edbi tr\u1ee5 s\u1edf UBND th\u00e0nh ph\u1ed1 v\u00e0 trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i ng\u1ea7m g\u1ea7n H\u1ed3 G\u01b0\u01a1m",
-    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Oppenheimer maintains Outperform rating on JFrog, $125 price target - TradingVie",
     "CEO VinFast ch\u00e2u \u00c1 l\u1ea7n \u0111\u1ea7u ti\u1ebft l\u1ed9 m\u1ee5c ti\u00eau \u0111\u01b0a qu\u1ed1c gia 1,4 t\u1ef7 d\u00e2n th\u00e0nh m\u1ed9t tr",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Flagstar Bank, N.A. Sets $0.01 Quarterly Common Dividend - TradingView",
@@ -452,6 +446,12 @@
     "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
     "Microsoft and Alphabet earnings after the close. What is expected?",
     "Vi\u1ec7t Nam s\u1eafp c\u00f3 m\u1ed9t khu ph\u1ee9c h\u1ee3p th\u00f4ng minh 60.000 t\u1ef7 \u0111\u1ed3ng ngay t\u1ea1i Th\u1ee7 Thi\u00eam do",
-    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance"
+    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
+    "Oracle jumps as company provides long-term guidance at analyst day - TradingView",
+    "ServiceNow\u2019s stock slides as earnings miss clouds a raised AI outlook",
+    "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "What the Budget offers for under 25s - and what it leaves out",
+    "Chipotle beats quarterly sales expectations on resilient demand",
+    "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in "
   ]
 }
