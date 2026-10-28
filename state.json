@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793189203.1656947,
+  "last_signals": 1793189802.9410045,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793189205.548354,
+    "EUR/USD|1D:bot": 1793189805.6189544,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793189205.18221
+    "GBP/USD|4H:bot": 1793189805.277187
   },
   "last_analysis": 1793189509.0422134,
-  "last_news": 1793189203.1645875,
+  "last_news": 1793189802.940378,
   "seen_news": [
-    "Gold eases on firmer dollar ahead of Fed decision - TradingView",
-    "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
-    "How much is the minimum wage?",
-    "Why is Samsung Electronics stock surging today?",
-    "Topix explained: why Japan\u2019s biggest-ever index overhaul will cull 683 stocks by",
-    "M\u1ed9t gia \u0111\u00ecnh Vi\u1ec7t c\u00f3 b\u1ed1 l\u00e0 Gi\u00e1m \u0111\u1ed1c, nu\u00f4i d\u1ea1y 8 ng\u01b0\u1eddi con \u0111\u1ec1u l\u00e0m Gi\u00e1o s\u01b0, PGS, ",
     "Apple to replace iPhone Duos affected by screen problem",
     "Why is the New Zealand Dollar sliding today?",
     "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
@@ -450,6 +444,12 @@
     "Enorama Pharma: Jonas Brisland To Leave Role As CFO - TradingView",
     "DraftKings CEO Jason Robins says parents should talk with kids about gambling ad",
     "Plaid demands more cash, but how could the Budget affect Wales?",
-    "J.P. Morgan puts Norsk Hydro on Negative CW on rising LNG cost risks"
+    "J.P. Morgan puts Norsk Hydro on Negative CW on rising LNG cost risks",
+    "UBS lifts profit to $2.7 billion, speeds up buybacks despite capital concerns",
+    "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next",
+    "Gi\u00e1 \u0111i\u1ec7n t\u1eeb th\u00e1ng 11 c\u00f3 th\u1ec3 gi\u1ea3m bao nhi\u00eau?",
+    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
+    "REG - Squarepoint Ops LLC Rotork PLC - Form 8.3 - Rotork PLC - TradingView",
+    "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket"
   ]
 }
