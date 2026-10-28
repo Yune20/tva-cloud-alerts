@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793229594.3835738,
+  "last_signals": 1793230210.644832,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -48,7 +48,7 @@
     "5575146754|Gold|1H|trap_up": 1793218184.489898,
     "5575146754|Gold|1D|range_in": 1793200403.3995583,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
-    "5575146754|Gold|4H|dtop": 1793226417.4591815
+    "5575146754|Gold|4H|dtop": 1793230210.644832
   },
   "sig_range": {
     "Gold": true,
@@ -73,7 +73,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793228312.3026667,
-    "Gold|4H:top": 1793229594.534879,
+    "Gold|4H:top": 1793230210.8065424,
     "Bitcoin|4H:top": 1793228312.152104,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793229585.0603786,
-  "last_news": 1793229594.3826044,
+  "last_analysis": 1793230201.349378,
+  "last_news": 1793230210.6439347,
   "seen_news": [
-    "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday ",
-    "The one thing that didn't change that will affect your pay the most",
-    "Americans Hit Hardest by War-Driven Oil Price Surge",
-    "Canadian dollar steadies after seven-day rally ahead of rate decisions",
-    "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
-    "C\u1ed5 phi\u1ebfu \"th\u1ee7ng\" \u0111\u00e1y 3 n\u0103m, FPT ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng",
     "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels",
     "Why is ICON stock surging today?",
     "investingLive European session wrap: Stocks tread cautiously as Fed decision and",
@@ -452,6 +446,12 @@
     "Landline switchover could cut people off in emergency, minister warned",
     "China\u2019s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
     "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates",
-    "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields "
+    "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields ",
+    "PetroChina Q3 Profit Jumps to $7.78 Billion",
+    "Zillow to pay $212.5 million to settle class action over failed real estate vent",
+    "Strategy's bitcoin buying hinges on one number: STRC at $100",
+    "C\u00f4ng an th\u00f4ng b\u00e1o t\u1edbi t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n nh\u1eadn cu\u1ed9c g\u1ecdi, tin nh\u1eafn Zalo c\u00f3 n\u1ed9i dung ",
+    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Leak website releases data on tens of thousands of DHS employees - TradingView"
   ]
 }
