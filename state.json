@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793140073.6444943,
+  "last_news_report": 1793151206.288051,
   "last_bot4": 1793150870.3674598,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793150585.6926131,
+  "last_signals": 1793151206.289127,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793150576.5105371,
-  "last_news": 1793150585.691758,
+  "last_analysis": 1793151191.3953018,
+  "last_news": 1793151201.2101204,
   "seen_news": [
-    "Alligator Bioscience AB (ATORX) Proposes 1-for-1,000 Reverse Split - TradingView",
-    "When will Anthropic go public? Here\u2019s what to know about the IPO timeline.",
-    "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI ",
-    "The AI telling farmers when to harvest",
-    "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
-    "JetBlue shares rally after airline flags \u2019disconnect\u2019 between earnings and bond ",
     "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickl",
     "The start-ups hoping to return battery making to the US",
     "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
@@ -450,6 +444,12 @@
     "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firm",
     "Th\u1ee7 t\u01b0\u1edbng Ba Lan ti\u1ebft l\u1ed9 ng\u00e0y d\u1ef1 ki\u1ebfn di\u1ec5n ra cu\u1ed9c \u0111\u00e0m ph\u00e1n gi\u1eefa Ukraine, M\u1ef9 v\u00e0 ",
     "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Rosenblatt maintains Buy rating on Broadcom, $600 price target - TradingView"
+    "Rosenblatt maintains Buy rating on Broadcom, $600 price target - TradingView",
+    "Are California voters about to impose 'world's first' tax on billionaires?",
+    "Anthropic taps JPMorgan to lead IPO\u2019s U.S. retail sales, Bloomberg reports",
+    "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
+    "Chi\u1ebfc iPhone c\u0169 gi\u1ea3m g\u1ea7n 17 tri\u1ec7u \u0111\u1ed3ng, nay ch\u1ec9 c\u00f2n h\u01a1n 8 tri\u1ec7u \u0111\u1ed3ng",
+    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
+    "Gamma Resources Ltd. (GAMA) Names New CEO; Grants 3.125M Options - TradingView"
   ]
 }
