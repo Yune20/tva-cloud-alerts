@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793156515.7642272,
+  "last_signals": 1793157139.9946198,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793153398.540057,
+    "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -117,7 +117,7 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793156516.812369,
+    "Ethereum|4H:top": 1793157140.8515775,
     "Gold|4H:top": 1792170549.3801317,
     "Bitcoin|4H:top": 1793144081.3231103,
     "USD/JPY|4H:top": 1793156517.77801,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793156508.366984,
-  "last_news": 1793156515.7632527,
+  "last_analysis": 1793157129.9252386,
+  "last_news": 1793157139.9938314,
   "seen_news": [
-    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
-    "ECB rate outlook grows more complicated as bank lending conditions tighten",
-    "Trung Qu\u1ed1c m\u1ea5t g\u1ea7n 3 n\u0103m, M\u1ef9 h\u01a1n 2 n\u0103m, Vi\u1ec7t Nam \u0111\u1eb7t m\u1ee5c ti\u00eau ho\u00e0n th\u00e0nh si\u00eau c\u00f4",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
-    "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
     "Vi\u1ec7t Nam c\u00f3 1 su\u1ed1i n\u01b0\u1edbc n\u00f3ng t\u1ef1 nhi\u00ean nhi\u1ec7t \u0111\u1ed9 80 \u0111\u1ed9 C, c\u00f3 th\u1ec3 lu\u1ed9c ch\u00edn tr\u1ee9ng g",
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
     "Albemarle Corporation (ALB) Declares $0.41 Quarterly Dividend - TradingView",
@@ -450,6 +444,12 @@
     "Vietnam strategy report - VietstockFinance",
     "TeamViewer SE (TMV) Receives Major Holdings Notice From BlackRock - TradingView",
     "The big reason Boeing\u2019s stock is falling so hard after earnings",
-    "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of str"
+    "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of str",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Oil Rises Amid Heightened Middle East Uncertainty - TradingView",
+    "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to ",
+    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "Russia\u2019s Crude Exports Set to Fall as Diesel Production Rises",
+    "Why is SK Hynix stock surging today?"
   ]
 }
