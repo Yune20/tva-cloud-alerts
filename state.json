@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793203947.3799906,
+  "last_signals": 1793204562.0166118,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793178644.4599493,
+    "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -72,8 +72,8 @@
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": false,
-    "US30|4H": false,
+    "US30|1H": true,
+    "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793203948.575812,
+    "EUR/USD|1D:bot": 1793204563.488859,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793203938.785039,
-  "last_news": 1793203947.378395,
+  "last_analysis": 1793204552.9127517,
+  "last_news": 1793204562.0157077,
   "seen_news": [
-    "HBM explained: the AI memory behind SK Hynix\u2019s record profits and rising chip pr",
-    "Honda Vi\u1ec7t Nam gi\u1edbi thi\u1ec7u SH160i/125i 2027 c\u00f9ng d\u1ea7u nh\u1eddn Pro Honda GLIDE m\u1edbi",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
-    "GOOD Q3'26 Earnings: revenue estimate is 42.56M USD - TradingView",
-    "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Euro falls against dollar; Brazilian real tumbles after Lula election win - Trad",
     "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out ac",
     "China's families are now supporting more old people than kids",
@@ -450,6 +444,12 @@
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
     "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
     "3 reasons home prices keep going up, even though fewer people are buying",
-    "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor re"
+    "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor re",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
+    "US Treasury Trade Official Eric Ettorre Leaving For Netflix - Axios - TradingVie",
+    "Bullish on Anthropic but don\u2019t want to wait until the IPO? Here\u2019s how you can in",
+    "Microsoft earnings will land after the close",
+    "The grads ditching the UK for a fresh start abroad",
+    "Oil Traders Brace for Iran Escalation After U.S. Elections"
   ]
 }
