@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793216023.8259356,
+  "last_signals": 1793216627.4635346,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793215387.8813174,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -80,7 +80,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793166739.8556073,
-    "Gold|4H:top": 1793216024.1410959,
+    "Gold|4H:top": 1793216627.6506014,
     "Bitcoin|4H:top": 1793166739.5531008,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793216026.137924,
+    "EUR/USD|1D:bot": 1793216628.6957757,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -151,14 +151,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793216329.8846695,
-  "last_news": 1793216023.8250158,
+  "last_news": 1793216627.4626093,
   "seen_news": [
-    "Ph\u1ea1t 1,1 t\u1ef7 \u0111\u1ed3ng m\u1ed9t \u0111\u01a1n v\u1ecb ph\u00e1t h\u00e0nh x\u1ed5 s\u1ed1: Ng\u01b0\u1eddi tr\u00fang gi\u1ea3i nh\u1ea5t g\u1ea7n 10 t\u1ef7 \u0111\u1ed3n",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Enorama Pharma: Jonas Brisland To Leave Role As CFO - TradingView",
-    "DraftKings CEO Jason Robins says parents should talk with kids about gambling ad",
-    "Plaid demands more cash, but how could the Budget affect Wales?",
-    "J.P. Morgan puts Norsk Hydro on Negative CW on rising LNG cost risks",
     "UBS lifts profit to $2.7 billion, speeds up buybacks despite capital concerns",
     "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next",
     "Gi\u00e1 \u0111i\u1ec7n t\u1eeb th\u00e1ng 11 c\u00f3 th\u1ec3 gi\u1ea3m bao nhi\u00eau?",
@@ -452,6 +446,12 @@
     "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
     "Vi\u1ec7t Nam c\u00f3 gia \u0111\u00ecnh v\u1edbi g\u1ea7n 30 b\u00e1c s\u0129, nha s\u0129, d\u01b0\u1ee3c s\u0129: M\u1ed9t ng\u01b0\u1eddi t\u1eebng c\u00f9ng \u0111\u1ea1i",
     "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
-    "SA Asks: What are the best defensive stock plays right now? - TradingView"
+    "SA Asks: What are the best defensive stock plays right now? - TradingView",
+    "B\u1ea5t ng\u1edd v\u1edbi l\u1ee3i nhu\u1eadn B\u00e1ch H\u00f3a Xanh trong qu\u00fd 3",
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc",
+    "Phillips 66 Q3 2026 Earnings Call Is Live - TradingView",
+    "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
+    "You may get the right to find out what your colleagues earn - here's why",
+    "Polish zloty falls to weakest level since November 2023"
   ]
 }
