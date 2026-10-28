@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793217573.7212405,
+  "last_signals": 1793218184.489898,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793215387.8813174,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
-    "5575146754|Gold|1H|trap_up": 1793116690.1803937,
+    "5575146754|Gold|1H|trap_up": 1793218184.489898,
     "5575146754|Gold|1D|range_in": 1793200403.3995583,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
     "5575146754|Gold|4H|dtop": 1793214135.6922197
@@ -71,7 +71,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793166739.8556073,
+    "Ethereum|4H:top": 1793218185.6396778,
     "Gold|4H:top": 1793217573.9454465,
-    "Bitcoin|4H:top": 1793166739.5531008,
+    "Bitcoin|4H:top": 1793218185.377991,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793217575.8990667,
+    "EUR/USD|1D:bot": 1793218186.4683266,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -151,14 +151,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793217882.2022185,
-  "last_news": 1793217573.7205167,
+  "last_news": 1793218184.4892998,
   "seen_news": [
-    "V\u1eeba v\u1ec1 h\u01b0u m\u1eb9 t\u00f4i mang 2 t\u1ef7 ra chia h\u1ebft cho c\u00e1c con r\u1ed3i tuy\u00ean b\u1ed1 1 quy\u1ebft \u0111\u1ecbnh \u0111a",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Etsy, Inc. Reports Third Quarter 2026 Results - TradingView",
-    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
-    "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new",
-    "Apple to replace iPhone Duos affected by screen problem",
     "REG - Aberdeen UK Smllr Cs - Dividend Declaration - TradingView",
     "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
     "New Zealand dollar tanks after central bank defies markets' near-certainty it wo",
@@ -452,6 +446,12 @@
     "Three media outlets seek full White House access in amended lawsuit",
     "Anthropic's blockbuster share listing - 5 surprising things we now know",
     "Phillips 66 posts record quarterly profit on refining strength",
-    "The full statement from the October 2026 FOMC rate decision"
+    "The full statement from the October 2026 FOMC rate decision",
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+    "India\u2019s Record LNG Buying Meets Record-High Prices",
+    "Leak website releases data on tens of thousands of DHS employees",
+    "Economic and event calendar in Asia Thursday, October 29, 2026",
+    "H\u0110ND H\u00e0 N\u1ed9i k\u00e9o d\u00e0i k\u1ef3 h\u1ecdp \u0111\u1ec3 xem x\u00e9t c\u01a1 ch\u1ebf \u0111\u1eb7c th\u00f9 cho 5 tuy\u1ebfn Metro 1 tri\u1ec7u t",
+    "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - "
   ]
 }
