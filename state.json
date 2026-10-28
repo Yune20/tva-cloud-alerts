@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793216960.155569,
-  "last_bot4": 1793217885.214394,
+  "last_bot4": 1793218784.0493913,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793218184.489898,
+  "last_signals": 1793218784.0499115,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793215387.8813174,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -68,11 +68,11 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793218185.6396778,
+    "Ethereum|4H:top": 1793218785.4979043,
     "Gold|4H:top": 1793217573.9454465,
-    "Bitcoin|4H:top": 1793218185.377991,
+    "Bitcoin|4H:top": 1793218785.099662,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793218186.4683266,
+    "EUR/USD|1D:bot": 1793218786.7614832,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -151,14 +151,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793218487.4851348,
-  "last_news": 1793218184.4892998,
+  "last_news": 1793218784.048807,
   "seen_news": [
-    "REG - Aberdeen UK Smllr Cs - Dividend Declaration - TradingView",
-    "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
-    "New Zealand dollar tanks after central bank defies markets' near-certainty it wo",
-    "How will the tax cut on gherkins help restaurants?",
-    "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
-    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
     "FEC campaign finance system offline days before midterms after hackers reportedl",
     "More cats abandoned 'due to rising costs'",
     "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
@@ -452,6 +446,12 @@
     "Leak website releases data on tens of thousands of DHS employees",
     "Economic and event calendar in Asia Thursday, October 29, 2026",
     "H\u0110ND H\u00e0 N\u1ed9i k\u00e9o d\u00e0i k\u1ef3 h\u1ecdp \u0111\u1ec3 xem x\u00e9t c\u01a1 ch\u1ebf \u0111\u1eb7c th\u00f9 cho 5 tuy\u1ebfn Metro 1 tri\u1ec7u t",
-    "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - "
+    "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - ",
+    "Exclusive-US DOJ is inquiring about Nvidia\u2019s purchase of Hugging Face, sources s",
+    "The before and after.  A look at the changes in forex, rates, stocks through the",
+    "T\u1ef7 ph\u00fa Elon Musk tuy\u1ec3n lo\u1ea1t nh\u00e2n t\u00e0i t\u1ea1i Vi\u1ec7t Nam, c\u00f3 v\u1ecb tr\u00ed qu\u1ea3n l\u00fd kh\u00f4ng y\u00eau c",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Gold eases on firmer dollar ahead of Fed decision - TradingView",
+    "U.S. oil-refinery stocks are up roughly 150% this year. How long could this hist"
   ]
 }
