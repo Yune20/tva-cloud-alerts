@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793223323.0663328,
+  "last_signals": 1793223932.5588255,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -73,7 +73,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793223324.394962,
+    "Ethereum|4H:top": 1793223933.3037107,
     "Gold|4H:top": 1793220124.8456864,
-    "Bitcoin|4H:top": 1793223324.063445,
+    "Bitcoin|4H:top": 1793223933.0965586,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793223325.3511693,
+    "EUR/USD|1D:bot": 1793223933.8571868,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793223314.1094322,
-  "last_news": 1793223323.0653696,
+  "last_analysis": 1793223923.4099205,
+  "last_news": 1793223932.5579846,
   "seen_news": [
-    "\u2018When do I sell my stocks?\u2019 Ignore the noise and focus on these things.",
-    "Anthropic warns some risks may be uninsurable. AI coverage is going to be an iss",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Turkey\u2019s Libya Deal Puts Oil Majors in a Bind",
-    "Why is Bausch + Lomb stock surging today?",
-    "Bank of Canada rate decision: Hike to 2.50%",
     "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate d",
     "Agribank th\u00f4ng b\u00e1o: Kh\u00e1ch h\u00e0ng chuy\u1ec3n ti\u1ec1n t\u1edbi Techcombank, ACB, MSB v\u00e0 9 ng\u00e2n h",
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
@@ -452,6 +446,12 @@
     "L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed, Vi\u1ec7t Nam s\u1ebd c\u00f3 s\u00e2n bay g\u1ea7n 6.400 t\u1ef7 \u0111\u1ed3ng n\u1eb1m \u1edf \u0111\u1ed9 ca",
     "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Core Laboratories (NYSE:CLB) reports Q3 2026 in line with expectations - Trading",
-    "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a hi"
+    "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a hi",
+    "Tr\u00fang s\u1ed1 109 t\u1ef7 \u0111\u1ed3ng, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng b\u1ecb c\u1ea3nh s\u00e1t b\u1eaft gi\u1eef v\u00ec kh\u00f4ng ch\u1ecbu chia ti\u1ec1n ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
+    "Radian names new CFO and CIO - TradingView",
+    "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increas",
+    "Apple to replace iPhone Duos affected by screen problem",
+    "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf"
   ]
 }
