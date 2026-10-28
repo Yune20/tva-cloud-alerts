@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793191465.7396023,
+  "last_signals": 1793192082.969676,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793191467.083321,
+    "EUR/USD|1D:bot": 1793192084.9406276,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793191466.9051304
+    "GBP/USD|4H:bot": 1793192084.6432455
   },
-  "last_analysis": 1793191457.6693814,
-  "last_news": 1793191465.7369773,
+  "last_analysis": 1793192075.62213,
+  "last_news": 1793192082.968787,
   "seen_news": [
-    "Why Gen Z are planning for life without a state pension",
-    "StanChart lifts full-year targets after quarterly profit jump trounces forecasts",
-    "US August Case-Shiller 20-city house price index +2.7% y/y vs +2.6% expected",
-    "N\u1eef chuy\u00ean gia AI h\u00e0ng \u0111\u1ea7u th\u0103ng ti\u1ebfn th\u1ea7n t\u1ed1c",
-    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Max Fin Q2 Net Surges Multifold - TradingView",
     "US FHFA Monthly home prices index 0.3% vs 0.2% estimate",
     "B\u00ed th\u01b0 H\u00e0 N\u1ed9i ch\u1ec9 ra nh\u1eefng quy\u1ebft s\u00e1ch l\u1edbn t\u1ea1i k\u1ef3 h\u1ecdp H\u0110ND mang t\u00ednh 'l\u1ecbch s\u1eed'",
     "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
@@ -450,6 +444,12 @@
     "New Zealand dollar tanks after central bank defies markets' near-certainty it wo",
     "How will the tax cut on gherkins help restaurants?",
     "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
-    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo"
+    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
+    "FEC campaign finance system offline days before midterms after hackers reportedl",
+    "More cats abandoned 'due to rising costs'",
+    "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
+    "Microsoft stock setup analysis ahead of today\u2019s earnings release",
+    "Topix explained: why Japan\u2019s biggest-ever index overhaul will cull 683 stocks by",
+    "Ch\u1ee9ng kho\u00e1n DSC gi\u1ea3m 57,3% m\u1ee5c ti\u00eau l\u1ee3i nhu\u1eadn n\u0103m 2026"
   ]
 }
