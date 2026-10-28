@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793172072.8198638,
+  "last_signals": 1793172685.1896162,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793172064.3105278,
-  "last_news": 1793172072.818852,
+  "last_analysis": 1793172677.0543845,
+  "last_news": 1793172685.188712,
   "seen_news": [
-    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
-    "Coty partners with Brandlight to increase brand visibility in AI searches - Trad",
-    "JetBlue stock surges as company outlook calms investors",
-    "The grads ditching the UK for a fresh start abroad",
-    "Americans Hit Hardest by War-Driven Oil Price Surge",
-    "Visa results beat estimates as resilient customers keep up spending",
     "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
     "The tech helping crack decades-old cold cases",
     "OPEC+ Set to Keep Oil Quotas Unchanged",
@@ -450,6 +444,12 @@
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
     "Symrise Reports Q3 Group Sales \u20ac1.31 Bln - TradingView",
     "Trump administration may let more Russian diesel onto market, energy secretary t",
-    "Landline switchover could cut people off in emergency, minister warned"
+    "Landline switchover could cut people off in emergency, minister warned",
+    "The Indian workers filming their work to train AI",
+    "Three Buy-rated EU Industrial stocks to watch, according to BofA",
+    "European markets face a quiet calendar today as central banks and big tech earni",
+    "MWG l\u00e3i k\u1ef7 l\u1ee5c qu\u00fd 3, v\u01b0\u1ee3t k\u1ebf ho\u1ea1ch c\u1ea3 n\u0103m sau 9 th\u00e1ng",
+    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "What Cincinnati Financial (CINF) Said on Its Q3 Earnings Call - TradingView"
   ]
 }
