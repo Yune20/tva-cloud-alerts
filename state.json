@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793225187.2314079,
+  "last_signals": 1793225809.753037,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -77,19 +77,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793225188.5644057,
+    "Ethereum|4H:top": 1793225811.034575,
     "Gold|4H:top": 1793220124.8456864,
-    "Bitcoin|4H:top": 1793225188.2281628,
+    "Bitcoin|4H:top": 1793225810.7194648,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793225177.501476,
-  "last_news": 1793225187.230711,
+  "last_analysis": 1793225795.389758,
+  "last_news": 1793225809.7520633,
   "seen_news": [
-    "Indian Rupee trims gains as higher oil prices put renewed pressure despite repea",
-    "Ng\u00e0y 28/10, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 6 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
-    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
-    "RBC Capital reiterates Outperform rating on Boeing, $235 price target - TradingV",
-    "We stopped helping our neighbors with free home repairs and our friendship coole",
-    "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be is",
     "US Oil Inventories Fall Again As Prices Rise",
     "Arm Holdings stock may move 8.9% on Nov. 4 earnings release",
     "Crude oil is keeping the bullish bias by staying above the 100/200 hour MAs",
@@ -452,6 +446,12 @@
     "Why is MGM Resorts stock sliding today?",
     "US bitcoin reserve buying 'very soon'? What has to happen first",
     "Ph\u1ea5n \u0111\u1ea5u c\u00f3 nh\u1eefng giao d\u1ecbch \u0111\u1ea7u ti\u00ean t\u1ea1i Trung t\u00e2m T\u00e0i ch\u00ednh qu\u1ed1c t\u1ebf trong th\u00e1ng",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Nh\u1eefng \u0111\u1ee9a tr\u1ebb c\u00f3 \"t\u1ed1t s\u1ed1\" \u0111\u1ec1u c\u00f3 chung 1 \u0111i\u1ec3m v\u00e0 ch\u1eb3ng li\u00ean quan g\u00ec \u0111\u1ebfn \u0111i\u1ec3m s\u1ed1 ",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
+    "Sprouts Farmers Market Q3 sales miss expectations amid challenging consumer envi",
+    "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
+    "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada"
   ]
 }
