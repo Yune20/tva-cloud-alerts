@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793202248.474007,
+  "last_signals": 1793202848.8379827,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,9 +62,9 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -73,23 +73,23 @@
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
-    "US30|4H": false,
+    "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793203121,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793202250.4931464,
+    "EUR/USD|1D:bot": 1793202850.8946903,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793202554.0686083,
-  "last_news": 1793202248.4733188,
+  "last_news": 1793202848.8373215,
   "seen_news": [
-    "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows",
-    "The grads ditching the UK for a fresh start abroad",
-    "Oil Traders Brace for Iran Escalation After U.S. Elections",
-    "Ambani\u2019s Jio becomes India\u2019s second-most valuable firm in $131.5 billion debut",
-    "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in Augus",
-    "Nam c\u00f4ng nh\u00e2n \u1edf V\u0129nh Long tr\u00fang v\u00e9 s\u1ed1 \u0111\u1eb7c bi\u1ec7t 28 t\u1ef7 \u0111\u1ed3ng",
     "FOX: CTCP Vi\u1ec5n th\u00f4ng FPT - FPT TELECOM - VietstockFinance",
     "Robinhood Markets, Inc. Stock 12\u2011Month Price Target Cut to $137.34, Implies 45% ",
     "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime f",
@@ -450,6 +444,12 @@
     "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
     "The Indian workers filming their work to train AI",
     "PetroChina Q3 Profit Jumps to $7.78 Billion",
-    "Prediction market bets set the tone for Anthropic\u2019s much-awaited IPO"
+    "Prediction market bets set the tone for Anthropic\u2019s much-awaited IPO",
+    "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday ",
+    "The one thing that didn't change that will affect your pay the most",
+    "Americans Hit Hardest by War-Driven Oil Price Surge",
+    "Canadian dollar steadies after seven-day rally ahead of rate decisions",
+    "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
+    "C\u1ed5 phi\u1ebfu \"th\u1ee7ng\" \u0111\u00e1y 3 n\u0103m, FPT ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng"
   ]
 }
