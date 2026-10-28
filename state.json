@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793193682.8804932,
+  "last_signals": 1793194301.4956388,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793193684.2092607,
+    "EUR/USD|1D:bot": 1793194304.729159,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793193684.039561
+    "GBP/USD|4H:bot": 1793194304.3418853
   },
-  "last_analysis": 1793193672.6631227,
-  "last_news": 1793193682.8785615,
+  "last_analysis": 1793194288.6141217,
+  "last_news": 1793194301.4948497,
   "seen_news": [
-    "US Crude Oil Inventories Buck Analyst Expectations",
-    "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
-    "US September durable goods orders +1.8% vs +1.7% expected",
-    "R\u1eeda b\u00e1t th\u01b0\u1eddng xuy\u00ean nh\u01b0ng b\u00e1t \u0111\u0129a ng\u00e0y c\u00e0ng b\u1ea9n? 5 thao t\u00e1c n\u00e0y \u0111ang \u00e2m th\u1ea7m g\u00e2",
-    "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
-    "Bitcoin ETFs break 2-week outflow streak with $301M comeback - TradingView",
     "investingLive European news wrap: Markets remain rangebound ahead of the FOMC de",
     "B\u1ed9 tr\u01b0\u1edfng T\u00e0i ch\u00ednh k\u1ec3 chuy\u1ec7n 180 nh\u00e2n s\u1ef1 r\u1eddi \u1ee6y ban Ch\u1ee9ng kho\u00e1n trong m\u1ed9t n\u0103m",
     "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
@@ -450,6 +444,12 @@
     "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
     "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's c",
     "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
-    "5 Data Center Power Stocks to Watch Before Earnings"
+    "5 Data Center Power Stocks to Watch Before Earnings",
+    "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+    "At least 64 people dead in high-speed Spain train crash",
+    "Healey to shield low-income pensioners from income tax in the Budget",
+    "QatarEnergy Extends LNG Force Majeure to End of 2026",
+    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
+    "UK budget: Growth forecasts cut as Healey unveils \u00a315 billion fiscal buffer"
   ]
 }
