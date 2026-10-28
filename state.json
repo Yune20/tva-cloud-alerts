@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793178644.4599493,
+  "last_signals": 1793179253.7210145,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -78,16 +78,16 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793178645.9449828,
+    "DXY|4H:top": 1793179255.1055946,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793178636.3034928,
-  "last_news": 1793178644.45525,
+  "last_analysis": 1793179244.7738664,
+  "last_news": 1793179253.7201693,
   "seen_news": [
-    "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
-    "Sugar Prices Stabilize after Monday\u2019s Sell-off - TradingView",
-    "SK Hynix announces over $25 billion in dividends and buyback as third-quarter pr",
-    "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l",
-    "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
-    "Dollar rebounds as euro slips ahead of key central bank decisions",
     "Rosebank: Life on the oil field at the centre of a political storm",
     "U.S.  yields hover near 3-week lows as ahead of Fed decision",
     "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firm",
@@ -450,6 +444,12 @@
     "TV\u2019s Nick and Vanessa Lachey cut price of Southern California home to $7.6 milli",
     "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
     "'An annoying buzz': The search for stealthier drones",
-    "Traton reports in-line earnings as orders miss expectations"
+    "Traton reports in-line earnings as orders miss expectations",
+    "Eurozone yields push higher as French spread relief fades; Fed, ECB eyed",
+    "Qatari mediators presented Iran with new draft deal; Iran's response expected by",
+    "Doanh s\u1ed1 c\u1eeda h\u00e0ng gi\u1ea3m 9%: V\u00ec sao gi\u1edbi nh\u00e0 gi\u00e0u Trung Qu\u1ed1c l\u1eb7ng l\u1ebd r\u1eddi xa Gucci?",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
+    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
+    "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?"
   ]
 }
