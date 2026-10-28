@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793183938.2619824,
-  "last_bot4": 1793193682.879697,
+  "last_bot4": 1793194659.948764,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793193020.713654
+    "Gold": 1793194659.9486685
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793194301.4956388,
+  "last_signals": 1793194659.9494069,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -66,9 +66,9 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793194304.729159,
+    "EUR/USD|1D:bot": 1793194666.153617,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793194304.3418853
+    "GBP/USD|4H:bot": 1793194665.9360912
   },
-  "last_analysis": 1793194288.6141217,
-  "last_news": 1793194301.4948497,
+  "last_analysis": 1793194645.85376,
+  "last_news": 1793194656.4501276,
   "seen_news": [
-    "investingLive European news wrap: Markets remain rangebound ahead of the FOMC de",
-    "B\u1ed9 tr\u01b0\u1edfng T\u00e0i ch\u00ednh k\u1ec3 chuy\u1ec7n 180 nh\u00e2n s\u1ef1 r\u1eddi \u1ee6y ban Ch\u1ee9ng kho\u00e1n trong m\u1ed9t n\u0103m",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
-    "Jack Dorsey warns Bitcoin fails if reduced to digital gold - TradingView",
-    "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in ",
-    "Why this British plumber prefers working in Poland",
     "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
     "Dallas Fed manufacturing index unexpectedly rises in October - TradingView",
     "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
@@ -450,6 +444,12 @@
     "Healey to shield low-income pensioners from income tax in the Budget",
     "QatarEnergy Extends LNG Force Majeure to End of 2026",
     "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
-    "UK budget: Growth forecasts cut as Healey unveils \u00a315 billion fiscal buffer"
+    "UK budget: Growth forecasts cut as Healey unveils \u00a315 billion fiscal buffer",
+    "Stellantis stock rises as automaker's turnaround plan, cost cuts gain traction",
+    "My hometown shows that high streets have to change or die",
+    "US Crude Oil Inventories Buck Analyst Expectations",
+    "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
+    "US Wholesale inventories 0.6% vs 0.5% estimate",
+    "L\u1eddi khuy\u00ean cho gia \u0111\u00ecnh d\u00f9ng d\u1ee5ng c\u1ee5 \u0103n u\u1ed1ng b\u1eb1ng inox"
   ]
 }
