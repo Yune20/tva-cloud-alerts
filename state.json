@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793197525.8539336,
+  "last_signals": 1793197869.8855014,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
-    "5575146754|Gold|4H|range_in": 1793189203.1656947,
+    "5575146754|Gold|4H|range_in": 1793197869.8855014,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793197528.5287838,
+    "EUR/USD|1D:bot": 1793197872.2823503,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793197232.9082472,
-  "last_news": 1793197242.4283848,
+  "last_analysis": 1793197858.3809226,
+  "last_news": 1793197869.884345,
   "seen_news": [
-    "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
-    "Darling Ingredients earnings: what to look for from DAR - TradingView",
-    "The rest of the market is leaving Big Tech behind after a historic comeback",
-    "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-    "Free haircuts project aims to inspire other stylists",
-    "Will Rubio\u2019s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
     "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $85",
     "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion ",
     "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
@@ -450,6 +444,12 @@
     "SBT: CTCP Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a - TTC - BH - VietstockFinance",
     "Citizens maintains Market Outperform rating on NRC Health, $27 price target - Tr",
     "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoid",
-    "Why China is desperate to ship cars outside of the country"
+    "Why China is desperate to ship cars outside of the country",
+    "China\u2019s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
+    "The market is pricing in a 78% chance of a Bank of Canada rate hike",
+    "T\u00e2m tr\u1ea1ng c\u1ee7a nhi\u1ec1u ng\u01b0\u1eddi 2026 m\u1edbi b\u1eaft \u0111\u1ea7u mua v\u00e0ng: C\u1ea7n l\u01b0u t\u00e2m \u0111i\u1ec1u g\u00ec khi \"nh",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
+    "Dassault Syst\u00e8mes Q3 2026 Earnings Call Is Live - TradingView"
   ]
 }
