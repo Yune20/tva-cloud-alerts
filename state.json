@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793174853.5965796,
+  "last_signals": 1793175475.4594479,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793116690.1803937,
-    "5575146754|Gold|1D|range_in": 1793112552.9214687
+    "5575146754|Gold|1D|range_in": 1793175475.4594479
   },
   "sig_range": {
     "Gold": true,
@@ -61,9 +61,9 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
-    "Gold|1D": false,
-    "USOIL|1H": false,
+    "Gold|4H": false,
+    "Gold|1D": true,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793067591.4360147,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793174855.5805638,
+    "EUR/USD|4H:bot": 1793175476.573644,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1792014450.962082,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793174844.798016,
-  "last_news": 1793174853.5952804,
+  "last_analysis": 1793175468.4055579,
+  "last_news": 1793175475.4586918,
   "seen_news": [
-    "I get \u00a34,062 a year and am trying my best - here's what I want from the Budget",
-    "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
-    "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
-    "HBM explained: the AI memory behind SK Hynix\u2019s record profits and rising chip pr",
-    "M\u1ea1o danh V\u1ee5 ph\u00f3 \u1ee6y Ban Ki\u1ec3m tra Trung \u01b0\u01a1ng \u0111\u1ec3 l\u1eeba \u0111\u1ea3o \u1edf C\u1ea7n Th\u01a1",
-    "SZC: CTCP Sonadezi Ch\u00e2u \u0110\u1ee9c - SZC - VietstockFinance",
     "18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs",
     "Colombia stocks higher at close of trade; COLCAP up 0.06%",
     "SK Hynix Q3 operating profit beats at 83tn won, unveils 100tn won shareholder pa",
@@ -450,6 +444,12 @@
     "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime f",
     "The tech helping crack decades-old cold cases",
     "Unilever lifts volume outlook as emerging markets drive Q3 beat",
-    "Germany's trade struggles with China set to put Asia-Pacific deficit on course f"
+    "Germany's trade struggles with China set to put Asia-Pacific deficit on course f",
+    "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
+    "Living with a stink? Technology might help",
+    "Why is DMC Global stock surging today?",
+    "Germany consumer sentiment remains weak ahead of November as inflation fears clo",
+    "Sau tu\u1ed5i 40 m\u1edbi hi\u1ec3u: C\u00e0ng t\u00edch tr\u1eef nhi\u1ec1u c\u00e0ng b\u1ea5t an, t\u00f4i tho\u00e1t kh\u1ecfi kh\u1ee7ng ho\u1ea3n",
+    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance"
   ]
 }
