@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793205858.0007813,
-  "last_bot4": 1793213143.8044372,
+  "last_bot4": 1793213775.7108324,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793212505.3586793
+    "Gold": 1793213775.7107475
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793213436.8892357,
+  "last_signals": 1793213775.711567,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793213436.8892357,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -46,7 +46,8 @@
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793116690.1803937,
-    "5575146754|Gold|1D|range_in": 1793200403.3995583
+    "5575146754|Gold|1D|range_in": 1793200403.3995583,
+    "5575146754|Gold|4H|ttop": 1793213775.711567
   },
   "sig_range": {
     "Gold": true,
@@ -63,7 +64,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -71,9 +72,9 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
-    "US30|1H": false,
-    "US30|4H": false,
+    "Ethereum|1D": false,
+    "US30|1H": true,
+    "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
@@ -118,7 +119,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793166739.8556073,
-    "Gold|4H:top": 1792170549.3801317,
+    "Gold|4H:top": 1793213775.9163892,
     "Bitcoin|4H:top": 1793166739.5531008,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -129,7 +130,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793213438.170927,
+    "EUR/USD|1D:bot": 1793213778.044701,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +149,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793213143.8032973,
-  "last_news": 1793213436.888465,
+  "last_analysis": 1793213761.4908597,
+  "last_news": 1793213772.7507677,
   "seen_news": [
-    "You may get the right to find out what your colleagues earn - here's why",
-    "European shares stutter as bank earnings fail to offset pre-Fed jitters",
-    "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal ",
-    "V\u1ee5 t\u00e0i x\u1ebf gh\u00e9 qu\u00e1n \u0103n c\u01a1m b\u00ecnh d\u00e2n h\u1ebft 640.000 \u0111\u1ed3ng: C\u00f4ng an v\u00e0o cu\u1ed9c",
-    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
     "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
     "Russia\u2019s Crude Exports Set to Fall as Diesel Production Rises",
     "JPM puts ArcelorMittal on Positive Catalyst Watch on steel price gains",
@@ -450,6 +445,12 @@
     "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
     "3 lo\u1ea1i rau c\u1ee7 r\u1ebb ti\u1ec1n, d\u1ec5 mua \u1edf ch\u1ee3 Vi\u1ec7t nh\u01b0ng th\u01b0\u1eddng b\u1ecb b\u1ecf qu\u00ean trong th\u1ef1c \u0111\u01a1n ",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView"
+    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
+    "Oracle expects to turn cash flow positive in second half of fiscal 2028",
+    "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push pr",
+    "M\u1ed9t c\u1ef1u sinh vi\u00ean \u0110\u1ea1i h\u1ecdc Kinh t\u1ebf TPHCM \u0111\u01b0\u1ee3c m\u1ec7nh danh \u201cn\u1eef ho\u00e0ng b\u00e1n c\u00e1\u201d, n\u1eafm gi",
+    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
+    "Putin salutes Musk's genius as Russia plays catch-up with Starlink - TradingView",
+    "Oracle stock pops 10% on forecast for 35% average revenue growth through 2030"
   ]
 }
