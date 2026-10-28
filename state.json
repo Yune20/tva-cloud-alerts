@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793172980.3735886,
-  "last_bot4": 1793179559.2660468,
+  "last_bot4": 1793180221.1517916,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793179849.7171266,
+  "last_signals": 1793180221.1613839,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793179853.0043187,
+    "DXY|4H:top": 1793180223.4716105,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793179556.7927854,
-  "last_news": 1793179849.6885066,
+  "last_analysis": 1793180213.3609865,
+  "last_news": 1793180221.1509368,
   "seen_news": [
-    "Are California voters about to impose 'world's first' tax on billionaires?",
-    "Anthropic taps JPMorgan to lead IPO\u2019s U.S. retail sales, Bloomberg reports",
-    "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
-    "Chi\u1ebfc iPhone c\u0169 gi\u1ea3m g\u1ea7n 17 tri\u1ec7u \u0111\u1ed3ng, nay ch\u1ec9 c\u00f2n h\u01a1n 8 tri\u1ec7u \u0111\u1ed3ng",
-    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
-    "Gamma Resources Ltd. (GAMA) Names New CEO; Grants 3.125M Options - TradingView",
     "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
     "How long will humans be needed for translation?",
     "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
@@ -450,6 +444,12 @@
     "Key facts: NASDAQ:CINF 10% investment income; seven AI assistants - TradingView",
     "SK Hynix delivered on third-quarter results \u2014 but the outlook is what really mat",
     "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
-    "Rise in sales of radios and tinned foods, say retailers, after call to stock up"
+    "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    "Dollar rebounds as euro slips ahead of key central bank decisions",
+    "European stock market open: Stocks edge lower ahead of Fed decision and big tech",
+    "Cu\u1ed1c xe 33.000 \u0111\u1ed3ng nh\u01b0ng kh\u00e1ch chuy\u1ec3n kho\u1ea3n 134 tri\u1ec7u v\u00e0 b\u1ea3o kh\u00f4ng c\u1ea7n tr\u1ea3, nga",
+    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Can Slightly Higher Processor Revenues Aid Intel's Q3 Earnings? - TradingView",
+    "China and Russia are redrawing Arctic trade. Can Europe fight back?"
   ]
 }
