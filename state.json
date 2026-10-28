@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793186737.4713895,
+  "last_signals": 1793187360.2824237,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793183644.908634,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793186738.5750434,
+    "EUR/USD|1D:bot": 1793187361.3911932,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793186738.385282
+    "GBP/USD|4H:bot": 1793187361.2319565
   },
-  "last_analysis": 1793186728.8549023,
-  "last_news": 1793186737.470516,
+  "last_analysis": 1793187350.8142862,
+  "last_news": 1793187360.2815487,
   "seen_news": [
-    "The Diesel Crisis Is Here To Stay",
-    "Six AI picks are up 13%\u201366% since entry, and a generic-drug maker leads them all",
-    "RBNZ\u2019s Breman: more hikes likely at coming meetings, possibly into restrictive t",
-    "N\u1eef ngh\u1ec7 s\u0129, ph\u00f3 vi\u1ec7n tr\u01b0\u1edfng SN 1982 ho\u00e3n c\u01b0\u1edbi b\u1ea1n trai \u0111\u1ea1i gia qu\u00ea T\u00e2y Ninh",
-    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc",
-    "FTI Consulting (FCN) reports earnings tomorrow: what to expect - TradingView",
     "Tax on banks, energy bill help and minimum wage rise - what could be in the Budg",
     "Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead",
     "US warns Gulf allies of possible short, intense Iran campaign after midterms: WS",
@@ -450,6 +444,12 @@
     "JPM puts ArcelorMittal on Positive Catalyst Watch on steel price gains",
     "AUD/NZD in focus as hawkish RBA signals clash with RBNZ\u2019s surprise 4-3 hold",
     "C\u1ef1u th\u1ee7 m\u00f4n \u0110T Vi\u1ec7t Nam b\u00e1o tin vui \u1edf tu\u1ed5i 40",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance"
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
+    "RBNZ holds OCR at 2.75% in surprise 4-3 vote, says tighter policy still likely",
+    "B\u1eafc Ninh m\u1edf r\u1ed9ng quy m\u00f4 khu nh\u00e0 \u1edf x\u00e3 h\u1ed9i do Arita l\u00e0m ch\u1ee7 \u0111\u1ea7u t\u01b0 l\u00ean 5,3ha",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
+    "The AI boom is starting to break time-tested stock-market signals"
   ]
 }
