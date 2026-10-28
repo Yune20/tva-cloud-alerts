@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793183036.3783567,
+  "last_signals": 1793183644.908634,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
-    "5575146754|Gold|4H|range_in": 1793147755.4021823,
+    "5575146754|Gold|4H|range_in": 1793183644.908634,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793180841.962638,
+    "EUR/USD|1D:bot": 1793183647.0568705,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793183024.9268608,
-  "last_news": 1793183033.795386,
+  "last_analysis": 1793183634.6474683,
+  "last_news": 1793183644.9077802,
   "seen_news": [
-    "What Happens When America's Power Grid Becomes a Last Resort?",
-    "US closes $5.1 billion loan to Alliant Energy for new gas power generation, ener",
-    "PBOC sets USD/ CNY mid-point today at 6.7165 (vs. estimate at 6.6734)",
-    "Th\u00e1i Nguy\u00ean: \u0110\u1ea5u gi\u00e1 khu \u0111\u1ea5t b\u1ecb thu h\u1ed3i do ch\u1eadm ti\u1ebfn \u0111\u1ed9",
-    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "Bitcoin Price Rally After US Midterm Election: Historical Data Shows - TradingVi",
     "A leading Silicon Valley cheerleader just showed all the reasons to be worried a",
     "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 inve",
     "The start-ups hoping to return battery making to the US",
@@ -450,6 +444,12 @@
     "Four reasons to start worrying about inflation \u2014 including the end of tariff ref",
     "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "China\u2019s Wind and Solar Power Capacity Surpasses 2 Terawatts"
+    "China\u2019s Wind and Solar Power Capacity Surpasses 2 Terawatts",
+    "The real way to tell if Amazon\u2019s AI spending is paying off",
+    "Musk's PAC lawyer runs in Texas House district that is home to billionaire's bus",
+    "Rainmakers: The drones used to seed clouds",
+    "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
+    "Why is SK hynix ADR stock surging today?",
+    "Oil edges higher after Houthis claim missile strike on Saudi Arabia\u2019s biggest re"
   ]
 }
