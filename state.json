@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793224556.8120065,
+  "last_signals": 1793225187.2314079,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -72,8 +72,8 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
-    "Ethereum|1D": true,
+    "Ethereum|4H": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793224557.560521,
+    "Ethereum|4H:top": 1793225188.5644057,
     "Gold|4H:top": 1793220124.8456864,
-    "Bitcoin|4H:top": 1793224557.3834872,
+    "Bitcoin|4H:top": 1793225188.2281628,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793224545.8189828,
-  "last_news": 1793224556.8110535,
+  "last_analysis": 1793225177.501476,
+  "last_news": 1793225187.230711,
   "seen_news": [
-    "China\u2019s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
-    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
-    "The market is pricing in a 78% chance of a Bank of Canada rate hike",
-    "T\u00e2m tr\u1ea1ng c\u1ee7a nhi\u1ec1u ng\u01b0\u1eddi 2026 m\u1edbi b\u1eaft \u0111\u1ea7u mua v\u00e0ng: C\u1ea7n l\u01b0u t\u00e2m \u0111i\u1ec1u g\u00ec khi \"nh",
-    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
-    "Dassault Syst\u00e8mes Q3 2026 Earnings Call Is Live - TradingView",
     "Indian Rupee trims gains as higher oil prices put renewed pressure despite repea",
     "Ng\u00e0y 28/10, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 6 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
@@ -452,6 +446,12 @@
     "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "Healey to shield low-income pensioners from income tax in the Budget",
     "U.S. Treasury yields hover near multi-week lows ahead of Fed decision",
-    "The full statement from the Bank of Canada rate decision for October 2026. Hikes"
+    "The full statement from the Bank of Canada rate decision for October 2026. Hikes",
+    "Why are more roofs not made of solar tiles?",
+    "U.S. Natural Gas Production Hits New Records as Demand Surges",
+    "Why is MGM Resorts stock sliding today?",
+    "US bitcoin reserve buying 'very soon'? What has to happen first",
+    "Ph\u1ea5n \u0111\u1ea5u c\u00f3 nh\u1eefng giao d\u1ecbch \u0111\u1ea7u ti\u00ean t\u1ea1i Trung t\u00e2m T\u00e0i ch\u00ednh qu\u1ed1c t\u1ebf trong th\u00e1ng",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
   ]
 }
