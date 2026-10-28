@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793148353.431086,
+  "last_signals": 1793148682.7793467,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -66,10 +66,10 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
     "Bitcoin|4H:top": 1793144081.3231103,
-    "USD/JPY|4H:top": 1793148354.7961197,
-    "JPY Index|4H:top": 1793148355.1325557,
+    "USD/JPY|4H:top": 1793148685.0752938,
+    "JPY Index|4H:top": 1793148685.6226714,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793067591.4360147,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793148060.9719563,
-  "last_news": 1793148353.4303513,
+  "last_analysis": 1793148672.39944,
+  "last_news": 1793148682.7783723,
   "seen_news": [
-    "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the ",
-    "Lula\u2019s election win leaves Brazil facing a fiscal tightrope",
-    "Are California voters about to impose 'world's first' tax on billionaires?",
-    "India\u2019s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
-    "Dollar rebounds as euro slips ahead of key central bank decisions",
-    "USDCAD buyers push higher, but the 100-day MA remains a key hurdle",
     "Why are more roofs not made of solar tiles?",
     "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
     "U.S.  yields hover near 3-week lows as ahead of Fed decision",
@@ -450,6 +444,12 @@
     "BlackRock sees one more Fed hike this year, calls market pricing for more too ha",
     "17.000 qu\u00e2n d\u1ed3n \u0111\u1ebfn \u0111i\u1ec3m n\u00f3ng, h\u01a1n 100 UAV nh\u1eafm Voronezh: \u00d4ng Zelensky \u0111\u01b0a \u0111\u1ec1 ng",
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
-    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView"
+    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView",
+    "One week out, prediction markets see Democrats as favored to sweep Congress",
+    "'An annoying buzz': The search for stealthier drones",
+    "U.S. Military Eyes Nuclear Reactors to Survive 90 Days Without the Grid",
+    "Dollar holds gains ahead of Fed policy signal, RBNZ decision",
+    "HSBC shares slide almost 7% as revenue misses and wealth stalls despite 32% prof",
+    "Ng\u01b0\u1eddi \u0111\u1eb9p Vi\u1ec7t t\u1eebng n\u1eb7ng 84kg l\u1ea5y ch\u1ed3ng \u0111\u1ea1i gia 3 \u0111\u1eddi v\u1ee3: Nay b\u00e1n online \u0111\u1ee7 th\u1ee9,"
   ]
 }
