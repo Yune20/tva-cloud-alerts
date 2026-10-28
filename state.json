@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793183644.908634,
+  "last_signals": 1793184267.2264702,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793183644.908634,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793183634.6474683,
-  "last_news": 1793183644.9077802,
+  "last_analysis": 1793184255.9612362,
+  "last_news": 1793184267.225553,
   "seen_news": [
-    "A leading Silicon Valley cheerleader just showed all the reasons to be worried a",
-    "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 inve",
-    "The start-ups hoping to return battery making to the US",
-    "OpenAI plans to buy Google AI chips to expand computing capacity - The Informati",
-    "AUD/NZD in focus as hawkish RBA signals clash with RBNZ\u2019s surprise 4-3 hold",
-    "M\u1ed9t doanh nghi\u1ec7p b\u1ecb x\u1eed ph\u1ea1t do kh\u00f4ng b\u00e1o c\u00e1o v\u1ec1 d\u1ef1 ki\u1ebfn giao d\u1ecbch",
     "X-planes: Are they needed in the new era of drones?",
     "Stifel\u2019s surprise gaming pick leads a sector bracing for a choppy earnings seaso",
     "RBNZ holds OCR at 2.75% in surprise 4-3 vote, says tighter policy still likely",
@@ -450,6 +444,12 @@
     "Rainmakers: The drones used to seed clouds",
     "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
     "Why is SK hynix ADR stock surging today?",
-    "Oil edges higher after Houthis claim missile strike on Saudi Arabia\u2019s biggest re"
+    "Oil edges higher after Houthis claim missile strike on Saudi Arabia\u2019s biggest re",
+    "At least 30 people reported dead in high-speed Spain train crash",
+    "Workers should be able to know colleagues' salaries, rights body says",
+    "What Happens When America's Power Grid Becomes a Last Resort?",
+    "Sterling today: Pound slips as AI fears ebb; UK budget, Fed in focus",
+    "RBA\u2019s Bullock: Inflation is far too high",
+    "VN-Index \u0111\u1ea3o chi\u1ec1u t\u0103ng, c\u1ed5 phi\u1ebfu Digiworld b\u1ea5t ng\u1edd gi\u1ea3m s\u00e0n"
   ]
 }
