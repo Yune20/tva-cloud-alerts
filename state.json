@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793214135.6922197,
+  "last_signals": 1793214770.4081771,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793213436.8892357,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,11 +62,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793166739.8556073,
-    "Gold|4H:top": 1793214135.914529,
+    "Gold|4H:top": 1793214770.7791257,
     "Bitcoin|4H:top": 1793166739.5531008,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793214137.7215865,
+    "EUR/USD|1D:bot": 1793214772.476744,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793214441.734316,
-  "last_news": 1793214135.6912086,
+  "last_analysis": 1793214759.8988962,
+  "last_news": 1793214770.4074621,
   "seen_news": [
-    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
-    "RBNZ holds OCR at 2.75% in surprise 4-3 vote, says tighter policy still likely",
-    "B\u1eafc Ninh m\u1edf r\u1ed9ng quy m\u00f4 khu nh\u00e0 \u1edf x\u00e3 h\u1ed9i do Arita l\u00e0m ch\u1ee7 \u0111\u1ea7u t\u01b0 l\u00ean 5,3ha",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
-    "The AI boom is starting to break time-tested stock-market signals",
     "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a n\u1eef di\u1ec5n vi\u00ean n\u1ed5i ti\u1ebfng t\u1eebng \u0111\u1ea1p xe giao c\u01a1m, nay l\u00e0m d\u00e2u t\u1ef7 ph\u00fa ",
     "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc",
     "Iran war said to cost U.S. military more than $47B - TradingView",
@@ -452,6 +446,12 @@
     "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal ",
     "Ng\u01b0\u1eddi cha kh\u1edfi nghi\u1ec7p v\u1edbi 400 tri\u1ec7u \u0111\u1ed3ng t\u1eeb ng\u00e0nh thu\u1ed1c th\u00fa y, g\u00e2y d\u1ef1ng t\u1eadp \u0111o\u00e0n",
     "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "DWS: Record inflows and rising recurring fees strengthen the growth platform - T"
+    "DWS: Record inflows and rising recurring fees strengthen the growth platform - T",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
+    "Elon Musk says he can build a wireless carrier in two to three years. Is that po",
+    "Oracle stock pops 13% as long-term revenue forecast and clarity on financing eas",
+    "Five ways the Budget will affect you if you are under 25",
+    "Pennsylvania measles cases near 1,400, state health department says"
   ]
 }
