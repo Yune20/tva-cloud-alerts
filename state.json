@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793194938.9978535,
-  "last_bot4": 1793202554.0701873,
+  "last_bot4": 1793203227.6242607,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793201920.546018
+    "Gold": 1793203227.6241698
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793202848.8379827,
+  "last_signals": 1793203227.625005,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,7 +62,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -73,23 +73,23 @@
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
-    "US30|4H": true,
+    "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "USD/JPY|1D": true,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793203479,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793202850.8946903,
+    "EUR/USD|1D:bot": 1793203230.511111,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793202554.0686083,
-  "last_news": 1793202848.8373215,
+  "last_analysis": 1793203213.3993428,
+  "last_news": 1793203223.7888064,
   "seen_news": [
-    "FOX: CTCP Vi\u1ec5n th\u00f4ng FPT - FPT TELECOM - VietstockFinance",
-    "Robinhood Markets, Inc. Stock 12\u2011Month Price Target Cut to $137.34, Implies 45% ",
-    "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime f",
-    "The tech helping crack decades-old cold cases",
-    "Unilever lifts volume outlook as emerging markets drive Q3 beat",
-    "Germany's trade struggles with China set to put Asia-Pacific deficit on course f",
     "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
     "Living with a stink? Technology might help",
     "Why is DMC Global stock surging today?",
@@ -450,6 +444,12 @@
     "Americans Hit Hardest by War-Driven Oil Price Surge",
     "Canadian dollar steadies after seven-day rally ahead of rate decisions",
     "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
-    "C\u1ed5 phi\u1ebfu \"th\u1ee7ng\" \u0111\u00e1y 3 n\u0103m, FPT ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng"
+    "C\u1ed5 phi\u1ebfu \"th\u1ee7ng\" \u0111\u00e1y 3 n\u0103m, FPT ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng",
+    "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels",
+    "Why is ICON stock surging today?",
+    "investingLive European session wrap: Stocks tread cautiously as Fed decision and",
+    "Tr\u1ea5n Th\u00e0nh sang Ai C\u1eadp th\u1eadt kh\u00f4ng bi\u1ebft ng\u1ea1i l\u00e0 g\u00ec!",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Talos (TALO) Appoints Kelly Ye as Head of Research - TradingView"
   ]
 }
