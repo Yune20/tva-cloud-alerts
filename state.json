@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793151206.288051,
-  "last_bot4": 1793150870.3674598,
+  "last_bot4": 1793151552.591184,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793150258.9930983
+    "Gold": 1793151552.5911012
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793151206.289127,
+  "last_signals": 1793151552.5919392,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -66,9 +66,9 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793151191.3953018,
-  "last_news": 1793151201.2101204,
+  "last_analysis": 1793151540.1187882,
+  "last_news": 1793151549.9933653,
   "seen_news": [
-    "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickl",
-    "The start-ups hoping to return battery making to the US",
-    "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
-    "Advent raises $30 billion for latest buyout, mid-market funds",
-    "The S&P and Nasdaq 100 are trying to tilt the bias to the upside technically",
-    "M\u1ed9t ng\u00e2n h\u00e0ng gi\u1ea3m l\u00e3i su\u1ea5t ti\u1ebft ki\u1ec7m xu\u1ed1ng g\u1ea7n 0%",
     "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
     "Boeing shares plunge on slower-than-expected 737 production, weaker free cash fl",
     "China tech stocks plunge as AI trade cracks deepen, is Wall Street next?",
@@ -450,6 +444,12 @@
     "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
     "Chi\u1ebfc iPhone c\u0169 gi\u1ea3m g\u1ea7n 17 tri\u1ec7u \u0111\u1ed3ng, nay ch\u1ec9 c\u00f2n h\u01a1n 8 tri\u1ec7u \u0111\u1ed3ng",
     "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
-    "Gamma Resources Ltd. (GAMA) Names New CEO; Grants 3.125M Options - TradingView"
+    "Gamma Resources Ltd. (GAMA) Names New CEO; Grants 3.125M Options - TradingView",
+    "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+    "How long will humans be needed for translation?",
+    "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
+    "OpenAI plans to buy Google\u2019s AI chips, The Information reports",
+    "RBA\u2019s Bullock: oil shock means inflation above August forecasts, Board meets nex",
+    "B\u1ea5t \u0111\u1ed9ng s\u1ea3n An Gia: L\u00e3i r\u00f2ng qu\u00fd III/2026 lao d\u1ed1c, doanh thu ch\u01b0a \u0111\u1ebfn 24 t\u1ef7 \u0111\u1ed3n"
   ]
 }
