@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793172685.1896162,
+  "last_signals": 1793173308.3442302,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -86,7 +86,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793172677.0543845,
-  "last_news": 1793172685.188712,
+  "last_analysis": 1793173301.0061228,
+  "last_news": 1793173308.3432608,
   "seen_news": [
-    "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-    "The tech helping crack decades-old cold cases",
-    "OPEC+ Set to Keep Oil Quotas Unchanged",
-    "Canadian dollar steadies after seven-day rally ahead of rate decisions",
-    "MUFG sees RBNZ hiking to 3% today but under-delivering on pricing, flags NZD dow",
-    "'Tr\u1ea3m' hai nh\u00e0 th\u1ea7u thi c\u00f4ng cao t\u1ed1c Bi\u00ean H\u00f2a - V\u0169ng T\u00e0u, V\u00e0nh \u0111ai 3 TPHCM",
     "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North Ame",
     "Living with a stink? Technology might help",
     "Trump administration sued over rollback of corporate ownership reporting rules",
@@ -450,6 +444,12 @@
     "European markets face a quiet calendar today as central banks and big tech earni",
     "MWG l\u00e3i k\u1ef7 l\u1ee5c qu\u00fd 3, v\u01b0\u1ee3t k\u1ebf ho\u1ea1ch c\u1ea3 n\u0103m sau 9 th\u00e1ng",
     "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "What Cincinnati Financial (CINF) Said on Its Q3 Earnings Call - TradingView"
+    "What Cincinnati Financial (CINF) Said on Its Q3 Earnings Call - TradingView",
+    "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget",
+    "Americans Hit Hardest by War-Driven Oil Price Surge",
+    "S4 Capital lowers revenue outlook as macro pressures persist",
+    "investingLive Asia-Pacific market news: Regional stocks mostly rose",
+    "\u0110i\u1ec1u \u00edt ai bi\u1ebft v\u1ec1 cu\u1ed9c s\u1ed1ng xa hoa c\u1ee7a Harry Kane",
+    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance"
   ]
 }
