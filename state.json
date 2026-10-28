@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793225809.753037,
+  "last_signals": 1793226417.4591815,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -48,7 +48,7 @@
     "5575146754|Gold|1H|trap_up": 1793218184.489898,
     "5575146754|Gold|1D|range_in": 1793200403.3995583,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
-    "5575146754|Gold|4H|dtop": 1793219781.4940856
+    "5575146754|Gold|4H|dtop": 1793226417.4591815
   },
   "sig_range": {
     "Gold": true,
@@ -69,7 +69,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -90,7 +90,7 @@
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793226679,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793225811.034575,
-    "Gold|4H:top": 1793220124.8456864,
-    "Bitcoin|4H:top": 1793225810.7194648,
+    "Ethereum|4H:top": 1793226418.0897808,
+    "Gold|4H:top": 1793226417.6203713,
+    "Bitcoin|4H:top": 1793226417.9294913,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793225795.389758,
-  "last_news": 1793225809.7520633,
+  "last_analysis": 1793226407.066116,
+  "last_news": 1793226417.4583442,
   "seen_news": [
-    "US Oil Inventories Fall Again As Prices Rise",
-    "Arm Holdings stock may move 8.9% on Nov. 4 earnings release",
-    "Crude oil is keeping the bullish bias by staying above the 100/200 hour MAs",
-    "Ng\u01b0\u1eddi t\u00ecnh Mr Pips gi\u1eef t\u00e0i s\u1ea3n ngh\u00ecn t\u1ef7 nh\u01b0ng \u2018cha m\u1eb9 \u1edf qu\u00ea v\u1eabn l\u00e0m ru\u1ed9ng m\u01b0u si",
-    "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
-    "SpaceX's $100B Louisiana project faces legal challenge over tax deal - TradingVi",
     "US September advance goods trade balance -134.9 billion vs -130.2 billion expect",
     "\"V\u00f5 T\u00f2ng kinh \u0111i\u1ec3n\" l\u1ed9 di\u1ec7n g\u00e2y s\u1ed1t \u1edf tu\u1ed5i U60, v\u1eabn s\u1ed1ng \u1edf TP.HCM sau khi r\u1eddi sh",
     "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
@@ -452,6 +446,12 @@
     "Sprouts Farmers Market Q3 sales miss expectations amid challenging consumer envi",
     "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
     "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada"
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Oat Hits 7-week Low - TradingView",
+    "We stopped helping our neighbors with free home repairs and our friendship coole",
+    "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources te",
+    "Rainmakers: The drones used to seed clouds",
+    "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions"
   ]
 }
