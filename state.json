@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793172980.3735886,
-  "last_bot4": 1793181145.3613179,
+  "last_bot4": 1793182116.820771,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793181145.3612282
+    "Gold": 1793182116.8206706
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793181442.2434018,
+  "last_signals": 1793182116.8215892,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793181443.7101402,
+    "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1792851117.2209759,
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793181742.2498074,
-  "last_news": 1793181442.2426233,
+  "last_analysis": 1793182103.9389718,
+  "last_news": 1793182114.1404166,
   "seen_news": [
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Nikkei 225 tests SMA 50 resistance in macro downtrend: Live",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6734 \u2013 Reuters estimate",
-    "Ti\u1ebfp t\u1ee5c \u0111\u1ec1 \u00e1n gi\u00e3n d\u00e2n ph\u1ed1 c\u1ed5 Ho\u00e0n Ki\u1ebfm v\u1edbi ch\u00ednh s\u00e1ch \u01b0u \u0111\u00e3i nh\u00e0 \u1edf x\u00e3 h\u1ed9i",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "BOE: Honeymoon\u2019s NFS underpins a wider, lower-cost uranium growth plan - Trading",
     "Oil edges higher after Houthis claim missile strike on Saudi Arabia\u2019s biggest re",
     "M\u1ef9 mang 'qu\u00e1i v\u1eadt' 230 t\u1ea5n sang Vi\u1ec7t Nam, m\u1ea5t 11 ng\u00e0y l\u1eafp r\u00e1p, ph\u1ee5c v\u1ee5 khai th\u00e1c",
     "CSV: CTCP H\u00f3a ch\u1ea5t C\u01a1 b\u1ea3n Mi\u1ec1n Nam - H\u00d3A CH\u1ea4T C\u01a0 B\u1ea2N MI\u1ec0N NAM - VietstockFinance",
@@ -450,6 +444,12 @@
     "How long will humans be needed for translation?",
     "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
     "U.S.  yields hover near 3-week lows as ahead of Fed decision",
-    "Gold rebounds on renewed hopes for US-Iran deal as focus shifts to FOMC decision"
+    "Gold rebounds on renewed hopes for US-Iran deal as focus shifts to FOMC decision",
+    "Why are more roofs not made of solar tiles?",
+    "Why is Telenor stock rallying today?",
+    "Ethereum trims losses as US-Iran deal optimism improves risk sentiment, while tr",
+    "T\u1eeb 5/10/2026, ng\u01b0\u1eddi t\u1eeb \u0111\u1ee7 16 \u0111\u1ebfn d\u01b0\u1edbi 60 tu\u1ed5i c\u00f3 th\u1ec3 nh\u1eadn tr\u1ee3 c\u1ea5p 1.080.000 \u0111\u1ed3ng",
+    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
+    "S&P Global (SPGI) Reports Q3 And Starts Capital IQ Review - TradingView"
   ]
 }
