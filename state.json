@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793228926.6733222,
+  "last_signals": 1793229594.3835738,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -73,14 +73,14 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793228312.3026667,
-    "Gold|4H:top": 1793228926.9287493,
+    "Gold|4H:top": 1793229594.534879,
     "Bitcoin|4H:top": 1793228312.152104,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793229226.8319566,
-  "last_news": 1793228926.6724024,
+  "last_analysis": 1793229585.0603786,
+  "last_news": 1793229594.3826044,
   "seen_news": [
-    "Virgin Galactica Names New Spaceship - TradingView",
-    "We\u2019re spending more than $11,000 a year of our own money caring for our aging pa",
-    "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-    "The Indian workers filming their work to train AI",
-    "PetroChina Q3 Profit Jumps to $7.78 Billion",
-    "Prediction market bets set the tone for Anthropic\u2019s much-awaited IPO",
     "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday ",
     "The one thing that didn't change that will affect your pay the most",
     "Americans Hit Hardest by War-Driven Oil Price Surge",
@@ -452,6 +446,12 @@
     "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
     "10-year Treasury yield creeps higher even as Fed keeps rates the same",
     "How much is the minimum wage going up by?",
-    "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens"
+    "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+    "Chipotle now has more demand from lower-income diners than higher-income ones",
+    "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loan",
+    "Landline switchover could cut people off in emergency, minister warned",
+    "China\u2019s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
+    "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates",
+    "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields "
   ]
 }
