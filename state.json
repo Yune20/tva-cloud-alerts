@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793208707.714201,
+  "last_signals": 1793209319.9462504,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -75,21 +75,21 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
-    "DXY|1H": false,
-    "DXY|4H": true,
+    "USD/JPY|1D": false,
+    "DXY|1H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793209585,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793208709.0030346,
+    "EUR/USD|1D:bot": 1793209321.5108328,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793209015.667032,
-  "last_news": 1793208707.7132063,
+  "last_news": 1793209319.94486,
   "seen_news": [
-    "US Natural Gas Prices Rise on Higher LNG Flows - TradingView",
-    "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows ",
-    "How long will humans be needed for translation?",
-    "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
-    "U.S.  yields hover near 3-week lows as ahead of Fed decision",
-    "Gold rebounds on renewed hopes for US-Iran deal as focus shifts to FOMC decision",
     "Why are more roofs not made of solar tiles?",
     "Why is Telenor stock rallying today?",
     "Ethereum trims losses as US-Iran deal optimism improves risk sentiment, while tr",
@@ -450,6 +444,12 @@
     "Crude oil extends to a session high of $103.53 as Iran concerns keep buyers in c",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 s\u00e1ng ng\u00e0y 29/10: M\u1ed9t doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n b\u00e1o l\u00e3i ",
     "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Supplements brand Rho Nutrition explores sale, sources say - TradingView"
+    "Supplements brand Rho Nutrition explores sale, sources say - TradingView",
+    "AUDUSD ping-pongs between moving averages. What would break the stalemate?",
+    "Linh Rin - con d\u00e2u t\u1ef7 ph\u00fa Johnathan H\u1ea1nh Nguy\u1ec5n hi\u1ebfm hoi l\u1ed9 di\u1ec7n: Nhan s\u1eafc v\u1eabn l",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView",
+    "Wendy\u2019s buyout offer suggests the burger chain\u2019s overhaul could be very expensiv",
+    "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majo"
   ]
 }
