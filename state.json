@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793195271.4358764,
+  "last_signals": 1793195894.9486036,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793195272.6756058,
+    "EUR/USD|1D:bot": 1793195896.9631112,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793195272.5153823
+    "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793195262.1783664,
-  "last_news": 1793195271.435006,
+  "last_analysis": 1793195880.933701,
+  "last_news": 1793195894.9478257,
   "seen_news": [
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Ambani\u2019s Jio surges 21% in Mumbai debut as valuation soars to $131.5 billion",
-    "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in ",
-    "D\u00f9ng c\u00f4ng ngh\u1ec7 ngo\u1ea1i x\u1ecbn nh\u01b0ng h\u1ecfng to\u00e0n b\u1ed9 ch\u1ec9 sau 3 th\u00e1ng, Vi\u1ec7t Nam v\u00e0o cu\u1ed9c r",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
-    "Gold steadies near $4,000 as traders prepare for Fed rate call - TradingView",
     "Pre-loved clothes project sells items for 50p",
     "Gail India to invest $63.1 million in Ratnagiri LNG heating unit",
     "AUD/USD struggles to break key resistance despite hot Australia CPI and hawkish ",
@@ -450,6 +444,12 @@
     "Albemarle Corporation (ALB) Declares $0.41 Quarterly Dividend - TradingView",
     "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our sav",
     "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain tracti",
-    "Your pay, energy bills and savings: How the Budget affects you"
+    "Your pay, energy bills and savings: How the Budget affects you",
+    "Microsoft and Alphabet report tonight. Wall Street's earnings recovery has a cat",
+    "\u0110i\u1ec1u tra h\u01a1n 20 t\u1ef7 c\u1ee7a doanh nghi\u1ec7p, c\u00f4ng an kh\u1edfi t\u1ed1 n\u1eef gi\u00e1m \u0111\u1ed1c SN 1973",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
+    "Nasdaq futures hit by heaviest CTA selling in over a year - TradingView",
+    "Is that used EV worth the price? This checklist could save you thousands of doll",
+    "America's largest budget airline reports 71% jump in airfare"
   ]
 }
