@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793205544.3288412,
+  "last_signals": 1793206149.6396437,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -73,7 +73,7 @@
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
-    "US30|4H": true,
+    "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793205545.8107967,
+    "EUR/USD|1D:bot": 1793206151.716361,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793205851.0475247,
-  "last_news": 1793205544.3273294,
+  "last_news": 1793206149.638996,
   "seen_news": [
-    "Why is Aena stock sliding today?",
-    "Japan September services PPI holds at 3.7% y/y, in line with forecast, before Bo",
-    "Cu\u1ed9c s\u1ed1ng hi\u1ec7n t\u1ea1i c\u1ee7a Qu\u00e1n qu\u00e2n \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia l\u00e0 Th\u1ee7 khoa, t\u1eeb ch\u1ed1i vi\u1ec7",
-    "CTD: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 15/10/2026 - VietstockFinance",
-    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView",
-    "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "Aston Martin Lagonda Global Q3 2026 Earnings Call Is Live - TradingView",
     "TV\u2019s Nick and Vanessa Lachey cut price of Southern California home to $7.6 milli",
@@ -450,6 +444,12 @@
     "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for si",
     "Will I get the \u00a3100 energy payment and when will I receive it?",
     "Why is Cerebras Systems stock sliding today?",
-    "Germany consumer sentiment remains weak ahead of November as inflation fears clo"
+    "Germany consumer sentiment remains weak ahead of November as inflation fears clo",
+    "Ford Motor is set to report earnings after the bell. Here's what Wall Street exp",
+    "Donald Trump's biggest economic problem looks strangely familiar",
+    "Brazil\u2019s real weakens 12% as Lula wins reelection",
+    "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and ",
+    "Ph\u00e1t hi\u1ec7n h\u01b0\u01a1u r\u0103ng qu\u1ef7 b\u1ea1ch t\u1ea1ng c\u1ef1c k\u1ef3 qu\u00fd hi\u1ebfm t\u1ea1i khu b\u1ea3o t\u1ed3n thi\u00ean nhi\u00ean L\u00f4",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
