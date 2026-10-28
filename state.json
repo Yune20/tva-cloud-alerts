@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793206541.774399,
+  "last_signals": 1793207153.7417262,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -68,12 +68,12 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Bitcoin|1D": false,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
-    "US30|4H": false,
+    "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793206544.4519198,
+    "EUR/USD|1D:bot": 1793207155.1244001,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793206527.862416,
-  "last_news": 1793206538.8341863,
+  "last_analysis": 1793207139.021005,
+  "last_news": 1793207153.7408123,
   "seen_news": [
-    "Eurozone yields push higher as French spread relief fades; Fed, ECB eyed",
-    "Qatari mediators presented Iran with new draft deal; Iran's response expected by",
-    "Doanh s\u1ed1 c\u1eeda h\u00e0ng gi\u1ea3m 9%: V\u00ec sao gi\u1edbi nh\u00e0 gi\u00e0u Trung Qu\u1ed1c l\u1eb7ng l\u1ebd r\u1eddi xa Gucci?",
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
-    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
-    "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
     "\u00c1 h\u1eadu cao 1,72m l\u00e0 m\u1eabu Vi\u1ec7t duy nh\u1ea5t \"tr\u00fang\" 2 show t\u1ea1i San Francisco Fashion We",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "Key facts: NASDAQ:CINF 10% investment income; seven AI assistants - TradingView",
@@ -450,6 +444,12 @@
     "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
     "Amgen Q3 Earnings: Will Strong Drug Sales Offset Headwinds? - TradingView",
     "Healthcare stocks are on their biggest hot streak in a generation. Think twice b",
-    "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime f"
+    "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime f",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "EON Resources Q2 2026 Earnings Call Is Live - TradingView",
+    "The U.S. government will no longer penalize American companies for making six po",
+    "Looking for yield? This could be one of the best times in recent market history ",
+    "'An annoying buzz': The search for stealthier drones",
+    "Energy Crisis Shapes UK Budget as Chancellor Faces Pressure Over Defence Spendin"
   ]
 }
