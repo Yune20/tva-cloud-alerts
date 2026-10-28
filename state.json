@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793184884.1580286,
+  "last_signals": 1793185503.4182656,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793183644.908634,
@@ -61,12 +61,12 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793184873.9980915,
-  "last_news": 1793184884.157167,
+  "last_analysis": 1793185493.856739,
+  "last_news": 1793185503.417382,
   "seen_news": [
-    "RBNZ leaves its cash rate unchanged, they were expected to hike",
-    "M\u1ef9 b\u00e1o tin vui, d\u1ea7u Nga c\u00f3 th\u1ec3 ti\u1ebfp t\u1ee5c tr\u00e0n ra th\u1ecb tr\u01b0\u1eddng",
-    "Vietnam strategy report - VietstockFinance",
-    "TeamViewer SE (TMV) Receives Major Holdings Notice From BlackRock - TradingView",
-    "The big reason Boeing\u2019s stock is falling so hard after earnings",
-    "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of str",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Oil Rises Amid Heightened Middle East Uncertainty - TradingView",
     "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to ",
@@ -450,6 +444,12 @@
     "PBOC sets USD/ CNY mid-point today at 6.7165 (vs. estimate at 6.6734)",
     "L\u1eddi khuy\u00ean quan tr\u1ecdng t\u1eeb Apple cho ng\u01b0\u1eddi mua iPhone Duo",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "The CAC 40 Index Opens 0.03% Lower - TradingView"
+    "The CAC 40 Index Opens 0.03% Lower - TradingView",
+    "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push pr",
+    "\u0110\u1ea7u t\u01b0 \u0110\u1ecba \u1ed1c Ph\u01b0\u01a1ng \u0110\u00f4ng t\u0103ng v\u1ed1n kh\u1ee7ng, t\u1ea5t to\u00e1n l\u00f4 tr\u00e1i phi\u1ebfu 900 t\u1ef7 \u0111\u1ed3ng",
+    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
+    "Rubio Says Chevron, Exxon And Reliance Eye Additional Venezuelan Oil Fields - Tr",
+    "A leading Silicon Valley cheerleader just showed all the reasons to be worried a",
+    "Google alters its cloud playbook, enlisting partners to sell more AI chips"
   ]
 }
