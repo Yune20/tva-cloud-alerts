@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793195894.9486036,
+  "last_signals": 1793196563.19114,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793195896.9631112,
+    "EUR/USD|1D:bot": 1793196566.298006,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793196195.310397,
-  "last_news": 1793195894.9478257,
+  "last_analysis": 1793196552.4412787,
+  "last_news": 1793196563.1905537,
   "seen_news": [
-    "Pre-loved clothes project sells items for 50p",
-    "Gail India to invest $63.1 million in Ratnagiri LNG heating unit",
-    "AUD/USD struggles to break key resistance despite hot Australia CPI and hawkish ",
-    "L\u1eddi khuy\u00ean cho 12 con gi\u00e1p t\u1eeb nay \u0111\u1ebfn cu\u1ed1i n\u0103m",
-    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
-    "Orange Q3 2026 Earnings Call Is Live - TradingView",
     "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
     "FX option expiries for 28 October 10am New York cut",
     "Th\u1ecb tr\u01b0\u1eddng t\u00e0i ch\u00ednh Vi\u1ec7t Nam n\u0103m 2027 \u0111\u1ed1i di\u1ec7n \u00e1p l\u1ef1c thanh kho\u1ea3n v\u00e0 ch\u1ea5t l\u01b0\u1ee3ng",
@@ -450,6 +444,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
     "Nasdaq futures hit by heaviest CTA selling in over a year - TradingView",
     "Is that used EV worth the price? This checklist could save you thousands of doll",
-    "America's largest budget airline reports 71% jump in airfare"
+    "America's largest budget airline reports 71% jump in airfare",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf",
+    "U.S. Treasury yields hover near multi-week lows ahead of Fed decision",
+    "The full statement from the Bank of Canada rate decision for October 2026. Hikes",
+    "M\u1ed9t nh\u00f3m c\u1ed5 \u0111\u00f4ng s\u1edf h\u1eefu h\u01a1n 8,6% v\u1ed1n t\u1ea1i VIB",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance"
   ]
 }
