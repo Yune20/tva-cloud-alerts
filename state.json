@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793198475.3340695,
+  "last_signals": 1793199153.9064066,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,7 +62,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793198478.4415684,
+    "EUR/USD|1D:bot": 1793199155.1694336,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793198779.0046797,
-  "last_news": 1793198475.333245,
+  "last_analysis": 1793199144.1497717,
+  "last_news": 1793199153.9053907,
   "seen_news": [
-    "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast",
-    "Bond market tensions ease but Treasury yields near 5% and France's debt risks ke",
-    "L\u00fd do T\u1ed5ng th\u1ed1ng M\u1ef9 Donald Trump s\u1ebd c\u1ea5m s\u1eed d\u1ee5ng t\u1eeb AI (Tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o)",
-    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
-    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
-    "Retail traders buy the dip on chip stocks \u2014 but Robinhood gets burned by the cry",
     "SK Hynix shares jump 11% after record quarterly profit, outperforming broader ma",
     "I get \u00a34,062 a year and am trying my best to get a job - here's what I want from",
     "StanChart lifts full-year targets after quarterly profit trounces forecasts",
@@ -450,6 +444,12 @@
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
     "RBC Capital reiterates Outperform rating on Boeing, $235 price target - TradingV",
     "We stopped helping our neighbors with free home repairs and our friendship coole",
-    "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be is"
+    "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be is",
+    "US Oil Inventories Fall Again As Prices Rise",
+    "Arm Holdings stock may move 8.9% on Nov. 4 earnings release",
+    "Crude oil is keeping the bullish bias by staying above the 100/200 hour MAs",
+    "Ng\u01b0\u1eddi t\u00ecnh Mr Pips gi\u1eef t\u00e0i s\u1ea3n ngh\u00ecn t\u1ef7 nh\u01b0ng \u2018cha m\u1eb9 \u1edf qu\u00ea v\u1eabn l\u00e0m ru\u1ed9ng m\u01b0u si",
+    "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
+    "SpaceX's $100B Louisiana project faces legal challenge over tax deal - TradingVi"
   ]
 }
