@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793147755.4021823,
+  "last_signals": 1793148353.431086,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -66,10 +66,10 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1792591895.9773748,
     "Gold|4H:top": 1792170549.3801317,
     "Bitcoin|4H:top": 1793144081.3231103,
-    "USD/JPY|4H:top": 1793147757.7578905,
-    "JPY Index|4H:top": 1793147758.267568,
+    "USD/JPY|4H:top": 1793148354.7961197,
+    "JPY Index|4H:top": 1793148355.1325557,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793067591.4360147,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793147143.7987452
   },
   "last_analysis": 1793148060.9719563,
-  "last_news": 1793147755.401341,
+  "last_news": 1793148353.4303513,
   "seen_news": [
-    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
-    "TD Cowen maintains Buy rating on Match Group, $52 price target - TradingView",
-    "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the mark",
-    "One week out, prediction markets see Democrats as favored to sweep Congress",
-    "Rosebank: Life on the oil field at the centre of a political storm",
-    "U.S. Military Eyes Nuclear Reactors to Survive 90 Days Without the Grid",
     "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the ",
     "Lula\u2019s election win leaves Brazil facing a fiscal tightrope",
     "Are California voters about to impose 'world's first' tax on billionaires?",
@@ -450,6 +444,12 @@
     "Donald Trump's biggest economic problem looks strangely familiar",
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
     "Australia CPI explained: why 2 inflation readings land today and which one the R",
-    "Ng\u1eafm \u0111\u00e3 \u0111\u1eddi 5 b\u00ecnh hoa c\u1ee7a \"ph\u00fa b\u00e0\" Ng\u1ecdc Loan: C\u1ea3 d\u00f2ng h\u1ecd ph\u1ea3i g\u1eadt g\u00f9 khen kh\u00e9o!"
+    "Ng\u1eafm \u0111\u00e3 \u0111\u1eddi 5 b\u00ecnh hoa c\u1ee7a \"ph\u00fa b\u00e0\" Ng\u1ecdc Loan: C\u1ea3 d\u00f2ng h\u1ecd ph\u1ea3i g\u1eadt g\u00f9 khen kh\u00e9o!",
+    "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
+    "BlackRock sees one more Fed hike this year, calls market pricing for more too ha",
+    "17.000 qu\u00e2n d\u1ed3n \u0111\u1ebfn \u0111i\u1ec3m n\u00f3ng, h\u01a1n 100 UAV nh\u1eafm Voronezh: \u00d4ng Zelensky \u0111\u01b0a \u0111\u1ec1 ng",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
+    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView"
   ]
 }
