@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793205858.0007813,
-  "last_bot4": 1793210026.7145824,
+  "last_bot4": 1793210670.917349,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793210026.7153175,
+  "last_signals": 1793210670.9179533,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -64,7 +64,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -76,20 +76,20 @@
     "US30|4H": true,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793210918,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793210029.547771,
+    "EUR/USD|1D:bot": 1793210672.9648046,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793210291.081891,
-  "last_news": 1793210023.7980762,
+  "last_analysis": 1793210659.761547,
+  "last_news": 1793210670.9166336,
   "seen_news": [
-    "Why is Micron Technology stock rallying today?",
-    "Macro pulse: Has the RBNZ shock exposed a bigger problem with central bank rate ",
-    "B\u00e1n \u0111\u00e1 cho s\u00e2n bay Long Th\u00e0nh, \u201c\u00f4ng l\u1edbn\u201d v\u1eadt li\u1ec7u x\u00e2y d\u1ef1ng b\u00e1o l\u00e3i kh\u1ee7ng, c\u1ed5 phi",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Alligator Bioscience AB (ATORX) Proposes 1-for-1,000 Reverse Split - TradingView",
-    "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner",
     "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - ",
     "REG - China Pacific Insur. - 2026 Third Quarter Report - TradingView",
     "Four reasons to start worrying about inflation \u2014 including the end of tariff ref",
@@ -450,6 +444,12 @@
     "Watch Live: Options traders break down a massive Alphabet trade into earnings",
     "Dharshini David: Healey buys himself some time, but big questions still unanswer",
     "Equinor Profits Triple as Oil and Gas Prices Surge",
-    "European shares edge higher ahead of Big Tech, Fed test"
+    "European shares edge higher ahead of Big Tech, Fed test",
+    "Fed holds rates steady despite concerns over inflation",
+    "Healey tells departments to make 1% cuts to fund defence",
+    "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens",
+    "Palantir defense chief says AI advances may force China to invade Taiwan",
+    "Ethereum trims losses as US-Iran deal optimism improves risk sentiment, while tr",
+    "T\u00e0i kho\u1ea3n Vietcombank, VietinBank, BIDV, Agribank, Sacombank,... s\u1ebd t\u1ef1 \u0111\u1ed9ng tr\u1eeb "
   ]
 }
