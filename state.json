@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793162077.6305103,
-  "last_bot4": 1793167663.5841575,
+  "last_bot4": 1793168325.2763362,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793167031.4455795
+    "Gold": 1793168325.2762122
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793167959.5518785,
+  "last_signals": 1793168325.2772214,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793167663.582685,
-  "last_news": 1793167959.550828,
+  "last_analysis": 1793168314.8688476,
+  "last_news": 1793168322.6843827,
   "seen_news": [
-    "Will Rubio\u2019s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
-    "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-    "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still ",
-    "\u0110\u00fang ng\u00e0y 30/10, Vi\u1ec7t Nam d\u1ef1 ki\u1ebfn kh\u1edfi c\u00f4ng qu\u1ea7n th\u1ec3 ngh\u1ec9 d\u01b0\u1ee1ng 16.200 t\u1ef7 \u0111\u1ed3ng \u0111",
-    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
-    "Gold Stays Under Pressure - TradingView",
     "Standard Chartered: Gold must hold $3,886 or risk deeper correction as oil fuels",
     "Viettel ch\u1ebf t\u1ea1o th\u00e0nh c\u00f4ng m\u00e1y bay UAV s\u1ea3i c\u00e1nh 18m, b\u00e1n k\u00ednh ho\u1ea1t \u0111\u1ed9ng 1.000 km",
     "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
@@ -450,6 +444,12 @@
     "AUD/USD struggles to break key resistance despite hot Australia CPI and hawkish ",
     "L\u1eddi khuy\u00ean cho 12 con gi\u00e1p t\u1eeb nay \u0111\u1ebfn cu\u1ed1i n\u0103m",
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
-    "Orange Q3 2026 Earnings Call Is Live - TradingView"
+    "Orange Q3 2026 Earnings Call Is Live - TradingView",
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
+    "FX option expiries for 28 October 10am New York cut",
+    "Th\u1ecb tr\u01b0\u1eddng t\u00e0i ch\u00ednh Vi\u1ec7t Nam n\u0103m 2027 \u0111\u1ed1i di\u1ec7n \u00e1p l\u1ef1c thanh kho\u1ea3n v\u00e0 ch\u1ea5t l\u01b0\u1ee3ng",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
+    "Gold Little-Changed as Markets Await Fed Decision - TradingView",
+    "CoreWeave and other AI stocks rise as Anthropic restores the market\u2019s faith in s"
   ]
 }
