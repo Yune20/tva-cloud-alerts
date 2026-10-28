@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793161782.54889,
+  "last_signals": 1793162449.6905572,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -117,9 +117,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793161783.1459866,
+    "Ethereum|4H:top": 1793162451.109498,
     "Gold|4H:top": 1792170549.3801317,
-    "Bitcoin|4H:top": 1793161782.9998467,
+    "Bitcoin|4H:top": 1793162450.7884526,
     "USD/JPY|4H:top": 1793156517.77801,
     "JPY Index|4H:top": 1793156518.2536283,
     "USOIL|4H:top": 1792973263.908907,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793161774.7385767,
-  "last_news": 1793161782.5478952,
+  "last_analysis": 1793162439.9529474,
+  "last_news": 1793162449.6897504,
   "seen_news": [
-    "Japan September services PPI holds at 3.7% y/y, in line with forecast, before Bo",
-    "M\u1ef9 m\u1ea5t 42 th\u00e1ng, Malaysia m\u1ea5t h\u01a1n 5 n\u0103m nh\u01b0ng Vi\u1ec7t Nam ch\u1ec9 m\u1ea5t 40 th\u00e1ng ho\u00e0n th\u00e0",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "GOOD Q3'26 Earnings: revenue estimate is 42.56M USD - TradingView",
-    "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to ",
-    "Will the Budget pass Burnham's Makerfield test?",
     "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
     "GM plans to offer hybrid SUVs in strategic pivot - TradingView",
     "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto ",
@@ -450,6 +444,12 @@
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Raja Venkatraman recommends three stocks for 28 October - TradingView",
     "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickl",
-    "More cats abandoned 'due to rising costs'"
+    "More cats abandoned 'due to rising costs'",
+    "Meta- and Google-backed Jio Platforms\u2019 shares soar over 21% on trading debut aft",
+    "Why the UK is dithering over what to do about e-scooters",
+    "5 Data Center Power Stocks to Watch Before Earnings",
+    "Pop Mart shares fall 6% as cooling Labubu craze spurs sharp drop in Q3 sales",
+    "October US consumer confidence 91.7 vs 81.0 expected",
+    "Cho thu\u00ea 120ha \u0111\u1ea5t \u0111\u1ec3 tri\u1ec3n khai Khu c\u00f4ng nghi\u1ec7p Hi\u1ec7p Ph\u01b0\u1edbc - giai \u0111o\u1ea1n 2"
   ]
 }
