@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793205858.0007813,
-  "last_bot4": 1793216332.79901,
+  "last_news_report": 1793216960.155569,
+  "last_bot4": 1793216960.1569076,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793216627.4635346,
+  "last_signals": 1793216960.1575477,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793215387.8813174,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -62,13 +62,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793166739.8556073,
-    "Gold|4H:top": 1793216627.6506014,
+    "Gold|4H:top": 1793216960.392367,
     "Bitcoin|4H:top": 1793166739.5531008,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -131,7 +131,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793216628.6957757,
+    "EUR/USD|1D:bot": 1793216961.6935017,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793216329.8846695,
-  "last_news": 1793216627.4626093,
+  "last_analysis": 1793216947.5688179,
+  "last_news": 1793216955.2560253,
   "seen_news": [
-    "UBS lifts profit to $2.7 billion, speeds up buybacks despite capital concerns",
-    "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next",
-    "Gi\u00e1 \u0111i\u1ec7n t\u1eeb th\u00e1ng 11 c\u00f3 th\u1ec3 gi\u1ea3m bao nhi\u00eau?",
-    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
-    "REG - Squarepoint Ops LLC Rotork PLC - Form 8.3 - Rotork PLC - TradingView",
-    "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket",
     "Zcash extends gains as geopolitical fears ease ahead of the FOMC decision. What'",
     "T\u1ed5ng th\u1ed1ng M\u1ef9 Trump s\u1ebd l\u00e0m g\u00ec n\u1ebfu \u0111\u1ea3ng C\u1ed9ng h\u00f2a thua trong cu\u1ed9c b\u1ea7u c\u1eed gi\u1eefa nhi\u1ec7",
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
@@ -452,6 +446,12 @@
     "Phillips 66 Q3 2026 Earnings Call Is Live - TradingView",
     "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
     "You may get the right to find out what your colleagues earn - here's why",
-    "Polish zloty falls to weakest level since November 2023"
+    "Polish zloty falls to weakest level since November 2023",
+    "B\u1ed9 tr\u01b0\u1edfng B\u1ed9 T\u00e0i ch\u00ednh: \"Vi\u1ec7t Nam c\u00f3 th\u1ec3 t\u0103ng tr\u01b0\u1edfng m\u00e0 kh\u00f4ng c\u1ea7n FDI \u0111\u01b0\u1ee3c kh\u00f4ng",
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
+    "DA Davidson maintains Neutral rating on Manhattan Associates, $230 price target ",
+    "Here\u2019s what just sent Oracle\u2019s stock soaring",
+    "Microsoft will post earnings after the bell as investors focus on job cuts and c",
+    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs"
   ]
 }
