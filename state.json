@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793230210.644832,
+  "last_signals": 1793230833.2036278,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -63,7 +63,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -73,7 +73,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793228312.3026667,
-    "Gold|4H:top": 1793230210.8065424,
+    "Gold|4H:top": 1793230833.5507004,
     "Bitcoin|4H:top": 1793228312.152104,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793230201.349378,
-  "last_news": 1793230210.6439347,
+  "last_analysis": 1793230823.6919546,
+  "last_news": 1793230833.2025986,
   "seen_news": [
-    "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels",
-    "Why is ICON stock surging today?",
-    "investingLive European session wrap: Stocks tread cautiously as Fed decision and",
-    "Tr\u1ea5n Th\u00e0nh sang Ai C\u1eadp th\u1eadt kh\u00f4ng bi\u1ebft ng\u1ea1i l\u00e0 g\u00ec!",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Talos (TALO) Appoints Kelly Ye as Head of Research - TradingView",
     "Why is Diebold Nixdorf stock sliding today?",
     "NZDUSD tumbles after surprise RBNZ hold. Sellers retain control as the rebound s",
     "C\u1eb7p v\u1ee3 ch\u1ed3ng mua nh\u00e0 5,1 t\u1ef7, gi\u1edd b\u00e1n nh\u00e0 m\u1ed7i ng\u01b0\u1eddi g\u00e1nh n\u1ee3 g\u1ea7n 1 t\u1ef7",
@@ -452,6 +446,12 @@
     "Strategy's bitcoin buying hinges on one number: STRC at $100",
     "C\u00f4ng an th\u00f4ng b\u00e1o t\u1edbi t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n nh\u1eadn cu\u1ed9c g\u1ecdi, tin nh\u1eafn Zalo c\u00f3 n\u1ed9i dung ",
     "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Leak website releases data on tens of thousands of DHS employees - TradingView"
+    "Leak website releases data on tens of thousands of DHS employees - TradingView",
+    "Recap: Fed holds at 3.75%-4% in 10-2 vote as Cook dissents for a hike, December ",
+    "Th\u00f4ng b\u00e1o m\u1edbi t\u1eeb C\u01a1 quan Thu\u1ebf: S\u1ebd t\u1ea1m ho\u00e3n xu\u1ea5t c\u1ea3nh t\u1ea5t c\u1ea3 c\u00e1 nh\u00e2n c\u00f3 t\u00ean trong",
+    "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
+    "EQT, Bain $5 billion Kakaku showdown heralds contested Japan buyout era - Tradin",
+    "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
+    "FedEx beats expectations, raises outlook in first report since calendar adjustme"
   ]
 }
