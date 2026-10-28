@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793230833.2036278,
+  "last_signals": 1793231441.3470664,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -63,7 +63,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -120,7 +120,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793228312.3026667,
-    "Gold|4H:top": 1793230833.5507004,
+    "Gold|4H:top": 1793231441.6174898,
     "Bitcoin|4H:top": 1793228312.152104,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793230823.6919546,
-  "last_news": 1793230833.2025986,
+  "last_analysis": 1793231433.795739,
+  "last_news": 1793231441.3460836,
   "seen_news": [
-    "Why is Diebold Nixdorf stock sliding today?",
-    "NZDUSD tumbles after surprise RBNZ hold. Sellers retain control as the rebound s",
-    "C\u1eb7p v\u1ee3 ch\u1ed3ng mua nh\u00e0 5,1 t\u1ef7, gi\u1edd b\u00e1n nh\u00e0 m\u1ed7i ng\u01b0\u1eddi g\u00e1nh n\u1ee3 g\u1ea7n 1 t\u1ef7",
-    "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
-    "Why Frontier (ULCC) stock is trading up today - TradingView",
-    "Micron\u2019s stock rises after SK Hynix earnings. Here\u2019s its next major test.",
     "Germany's trade struggles with China set to put Asia-Pacific deficit on course f",
     "Kh\u00f4ng th\u1ec3 \u0111\u1ee9ng b\u1eb1ng m\u1ed9t ch\u00e2n trong 30 gi\u00e2y: C\u01a1 th\u1ec3 \u0111ang c\u1ea3nh b\u00e1o \u0111i\u1ec1u g\u00ec?",
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
@@ -452,6 +446,12 @@
     "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
     "EQT, Bain $5 billion Kakaku showdown heralds contested Japan buyout era - Tradin",
     "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
-    "FedEx beats expectations, raises outlook in first report since calendar adjustme"
+    "FedEx beats expectations, raises outlook in first report since calendar adjustme",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Amazon Extends Job Cuts to Devices After 1,000 Retail Layoffs - TradingView",
+    "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
+    "One passport isn\u2019t enough for some wealthy Chinese. Here\u2019s where they\u2019re looking",
+    "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+    "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels"
   ]
 }
