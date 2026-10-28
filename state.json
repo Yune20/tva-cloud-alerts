@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793194659.9494069,
+  "last_signals": 1793195271.4358764,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -66,9 +66,9 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793194666.153617,
+    "EUR/USD|1D:bot": 1793195272.6756058,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793194665.9360912
+    "GBP/USD|4H:bot": 1793195272.5153823
   },
-  "last_analysis": 1793194645.85376,
-  "last_news": 1793194656.4501276,
+  "last_analysis": 1793195262.1783664,
+  "last_news": 1793195271.435006,
   "seen_news": [
-    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
-    "Dallas Fed manufacturing index unexpectedly rises in October - TradingView",
-    "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Turkey\u2019s Libya Deal Puts Oil Majors in a Bind",
-    "U.S. Treasury yields hover near multi-week lows ahead of Fed decision",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "Ambani\u2019s Jio surges 21% in Mumbai debut as valuation soars to $131.5 billion",
     "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in ",
@@ -450,6 +444,12 @@
     "US Crude Oil Inventories Buck Analyst Expectations",
     "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
     "US Wholesale inventories 0.6% vs 0.5% estimate",
-    "L\u1eddi khuy\u00ean cho gia \u0111\u00ecnh d\u00f9ng d\u1ee5ng c\u1ee5 \u0103n u\u1ed1ng b\u1eb1ng inox"
+    "L\u1eddi khuy\u00ean cho gia \u0111\u00ecnh d\u00f9ng d\u1ee5ng c\u1ee5 \u0103n u\u1ed1ng b\u1eb1ng inox",
+    "\"Kh\u00f4ng ch\u1eb7n nh\u1ea7m qu\u00e1 nhi\u1ec1u giao d\u1ecbch h\u1ee3p ph\u00e1p c\u1ee7a ng\u01b0\u1eddi d\u00e2n\"",
+    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Albemarle Corporation (ALB) Declares $0.41 Quarterly Dividend - TradingView",
+    "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our sav",
+    "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain tracti",
+    "Your pay, energy bills and savings: How the Budget affects you"
   ]
 }
