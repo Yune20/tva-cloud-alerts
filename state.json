@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793186121.4892337,
+  "last_signals": 1793186737.4713895,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793183644.908634,
@@ -70,8 +70,8 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|4H": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793186122.6528647,
+    "EUR/USD|1D:bot": 1793186738.5750434,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793186122.4931338
+    "GBP/USD|4H:bot": 1793186738.385282
   },
-  "last_analysis": 1793186112.7824323,
-  "last_news": 1793186121.4883113,
+  "last_analysis": 1793186728.8549023,
+  "last_news": 1793186737.470516,
   "seen_news": [
-    "L\u00e0m 30 tri\u1ec7u si\u00eau t\u1ee5 \u0111i\u1ec7n m\u1ed7i th\u00e1ng t\u1ea1i Vi\u1ec7t Nam, c\u00f4ng ty H\u00e0n v\u1eeba nh\u1eadn \u0111\u01a1n h\u00e0ng ",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
-    "Speaker Mike Johnson calls election-transfer concerns \u2018absurd\u2019",
-    "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
     "The Diesel Crisis Is Here To Stay",
     "Six AI picks are up 13%\u201366% since entry, and a generic-drug maker leads them all",
     "RBNZ\u2019s Breman: more hikes likely at coming meetings, possibly into restrictive t",
@@ -450,6 +444,12 @@
     "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal ",
     "V\u1ee5 t\u00e0i x\u1ebf gh\u00e9 qu\u00e1n \u0103n c\u01a1m b\u00ecnh d\u00e2n h\u1ebft 640.000 \u0111\u1ed3ng: C\u00f4ng an v\u00e0o cu\u1ed9c",
     "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView"
+    "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
+    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "Russia\u2019s Crude Exports Set to Fall as Diesel Production Rises",
+    "JPM puts ArcelorMittal on Positive Catalyst Watch on steel price gains",
+    "AUD/NZD in focus as hawkish RBA signals clash with RBNZ\u2019s surprise 4-3 hold",
+    "C\u1ef1u th\u1ee7 m\u00f4n \u0110T Vi\u1ec7t Nam b\u00e1o tin vui \u1edf tu\u1ed5i 40",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance"
   ]
 }
