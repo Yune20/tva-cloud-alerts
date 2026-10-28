@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793183938.2619824,
-  "last_bot4": 1793190179.964556,
+  "last_bot4": 1793190852.8129046,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793190179.965671,
+  "last_signals": 1793190852.8136263,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793189203.1656947,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -78,13 +78,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793190182.8905523,
+    "EUR/USD|1D:bot": 1793190855.045107,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793190182.4909682
+    "GBP/USD|4H:bot": 1793190854.7402601
   },
-  "last_analysis": 1793190483.696442,
-  "last_news": 1793190176.8640523,
+  "last_analysis": 1793190842.8613238,
+  "last_news": 1793190852.8120573,
   "seen_news": [
-    "US October Richmond Fed -2 vs -2 expected",
-    "Con g\u00e1i \u00f4ng B\u00f9i Th\u00e0nh Nh\u01a1n mu\u1ed1n chi h\u01a1n 300 t\u1ef7 mua c\u1ed5 phi\u1ebfu Novaland",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Raja Venkatraman recommends three stocks for 28 October - TradingView",
-    "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickl",
-    "More cats abandoned 'due to rising costs'",
     "Meta- and Google-backed Jio Platforms\u2019 shares soar over 21% on trading debut aft",
     "Why the UK is dithering over what to do about e-scooters",
     "5 Data Center Power Stocks to Watch Before Earnings",
@@ -450,6 +444,12 @@
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
     "Gold eases on firmer dollar ahead of Fed decision - TradingView",
     "Traders are betting big against this restaurant giant into earnings",
-    "What do you want from the Budget?"
+    "What do you want from the Budget?",
+    "V\u1eeba v\u1ec1 h\u01b0u m\u1eb9 t\u00f4i mang 2 t\u1ef7 ra chia h\u1ebft cho c\u00e1c con r\u1ed3i tuy\u00ean b\u1ed1 1 quy\u1ebft \u0111\u1ecbnh \u0111a",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Etsy, Inc. Reports Third Quarter 2026 Results - TradingView",
+    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
+    "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new",
+    "Apple to replace iPhone Duos affected by screen problem"
   ]
 }
