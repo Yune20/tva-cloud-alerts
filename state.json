@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793149299.1692681,
+  "last_signals": 1793149980.8165064,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793098295.310403,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -66,8 +66,8 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": true,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793149602.3767622,
-  "last_news": 1793149299.1683495,
+  "last_analysis": 1793149955.697854,
+  "last_news": 1793149980.815832,
   "seen_news": [
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Poland stocks higher at close of trade; WIG30 up 0.96%",
-    "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
-    "C\u00f3 3 c\u00e2u n\u00f3i nghe nh\u01b0 quan t\u00e2m nh\u01b0ng th\u1ef1c ch\u1ea5t \u0111ang khi\u1ebfn b\u1ea1n c\u1ea3m th\u1ea5y c\u00f3 l\u1ed7i",
-    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Piper Sandler reiterates Overweight rating on 1st Source, $105 price target - Tr",
     "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng quy\u1ebfn r\u0169 nh\u1ea5t n\u0103m 2026",
     "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
     "BlackBerry appoints David Chaikof to its board - TradingView",
@@ -450,6 +444,12 @@
     "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp - VietstockFinance",
     "Jim Cramer Dares Nvidia's Jensen Huang to Buy CoreWeave\u2019s 15% Debt - TradingView",
     "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the mark",
-    "China and Russia are redrawing Arctic trade. Can Europe fight back?"
+    "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+    "HPA: CTCP Ph\u00e1t tri\u1ec3n N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - N\u00f4ng nghi\u1ec7p H\u00f2a Ph\u00e1t - VietstockFina",
+    "Sugar Prices Stabilize after Monday\u2019s Sell-off - TradingView",
+    "SK Hynix announces over $25 billion in dividends and buyback as third-quarter pr",
+    "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l",
+    "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
+    "Dollar rebounds as euro slips ahead of key central bank decisions"
   ]
 }
