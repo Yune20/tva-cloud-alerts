@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793226417.4591815,
+  "last_signals": 1793227033.6511645,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -69,11 +69,11 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -84,7 +84,7 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793226418.0897808,
-    "Gold|4H:top": 1793226417.6203713,
-    "Bitcoin|4H:top": 1793226417.9294913,
+    "Ethereum|4H:top": 1793227034.3239696,
+    "Gold|4H:top": 1793227033.8061788,
+    "Bitcoin|4H:top": 1793227034.1637218,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793226407.066116,
-  "last_news": 1793226417.4583442,
+  "last_analysis": 1793227021.7220843,
+  "last_news": 1793227033.6503463,
   "seen_news": [
-    "US September advance goods trade balance -134.9 billion vs -130.2 billion expect",
-    "\"V\u00f5 T\u00f2ng kinh \u0111i\u1ec3n\" l\u1ed9 di\u1ec7n g\u00e2y s\u1ed1t \u1edf tu\u1ed5i U60, v\u1eabn s\u1ed1ng \u1edf TP.HCM sau khi r\u1eddi sh",
-    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
-    "Anduril, Qualcomm team up to build US-made laptops - TradingView",
-    "UK brings forward defense spending target, pledging billions to Ukraine",
-    "How much is the minimum wage going up by?",
     "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
     "US estrogen supply crunch widens as women seek alternatives to scarce patches",
@@ -452,6 +446,12 @@
     "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources te",
     "Rainmakers: The drones used to seed clouds",
     "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
-    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions"
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
+    "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+    "The AI telling farmers when to harvest",
+    "How Trump\u2019s Russian Diesel Could End Up in Cuba Instead",
+    "Chipotle tops quarterly sales expectations as it continues to attract diners",
+    "ICYMI: Oracle jumps around 11% on $225bn 2030 revenue goal and $20bn cap on new ",
+    "Nhi\u1ec1u gia \u0111\u00ecnh tr\u1ed3ng m\u1ed9t c\u00e2y ch\u00e8 trong nh\u00e0: H\u00f3a ra kh\u00f4ng ch\u1ec9 \u0111\u1ec3 l\u1ea5y l\u00e1"
   ]
 }
