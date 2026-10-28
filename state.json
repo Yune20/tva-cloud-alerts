@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793177110.8161633,
+  "last_signals": 1793177709.2910852,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793177113.5699804,
+    "DXY|4H:top": 1793177710.7305853,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793177113.0612693,
+    "EUR/USD|4H:bot": 1793177710.3728309,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793176136.086523,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793147143.7987452
   },
   "last_analysis": 1793177415.0671058,
-  "last_news": 1793177110.8153253,
+  "last_news": 1793177709.290252,
   "seen_news": [
-    "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-    "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
-    "BlackRock sees one more Fed hike this year, calls market pricing for more too ha",
-    "17.000 qu\u00e2n d\u1ed3n \u0111\u1ebfn \u0111i\u1ec3m n\u00f3ng, h\u01a1n 100 UAV nh\u1eafm Voronezh: \u00d4ng Zelensky \u0111\u01b0a \u0111\u1ec1 ng",
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
-    "PriceSmart, Inc. (PSMT) Q4 Revenue Up 13.9%, EPS $1.21 - TradingView",
     "One week out, prediction markets see Democrats as favored to sweep Congress",
     "'An annoying buzz': The search for stealthier drones",
     "U.S. Military Eyes Nuclear Reactors to Survive 90 Days Without the Grid",
@@ -450,6 +444,12 @@
     "China's families are now supporting more old people than kids",
     "Why is BASF SE stock sliding today?",
     "SK Hynix Q3 operating profit beats at 83tn won, unveils 100tn won shareholder pa",
-    "\"Ng\u00e2n h\u00e0ng ph\u1ea3i t\u00ednh \u0111\u1ebfn \u0111\u1ecbnh danh ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i l\u00e0 ng\u01b0\u1eddi\""
+    "\"Ng\u00e2n h\u00e0ng ph\u1ea3i t\u00ednh \u0111\u1ebfn \u0111\u1ecbnh danh ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i l\u00e0 ng\u01b0\u1eddi\"",
+    "Donald Trump's biggest economic problem looks strangely familiar",
+    "Brazil\u2019s real weakens 12% as Lula wins reelection",
+    "Australia CPI explained: why 2 inflation readings land today and which one the R",
+    "Huy \u0111\u1ed9ng 10.400 t\u1ef7 \u0111\u1ed3ng x\u00e2y \u0111\u1ea3o n\u1ed5i 74.000 t\u1ea5n, cao b\u1eb1ng t\u00f2a nh\u00e0 15 t\u1ea7ng, m\u1ee5c ti",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "AI debt boom raises financial stability concerns, BIS says - TradingView"
   ]
 }
