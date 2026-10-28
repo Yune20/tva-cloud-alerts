@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793205858.0007813,
-  "last_bot4": 1793205544.3281736,
+  "last_bot4": 1793206541.7736034,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793204873.9033778
+    "Gold": 1793206541.7735093
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793206149.6396437,
+  "last_signals": 1793206541.774399,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -68,8 +68,8 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Bitcoin|1D": true,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793206151.716361,
+    "EUR/USD|1D:bot": 1793206544.4519198,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793205851.0475247,
-  "last_news": 1793206149.638996,
+  "last_analysis": 1793206527.862416,
+  "last_news": 1793206538.8341863,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "Aston Martin Lagonda Global Q3 2026 Earnings Call Is Live - TradingView",
-    "TV\u2019s Nick and Vanessa Lachey cut price of Southern California home to $7.6 milli",
-    "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-    "'An annoying buzz': The search for stealthier drones",
-    "Traton reports in-line earnings as orders miss expectations",
     "Eurozone yields push higher as French spread relief fades; Fed, ECB eyed",
     "Qatari mediators presented Iran with new draft deal; Iran's response expected by",
     "Doanh s\u1ed1 c\u1eeda h\u00e0ng gi\u1ea3m 9%: V\u00ec sao gi\u1edbi nh\u00e0 gi\u00e0u Trung Qu\u1ed1c l\u1eb7ng l\u1ebd r\u1eddi xa Gucci?",
@@ -450,6 +444,12 @@
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
     "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and ",
     "Ph\u00e1t hi\u1ec7n h\u01b0\u01a1u r\u0103ng qu\u1ef7 b\u1ea1ch t\u1ea1ng c\u1ef1c k\u1ef3 qu\u00fd hi\u1ebfm t\u1ea1i khu b\u1ea3o t\u1ed3n thi\u00ean nhi\u00ean L\u00f4",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firm",
+    "Vi\u1ec7c nh\u1eb9 l\u01b0\u01a1ng cao: 1 c\u00f4ng ty M\u1ef9 tuy\u1ec3n ng\u01b0\u1eddi d\u1eaft ch\u00f3 robot \u0111i d\u1ea1o, l\u01b0\u01a1ng h\u01a1n 500",
+    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
+    "Amgen Q3 Earnings: Will Strong Drug Sales Offset Headwinds? - TradingView",
+    "Healthcare stocks are on their biggest hot streak in a generation. Think twice b",
+    "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime f"
   ]
 }
