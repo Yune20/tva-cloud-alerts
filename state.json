@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793204562.0166118,
+  "last_signals": 1793205173.8488865,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -83,13 +83,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793205442,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793204563.488859,
+    "EUR/USD|1D:bot": 1793205175.2669988,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793204870.7047746,
-  "last_news": 1793204562.0157077,
+  "last_news": 1793205173.848036,
   "seen_news": [
-    "Euro falls against dollar; Brazilian real tumbles after Lula election win - Trad",
-    "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out ac",
-    "China's families are now supporting more old people than kids",
-    "Why is BASF SE stock sliding today?",
-    "SK Hynix Q3 operating profit beats at 83tn won, unveils 100tn won shareholder pa",
-    "\"Ng\u00e2n h\u00e0ng ph\u1ea3i t\u00ednh \u0111\u1ebfn \u0111\u1ecbnh danh ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i l\u00e0 ng\u01b0\u1eddi\"",
     "Donald Trump's biggest economic problem looks strangely familiar",
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
     "Australia CPI explained: why 2 inflation readings land today and which one the R",
@@ -450,6 +444,12 @@
     "Bullish on Anthropic but don\u2019t want to wait until the IPO? Here\u2019s how you can in",
     "Microsoft earnings will land after the close",
     "The grads ditching the UK for a fresh start abroad",
-    "Oil Traders Brace for Iran Escalation After U.S. Elections"
+    "Oil Traders Brace for Iran Escalation After U.S. Elections",
+    "My husband wants to sell our $1.5 million home and downsize. But this is where w",
+    "Alphabet set to report third-quarter earnings after the bell",
+    "The tech helping crack decades-old cold cases",
+    "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
+    "Wall Street makes small moves ahead of Fed rate decision, Mag 7 earnings",
+    "What are the main events for today?"
   ]
 }
