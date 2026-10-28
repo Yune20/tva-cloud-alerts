@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793173308.3442302,
+  "last_signals": 1793173927.4004765,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793173301.0061228,
-  "last_news": 1793173308.3432608,
+  "last_analysis": 1793173918.9783792,
+  "last_news": 1793173927.3996384,
   "seen_news": [
-    "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North Ame",
-    "Living with a stink? Technology might help",
-    "Trump administration sued over rollback of corporate ownership reporting rules",
-    "All 5 major NZ banks expect RBNZ to hike to 3% today, but split on how far rates",
-    "Ng\u00e0y mai, t\u1ec9nh n\u00e0y s\u1ebd kh\u00e1nh th\u00e0nh \u0111\u01b0\u1eddng b\u0103ng s\u1ed1 2 t\u1ea1i s\u00e2n bay h\u01a1n 60 n\u0103m tu\u1ed5i, \u0111",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about",
     "Bessent says SEC and CFTC can fill the Clarity Act gap, but agency rules come wi",
     "H\u1eadu v\u1eadn r\u1ef1c r\u1ee1: 3 con gi\u00e1p kh\u1ed5 tr\u01b0\u1edbc s\u01b0\u1edbng sau, h\u1eadu v\u1eadn tay c\u1ea7m ti\u1ec1n t\u1ef7 sau tu\u1ed5i",
@@ -450,6 +444,12 @@
     "S4 Capital lowers revenue outlook as macro pressures persist",
     "investingLive Asia-Pacific market news: Regional stocks mostly rose",
     "\u0110i\u1ec1u \u00edt ai bi\u1ebft v\u1ec1 cu\u1ed9c s\u1ed1ng xa hoa c\u1ee7a Harry Kane",
-    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance"
+    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
+    "Canadian dollar steadies after seven-day rally ahead of rate decisions",
+    "MUFG sees RBNZ hiking to 3% today but under-delivering on pricing, flags NZD dow",
+    "Th\u00eam m\u1ed9t c\u1ea7u th\u1ee7 n\u1ed5i ti\u1ebfng b\u1ecb tr\u1ed9m \u0111\u1ed9t nh\u1eadp nh\u00e0 ri\u00eang",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Alzecure Pharma Johan Sandin Takes Office Today As Acting CEO - TradingView",
+    "My husband wants to sell our $1.5 million home and downsize. But this is where w"
   ]
 }
