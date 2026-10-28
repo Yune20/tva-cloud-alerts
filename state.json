@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793187360.2824237,
+  "last_signals": 1793187974.548977,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793183644.908634,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793187361.3911932,
+    "EUR/USD|1D:bot": 1793187976.1070898,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -146,17 +146,11 @@
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793187361.2319565
+    "GBP/USD|4H:bot": 1793187975.9213557
   },
-  "last_analysis": 1793187350.8142862,
-  "last_news": 1793187360.2815487,
+  "last_analysis": 1793187966.2455535,
+  "last_news": 1793187974.5480628,
   "seen_news": [
-    "Tax on banks, energy bill help and minimum wage rise - what could be in the Budg",
-    "Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead",
-    "US warns Gulf allies of possible short, intense Iran campaign after midterms: WS",
-    "Ch\u00e2n dung h\u1ecdc sinh THPT chuy\u00ean L\u00ea Qu\u00fd \u0110\u00f4n - \u0110\u00f4ng H\u1ea3i \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed v\u00e0o ",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
-    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Notification - TradingView",
     "Fl\u00e1vio Bolsonaro reportedly flees Brazil for the US after election loss",
     "Tin vui t\u1eeb b\u1ea7u tr\u1eddi Vi\u1ec7t Nam",
     "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
@@ -450,6 +444,12 @@
     "B\u1eafc Ninh m\u1edf r\u1ed9ng quy m\u00f4 khu nh\u00e0 \u1edf x\u00e3 h\u1ed9i do Arita l\u00e0m ch\u1ee7 \u0111\u1ea7u t\u01b0 l\u00ean 5,3ha",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "SA analyst upgrades/downgrades: TSLA, LULU, DECK, LRCX - TradingView",
-    "The AI boom is starting to break time-tested stock-market signals"
+    "The AI boom is starting to break time-tested stock-market signals",
+    "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a n\u1eef di\u1ec5n vi\u00ean n\u1ed5i ti\u1ebfng t\u1eebng \u0111\u1ea1p xe giao c\u01a1m, nay l\u00e0m d\u00e2u t\u1ef7 ph\u00fa ",
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc",
+    "Iran war said to cost U.S. military more than $47B - TradingView",
+    "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to ",
+    "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "India's Gasoline Demand Could Peak by 2035 as EVs Gain Ground"
   ]
 }
