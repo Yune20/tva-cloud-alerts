@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793199153.9064066,
+  "last_signals": 1793199771.274164,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793199155.1694336,
+    "EUR/USD|1D:bot": 1793199773.2733793,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793199144.1497717,
-  "last_news": 1793199153.9053907,
+  "last_analysis": 1793199763.4076748,
+  "last_news": 1793199771.2732036,
   "seen_news": [
-    "SK Hynix shares jump 11% after record quarterly profit, outperforming broader ma",
-    "I get \u00a34,062 a year and am trying my best to get a job - here's what I want from",
-    "StanChart lifts full-year targets after quarterly profit trounces forecasts",
-    "Germany November GfK consumer sentiment -30.8 vs -30.9 expected",
-    "Hacker \u0111\u00f2i g\u1ea7n 1.300 t\u1ef7 \u0111\u1ed3ng, d\u1ecda tung d\u1eef li\u1ec7u m\u1ed7i ng\u00e0y: To\u00e0n c\u1ea3nh v\u1ee5 t\u1ea5n c\u00f4ng \u00f4",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
     "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and marke",
     "T\u1ea1i sao ng\u00e0y c\u00e0ng nhi\u1ec1u gia \u0111\u00ecnh kh\u00f4ng c\u00f2n \u1ed1p \u0111\u00e1 b\u1ec7 c\u1eeda s\u1ed5? 2 c\u00e1ch l\u00e0m m\u1edbi bi\u1ebfn ",
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
@@ -450,6 +444,12 @@
     "Crude oil is keeping the bullish bias by staying above the 100/200 hour MAs",
     "Ng\u01b0\u1eddi t\u00ecnh Mr Pips gi\u1eef t\u00e0i s\u1ea3n ngh\u00ecn t\u1ef7 nh\u01b0ng \u2018cha m\u1eb9 \u1edf qu\u00ea v\u1eabn l\u00e0m ru\u1ed9ng m\u01b0u si",
     "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
-    "SpaceX's $100B Louisiana project faces legal challenge over tax deal - TradingVi"
+    "SpaceX's $100B Louisiana project faces legal challenge over tax deal - TradingVi",
+    "US September advance goods trade balance -134.9 billion vs -130.2 billion expect",
+    "\"V\u00f5 T\u00f2ng kinh \u0111i\u1ec3n\" l\u1ed9 di\u1ec7n g\u00e2y s\u1ed1t \u1edf tu\u1ed5i U60, v\u1eabn s\u1ed1ng \u1edf TP.HCM sau khi r\u1eddi sh",
+    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
+    "Anduril, Qualcomm team up to build US-made laptops - TradingView",
+    "UK brings forward defense spending target, pledging billions to Ukraine",
+    "How much is the minimum wage going up by?"
   ]
 }
