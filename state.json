@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793199771.274164,
+  "last_signals": 1793200403.3995583,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793116690.1803937,
-    "5575146754|Gold|1D|range_in": 1793175475.4594479
+    "5575146754|Gold|1D|range_in": 1793200403.3995583
   },
   "sig_range": {
     "Gold": true,
@@ -62,13 +62,13 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793199773.2733793,
+    "EUR/USD|1D:bot": 1793200405.4403691,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793199763.4076748,
-  "last_news": 1793199771.2732036,
+  "last_analysis": 1793200393.817339,
+  "last_news": 1793200403.3987174,
   "seen_news": [
-    "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and marke",
-    "T\u1ea1i sao ng\u00e0y c\u00e0ng nhi\u1ec1u gia \u0111\u00ecnh kh\u00f4ng c\u00f2n \u1ed1p \u0111\u00e1 b\u1ec7 c\u1eeda s\u1ed5? 2 c\u00e1ch l\u00e0m m\u1edbi bi\u1ebfn ",
-    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
-    "Symrise Reports Q3 Group Sales \u20ac1.31 Bln - TradingView",
-    "Trump administration may let more Russian diesel onto market, energy secretary t",
-    "Landline switchover could cut people off in emergency, minister warned",
     "The Indian workers filming their work to train AI",
     "Three Buy-rated EU Industrial stocks to watch, according to BofA",
     "European markets face a quiet calendar today as central banks and big tech earni",
@@ -450,6 +444,12 @@
     "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
     "Anduril, Qualcomm team up to build US-made laptops - TradingView",
     "UK brings forward defense spending target, pledging billions to Ukraine",
-    "How much is the minimum wage going up by?"
+    "How much is the minimum wage going up by?",
+    "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+    "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
+    "US estrogen supply crunch widens as women seek alternatives to scarce patches",
+    "BOC's Macklem: Our surveys show businesses are planning to pass on more of these",
+    "C\u1eb7p v\u1ee3 ch\u1ed3ng nghe ti\u1ebfng nh\u01b0 ph\u1ee5 n\u1eef k\u00eau c\u1ee9u l\u00fac 3h30 s\u00e1ng \u1edf chung c\u01b0, c\u1ea3nh s\u00e1t ph",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance"
   ]
 }
