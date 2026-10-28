@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793176502.1500006,
+  "last_signals": 1793177110.8161633,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793157139.9946198,
     "5575146754|Gold|4H|range_in": 1793147755.4021823,
@@ -78,16 +78,16 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793176503.786265,
+    "DXY|4H:top": 1793177113.5699804,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793176503.4221644,
+    "EUR/USD|4H:bot": 1793177113.0612693,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793176136.086523,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793176490.5211558,
-  "last_news": 1793176499.6231496,
+  "last_analysis": 1793177100.2800026,
+  "last_news": 1793177110.8153253,
   "seen_news": [
-    "DA Davidson maintains Neutral rating on Triumph Financial, $70 price target - Tr",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Donald Trump's biggest economic problem looks strangely familiar",
-    "Brazil\u2019s real weakens 12% as Lula wins reelection",
-    "Australia CPI explained: why 2 inflation readings land today and which one the R",
-    "Ng\u1eafm \u0111\u00e3 \u0111\u1eddi 5 b\u00ecnh hoa c\u1ee7a \"ph\u00fa b\u00e0\" Ng\u1ecdc Loan: C\u1ea3 d\u00f2ng h\u1ecd ph\u1ea3i g\u1eadt g\u00f9 khen kh\u00e9o!",
     "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
     "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
     "BlackRock sees one more Fed hike this year, calls market pricing for more too ha",
@@ -450,6 +444,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "GOOD Q3'26 Earnings: revenue estimate is 42.56M USD - TradingView",
     "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-    "As Christmas rush looms, how do China-made toys find their way to the US?"
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Euro falls against dollar; Brazilian real tumbles after Lula election win - Trad",
+    "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out ac",
+    "China's families are now supporting more old people than kids",
+    "Why is BASF SE stock sliding today?",
+    "SK Hynix Q3 operating profit beats at 83tn won, unveils 100tn won shareholder pa",
+    "\"Ng\u00e2n h\u00e0ng ph\u1ea3i t\u00ednh \u0111\u1ebfn \u0111\u1ecbnh danh ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i l\u00e0 ng\u01b0\u1eddi\""
   ]
 }
