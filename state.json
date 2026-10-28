@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793184267.2264702,
+  "last_signals": 1793184884.1580286,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793183644.908634,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793147143.7987452
   },
-  "last_analysis": 1793184255.9612362,
-  "last_news": 1793184267.225553,
+  "last_analysis": 1793184873.9980915,
+  "last_news": 1793184884.157167,
   "seen_news": [
-    "X-planes: Are they needed in the new era of drones?",
-    "Stifel\u2019s surprise gaming pick leads a sector bracing for a choppy earnings seaso",
-    "RBNZ holds OCR at 2.75% in surprise 4-3 vote, says tighter policy still likely",
-    "\u0110i\u1ec3m l\u1ea1i lo\u1ea1t xe sang b\u1ecb thu gi\u1eef trong v\u1ee5 \u00e1n Mr Pips",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 36,205 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
     "RBNZ leaves its cash rate unchanged, they were expected to hike",
     "M\u1ef9 b\u00e1o tin vui, d\u1ea7u Nga c\u00f3 th\u1ec3 ti\u1ebfp t\u1ee5c tr\u00e0n ra th\u1ecb tr\u01b0\u1eddng",
     "Vietnam strategy report - VietstockFinance",
@@ -450,6 +444,12 @@
     "What Happens When America's Power Grid Becomes a Last Resort?",
     "Sterling today: Pound slips as AI fears ebb; UK budget, Fed in focus",
     "RBA\u2019s Bullock: Inflation is far too high",
-    "VN-Index \u0111\u1ea3o chi\u1ec1u t\u0103ng, c\u1ed5 phi\u1ebfu Digiworld b\u1ea5t ng\u1edd gi\u1ea3m s\u00e0n"
+    "VN-Index \u0111\u1ea3o chi\u1ec1u t\u0103ng, c\u1ed5 phi\u1ebfu Digiworld b\u1ea5t ng\u1edd gi\u1ea3m s\u00e0n",
+    "The AI telling farmers when to harvest",
+    "Dollar holds two-week peak ahead of Fed decision; Euro under pressure",
+    "PBOC sets USD/ CNY mid-point today at 6.7165 (vs. estimate at 6.6734)",
+    "L\u1eddi khuy\u00ean quan tr\u1ecdng t\u1eeb Apple cho ng\u01b0\u1eddi mua iPhone Duo",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "The CAC 40 Index Opens 0.03% Lower - TradingView"
   ]
 }
