@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793212219.9949062,
+  "last_signals": 1793212832.4374957,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793204562.0166118,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -64,7 +64,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -75,21 +75,21 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793213092,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793212221.4244137,
+    "EUR/USD|1D:bot": 1793212834.7124813,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793212211.179043,
-  "last_news": 1793212219.993545,
+  "last_analysis": 1793212821.6060517,
+  "last_news": 1793212832.4366505,
   "seen_news": [
-    "The AI telling farmers when to harvest",
-    "Dollar holds two-week peak ahead of Fed decision; Euro under pressure",
-    "PBOC sets USD/ CNY mid-point today at 6.7165 (vs. estimate at 6.6734)",
-    "L\u1eddi khuy\u00ean quan tr\u1ecdng t\u1eeb Apple cho ng\u01b0\u1eddi mua iPhone Duo",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "The CAC 40 Index Opens 0.03% Lower - TradingView",
     "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push pr",
     "\u0110\u1ea7u t\u01b0 \u0110\u1ecba \u1ed1c Ph\u01b0\u01a1ng \u0110\u00f4ng t\u0103ng v\u1ed1n kh\u1ee7ng, t\u1ea5t to\u00e1n l\u00f4 tr\u00e1i phi\u1ebfu 900 t\u1ef7 \u0111\u1ed3ng",
     "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
@@ -450,6 +444,12 @@
     "A Democratic win in midterms could put prediction markets and the CFTC in the ho",
     "Living with a stink? Technology might help",
     "China\u2019s Wind and Solar Power Capacity Surpasses 2 Terawatts",
-    "Google launches Gemini 4 Carbon AI model with cybersecurity focus"
+    "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+    "I\u2019m planning a trip to Europe. Is it dumb to take travel advice from influencers",
+    "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Wall Street shows little reaction amid small moves after Fed holds rates steady",
+    "For reference: The September 16 FOMC statement",
+    "Kh\u00f4ng ph\u1ea3i \u0111\u1ea5t hi\u1ebfm, Vi\u1ec7t Nam s\u1edf h\u1eefu kho b\u00e1u l\u1edbn th\u1ee9 2 th\u1ebf gi\u1edbi - 1 doanh nghi\u1ec7p"
   ]
 }
