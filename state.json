@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793203227.625005,
+  "last_signals": 1793203583.955188,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793178644.4599493,
     "5575146754|Gold|4H|range_in": 1793197869.8855014,
@@ -75,21 +75,21 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "USD/JPY|1D": false,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793203838,
   "menu_prices": {
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793178035.6180098,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793203230.511111,
+    "EUR/USD|1D:bot": 1793203585.426257,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793203213.3993428,
-  "last_news": 1793203223.7888064,
+  "last_analysis": 1793203572.8168967,
+  "last_news": 1793203583.954136,
   "seen_news": [
-    "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
-    "Living with a stink? Technology might help",
-    "Why is DMC Global stock surging today?",
-    "Germany consumer sentiment remains weak ahead of November as inflation fears clo",
-    "Sau tu\u1ed5i 40 m\u1edbi hi\u1ec3u: C\u00e0ng t\u00edch tr\u1eef nhi\u1ec1u c\u00e0ng b\u1ea5t an, t\u00f4i tho\u00e1t kh\u1ecfi kh\u1ee7ng ho\u1ea3n",
-    "SHB: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt 16/10/2026 - VietstockFinance",
     "N\u00ean g\u1eedi ti\u1ec1n online hay t\u1ea1i qu\u1ea7y: Ng\u01b0\u1eddi \u0111ang mu\u1ed1n g\u1eedi ti\u1ebft ki\u1ec7m n\u00ean \u0111\u1ec3 \u00fd 4 \u0111i\u1ec3m ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:744d19488094b:0 - TradingV",
@@ -450,6 +444,12 @@
     "investingLive European session wrap: Stocks tread cautiously as Fed decision and",
     "Tr\u1ea5n Th\u00e0nh sang Ai C\u1eadp th\u1eadt kh\u00f4ng bi\u1ebft ng\u1ea1i l\u00e0 g\u00ec!",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Talos (TALO) Appoints Kelly Ye as Head of Research - TradingView"
+    "Talos (TALO) Appoints Kelly Ye as Head of Research - TradingView",
+    "Why is Diebold Nixdorf stock sliding today?",
+    "NZDUSD tumbles after surprise RBNZ hold. Sellers retain control as the rebound s",
+    "C\u1eb7p v\u1ee3 ch\u1ed3ng mua nh\u00e0 5,1 t\u1ef7, gi\u1edd b\u00e1n nh\u00e0 m\u1ed7i ng\u01b0\u1eddi g\u00e1nh n\u1ee3 g\u1ea7n 1 t\u1ef7",
+    "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
+    "Why Frontier (ULCC) stock is trading up today - TradingView",
+    "Micron\u2019s stock rises after SK Hynix earnings. Here\u2019s its next major test."
   ]
 }
