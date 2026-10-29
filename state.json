@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793314771.628509,
+  "last_signals": 1793315393.327664,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793314159.237486,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -140,7 +140,7 @@
     "Ethereum|4H:bot": 1793249822.8536267,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
-    "EUR/USD|4H:top": 1792131718.2467768,
+    "EUR/USD|4H:top": 1793315394.6501927,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
     "GBP/USD|1D:top": 1792892270.739671,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793314763.7229536,
-  "last_news": 1793314771.627697,
+  "last_analysis": 1793315385.6961222,
+  "last_news": 1793315393.3267288,
   "seen_news": [
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Earnings to watch: Quanta (PWR) reports Q3 results tomorrow - TradingView",
-    "The midterms are crucial to the future of Social Security \u2013 no matter how old yo",
-    "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity m",
-    "Budget 2026: Key points at a glance",
-    "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
     "3 reasons home prices keep going up, even though fewer people are buying",
     "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
     "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budge",
@@ -450,6 +444,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "News by CNBC TV18 on TradingView, 2026-10-29 \u2014 cnbctv:076b27431094b:0 - TradingV",
     "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
-    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. "
+    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
+    "PRTA: Three partnered clinical programs advance alongside differentiated preclin",
+    "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
+    "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping po",
+    "Healey provides some breathing space but things still set to get worse for most",
+    "What\u2019s Next for Global Natural Gas Demand?"
   ]
 }
