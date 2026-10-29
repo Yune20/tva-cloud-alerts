@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793227941.1246946,
+  "last_news_report": 1793238923.6917963,
   "last_bot4": 1793238597.5330992,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793238309.5262547,
+  "last_signals": 1793238923.6928422,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793236413.7769334,
-    "5575146754|Gold|4H|range_in": 1793232669.0754788,
+    "5575146754|Gold|4H|range_in": 1793238923.6928422,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -63,7 +63,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -77,20 +77,20 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|1H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793239182,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793238301.7895138,
-  "last_news": 1793238309.5253818,
+  "last_analysis": 1793238911.8602715,
+  "last_news": 1793238919.7807846,
   "seen_news": [
-    "Qatari mediators presented Iran with new draft deal; Iran's response expected by",
-    "Vietcombank, BIDV v\u00e0 VietinBank v\u00e0o di\u1ec7n c\u01a1 c\u1ea5u l\u1ea1i v\u1ed1n nh\u00e0 n\u01b0\u1edbc",
-    "Watch Live: Options traders break down a massive Alphabet trade into earnings",
-    "Dharshini David: Healey buys himself some time, but big questions still unanswer",
-    "Equinor Profits Triple as Oil and Gas Prices Surge",
-    "European shares edge higher ahead of Big Tech, Fed test",
     "Fed holds rates steady despite concerns over inflation",
     "Healey tells departments to make 1% cuts to fund defence",
     "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens",
@@ -452,6 +446,12 @@
     "Centene Corporation (CNC) Lifts 2026 EPS Guidance After Q3 - TradingView",
     "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket",
     "China's families are now supporting more old people than kids",
-    "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels"
+    "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
+    "Dollar rebounds as euro slips ahead of key central bank decisions",
+    "The view from China: CITIC Securities still sees a 25bp Fed hike in December",
+    "L\u1eddi khuy\u00ean l\u00e0m \u0103n sau R\u1eb1m th\u00e1ng 9: 3 con gi\u00e1p d\u1ec5 g\u1eb7p kh\u00e1ch t\u1ed1t, 1 con gi\u00e1p c\u1ea7n c",
+    "EVG: CTCP T\u1eadp \u0111o\u00e0n EverLand - EVERLAND GROUP., JSC - VietstockFinance",
+    "Goobit Group AB (publ) (BTCX) Boosts Rights Issue Cover to 62.4% - TradingView",
+    "Here is what changed in the new Fed statement"
   ]
 }
