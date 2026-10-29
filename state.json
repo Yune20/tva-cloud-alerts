@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793313552.502754,
+  "last_signals": 1793314159.237486,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793308309.1817126,
+    "5575146754|Gold|1H|range_in": 1793314159.237486,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793313540.4771566,
-  "last_news": 1793313549.7428572,
+  "last_analysis": 1793314150.6627634,
+  "last_news": 1793314159.2366757,
   "seen_news": [
-    "UK National Grid to Extend France Power Link Operation to 2050",
-    "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
-    "USDCAD finds support near the recent lows and near a swing area",
-    "Vi\u1ec7t Nam s\u1eafp c\u00f3 n\u01a1i tr\u1ea3i nghi\u1ec7m \u0103n, ng\u1ee7 \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5 ho\u00e0n to\u00e0n b\u1edfi robot",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Ryerson Q3 2026 Earnings Call Is Live - TradingView",
     "ECB rate decision: No change in rates",
     "M\u1ed9t c\u1ed5 phi\u1ebfu b\u1ea5t ng\u1edd \"n\u1eb1m s\u00e0n\" 8 phi\u00ean li\u00ean ti\u1ebfp, chuy\u1ec7n g\u00ec \u0111ang x\u1ea3y ra?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
@@ -450,6 +444,12 @@
     "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
     "Sterling hits 17-Month high vs Euro as ECB holds rates",
     "Earnings bloodbath: Intel crashes over 22%, Amazon over 12%. What's coming next?",
-    "1 nam sinh m\u1eafc ung th\u01b0 tuy\u1ebfn gi\u00e1p di c\u0103n khi m\u1edbi 15 tu\u1ed5i: V\u00ec sao b\u1ec7nh ng\u00e0y c\u00e0ng "
+    "1 nam sinh m\u1eafc ung th\u01b0 tuy\u1ebfn gi\u00e1p di c\u0103n khi m\u1edbi 15 tu\u1ed5i: V\u00ec sao b\u1ec7nh ng\u00e0y c\u00e0ng ",
+    "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+    "Your pay, energy bills and savings: How the Budget affects you",
+    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
+    "Intel shares tumble around 15%. The narrative is --> weak Q4 guidance overshadow",
+    "B\u00f9ng n\u1ed5 di\u1ec5n ti\u1ebfn n\u00f3ng, Kremlin ph\u1ea3n h\u1ed3i \u0111\u1ec1 xu\u1ea5t t\u1eeb \u00f4ng Zelensky ch\u1ec9 sau v\u00e0i ph\u00fa",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t"
   ]
 }
