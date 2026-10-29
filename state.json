@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793238923.6917963,
+  "last_news_report": 1793249821.8882682,
   "last_bot4": 1793249496.7246315,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793249210.1217926,
+  "last_signals": 1793249821.8892372,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793245156.9034941,
+    "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -62,13 +62,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -83,13 +83,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793249211.2338555,
+    "Ethereum|4H:bot": 1793249822.8536267,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793249201.1883397,
-  "last_news": 1793249210.1208737,
+  "last_analysis": 1793249807.952317,
+  "last_news": 1793249817.1112502,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD",
-    "Chuy\u1ec7n ch\u01b0a k\u1ec3 sau nh\u1eefng chuy\u1ebfn \u201cg\u00f5 c\u1eeda\u201d b\u1ecb t\u1eeb ch\u1ed1i n\u0103m 1999 v\u00e0 t\u1ea5m h\u1ed9 chi\u1ebfu h\u1ed9i",
-    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Can Slightly Higher Processor Revenues Aid Intel's Q3 Earnings? - TradingView",
-    "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in fiv",
-    "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying ",
     "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
     "Alphabet\u2019s heavy cloud spending drives bigger-than-expected cash burn",
     "investingLive Americas market news wrap: Tech stocks rally",
@@ -452,6 +446,12 @@
     "investingLive European session wrap: Stocks tread cautiously as Fed decision and",
     "Nh\u00e0 th\u1ea7u Trung Qu\u1ed1c tr\u00fang g\u00f3i th\u1ea7u h\u01a1n 20.000 t\u1ef7 \u0111\u1ed3ng t\u1ea1i \u0110\u1ed3ng Nai: Nh\u00e0 m\u00e1y c\u00f4ng",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Bitcoin traders brace for swings on $11 billion options expiry - TradingView"
+    "Bitcoin traders brace for swings on $11 billion options expiry - TradingView",
+    "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal ",
+    "Chuy\u00ean gia Nga: Kh\u00f4ng m\u1ed9t h\u1ec7 th\u1ed1ng ph\u00f2ng kh\u00f4ng n\u00e0o tr\u00ean th\u1ebf gi\u1edbi h\u1ea1 \u0111\u01b0\u1ee3c \"l\u1ef1c l\u01b0",
+    "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - ",
+    "Alphabet Stocks Rise Ahead of Google Cloud's Profit Test - TradingView",
+    "As Waymo expands overseas, it remains a niche cash-burning business",
+    "What the Budget offers for under 25s - and what it leaves out"
   ]
 }
