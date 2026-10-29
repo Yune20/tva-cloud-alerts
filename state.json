@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793252031.7009346,
+  "last_signals": 1793252651.0705132,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -81,7 +81,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793252020.5985656,
-  "last_news": 1793252031.7000349,
+  "last_analysis": 1793252641.4451344,
+  "last_news": 1793252651.0696847,
   "seen_news": [
-    "Chipotle expects modestly higher sales this year as drive-thru \u2018Chipotlanes\u2019 com",
-    "Alphabet sinks 9% as it holds 2026 capex unchanged, expects significant increase",
-    "Your pay, energy bills and savings: How the Budget affects you",
-    "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
-    "Alphabet Q3: Google Cloud revenue jumps 103% but search and ad sales miss foreca",
-    "Ngo\u00e0i Tr\u01b0\u01a1ng Phi, m\u00e3nh t\u01b0\u1edbng n\u00e0o trong 'Tam qu\u1ed1c di\u1ec5n ngh\u0129a' c\u0169ng d\u1ec5 n\u1ed5i gi\u1eadn?",
     "Colombia stocks lower at close of trade; COLCAP down 0.03%",
     "Microsoft Q1 beats as Azure grows 48% and capex lands $6bn below forecast",
     "L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed, Vi\u1ec7t Nam s\u1ebd c\u00f3 s\u00e2n bay g\u1ea7n 6.400 t\u1ef7 \u0111\u1ed3ng n\u1eb1m \u1edf \u0111\u1ed9 ca",
@@ -452,6 +446,12 @@
     "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepen",
     "Qu\u1ef9 Thi\u1ec7n T\u00e2m c\u1ee7a Vingroup t\u00e0i tr\u1ee3 ch\u01b0\u01a1ng tr\u00ecnh c\u1ea3nh b\u00e1o s\u1edbm thi\u00ean tai",
     "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
-    "CONMED Corporation Stock 12\u2011Month Price Target Raised to $46, Implies 1% Upside "
+    "CONMED Corporation Stock 12\u2011Month Price Target Raised to $46, Implies 1% Upside ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Novartis AG Stock 12\u2011Month Price Target Raised to $158.2, Implies 1% Upside - Tr",
+    "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "Budget 2026: Key points at a glance",
+    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
+    "Vance writes to Iran hard-liner Rezaei to revive talks as Trump weighs new strik"
   ]
 }
