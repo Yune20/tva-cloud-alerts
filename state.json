@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793254493.9051263,
+  "last_signals": 1793255096.2318137,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -38,7 +38,6 @@
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
     "5575146754|Gold|4H|dn": 1792728264.0235655,
     "5575146754|Gold|1H|dn": 1792728264.0235655,
-    "5575146754|Gold|1D|tbot": 1792650150.3931532,
     "5575146754|Gold|1D|dbot": 1792650754.7156098,
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
@@ -80,14 +79,14 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -151,14 +150,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793254797.213051,
-  "last_news": 1793254493.9042652,
+  "last_news": 1793255096.2309678,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "U.S. Natural Gas Production Hits New Records as Demand Surges",
-    "Why is MGM Resorts stock sliding today?",
-    "US bitcoin reserve buying 'very soon'? What has to happen first",
-    "Ph\u1ea5n \u0111\u1ea5u c\u00f3 nh\u1eefng giao d\u1ecbch \u0111\u1ea7u ti\u00ean t\u1ea1i Trung t\u00e2m T\u00e0i ch\u00ednh qu\u1ed1c t\u1ebf trong th\u00e1ng",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "Nh\u1eefng \u0111\u1ee9a tr\u1ebb c\u00f3 \"t\u1ed1t s\u1ed1\" \u0111\u1ec1u c\u00f3 chung 1 \u0111i\u1ec3m v\u00e0 ch\u1eb3ng li\u00ean quan g\u00ec \u0111\u1ebfn \u0111i\u1ec3m s\u1ed1 ",
     "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
     "Sprouts Farmers Market Q3 sales miss expectations amid challenging consumer envi",
@@ -452,6 +445,12 @@
     "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike ",
     "\u00d4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 v\u1eeba m\u1edf th\u00eam ph\u00f2ng tr\u01b0ng b\u00e0y tr\u00ean \u0111\u01b0\u1eddng Ho\u00e0ng V\u0103n Th\u1ee5, TP.H",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
-    "ZAWYA: Saudi: Absher carries out 49mln transactions in September - TradingView"
+    "ZAWYA: Saudi: Absher carries out 49mln transactions in September - TradingView",
+    "Germany consumer sentiment remains weak ahead of November as inflation fears clo",
+    "Cuba \u0111\u00f3n tin vui t\u1eeb Li\u00ean H\u1ee3p Qu\u1ed1c, c\u00f3 t\u1edbi 130 qu\u1ed1c gia \u0111\u1ed3ng lo\u1ea1t \u1ee7ng h\u1ed9",
+    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
+    "Hero MotoCorp Q2 2027 Earnings Call Is Live - TradingView",
+    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
+    "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increas"
   ]
 }
