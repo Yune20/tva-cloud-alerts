@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793267182.748602,
+  "last_signals": 1793267796.7886066,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793267173.9165657,
-  "last_news": 1793267182.7475533,
+  "last_analysis": 1793267787.50346,
+  "last_news": 1793267796.7878737,
   "seen_news": [
-    "Dollar rebounds as euro slips ahead of key central bank decisions",
-    "The view from China: CITIC Securities still sees a 25bp Fed hike in December",
-    "L\u1eddi khuy\u00ean l\u00e0m \u0103n sau R\u1eb1m th\u00e1ng 9: 3 con gi\u00e1p d\u1ec5 g\u1eb7p kh\u00e1ch t\u1ed1t, 1 con gi\u00e1p c\u1ea7n c",
-    "EVG: CTCP T\u1eadp \u0111o\u00e0n EverLand - EVERLAND GROUP., JSC - VietstockFinance",
-    "Goobit Group AB (publ) (BTCX) Boosts Rights Issue Cover to 62.4% - TradingView",
-    "Here is what changed in the new Fed statement",
     "X\u1ebfp h\u1ea1ng t\u00edn nhi\u1ec7m tr\u00e1i phi\u1ebfu ng\u00e2n h\u00e0ng Vi\u1ec7t Nam c\u00f2n h\u1ea1n ch\u1ebf, nh\u00e0 \u0111\u1ea7u t\u01b0 kh\u00f3 \u0111\u1ecbn",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
     "First Tick: Top global cues to watch in today's trade - TradingView",
@@ -450,6 +444,12 @@
     "Microsoft profits soar days after announcing thousands of layoffs",
     "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
     "Bund yields slip ahead of ECB; Fed\u2019s hold keeps U.S. yields steepening",
-    "Could month-end flows stir up even more volatility in the FX market after an alr"
+    "Could month-end flows stir up even more volatility in the FX market after an alr",
+    "Poundland's future hangs in the balance as chain edges towards collapse",
+    "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
+    "Dollar pulls back as Warsh leaves tightening path murky; Euro tread water",
+    "Velaris Markets Provides MT5 Trading With Flexible Deposits and Low Spreads",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n d\u00f9ng v\u00ed \u0111i\u1ec7n t\u1eed ch\u00fa \u00fd th\u00f4ng b\u00e1o n\u00f3ng t\u1eeb c\u00f4ng an",
+    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc"
   ]
 }
