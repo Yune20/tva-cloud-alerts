@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793276552.172676,
+  "last_signals": 1793277166.175131,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -75,11 +75,11 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793276542.6866832,
-  "last_news": 1793276552.1718507,
+  "last_analysis": 1793277158.737298,
+  "last_news": 1793277166.1223035,
   "seen_news": [
-    "D\u1ef1 tr\u1eef v\u00e0ng c\u1ee7a Campuchia \u0111\u1ea1t m\u1ee9c k\u1ef7 l\u1ee5c",
-    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
-    "Firehawk Defense Tops $1.4 Billion Valuation: NYSE Content Update - TradingView",
-    "Three media outlets seek full White House access in amended lawsuit",
-    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
-    "India\u2019s Record LNG Buying Meets Record-High Prices",
     "APSEZ Profit Climbs 18%; Raises FY27 Capex Guidance by 3k cr - TradingView",
     "Over 41,000 U.S. Homeland Security officials' details apparently exposed after m",
     "Anthropic's blockbuster share listing - 5 surprising things we now know",
@@ -450,6 +444,12 @@
     "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
     "Basf Q3 Earnings Call Highlights - TradingView",
     "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its",
-    "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down"
+    "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Amphenol Q3 Earnings Call Highlights - TradingView",
+    "Caterpillar\u2019s stock heads for worst day in 7 years \u2014 and what that means for the",
+    "President of the European Central Bank Christine Lagarde to step down. Here's wh",
+    "Fuel is now liquid gold, haulier says after theft",
+    "Polish zloty falls to weakest level since November 2023"
   ]
 }
