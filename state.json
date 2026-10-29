@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793304192.6191788,
-  "last_bot4": 1793312887.8592603,
+  "last_bot4": 1793313552.502184,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793312252.10842
+    "Gold": 1793313552.502104
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793313182.9305177,
+  "last_signals": 1793313552.502754,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793308309.1817126,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793312887.8577302,
-  "last_news": 1793313182.929671,
+  "last_analysis": 1793313540.4771566,
+  "last_news": 1793313549.7428572,
   "seen_news": [
-    "Home prices fall and rents rise, both for the first time in three years",
-    "Healey provides some breathing space but things still set to get worse for most",
-    "Solar Has Overtaken Nuclear in the Global Power Mix",
-    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
-    "Lagarde: Growth should be underpinned in the near term",
-    "\u0110\u01b0\u1ee3c ng\u1ee3i ca l\u00e0 th\u1ebf nh\u01b0ng khi \u0111\u1eb7t l\u00ean b\u00e0n c\u00e2n, m\u00e1y bay Nga v\u1eabn \"l\u00e9p v\u1ebf\" tr\u01b0\u1edbc \u0111\u1ed1",
     "UK National Grid to Extend France Power Link Operation to 2050",
     "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
     "USDCAD finds support near the recent lows and near a swing area",
@@ -450,6 +444,12 @@
     "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflat",
     "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
     "What we now know about the UK economy in four charts",
-    "Canadian dollar holds gains after Bank of Canada delivers rate hike"
+    "Canadian dollar holds gains after Bank of Canada delivers rate hike",
+    "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+    "What the Budget offers for under 25s - and what it leaves out",
+    "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
+    "Sterling hits 17-Month high vs Euro as ECB holds rates",
+    "Earnings bloodbath: Intel crashes over 22%, Amazon over 12%. What's coming next?",
+    "1 nam sinh m\u1eafc ung th\u01b0 tuy\u1ebfn gi\u00e1p di c\u0103n khi m\u1edbi 15 tu\u1ed5i: V\u00ec sao b\u1ec7nh ng\u00e0y c\u00e0ng "
   ]
 }
