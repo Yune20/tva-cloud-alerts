@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793307654.6444695,
+  "last_signals": 1793308309.1817126,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793304546.0966558,
+    "5575146754|Gold|1H|range_in": 1793308309.1817126,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793307657.1581993,
+    "EUR/USD|1D:bot": 1793308311.1474948,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -142,21 +142,15 @@
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1792728878.9513156,
+    "DXY|4H:bot": 1793308311.6672127,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793307645.1899204,
-  "last_news": 1793307654.6435866,
+  "last_analysis": 1793308259.863964,
+  "last_news": 1793308309.1807957,
   "seen_news": [
-    "'Painful' years head, think tanks warn, as living standards set to fall",
-    "U.S. yields steady on PCE lands in-line; Europe awaits ECb",
-    "ECB president Lagarde set to step down from her position next February",
-    "\u0110\u00e3 \u0111\u1ebfn l\u00fac L\u01b0\u01a1ng M\u1ea1nh H\u1ea3i tr\u1edf l\u1ea1i",
-    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
-    "Entegris (NASDAQ:ENTG) surprises with strong Q3, stock soars - TradingView",
     "investingLive Asia-Pacific market news: Oil eases on Vance\u2019s Iran outreach",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n s\u1edf h\u1eefu nh\u00e0 \u1edf ch\u00fa \u00fd \u0111\u1ec1 xu\u1ea5t quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
@@ -450,6 +444,12 @@
     "The tech helping crack decades-old cold cases",
     "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
     "Polish zloty falls to weakest level since November 2023",
-    "HYPE token skyrockets as NYSE owner moves to bring Hyperliquid perpetual futures"
+    "HYPE token skyrockets as NYSE owner moves to bring Hyperliquid perpetual futures",
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+    "US promises tariff relief in talks with Audi on Georgia plant, sources say",
+    "BoJ preview: hold at 1.25% expected, with 2% inflation call and dissent risk in ",
+    "N\u1eafm trong tay g\u1ea7n 4.300 c\u1eeda h\u00e0ng kh\u1eafp c\u1ea3 n\u01b0\u1edbc, \u0111\u1ecbnh gi\u00e1 B\u00e1ch H\u00f3a Xanh ch\u01b0a \u0111\u1ebfn 3",
+    "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough",
+    "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disrupti"
   ]
 }
