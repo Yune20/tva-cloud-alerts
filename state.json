@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793294309.268336,
+  "last_signals": 1793294931.5912397,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793292716.7960658,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793294310.2120543,
+    "Bitcoin|4H:top": 1793294932.5616715,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793294311.5614944,
+    "EUR/USD|1D:bot": 1793294933.3662984,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793292719.0970962,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793294300.4764695,
-  "last_news": 1793294309.267398,
+  "last_analysis": 1793294922.8380446,
+  "last_news": 1793294931.5903625,
   "seen_news": [
-    "EU Rules Out New Climate Finance Pledges at COP31",
-    "Why is Marvell Technology stock tumbling today?",
-    "European stock market open: A mixed start as Spanish stocks struggle again, US f",
-    "M\u00e2m c\u01a1m nh\u00e0 Harry Kane",
-    "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Spreads Grab the Headlines, but Infrastructure Gets the Institutional Flow - Tra",
     "Gold whipsaws on FOMC decision as near-term outlook turns more bullish amid a sl",
     "Kh\u1edfi c\u00f4ng 6 d\u1ef1 \u00e1n tr\u1ecdng \u0111i\u1ec3m t\u1ea1i Th\u00e1i Nguy\u00ean, l\u1ea7n \u0111\u1ea7u c\u00f3 c\u1ea3ng th\u1ee7y",
     "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
@@ -450,6 +444,12 @@
     "Fed pauses, Big Tech reports - TradingView",
     "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace",
     "Rainmakers: The drones used to seed clouds",
-    "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%"
+    "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%",
+    "What Alkami Technology (ALKT) Said on Its Q3 Earnings Call - TradingView",
+    "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+    "The AI telling farmers when to harvest",
+    "Crocs shares surge on raised forecast as HEYDUDE turnaround gains traction",
+    "WTI crude oil rebounds after a failed break below $100 and the 200-hour MA",
+    "Di\u1ec5n bi\u1ebfn m\u1edbi nh\u1ea5t v\u1ec1 8 c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng, s\u00f4ng \u0110u\u1ed1ng, c\u00f3 2 c\u00e2y c\u1ea7u d\u1ef1 ki\u1ebfn"
   ]
 }
