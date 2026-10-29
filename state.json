@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793288608.5563385,
+  "last_signals": 1793289227.145395,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -64,7 +64,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -74,7 +74,7 @@
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": false,
+    "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
@@ -126,10 +126,10 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793288609.9728038,
+    "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793288609.9728231,
+    "EUR/USD|1D:bot": 1793289228.508475,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793288599.9848318,
-  "last_news": 1793288608.5554283,
+  "last_analysis": 1793289218.649487,
+  "last_news": 1793289227.1445723,
   "seen_news": [
-    "Shell nearly doubles quarterly profit year-on-year as refining margins soar to r",
-    "My hometown shows that high streets have to change or die",
-    "EU Scrambles to Contain Energy Price Crisis Ahead of Winter",
-    "Greencoat UK Wind reports Q3 NAV of 135.7p per share",
-    "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive",
-    "Vi\u1ec7t Nam c\u00f3 b\u00e0i h\u00e1t tr\u1ecb gi\u00e1 22 tri\u1ec7u \u0111\u1ed3ng: Ph\u1ee7 s\u00f3ng lo\u1ea1t k\u00eanh truy\u1ec1n h\u00ecnh to\u00e0n c",
     "M\u1eafc hai b\u1ec7nh ung th\u01b0 \u1edf tu\u1ed5i 18, n\u1eef sinh \u0111\u1ea1t IELTS 8.5, kh\u1edfi nghi\u1ec7p tu\u1ed5i 20",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "Incap Corporation (ICP1V) Q3 Revenue \u20ac80.7M, +56% YoY; 2026 Sales Seen \u20ac270\u2013290M",
@@ -450,6 +444,12 @@
     "The politics of President Lagarde's European Central Bank early exit  \u2014 and who ",
     "Doordash to buy Instacart in $17bn deal it says will expand customer options",
     "Trafigura Signs New Gas Supply Deal with German SEFE",
-    "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%"
+    "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%",
+    "Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
+    "Faisal Islam: This Budget was micro and that was deliberate",
+    "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+    "Canadian dollar strengthens as traders assess BoC hike, await US data",
+    "What are the main events for today?",
+    "T\u1eebng m\u1ea5t g\u1ea7n 31 t\u1ef7 \u0111\u1ed3ng, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng tu\u1ed5i 49 m\u1edbi hi\u1ec3u: C\u00f3 ti\u1ec1n ch\u01b0a ch\u1eafc \u0111\u00e3 an"
   ]
 }
