@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793238923.6917963,
-  "last_bot4": 1793245487.7068677,
+  "last_bot4": 1793246430.7721405,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793245487.7067676
+    "Gold": 1793246430.7720563
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793245765.416226,
+  "last_signals": 1793246430.7729683,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793245156.9034941,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793245766.7740252,
+    "Ethereum|4H:bot": 1793246431.822496,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793246064.678294,
-  "last_news": 1793245765.4153895,
+  "last_analysis": 1793246418.2657378,
+  "last_news": 1793246427.7330062,
   "seen_news": [
-    "B\u1ed9 tr\u01b0\u1edfng B\u1ed9 T\u00e0i ch\u00ednh: \"Vi\u1ec7t Nam c\u00f3 th\u1ec3 t\u0103ng tr\u01b0\u1edfng m\u00e0 kh\u00f4ng c\u1ea7n FDI \u0111\u01b0\u1ee3c kh\u00f4ng",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "DA Davidson maintains Neutral rating on Manhattan Associates, $230 price target ",
-    "Here\u2019s what just sent Oracle\u2019s stock soaring",
-    "Microsoft will post earnings after the bell as investors focus on job cuts and c",
-    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
     "SA analyst upgrades/downgrades: TSLA, AMZN, HE, SPCX - TradingView",
     "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018",
     "Three media outlets seek full White House access in amended lawsuit",
@@ -452,6 +446,12 @@
     "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
     "Taboola Brings DeeperDive Answer Engine to Motorola Smartphones - TradingView",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Hello Kitty maker cuts ties with Japanese spy drama after China backlash"
+    "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "News by CNBC TV18 on TradingView, 2026-10-28 \u2014 cnbctv:855601f93094b:0 - TradingV",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "Polish zloty falls to weakest level since November 2023",
+    "US September advance goods trade balance -134.9 billion vs -130.2 billion expect",
+    "Cu\u1ed9c ch\u01a1i xe \u0111i\u1ec7n n\u00f3ng h\u01a1n bao gi\u1edd h\u1ebft: Elon Musk tuy\u1ec3n ng\u01b0\u1eddi c\u00f3 th\u1ec3 qu\u1ea3n l\u00fd h\u01a1n"
   ]
 }
