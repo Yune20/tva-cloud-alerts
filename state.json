@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793243005.7104173,
+  "last_signals": 1793243616.3458562,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793236413.7769334,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -64,7 +64,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
@@ -83,13 +83,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793243006.8303196,
+    "Ethereum|4H:bot": 1793243617.5455444,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793242996.897884,
-  "last_news": 1793243005.7095783,
+  "last_analysis": 1793243608.7567172,
+  "last_news": 1793243616.3451385,
   "seen_news": [
-    "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
-    "Meta delays indefinitely its rollout of new commercial terms after publishers\u2019 c",
-    "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal ",
-    "Ng\u01b0\u1eddi cha kh\u1edfi nghi\u1ec7p v\u1edbi 400 tri\u1ec7u \u0111\u1ed3ng t\u1eeb ng\u00e0nh thu\u1ed1c th\u00fa y, g\u00e2y d\u1ef1ng t\u1eadp \u0111o\u00e0n",
-    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "DWS: Record inflows and rising recurring fees strengthen the growth platform - T",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
     "Elon Musk says he can build a wireless carrier in two to three years. Is that po",
@@ -452,6 +446,12 @@
     "NZ business confidence rises to +53 as pricing intentions hit highest since May",
     "Sau 9 th\u00e1ng, H\u00f2a Ph\u00e1t \u0111\u1ea1t 23.746 t\u1ef7 \u0111\u1ed3ng l\u1ee3i nhu\u1eadn sau thu\u1ebf, v\u01b0\u1ee3t 8% k\u1ebf ho\u1ea1ch n\u0103",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView"
+    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
+    "More on Samsung: shares slide up to 6.6% as shareholder-return plan is delayed t",
+    "Ng\u01b0\u1eddi l\u00e0m vi\u1ec7c \u1edf khu c\u00f4ng ngh\u1ec7 cao H\u00e0 N\u1ed9i s\u1eafp \u0111\u01b0\u1ee3c mi\u1ec5n v\u00e9 th\u00e1ng xe bu\u00fdt",
+    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
+    "Happen Q3 2026 Earnings Call Is Live - TradingView",
+    "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+    "The grads ditching the UK for a fresh start abroad"
   ]
 }
