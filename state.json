@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793261035.1246376,
+  "last_signals": 1793261641.1794593,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793261027.4452424,
-  "last_news": 1793261035.1227894,
+  "last_analysis": 1793261632.247518,
+  "last_news": 1793261641.178618,
   "seen_news": [
-    "Cyberattack concealed political spending by big donors before US midterm electio",
-    "Oil - The UAE\u2019s second Hormuz bypass pipeline gets its firm timing; early 2027",
-    "B\u1ea5t ng\u1edd l\u00e3i su\u1ea5t 'si\u00eau th\u1ea5p' t\u1ea1i SCB",
-    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
-    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
-    "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
     "Peltz-led group offers $1.4bn to take Wendy\u2019s private at $7.35 a share, a 20% pr",
     "Ph\u00e1t hi\u1ec7n b\u1ea3n l\u00e0ng \u1edf \u0111\u1ed9 cao h\u01a1n 1.000m t\u1ea1i Vi\u1ec7t Nam, 7 th\u00e1ng m\u1ed7i n\u0103m m\u00e1i nh\u00e0 ph\u1ee7",
     "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
@@ -450,6 +444,12 @@
     "Brown & Brown Q3 2026 Earnings Call Is Live - TradingView",
     "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
     "One passport isn\u2019t enough for some wealthy Chinese. Here\u2019s where they\u2019re looking",
-    "Why the UK is dithering over what to do about e-scooters"
+    "Why the UK is dithering over what to do about e-scooters",
+    "Peace Talks Won\u2019t Save Oil Buyers From $100-Plus Oil",
+    "IMI raises guidance after solid third quarter performance",
+    "Chart of the day: Gold shrugs off Fed drama and big tech jitters, but for how mu",
+    "C\u00f4ng an ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 \u1ea3nh th\u1ebb C\u0103n c\u01b0\u1edbc c\u1ee7a ng\u01b0\u1eddi d\u00e2n",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Anduril, Qualcomm team up to build US-made laptops - TradingView"
   ]
 }
