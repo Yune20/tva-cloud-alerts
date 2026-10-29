@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793247036.8021908,
+  "last_signals": 1793247641.8031802,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793245156.9034941,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793247037.4121006,
+    "Ethereum|4H:bot": 1793247643.2101123,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -151,14 +151,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793247344.315199,
-  "last_news": 1793247036.8013942,
+  "last_news": 1793247641.8023734,
   "seen_news": [
-    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
-    "India\u2019s Record LNG Buying Meets Record-High Prices",
-    "Leak website releases data on tens of thousands of DHS employees",
-    "Economic and event calendar in Asia Thursday, October 29, 2026",
-    "H\u0110ND H\u00e0 N\u1ed9i k\u00e9o d\u00e0i k\u1ef3 h\u1ecdp \u0111\u1ec3 xem x\u00e9t c\u01a1 ch\u1ebf \u0111\u1eb7c th\u00f9 cho 5 tuy\u1ebfn Metro 1 tri\u1ec7u t",
-    "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - ",
     "Exclusive-US DOJ is inquiring about Nvidia\u2019s purchase of Hugging Face, sources s",
     "The before and after.  A look at the changes in forex, rates, stocks through the",
     "T\u1ef7 ph\u00fa Elon Musk tuy\u1ec3n lo\u1ea1t nh\u00e2n t\u00e0i t\u1ea1i Vi\u1ec7t Nam, c\u00f3 v\u1ecb tr\u00ed qu\u1ea3n l\u00fd kh\u00f4ng y\u00eau c",
@@ -452,6 +446,12 @@
     "investingLive Asia-Pacific market news: Oil eases on Vance\u2019s Iran outreach",
     "Thu ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc h\u01a1n 2.685 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n ph\u00ed s\u1eed d\u1ee5ng \u0111\u01b0\u1eddng cao t\u1ed1c",
     "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "DA Davidson maintains Neutral rating on Manhattan Associates, $230 price target "
+    "DA Davidson maintains Neutral rating on Manhattan Associates, $230 price target ",
+    "RBA set for fifth 2026 hike to 4.85% as banks flag risk of another move in Febru",
+    "M\u1ef9 nh\u00e2n Vbiz \"m\u1ed9t ch\u00e2n \u0111\u1ea1p 3 thuy\u1ec1n\" khi\u1ebfn MXH x\u00f4n xao: Visual \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
+    "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs"
   ]
 }
