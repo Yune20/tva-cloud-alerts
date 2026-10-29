@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793249821.8882682,
-  "last_bot4": 1793250722.8189812,
+  "last_bot4": 1793251411.5910654,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793250108.035529
+    "Gold": 1793251411.590962
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793251056.1452713,
+  "last_signals": 1793251411.5920632,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -64,7 +64,7 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
@@ -81,7 +81,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793251038.7678645,
-  "last_news": 1793251056.0579367,
+  "last_analysis": 1793251400.756113,
+  "last_news": 1793251408.4586523,
   "seen_news": [
-    "Alphabet holds 2026 capex unchanged, expects 'significant' increase in 2027 \u2014 sh",
-    "Budget 2026: Key points at a glance",
-    "Solar Has Overtaken Nuclear in the Global Power Mix",
-    "Canadian dollar holds gains after Bank of Canada delivers rate hike",
-    "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepen",
-    "MC d\u1eabn cho VTV t\u1eeb 14 tu\u1ed5i tung \u1ea3nh qu\u00e1 kh\u1ee9 ch\u1ee9ng minh \"\u0111\u1eebng khinh th\u01b0\u1eddng b\u00f4ng ho",
     "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
     "QatarEnergy Extends LNG Force Majeure to End of 2026",
     "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
@@ -452,6 +446,12 @@
     "Hyundai Motor reports 5.5% rise in Q3 operating profit, beats forecasts",
     "Qatari mediators presented Iran with new draft deal; Iran's response expected by",
     "Tr\u1edf th\u00e0nh \u201cth\u1ebf h\u1ec7 \u1edf thu\u00ea\u201d hay c\u1ed1 mua nh\u00e0 b\u1eb1ng m\u1ecdi gi\u00e1: Chuy\u00ean gia ph\u00e2n t\u00edch, nh\u1ea5",
-    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc"
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc",
+    "Restaurants sceptical over 'garlic and gherkins' plan",
+    "Why is Advantest stock surging today?",
+    "Germany's trade struggles with China set to put Asia-Pacific deficit on course f",
+    "H\u00e0nh tinh n\u00e0o c\u00f3 th\u1ec3 n\u1ed5i tr\u00ean m\u1eb7t n\u01b0\u1edbc?",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Freedom Gold Corp. (FRDM) Settles $25.7K Debt With 213,790 Shares - TradingView"
   ]
 }
