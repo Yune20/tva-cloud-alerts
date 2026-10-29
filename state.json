@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793249821.8882682,
+  "last_news_report": 1793260690.4507725,
   "last_bot4": 1793260360.3209674,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793260070.7430005,
+  "last_signals": 1793260690.4517753,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -75,11 +75,11 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793260061.687267,
-  "last_news": 1793260070.7422335,
+  "last_analysis": 1793260674.4256585,
+  "last_news": 1793260683.3285406,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Amazon Extends Job Cuts to Devices After 1,000 Retail Layoffs - TradingView",
-    "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
-    "One passport isn\u2019t enough for some wealthy Chinese. Here\u2019s where they\u2019re looking",
-    "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-    "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels",
     "Ford reports mixed third-quarter results, says 2027 earnings will be in line wit",
     "The Indian workers filming their work to train AI",
     "Peace Talks Won\u2019t Save Oil Buyers From $100-Plus Oil",
@@ -450,6 +444,12 @@
     "Incap Corporation (ICP1V) Q3 Revenue \u20ac80.7M, +56% YoY; 2026 Sales Seen \u20ac270\u2013290M",
     "Chipotle now has more demand from lower-income diners than higher-income ones",
     "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?"
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "ASE Technology Q3 2026 Earnings Call Is Live - TradingView",
+    "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
+    "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loan",
+    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
+    "WPP says turnaround on track as third-quarter revenue decline narrows",
+    "IC Launches New Guillermo Ochoa Campaign Focused on Performance Under Pressure"
   ]
 }
