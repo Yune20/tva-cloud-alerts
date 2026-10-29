@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793232056.1040456,
+  "last_signals": 1793232669.0754788,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
-    "5575146754|Gold|4H|range_in": 1793197869.8855014,
+    "5575146754|Gold|4H|range_in": 1793232669.0754788,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -63,7 +63,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -77,7 +77,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793232057.2861767,
+    "Ethereum|4H:top": 1793232669.8933103,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793232056.9987733,
+    "Bitcoin|4H:top": 1793232669.6920166,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793232048.4474852,
-  "last_news": 1793232056.1032817,
+  "last_analysis": 1793232660.6154165,
+  "last_news": 1793232669.0744805,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Q4/2026 - VietstockFinance",
-    "US Treasury Trade Official Eric Ettorre Leaving For Netflix - Axios - TradingVie",
-    "Bullish on Anthropic but don\u2019t want to wait until the IPO? Here\u2019s how you can in",
-    "Microsoft earnings will land after the close",
-    "The grads ditching the UK for a fresh start abroad",
-    "Oil Traders Brace for Iran Escalation After U.S. Elections",
     "My husband wants to sell our $1.5 million home and downsize. But this is where w",
     "Alphabet set to report third-quarter earnings after the bell",
     "The tech helping crack decades-old cold cases",
@@ -452,6 +446,12 @@
     "Peace Talks Won\u2019t Save Oil Buyers From $100-Plus Oil",
     "Canadian dollar steadies after seven-day rally ahead of rate decisions",
     "NZDUSD tumbles after surprise RBNZ hold. Sellers retain control as the rebound s",
-    "Mi\u1ec1n B\u1eafc \u0111\u00f3n m\u01b0a r\u00e0o"
+    "Mi\u1ec1n B\u1eafc \u0111\u00f3n m\u01b0a r\u00e0o",
+    "Cyberattack concealed political spending by big donors before US midterm electio",
+    "Oil - The UAE\u2019s second Hormuz bypass pipeline gets its firm timing; early 2027",
+    "B\u1ea5t ng\u1edd l\u00e3i su\u1ea5t 'si\u00eau th\u1ea5p' t\u1ea1i SCB",
+    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
+    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
+    "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny"
   ]
 }
