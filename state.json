@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793241399.6946108,
+  "last_signals": 1793242017.9952586,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793236413.7769334,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -64,8 +64,8 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
-    "USOIL|1H": false,
+    "Gold|1D": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793241392.0493405,
-  "last_news": 1793241399.678423,
+  "last_analysis": 1793242011.087624,
+  "last_news": 1793242017.9943976,
   "seen_news": [
-    "I\u2019m planning a trip to Europe. Is it dumb to take travel advice from influencers",
-    "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Wall Street shows little reaction amid small moves after Fed holds rates steady",
-    "For reference: The September 16 FOMC statement",
-    "Kh\u00f4ng ph\u1ea3i \u0111\u1ea5t hi\u1ebfm, Vi\u1ec7t Nam s\u1edf h\u1eefu kho b\u00e1u l\u1edbn th\u1ee9 2 th\u1ebf gi\u1edbi - 1 doanh nghi\u1ec7p",
     "How long will humans be needed for translation?",
     "Why is Canadian Natural Resources stock climbing today?",
     "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
@@ -452,6 +446,12 @@
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "Why Euronet Worldwide (EEFT) stock is falling today - TradingView",
     "Fed chairman talks tough on inflation \u2014 plus, what's behind Micron's big rally",
-    "Healey tells departments to make 1% cuts to fund defence"
+    "Healey tells departments to make 1% cuts to fund defence",
+    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
+    "The Nuvo Group Announces Participation in The PIPEs Conference - TradingView",
+    "Fed holds rates steady despite concerns over inflation",
+    "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    "Airline groups urge US CDC to reconsider Ebola declaration requirements",
+    "Samsung Q3 operating profit jumps ninefold to record 107 trillion won on AI chip"
   ]
 }
