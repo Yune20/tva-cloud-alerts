@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793246430.7729683,
+  "last_signals": 1793247036.8021908,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793245156.9034941,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793246431.822496,
+    "Ethereum|4H:bot": 1793247037.4121006,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793246418.2657378,
-  "last_news": 1793246427.7330062,
+  "last_analysis": 1793247027.375549,
+  "last_news": 1793247036.8013942,
   "seen_news": [
-    "SA analyst upgrades/downgrades: TSLA, AMZN, HE, SPCX - TradingView",
-    "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018",
-    "Three media outlets seek full White House access in amended lawsuit",
-    "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    "Phillips 66 posts record quarterly profit on refining strength",
-    "The full statement from the October 2026 FOMC rate decision",
     "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
     "India\u2019s Record LNG Buying Meets Record-High Prices",
     "Leak website releases data on tens of thousands of DHS employees",
@@ -452,6 +446,12 @@
     "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
     "Polish zloty falls to weakest level since November 2023",
     "US September advance goods trade balance -134.9 billion vs -130.2 billion expect",
-    "Cu\u1ed9c ch\u01a1i xe \u0111i\u1ec7n n\u00f3ng h\u01a1n bao gi\u1edd h\u1ebft: Elon Musk tuy\u1ec3n ng\u01b0\u1eddi c\u00f3 th\u1ec3 qu\u1ea3n l\u00fd h\u01a1n"
+    "Cu\u1ed9c ch\u01a1i xe \u0111i\u1ec7n n\u00f3ng h\u01a1n bao gi\u1edd h\u1ebft: Elon Musk tuy\u1ec3n ng\u01b0\u1eddi c\u00f3 th\u1ec3 qu\u1ea3n l\u00fd h\u01a1n",
+    "You may get the right to find out what your colleagues earn - here's why",
+    "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loo",
+    "investingLive Asia-Pacific market news: Oil eases on Vance\u2019s Iran outreach",
+    "Thu ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc h\u01a1n 2.685 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n ph\u00ed s\u1eed d\u1ee5ng \u0111\u01b0\u1eddng cao t\u1ed1c",
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
+    "DA Davidson maintains Neutral rating on Manhattan Associates, $230 price target "
   ]
 }
