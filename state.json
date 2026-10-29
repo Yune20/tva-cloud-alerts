@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793299248.035749,
+  "last_signals": 1793299860.5142798,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793292716.7960658,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793299249.1619022,
+    "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793299250.6557024,
+    "EUR/USD|1D:bot": 1793299861.9498067,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793299239.2146811,
-  "last_news": 1793299248.0351431,
+  "last_analysis": 1793299853.0400724,
+  "last_news": 1793299860.5133162,
   "seen_news": [
-    "ARES MANAGEMENT CORPORATION REPORTS THIRD QUARTER 2026 RESULTS - TradingView",
-    "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda sho",
-    "Tax thresholds remain unchanged - here's what it means for your pay",
-    "Equinor Doubles Estimate for Major North Sea Gas Discovery",
-    "Rank shares slip 3% as UK machine games duty rise to cost \u00a39 mln a year",
-    "Trump administration in ongoing talks for a temporary peace deal with Iran - Sem",
     "Chancellor says government has 'moral duty' to help young people out of work",
     "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens",
     "Siemens Energy stock rises on positive sector read-across",
@@ -450,6 +444,12 @@
     "EU Rules Out New Climate Finance Pledges at COP31",
     "Microsoft expects to raise $25 billion in US bond sale, source says",
     "Bitcoin extends consolidation as neutral FOMC decision fails to spark a relief r",
-    "M\u1ed9t ph\u01b0\u1eddng \u1edf Vi\u1ec7t Nam s\u1eafp \u0111\u00f3n 16.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ea7u t\u01b0, l\u00e0m 15 tuy\u1ebfn \u0111\u01b0\u1eddng 1.600 t\u1ef7"
+    "M\u1ed9t ph\u01b0\u1eddng \u1edf Vi\u1ec7t Nam s\u1eafp \u0111\u00f3n 16.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ea7u t\u01b0, l\u00e0m 15 tuy\u1ebfn \u0111\u01b0\u1eddng 1.600 t\u1ef7",
+    "Island Energy: No plans to remove gas standing charge",
+    "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
+    "ECB preview: All Lagarde needs to do today is not rock the boat",
+    "M\u1ea5t kh\u00e1ch Vietjet, c\u00f4ng ty d\u1ecbch v\u1ee5 h\u00e0ng kh\u00f4ng \u0111\u01b0\u1ee3c b\u00f9 \u0111\u1eafp b\u1edfi Sun Ph\u00fa Qu\u1ed1c Airwa",
+    "Page or Company not found! - VietstockFinance",
+    "Why Plexus (PLXS) stock is down today - TradingView"
   ]
 }
