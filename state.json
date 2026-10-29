@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793249821.8892372,
+  "last_signals": 1793250434.755206,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,7 +81,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793249807.952317,
-  "last_news": 1793249817.1112502,
+  "last_analysis": 1793250424.0876594,
+  "last_news": 1793250434.7544017,
   "seen_news": [
-    "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
-    "Alphabet\u2019s heavy cloud spending drives bigger-than-expected cash burn",
-    "investingLive Americas market news wrap: Tech stocks rally",
-    "T\u1eeb m\u00e1y bay ti\u00eam k\u00edch \u0111\u1ebfn tr\u1ef1c th\u0103ng, Vi\u1ec7t Nam t\u1ef1 ch\u1ebf t\u1ea1o thi\u1ebft b\u1ecb \u0111\u1eb7c bi\u1ec7t t\u1eebng ",
-    "The cost of money itself is on the ballot as voters struggle with pricey car loa",
-    "Bessent says 'not necessarily' a mistake if the Fed hikes again",
     "Ford\u2019s third-quarter core profit ticks higher despite rising commodity costs",
     "Fl\u00e1vio Bolsonaro reportedly flees Brazil for the US after election loss",
     "S\u1ef1 th\u1eadt v\u1ec1 F88 kh\u00f4ng ph\u1ea3i ai c\u0169ng bi\u1ebft",
@@ -452,6 +446,12 @@
     "BCM: T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Becamex - CTCP - Becamex Group - ",
     "Alphabet Stocks Rise Ahead of Google Cloud's Profit Test - TradingView",
     "As Waymo expands overseas, it remains a niche cash-burning business",
-    "What the Budget offers for under 25s - and what it leaves out"
+    "What the Budget offers for under 25s - and what it leaves out",
+    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Ripple and DriveWealth Link Stablecoin Settlement to Global Brokerage - TradingV",
+    "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most v",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Petrochina shares rise as Q3 profit surges on strong oil prices",
+    "US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next "
   ]
 }
