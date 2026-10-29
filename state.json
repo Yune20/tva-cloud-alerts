@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793256046.9559984,
+  "last_signals": 1793256655.3276196,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,11 +63,11 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793256035.6773329,
-  "last_news": 1793256046.9551015,
+  "last_analysis": 1793256648.906203,
+  "last_news": 1793256655.3267353,
   "seen_news": [
-    "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-    "The AI telling farmers when to harvest",
-    "How Trump\u2019s Russian Diesel Could End Up in Cuba Instead",
-    "Chipotle tops quarterly sales expectations as it continues to attract diners",
-    "ICYMI: Oracle jumps around 11% on $225bn 2030 revenue goal and $20bn cap on new ",
-    "Nhi\u1ec1u gia \u0111\u00ecnh tr\u1ed3ng m\u1ed9t c\u00e2y ch\u00e8 trong nh\u00e0: H\u00f3a ra kh\u00f4ng ch\u1ec9 \u0111\u1ec3 l\u1ea5y l\u00e1",
     "US Oil Inventories Fall Again As Prices Rise",
     "US FTC demands Walmart, Uber, Delta and others hand over data on personalized pr",
     "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
@@ -450,6 +444,12 @@
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "Budweiser brewer AB InBev hits Q3 profit forecast, but costs on the rise",
     "US bitcoin reserve buying 'very soon'? What has to happen first",
-    "B\u1ed9 T\u00e0i ch\u00ednh \u0111\u1ec1 xu\u1ea5t cho thu\u00ea nh\u00e0, \u0111\u1ea5t d\u00f4i d\u01b0 t\u1ed1i \u0111a 5 n\u0103m trong th\u1eddi gian ch\u1edd h"
+    "B\u1ed9 T\u00e0i ch\u00ednh \u0111\u1ec1 xu\u1ea5t cho thu\u00ea nh\u00e0, \u0111\u1ea5t d\u00f4i d\u01b0 t\u1ed1i \u0111a 5 n\u0103m trong th\u1eddi gian ch\u1edd h",
+    "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources te",
+    "Rainmakers: The drones used to seed clouds",
+    "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
+    "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and ",
+    "L\u00e1ng gi\u1ec1ng Vi\u1ec7t Nam s\u1eafp x\u00e2y \u2018\u0111\u1ea3o nh\u00e2n t\u1ea1o\u2019 r\u1ed9ng b\u1eb1ng t\u00e0u s\u00e2n bay gi\u1eefa bi\u1ec3n, d\u00e0i "
   ]
 }
