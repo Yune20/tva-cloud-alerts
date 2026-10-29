@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793274977.3168929,
+  "last_signals": 1793275576.803992,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -79,12 +79,12 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793275285.0937917,
-  "last_news": 1793274977.3157861,
+  "last_news": 1793275576.8033848,
   "seen_news": [
-    "News by CNBC TV18 on TradingView, 2026-10-28 \u2014 cnbctv:855601f93094b:0 - TradingV",
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-    "Polish zloty falls to weakest level since November 2023",
-    "US September advance goods trade balance -134.9 billion vs -130.2 billion expect",
-    "Cu\u1ed9c ch\u01a1i xe \u0111i\u1ec7n n\u00f3ng h\u01a1n bao gi\u1edd h\u1ebft: Elon Musk tuy\u1ec3n ng\u01b0\u1eddi c\u00f3 th\u1ec3 qu\u1ea3n l\u00fd h\u01a1n",
     "You may get the right to find out what your colleagues earn - here's why",
     "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loo",
     "investingLive Asia-Pacific market news: Oil eases on Vance\u2019s Iran outreach",
@@ -450,6 +444,12 @@
     "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows ",
     "Living with a stink? Technology might help",
     "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
-    "Why is Glaukos stock surging today?"
+    "Why is Glaukos stock surging today?",
+    "DoorDash to acquire Instacart for $17 billion",
+    "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record",
+    "Adidas sees Europe rebound in fourth quarter, streaks ahead in China",
+    "Alphabet stock plunged nearly 10% after hours. Why investors who don't own it sh",
+    "Sao nam \u0111i\u1ec3n trai nh\u1ea5t B\u1ed1 \u01a0i M\u00ecnh \u0110i \u0110\u00e2u Th\u1ebf bao tr\u1ecdn s\u00e2n pickleball l\u00e0m ti\u1ec7c si"
   ]
 }
