@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793293333.31776,
+  "last_news_report": 1793304192.6191788,
   "last_bot4": 1793303576.5052648,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793303576.5059392,
+  "last_signals": 1793304192.6200483,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
@@ -64,17 +64,17 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793303578.7127347,
+    "EUR/USD|1D:bot": 1793304194.7561786,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793303567.2330487,
-  "last_news": 1793303576.5044503,
+  "last_analysis": 1793304178.0872176,
+  "last_news": 1793304186.2503626,
   "seen_news": [
-    "16 tu\u1ed5i b\u1ecf h\u1ecdc l\u00e0m c\u00f4ng nh\u00e2n ki\u1ebfm 26 ngh\u00ecn/ng\u00e0y, 40 n\u0103m sau tr\u1edf th\u00e0nh \u201cph\u00fa b\u00e0\u201d s",
-    "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM - Viets",
-    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
-    "Lilly raises outlook for third time this year as Zepbound sales soar",
-    "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
-    "The tech helping crack decades-old cold cases",
     "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
     "Is it dumb to take travel advice from influencers?",
     "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows ",
@@ -450,6 +444,12 @@
     "It\u2019s the strangest job market the U.S. has ever seen. The low-hire, low-fire eco",
     "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
     "Tax thresholds remain unchanged - here's what it means for your pay",
-    "Amazon earnings watch: AWS growth, capex and margins in focus"
+    "Amazon earnings watch: AWS growth, capex and margins in focus",
+    "M\u1ed9t c\u1ef1u sinh vi\u00ean Kinh t\u1ebf Qu\u1ed1c d\u00e2n t\u1eebng \u01b0\u1edbc ao c\u00f3 10 t\u1ef7 \u0111\u1ed3ng, nay s\u1edf h\u1eefu doanh n",
+    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
+    "Pinnacle West Capital to Post Q3 Earnings: What's in the Cards? - TradingView",
+    "Microsoft to raise up to $25 billion in bond market as investors get pickier abo",
+    "Starbucks is about to report earnings. Here's what to expect",
+    "'An annoying buzz': The search for stealthier drones"
   ]
 }
