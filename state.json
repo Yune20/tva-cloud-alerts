@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793286138.8443089,
+  "last_signals": 1793286764.962251,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -71,7 +71,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -126,10 +126,10 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793286141.250724,
+    "EUR/USD|4H:bot": 1793286766.2985334,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793286141.250744,
+    "EUR/USD|1D:bot": 1793286766.2985523,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793286130.237184,
-  "last_news": 1793286138.843331,
+  "last_analysis": 1793286755.9947882,
+  "last_news": 1793286764.961519,
   "seen_news": [
-    "The AI telling farmers when to harvest",
-    "How Trump\u2019s Russian Diesel Could End Up in Cuba Instead",
-    "Renault reports rise in 3Q revenues despite lower volumes",
-    "ICYMI: Oracle jumps around 11% on $225bn 2030 revenue goal and $20bn cap on new ",
-    "\u0110\u1ea1t Ph\u01b0\u01a1ng m\u01b0\u1ee3n t\u00e0i s\u1ea3n c\u1ee7a l\u00e3nh \u0111\u1ea1o t\u1eadp \u0111o\u00e0n b\u1ea3o \u0111\u1ea3m cho c\u00e1c kho\u1ea3n vay t\u1ea1i ng\u00e2n",
-    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
     "Doanh nghi\u1ec7p casino duy nh\u1ea5t tr\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n ti\u1ebfp t\u1ee5c thua l\u1ed7, n\u00e2ng l\u1ed7 l\u0169y ",
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
     "Sweco AB (publ) (SWEC_A) Q3 Sales Up 7%, EBITA Margin 10.3% - TradingView",
@@ -450,6 +444,12 @@
     "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budge",
     "Investors Are Piling Into Dangote. But Is the Price Right?",
     "U.S. Treasury yields hover near multi-week lows ahead of Fed decision",
-    "Why markets often move in the opposite direction to the news?"
+    "Why markets often move in the opposite direction to the news?",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "U.S. Natural Gas Production Hits New Records as Demand Surges",
+    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
+    "The Nasdaq composite and Nasdaq 100 are back below their 100 day MAs increasing ",
+    "Ca s\u0129 Ph\u00fac Ti\u1ec7p k\u1ec3 chuy\u1ec7n \u0111\u01b0\u1ee3c NSND Quang Th\u1ecd g\u1ecdi \u0111\u1ebfn nh\u00e0, t\u1ef1 tay h\u1ea7m g\u00e0 b\u1ed3i b\u1ed5",
+    "TCH: CTCP \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy - TCH - VietstockFinance"
   ]
 }
