@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793291429.5643919,
+  "last_signals": 1793292052.1733778,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793291430.093376,
+    "Bitcoin|4H:top": 1793292052.6796374,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -129,9 +129,9 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793291430.816452,
+    "EUR/USD|1D:bot": 1793292053.4372272,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1792666884.55096,
+    "GBP/USD|4H:top": 1793292053.2748551,
     "Gold|4H:bot": 1793074108.4399478,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793291420.0789816,
-  "last_news": 1793291429.5634315,
+  "last_analysis": 1793292044.2393272,
+  "last_news": 1793292052.1724255,
   "seen_news": [
-    "Velaris Markets offers MT5 trading with no minimum deposit and spreads from 0.0 ",
-    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam, kh\u00e1m x\u00e9t n\u01a1i \u1edf, n\u01a1i l\u00e0m vi\u1ec7c c\u1ee7a Gi\u00e1m \u0111\u1ed1c H\u1ed3 Th\u1ecb Ki\u1ec3",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
-    "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace",
-    "The Indian workers filming their work to train AI",
     "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels",
     "Airbus Q3 revenue misses as deliveries slow; 2026 guidance kept",
     "Oil - The UAE\u2019s second Hormuz bypass pipeline gets its firm timing; early 2027",
@@ -450,6 +444,12 @@
     "How long will humans be needed for translation?",
     "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb",
     "Nasdaq falls over 1% as post-earnings slide in Alphabet weighs on AI trade",
-    "ECB sources report: Policymakers see a December rate hike followed by a pause"
+    "ECB sources report: Policymakers see a December rate hike followed by a pause",
+    "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+    "Why are more roofs not made of solar tiles?",
+    "Peace Talks Won\u2019t Save Oil Buyers From $100-Plus Oil",
+    "DoorDash\u2019s Instacart deal may draw FTC scrutiny amid cost-of-living concerns",
+    "The door remains ajar for ECB to tighten. EURUSD rebounds after break lower fail",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng VNeID ch\u00fa \u00fd, th\u00f4ng b\u00e1o n\u00f3ng t\u1eeb c\u00f4ng an"
   ]
 }
