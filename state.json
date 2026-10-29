@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793279014.147558,
+  "last_signals": 1793279629.9078748,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793279006.3462298,
-  "last_news": 1793279014.146661,
+  "last_analysis": 1793279622.2184806,
+  "last_news": 1793279629.906937,
   "seen_news": [
-    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Ripple and DriveWealth Link Stablecoin Settlement to Global Brokerage - TradingV",
-    "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most v",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Petrochina shares rise as Q3 profit surges on strong oil prices",
-    "US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next ",
     "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
     "How long will humans be needed for translation?",
     "Hyundai Motor reports 5.5% rise in Q3 operating profit, beats forecasts",
@@ -450,6 +444,12 @@
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "First Tick: Top global cues to watch in today's trade - TradingView",
     "Consumer spending flattens out after inflation surge",
-    "Analysis: Kevin Warsh is keeping his options open \u2014 and Wall Street guessing"
+    "Analysis: Kevin Warsh is keeping his options open \u2014 and Wall Street guessing",
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - Vi",
+    "Axalta Coating Systems Q3 2026 Earnings Call Is Live - TradingView",
+    "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a",
+    "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering vi",
+    "What we now know about the UK economy in four charts",
+    "Dollar edges higher as strong U.S. growth data offsets Fed uncertainty"
   ]
 }
