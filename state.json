@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793304192.6191788,
-  "last_bot4": 1793303576.5052648,
+  "last_bot4": 1793304546.0959542,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793302908.796614
+    "Gold": 1793304546.0957892
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793304192.6200483,
+  "last_signals": 1793304546.0966558,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793272463.0697289,
+    "5575146754|Gold|1H|range_in": 1793304546.0966558,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -80,14 +80,14 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "EUR/USD|1D": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793304194.7561786,
+    "EUR/USD|1D:bot": 1793304547.8150768,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793304178.0872176,
-  "last_news": 1793304186.2503626,
+  "last_analysis": 1793304535.1946714,
+  "last_news": 1793304543.104513,
   "seen_news": [
-    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
-    "Is it dumb to take travel advice from influencers?",
-    "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows ",
-    "Living with a stink? Technology might help",
-    "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
-    "Why is Glaukos stock surging today?",
     "DoorDash to acquire Instacart for $17 billion",
     "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
     "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record",
@@ -450,6 +444,12 @@
     "Pinnacle West Capital to Post Q3 Earnings: What's in the Cards? - TradingView",
     "Microsoft to raise up to $25 billion in bond market as investors get pickier abo",
     "Starbucks is about to report earnings. Here's what to expect",
-    "'An annoying buzz': The search for stealthier drones"
+    "'An annoying buzz': The search for stealthier drones",
+    "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM - Viets",
+    "Sweco AB (publ) (SWEC_A) Q3 Sales Up 7%, EBITA Margin 10.3% - TradingView",
+    "What\u2019s the first thing most people do with their 401(k) after they retire? Nothi",
+    "Amazon earnings are out \u2013 here are the numbers",
+    "The grads ditching the UK for a fresh start abroad",
+    "World's First Permanent Nuclear Waste Site Wins License in Finland"
   ]
 }
