@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793238923.6917963,
-  "last_bot4": 1793247347.2994988,
+  "last_bot4": 1793247970.0521417,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793247641.8031802,
+  "last_signals": 1793247970.0527227,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793245156.9034941,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -77,7 +77,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793247643.2101123,
+    "Ethereum|4H:bot": 1793247970.7927518,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793247344.315199,
-  "last_news": 1793247641.8023734,
+  "last_analysis": 1793247963.1785145,
+  "last_news": 1793247970.0513654,
   "seen_news": [
-    "Exclusive-US DOJ is inquiring about Nvidia\u2019s purchase of Hugging Face, sources s",
-    "The before and after.  A look at the changes in forex, rates, stocks through the",
-    "T\u1ef7 ph\u00fa Elon Musk tuy\u1ec3n lo\u1ea1t nh\u00e2n t\u00e0i t\u1ea1i Vi\u1ec7t Nam, c\u00f3 v\u1ecb tr\u00ed qu\u1ea3n l\u00fd kh\u00f4ng y\u00eau c",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Gold eases on firmer dollar ahead of Fed decision - TradingView",
-    "U.S. oil-refinery stocks are up roughly 150% this year. How long could this hist",
     "What we now know about the UK economy in four charts",
     "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
     "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
@@ -452,6 +446,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "Cherry SE (C3RY) Issues Corrected Major Holdings Notice - TradingView",
     "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs"
+    "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "D\u1ef1 tr\u1eef v\u00e0ng c\u1ee7a Campuchia \u0111\u1ea1t m\u1ee9c k\u1ef7 l\u1ee5c",
+    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
+    "Firehawk Defense Tops $1.4 Billion Valuation: NYSE Content Update - TradingView",
+    "Three media outlets seek full White House access in amended lawsuit",
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+    "India\u2019s Record LNG Buying Meets Record-High Prices"
   ]
 }
