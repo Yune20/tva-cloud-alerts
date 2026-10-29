@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793264100.0707994,
+  "last_signals": 1793264718.8883781,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -78,17 +78,17 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793264978,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793264093.0491493,
-  "last_news": 1793264100.069985,
+  "last_analysis": 1793264708.9857519,
+  "last_news": 1793264718.8874977,
   "seen_news": [
-    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
-    "Brent Retreats on Diplomacy Hopes - TradingView",
-    "Samsung Electronics third-quarter profit in line with estimates amid rising dema",
-    "Will I get the \u00a3100 energy payment and when will I receive it?",
-    "Bloomberg, 2 trading firms subscribe to faster access to Trump posts- Reuters",
-    "UK budget: Growth forecasts cut as Healey unveils \u00a315 billion fiscal buffer",
     "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "Capital Properties, Inc. (CPTP) Declares $0.09 Quarterly Dividend - TradingView",
     "Inside India newsletter: New Delhi approves $22 billion in military spending ami",
@@ -450,6 +444,12 @@
     "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with t",
     "L\u1ec7 Quy\u00ean d\u1ea1y con: \"M\u1eb9 \u01b0\u1edbc con t\u1ef1 gi\u00e1c, t\u1ef1 tr\u1ecdng n\u00ean ng\u01b0\u1eddi nh\u01b0 m\u1eb9\"",
     "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
-    "Fed pauses, Big Tech reports - TradingView"
+    "Fed pauses, Big Tech reports - TradingView",
+    "Th\u00e0nh Ph\u1ed1 C\u00e0 Ph\u00ea \u2013 Th\u00e0nh ph\u1ed1 t\u1ec9nh th\u1ee9c, an c\u01b0 th\u1ecbnh v\u01b0\u1ee3ng",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "REG - AIM - AIM Notice - 29/10/2026 - TradingView",
+    "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after",
+    "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below ex",
+    "Why Gen Z are planning for life without a state pension"
   ]
 }
