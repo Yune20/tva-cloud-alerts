@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793293333.31776,
-  "last_bot4": 1793302007.623378,
+  "last_bot4": 1793302908.7966688,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793301372.7211025
+    "Gold": 1793302908.796614
   },
   "bot_chats": {
     "bot4": [
@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793302301.034528,
+  "last_signals": 1793302908.7975185,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
-    "5575146754|Gold|4H|range_in": 1793292716.7960658,
+    "5575146754|Gold|4H|range_in": 1793302908.7975185,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793302309.182606,
+    "EUR/USD|1D:bot": 1793302909.9481559,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793302609.2220397,
-  "last_news": 1793302301.0337806,
+  "last_news": 1793302904.9876044,
   "seen_news": [
-    "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows s",
-    "The grads ditching the UK for a fresh start abroad",
-    "Why is Norwegian Cruise Line stock surging today?",
-    "Bitcoin's $80,000 lifeline is looking rather fragile as tech stocks stumble",
-    "14 b\u1ecb c\u00e1o v\u1eadn h\u00e0nh website b\u00f3ng \u0111\u00e1 l\u1eadu \u2018B\u00fan Ch\u1ea3 TV\u2019 l\u0129nh \u00e1n",
-    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
     "Sterling today: Pound edges lower as dollar firms ahead of US PCE, GDP data",
     "Crude oil remains capped by renewed US-Iran deal hopes, but upside risks persist",
     "Mercedes-Benz ra m\u1eaft h\u00e0ng lo\u1ea1t xe \u0111i\u1ec7n ho\u00e1 m\u1edbi t\u1ea1i Vi\u1ec7t Nam, gi\u00e1 t\u1eeb 1,6 \u0111\u1ebfn 8,9 ",
@@ -450,6 +444,12 @@
     "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
     "Sabeco ch\u1ed1t ng\u00e0y tr\u1ea3 c\u1ed5 t\u1ee9c ti\u1ec1n m\u1eb7t 30%, \u0111\u1ea1i gia Th\u00e1i Lan nh\u1eadn h\u01a1n 2.060 t\u1ef7 \u0111\u1ed3n",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "FirstEnergy Foundation Increases Support for Shelter, Safety and Stability - Tra"
+    "FirstEnergy Foundation Increases Support for Shelter, Safety and Stability - Tra",
+    "Economic and event calendar in Asia Thursday, October 29, 2026",
+    "\u0110\u1ea1i gia g\u1ed1c Thanh H\u00f3a t\u1eebng thi c\u00f4ng v\u00f2m th\u00e9p l\u1edbn nh\u1ea5t h\u00e0nh tinh nay g\u00f3p m\u1eb7t t\u1ea1i ",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "PZZA Q3'26 Earnings: revenue estimate is 458.70M USD - TradingView",
+    "Alphabet\u2019s stock just triggered a \u2018death cross.\u2019 Could the worst of the selloff ",
+    "Alphabet earnings miss reflects first real sign that AI is taking a bite out of "
   ]
 }
