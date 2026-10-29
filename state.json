@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793310115.9278526,
+  "last_signals": 1793310726.7385514,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793308309.1817126,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793310117.7569728,
+    "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -142,21 +142,15 @@
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793310118.1321144,
+    "DXY|4H:bot": 1793310728.417721,
     "GBP/USD|1D:top": 1792892270.739671,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793310106.0630014,
-  "last_news": 1793310115.9268048,
+  "last_analysis": 1793310717.778631,
+  "last_news": 1793310726.7373047,
   "seen_news": [
-    "DoorDash and Instacart want to join forces. Will the U.S. government get in thei",
-    "European Central Bank keeps key interest rate on hold at 2.5%",
-    "What the Budget offers for under 25s - and what it leaves out",
-    "Iran War Hikes EU\u2019s Oil Import Bill By $11 Billion Per Month",
-    "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-    "US initial jobless claims 194K vs 199K expected",
     "US September PCE core inflation +0.5% m/m vs +0.3% expected",
     "2 th\u00f3i quen t\u00e0n ph\u00e1 gan nhi\u1ec1u ng\u01b0\u1eddi Vi\u1ec7t m\u1eafc: S\u1ed1 2 l\u00e0m t\u0103ng nguy c\u01a1 ung th\u01b0",
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
@@ -450,6 +444,12 @@
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
     "Monolithic Power Systems names new CFO and CAO - TradingView",
     "Sandisk sees revenue nearly quintuple \u2014\u00a0and a stock split is on the way",
-    "Reddit shares sink on weak sales guidance and plans login requirement test as Go"
+    "Reddit shares sink on weak sales guidance and plans login requirement test as Go",
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - Vi",
+    "Roblox Q3 2026 Earnings Call Is Live - TradingView",
+    "The stock market\u2019s best forecasting tool says returns over the next 10 years wil",
+    "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries ",
+    "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo"
   ]
 }
