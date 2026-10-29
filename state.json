@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793269026.4470108,
+  "last_signals": 1793269643.5599127,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,14 +63,14 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793269017.6482975,
-  "last_news": 1793269026.4462335,
+  "last_analysis": 1793269635.2190917,
+  "last_news": 1793269643.559055,
   "seen_news": [
-    "Nh\u00ecn Ninh D\u01b0\u01a1ng Lan Ng\u1ecdc v\u00e0 Steven Nguy\u1ec5n m\u00e0 h\u1ebft mu\u1ed1n l\u1ea5y ch\u1ed3ng",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "IEX: Record Q3 results and robust orders lifted FY 2026 guidance - TradingView",
-    "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
-    "Tax thresholds remain unchanged - here's what it means for your pay",
-    "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens",
     "Alphabet slides over 9% after hours as search miss and $9bn cash burn overshadow",
     "\u0110\u1ec1 xu\u1ea5t gi\u1ea3m ti\u1ec1n ph\u1ea1t doanh nghi\u1ec7p 'b\u1ecf kh\u00f4ng' nhi\u1ec1u n\u0103m",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
@@ -450,6 +444,12 @@
     "N\u1eef ca s\u0129 SN 1990 qu\u00ea \u0110\u1ed3ng Nai ch\u1ea1y show \u0111\u1ebfn ki\u1ec7t s\u1ee9c kh\u1eafp mi\u1ec1n T\u00e2y, c\u00f3 \u0111\u00eam ki\u1ebfm ",
     "Page or Company not found! - VietstockFinance",
     "Gold\u2019s slowing downtrend raises prospect of reversal - TradingView",
-    "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a"
+    "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a",
+    "X\u1eed l\u00fd 12 d\u1ef1 \u00e1n vi ph\u1ea1m c\u1ee7a T\u1eadp \u0111o\u00e0n M\u01b0\u1eddng Th\u00e0nh: Ch\u1ee7 \u0111\u1ea7u t\u01b0 ph\u1ea3i n\u1ed9p v\u00e0 chi tr\u1ea3 ",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "Bull of the Day: Eni (E) - TradingView",
+    "\u2018There may be better investment options\u2019: My church received $1.5 million from a",
+    "European Central Bank President Lagarde to stand down in Februrary",
+    "Dharshini David: Healey buys himself some time, but big questions still unanswer"
   ]
 }
