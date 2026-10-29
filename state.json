@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793301079.7509425,
+  "last_signals": 1793301701.1793485,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793292716.7960658,
@@ -72,7 +72,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793301082.202823,
+    "EUR/USD|1D:bot": 1793301703.8622828,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793301071.4620981,
-  "last_news": 1793301079.7498531,
+  "last_analysis": 1793301692.3890686,
+  "last_news": 1793301701.1785748,
   "seen_news": [
-    "Alphabet slides over 9% after hours as search miss and $9bn cash burn overshadow",
-    "H\u00ecnh \u1ea3nh c\u1ef1u Ph\u00f3 ch\u1ee7 t\u1ecbch UBND t\u1ec9nh Thanh H\u00f3a L\u00ea \u0110\u1ee9c Giang c\u00f9ng \u0111\u1ed3ng ph\u1ea1m t\u1ea1i t\u00f2",
-    "EVG: CTCP T\u1eadp \u0111o\u00e0n EverLand - EVERLAND GROUP., JSC - VietstockFinance",
-    "Why Simpson (SSD) stock is trading up today - TradingView",
-    "Medicare used AI to pre-approve patient care, and it immediately led to a large ",
-    "Alphabet earnings miss reflects first real sign that AI is taking a bite out of ",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
     "TD makes moving money to a TD account faster and easier - TradingView",
     "The Fed held off on a rate hike. Today\u2019s GDP and inflation reports could make wa",
@@ -450,6 +444,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Gen Digital Stocks Rise 12.42% With a Higher Annual Earnings Floor - TradingView",
     "Why Alphabet\u2019s stock is on track for its worst day ever after the latest results",
-    "Polymarket reports outage on international exchange, halts trading"
+    "Polymarket reports outage on international exchange, halts trading",
+    "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank - VietstockFinance",
+    "Sonic Automotive Q3 2026 Earnings Call Is Live - TradingView",
+    "\u2018The $100 level is ours for awhile\u2019: Oil won\u2019t be getting cheap anytime soon, no",
+    "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. ",
+    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+    "Equinor Doubles Estimate for Major North Sea Gas Discovery"
   ]
 }
