@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793235756.0999758,
+  "last_signals": 1793236413.7769334,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793221723.9250176,
+    "5575146754|Gold|1H|range_in": 1793236413.7769334,
     "5575146754|Gold|4H|range_in": 1793232669.0754788,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793235129.9301445,
+    "Ethereum|4H:top": 1793236415.1357741,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793235129.5638113,
+    "Bitcoin|4H:top": 1793236414.7596195,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793235745.4087274,
-  "last_news": 1793235756.0990121,
+  "last_analysis": 1793236387.7505007,
+  "last_news": 1793236413.7762356,
   "seen_news": [
-    "Heating your home with oil could cost $750 more this winter. Read this before yo",
-    "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-    "China's families are now supporting more old people than kids",
-    "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
-    "Belgium stocks higher at close of trade; BEL 20 up 0.24%",
-    "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
     "\u201c\u0110\u1ea1i gia\u201d b\u00e1n l\u1ebb \u0111em h\u01a1n 19.000 t\u1ef7 \u0111\u1ea7u t\u01b0 tr\u00e1i phi\u1ebfu, \u201c\u1ea9n s\u1ed1\u201d h\u01a1n 6.000 t\u1ef7 r\u00f3t v",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "Mersen Q3 2026 Earnings Call Is Live - TradingView",
@@ -452,6 +446,12 @@
     "Samsung Electronics third-quarter profit in line with estimates amid rising dema",
     "Will I get the \u00a3100 energy payment and when will I receive it?",
     "Bloomberg, 2 trading firms subscribe to faster access to Trump posts- Reuters",
-    "UK budget: Growth forecasts cut as Healey unveils \u00a315 billion fiscal buffer"
+    "UK budget: Growth forecasts cut as Healey unveils \u00a315 billion fiscal buffer",
+    "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "Capital Properties, Inc. (CPTP) Declares $0.09 Quarterly Dividend - TradingView",
+    "Inside India newsletter: New Delhi approves $22 billion in military spending ami",
+    "Microsoft profits surge days after announcing major job cuts",
+    "Energy Crisis Shapes UK Budget as Chancellor Faces Pressure Over Defence Spendin",
+    "Samsung posts record profit in Q3 on AI chip boom"
   ]
 }
