@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793280852.2371573,
+  "last_signals": 1793281465.6048493,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -72,7 +72,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793280853.675555,
+    "EUR/USD|4H:bot": 1793281467.3916593,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793223933.8571868,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793280842.4857032,
-  "last_news": 1793280852.2362747,
+  "last_analysis": 1793281457.9037485,
+  "last_news": 1793281465.6039083,
   "seen_news": [
-    "Solar Has Overtaken Nuclear in the Global Power Mix",
-    "Canadian dollar holds gains after Bank of Canada delivers rate hike",
-    "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepen",
-    "Qu\u1ef9 Thi\u1ec7n T\u00e2m c\u1ee7a Vingroup t\u00e0i tr\u1ee3 ch\u01b0\u01a1ng tr\u00ecnh c\u1ea3nh b\u00e1o s\u1edbm thi\u00ean tai",
-    "PHP: CTCP C\u1ea3ng H\u1ea3i Ph\u00f2ng - Port of Haiphong - VietstockFinance",
-    "CONMED Corporation Stock 12\u2011Month Price Target Raised to $46, Implies 1% Upside ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "Novartis AG Stock 12\u2011Month Price Target Raised to $158.2, Implies 1% Upside - Tr",
     "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -450,6 +444,12 @@
     "What the Budget offers for under 25s - and what it leaves out",
     "Iran War Hikes EU\u2019s Oil Import Bill By $11 Billion Per Month",
     "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-    "US initial jobless claims 194K vs 199K expected"
+    "US initial jobless claims 194K vs 199K expected",
+    "US September PCE core inflation +0.5% m/m vs +0.3% expected",
+    "2 th\u00f3i quen t\u00e0n ph\u00e1 gan nhi\u1ec1u ng\u01b0\u1eddi Vi\u1ec7t m\u1eafc: S\u1ed1 2 l\u00e0m t\u0103ng nguy c\u01a1 ung th\u01b0",
+    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "CEO acquires additional shares in eEducation Albert AB - TradingView",
+    "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings.",
+    "Jim Cramer's top 10 things to watch in the stock market Thursday"
   ]
 }
