@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793238923.6928422,
+  "last_signals": 1793239538.5199788,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793236413.7769334,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,7 +63,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -72,7 +72,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793238911.8602715,
-  "last_news": 1793238919.7807846,
+  "last_analysis": 1793239529.8754854,
+  "last_news": 1793239538.5189397,
   "seen_news": [
-    "Fed holds rates steady despite concerns over inflation",
-    "Healey tells departments to make 1% cuts to fund defence",
-    "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens",
-    "Palantir defense chief says AI advances may force China to invade Taiwan",
-    "Ethereum trims losses as US-Iran deal optimism improves risk sentiment, while tr",
-    "T\u00e0i kho\u1ea3n Vietcombank, VietinBank, BIDV, Agribank, Sacombank,... s\u1ebd t\u1ef1 \u0111\u1ed9ng tr\u1eeb ",
     "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wr",
     "Tax thresholds remain unchanged - here's what it means for your pay",
     "GDP, core PCE, and jobless claims among economic data due Thursday",
@@ -452,6 +446,12 @@
     "L\u1eddi khuy\u00ean l\u00e0m \u0103n sau R\u1eb1m th\u00e1ng 9: 3 con gi\u00e1p d\u1ec5 g\u1eb7p kh\u00e1ch t\u1ed1t, 1 con gi\u00e1p c\u1ea7n c",
     "EVG: CTCP T\u1eadp \u0111o\u00e0n EverLand - EVERLAND GROUP., JSC - VietstockFinance",
     "Goobit Group AB (publ) (BTCX) Boosts Rights Issue Cover to 62.4% - TradingView",
-    "Here is what changed in the new Fed statement"
+    "Here is what changed in the new Fed statement",
+    "X\u1ebfp h\u1ea1ng t\u00edn nhi\u1ec7m tr\u00e1i phi\u1ebfu ng\u00e2n h\u00e0ng Vi\u1ec7t Nam c\u00f2n h\u1ea1n ch\u1ebf, nh\u00e0 \u0111\u1ea7u t\u01b0 kh\u00f3 \u0111\u1ecbn",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
+    "First Tick: Top global cues to watch in today's trade - TradingView",
+    "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Ala",
+    "Dharshini David: Healey buys himself some time, but big questions still unanswer",
+    "SK Hynix hits 50% Fib & cloud resistance: Live levels"
   ]
 }
