@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793240780.7806978,
+  "last_signals": 1793241399.6946108,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793236413.7769334,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -65,11 +65,11 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793240771.6610246,
-  "last_news": 1793240780.7799675,
+  "last_analysis": 1793241392.0493405,
+  "last_news": 1793241399.678423,
   "seen_news": [
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
-    "OpenAI And ServiceNow Expand Partnership Across Enterprise Workflows - TradingVi",
-    "A Democratic win in midterms could put prediction markets and the CFTC in the ho",
-    "Living with a stink? Technology might help",
-    "China\u2019s Wind and Solar Power Capacity Surpasses 2 Terawatts",
-    "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
     "I\u2019m planning a trip to Europe. Is it dumb to take travel advice from influencers",
     "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
@@ -452,6 +446,12 @@
     "IEX: Record Q3 results and robust orders lifted FY 2026 guidance - TradingView",
     "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
     "Tax thresholds remain unchanged - here's what it means for your pay",
-    "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens"
+    "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens",
+    "Alphabet slides over 9% after hours as search miss and $9bn cash burn overshadow",
+    "\u0110\u1ec1 xu\u1ea5t gi\u1ea3m ti\u1ec1n ph\u1ea1t doanh nghi\u1ec7p 'b\u1ecf kh\u00f4ng' nhi\u1ec1u n\u0103m",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "Why Euronet Worldwide (EEFT) stock is falling today - TradingView",
+    "Fed chairman talks tough on inflation \u2014 plus, what's behind Micron's big rally",
+    "Healey tells departments to make 1% cuts to fund defence"
   ]
 }
