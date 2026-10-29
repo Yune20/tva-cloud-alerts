@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793233278.584726,
+  "last_signals": 1793233897.2393486,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793232669.0754788,
@@ -64,12 +64,12 @@
     "US 10Y": true,
     "Gold|1H": true,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -87,7 +87,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793233279.6318774,
+    "Ethereum|4H:top": 1793233897.8778968,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793233279.4158413,
+    "Bitcoin|4H:top": 1793233897.718471,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793233269.0180726,
-  "last_news": 1793233278.5841172,
+  "last_analysis": 1793233888.7930968,
+  "last_news": 1793233897.2383282,
   "seen_news": [
-    "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:744d19488094b:0 - TradingV",
-    "These software stocks could be winners as earnings season kicks into high gear",
-    "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for si",
-    "Will I get the \u00a3100 energy payment and when will I receive it?",
-    "Why is Cerebras Systems stock sliding today?",
-    "Germany consumer sentiment remains weak ahead of November as inflation fears clo",
     "Ford Motor is set to report earnings after the bell. Here's what Wall Street exp",
     "Donald Trump's biggest economic problem looks strangely familiar",
     "Brazil\u2019s real weakens 12% as Lula wins reelection",
@@ -452,6 +446,12 @@
     "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
     "International Flavors & Fragrances declares $0.40 dividend - TradingView",
     "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoid",
-    "Oracle stock pops 11% as long-term revenue forecast and clarity on financing eas"
+    "Oracle stock pops 11% as long-term revenue forecast and clarity on financing eas",
+    "HII: CTCP An Ti\u1ebfn Industries - ANTIEN INDUSTRIES.,JSC - VietstockFinance",
+    "Fed pauses, Big Tech reports - TradingView",
+    "The major reason Microsoft\u2019s stock is heading higher after earnings",
+    "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burge",
+    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+    "Exclusive-Bloomberg, two trading firms agree to pay Trump\u2019s Truth Social for fas"
   ]
 }
