@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793298625.729828,
+  "last_signals": 1793299248.035749,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793292716.7960658,
@@ -68,7 +68,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793298626.5352356,
+    "Bitcoin|4H:top": 1793299249.1619022,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793298627.8924356,
+    "EUR/USD|1D:bot": 1793299250.6557024,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793298617.7207305,
-  "last_news": 1793298625.728978,
+  "last_analysis": 1793299239.2146811,
+  "last_news": 1793299248.0351431,
   "seen_news": [
-    "X\u1eed l\u00fd 12 d\u1ef1 \u00e1n vi ph\u1ea1m c\u1ee7a T\u1eadp \u0111o\u00e0n M\u01b0\u1eddng Th\u00e0nh: Ch\u1ee7 \u0111\u1ea7u t\u01b0 ph\u1ea3i n\u1ed9p v\u00e0 chi tr\u1ea3 ",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: T\u00ecm \u0111i\u1ec3m c\u00e2n b\u1eb1ng - L\u00e3i su\u1ea5t v\u00e0 d\u00f2ng v\u1ed1n quy\u1ebft \u0111\u1ecbnh nh\u1ecbp h\u1ed3i",
-    "Bull of the Day: Eni (E) - TradingView",
-    "\u2018There may be better investment options\u2019: My church received $1.5 million from a",
-    "European Central Bank President Lagarde to stand down in Februrary",
-    "Dharshini David: Healey buys himself some time, but big questions still unanswer",
     "ARES MANAGEMENT CORPORATION REPORTS THIRD QUARTER 2026 RESULTS - TradingView",
     "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda sho",
     "Tax thresholds remain unchanged - here's what it means for your pay",
@@ -450,6 +444,12 @@
     "AMD Stocks Decline With Oracle Rollout Details Still to Come - TradingView",
     "All the reasons Marvell investors are \u2018freaking out\u2019 as Lumentum deal rumors swi",
     "Big Oil earnings are set to surge. Why investors may want to be cautious",
-    "Poundland's future hangs in the balance as chain edges towards collapse"
+    "Poundland's future hangs in the balance as chain edges towards collapse",
+    "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd",
+    "Will I get the \u00a3100 energy payment and when will I receive it?",
+    "EU Rules Out New Climate Finance Pledges at COP31",
+    "Microsoft expects to raise $25 billion in US bond sale, source says",
+    "Bitcoin extends consolidation as neutral FOMC decision fails to spark a relief r",
+    "M\u1ed9t ph\u01b0\u1eddng \u1edf Vi\u1ec7t Nam s\u1eafp \u0111\u00f3n 16.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ea7u t\u01b0, l\u00e0m 15 tuy\u1ebfn \u0111\u01b0\u1eddng 1.600 t\u1ef7"
   ]
 }
