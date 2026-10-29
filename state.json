@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793244832.3141906,
+  "last_signals": 1793245156.9034941,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793236413.7769334,
+    "5575146754|Gold|1H|range_in": 1793245156.9034941,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -139,7 +139,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
-    "Ethereum|4H:bot": 1793244833.0646665,
+    "Ethereum|4H:bot": 1793245158.6420178,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
     "EUR/USD|4H:top": 1792131718.2467768,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793244533.7405894,
-  "last_news": 1793244832.3134527,
+  "last_analysis": 1793245146.0308895,
+  "last_news": 1793245156.9029024,
   "seen_news": [
-    "India's Gasoline Demand Could Peak by 2035 as EVs Gain Ground",
-    "Oracle eases AI spending worries with plan to turn cash flow positive",
-    "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
-    "Vi\u1ec7t Nam c\u00f3 gia \u0111\u00ecnh v\u1edbi g\u1ea7n 30 b\u00e1c s\u0129, nha s\u0129, d\u01b0\u1ee3c s\u0129: M\u1ed9t ng\u01b0\u1eddi t\u1eebng c\u00f9ng \u0111\u1ea1i",
-    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
-    "SA Asks: What are the best defensive stock plays right now? - TradingView",
     "B\u1ea5t ng\u1edd v\u1edbi l\u1ee3i nhu\u1eadn B\u00e1ch H\u00f3a Xanh trong qu\u00fd 3",
     "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc",
     "Phillips 66 Q3 2026 Earnings Call Is Live - TradingView",
@@ -452,6 +446,12 @@
     "Why is Alphabet stock plunging afterhours today?",
     "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
     "Ly h\u00f4n g\u1ea7n 3 th\u00e1ng, ng\u01b0\u1eddi ph\u1ee5 n\u1eef b\u1ea5t ng\u1edd b\u1ecb ng\u00e2n h\u00e0ng y\u00eau c\u1ea7u tr\u1ea3 kho\u1ea3n n\u1ee3 h\u01a1n 1",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance"
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Hello Kitty maker ends collab with Japanese spy drama after backlash in China",
+    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
+    "US Wholesale inventories 0.6% vs 0.5% estimate",
+    "California Fitness & Yoga n\u1ee3 h\u01a1n 13 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n thu\u1ebf v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i",
+    "FOX: CTCP Vi\u1ec5n th\u00f4ng FPT - FPT TELECOM - VietstockFinance",
+    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV"
   ]
 }
