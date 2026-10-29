@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793293333.31776,
-  "last_bot4": 1793302908.7966688,
+  "last_bot4": 1793303576.5052648,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793302908.7975185,
+  "last_signals": 1793303576.5059392,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793302909.9481559,
+    "EUR/USD|1D:bot": 1793303578.7127347,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793296773.2398,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793303212.343642,
-  "last_news": 1793302904.9876044,
+  "last_analysis": 1793303567.2330487,
+  "last_news": 1793303576.5044503,
   "seen_news": [
-    "Sterling today: Pound edges lower as dollar firms ahead of US PCE, GDP data",
-    "Crude oil remains capped by renewed US-Iran deal hopes, but upside risks persist",
-    "Mercedes-Benz ra m\u1eaft h\u00e0ng lo\u1ea1t xe \u0111i\u1ec7n ho\u00e1 m\u1edbi t\u1ea1i Vi\u1ec7t Nam, gi\u00e1 t\u1eeb 1,6 \u0111\u1ebfn 8,9 ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
-    "Clorox appoints Fabian Garcia CEO as Linda Rendle steps down - TradingView",
-    "You can\u2019t rely on the S&P 500 as much as you may think",
     "16 tu\u1ed5i b\u1ecf h\u1ecdc l\u00e0m c\u00f4ng nh\u00e2n ki\u1ebfm 26 ngh\u00ecn/ng\u00e0y, 40 n\u0103m sau tr\u1edf th\u00e0nh \u201cph\u00fa b\u00e0\u201d s",
     "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM - Viets",
     "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
@@ -450,6 +444,12 @@
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "PZZA Q3'26 Earnings: revenue estimate is 458.70M USD - TradingView",
     "Alphabet\u2019s stock just triggered a \u2018death cross.\u2019 Could the worst of the selloff ",
-    "Alphabet earnings miss reflects first real sign that AI is taking a bite out of "
+    "Alphabet earnings miss reflects first real sign that AI is taking a bite out of ",
+    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
+    "FTI Consulting Q3 2026 Earnings Call Is Live - TradingView",
+    "It\u2019s the strangest job market the U.S. has ever seen. The low-hire, low-fire eco",
+    "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
+    "Tax thresholds remain unchanged - here's what it means for your pay",
+    "Amazon earnings watch: AWS growth, capex and margins in focus"
   ]
 }
