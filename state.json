@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793232669.0754788,
+  "last_signals": 1793233278.584726,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793221723.9250176,
     "5575146754|Gold|4H|range_in": 1793232669.0754788,
@@ -73,7 +73,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
@@ -81,12 +81,12 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -119,9 +119,9 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793232669.8933103,
+    "Ethereum|4H:top": 1793233279.6318774,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793232669.6920166,
+    "Bitcoin|4H:top": 1793233279.4158413,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793232660.6154165,
-  "last_news": 1793232669.0744805,
+  "last_analysis": 1793233269.0180726,
+  "last_news": 1793233278.5841172,
   "seen_news": [
-    "My husband wants to sell our $1.5 million home and downsize. But this is where w",
-    "Alphabet set to report third-quarter earnings after the bell",
-    "The tech helping crack decades-old cold cases",
-    "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
-    "Wall Street makes small moves ahead of Fed rate decision, Mag 7 earnings",
-    "What are the main events for today?",
     "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:744d19488094b:0 - TradingV",
     "These software stocks could be winners as earnings season kicks into high gear",
     "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for si",
@@ -452,6 +446,12 @@
     "B\u1ea5t ng\u1edd l\u00e3i su\u1ea5t 'si\u00eau th\u1ea5p' t\u1ea1i SCB",
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
     "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
-    "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny"
+    "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+    "Peltz-led group offers $1.4bn to take Wendy\u2019s private at $7.35 a share, a 20% pr",
+    "Ph\u00e1t hi\u1ec7n b\u1ea3n l\u00e0ng \u1edf \u0111\u1ed9 cao h\u01a1n 1.000m t\u1ea1i Vi\u1ec7t Nam, 7 th\u00e1ng m\u1ed7i n\u0103m m\u00e1i nh\u00e0 ph\u1ee7",
+    "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
+    "International Flavors & Fragrances declares $0.40 dividend - TradingView",
+    "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoid",
+    "Oracle stock pops 11% as long-term revenue forecast and clarity on financing eas"
   ]
 }
