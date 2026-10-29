@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793283056.7798908,
+  "last_signals": 1793283679.7027037,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -74,7 +74,7 @@
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
-    "US30|1D": true,
+    "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
@@ -126,10 +126,10 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1792851117.2209759,
-    "EUR/USD|4H:bot": 1793283058.0424767,
+    "EUR/USD|4H:bot": 1793283681.3156514,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793283058.042511,
+    "EUR/USD|1D:bot": 1793283681.3156698,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793283045.9286373,
-  "last_news": 1793283056.7788968,
+  "last_analysis": 1793283667.6941476,
+  "last_news": 1793283679.6695862,
   "seen_news": [
-    "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
-    "Hitachi shares slide as Q2 profit drop overshadows strong top-line earnings",
-    "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike ",
-    "\u00d4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 v\u1eeba m\u1edf th\u00eam ph\u00f2ng tr\u01b0ng b\u00e0y tr\u00ean \u0111\u01b0\u1eddng Ho\u00e0ng V\u0103n Th\u1ee5, TP.H",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
-    "ZAWYA: Saudi: Absher carries out 49mln transactions in September - TradingView",
     "Germany consumer sentiment remains weak ahead of November as inflation fears clo",
     "Cuba \u0111\u00f3n tin vui t\u1eeb Li\u00ean H\u1ee3p Qu\u1ed1c, c\u00f3 t\u1edbi 130 qu\u1ed1c gia \u0111\u1ed3ng lo\u1ea1t \u1ee7ng h\u1ed9",
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
@@ -450,6 +444,12 @@
     "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping po",
     "Your pay, energy bills and savings: How the Budget affects you",
     "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
-    "Sterling hits 17-Month high vs Euro as ECB holds rates"
+    "Sterling hits 17-Month high vs Euro as ECB holds rates",
+    "Home prices fall and rents rise, both for the first time in three years",
+    "Healey provides some breathing space but things still set to get worse for most",
+    "Solar Has Overtaken Nuclear in the Global Power Mix",
+    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
+    "Lagarde: Growth should be underpinned in the near term",
+    "\u0110\u01b0\u1ee3c ng\u1ee3i ca l\u00e0 th\u1ebf nh\u01b0ng khi \u0111\u1eb7t l\u00ean b\u00e0n c\u00e2n, m\u00e1y bay Nga v\u1eabn \"l\u00e9p v\u1ebf\" tr\u01b0\u1edbc \u0111\u1ed1"
   ]
 }
