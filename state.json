@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793273129.171157,
+  "last_signals": 1793273747.1355991,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793273120.018474,
-  "last_news": 1793273129.1703722,
+  "last_analysis": 1793273735.8474329,
+  "last_news": 1793273747.1347742,
   "seen_news": [
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Living with a stink? Technology might help",
-    "Why is Alphabet stock plunging afterhours today?",
-    "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
-    "Ly h\u00f4n g\u1ea7n 3 th\u00e1ng, ng\u01b0\u1eddi ph\u1ee5 n\u1eef b\u1ea5t ng\u1edd b\u1ecb ng\u00e2n h\u00e0ng y\u00eau c\u1ea7u tr\u1ea3 kho\u1ea3n n\u1ee3 h\u01a1n 1",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Hello Kitty maker ends collab with Japanese spy drama after backlash in China",
     "Sterling today: Pound dips on firm dollar as Fed, budget loom",
     "US Wholesale inventories 0.6% vs 0.5% estimate",
@@ -450,6 +444,12 @@
     "Why is Norwegian Cruise Line stock surging today?",
     "Bitcoin's $80,000 lifeline is looking rather fragile as tech stocks stumble",
     "14 b\u1ecb c\u00e1o v\u1eadn h\u00e0nh website b\u00f3ng \u0111\u00e1 l\u1eadu \u2018B\u00fan Ch\u1ea3 TV\u2019 l\u0129nh \u00e1n",
-    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance"
+    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
+    "Sterling today: Pound edges lower as dollar firms ahead of US PCE, GDP data",
+    "Crude oil remains capped by renewed US-Iran deal hopes, but upside risks persist",
+    "Mercedes-Benz ra m\u1eaft h\u00e0ng lo\u1ea1t xe \u0111i\u1ec7n ho\u00e1 m\u1edbi t\u1ea1i Vi\u1ec7t Nam, gi\u00e1 t\u1eeb 1,6 \u0111\u1ebfn 8,9 ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
+    "Clorox appoints Fabian Garcia CEO as Linda Rendle steps down - TradingView",
+    "You can\u2019t rely on the S&P 500 as much as you may think"
   ]
 }
