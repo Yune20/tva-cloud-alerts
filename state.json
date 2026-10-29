@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793289838.870148,
+  "last_signals": 1793290467.1553082,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793289840.5624845,
+    "EUR/USD|1D:bot": 1793290469.2970436,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1792666884.55096,
     "Gold|4H:bot": 1793074108.4399478,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793289829.5392048,
-  "last_news": 1793289838.8690042,
+  "last_analysis": 1793290456.9301205,
+  "last_news": 1793290467.1542726,
   "seen_news": [
-    "ASE Technology Q3 2026 Earnings Call Is Live - TradingView",
-    "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
-    "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loan",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "WPP says turnaround on track as third-quarter revenue decline narrows",
-    "IC Launches New Guillermo Ochoa Campaign Focused on Performance Under Pressure",
     "Sinh vi\u00ean tham gia x\u00e2y d\u1ef1ng \u201cl\u00e1 ch\u1eafn s\u1ed1\u201d ch\u1ed1ng l\u1eeba \u0111\u1ea3o tr\u1ef1c tuy\u1ebfn",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Brown & Brown Q3 2026 Earnings Call Is Live - TradingView",
@@ -450,6 +444,12 @@
     "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive",
     "V\u00ec sao l\u00f4ng m\u00e0y \u0111\u00e0n \u00f4ng c\u00e0ng c\u00f3 tu\u1ed5i c\u00e0ng d\u00e0i, \u0111\u1eebng v\u1ed9i m\u1eebng v\u00ec ngh\u0129 m\u00ecnh s\u1ed1ng t",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "Strategic diversification is becoming increasingly important - TradingView"
+    "Strategic diversification is becoming increasingly important - TradingView",
+    "Gold slips below its 100-hour MA as interest-rate concerns weigh on the recovery",
+    "Ronaldo l\u00ean ti\u1ebfng sau khi th\u1eafng Messi gi\u00e0nh Qu\u1ea3 b\u00f3ng V\u00e0ng v\u0129 \u0111\u1ea1i nh\u1ea5t l\u1ecbch s\u1eed",
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "Intel's 158% Rally Faces Fresh Earnings Test - TradingView",
+    "Looking for income? These dividend stocks have high yields that seem well suppor",
+    "ServiceNow shares plunge 25% after earnings revive AI disruption fears"
   ]
 }
