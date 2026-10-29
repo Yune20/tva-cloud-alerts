@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793316673.5948713,
+  "last_signals": 1793317288.9399257,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793314159.237486,
-    "5575146754|Gold|4H|range_in": 1793302908.7975185,
+    "5575146754|Gold|4H|range_in": 1793317288.9399257,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -140,7 +140,7 @@
     "Ethereum|4H:bot": 1793249822.8536267,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
-    "EUR/USD|4H:top": 1793316675.6470468,
+    "EUR/USD|4H:top": 1793317290.131153,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
     "GBP/USD|1D:top": 1792892270.739671,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793316665.1448472,
-  "last_news": 1793316673.5940907,
+  "last_analysis": 1793317280.698082,
+  "last_news": 1793317288.9387138,
   "seen_news": [
-    "\u2018Fair prices for the buyers\u2019: UK small caps sold too cheaply, fund managers say",
-    "investingLive European session wrap: Stocks diverge as markets brace for US infl",
-    "\u0110\u1ec1 xu\u1ea5t b\u1ea3ng gi\u00e1 \u0111\u1ea5t \u0111\u1ecbnh k\u1ef3 5 n\u0103m, h\u1ec7 s\u1ed1 \u0111i\u1ec1u ch\u1ec9nh r\u00e0 so\u00e1t \u00edt nh\u1ea5t m\u1ed7i n\u0103m m\u1ed9t",
-    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
-    "EXE Q3 Earnings Call Eyes Marketing Growth Amid Gas Price Weakness - TradingView",
-    "Caterpillar\u2019s stock is sinking. Here\u2019s what that means for the Dow.",
     "GDP M\u1ef9 b\u1ea5t ng\u1edd t\u0103ng v\u01b0\u1ee3t d\u1ef1 b\u00e1o, th\u01b0\u1edbc \u0111o l\u1ea1m ph\u00e1t ti\u1ebfp t\u1ee5c neo cao, x\u00e1c su\u1ea5t Fe",
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
     "PURR Q1'27 Earnings: revenue estimate is 11.22M USD - TradingView",
@@ -450,6 +444,12 @@
     "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
     "\u0110\u1ea5u gi\u00e1 3 c\u0103n h\u1ed9 c\u1ee7a c\u1ef1u Ch\u1ee7 t\u1ecbch c\u00f4ng ty kinh doanh nh\u00e0 nh\u01b0ng kh\u00f4ng ai mua",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Jefferies downgrades Artiva Biotherapeutics to Hold from Buy, sets price target "
+    "Jefferies downgrades Artiva Biotherapeutics to Hold from Buy, sets price target ",
+    "ECB to hike once more in December as tighter conditions may not suffice: Deutsch",
+    "V\u01b0\u1ee3t qua M\u1ef9, c\u00f4ng tr\u00ecnh s\u1edf h\u1eefu ballroom l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi do Sun Group \u0111\u1ea7u t\u01b0 ho",
+    "TCH: CTCP \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy - TCH - VietstockFinance",
+    "Brazilian Real Weakens as Fiscal Concerns Persist - TradingView",
+    "Why Intel\u2019s stock is sinking toward its worst drop in two years",
+    "DOJ amends Alaska Senate suit to suggest Peltola campaign misled court over Sull"
   ]
 }
