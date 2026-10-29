@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793240157.4590013,
+  "last_signals": 1793240780.7806978,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793236413.7769334,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,13 +63,13 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793240148.5147874,
-  "last_news": 1793240157.4580967,
+  "last_analysis": 1793240771.6610246,
+  "last_news": 1793240780.7799675,
   "seen_news": [
-    "Microsoft, and Alphabet earnings after the close. What is expected?",
-    "Fed gi\u1eef nguy\u00ean l\u00e3i su\u1ea5t b\u1ea5t ch\u1ea5p l\u1ea1m ph\u00e1t leo thang, 2 quan ch\u1ee9c mu\u1ed1n t\u0103ng ngay",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
-    "Alligator Bioscience AB (ATORX) Proposes 1-for-1,000 Reverse Split - TradingView",
-    "DraftKings CEO Jason Robins says parents should talk with kids about responsible",
-    "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l",
     "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
     "OpenAI And ServiceNow Expand Partnership Across Enterprise Workflows - TradingVi",
     "A Democratic win in midterms could put prediction markets and the CFTC in the ho",
@@ -452,6 +446,12 @@
     "Viettel ch\u1ebf t\u1ea1o ph\u00e1o t\u1ef1 h\u00e0nh n\u1eb7ng 34 t\u1ea5n, n\u00f2ng 152 mm, b\u1eafn xa 24 km: B\u1ed9 Qu\u1ed1c ph\u00f2",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
     "Bitcoin technicals: Bulls battling at key anchored VWAP confluence - TradingView",
-    "Samsung Electronics shares slid despite record profit in the third-quarter"
+    "Samsung Electronics shares slid despite record profit in the third-quarter",
+    "Nh\u00ecn Ninh D\u01b0\u01a1ng Lan Ng\u1ecdc v\u00e0 Steven Nguy\u1ec5n m\u00e0 h\u1ebft mu\u1ed1n l\u1ea5y ch\u1ed3ng",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "IEX: Record Q3 results and robust orders lifted FY 2026 guidance - TradingView",
+    "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
+    "Tax thresholds remain unchanged - here's what it means for your pay",
+    "China Secures Massive Discount on Russian Gas as Moscow\u2019s Leverage Weakens"
   ]
 }
