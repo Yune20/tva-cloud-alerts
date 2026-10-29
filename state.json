@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793316009.2823122,
+  "last_signals": 1793316673.5948713,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793314159.237486,
     "5575146754|Gold|4H|range_in": 1793302908.7975185,
@@ -61,7 +61,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -87,7 +87,7 @@
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -140,7 +140,7 @@
     "Ethereum|4H:bot": 1793249822.8536267,
     "USD/JPY|4H:bot": 1792720397.6844857,
     "JPY Index|4H:bot": 1792720398.009641,
-    "EUR/USD|4H:top": 1793316010.918126,
+    "EUR/USD|4H:top": 1793316675.6470468,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
     "GBP/USD|1D:top": 1792892270.739671,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793316000.9928005,
-  "last_news": 1793316009.2811332,
+  "last_analysis": 1793316665.1448472,
+  "last_news": 1793316673.5940907,
   "seen_news": [
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "U.S. Natural Gas Production Hits New Records as Demand Surges",
-    "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
-    "The Nasdaq composite and Nasdaq 100 are back below their 100 day MAs increasing ",
-    "Ca s\u0129 Ph\u00fac Ti\u1ec7p k\u1ec3 chuy\u1ec7n \u0111\u01b0\u1ee3c NSND Quang Th\u1ecd g\u1ecdi \u0111\u1ebfn nh\u00e0, t\u1ef1 tay h\u1ea7m g\u00e0 b\u1ed3i b\u1ed5",
-    "TCH: CTCP \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy - TCH - VietstockFinance",
     "\u2018Fair prices for the buyers\u2019: UK small caps sold too cheaply, fund managers say",
     "investingLive European session wrap: Stocks diverge as markets brace for US infl",
     "\u0110\u1ec1 xu\u1ea5t b\u1ea3ng gi\u00e1 \u0111\u1ea5t \u0111\u1ecbnh k\u1ef3 5 n\u0103m, h\u1ec7 s\u1ed1 \u0111i\u1ec1u ch\u1ec9nh r\u00e0 so\u00e1t \u00edt nh\u1ea5t m\u1ed7i n\u0103m m\u1ed9t",
@@ -450,6 +444,12 @@
     "UK National Grid to Extend France Power Link Operation to 2050",
     "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
     "RBA set for back-to-back hike after hot CPI, says Natixis\u2019 Garcia Herrero",
-    "25 m\u00f9a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia ch\u1ec9 c\u00f3 4 n\u1eef qu\u00e1n qu\u00e2n, h\u1ecd l\u00e0 ai?"
+    "25 m\u00f9a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia ch\u1ec9 c\u00f3 4 n\u1eef qu\u00e1n qu\u00e2n, h\u1ecd l\u00e0 ai?",
+    "Investors Are Piling Into Dangote. But Is the Price Right?",
+    "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher r",
+    "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
+    "\u0110\u1ea5u gi\u00e1 3 c\u0103n h\u1ed9 c\u1ee7a c\u1ef1u Ch\u1ee7 t\u1ecbch c\u00f4ng ty kinh doanh nh\u00e0 nh\u01b0ng kh\u00f4ng ai mua",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Jefferies downgrades Artiva Biotherapeutics to Hold from Buy, sets price target "
   ]
 }
