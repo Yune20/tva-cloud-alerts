@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793261641.1794593,
+  "last_signals": 1793262253.5750449,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -79,7 +79,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793261632.247518,
-  "last_news": 1793261641.178618,
+  "last_analysis": 1793262243.7819233,
+  "last_news": 1793262253.5742242,
   "seen_news": [
-    "Peltz-led group offers $1.4bn to take Wendy\u2019s private at $7.35 a share, a 20% pr",
-    "Ph\u00e1t hi\u1ec7n b\u1ea3n l\u00e0ng \u1edf \u0111\u1ed9 cao h\u01a1n 1.000m t\u1ea1i Vi\u1ec7t Nam, 7 th\u00e1ng m\u1ed7i n\u0103m m\u00e1i nh\u00e0 ph\u1ee7",
-    "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
-    "International Flavors & Fragrances declares $0.40 dividend - TradingView",
-    "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoid",
-    "Oracle stock pops 11% as long-term revenue forecast and clarity on financing eas",
     "HII: CTCP An Ti\u1ebfn Industries - ANTIEN INDUSTRIES.,JSC - VietstockFinance",
     "Fed pauses, Big Tech reports - TradingView",
     "The major reason Microsoft\u2019s stock is heading higher after earnings",
@@ -450,6 +444,12 @@
     "Chart of the day: Gold shrugs off Fed drama and big tech jitters, but for how mu",
     "C\u00f4ng an ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 \u1ea3nh th\u1ebb C\u0103n c\u01b0\u1edbc c\u1ee7a ng\u01b0\u1eddi d\u00e2n",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Anduril, Qualcomm team up to build US-made laptops - TradingView"
+    "Anduril, Qualcomm team up to build US-made laptops - TradingView",
+    "Velaris Markets offers MT5 trading with no minimum deposit and spreads from 0.0 ",
+    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam, kh\u00e1m x\u00e9t n\u01a1i \u1edf, n\u01a1i l\u00e0m vi\u1ec7c c\u1ee7a Gi\u00e1m \u0111\u1ed1c H\u1ed3 Th\u1ecb Ki\u1ec3",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
+    "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace",
+    "The Indian workers filming their work to train AI"
   ]
 }
