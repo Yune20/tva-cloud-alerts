@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793250434.755206,
+  "last_signals": 1793251056.1452713,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,7 +81,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793250424.0876594,
-  "last_news": 1793250434.7544017,
+  "last_analysis": 1793251038.7678645,
+  "last_news": 1793251056.0579367,
   "seen_news": [
-    "Ford\u2019s third-quarter core profit ticks higher despite rising commodity costs",
-    "Fl\u00e1vio Bolsonaro reportedly flees Brazil for the US after election loss",
-    "S\u1ef1 th\u1eadt v\u1ec1 F88 kh\u00f4ng ph\u1ea3i ai c\u0169ng bi\u1ebft",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Flagstar Bank, N.A. Sets $0.01 Quarterly Common Dividend - TradingView",
-    "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
     "Alphabet holds 2026 capex unchanged, expects 'significant' increase in 2027 \u2014 sh",
     "Budget 2026: Key points at a glance",
     "Solar Has Overtaken Nuclear in the Global Power Mix",
@@ -452,6 +446,12 @@
     "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most v",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Petrochina shares rise as Q3 profit surges on strong oil prices",
-    "US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next "
+    "US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next ",
+    "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "How long will humans be needed for translation?",
+    "Hyundai Motor reports 5.5% rise in Q3 operating profit, beats forecasts",
+    "Qatari mediators presented Iran with new draft deal; Iran's response expected by",
+    "Tr\u1edf th\u00e0nh \u201cth\u1ebf h\u1ec7 \u1edf thu\u00ea\u201d hay c\u1ed1 mua nh\u00e0 b\u1eb1ng m\u1ecdi gi\u00e1: Chuy\u00ean gia ph\u00e2n t\u00edch, nh\u1ea5",
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - T\u1ea3i t\u00e0i li\u1ec7u - Vietstoc"
   ]
 }
