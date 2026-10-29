@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793263486.2918487,
+  "last_signals": 1793264100.0707994,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793264360,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793263477.3676832,
-  "last_news": 1793263486.2909145,
+  "last_analysis": 1793264093.0491493,
+  "last_news": 1793264100.069985,
   "seen_news": [
-    "Microsoft sees $170bn capex in fiscal 2027 but says it will stay cash flow posit",
-    "B\u00e1n h\u00e0ng online b\u00f9ng n\u1ed5 v\u1edbi 442.000 t\u1ef7 \u0111\u1ed3ng, b\u1ea5t ng\u1edd doanh thu ch\u0103m s\u00f3c th\u00fa c\u01b0ng",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:744d19488094b:0 - TradingV",
-    "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below ex",
-    "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
     "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
     "Brent Retreats on Diplomacy Hopes - TradingView",
     "Samsung Electronics third-quarter profit in line with estimates amid rising dema",
@@ -450,6 +444,12 @@
     "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
     "Fluidra narrows 2026 guidance after third quarter results",
     "Peltz-led group offers $1.4bn to take Wendy\u2019s private at $7.35 a share, a 20% pr",
-    "B\u00e1n c\u0103n h\u1ed9 4 ph\u00f2ng ng\u1ee7, chuy\u1ec3n v\u1ec1 nh\u00e0 60m2: Sau 3 n\u0103m, t\u00f4i m\u1edbi hi\u1ec3u tu\u1ed5i gi\u00e0 c\u1ea7n"
+    "B\u00e1n c\u0103n h\u1ed9 4 ph\u00f2ng ng\u1ee7, chuy\u1ec3n v\u1ec1 nh\u00e0 60m2: Sau 3 n\u0103m, t\u00f4i m\u1edbi hi\u1ec3u tu\u1ed5i gi\u00e0 c\u1ea7n",
+    "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+    "Why is Teladoc Health stock surging today?",
+    "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with t",
+    "L\u1ec7 Quy\u00ean d\u1ea1y con: \"M\u1eb9 \u01b0\u1edbc con t\u1ef1 gi\u00e1c, t\u1ef1 tr\u1ecdng n\u00ean ng\u01b0\u1eddi nh\u01b0 m\u1eb9\"",
+    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
+    "Fed pauses, Big Tech reports - TradingView"
   ]
 }
