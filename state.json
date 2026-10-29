@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793273747.1355991,
+  "last_signals": 1793274369.5710175,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793274046.6283011,
-  "last_news": 1793273747.1347742,
+  "last_analysis": 1793274360.4511561,
+  "last_news": 1793274369.570152,
   "seen_news": [
-    "Hello Kitty maker ends collab with Japanese spy drama after backlash in China",
-    "Sterling today: Pound dips on firm dollar as Fed, budget loom",
-    "US Wholesale inventories 0.6% vs 0.5% estimate",
-    "California Fitness & Yoga n\u1ee3 h\u01a1n 13 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n thu\u1ebf v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i",
-    "FOX: CTCP Vi\u1ec5n th\u00f4ng FPT - FPT TELECOM - VietstockFinance",
-    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
     "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
     "Mazda CX-70 b\u00edt c\u1eeda v\u1ec1 Vi\u1ec7t Nam, \u0111\u00e2y l\u00e0 l\u00fd do",
     "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
@@ -450,6 +444,12 @@
     "Mercedes-Benz ra m\u1eaft h\u00e0ng lo\u1ea1t xe \u0111i\u1ec7n ho\u00e1 m\u1edbi t\u1ea1i Vi\u1ec7t Nam, gi\u00e1 t\u1eeb 1,6 \u0111\u1ebfn 8,9 ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Tri\u1ec3n v\u1ecdng kinh t\u1ebf 4Q2026 - Gi\u1eef nh\u1ecbp t\u0103ng tr\u01b0\u1edfng, v\u1eefng v\u00e0ng v\u1ec1 \u0111\u00ed",
     "Clorox appoints Fabian Garcia CEO as Linda Rendle steps down - TradingView",
-    "You can\u2019t rely on the S&P 500 as much as you may think"
+    "You can\u2019t rely on the S&P 500 as much as you may think",
+    "16 tu\u1ed5i b\u1ecf h\u1ecdc l\u00e0m c\u00f4ng nh\u00e2n ki\u1ebfm 26 ngh\u00ecn/ng\u00e0y, 40 n\u0103m sau tr\u1edf th\u00e0nh \u201cph\u00fa b\u00e0\u201d s",
+    "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM - Viets",
+    "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
+    "Lilly raises outlook for third time this year as Zepbound sales soar",
+    "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+    "The tech helping crack decades-old cold cases"
   ]
 }
