@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793274369.5710175,
+  "last_signals": 1793274977.3168929,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793274360.4511561,
-  "last_news": 1793274369.570152,
+  "last_analysis": 1793274967.9207375,
+  "last_news": 1793274977.3157861,
   "seen_news": [
-    "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
-    "Mazda CX-70 b\u00edt c\u1eeda v\u1ec1 Vi\u1ec7t Nam, \u0111\u00e2y l\u00e0 l\u00fd do",
-    "PC1: CTCP T\u1eadp \u0110o\u00e0n PC1 - PC1 Group - VietstockFinance",
-    "Taboola Brings DeeperDive Answer Engine to Motorola Smartphones - TradingView",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
     "News by CNBC TV18 on TradingView, 2026-10-28 \u2014 cnbctv:855601f93094b:0 - TradingV",
     "Anthropic is AI trade's last big hope for a major IPO this year",
     "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
@@ -450,6 +444,12 @@
     "PrimeXBT Launches Tokenised Stocks on PXTrader 2.0 - TradingView",
     "Lilly raises outlook for third time this year as Zepbound sales soar",
     "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
-    "The tech helping crack decades-old cold cases"
+    "The tech helping crack decades-old cold cases",
+    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
+    "Is it dumb to take travel advice from influencers?",
+    "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows ",
+    "Living with a stink? Technology might help",
+    "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
+    "Why is Glaukos stock surging today?"
   ]
 }
