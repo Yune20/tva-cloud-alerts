@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793265332.1269128,
+  "last_signals": 1793265945.1163223,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,10 +63,10 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -75,8 +75,8 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793265323.2616718,
-  "last_news": 1793265332.1260056,
+  "last_analysis": 1793265937.429041,
+  "last_news": 1793265945.1155708,
   "seen_news": [
-    "Microsoft\u2019s strong quarter backs up its stock rebound. Here's our new price targ",
-    "Donald Trump's biggest economic problem looks strangely familiar",
-    "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
-    "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
-    "RBNZ\u2019s Breman says chances of a December rate hike are high after surprise hold ",
-    "BLV k\u1ef3 c\u1ef1u c\u1ee7a VTV khoe nh\u00e0 \u0111\u1eb9p, d\u00e0n sao Vi\u1ec7t kh\u00f4ng kh\u1ecfi tr\u1ea7m tr\u1ed3",
     "13 \u0111\u1ed1i t\u01b0\u1ee3ng mang hung kh\u00ed, r\u01b0\u1ee3t \u0111u\u1ed5i \u0111\u00e1nh nhau tr\u00ean \u0111\u01b0\u1eddng ph\u1ed1",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - V",
     "Why Simpson (SSD) stock is trading up today - TradingView",
@@ -450,6 +444,12 @@
     "European stock market open: A mixed start as Spanish stocks struggle again, US f",
     "M\u00e2m c\u01a1m nh\u00e0 Harry Kane",
     "GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Spreads Grab the Headlines, but Infrastructure Gets the Institutional Flow - Tra"
+    "Spreads Grab the Headlines, but Infrastructure Gets the Institutional Flow - Tra",
+    "Gold whipsaws on FOMC decision as near-term outlook turns more bullish amid a sl",
+    "Kh\u1edfi c\u00f4ng 6 d\u1ef1 \u00e1n tr\u1ecdng \u0111i\u1ec3m t\u1ea1i Th\u00e1i Nguy\u00ean, l\u1ea7n \u0111\u1ea7u c\u00f3 c\u1ea3ng th\u1ee7y",
+    "NAB: Ng\u00e2n h\u00e0ng TMCP Nam \u00c1 - NamABank - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-27 \u2014 cnbctv:744d19488094b:0 - TradingV",
+    "\u2018Fancy cars hold no appeal\u2019: My wife and I have a 99% chance of outliving our sa",
+    "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-"
   ]
 }
