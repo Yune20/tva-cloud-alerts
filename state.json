@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793258240.63781,
+  "last_signals": 1793258847.7076612,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793249821.8892372,
     "5575146754|Gold|4H|range_in": 1793238923.6928422,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793258232.4333608,
-  "last_news": 1793258240.6368432,
+  "last_analysis": 1793258839.8397741,
+  "last_news": 1793258847.7068954,
   "seen_news": [
-    "Chipotle now has more demand from lower-income diners than higher-income ones",
-    "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loan",
-    "Landline switchover could cut people off in emergency, minister warned",
-    "China\u2019s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
-    "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates",
-    "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields ",
     "PetroChina Q3 Profit Jumps to $7.78 Billion",
     "Zillow to pay $212.5 million to settle class action over failed real estate vent",
     "Strategy's bitcoin buying hinges on one number: STRC at $100",
@@ -450,6 +444,12 @@
     "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
     "Haulier blames fuel prices for diesel theft",
     "Volkswagen loss widens more than expected in Q3, raising restructuring stakes",
-    "FX option expiries for 29 October 10am New York cut"
+    "FX option expiries for 29 October 10am New York cut",
+    "REG - Schroder BSC Social - Dividend Declaration - TradingView",
+    "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
+    "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+    "Three ways the Budget affects you",
+    "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+    "Banco Bilbao posts profit beat on revenue strength"
   ]
 }
