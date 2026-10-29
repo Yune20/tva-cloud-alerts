@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793293333.31776,
-  "last_bot4": 1793293028.6250114,
+  "last_bot4": 1793293938.6366322,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793293028.6248772
+    "Gold": 1793293938.6365638
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793293333.3186915,
+  "last_signals": 1793293938.63756,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793272463.0697289,
     "5575146754|Gold|4H|range_in": 1793292716.7960658,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -119,7 +119,7 @@
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
-    "Bitcoin|4H:top": 1793293333.8304276,
+    "Bitcoin|4H:top": 1793293939.133691,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
     "USOIL|4H:top": 1792973263.908907,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
-    "EUR/USD|1D:bot": 1793293334.4953887,
+    "EUR/USD|1D:bot": 1793293940.0006595,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793292719.0970962,
     "Gold|4H:bot": 1793074108.4399478,
@@ -149,14 +149,8 @@
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793293639.716571,
-  "last_news": 1793293327.098943,
+  "last_news": 1793293932.6063998,
   "seen_news": [
-    "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-    "Why is Teladoc Health stock surging today?",
-    "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with t",
-    "L\u1ec7 Quy\u00ean d\u1ea1y con: \"M\u1eb9 \u01b0\u1edbc con t\u1ef1 gi\u00e1c, t\u1ef1 tr\u1ecdng n\u00ean ng\u01b0\u1eddi nh\u01b0 m\u1eb9\"",
-    "V\u0129 m\u00f4 Vi\u1ec7t Nam - VietstockFinance",
-    "Fed pauses, Big Tech reports - TradingView",
     "Th\u00e0nh Ph\u1ed1 C\u00e0 Ph\u00ea \u2013 Th\u00e0nh ph\u1ed1 t\u1ec9nh th\u1ee9c, an c\u01b0 th\u1ecbnh v\u01b0\u1ee3ng",
     "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "REG - AIM - AIM Notice - 29/10/2026 - TradingView",
@@ -450,6 +444,12 @@
     "Lumentum jumps on report Marvell in advanced talks to acquire - TradingView",
     "Get ready for the \u2018Year of Starlink\u2019 as airlines battle over superfast WiFi",
     "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada"
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Gold slides as higher US inflation reinforces Fed tightening bets - TradingView",
+    "All the reasons Marvell investors are \u2019freaking out\u2019 as Lumentum deal rumors swi",
+    "Aon CEO warns AI data center insurance risks could threaten financing",
+    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+    "The CCS Project That Passed Every Test Except the Investment Test",
+    "Belgium stocks higher at close of trade; BEL 20 up 0.42%"
   ]
 }
