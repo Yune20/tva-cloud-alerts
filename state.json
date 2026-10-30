@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793384289.3708572,
+  "last_signals": 1793384901.0714078,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -48,7 +48,7 @@
     "5575146754|Gold|4H|dn": 1793383310.0341775,
     "5575146754|Gold|4H|trap_dn": 1793355193.9312518,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
-    "5575146754|Gold|4H|momo_dn": 1793380842.6853085
+    "5575146754|Gold|4H|momo_dn": 1793384901.0714078
   },
   "sig_range": {
     "Gold": true,
@@ -65,9 +65,9 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
@@ -78,7 +78,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793384290.4149737,
+    "GBP/USD|1D:top": 1793384902.8207767,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793384279.3334327,
-  "last_news": 1793384289.3700511,
+  "last_analysis": 1793384893.0179176,
+  "last_news": 1793384901.0704405,
   "seen_news": [
-    "Canadian dollar holds gains after Bank of Canada delivers rate hike",
-    "BOJ governor Ueda says will stick to rate hike path in response to latest macro ",
-    "Th\u1ea3o lu\u1eadn v\u1ec1 d\u1ef1 \u00e1n Lu\u1eadt Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n (s\u1eeda \u0111\u1ed5i): Kh\u00f4ng \u0111\u1ec3 ch\u1ee7 \u0111\u1ea7u t\u01b0 c",
-    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
-    "BlincVision AB (publ) (BLINC_B) CFO Dan Wahrenberg To Depart - TradingView",
-    "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
     "Japan Housing Starts Unexpectedly Drop - TradingView",
     "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
     "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
@@ -452,6 +446,12 @@
     "M\u1ed9t Ng\u00e2n h\u00e0ng Trung \u01b0\u01a1ng v\u1eeba ki\u1ebfm l\u1eddi 23 t\u1ef7 USD ch\u1ec9 trong qu\u00fd v\u1eeba qua",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "BTCUSD: Bitcoin Slides Below $77,000 After $6.3 Billion Binance Breach Shakes Cr",
-    "Microsoft is winning the cloud wars and becoming Wall Street\u2019s new golden child"
+    "Microsoft is winning the cloud wars and becoming Wall Street\u2019s new golden child",
+    "\"\u0110\u1ea1i gia\" khai th\u00e1c v\u00e0ng b\u1ea1c l\u1edbn nh\u1ea5t Vi\u1ec7t Nam b\u00e1o l\u00e3i qu\u00fd 3 g\u1ea5p 4 l\u1ea7n c\u00f9ng k\u1ef3",
+    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
+    "ServiceNow Plunges as Slower Growth Exposes Valuation Risk - TradingView",
+    "The big winners of the tech wreck are biopharma stocks",
+    "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in",
+    "'Painful' years ahead, think tanks warn, as living standards set to fall"
   ]
 }
