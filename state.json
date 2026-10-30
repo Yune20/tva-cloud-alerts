@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793380513.9408822,
-  "last_bot4": 1793383016.584557,
+  "last_bot4": 1793383681.0062258,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793382356.2741666
+    "Gold": 1793383681.0061052
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793383310.0341775,
+  "last_signals": 1793383681.0069666,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -80,7 +80,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793383312.2922225,
+    "GBP/USD|1D:top": 1793383682.1485114,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793383016.5835109,
-  "last_news": 1793383310.033253,
+  "last_analysis": 1793383669.3855348,
+  "last_news": 1793383677.8763342,
   "seen_news": [
-    "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. ",
-    "What we now know about the UK economy in four charts",
-    "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
-    "Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoi",
-    "\u0110BQH: C\u1ea5m chuy\u1ec3n nh\u01b0\u1ee3ng h\u1ee3p \u0111\u1ed3ng tr\u00ean gi\u1ea5y m\u1edbi l\u00e0 b\u1ea3o v\u1ec7 th\u1ef1c ch\u1ea5t ng\u01b0\u1eddi mua nh\u00e0",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
     "Sterling hits 17-Month high vs Euro as ECB holds rates",
     "What are the main events for today?",
     "MC VTV cao v\u1ecfn v\u1eb9n 1m50: 24 tu\u1ed5i c\u01b0\u1edbi ch\u1ed3ng gi\u00e1m \u0111\u1ed1c, t\u1eadn h\u01b0\u1edfng cu\u1ed9c s\u1ed1ng tr\u00ean t",
@@ -452,6 +446,12 @@
     "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
     "Water Tank Rupture Triggers Safety Concerns at Tajikistan\u2019s Rogun Dam",
     "European shares stumble at end of best month since June on AI worries",
-    "Nasdaq leads stocks lower as investors question the cost of AI growth"
+    "Nasdaq leads stocks lower as investors question the cost of AI growth",
+    "Why bitcoin held up better after the record Binance hack",
+    "City of London chief tops UK Black Powerlist",
+    "Investing.com\u2019s stocks of the week",
+    "Fed\u2019s Logan: At least two more quarter-point rate hikes needed",
+    "Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng g\u1ea7n 3.000 t\u1ef7 trong tu\u1ea7n cu\u1ed1i th\u00e1ng 10, FPT b\u1ecb \"x\u1ea3\" m\u1ea1nh nh\u1ea5t",
+    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock"
   ]
 }
