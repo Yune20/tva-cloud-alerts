@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793349408.9945693,
+  "last_signals": 1793350019.0362234,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793348790.514214,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -62,13 +62,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -137,8 +137,8 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793349411.1154842,
-    "JPY Index|4H:bot": 1793349411.5523696,
+    "USD/JPY|4H:bot": 1793350020.4943166,
+    "JPY Index|4H:bot": 1793350020.8272865,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793349401.192334,
-  "last_news": 1793349408.9937499,
+  "last_analysis": 1793350012.0735276,
+  "last_news": 1793350019.0353816,
   "seen_news": [
-    "DoorDash to acquire Instacart for $17 billion",
-    "From workshops to the catwalk - why mended clothes are going mainstream",
-    "UK Budget Signals Wave of New North Sea Oil and Gas Drilling",
-    "Canadian dollar strengthens as traders assess BoC hike, await US data",
-    "Binance pauses withdrawals after suspected $3B+ hack as Tether, Circle freeze $2",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t gia \u0111\u00ecnh \u0111\u1ee9ng sau \u0111\u1ebf ch\u1ebf ngh\u00ecn t\u1ef7: 2 con g\u00e1i ng\u1ed3i gh\u1ebf T\u1ed5ng gi\u00e1m ",
     "M\u1eabu xe \u0111i\u1ec7n mini gi\u00e1 199 tri\u1ec7u t\u1ea1i Vi\u1ec7t Nam c\u00f3 b\u1ea3n n\u00e2ng c\u1ea5p: T\u1ea7m ho\u1ea1t \u0111\u1ed9ng kho\u1ea3n",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "TXG Q3'26 Earnings: revenue estimate is 147.96M USD - TradingView",
@@ -449,6 +443,12 @@
     "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
     "P&R urged to speed up review of relocation grants",
     "Why is Sanofi stock surging today?",
-    "BOJ governor Ueda tries to play down inflation victory declaration, says it will"
+    "BOJ governor Ueda tries to play down inflation victory declaration, says it will",
+    "M\u1ed9t c\u1ed5 phi\u1ebfu \"hot\" b\u1ecb kh\u1ed1i ngo\u1ea1i x\u1ea3 h\u01a1n 350 t\u1ef7 \u0111\u1ed3ng phi\u00ean cu\u1ed1i tu\u1ea7n",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "REG - AIM - AIM Notice - 30/10/2026 - TradingView",
+    "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
+    "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts afte",
+    "Faisal Islam: This Budget was micro and that was deliberate"
   ]
 }
