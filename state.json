@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793381455.6873558,
+  "last_signals": 1793382065.9566498,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -75,9 +75,9 @@
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
-    "US30|4H": true,
+    "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793381456.8032346,
+    "GBP/USD|1D:top": 1793382068.4332266,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793381448.0108302,
-  "last_news": 1793381455.6843,
+  "last_analysis": 1793382054.8391507,
+  "last_news": 1793382065.9558423,
   "seen_news": [
-    "investingLive Americas market news wrap: ECB holds, sources report says December",
-    "M\u1ed9t ca s\u0129 tham gia thi\u1ebft k\u1ebf xe m\u00e1y \u0111i\u1ec7n cho \u201ctay ch\u01a1i m\u1edbi\u201d c\u1ee7a Vi\u1ec7t Nam",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
-    "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
-    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Pro-Dex, Inc. Announces Fiscal 2027 First Quarter Results - TradingView",
     "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
@@ -452,6 +446,12 @@
     "Fed\u2019s Musalem: Moving sooner with rate hikes lessens risk of hit to broader econ",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 31/10: BSR, SHB, Eximbank, Vietnam Airlines c\u00f9ng n",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Realty Income Q3 earnings on deck: What to expect - TradingView"
+    "Realty Income Q3 earnings on deck: What to expect - TradingView",
+    "Fed\u2019s Daly: AI matters for near- and medium-term policy",
+    "Th\u00e0nh ph\u1ed1 gi\u00e0u nh\u1ea5t n\u01b0\u1edbc ta s\u1eafp c\u00f3 n\u00fat giao nhi\u1ec1u t\u1ea7ng hi\u1ec7n \u0111\u1ea1i, xu\u1ea5t hi\u1ec7n th\u00e1p ",
+    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
+    "First Tick: Top global cues to watch in today's trade - TradingView",
+    "You can expect the stock market to rally no matter who wins on Election Day",
+    "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing throu"
   ]
 }
