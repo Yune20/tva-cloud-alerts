@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793356542.4152074,
+  "last_signals": 1793357155.458412,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -138,8 +138,8 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793356543.6926403,
-    "JPY Index|4H:bot": 1793356544.0611594,
+    "USD/JPY|4H:bot": 1793357156.8326197,
+    "JPY Index|4H:bot": 1793357157.155278,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793355575.3112104,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793356532.2201052,
-  "last_news": 1793356542.4143085,
+  "last_analysis": 1793357146.0332692,
+  "last_news": 1793357155.457498,
   "seen_news": [
-    "Ai L\u00e0 Tri\u1ec7u Ph\u00fa t\u1eebng c\u00f3 ng\u01b0\u1eddi ch\u01a1i tham gia ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 ki\u1ebfm ti\u1ec1n \u1ee7ng h\u1ed9 \u0110\u01b0\u1edd",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Fed pauses, Big Tech reports - TradingView",
-    "Norwegian shares surge 13% on earnings beat, guidance raise",
-    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
-    "The CCS Project That Passed Every Test Except the Investment Test",
     "PBOC is expected to set the USD/CNY reference rate at 6.6548 \u2013 Reuters estimate",
     "H\u00e0 \u0110\u00f4ng: Th\u00e1o g\u1ee1 v\u01b0\u1edbng m\u1eafc giao \u0111\u1ea5t gi\u00e3n d\u00e2n k\u00e9o d\u00e0i g\u1ea7n hai th\u1eadp k\u1ef7",
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
@@ -450,6 +444,12 @@
     "Chevron beats earnings expectations as refining profits soar on high diesel fuel",
     "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
     "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-    "Gold gets hit again by forced liquidations as equity losses mount; fundamental o"
+    "Gold gets hit again by forced liquidations as equity losses mount; fundamental o",
+    "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+    "How long will humans be needed for translation?",
+    "Canadian dollar strengthens as traders assess BoC hike, await US data",
+    "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
+    "Hi\u1ec3u \u0111\u00fang v\u1ec1 g\u00f3i quy\u1ec1n ch\u1ecdn ngh\u00ecn t\u1ef7 trong \u2018v\u1ecf\u2019 tr\u00e1i phi\u1ebfu 100 t\u1ef7 c\u1ee7a \u0110i\u1ec7n M\u00e1y X",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
