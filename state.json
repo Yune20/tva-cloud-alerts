@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793342317.273704,
+  "last_signals": 1793342928.7398725,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -83,8 +83,8 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|1H": true,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -142,20 +142,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793342318.266863,
+    "GBP/USD|1D:top": 1793342930.2260175,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793342309.277388,
-  "last_news": 1793342317.272749,
+  "last_analysis": 1793342919.8805358,
+  "last_news": 1793342928.7390866,
   "seen_news": [
-    "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-    "What the Budget offers for under 25s - and what it leaves out",
-    "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
-    "Sterling hits 17-Month high vs Euro as ECB holds rates",
-    "Earnings bloodbath: Intel crashes over 22%, Amazon over 12%. What's coming next?",
-    "1 nam sinh m\u1eafc ung th\u01b0 tuy\u1ebfn gi\u00e1p di c\u0103n khi m\u1edbi 15 tu\u1ed5i: V\u00ec sao b\u1ec7nh ng\u00e0y c\u00e0ng ",
     "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
     "Your pay, energy bills and savings: How the Budget affects you",
     "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
@@ -449,6 +443,12 @@
     "The midterms are crucial to the future of Social Security \u2014 no matter how old yo",
     "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
     "Who should pay on the first date?",
-    "China\u2019s Battery Factories May Sit Atop Lithium Resources"
+    "China\u2019s Battery Factories May Sit Atop Lithium Resources",
+    "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. ",
+    "What we now know about the UK economy in four charts",
+    "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
+    "Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoi",
+    "\u0110BQH: C\u1ea5m chuy\u1ec3n nh\u01b0\u1ee3ng h\u1ee3p \u0111\u1ed3ng tr\u00ean gi\u1ea5y m\u1edbi l\u00e0 b\u1ea3o v\u1ec7 th\u1ef1c ch\u1ea5t ng\u01b0\u1eddi mua nh\u00e0",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance"
   ]
 }
