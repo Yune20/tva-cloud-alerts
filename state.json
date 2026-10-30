@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793364932.49938,
+  "last_signals": 1793365602.2635705,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -45,7 +45,7 @@
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
-    "5575146754|Gold|4H|dn": 1793344142.9035773,
+    "5575146754|Gold|4H|dn": 1793365602.2635705,
     "5575146754|Gold|4H|trap_dn": 1793355193.9312518
   },
   "sig_range": {
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -138,25 +138,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793364323.273861,
-    "JPY Index|4H:bot": 1793364323.9574866,
+    "USD/JPY|4H:bot": 1793365604.2019074,
+    "JPY Index|4H:bot": 1793365604.7024655,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793364935.0238218,
+    "DXY|4H:bot": 1793365604.4781315,
     "GBP/USD|1D:top": 1793343539.6771522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793365235.757329,
-  "last_news": 1793364932.498392,
+  "last_analysis": 1793365592.811881,
+  "last_news": 1793365602.2626328,
   "seen_news": [
-    "BOJ holds rates as underlying inflation aligns with 2% target for first time sin",
-    "US interest rates held steady and economy grows - what it means for you",
-    "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
-    "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
-    "Gi\u00e1 v\u00e0ng h\u00f4m nay 30/10: Lao d\u1ed1c v\u1ec1 \u0111\u00e1y trong 1 th\u00e1ng qua",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "Gift Nifty 50 tests 200 SMA resistance with overbought MFI: Live",
     "investingLive Asia-Pacific market news: Binance hack shakes crypto",
     "S\u1eafp b\u00e1n \u1edf Vi\u1ec7t Nam xe m\u00e1y \u0111i\u1ec7n m\u1edbi tinh \u0111i 300km/s\u1ea1c, gi\u00e1 d\u1ef1 ki\u1ebfn ch\u01b0a t\u1edbi 50 tr",
@@ -450,6 +444,12 @@
     "Ch\u00ednh th\u1ee9c: \"Sapa c\u1ee7a mi\u1ec1n Trung\" c\u00f3 tuy\u1ebfn c\u00e1p treo m\u1edbi h\u00e0ng ngh\u00ecn t\u1ef7 \u0111\u1ed3ng, l\u00ean ",
     "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank - VietstockFinance",
     "Hogs Close Mixed on Wednesday - TradingView",
-    "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft"
+    "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
+    "Nh\u00e0 m\u00e1y In ti\u1ec1n Qu\u1ed1c gia c\u00f3 ch\u1ee7 t\u1ecbch m\u1edbi",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "AAOI Q3'26 Earnings: revenue estimate is 268.11M USD - TradingView",
+    "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
+    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+    "U.S. Treasuries surge to wrap October in biggest rally since 2024"
   ]
 }
