@@ -29,14 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793344142.9035773,
+  "last_signals": 1793344754.750474,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793344142.9035773,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
     "5575146754|Gold|4H|dbot": 1793337118.585362,
-    "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
@@ -86,7 +85,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -148,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793344135.367399,
-  "last_news": 1793344142.9026153,
+  "last_analysis": 1793344746.3268697,
+  "last_news": 1793344754.7496555,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
-    "PRTA: Three partnered clinical programs advance alongside differentiated preclin",
-    "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
-    "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping po",
-    "Healey provides some breathing space but things still set to get worse for most",
-    "What\u2019s Next for Global Natural Gas Demand?",
     "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
     "Budget 2026: Key points at a glance",
     "UK National Grid to Extend France Power Link Operation to 2050",
@@ -450,6 +443,12 @@
     "Th\u1ea3o lu\u1eadn v\u1ec1 d\u1ef1 \u00e1n Lu\u1eadt Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n (s\u1eeda \u0111\u1ed5i): Kh\u00f4ng \u0111\u1ec3 ch\u1ee7 \u0111\u1ea7u t\u01b0 c",
     "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
     "BlincVision AB (publ) (BLINC_B) CFO Dan Wahrenberg To Depart - TradingView",
-    "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance"
+    "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+    "Japan Housing Starts Unexpectedly Drop - TradingView",
+    "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
+    "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
+    "What the Budget offers for under 25s - and what it leaves out",
+    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
+    "France's economy contracts in Q3 as growth troubles pile up for the ECB"
   ]
 }
