@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793319753.091412,
+  "last_signals": 1793320367.6185033,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793314159.237486,
     "5575146754|Gold|4H|range_in": 1793317288.9399257,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793319745.205105,
-  "last_news": 1793319753.0904016,
+  "last_analysis": 1793320359.9968848,
+  "last_news": 1793320367.6173646,
   "seen_news": [
-    "Gold slips below its 100-hour MA as interest-rate concerns weigh on the recovery",
-    "Ronaldo l\u00ean ti\u1ebfng sau khi th\u1eafng Messi gi\u00e0nh Qu\u1ea3 b\u00f3ng V\u00e0ng v\u0129 \u0111\u1ea1i nh\u1ea5t l\u1ecbch s\u1eed",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "Intel's 158% Rally Faces Fresh Earnings Test - TradingView",
-    "Looking for income? These dividend stocks have high yields that seem well suppor",
-    "ServiceNow shares plunge 25% after earnings revive AI disruption fears",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "Bessent Makes Surprising Call on Another Fed Rate Hike - TradingView",
     "Gen Z midterm voters told us they\u2019re focused on their financial future, as socia",
@@ -450,6 +444,12 @@
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
     "Macquarie maintains Rush Street Interactive at Outperform, lowers price target t",
     "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
-    "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies"
+    "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+    "\u0110\u1ed1i \u0111\u1ea7u \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng tr\u00ean ch\u00ednh s\u00e2n nh\u00e0, c\u01a1 h\u1ed9i n\u00e0o cho t\u1ef7 ph\u00fa Elon Musk?",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
+    "Hedera Ecosystem Adds Bron Self-Custody Platform Through Industry Association - ",
+    "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
+    "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity m",
+    "Faisal Islam: This Budget was micro and that was deliberate"
   ]
 }
