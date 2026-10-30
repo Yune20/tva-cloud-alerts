@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793391456.2932608,
-  "last_bot4": 1793394562.4914577,
+  "last_bot4": 1793395465.3200786,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793393303.3871112
+    "Gold": 1793395465.3199787
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793394853.23015,
+  "last_signals": 1793395465.3208647,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,7 +127,7 @@
     "USOIL|4H:top": 1793391163.5735831,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793394854.3947294,
+    "Bitcoin|4H:bot": 1793395465.9363995,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793394855.5161035,
+    "GBP/USD|1D:top": 1793395466.6280222,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793394844.829883,
-  "last_news": 1793394853.2284534,
+  "last_analysis": 1793395455.1267629,
+  "last_news": 1793395462.7994056,
   "seen_news": [
-    "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
-    "C\u00f4ng an t\u00ecm b\u1ecb h\u1ea1i c\u1ee7a b\u00e0 L\u00ea Th\u1ecb An SN 1970",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Fed pauses, Big Tech reports - TradingView",
-    "Here\u2019s the math on Amazon CEO\u2019s claim to be on path to two trillion-dollar reven",
-    "Binance's $6.3 billion hack: What we know and what comes next",
     "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
     "EQB Inc. (EQB) To Sell Bennington at ~8% Discount to Receivables - TradingView",
     "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a hi",
@@ -452,6 +446,12 @@
     "Why Intel\u2019s stock saw its worst day in decades \u2014 and a $140 billion wipeout",
     "Wall Street braces for Democratic gains as 2026 midterm election nears",
     "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
-    "Bitcoin, cryptocurrency prices fall after Binance reports security issue"
+    "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+    "Reddit\u2019s stock logs its biggest one-day drop ever. It\u2019s not the last of the bad ",
+    "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign asset",
+    "How long will humans be needed for translation?",
+    "Canadian dollar strengthens as traders assess BoC hike, await US data",
+    "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
+    "Hot l\u1ea1i h\u00ecnh \u1ea3nh 12 n\u0103m tr\u01b0\u1edbc c\u1ee7a Minh H\u1eb1ng"
   ]
 }
