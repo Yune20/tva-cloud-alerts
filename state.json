@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793399155.754168,
+  "last_signals": 1793399772.052757,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793399157.517902,
+    "GBP/USD|1D:top": 1793399773.1350482,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793399145.968974,
-  "last_news": 1793399155.7533288,
+  "last_analysis": 1793399757.480117,
+  "last_news": 1793399772.0518954,
   "seen_news": [
-    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w",
-    "Google value plunges by $500bn as its own AI search hits ad sales",
-    "Bolsonaro\u2019s Election Defeat Could Complicate U.S. Rare Earth Plans",
-    "Sanofi teases appetite for larger deals, lifts 2026 growth targets under new CEO",
-    "investingLive European session wrap: AI spending fears spook tech stocks; dollar",
-    "C\u01a1m nh\u00e0 MC SN 1986 \u0111ang l\u00e0m s\u1ebfp, d\u1eabn li\u00ean ti\u1ebfp 5 m\u00f9a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia",
     "Israel\u2019s Election Deadlock Opens the Door to Another Iran Offensive",
     "Why is Capri Holdings stock surging today?",
     "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. W",
@@ -452,6 +446,12 @@
     "Zoned Properties retains Bryan McLaren as contractor; executives and directors r",
     "This cybersecurity stock will be the next to join the S&P 500",
     "Cramer\u2019s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters"
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "EQB Inc. (EQB) To Sell Bennington at ~8% Discount to Receivables - TradingView",
+    "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on e",
+    "The Indian workers filming their work to train AI",
+    "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases",
+    "UBS sees scope for further sterling gains as short positioning creates upside",
+    "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse"
   ]
 }
