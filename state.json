@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793315066.1260576,
+  "last_news_report": 1793325948.1618273,
   "last_bot4": 1793325616.2952163,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793325325.4735413,
+  "last_signals": 1793325948.162758,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793324348.3740792,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -39,7 +39,6 @@
     "5575146754|Gold|4H|dn": 1792728264.0235655,
     "5575146754|Gold|1H|dn": 1792728264.0235655,
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
-    "5575146754|Gold|4H|momo_dn": 1792721002.4378462,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
@@ -65,7 +64,7 @@
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
@@ -138,25 +137,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
     "Ethereum|4H:bot": 1793249822.8536267,
-    "USD/JPY|4H:bot": 1793325326.7331834,
-    "JPY Index|4H:bot": 1793325327.0544403,
+    "USD/JPY|4H:bot": 1793325950.8606584,
+    "JPY Index|4H:bot": 1793325951.482346,
     "EUR/USD|4H:top": 1793317916.5077775,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793325326.4196653,
+    "GBP/USD|1D:top": 1793325950.2537386,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793325317.6080666,
-  "last_news": 1793325325.47261,
+  "last_analysis": 1793325931.433803,
+  "last_news": 1793325940.8662999,
   "seen_news": [
-    "M\u1ed9t c\u1ef1u sinh vi\u00ean Kinh t\u1ebf TP.HCM t\u1ea1o ra h\u00e0ng ch\u1ee5c ngh\u00ecn vi\u1ec7c l\u00e0m t\u1eeb B\u1eafc t\u1edbi Nam",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Federal Reserve holds rate at 3.75%-4.00%, with two dissents - TradingView",
-    "Cruise companies aim to keep fuel costs down. Their strategies for doing so diff",
-    "The South West reacts to Budget announcements",
-    "Mexico\u2019s Richest Man Sells $1.15 Billion in Oil Stocks",
     "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
     "Some investors have midterm election jitters. Here\u2019s what history shows about st",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
@@ -450,6 +443,12 @@
     "MCH: CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan - Masan Consumer Corp - VietstockFinance",
     "Corn Ticking Higher at Thursday\u2019s Midday - TradingView",
     "Aon CEO warns AI data center insurance risks could threaten financing",
-    "The Indian workers filming their work to train AI"
+    "The Indian workers filming their work to train AI",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Basf Q3 Earnings Call Highlights - TradingView",
+    "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace",
+    "Why are more roofs not made of solar tiles?",
+    "Microsoft expects to raise $25 billion in US bond sale, sources say",
+    "Vessel on fire in Strait of Hormuz after incident near Oman, cause \"unknown\" (LO"
   ]
 }
