@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793380217.463573,
+  "last_signals": 1793380842.6853085,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -48,7 +48,7 @@
     "5575146754|Gold|4H|dn": 1793378444.0677392,
     "5575146754|Gold|4H|trap_dn": 1793355193.9312518,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
-    "5575146754|Gold|4H|momo_dn": 1793369684.489834
+    "5575146754|Gold|4H|momo_dn": 1793380842.6853085
   },
   "sig_range": {
     "Gold": true,
@@ -67,7 +67,7 @@
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793379607.0128953,
+    "GBP/USD|1D:top": 1793380843.7370915,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793380208.4582498,
-  "last_news": 1793380217.4627488,
+  "last_analysis": 1793380835.50878,
+  "last_news": 1793380842.6843898,
   "seen_news": [
-    "Sandisk sees revenue nearly quintuple \u2014\u00a0and a stock split is on the way",
-    "Reddit shares sink on weak sales guidance and plans login requirement test as Go",
-    "Crypto giant Binance hit by hack suspected to be largest in history",
-    "Why is AIA Group stock rising today?",
-    "Trump administration in ongoing talks for a temporary peace deal with Iran - Sem",
-    "B\u00e1nh d\u00e0y k\u1eb9p ch\u1ea3 g\u00e2y tranh c\u00e3i: Ng\u01b0\u1eddi b\u1ea3o thi\u1ebfu mu\u1ed1i ti\u00eau l\u00e0 m\u1ea5t ngon, ng\u01b0\u1eddi l\u1ea1i",
     "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - Vi",
     "Roblox Q3 2026 Earnings Call Is Live - TradingView",
     "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries ",
@@ -452,6 +446,12 @@
     "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
     "The tech helping crack decades-old cold cases",
     "U.S. Oil, Gas Drillers Still on Hold",
-    "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat"
+    "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat",
+    "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Ira",
+    "Living with a stink? Technology might help",
+    "Oil Traders Brace for a Wild Week as Brent Approaches $120",
+    "Intel on course for worst day ever, triggers global chip rout",
+    "How has the Magnificent 7 done relatively to the broader stock indices today?",
+    "Di\u1ec5n bi\u1ebfn m\u1edbi t\u1ea1i d\u1ef1 \u00e1n cao t\u1ed1c g\u1ea7n 19.000 t\u1ef7 r\u00fat ng\u1eafn t\u1eeb TP.HCM \u0111i \u0110\u00e0 L\u1ea1t c\u00f2n 3"
   ]
 }
