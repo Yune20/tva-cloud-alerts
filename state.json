@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793380513.9408822,
-  "last_bot4": 1793389276.7475553,
+  "last_bot4": 1793389936.9547307,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793389569.2443318,
+  "last_signals": 1793389936.955452,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -65,7 +65,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -78,7 +78,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -124,10 +124,10 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793389569.7787473,
+    "USOIL|4H:top": 1793389937.6738424,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793379606.4034128,
+    "Bitcoin|4H:bot": 1793389938.0367815,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793389571.0212266,
+    "GBP/USD|1D:top": 1793389939.3005576,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793389273.835855,
-  "last_news": 1793389569.2436194,
+  "last_analysis": 1793389927.7703717,
+  "last_news": 1793389936.953852,
   "seen_news": [
-    "Key facts: AXA SA 9M GWP \u20ac93.0bn; Solvency II 213%; JPMorgan Overweight - Tradin",
-    "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
-    "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-    "P&R urged to speed up review of relocation grants",
-    "Why is Sanofi stock surging today?",
-    "BOJ governor Ueda tries to play down inflation victory declaration, says it will",
     "M\u1ed9t c\u1ed5 phi\u1ebfu \"hot\" b\u1ecb kh\u1ed1i ngo\u1ea1i x\u1ea3 h\u01a1n 350 t\u1ef7 \u0111\u1ed3ng phi\u00ean cu\u1ed1i tu\u1ea7n",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "REG - AIM - AIM Notice - 30/10/2026 - TradingView",
@@ -452,6 +446,12 @@
     "Tech Selloff Drags Wall Street Lower - TradingView",
     "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
     "Cheaper cars are selling considerably faster than at the beginning of the year",
-    "Yorkshire Water boss resigns after firm downgraded"
+    "Yorkshire Water boss resigns after firm downgraded",
+    "HTG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ec7t may H\u00f2a Th\u1ecd - HOA THO CORPORATION - VietstockFinan",
+    "Sweco AB (publ) (SWEC_A) Q3 Sales Up 7%, EBITA Margin 10.3% - TradingView",
+    "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving",
+    "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+    "Bereaved families will not face tax bill over pension delays under new rules",
+    "Kioxia\u2019s NAND price slowdown and what it means for memory stocks"
   ]
 }
