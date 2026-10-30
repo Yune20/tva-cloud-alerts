@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793394244.4402487,
+  "last_signals": 1793394853.23015,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -86,7 +86,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -127,7 +127,7 @@
     "USOIL|4H:top": 1793391163.5735831,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793394245.1852956,
+    "Bitcoin|4H:bot": 1793394854.3947294,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793394246.006915,
+    "GBP/USD|1D:top": 1793394855.5161035,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793394235.6369677,
-  "last_news": 1793394244.4124112,
+  "last_analysis": 1793394844.829883,
+  "last_news": 1793394853.2284534,
   "seen_news": [
-    "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-    "How long will humans be needed for translation?",
-    "Canadian dollar strengthens as traders assess BoC hike, await US data",
-    "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
-    "Hi\u1ec3u \u0111\u00fang v\u1ec1 g\u00f3i quy\u1ec1n ch\u1ecdn ngh\u00ecn t\u1ef7 trong \u2018v\u1ecf\u2019 tr\u00e1i phi\u1ebfu 100 t\u1ef7 c\u1ee7a \u0110i\u1ec7n M\u00e1y X",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
     "C\u00f4ng an t\u00ecm b\u1ecb h\u1ea1i c\u1ee7a b\u00e0 L\u00ea Th\u1ecb An SN 1970",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -452,6 +446,12 @@
     "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
     "CHD: 5.1% organic growth and higher guidance, despite mounting cost inflation - ",
     "In a wild October for markets, these stocks were the biggest winners and losers",
-    "$6.3 billion Binance hack is largest crypto theft on record"
+    "$6.3 billion Binance hack is largest crypto theft on record",
+    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
+    "Sanofi Q3 2026 Earnings Call Is Live - TradingView",
+    "Why Intel\u2019s stock saw its worst day in decades \u2014 and a $140 billion wipeout",
+    "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+    "Bitcoin, cryptocurrency prices fall after Binance reports security issue"
   ]
 }
