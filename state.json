@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793348790.514214,
+  "last_signals": 1793349408.9945693,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793348790.514214,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -62,7 +62,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -137,8 +137,8 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793339558.702092,
-    "JPY Index|4H:bot": 1793339559.0012531,
+    "USD/JPY|4H:bot": 1793349411.1154842,
+    "JPY Index|4H:bot": 1793349411.5523696,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793348781.3726366,
-  "last_news": 1793348790.5132997,
+  "last_analysis": 1793349401.192334,
+  "last_news": 1793349408.9937499,
   "seen_news": [
-    "\u0110\u1ed1i \u0111\u1ea7u \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng tr\u00ean ch\u00ednh s\u00e2n nh\u00e0, c\u01a1 h\u1ed9i n\u00e0o cho t\u1ef7 ph\u00fa Elon Musk?",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "Hedera Ecosystem Adds Bron Self-Custody Platform Through Industry Association - ",
-    "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
-    "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity m",
-    "Faisal Islam: This Budget was micro and that was deliberate",
     "DoorDash to acquire Instacart for $17 billion",
     "From workshops to the catwalk - why mended clothes are going mainstream",
     "UK Budget Signals Wave of New North Sea Oil and Gas Drilling",
@@ -449,6 +443,12 @@
     "News by CNBC TV18 on TradingView, 2026-10-29 \u2014 cnbctv:076b27431094b:0 - TradingV",
     "People in China are spending nearly as much of their income as Americans on heal",
     "Bereaved families will not face tax bill over pension delays under new rules",
-    "European shares dip as Amazon, Intel stoke AI cash-burn fears"
+    "European shares dip as Amazon, Intel stoke AI cash-burn fears",
+    "Key facts: AXA SA 9M GWP \u20ac93.0bn; Solvency II 213%; JPMorgan Overweight - Tradin",
+    "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
+    "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+    "P&R urged to speed up review of relocation grants",
+    "Why is Sanofi stock surging today?",
+    "BOJ governor Ueda tries to play down inflation victory declaration, says it will"
   ]
 }
