@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793379605.7915323,
+  "last_signals": 1793380217.463573,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -65,14 +65,14 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793379596.9507937,
-  "last_news": 1793379605.7904477,
+  "last_analysis": 1793380208.4582498,
+  "last_news": 1793380217.4627488,
   "seen_news": [
-    "Minimum wage rise 'a massive blow' says farmer",
-    "Why is Apple supplier Luxshare Precision Industry stock sliding today?",
-    "investingLive European session wrap: Stocks diverge as markets brace for US infl",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh th\u01b0\u1eddng xuy\u00ean c\u1ea5p \u0111\u00f4ng th\u1ef1c ph\u1ea9m",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "First Tick: Top global cues to watch in today's trade - TradingView",
     "Sandisk sees revenue nearly quintuple \u2014\u00a0and a stock split is on the way",
     "Reddit shares sink on weak sales guidance and plans login requirement test as Go",
     "Crypto giant Binance hit by hack suspected to be largest in history",
@@ -452,6 +446,12 @@
     "Nasdaq futures fall 1% as Alphabet results intensify AI spending fears - Trading",
     "After Intel\u2019s historic stock drop, analysts say there\u2019s no reason to buy the dip",
     "Intel stock heads for worst day in more than 50 years, wiping $12 billion off go",
-    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget"
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+    "Invitation to presentation of Interim Report January \u2013 September 2026 - TradingV",
+    "Trump administration is illegally delaying student-debt forgiveness for tens of ",
+    "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
+    "The tech helping crack decades-old cold cases",
+    "U.S. Oil, Gas Drillers Still on Hold",
+    "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat"
   ]
 }
