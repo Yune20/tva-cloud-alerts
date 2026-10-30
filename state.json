@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793340173.215686,
+  "last_signals": 1793340783.5924773,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -62,8 +62,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|1H": true,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -85,7 +85,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -142,20 +142,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793340174.3534262,
+    "GBP/USD|1D:top": 1793340784.6745355,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793340162.9334676,
-  "last_news": 1793340173.214749,
+  "last_analysis": 1793340776.7555776,
+  "last_news": 1793340783.591521,
   "seen_news": [
-    "China\u2019s Battery Factories May Sit Atop Lithium Resources",
-    "Merck to boost next decade revenue forecast on new drugs optimism",
-    "investingLive Americas market news wrap: ECB holds, sources report says December",
-    "34 t\u1ef7 \u0111\u1ed3ng tr\u00ean c\u1ed5 tay c\u1ee7a ch\u1ee7 nh\u00e2n \"Qu\u1ea3 b\u00f3ng v\u00e0ng\" Harry Kane",
-    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
-    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
     "'Painful' years ahead, think tanks warn, as living standards set to fall",
     "Starbucks sees annual profit above estimates as turnaround gains traction",
     "Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoi",
@@ -449,6 +443,12 @@
     "Crypto giant Binance hit by hack suspected to be largest in history",
     "Why is AIA Group stock rising today?",
     "Trump administration in ongoing talks for a temporary peace deal with Iran - Sem",
-    "B\u00e1nh d\u00e0y k\u1eb9p ch\u1ea3 g\u00e2y tranh c\u00e3i: Ng\u01b0\u1eddi b\u1ea3o thi\u1ebfu mu\u1ed1i ti\u00eau l\u00e0 m\u1ea5t ngon, ng\u01b0\u1eddi l\u1ea1i"
+    "B\u00e1nh d\u00e0y k\u1eb9p ch\u1ea3 g\u00e2y tranh c\u00e3i: Ng\u01b0\u1eddi b\u1ea3o thi\u1ebfu mu\u1ed1i ti\u00eau l\u00e0 m\u1ea5t ngon, ng\u01b0\u1eddi l\u1ea1i",
+    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - Vi",
+    "Roblox Q3 2026 Earnings Call Is Live - TradingView",
+    "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries ",
+    "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
+    "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E"
   ]
 }
