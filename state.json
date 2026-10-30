@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793341397.2030911,
+  "last_signals": 1793341993.1105387,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -83,8 +83,8 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -142,20 +142,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793340784.6745355,
+    "GBP/USD|1D:top": 1793341994.105501,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793341705.51483,
-  "last_news": 1793341397.2020202,
+  "last_news": 1793341993.1096873,
   "seen_news": [
-    "Tether freezes $971M USDT amid suspected Binance hack as crypto sells off",
-    "C\u1eb7p anh em quen m\u1eb7t phim gi\u1edd v\u00e0ng: Ng\u01b0\u1eddi l\u00e0 th\u1ee7 khoa, ng\u01b0\u1eddi t\u1eebng h\u1ecdc ng\u00e0nh IT",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Forrester Research Q3 2026 Earnings Call Is Live - TradingView",
-    "The midterms are crucial to the future of Social Security \u2014 no matter how old yo",
-    "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
     "Canaccord Genuity maintains Etsy at Buy, raises price target to $105 from $92 - ",
     "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflat",
@@ -449,6 +443,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
     "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
     "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
-    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history"
+    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Pro-Dex, Inc. Announces Fiscal 2027 First Quarter Results - TradingView",
+    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
+    "'Painful' years ahead, think tanks warn, as living standards set to fall",
+    "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate",
+    "Spotify eyes early 2027 launch for AI powered remix service - report"
   ]
 }
