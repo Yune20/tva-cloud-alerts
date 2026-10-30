@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793347853.9251423,
-  "last_bot4": 1793349693.4434278,
+  "last_bot4": 1793354038.089508,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793349084.5113933
+    "Gold": 1793354038.0893955
   },
   "bot_chats": {
     "bot4": [
@@ -29,13 +29,13 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793350019.0362234,
+  "last_signals": 1793354038.0903513,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793348790.514214,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793347561.4401798,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
-    "5575146754|Gold|4H|dbot": 1793337118.585362,
+    "5575146754|Gold|4H|dbot": 1793354038.0903513,
     "5575146754|Gold|1D|dn": 1792987687.3553588,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
@@ -65,10 +65,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -131,31 +131,25 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793339558.4038467,
-    "Gold|4H:bot": 1793339557.6252105,
+    "Gold|4H:bot": 1793354038.2334673,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793350020.4943166,
-    "JPY Index|4H:bot": 1793350020.8272865,
+    "USD/JPY|4H:bot": 1793354039.2544835,
+    "JPY Index|4H:bot": 1793354039.58239,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793311348.7149496,
+    "DXY|4H:bot": 1793354039.3997772,
     "GBP/USD|1D:top": 1793343539.6771522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793350012.0735276,
-  "last_news": 1793350019.0353816,
+  "last_analysis": 1793354026.6716995,
+  "last_news": 1793354035.536984,
   "seen_news": [
-    "M\u1eabu xe \u0111i\u1ec7n mini gi\u00e1 199 tri\u1ec7u t\u1ea1i Vi\u1ec7t Nam c\u00f3 b\u1ea3n n\u00e2ng c\u1ea5p: T\u1ea7m ho\u1ea1t \u0111\u1ed9ng kho\u1ea3n",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "TXG Q3'26 Earnings: revenue estimate is 147.96M USD - TradingView",
-    "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
-    "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-    "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
     "Nvidia in talks to guarantee Nscale debt tied to $45 billion Anthropic compute d",
     "Sinh vi\u00ean d\u00f9ng AI qu\u00e1 nhi\u1ec1u, gi\u00e1o s\u01b0 To\u00e1n \u0111o\u1ea1t gi\u1ea3i Fields ng\u1eebng ch\u1ea5m \u0111\u00fang sai c",
     "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
@@ -449,6 +443,12 @@
     "REG - AIM - AIM Notice - 30/10/2026 - TradingView",
     "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
     "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts afte",
-    "Faisal Islam: This Budget was micro and that was deliberate"
+    "Faisal Islam: This Budget was micro and that was deliberate",
+    "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
+    "From Levi's to Primark - the fashion chains selling mended clothes",
+    "High Oil Prices Set to Trigger New Wave of North Sea Mergers",
+    "UBS raises zloty forecast as currency faces mounting pressure",
+    "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
+    "L\u00e3nh \u0111\u1ea1o FLC h\u00e9 l\u1ed9 \u0111i\u1ec1u condotel Vi\u1ec7t Nam c\u1ea7n \u0111\u1ec3 h\u00fat kh\u00e1ch ngo\u1ea1i"
   ]
 }
