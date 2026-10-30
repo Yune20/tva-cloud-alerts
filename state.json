@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793336792.1668172,
-  "last_bot4": 1793345042.7403932,
+  "last_bot4": 1793345732.2020395,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793345375.3129702,
+  "last_signals": 1793345732.2032197,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -77,8 +77,8 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793345361.0384405,
-  "last_news": 1793345375.3122606,
+  "last_analysis": 1793345723.2594874,
+  "last_news": 1793345732.201085,
   "seen_news": [
-    "Investors Are Piling Into Dangote. But Is the Price Right?",
-    "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher r",
-    "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
-    "\u0110\u1ea5u gi\u00e1 3 c\u0103n h\u1ed9 c\u1ee7a c\u1ef1u Ch\u1ee7 t\u1ecbch c\u00f4ng ty kinh doanh nh\u00e0 nh\u01b0ng kh\u00f4ng ai mua",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 B\u1ea5t Th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Jefferies downgrades Artiva Biotherapeutics to Hold from Buy, sets price target ",
     "ECB to hike once more in December as tighter conditions may not suffice: Deutsch",
     "V\u01b0\u1ee3t qua M\u1ef9, c\u00f4ng tr\u00ecnh s\u1edf h\u1eefu ballroom l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi do Sun Group \u0111\u1ea7u t\u01b0 ho",
     "TCH: CTCP \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy - TCH - VietstockFinance",
@@ -449,6 +443,12 @@
     "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
     "Your pay, energy bills and savings: How the Budget affects you",
     "What\u2019s Next for Global Natural Gas Demand?",
-    "BP posts net income of $8.46 billion, beating expectations"
+    "BP posts net income of $8.46 billion, beating expectations",
+    "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
+    "FX option expiries for 30 October 10am New York cut",
+    "Kh\u00f4ng ch\u1ec9 l\u00e0 l\u01b0\u01a1ng Real Madrid, \u0111\u00e2y l\u00e0 b\u00ed m\u1eadt gi\u00fap Mbappe \u0111\u00fat t\u00fai h\u01a1n 2.800 t\u1ef7 \u0111",
+    "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
+    "Alphabet Q3 Earnings Call Highlights - TradingView",
+    "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass"
   ]
 }
