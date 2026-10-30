@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793382712.2491884,
+  "last_signals": 1793383310.0341775,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -45,7 +45,7 @@
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
-    "5575146754|Gold|4H|dn": 1793378444.0677392,
+    "5575146754|Gold|4H|dn": 1793383310.0341775,
     "5575146754|Gold|4H|trap_dn": 1793355193.9312518,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793380842.6853085
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793382714.6461987,
+    "GBP/USD|1D:top": 1793383312.2922225,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793383016.5835109,
-  "last_news": 1793382712.248185,
+  "last_news": 1793383310.033253,
   "seen_news": [
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Forrester Research Q3 2026 Earnings Call Is Live - TradingView",
-    "The midterms are crucial to the future of Social Security \u2014 no matter how old yo",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-    "Who should pay on the first date?",
-    "China\u2019s Battery Factories May Sit Atop Lithium Resources",
     "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. ",
     "What we now know about the UK economy in four charts",
     "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
@@ -452,6 +446,12 @@
     "American workers are finding their take-home pay isn\u2019t keeping up with inflation",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "US tech stocks see sharp falls as AI spending nears $1tn",
-    "European Gas Tops 101 Euros for First Time Since 2022"
+    "European Gas Tops 101 Euros for First Time Since 2022",
+    "Social Security\u2019s fate \u2014 and your benefits \u2014 are in the hands of the candidates ",
+    "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading i",
+    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "Water Tank Rupture Triggers Safety Concerns at Tajikistan\u2019s Rogun Dam",
+    "European shares stumble at end of best month since June on AI worries",
+    "Nasdaq leads stocks lower as investors question the cost of AI growth"
   ]
 }
