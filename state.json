@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793358664.1010754,
-  "last_bot4": 1793365886.7172582,
+  "last_bot4": 1793366545.6123753,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793365238.4994557
+    "Gold": 1793366545.6122575
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793366215.6194086,
+  "last_signals": 1793366545.6130278,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -46,7 +46,8 @@
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793365602.2635705,
-    "5575146754|Gold|4H|trap_dn": 1793355193.9312518
+    "5575146754|Gold|4H|trap_dn": 1793355193.9312518,
+    "5575146754|Gold|1H|momo_dn": 1793366545.6130278
   },
   "sig_range": {
     "Gold": true,
@@ -70,7 +71,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -138,25 +139,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793366218.3530757,
-    "JPY Index|4H:bot": 1793366218.9950273,
+    "USD/JPY|4H:bot": 1793366547.6224792,
+    "JPY Index|4H:bot": 1793366548.108926,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793366218.692679,
+    "DXY|4H:bot": 1793366547.913653,
     "GBP/USD|1D:top": 1793343539.6771522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793366205.8157861,
-  "last_news": 1793366215.6184878,
+  "last_analysis": 1793366532.0907447,
+  "last_news": 1793366542.6718216,
   "seen_news": [
-    "Khoan h\u01a1n 7.200 m\u00e9t, li\u00ean ti\u1ebfp ph\u00e1t hi\u1ec7n 3 t\u1ea7ng ch\u1ee9a d\u1ea7u tr\u1eef l\u01b0\u1ee3ng l\u00ean t\u1edbi 10 t\u1ef7",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
-    "PZZA Q3'26 Earnings: revenue estimate is 458.70M USD - TradingView",
-    "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-    "'An annoying buzz': The search for stealthier drones",
-    "US plans to ban Chinese telecom firms from direct access to US phone numbers",
     "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM - Viets",
     "Sweco AB (publ) (SWEC_A) Q3 Sales Up 7%, EBITA Margin 10.3% - TradingView",
     "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
@@ -450,6 +445,12 @@
     "Gamble on democracy: Inside suspicious election-contracts trading on prediction ",
     "US interest rates held steady and economy grows - what it means for you",
     "Amadeus It Group shares may move 2.5% on earnings release",
-    "Canada GDP for August 0.0% vs 0.2% estimate"
+    "Canada GDP for August 0.0% vs 0.2% estimate",
+    "AMD\u2019s stock slides after Intel earnings reveal two big issues",
+    "Foxconn hopes to own 50% of the global AI server market within a couple years",
+    "The AI telling farmers when to harvest",
+    "Aperam stock may move 5.4% on Nov. 6 earnings release",
+    "US employment cost index for Q3 +0.8% vs +0.8% expected",
+    "V\u1ee5 tr\u1ed9m ti\u1ec1n \u0111i\u1ec7n t\u1eed l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi: Tin t\u1eb7c \u0111\u00e1nh c\u1eafp 6,3 t\u1ef7 USD t\u1eeb Binance c"
   ]
 }
