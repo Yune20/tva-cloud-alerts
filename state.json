@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793328755.3917983,
+  "last_signals": 1793329351.7085319,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793326294.6848881,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793329627,
@@ -137,25 +137,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
     "Ethereum|4H:bot": 1793249822.8536267,
-    "USD/JPY|4H:bot": 1793328141.536884,
-    "JPY Index|4H:bot": 1793328141.932789,
+    "USD/JPY|4H:bot": 1793329354.4906025,
+    "JPY Index|4H:bot": 1793329355.1490314,
     "EUR/USD|4H:top": 1793317916.5077775,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793328757.013665,
+    "GBP/USD|1D:top": 1793329353.7918615,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793329060.8178396,
-  "last_news": 1793328755.3910923,
+  "last_news": 1793329351.7079713,
   "seen_news": [
-    "Island Energy: No plans to remove gas standing charge",
-    "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
-    "ECB preview: All Lagarde needs to do today is not rock the boat",
-    "M\u1ea5t kh\u00e1ch Vietjet, c\u00f4ng ty d\u1ecbch v\u1ee5 h\u00e0ng kh\u00f4ng \u0111\u01b0\u1ee3c b\u00f9 \u0111\u1eafp b\u1edfi Sun Ph\u00fa Qu\u1ed1c Airwa",
-    "Page or Company not found! - VietstockFinance",
-    "Why Plexus (PLXS) stock is down today - TradingView",
     "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
     "Why is Hyperliquid Strategies stock surging today?",
     "Trump administration in ongoing talks for a temporary peace deal with Iran - Sem",
@@ -449,6 +443,12 @@
     "SK Hynix rejected at SMA(50): Live levels",
     "Chainalysis estimates $5.9B stolen in suspected Binance hack, nearly 4 times Byb",
     "X\u00e3 H\u00e1t M\u00f4n \u0111\u1ea9y nhanh b\u00e0n giao m\u1eb7t b\u1eb1ng d\u1ef1 \u00e1n \u0111\u01b0\u1eddng 42m",
-    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc"
+    "HCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,775 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm",
+    "Japan September factory output beats forecasts, but retail sales disappoint ahea",
+    "Quy \u0111\u1ecbnh m\u1edbi th\u1ee7 t\u1ee5c \u0111\u1ea5t \u0111ai \u1edf TPHCM: Kh\u00f4ng c\u1ea7n \u0111\u1ebfn n\u01a1i c\u00f3 nh\u00e0 \u0111\u1ea5t",
+    "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "Gold\u2019s slowing downtrend raises prospect of reversal - TradingView",
+    "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallou"
   ]
 }
