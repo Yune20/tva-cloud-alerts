@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793385519.198283,
+  "last_signals": 1793386134.1566656,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -65,9 +65,9 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793384902.8207767,
+    "GBP/USD|1D:top": 1793386136.4216611,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793385508.8059936,
-  "last_news": 1793385519.1975331,
+  "last_analysis": 1793386124.5412323,
+  "last_news": 1793386134.1558607,
   "seen_news": [
-    "Praj Industries Q2 2027 Earnings Call Is Live - TradingView",
-    "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
-    "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-    "Your pay, energy bills and savings: How the Budget affects you",
-    "What\u2019s Next for Global Natural Gas Demand?",
-    "BP posts net income of $8.46 billion, beating expectations",
     "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
     "FX option expiries for 30 October 10am New York cut",
     "Kh\u00f4ng ch\u1ec9 l\u00e0 l\u01b0\u01a1ng Real Madrid, \u0111\u00e2y l\u00e0 b\u00ed m\u1eadt gi\u00fap Mbappe \u0111\u00fat t\u00fai h\u01a1n 2.800 t\u1ef7 \u0111",
@@ -452,6 +446,12 @@
     "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash",
     "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spil",
     "What we now know about the UK economy in four charts",
-    "Chevron Profits Nearly Triple to $9.9 Billion"
+    "Chevron Profits Nearly Triple to $9.9 Billion",
+    "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+    "What the Budget offers for under 25s - and what it leaves out",
+    "Bank of America sued over mandatory arbitration for employee disputes",
+    "Carney: Canada, EU working toward deepest possible partnership, short of accessi",
+    "Vi\u1ec7t Nam c\u00f3 1 c\u00f4ng tr\u00ecnh thu\u1ed9c d\u1ea1ng \"l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi\": Ch\u1ee9a \"t\u00fai n\u01b0\u1edbc\" kho\u1ea3ng ",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance"
   ]
 }
