@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793315066.1260576,
-  "last_bot4": 1793324077.326043,
+  "last_bot4": 1793324716.4315035,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793324348.3740792,
+  "last_signals": 1793324716.4402778,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793324348.3740792,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -138,25 +138,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
     "Ethereum|4H:bot": 1793249822.8536267,
-    "USD/JPY|4H:bot": 1793324349.772105,
-    "JPY Index|4H:bot": 1793324350.097505,
+    "USD/JPY|4H:bot": 1793324718.594657,
+    "JPY Index|4H:bot": 1793324719.0914376,
     "EUR/USD|4H:top": 1793317916.5077775,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793324349.44703,
+    "GBP/USD|1D:top": 1793324718.104841,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793324046.0516489,
-  "last_news": 1793324348.3732772,
+  "last_analysis": 1793324708.0302823,
+  "last_news": 1793324716.4307957,
   "seen_news": [
-    "What Alkami Technology (ALKT) Said on Its Q3 Earnings Call - TradingView",
-    "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
-    "The AI telling farmers when to harvest",
-    "Crocs shares surge on raised forecast as HEYDUDE turnaround gains traction",
-    "WTI crude oil rebounds after a failed break below $100 and the 200-hour MA",
-    "Di\u1ec5n bi\u1ebfn m\u1edbi nh\u1ea5t v\u1ec1 8 c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng, s\u00f4ng \u0110u\u1ed1ng, c\u00f3 2 c\u00e2y c\u1ea7u d\u1ef1 ki\u1ebfn",
     "European shares climb to near 2-month highs as ECB holds rates",
     "Boeing stock analysis: Is the earnings selloff a buy-the-dip opportunity?",
     "Vi\u1ec7t Nam c\u00f3 h\u00f2n \u0111\u1ea3o ch\u1ec9 r\u1ed9ng h\u01a1n 0,1 km2, kh\u00f4ng c\u00f3 c\u01b0 d\u00e2n sinh s\u1ed1ng: L\u00e0 n\u01a1i \u0111\u1eb7t ",
@@ -450,6 +444,12 @@
     "Kho\u1ea3n h\u1ed7 tr\u1ee3 cho Ukraine khi\u1ebfn EU ph\u1ea3i tr\u1ea3 \u00edt nh\u1ea5t 35 t\u1ef7 euro ti\u1ec1n l\u00e3i, 4 qu\u1ed1c g",
     "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
     "Gasoline Hovers Near August Lows - TradingView",
-    "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversi"
+    "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversi",
+    "Ai L\u00e0 Tri\u1ec7u Ph\u00fa t\u1eebng c\u00f3 ng\u01b0\u1eddi ch\u01a1i tham gia ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 ki\u1ebfm ti\u1ec1n \u1ee7ng h\u1ed9 \u0110\u01b0\u1edd",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Fed pauses, Big Tech reports - TradingView",
+    "Norwegian shares surge 13% on earnings beat, guidance raise",
+    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+    "The CCS Project That Passed Every Test Except the Investment Test"
   ]
 }
