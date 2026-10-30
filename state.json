@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793341993.1105387,
+  "last_signals": 1793342317.273704,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -62,8 +62,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|1H": true,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -142,20 +142,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793341994.105501,
+    "GBP/USD|1D:top": 1793342318.266863,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793341705.51483,
-  "last_news": 1793341993.1096873,
+  "last_analysis": 1793342309.277388,
+  "last_news": 1793342317.272749,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Canaccord Genuity maintains Etsy at Buy, raises price target to $105 from $92 - ",
-    "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflat",
-    "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
-    "What we now know about the UK economy in four charts",
-    "Canadian dollar holds gains after Bank of Canada delivers rate hike",
     "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
     "What the Budget offers for under 25s - and what it leaves out",
     "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
@@ -449,6 +443,12 @@
     "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
     "'Painful' years ahead, think tanks warn, as living standards set to fall",
     "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate",
-    "Spotify eyes early 2027 launch for AI powered remix service - report"
+    "Spotify eyes early 2027 launch for AI powered remix service - report",
+    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Forrester Research Q3 2026 Earnings Call Is Live - TradingView",
+    "The midterms are crucial to the future of Social Security \u2014 no matter how old yo",
+    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
+    "Who should pay on the first date?",
+    "China\u2019s Battery Factories May Sit Atop Lithium Resources"
   ]
 }
