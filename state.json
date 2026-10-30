@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793347561.4401798,
+  "last_signals": 1793348181.532243,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793348442,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793347552.3572607,
-  "last_news": 1793347561.438283,
+  "last_analysis": 1793348171.60732,
+  "last_news": 1793348181.5313694,
   "seen_news": [
-    "Trafigura Signs New Gas Supply Deal with German SEFE",
-    "Rivian says it\u2019s on track for $250 million Uber funding by year-end, R2 demand s",
-    "ANZ lifts year-end Brent forecast to $105 as tight physical market persists",
-    "7 d\u1ef1 \u00e1n nh\u00e0 \u1edf thu\u1ed9c ph\u1ea1m vi t\u00e1i thi\u1ebft \u0111\u00f4 th\u1ecb V\u0129nh H\u01b0ng \u0111\u01b0\u1ee3c \u0111\u1ec1 xu\u1ea5t \u0111\u01b0a ra kh\u1ecfi ",
-    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
-    "EQB Inc. (EQB) To Sell Bennington at ~8% Discount to Receivables - TradingView",
     "Tokyo October CPI 2.8% (2.7% expected)",
     "N\u1eef MC SN 1993 l\u1ea7n \u0111\u1ea7u ti\u00ean d\u1eabn Chung k\u1ebft Olympia, t\u1eebng \u0111\u1ea1t gi\u1ea3i Ba ti\u1ebfng Anh c\u1ea5p",
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
@@ -449,6 +443,12 @@
     "NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
     "France inflation heats up again in October, leaving the ECB caught between a roc",
     "Huy \u0111\u1ed9ng 50 d\u1ea7m th\u00e9p c\u00f9ng 560 b\u00e1nh xe \u0111\u1ec3 di d\u1eddi c\u00f4ng tr\u00ecnh n\u1eb7ng g\u1ea7n 3.000 t\u1ea5n, h",
-    "FPT: CTCP FPT - FPT Corp - VietstockFinance"
+    "FPT: CTCP FPT - FPT Corp - VietstockFinance",
+    "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings.",
+    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
+    "Yorkshire Water boss resigns after firm downgraded",
+    "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+    "Hungary\u2019s economy grew 1.5% in third quarter, preliminary data shows",
+    "German import prices surge at fastest pace in nearly four years as energy costs "
   ]
 }
