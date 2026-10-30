@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793358664.1010754,
+  "last_news_report": 1793369684.4887764,
   "last_bot4": 1793369338.78284,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793369071.5956316,
+  "last_signals": 1793369684.489834,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -45,9 +45,10 @@
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
-    "5575146754|Gold|4H|dn": 1793365602.2635705,
+    "5575146754|Gold|4H|dn": 1793369684.489834,
     "5575146754|Gold|4H|trap_dn": 1793355193.9312518,
-    "5575146754|Gold|1H|momo_dn": 1793369071.5956316
+    "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
+    "5575146754|Gold|4H|momo_dn": 1793369684.489834
   },
   "sig_range": {
     "Gold": true,
@@ -70,26 +71,26 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793369927,
@@ -143,21 +144,15 @@
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793369074.4177902,
-    "GBP/USD|1D:top": 1793369073.3945832,
+    "DXY|4H:bot": 1793369686.1465232,
+    "GBP/USD|1D:top": 1793369685.6432972,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793369060.6703417,
-  "last_news": 1793369071.5948162,
+  "last_analysis": 1793369670.2759383,
+  "last_news": 1793369680.0740652,
   "seen_news": [
-    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
-    "Island Energy: No plans to remove gas standing charge",
-    "SK Hynix trapped in cloud between SMA(20) and SMA(50): Live",
-    "BOJ declares inflation victory but still won't budge on rates, so what's the hol",
-    "Bill Gates: 'K\u1ef9 n\u0103ng l\u1eadp tr\u00ecnh c\u1ee7a t\u00f4i v\u1ec1 c\u01a1 b\u1ea3n \u0111\u00e3 l\u1ea1c h\u1eadu' - c\u00fa s\u1ed1c t\u1eeb AI sau ",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
     "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchange",
     "The tech helping crack decades-old cold cases",
     "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
@@ -451,6 +446,12 @@
     "Pentagon releases satellite photo of secret Chinese spaceplane - TradingView",
     "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep cl",
     "Jim Cramer's top 10 things to watch in the stock market Friday",
-    "What we know about Binance's $6.3bn hack"
+    "What we know about Binance's $6.3bn hack",
+    "News by CNBC TV18 on TradingView, 2026-10-29 \u2014 cnbctv:1ccaf5962094b:0 - TradingV",
+    "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+    "BP\u2019s third-quarter profit nearly quadruples to $8.5 billion as refining margins ",
+    "My hometown shows that high streets have to change or die",
+    "Trump Considers Lifting Sanctions on Putin\u2019s \u2018Slush Fund\u2019",
+    "Nasdaq slides over 2% at the open as tech earnings deepen AI spending concerns"
   ]
 }
