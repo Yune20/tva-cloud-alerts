@@ -29,11 +29,11 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793343538.6002936,
+  "last_signals": 1793344142.9035773,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
-    "5575146754|Gold|1H|trap_dn": 1793335878.6826088,
+    "5575146754|Gold|1H|trap_dn": 1793344142.9035773,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
     "5575146754|Gold|4H|dbot": 1793337118.585362,
     "5575146754|Gold|4H|trap_dn": 1792739435.6599529,
@@ -45,7 +45,8 @@
     "5575146754|Gold|4H|ttop": 1793213775.711567,
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
-    "5575146754|Gold|1D|dbot": 1793337739.603389
+    "5575146754|Gold|1D|dbot": 1793337739.603389,
+    "5575146754|Gold|4H|dn": 1793344142.9035773
   },
   "sig_range": {
     "Gold": true,
@@ -147,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793343530.766731,
-  "last_news": 1793343538.599396,
+  "last_analysis": 1793344135.367399,
+  "last_news": 1793344142.9026153,
   "seen_news": [
-    "Intel beats Q3 profit forecasts, but weak Q4 guidance and PC outlook weigh. Shar",
-    "Cu\u1ed9c \u0111\u1ed1i \u0111\u1ea7u k\u1ef3 l\u1ea1 \u1edf ph\u00f2ng v\u00e9 Trung Qu\u1ed1c: Phim AI t\u1ed1n h\u01a1n 36 t\u1ef7 \u0111\u1ed3ng thua th\u1ea3m p",
-    "CTD: Khuy\u1ebfn ngh\u1ecb N\u1eafm gi\u1eef v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 71,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "News by CNBC TV18 on TradingView, 2026-10-29 \u2014 cnbctv:076b27431094b:0 - TradingV",
-    "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
-    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng Vi\u1ec7t Nam c\u1ea3i thi\u1ec7n trong b\u1ed1i c\u1ea3nh t\u0103ng tr\u01b0\u1edfng",
     "PRTA: Three partnered clinical programs advance alongside differentiated preclin",
     "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
@@ -449,6 +444,12 @@
     "MC VTV cao v\u1ecfn v\u1eb9n 1m50: 24 tu\u1ed5i c\u01b0\u1edbi ch\u1ed3ng gi\u00e1m \u0111\u1ed1c, t\u1eadn h\u01b0\u1edfng cu\u1ed9c s\u1ed1ng tr\u00ean t",
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
     "Key facts: Deutsche Bank (DBK) CRE de\u2011risking; DWS curbs redemptions - TradingVi",
-    "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflat"
+    "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflat",
+    "Canadian dollar holds gains after Bank of Canada delivers rate hike",
+    "BOJ governor Ueda says will stick to rate hike path in response to latest macro ",
+    "Th\u1ea3o lu\u1eadn v\u1ec1 d\u1ef1 \u00e1n Lu\u1eadt Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n (s\u1eeda \u0111\u1ed5i): Kh\u00f4ng \u0111\u1ec3 ch\u1ee7 \u0111\u1ea7u t\u01b0 c",
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
+    "BlincVision AB (publ) (BLINC_B) CFO Dan Wahrenberg To Depart - TradingView",
+    "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance"
   ]
 }
