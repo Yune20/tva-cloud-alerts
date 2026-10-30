@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793358664.1010754,
-  "last_bot4": 1793363634.4863572,
+  "last_bot4": 1793364320.3851004,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793362980.752959
+    "Gold": 1793364320.385
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793363968.521511,
+  "last_signals": 1793364320.3858552,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -75,19 +75,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -138,25 +138,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793357760.952684,
-    "JPY Index|4H:bot": 1793357761.2439878,
+    "USD/JPY|4H:bot": 1793364323.273861,
+    "JPY Index|4H:bot": 1793364323.9574866,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793363973.367575,
+    "DXY|4H:bot": 1793364323.6633818,
     "GBP/USD|1D:top": 1793343539.6771522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793363954.3918953,
-  "last_news": 1793363968.5206296,
+  "last_analysis": 1793364309.780741,
+  "last_news": 1793364317.182439,
   "seen_news": [
-    "Our AI knew it: +72%, +60%, +59% - these picks are still climbing into Q3 result",
-    "US treasury sells $44 billion of 7 year notes at a high yield of 4.894%",
-    "\u0110\u1ed9ng th\u00e1i m\u1edbi c\u1ee7a Tesla \u1edf Vi\u1ec7t Nam",
-    "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank - VietstockFinance",
-    "AAOI Q3'26 Earnings: revenue estimate is 268.11M USD - TradingView",
-    "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to",
     "H\u01a1n 5,5 t\u1ef7 USD ti\u1ec1n m\u00e3 h\u00f3a b\u1ecb \u0111\u00e1nh c\u1eafp, Binance \u0111\u1ed1i m\u1eb7t v\u1ee5 hack l\u1edbn nh\u1ea5t l\u1ecbch s\u1eed",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
     "Why eCommerce Teams Are Turning to Dedicated Virtual Assistants - TradingView",
@@ -450,6 +444,12 @@
     "Here\u2019s the math on Amazon CEO\u2019s claim to be on path to two trillion-dollar-reven",
     "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz"
+    "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
+    "Rainmakers: The drones used to seed clouds",
+    "BP Quadruples Profit to Record as War Boosts Refining and Trading",
+    "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
+    "Japan September factory output beats forecasts, but retail sales disappoint ahea",
+    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef chuy\u1ec3n kho\u1ea3n nh\u1ea7m 77 tri\u1ec7u \u0111\u1ed3ng, ng\u01b0\u1eddi nh\u1eadn kh\u00f4ng tr\u1ea3 l\u1ea1i m\u00e0 c\u00f2n tu",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
