@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793345732.2032197,
+  "last_signals": 1793346336.7054029,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -62,8 +62,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|1H": false,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793345723.2594874,
-  "last_news": 1793345732.201085,
+  "last_analysis": 1793346327.1748393,
+  "last_news": 1793346336.704584,
   "seen_news": [
-    "ECB to hike once more in December as tighter conditions may not suffice: Deutsch",
-    "V\u01b0\u1ee3t qua M\u1ef9, c\u00f4ng tr\u00ecnh s\u1edf h\u1eefu ballroom l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi do Sun Group \u0111\u1ea7u t\u01b0 ho",
-    "TCH: CTCP \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy - TCH - VietstockFinance",
-    "Brazilian Real Weakens as Fiscal Concerns Persist - TradingView",
-    "Why Intel\u2019s stock is sinking toward its worst drop in two years",
-    "DOJ amends Alaska Senate suit to suggest Peltola campaign misled court over Sull",
     "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
     "Industrial Growth Partners Announces Sale of AdvancedPCB - TradingView",
     "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings.",
@@ -449,6 +443,12 @@
     "Kh\u00f4ng ch\u1ec9 l\u00e0 l\u01b0\u01a1ng Real Madrid, \u0111\u00e2y l\u00e0 b\u00ed m\u1eadt gi\u00fap Mbappe \u0111\u00fat t\u00fai h\u01a1n 2.800 t\u1ef7 \u0111",
     "KBC: T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Kinh B\u1eafc - CTCP - KINHBAC CITY GROUP - Viets",
     "Alphabet Q3 Earnings Call Highlights - TradingView",
-    "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass"
+    "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+    "\u0110\u00e0 N\u1eb5ng giao \u0111\u1ea5t \u0111\u1ee3t cu\u1ed1i cho QNIC l\u00e0m Khu ph\u1ed1 m\u1edbi Ph\u01b0\u1edbc An",
+    "AAS: CTCP Ch\u1ee9ng kho\u00e1n SmartInvest - SMARTSC - VietstockFinance",
+    "Key facts: NYSE:STM Q3 revenue $3.76B; management reshuffle set 2027 - TradingVi",
+    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. ",
+    "Healey provides some breathing space but things still set to get worse for most",
+    "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities"
   ]
 }
