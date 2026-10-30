@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793362060.4487517,
+  "last_signals": 1793362676.8397095,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -142,21 +142,15 @@
     "JPY Index|4H:bot": 1793357761.2439878,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793362061.996118,
+    "DXY|4H:bot": 1793362679.2987022,
     "GBP/USD|1D:top": 1793343539.6771522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793362050.733002,
-  "last_news": 1793362060.4476755,
+  "last_analysis": 1793362665.374949,
+  "last_news": 1793362676.8386889,
   "seen_news": [
-    "BoJ decision due shortly: hold at 1.25% expected, December signal in focu",
-    "Khi n\u00e0o b\u1ecb coi l\u00e0 ch\u1eadm \u0111\u00f3ng BHXH?",
-    "Page or Company not found! - VietstockFinance",
-    "Hippo Q3 Earnings Call Highlights - TradingView",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Binance says crypto worth $6.3bn impacted in suspected hack",
     "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
     "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
     "Morgan Stanley\u2019s Wilson sees one final sell-off before US stock correction ends",
@@ -450,6 +444,12 @@
     "Bolsonaro\u2019s Election Defeat Could Complicate U.S. Rare Earth Plans",
     "Sanofi teases appetite for larger deals, lifts 2026 growth targets under new CEO",
     "investingLive European session wrap: AI spending fears spook tech stocks; dollar",
-    "C\u01a1m nh\u00e0 MC SN 1986 \u0111ang l\u00e0m s\u1ebfp, d\u1eabn li\u00ean ti\u1ebfp 5 m\u00f9a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia"
+    "C\u01a1m nh\u00e0 MC SN 1986 \u0111ang l\u00e0m s\u1ebfp, d\u1eabn li\u00ean ti\u1ebfp 5 m\u00f9a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia",
+    "Israel\u2019s Election Deadlock Opens the Door to Another Iran Offensive",
+    "Why is Capri Holdings stock surging today?",
+    "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. W",
+    "Th\u00eam nhi\u1ec1u ng\u00e2n h\u00e0ng gi\u1ea3m l\u00e3i su\u1ea5t",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Embraer announces 4-for-1 ADS forward split - TradingView"
   ]
 }
