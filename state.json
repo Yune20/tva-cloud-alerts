@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793354594.291076,
+  "last_signals": 1793355193.9312518,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793348790.514214,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -45,7 +45,8 @@
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
-    "5575146754|Gold|4H|dn": 1793344142.9035773
+    "5575146754|Gold|4H|dn": 1793344142.9035773,
+    "5575146754|Gold|4H|trap_dn": 1793355193.9312518
   },
   "sig_range": {
     "Gold": true,
@@ -137,25 +138,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793354597.1065032,
-    "JPY Index|4H:bot": 1793354597.7944126,
+    "USD/JPY|4H:bot": 1793355195.1992323,
+    "JPY Index|4H:bot": 1793355195.5145757,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793354597.4500742,
+    "DXY|4H:bot": 1793355195.3640852,
     "GBP/USD|1D:top": 1793343539.6771522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
   "last_analysis": 1793354897.1486468,
-  "last_news": 1793354594.2902498,
+  "last_news": 1793355193.9305012,
   "seen_news": [
-    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
-    "Weis Markets declares $0.34 dividend - TradingView",
-    "How elections worldwide are testing Trump\u2019s influence abroad",
-    "How long will humans be needed for translation?",
-    "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb",
-    "Bayer wins US trial in which it was alleged that Roundup caused cancer in three\u00a0",
     "Bambusa Therapeutics prices IPO at $16 per share on Nasdaq",
     "Binance halts deposits and withdrawals, pledges to cover all losses from suspect",
     "5 lo\u1ea1i n\u01b0\u1edbc \u0111\u1ed9t qu\u1ef5 \"gh\u00e9t nh\u1ea5t tr\u00ean \u0111\u1eddi\": B\u1ea5t ng\u1edd v\u00ec qu\u00e1 r\u1ebb, qu\u00e1 quen v\u1edbi ng\u01b0\u1eddi ",
@@ -449,6 +444,12 @@
     "European stock market open: Stocks stumble as AI fears spook markets, Italy and ",
     "D\u1eebng thi c\u00f4ng tuy\u1ebfn t\u00e0u cao t\u1ed1c 500 km/h do chi ph\u00ed \u0111\u1ed9i l\u00ean g\u1ea5p \u0111\u00f4i, r\u00fat ng\u1eafn th",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "INTC: Intel Stock Plunges 24% as Weak Outlook Overshadows Strong Earnings Growth"
+    "INTC: Intel Stock Plunges 24% as Weak Outlook Overshadows Strong Earnings Growth",
+    "Google value plunges by $500bn as AI search hits ad sales",
+    "German Bunds set for best month since February as tech rout triggers safety bid",
+    "German state inflation cools in October, but will that ease the ECB's headache?",
+    "C\u1ef1u nh\u00e2n vi\u00ean VinFast l\u0129nh 17 n\u0103m t\u00f9 v\u00ec l\u00e0m gi\u1ea3, gi\u1ea3 m\u1ea1o h\u1ed3 s\u01a1 \u01b0u \u0111\u00e3i mua xe",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Euro markets slip as tech selloff weighs on sentiment - TradingView"
   ]
 }
