@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793358373.530289,
+  "last_signals": 1793358993.7759593,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793358363.446959,
-  "last_news": 1793358373.52944,
+  "last_analysis": 1793358981.2609346,
+  "last_news": 1793358993.775125,
   "seen_news": [
-    "Mexico\u2019s Richest Man Sells $1.15 Billion in Oil Stocks",
-    "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
-    "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-yea",
-    "K\u1ef9 s\u01b0 Nga h\u1ed3i sinh si\u00eau ph\u1ea9m c\u00f4ng ngh\u1ec7 t\u1eeb g\u00e3 kh\u1ed5ng l\u1ed3 n\u0103ng l\u01b0\u1ee3ng \u0110\u1ee9c: \"\u0110\u1eafp chi\u1ebfu",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Federal Reserve holds rate at 3.75%-4.00%, with two dissents - TradingView",
     "Amazon and Intel results deepen worries over AI boom costs as tech, chip stocks ",
     "Nam di\u1ec5n vi\u00ean nh\u1eadn b\u1eb1ng khen c\u1ee7a B\u1ed9 Qu\u1ed1c ph\u00f2ng: T\u1eeb nh\u00e2n vi\u00ean so\u00e1t v\u00e9 \u0111\u1ebfn \"g\u01b0\u01a1ng ",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - V",
@@ -450,6 +444,12 @@
     "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a hi",
     "Tech giants need legacy businesses to keep growing as they pour trillions into t",
     "Streeting denies 'kicking can down the road' in defence spending row",
-    "The CCS Project That Passed Every Test Except the Investment Test"
+    "The CCS Project That Passed Every Test Except the Investment Test",
+    "AIX Debt Capital Structure II Designated Activity Company Notes Face Risk After ",
+    "AI could hit consumers\u2019 ability to manage their debt. Here\u2019s the trade.",
+    "Chevron and Exxon beat earnings expectations as refining profits soar on high di",
+    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+    "Sterling today: Pound firms as dollar slips on midterm, AI jitters",
+    "Italy October preliminary CPI +5.4% vs +4.6% y/y expected"
   ]
 }
