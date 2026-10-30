@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793380842.6853085,
+  "last_signals": 1793381455.6873558,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -78,9 +78,9 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793380843.7370915,
+    "GBP/USD|1D:top": 1793381456.8032346,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793380835.50878,
-  "last_news": 1793380842.6843898,
+  "last_analysis": 1793381448.0108302,
+  "last_news": 1793381455.6843,
   "seen_news": [
-    "MBB: Ng\u00e2n h\u00e0ng TMCP Qu\u00e2n \u0111\u1ed9i - Ng\u00e2n h\u00e0ng Qu\u00e2n \u0111\u1ed9i (MB) - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - Vi",
-    "Roblox Q3 2026 Earnings Call Is Live - TradingView",
-    "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries ",
-    "Google value plunges by $500bn as AI fears rattle Wall Street",
-    "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
-    "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E",
     "investingLive Americas market news wrap: ECB holds, sources report says December",
     "M\u1ed9t ca s\u0129 tham gia thi\u1ebft k\u1ebf xe m\u00e1y \u0111i\u1ec7n cho \u201ctay ch\u01a1i m\u1edbi\u201d c\u1ee7a Vi\u1ec7t Nam",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
@@ -452,6 +446,12 @@
     "Oil Traders Brace for a Wild Week as Brent Approaches $120",
     "Intel on course for worst day ever, triggers global chip rout",
     "How has the Magnificent 7 done relatively to the broader stock indices today?",
-    "Di\u1ec5n bi\u1ebfn m\u1edbi t\u1ea1i d\u1ef1 \u00e1n cao t\u1ed1c g\u1ea7n 19.000 t\u1ef7 r\u00fat ng\u1eafn t\u1eeb TP.HCM \u0111i \u0110\u00e0 L\u1ea1t c\u00f2n 3"
+    "Di\u1ec5n bi\u1ebfn m\u1edbi t\u1ea1i d\u1ef1 \u00e1n cao t\u1ed1c g\u1ea7n 19.000 t\u1ef7 r\u00fat ng\u1eafn t\u1eeb TP.HCM \u0111i \u0110\u00e0 L\u1ea1t c\u00f2n 3",
+    "ExxonMobil Profits Double to $15.4 Billion",
+    "Meta settles with teen during trial testing claims social media caused depressio",
+    "Fed\u2019s Musalem: Moving sooner with rate hikes lessens risk of hit to broader econ",
+    "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 31/10: BSR, SHB, Eximbank, Vietnam Airlines c\u00f9ng n",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Realty Income Q3 earnings on deck: What to expect - TradingView"
   ]
 }
