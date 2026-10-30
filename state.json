@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793384901.0714078,
+  "last_signals": 1793385519.198283,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -65,14 +65,14 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -124,7 +124,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793384289.6645892,
+    "USOIL|4H:top": 1793385519.7461963,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793379606.4034128,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793384893.0179176,
-  "last_news": 1793384901.0704405,
+  "last_analysis": 1793385508.8059936,
+  "last_news": 1793385519.1975331,
   "seen_news": [
-    "Japan Housing Starts Unexpectedly Drop - TradingView",
-    "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses t",
-    "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
-    "What the Budget offers for under 25s - and what it leaves out",
-    "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
-    "France's economy contracts in Q3 as growth troubles pile up for the ECB",
     "Praj Industries Q2 2027 Earnings Call Is Live - TradingView",
     "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
     "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
@@ -452,6 +446,12 @@
     "ServiceNow Plunges as Slower Growth Exposes Valuation Risk - TradingView",
     "The big winners of the tech wreck are biopharma stocks",
     "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in",
-    "'Painful' years ahead, think tanks warn, as living standards set to fall"
+    "'Painful' years ahead, think tanks warn, as living standards set to fall",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "NAVI's Restructuring Risks Trigger S&P Outlook Downgrade: What's Next? - Trading",
+    "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash",
+    "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spil",
+    "What we now know about the UK economy in four charts",
+    "Chevron Profits Nearly Triple to $9.9 Billion"
   ]
 }
