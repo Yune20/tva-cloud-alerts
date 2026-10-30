@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793391785.7158117,
+  "last_signals": 1793392396.0059264,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,7 +127,7 @@
     "USOIL|4H:top": 1793391163.5735831,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793391786.2722235,
+    "Bitcoin|4H:bot": 1793392397.0239685,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -150,15 +150,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793391777.0388162,
-  "last_news": 1793391785.7148883,
+  "last_analysis": 1793392387.331965,
+  "last_news": 1793392396.005204,
   "seen_news": [
-    "Google value plunges by $500bn as AI search hits ad sales",
-    "German Bunds set for best month since February as tech rout triggers safety bid",
-    "German state inflation cools in October, but will that ease the ECB's headache?",
-    "C\u1ef1u nh\u00e2n vi\u00ean VinFast l\u0129nh 17 n\u0103m t\u00f9 v\u00ec l\u00e0m gi\u1ea3, gi\u1ea3 m\u1ea1o h\u1ed3 s\u01a1 \u01b0u \u0111\u00e3i mua xe",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Euro markets slip as tech selloff weighs on sentiment - TradingView",
     "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
     "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
     "V\u00ec sao Doraemon c\u00f3 \u0111\u00fang 6 s\u1ee3i r\u00e2u?",
@@ -452,6 +446,12 @@
     "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
     "Ventripoint Diagnostics Ltd. (VPT) Seeks Extension of $0.10 Unit Financing - Tra",
     "Wage growth hits 5-year low as American workers find their take-home pay is \u2018str",
-    "Intel stock has worst day since 1970s, wiping about $12 billion off government's"
+    "Intel stock has worst day since 1970s, wiping about $12 billion off government's",
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "INTC: Intel Stock Plunges 24% as Weak Outlook Overshadows Strong Earnings Growth",
+    "The selloff in tech stocks is shifting into overdrive",
+    "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+    "From Levi's to Primark - the fashion chains selling mended clothes",
+    "UBS raises zloty forecast as currency faces mounting pressure"
   ]
 }
