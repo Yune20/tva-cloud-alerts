@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793320977.381677,
+  "last_signals": 1793321592.088542,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793314159.237486,
-    "5575146754|Gold|4H|range_in": 1793317288.9399257,
+    "5575146754|Gold|1H|range_in": 1793321592.088542,
+    "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1792728876.0750365,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
     "5575146754|Gold|4H|dbot": 1792990795.9232683,
@@ -60,8 +60,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|1H": true,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793321852,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793320970.0060968,
-  "last_news": 1793320977.380698,
+  "last_analysis": 1793321584.1171107,
+  "last_news": 1793321592.0876353,
   "seen_news": [
-    "Consumers are spending more, but they\u2019re not getting their money\u2019s worth due to ",
-    "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
-    "How long will humans be needed for translation?",
-    "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb",
-    "Nasdaq falls over 1% as post-earnings slide in Alphabet weighs on AI trade",
-    "ECB sources report: Policymakers see a December rate hike followed by a pause",
     "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
     "Why are more roofs not made of solar tiles?",
     "Peace Talks Won\u2019t Save Oil Buyers From $100-Plus Oil",
@@ -450,6 +444,12 @@
     "UK Budget Signals Wave of New North Sea Oil and Gas Drilling",
     "Canadian dollar strengthens as traders assess BoC hike, await US data",
     "Binance pauses withdrawals after suspected $3B+ hack as Tether, Circle freeze $2",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t gia \u0111\u00ecnh \u0111\u1ee9ng sau \u0111\u1ebf ch\u1ebf ngh\u00ecn t\u1ef7: 2 con g\u00e1i ng\u1ed3i gh\u1ebf T\u1ed5ng gi\u00e1m "
+    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t gia \u0111\u00ecnh \u0111\u1ee9ng sau \u0111\u1ebf ch\u1ebf ngh\u00ecn t\u1ef7: 2 con g\u00e1i ng\u1ed3i gh\u1ebf T\u1ed5ng gi\u00e1m ",
+    "M\u1eabu xe \u0111i\u1ec7n mini gi\u00e1 199 tri\u1ec7u t\u1ea1i Vi\u1ec7t Nam c\u00f3 b\u1ea3n n\u00e2ng c\u1ea5p: T\u1ea7m ho\u1ea1t \u0111\u1ed9ng kho\u1ea3n",
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "TXG Q3'26 Earnings: revenue estimate is 147.96M USD - TradingView",
+    "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+    "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+    "Bitcoin, cryptocurrency prices fall after Binance reports security issue"
   ]
 }
