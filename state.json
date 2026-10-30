@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793393007.5578618,
+  "last_signals": 1793393631.12438,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -68,10 +68,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,7 +127,7 @@
     "USOIL|4H:top": 1793391163.5735831,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793393008.0445302,
+    "Bitcoin|4H:bot": 1793393631.9420018,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793393008.5495696,
+    "GBP/USD|1D:top": 1793393632.71056,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793392999.7472131,
-  "last_news": 1793393007.556934,
+  "last_analysis": 1793393622.238631,
+  "last_news": 1793393631.1234202,
   "seen_news": [
-    "Phi c\u00f4ng flydubai xu\u1ea5t hi\u1ec7n v\u1edbi h\u00e0ng ch\u1ee5c m\u0169i kh\u00e2u sau \u0111\u1ea7u trong l\u1ec5 nh\u1eadn hu\u00e2n ch",
-    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
-    "Armlogi Holding Regains Nasdaq Minimum Bid Price Compliance - TradingView",
-    "Here\u2019s when Binance plans to reopen after what\u2019s believed to be the largest-ever",
-    "Wall Street braces for Democratic gains as 2026 midterm election nears",
-    "Foreign defence contractors will need to invest in UK under new rules",
     "Lumentum jumps on report Marvell in advanced talks to acquire - TradingView",
     "My father has early Alzheimer\u2019s and his caregiver is using his debit card for Do",
     "Chevron beats earnings expectations as refining profits soar on high diesel fuel",
@@ -452,6 +446,12 @@
     "Who should pay on the first date?",
     "UBS sees Bank of England rate hikes supporting pound vs franc",
     "German state inflation cools in October, but will that ease the ECB's headache?",
-    "M\u1ef9 \u0111\u01b0a c\u00f4ng ngh\u1ec7 s\u1ea3n xu\u1ea5t 'v\u1eadt li\u1ec7u c\u1ee9ng g\u1ea5p 200 l\u1ea7n th\u00e9p' \u0111\u1ebfn Vi\u1ec7t Nam, \u0111\u1ea7u t\u01b0 "
+    "M\u1ef9 \u0111\u01b0a c\u00f4ng ngh\u1ec7 s\u1ea3n xu\u1ea5t 'v\u1eadt li\u1ec7u c\u1ee9ng g\u1ea5p 200 l\u1ea7n th\u00e9p' \u0111\u1ebfn Vi\u1ec7t Nam, \u0111\u1ea7u t\u01b0 ",
+    "How Poundland grew from a market stall to a high street giant",
+    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+    "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
+    "Ch\u1ee9ng ch\u1ec9 ti\u1ec1n g\u1eedi m\u1ed9t ng\u00e2n h\u00e0ng \"\u0111\u1eaft kh\u00e1ch\", s\u1ed1 d\u01b0 gi\u1ea5y t\u1edd c\u00f3 gi\u00e1 t\u0103ng v\u1ecdt",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Will Top-Line Improvement Benefit Palantir in Q3 Earnings? - TradingView"
   ]
 }
