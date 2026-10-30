@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793332185.8061085,
+  "last_signals": 1793332807.5449474,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793326294.6848881,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -85,7 +85,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
@@ -137,25 +137,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793332187.0772417,
-    "JPY Index|4H:bot": 1793332187.3815362,
-    "EUR/USD|4H:top": 1793332186.9255905,
+    "USD/JPY|4H:bot": 1793332809.087362,
+    "JPY Index|4H:bot": 1793332809.462484,
+    "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793332186.7698293,
+    "GBP/USD|1D:top": 1793332808.677255,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793332177.6126814,
-  "last_news": 1793332185.805167,
+  "last_analysis": 1793332798.2246418,
+  "last_news": 1793332807.5441074,
   "seen_news": [
-    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
-    "FTI Consulting Q3 2026 Earnings Call Is Live - TradingView",
-    "It\u2019s the strangest job market the U.S. has ever seen. The low-hire, low-fire eco",
-    "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-    "Tax thresholds remain unchanged - here's what it means for your pay",
-    "Amazon earnings watch: AWS growth, capex and margins in focus",
     "M\u1ed9t c\u1ef1u sinh vi\u00ean Kinh t\u1ebf Qu\u1ed1c d\u00e2n t\u1eebng \u01b0\u1edbc ao c\u00f3 10 t\u1ef7 \u0111\u1ed3ng, nay s\u1edf h\u1eefu doanh n",
     "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
     "Pinnacle West Capital to Post Q3 Earnings: What's in the Cards? - TradingView",
@@ -449,6 +443,12 @@
     "Why eCommerce Teams Are Turning to Dedicated Virtual Assistants - TradingView",
     "Israel faces weeks of coalition haggling as Netanyahu\u2019s party claims election 's",
     "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-    "Coinbase returns to profit as crypto investment gains offset trading weakness"
+    "Coinbase returns to profit as crypto investment gains offset trading weakness",
+    "BOJ holds rates as underlying inflation aligns with 2% target for first time sin",
+    "US interest rates held steady and economy grows - what it means for you",
+    "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
+    "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
+    "Gi\u00e1 v\u00e0ng h\u00f4m nay 30/10: Lao d\u1ed1c v\u1ec1 \u0111\u00e1y trong 1 th\u00e1ng qua",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance"
   ]
 }
