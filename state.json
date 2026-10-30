@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793344754.750474,
+  "last_signals": 1793345375.3129702,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -77,14 +77,14 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793344746.3268697,
-  "last_news": 1793344754.7496555,
+  "last_analysis": 1793345361.0384405,
+  "last_news": 1793345375.3122606,
   "seen_news": [
-    "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
-    "Budget 2026: Key points at a glance",
-    "UK National Grid to Extend France Power Link Operation to 2050",
-    "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worrie",
-    "RBA set for back-to-back hike after hot CPI, says Natixis\u2019 Garcia Herrero",
-    "25 m\u00f9a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia ch\u1ec9 c\u00f3 4 n\u1eef qu\u00e1n qu\u00e2n, h\u1ecd l\u00e0 ai?",
     "Investors Are Piling Into Dangote. But Is the Price Right?",
     "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher r",
     "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
@@ -449,6 +443,12 @@
     "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
     "What the Budget offers for under 25s - and what it leaves out",
     "Sterling steadies, gilts tick up following Healey\u2019s UK Budget",
-    "France's economy contracts in Q3 as growth troubles pile up for the ECB"
+    "France's economy contracts in Q3 as growth troubles pile up for the ECB",
+    "Praj Industries Q2 2027 Earnings Call Is Live - TradingView",
+    "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
+    "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+    "Your pay, energy bills and savings: How the Budget affects you",
+    "What\u2019s Next for Global Natural Gas Demand?",
+    "BP posts net income of $8.46 billion, beating expectations"
   ]
 }
