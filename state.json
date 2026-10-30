@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793340783.5924773,
+  "last_signals": 1793341397.2030911,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793337739.603389,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -62,8 +62,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|1H": false,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793340776.7555776,
-  "last_news": 1793340783.591521,
+  "last_analysis": 1793341388.6506536,
+  "last_news": 1793341397.2020202,
   "seen_news": [
-    "'Painful' years ahead, think tanks warn, as living standards set to fall",
-    "Starbucks sees annual profit above estimates as turnaround gains traction",
-    "Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoi",
-    "3 con gi\u00e1p v\u01b0\u1ee3ng l\u1ed9c \u0111i\u1ec1n s\u1ea3n nh\u1ea5t cu\u1ed1i th\u00e1ng 9 \u00e2m, bi\u1ebft n\u1eafm b\u1eaft th\u00ec gi\u00e0u c\u00f3, vi",
-    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Cousins Properties Q3 net income and FFO rise, lifts 2026 guidance - TradingView",
     "Tether freezes $971M USDT amid suspected Binance hack as crypto sells off",
     "C\u1eb7p anh em quen m\u1eb7t phim gi\u1edd v\u00e0ng: Ng\u01b0\u1eddi l\u00e0 th\u1ee7 khoa, ng\u01b0\u1eddi t\u1eebng h\u1ecdc ng\u00e0nh IT",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
@@ -449,6 +443,12 @@
     "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries ",
     "Google value plunges by $500bn as AI fears rattle Wall Street",
     "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loo",
-    "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E"
+    "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E",
+    "investingLive Americas market news wrap: ECB holds, sources report says December",
+    "M\u1ed9t ca s\u0129 tham gia thi\u1ebft k\u1ebf xe m\u00e1y \u0111i\u1ec7n cho \u201ctay ch\u01a1i m\u1edbi\u201d c\u1ee7a Vi\u1ec7t Nam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
+    "Halliburton, Petrobras complete first ROCS deployment offshore Brazil - TradingV",
+    "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
+    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history"
   ]
 }
