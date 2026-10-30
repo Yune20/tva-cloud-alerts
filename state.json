@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793355927.9367456,
+  "last_signals": 1793356542.4152074,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793348790.514214,
+    "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793347561.4401798,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -138,8 +138,8 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793332186.464401,
-    "USD/JPY|4H:bot": 1793355930.147667,
-    "JPY Index|4H:bot": 1793355930.6974916,
+    "USD/JPY|4H:bot": 1793356543.6926403,
+    "JPY Index|4H:bot": 1793356544.0611594,
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793355575.3112104,
@@ -148,15 +148,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793355917.325983,
-  "last_news": 1793355927.935586,
+  "last_analysis": 1793356532.2201052,
+  "last_news": 1793356542.4143085,
   "seen_news": [
-    "Amazon burns cash, Intel flags weak PC demand as AI boom\u2019s costs ripple across m",
-    "Ukraine reportedly pauses strikes on Russian refineries after US pressure",
-    "Kho\u1ea3n h\u1ed7 tr\u1ee3 cho Ukraine khi\u1ebfn EU ph\u1ea3i tr\u1ea3 \u00edt nh\u1ea5t 35 t\u1ef7 euro ti\u1ec1n l\u00e3i, 4 qu\u1ed1c g",
-    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
-    "Gasoline Hovers Near August Lows - TradingView",
-    "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversi",
     "Ai L\u00e0 Tri\u1ec7u Ph\u00fa t\u1eebng c\u00f3 ng\u01b0\u1eddi ch\u01a1i tham gia ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 ki\u1ebfm ti\u1ec1n \u1ee7ng h\u1ed9 \u0110\u01b0\u1edd",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Fed pauses, Big Tech reports - TradingView",
@@ -450,6 +444,12 @@
     "Armlogi Holding Regains Nasdaq Minimum Bid Price Compliance - TradingView",
     "Here\u2019s when Binance plans to reopen after what\u2019s believed to be the largest-ever",
     "Wall Street braces for Democratic gains as 2026 midterm election nears",
-    "Foreign defence contractors will need to invest in UK under new rules"
+    "Foreign defence contractors will need to invest in UK under new rules",
+    "Lumentum jumps on report Marvell in advanced talks to acquire - TradingView",
+    "My father has early Alzheimer\u2019s and his caregiver is using his debit card for Do",
+    "Chevron beats earnings expectations as refining profits soar on high diesel fuel",
+    "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+    "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+    "Gold gets hit again by forced liquidations as equity losses mount; fundamental o"
   ]
 }
