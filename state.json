@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793348181.532243,
+  "last_signals": 1793348790.514214,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793337739.603389,
+    "5575146754|Gold|1H|range_in": 1793348790.514214,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793347561.4401798,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -69,7 +69,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -147,15 +147,9 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793348171.60732,
-  "last_news": 1793348181.5313694,
+  "last_analysis": 1793348781.3726366,
+  "last_news": 1793348790.5132997,
   "seen_news": [
-    "Tokyo October CPI 2.8% (2.7% expected)",
-    "N\u1eef MC SN 1993 l\u1ea7n \u0111\u1ea7u ti\u00ean d\u1eabn Chung k\u1ebft Olympia, t\u1eebng \u0111\u1ea1t gi\u1ea3i Ba ti\u1ebfng Anh c\u1ea5p",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
-    "Macquarie maintains Rush Street Interactive at Outperform, lowers price target t",
-    "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
-    "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
     "\u0110\u1ed1i \u0111\u1ea7u \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng tr\u00ean ch\u00ednh s\u00e2n nh\u00e0, c\u01a1 h\u1ed9i n\u00e0o cho t\u1ef7 ph\u00fa Elon Musk?",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
     "Hedera Ecosystem Adds Bron Self-Custody Platform Through Industry Association - ",
@@ -449,6 +443,12 @@
     "Yorkshire Water boss resigns after firm downgraded",
     "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
     "Hungary\u2019s economy grew 1.5% in third quarter, preliminary data shows",
-    "German import prices surge at fastest pace in nearly four years as energy costs "
+    "German import prices surge at fastest pace in nearly four years as energy costs ",
+    "Elon Musk: '\u0110\u1ea7u t\u00f4i \u0111au, tim t\u00f4i c\u0169ng \u0111au' - nh\u1eefng tu\u1ea7n Tesla \u0111\u1ee9ng tr\u01b0\u1edbc nguy c\u01a1",
+    "VGS: CTCP \u1ed0ng th\u00e9p Vi\u1ec7t - \u0110\u1ee9c VG PIPE - VG PIPE - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-29 \u2014 cnbctv:076b27431094b:0 - TradingV",
+    "People in China are spending nearly as much of their income as Americans on heal",
+    "Bereaved families will not face tax bill over pension delays under new rules",
+    "European shares dip as Amazon, Intel stoke AI cash-burn fears"
   ]
 }
