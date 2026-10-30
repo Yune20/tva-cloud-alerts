@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793325948.1618273,
-  "last_bot4": 1793325616.2952163,
+  "last_bot4": 1793326294.6841733,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793325948.162758,
+  "last_signals": 1793326294.6848881,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793324348.3740792,
+    "5575146754|Gold|1H|range_in": 1793326294.6848881,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793325325.4735413,
     "5575146754|Gold|4H|tbot": 1793074108.1920562,
@@ -59,12 +59,12 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": false,
+    "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
@@ -137,25 +137,19 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1792659438.1861753,
     "Ethereum|4H:bot": 1793249822.8536267,
-    "USD/JPY|4H:bot": 1793325950.8606584,
-    "JPY Index|4H:bot": 1793325951.482346,
+    "USD/JPY|4H:bot": 1793326296.1154451,
+    "JPY Index|4H:bot": 1793326296.4223824,
     "EUR/USD|4H:top": 1793317916.5077775,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793311348.7149496,
-    "GBP/USD|1D:top": 1793325950.2537386,
+    "GBP/USD|1D:top": 1793326295.7798896,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793325931.433803,
-  "last_news": 1793325940.8662999,
+  "last_analysis": 1793326286.6113257,
+  "last_news": 1793326294.6832523,
   "seen_news": [
-    "QIAGEN N.V. (QIA) Discloses BlackRock Voting Rights Update - TradingView",
-    "Some investors have midterm election jitters. Here\u2019s what history shows about st",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Europe to Release 42 Million Barrels of Oil",
-    "Aon CEO warns AI data center carry insurance risks",
-    "European stock market open: A mixed start as Spanish stocks struggle again, US f",
     "We're raising our price target on Eli Lilly as the obesity-drug boom rolls on",
     "Microsoft profits soar days after announcing thousands of layoffs",
     "U.S. Pushes Nuclear Energy Expansion in Central Asia and Caucasus",
@@ -449,6 +443,12 @@
     "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace",
     "Why are more roofs not made of solar tiles?",
     "Microsoft expects to raise $25 billion in US bond sale, sources say",
-    "Vessel on fire in Strait of Hormuz after incident near Oman, cause \"unknown\" (LO"
+    "Vessel on fire in Strait of Hormuz after incident near Oman, cause \"unknown\" (LO",
+    "Mexico\u2019s Richest Man Sells $1.15 Billion in Oil Stocks",
+    "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
+    "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-yea",
+    "K\u1ef9 s\u01b0 Nga h\u1ed3i sinh si\u00eau ph\u1ea9m c\u00f4ng ngh\u1ec7 t\u1eeb g\u00e3 kh\u1ed5ng l\u1ed3 n\u0103ng l\u01b0\u1ee3ng \u0110\u1ee9c: \"\u0110\u1eafp chi\u1ebfu",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Federal Reserve holds rate at 3.75%-4.00%, with two dissents - TradingView"
   ]
 }
