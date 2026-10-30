@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793378997.9426982,
+  "last_signals": 1793379605.7915323,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -65,10 +65,10 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,7 +127,7 @@
     "USOIL|4H:top": 1793338953.9751825,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793378998.957365,
+    "Bitcoin|4H:bot": 1793379606.4034128,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793378999.97013,
+    "GBP/USD|1D:top": 1793379607.0128953,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793378989.9151206,
-  "last_news": 1793378997.941716,
+  "last_analysis": 1793379596.9507937,
+  "last_news": 1793379605.7904477,
   "seen_news": [
-    "Raja Venkatraman recommends three stocks for 30 October - TradingView",
-    "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
-    "Living with a stink? Technology might help",
-    "U.S. yields steady on PCE lands in-line; Europe awaits ECb",
-    "US September PCE core inflation +0.5% m/m vs +0.3% expected",
-    "N\u1eef sinh y khoa ti\u1ebft l\u1ed9 c\u00e1ch t\u00e1n \u0111\u1ed5 c\u1ea7u th\u1ee7 n\u1ed5i ti\u1ebfng",
     "Minimum wage rise 'a massive blow' says farmer",
     "Why is Apple supplier Luxshare Precision Industry stock sliding today?",
     "investingLive European session wrap: Stocks diverge as markets brace for US infl",
@@ -452,6 +446,12 @@
     "Gold tumbles despite lower yields. Technicals show the way.",
     "\u00d4ng Tr\u1ecbnh V\u0103n Tu\u1ec7 b\u1ecb kh\u1edfi t\u1ed1, doanh nghi\u1ec7p ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "More S&P 500 stocks get their groove back, Detrick says - TradingView"
+    "More S&P 500 stocks get their groove back, Detrick says - TradingView",
+    "4 ki\u1ec3u ng\u01b0\u1eddi t\u01b0\u1edfng th\u00f4ng minh nh\u01b0ng th\u1ef1c ra r\u1ea5t n\u00f4ng c\u1ea1n",
+    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
+    "Nasdaq futures fall 1% as Alphabet results intensify AI spending fears - Trading",
+    "After Intel\u2019s historic stock drop, analysts say there\u2019s no reason to buy the dip",
+    "Intel stock heads for worst day in more than 50 years, wiping $12 billion off go",
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget"
   ]
 }
