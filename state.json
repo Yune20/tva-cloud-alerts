@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793444223.0047286,
+  "last_signals": 1793444832.262703,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,10 +70,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793444223.714088,
+    "USOIL|4H:top": 1793444832.596033,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793444225.1195135,
+    "GBP/USD|1D:top": 1793444833.2609844,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793444223.373918
+    "Gold|1H:bot": 1793444832.4315255
   },
-  "last_analysis": 1793444213.957316,
-  "last_news": 1793444223.003982,
+  "last_analysis": 1793444824.467026,
+  "last_news": 1793444832.2620099,
   "seen_news": [
-    "Brazil\u2019s Lula faces spending rows as supporters oppose tougher fiscal measures",
-    "T\u1eeb th\u1ef1c t\u1eadp sinh l\u01b0\u01a1ng 2 tri\u1ec7u, d\u00f9ng Nokia \u0111\u1ebfn ng\u01b0\u1eddi c\u1ea5t 78kg v\u00e0ng trong t\u1ee7 qu\u1ea7n",
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
-    "What Republic Services (RSG) Said on Its Q3 Earnings Call - TradingView",
-    "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spil",
-    "What we now know about the UK economy in four charts",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "First Tick: Top global cues to watch in today's trade - TradingView",
     "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in",
@@ -455,6 +449,12 @@
     "Top 3 con gi\u00e1p may m\u1eafn nh\u1ea5t ng\u00e0y 1/11",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "AU SFB data leak: Salesforce says no vulnerability at its end - TradingView",
-    "Microsoft is winning the cloud wars and becoming Wall Street\u2019s new golden child"
+    "Microsoft is winning the cloud wars and becoming Wall Street\u2019s new golden child",
+    "Rubio to host meeting of Indo-Pacific Quad, wrap up G20 gathering",
+    "Anthropic may not secure investment-grade rating after IPO, FT reports",
+    "Mi\u1ec1n B\u1eafc s\u1eafp xu\u1ea5t hi\u1ec7n m\u01b0a to trong 3 ng\u00e0y li\u00ean ti\u1ebfp",
+    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
+    "UBS maintains Hershey at Neutral, lowers price target to $175 from $178 - Tradin",
+    "Anthropic's path to the Nasdaq just got a lot bumpier"
   ]
 }
