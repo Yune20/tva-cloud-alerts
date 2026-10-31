@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793475537.8059657,
+  "last_signals": 1793476153.6052966,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793474321.5258398
+    "5575146754|Gold|1H|dbot": 1793476153.6052966
   },
   "sig_range": {
     "Gold": true,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793475538.6785758,
+    "USOIL|4H:top": 1793476154.0244184,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793475538.2249944
+    "Gold|1H:bot": 1793476153.7983718
   },
-  "last_analysis": 1793475529.200114,
-  "last_news": 1793475537.8050222,
+  "last_analysis": 1793476146.2904024,
+  "last_news": 1793476153.6043859,
   "seen_news": [
-    "What we now know about the UK economy in four charts",
-    "What comes next for EU-China trade?",
-    "Carney: Canada, EU working toward deepest possible partnership, short of accessi",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111ang s\u1eed d\u1ee5ng \u0111i\u1ec7n tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd thay \u0111\u1ed5i m\u1edbi nh\u1ea5t \u0111\u00e3 \u0111\u01b0\u1ee3c ",
-    "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Sow Good Extends Tanzania Acquisition Deadline to December 15 - TradingView",
     "Earnings next week: Can Apple, Palantir and AMD restore confidence?",
     "U\u1ef7 ban ch\u00e2u \u00c2u ti\u1ebft l\u1ed9 s\u1ed1 ti\u1ec1n thu v\u1ec1 t\u1eeb 180 t\u1ef7 euro t\u00e0i s\u1ea3n \u0111\u00f3ng b\u0103ng c\u1ee7a Nga",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
@@ -455,6 +449,12 @@
     "European Gas Tops 101 Euros for First Time Since 2022",
     "Rubio to host meeting of Indo-Pacific Quad, wrap up G20 gathering",
     "investingLive Americas market news wrap: ECB holds, sources report says December",
-    "4 c\u0103n nh\u00e0 c\u1ee7a Messi"
+    "4 c\u0103n nh\u00e0 c\u1ee7a Messi",
+    "Chevron Profits Nearly Triple to $9.9 Billion",
+    "US judge dismisses Trump\u2019s lawsuit against Wall Street Journal with prejudice",
+    "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
+    "M\u1ed9t g\u00f3c nh\u1ecf \u1edf AEON MALL B\u00ecnh T\u00e2n \u0111\u01b0\u1ee3c chia s\u1ebb r\u1ea7m r\u1ed9: D\u00e3y gh\u1ebf d\u00e0nh cho em b\u00e9 tin",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "What YPF Sociedad An\u00f3nima (YPF) Said on Its Q3 Earnings Call - TradingView"
   ]
 }
