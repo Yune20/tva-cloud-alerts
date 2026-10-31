@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793428384.381099,
+  "last_signals": 1793429000.0199587,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793428384.993806,
+    "USOIL|4H:top": 1793429000.3097312,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793428386.3120403,
+    "GBP/USD|1D:top": 1793429000.9092915,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793428384.6884472
+    "Gold|1H:bot": 1793429000.1643958
   },
-  "last_analysis": 1793428374.125017,
-  "last_news": 1793428384.3801155,
+  "last_analysis": 1793428990.801102,
+  "last_news": 1793429000.0191216,
   "seen_news": [
-    "EQB Inc. (EQB) To Sell Bennington at ~8% Discount to Receivables - TradingView",
-    "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on e",
-    "The Indian workers filming their work to train AI",
-    "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases",
-    "UBS sees scope for further sterling gains as short positioning creates upside",
-    "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
     "Google value plunges by $500bn as its own AI search hits ad sales",
     "Bolsonaro\u2019s Election Defeat Could Complicate U.S. Rare Earth Plans",
     "Fitch revises France\u2019s outlook to \u2019negative\u2019 on worsening debt dynamics",
@@ -455,6 +449,12 @@
     "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Looming tech threat - TradingView",
     "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have s",
-    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget"
+    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+    "This cybersecurity stock will be the next to join the S&P 500",
+    "AI is coming to construction sites. But does it make workers safer?",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
+    "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
+    "T\u1eeb ng\u00e0y 1/11, 5 chi\u1ebfc iPhone kh\u00f4ng th\u1ec3 chuy\u1ec3n kho\u1ea3n tr\u00ean 10 tri\u1ec7u \u0111\u1ed3ng"
   ]
 }
