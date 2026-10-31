@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793406666.58928,
+  "last_signals": 1793407282.0078864,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -145,20 +145,14 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793406667.7484808,
+    "GBP/USD|1D:top": 1793407283.6530306,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138
   },
-  "last_analysis": 1793406656.682493,
-  "last_news": 1793406666.5881538,
+  "last_analysis": 1793407273.4594975,
+  "last_news": 1793407282.0071008,
   "seen_news": [
-    "News by CNBC TV18 on TradingView, 2026-10-29 \u2014 cnbctv:1ccaf5962094b:0 - TradingV",
-    "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
-    "BP\u2019s third-quarter profit nearly quadruples to $8.5 billion as refining margins ",
-    "My hometown shows that high streets have to change or die",
-    "Trump Considers Lifting Sanctions on Putin\u2019s \u2018Slush Fund\u2019",
-    "Nasdaq slides over 2% at the open as tech earnings deepen AI spending concerns",
     "US tech stocks see sharp falls over AI cost fears",
     "America\u2019s LNG Boom Faces Its Biggest Test Yet",
     "Why Deutsche Bank says the AI dollar is here",
@@ -452,6 +446,12 @@
     "Tokyo October CPI 2.8% (2.7% expected)",
     "B\u1ed9 tr\u01b0\u1edfng N\u1ed9i v\u1ee5 th\u00f4ng tin v\u1ec1 ch\u00ednh s\u00e1ch ti\u1ec1n l\u01b0\u01a1ng m\u1edbi",
     "VEA: T\u1ed5ng C\u00f4ng ty M\u00e1y \u0111\u1ed9ng l\u1ef1c v\u00e0 M\u00e1y n\u00f4ng nghi\u1ec7p Vi\u1ec7t Nam \u2013 CTCP - VEAM - Viets",
-    "Axalta Coating Systems Q3 2026 Earnings Call Is Live - TradingView"
+    "Axalta Coating Systems Q3 2026 Earnings Call Is Live - TradingView",
+    "investingLive Americas market news wrap: ECB holds, sources report says December",
+    "Con g\u00e1i V\u00f5 H\u1ea1 Tr\u00e2m \"giao di\u1ec7n \u1ea4n \u0110\u1ed9 nh\u01b0ng h\u1ec7 \u0111i\u1ec1u h\u00e0nh mi\u1ec1n T\u00e2y\", th\u1eeba h\u01b0\u1edfng gi\u1ecd",
+    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
+    "Stocktwits Fintech Pulse: US Fintech Weekly Briefing & Market Drivers - TradingV",
+    "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. ",
+    "What we know about Binance's $6.3bn hack"
   ]
 }
