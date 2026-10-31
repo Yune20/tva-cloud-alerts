@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793424104.899279,
-  "last_bot4": 1793433600.2114651,
+  "last_bot4": 1793434286.9558058,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793433921.1869774,
+  "last_signals": 1793434286.9566472,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793433921.4216673,
+    "USOIL|4H:top": 1793434287.4857304,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793433922.0055494,
+    "GBP/USD|1D:top": 1793434288.624948,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793433921.2809966
+    "Gold|1H:bot": 1793434287.2225978
   },
-  "last_analysis": 1793433914.7136362,
-  "last_news": 1793433921.186105,
+  "last_analysis": 1793434277.4372258,
+  "last_news": 1793434286.9546783,
   "seen_news": [
-    "AMD\u2019s stock slides after Intel earnings reveal two big issues",
-    "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
-    "US interest rates held steady and economy grows - what it means for you",
-    "Raizen shareholders approve out-of-court restructuring plan",
-    "US employment cost index for Q3 +0.8% vs +0.8% expected",
-    "Ch\u00e2n dung ng\u01b0\u1eddi Vi\u1ec7t \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed gi\u00e0nh Huy ch\u01b0\u01a1ng V\u00e0ng Olympic V\u1eadt l\u00fd",
     "Japan to Tap $7 Billion from Government Fund to Subsidize Gasoline Prices",
     "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
     "Morning Kickstart: Tech hammered as Amazon and Intel tumble; oil rises despite p",
@@ -455,6 +449,12 @@
     "Mizuho favors these U.S. restaurant stocks ahead of earnings",
     "Japan September factory output beats forecasts, but retail sales disappoint ahea",
     "L\u00e3i su\u1ea5t ng\u00e0y 31/10 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Tec",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance"
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
+    "Canada GDP for August 0.0% vs 0.2% estimate",
+    "Mr Pips: \u2018C\u00f3 nh\u1eefng l\u00fac b\u1ecb c\u00e1o bu\u1ed3n, k\u1ec3 c\u1ea3 c\u00f3 nhi\u1ec1u ti\u1ec1n c\u0169ng th\u1ea5y cu\u1ed9c \u0111\u1eddi n\u00e0y v",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "Richmond Mutual reports Q3 net income of $1.75 million - TradingView"
   ]
 }
