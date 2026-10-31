@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793466332.123702,
+  "last_signals": 1793466936.7594526,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793465103.492672
+    "5575146754|Gold|1H|dbot": 1793466936.7594526
   },
   "sig_range": {
     "Gold": true,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793466332.501275,
+    "USOIL|4H:top": 1793466937.0955825,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793466332.2337067
+    "Gold|1H:bot": 1793466936.9385564
   },
-  "last_analysis": 1793466323.6319833,
-  "last_news": 1793466332.1227567,
+  "last_analysis": 1793466930.0691426,
+  "last_news": 1793466936.7585127,
   "seen_news": [
-    "C\u01a1 ph\u00f3 n\u1ed5i ti\u1ebfng SN 1996 b\u1ea5t ng\u1edd th\u00f4ng b\u00e1o \u0111\u01b0\u1ee3c c\u1ea7u h\u00f4n, danh t\u00ednh v\u1ecb h\u00f4n phu v\u1eab",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "Stocktwits Fintech Pulse: US Fintech Weekly Briefing & Market Drivers - TradingV",
-    "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthr",
-    "The grads ditching the UK for a fresh start abroad",
-    "Trump Considers Lifting Sanctions on Putin\u2019s \u2018Slush Fund\u2019",
     "The AI telling farmers when to harvest",
     "Wall Street closes sharply lower as AI cash burn fears spark tech\u00a0selloff",
     "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
@@ -455,6 +449,12 @@
     "Shell Q3 Earnings Call Highlights - TradingView",
     "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an ex",
     "US interest rates held steady and economy grows - what it means for you",
-    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow"
+    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+    "Richmond Mutual reports Q3 net income of $1.75 million - TradingView",
+    "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he lik",
+    "What we know about Binance's $6.3bn hack",
+    "Bank of England weighs raising cap on high-risk mortgages to five times income: ",
+    "Crude oil extends gains as traders hedge into weekend amid risks of US strikes o",
+    "Gi\u1ea3m thu\u1ebf ti\u00eau th\u1ee5 \u0111\u1eb7c bi\u1ec7t v\u1edbi x\u0103ng v\u1ec1 0% t\u1eeb 1/11"
   ]
 }
