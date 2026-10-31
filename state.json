@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793478945.112791,
-  "last_bot4": 1793483309.1262712,
+  "last_bot4": 1793484047.6224835,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793482706.7309854
+    "Gold": 1793484047.6223907
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793483687.730251,
+  "last_signals": 1793484047.6233644,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793483688.083345,
+    "USOIL|4H:top": 1793484047.9732554,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793483687.8934548
+    "Gold|1H:bot": 1793484047.7774804
   },
-  "last_analysis": 1793483680.3320553,
-  "last_news": 1793483687.729173,
+  "last_analysis": 1793484038.7327356,
+  "last_news": 1793484045.966001,
   "seen_news": [
-    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
-    "Key facts: BTCUSD drops to mid-$70k; Binance $6.3B hack, ETFs $104B - TradingVie",
-    "In the wake of Weil, a legal recruiter's advice for surviving a company wind-dow",
-    "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
-    "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-    "H\u1ebft th\u00e1ng 9 \u00e2m, c\u00f3 3 con gi\u00e1p s\u1ebd chia tay v\u1eadn xui, b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n th\u1ecbnh v\u01b0\u1ee3n",
     "Russia extends diesel export ban through January, allows limited shipments",
     "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
     "CC1 ghi nh\u1eadn doanh thu t\u0103ng tr\u01b0\u1edfng t\u00edch c\u1ef1c trong 9 th\u00e1ng n\u0103m 2026",
@@ -455,6 +449,12 @@
     "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spil",
     "Who should pay on the first date?",
     "UBS sees Bank of England rate hikes supporting pound vs franc",
-    "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected"
+    "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
+    "Automatic 401(k) rollovers reduce cash-outs, research finds \u2014 but few accounts r",
+    "How Poundland grew from a market stall to a high street giant",
+    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+    "German import prices surge at fastest pace in nearly four years as energy costs ",
+    "58 tu\u1ed5i, b\u00e0 n\u1ed9i tr\u1ee3 khi\u1ebfn d\u00e2n m\u1ea1ng n\u1ec3 ph\u1ee5c v\u00ec c\u0103n nh\u00e0 s\u1ea1ch nh\u01b0 m\u1edbi: H\u00f3a ra ch\u1ec9 g",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
