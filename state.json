@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793474321.5258398,
+  "last_signals": 1793474929.6467957,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793474321.8678539,
+    "USOIL|4H:top": 1793474929.9662278,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793474321.7068992
+    "Gold|1H:bot": 1793474929.806752
   },
-  "last_analysis": 1793474313.7743058,
-  "last_news": 1793474321.524921,
+  "last_analysis": 1793474923.005423,
+  "last_news": 1793474929.6458678,
   "seen_news": [
-    "Vay v\u00e0ng l\u00fac 18-19 tri\u1ec7u/ch\u1ec9, tr\u1ea3 v\u00e0ng l\u00fac 13-14 tri\u1ec7u/ch\u1ec9 l\u1ea1i b\u1ecb l\u00e0m kh\u00f3?",
-    "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
-    "BTCUSD: Bitcoin Slides Below $77,000 After $6.3 Billion Binance Breach Shakes Cr",
-    "The rise of the 15-foot skeleton\u2014how a viral novelty became a Halloween staple",
-    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-    "France braces for fresh unrest, government vows tough response",
     "Ryerson Q3 2026 Earnings Call Is Live - TradingView",
     "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in",
     "'Painful' years ahead, think tanks warn, as living standards set to fall",
@@ -455,6 +449,12 @@
     "City of London chief tops UK Black Powerlist",
     "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
     "Why the sell-off in French bonds is a warning for global governments",
-    "Fed\u2019s Logan: At least two more quarter-point rate hikes needed"
+    "Fed\u2019s Logan: At least two more quarter-point rate hikes needed",
+    "The South West reacts to Budget announcements",
+    "Water Tank Rupture Triggers Safety Concerns at Tajikistan\u2019s Rogun Dam",
+    "UK PM Burnham says he is \u2019open\u2019 to formal apology for slavery, but rules out rep",
+    "Anthropic may not secure investment-grade rating after IPO, FT reports",
+    "7 d\u1ef1 \u00e1n t\u1ed5ng v\u1ed1n h\u01a1n 2.000 t\u1ef7 \u0111\u1ed3ng s\u1eafp \u0111\u1ed3ng lo\u1ea1t kh\u1edfi c\u00f4ng t\u1ea1i t\u1ec9nh s\u1edf h\u1eefu \"\u0110\u00e0 L",
+    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance"
   ]
 }
