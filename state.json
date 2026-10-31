@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793413172.0026424,
-  "last_bot4": 1793418719.147589,
+  "last_bot4": 1793419468.5937107,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793417820.92921
+    "Gold": 1793419468.5935986
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793419107.6161544,
+  "last_signals": 1793419468.594641,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -45,10 +45,11 @@
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
-    "5575146754|Gold|4H|dn": 1793391162.8108327,
+    "5575146754|Gold|4H|dn": 1793419468.594641,
     "5575146754|Gold|4H|trap_dn": 1793391785.7158117,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
-    "5575146754|Gold|4H|momo_dn": 1793384901.0714078
+    "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
+    "5575146754|Gold|1H|tbot": 1793419468.594641
   },
   "sig_range": {
     "Gold": true,
@@ -124,7 +125,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793391163.5735831,
+    "USOIL|4H:top": 1793419469.1984665,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -145,20 +146,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793419110.82923,
+    "GBP/USD|1D:top": 1793419470.311663,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793195896.713138
+    "GBP/USD|4H:bot": 1793195896.713138,
+    "Gold|1H:bot": 1793419468.9361854
   },
-  "last_analysis": 1793419095.2327325,
-  "last_news": 1793419107.6153328,
+  "last_analysis": 1793419453.4949572,
+  "last_news": 1793419465.6837018,
   "seen_news": [
-    "HTG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ec7t may H\u00f2a Th\u1ecd - HOA THO CORPORATION - VietstockFinan",
-    "Sweco AB (publ) (SWEC_A) Q3 Sales Up 7%, EBITA Margin 10.3% - TradingView",
-    "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving",
-    "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-    "Bereaved families will not face tax bill over pension delays under new rules",
-    "Kioxia\u2019s NAND price slowdown and what it means for memory stocks",
     "The Fed held interest rates steady, but these officials see more hikes coming so",
     "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an ex",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
@@ -452,6 +448,12 @@
     "US approves $2.1 billion Patriot missile sale to Ukraine",
     "Bitcoin sellers jump on the risk-off bandwagon",
     "'Tr\u1eadn \u0111\u1ecba' nh\u00e0 ch\u1ed3, h\u00e0ng qu\u00e1n sai ph\u00e9p l\u1ea5n chi\u1ebfm c\u1ea3nh quan v\u1ecbnh \u0111\u1eb9p th\u1ebf gi\u1edbi",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance"
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
+    "Yorkshire Water boss resigns after firm downgraded",
+    "China\u2019s factory activity marks third contraction in four months",
+    "France inflation heats up again in October, leaving the ECB caught between a roc",
+    "T\u00e0i t\u1eed 'Ti\u1ec3u L\u00fd phi \u0111ao' gi\u1ea3i ngh\u1ec7 khi \u1edf \u0111\u1ec9nh cao, s\u1ed1ng kh\u00e9p k\u00edn sau 2 l\u1ea7n \u0111\u1ed5 v\u1ee1",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "Tech Selloff Drags Wall Street Lower - TradingView"
   ]
 }
