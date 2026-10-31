@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793432088.229485,
+  "last_signals": 1793432701.0048473,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793432088.75434,
+    "USOIL|4H:top": 1793432701.529211,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793432089.659454,
+    "GBP/USD|1D:top": 1793432702.7219162,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793432088.4861562
+    "Gold|1H:bot": 1793432701.2640963
   },
-  "last_analysis": 1793432080.0677054,
-  "last_news": 1793432088.2288291,
+  "last_analysis": 1793432692.9664683,
+  "last_news": 1793432701.0038571,
   "seen_news": [
-    "Soaring cost of Halloween treats spooks shoppers",
-    "Mizuho favors these U.S. restaurant stocks ahead of earnings",
-    "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-yea",
-    "Apple khuy\u00ean ng\u01b0\u1eddi d\u00f9ng iPhone ng\u1eebng s\u1eed d\u1ee5ng m\u1ed9t \u1ee9ng d\u1ee5ng",
-    "LPB: Ng\u00e2n h\u00e0ng TMCP L\u1ed9c Ph\u00e1t Vi\u1ec7t Nam - LPBank - VietstockFinance",
-    "JP Morgan maintains DXC Technology at Underweight, raises price target to $13 fr",
     "Japan September factory output beats forecasts, but retail sales disappoint ahea",
     "Elon Musk \u201ctroll\u201d v\u1ee5 Binance b\u1ecb hack, CZ n\u00f3i th\u1eb3ng: \u201cT\u00f4i r\u1ea5t t\u00f4n tr\u1ecdng anh, l\u00e0m ",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
@@ -455,6 +449,12 @@
     "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E",
     "Lo ng\u1ea1i v\u1edbi \u0111\u1ec1 xu\u1ea5t c\u1ea5m chuy\u1ec3n nh\u01b0\u1ee3ng h\u1ee3p \u0111\u1ed3ng mua b\u00e1n nh\u00e0 \u1edf h\u00ecnh th\u00e0nh trong t\u01b0",
     "EVG: CTCP T\u1eadp \u0111o\u00e0n EverLand - EVERLAND GROUP., JSC - VietstockFinance",
-    "River Road Completes LiDar Survey at Stobart - TradingView"
+    "River Road Completes LiDar Survey at Stobart - TradingView",
+    "investingLive Asia-Pacific market news: Binance hack shakes crypto",
+    "B\u1ed9 tr\u01b0\u1edfng T\u00e0i ch\u00ednh l\u00fd gi\u1ea3i v\u1ec1 ki\u1ec3m so\u00e1t l\u1ea1m ph\u00e1t v\u00e0 ti\u1ebfn \u0111\u1ed9 gi\u1ea3i ng\u00e2n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "KB Financial Group Inc Stock 12\u2011Month Price Target Raised to $161.05, Implies 43",
+    "Meta outlook revised downward by S&P on cash flow and capex concerns",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada"
   ]
 }
