@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793469425.9156325,
+  "last_signals": 1793470032.2847674,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793469426.2727256,
+    "USOIL|4H:top": 1793470032.8526068,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793469426.056889
+    "Gold|1H:bot": 1793470032.6009378
   },
-  "last_analysis": 1793469417.8558562,
-  "last_news": 1793469425.9146893,
+  "last_analysis": 1793470023.9654896,
+  "last_news": 1793470032.2841163,
   "seen_news": [
-    "CARG Q3'26 Earnings: revenue estimate is 256.46M USD - TradingView",
-    "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Ira",
-    "The tech helping crack decades-old cold cases",
-    "Japan to Overtake China As World\u2019s Top LNG Importer This Year",
-    "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
-    "How has the Magnificent 7 done relatively to the broader stock indices today?",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "What DaVita (DVA) Said on Its Q3 Earnings Call - TradingView",
     "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
@@ -455,6 +449,12 @@
     "Why Deutsche Bank says the AI dollar is here",
     "Gold tumbles despite lower yields. Technicals show the way.",
     "C\u1eadp nh\u1eadt BCTC qu\u00fd 3/2026 ng\u00e0y 1/11: HDBank l\u00e3i g\u1ea7n 5.200 t\u1ef7 \u0111\u1ed3ng, ACV b\u00e1o l\u00e3i gi",
-    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance"
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+    "U.S. Oil, Gas Drillers Still on Hold",
+    "Meta builds humanoid robot with China\u2019s Fourier as home robot push expands: repo",
+    "Tokyo October CPI 2.8% (2.7% expected)",
+    "L\u1ee3i nhu\u1eadn ACV gi\u1ea3m 35%, s\u1ed1 lao \u0111\u1ed9ng gi\u1ea3m g\u1ea7n 3.700 ng\u01b0\u1eddi trong khi ti\u1ec1n \u0111\u1ea7u t\u01b0 c",
+    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance"
   ]
 }
