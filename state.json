@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793433311.686176,
+  "last_signals": 1793433921.1869774,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793433312.1998382,
+    "USOIL|4H:top": 1793433921.4216673,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793433313.2948275,
+    "GBP/USD|1D:top": 1793433922.0055494,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793433311.948632
+    "Gold|1H:bot": 1793433921.2809966
   },
-  "last_analysis": 1793433303.05354,
-  "last_news": 1793433311.6853344,
+  "last_analysis": 1793433914.7136362,
+  "last_news": 1793433921.186105,
   "seen_news": [
-    "Gamble on democracy: Inside suspicious election-contracts trading on prediction ",
-    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-    "Canada GDP for August 0.0% vs 0.2% estimate",
-    "Chuy\u00ean gia \u1ea9m th\u1ef1c khen ng\u1ee3i, reviewer s\u0103n \u0111\u00f3n hay b\u00e1c h\u00e0ng x\u00f3m ch\u1ec9 \u0111i\u1ec3m: \u0110\u00e2u m\u1edb",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "AMD\u2019s stock slides after Intel earnings reveal two big issues",
     "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
     "US interest rates held steady and economy grows - what it means for you",
@@ -455,6 +449,12 @@
     "Rainmakers: The drones used to seed clouds",
     "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
     "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
-    "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-yea"
+    "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-yea",
+    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w",
+    "Soaring cost of Halloween treats spooks shoppers",
+    "Mizuho favors these U.S. restaurant stocks ahead of earnings",
+    "Japan September factory output beats forecasts, but retail sales disappoint ahea",
+    "L\u00e3i su\u1ea5t ng\u00e0y 31/10 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Tec",
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance"
   ]
 }
