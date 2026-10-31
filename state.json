@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793481802.1847558,
+  "last_signals": 1793482414.9755046,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793480519.54193
+    "5575146754|Gold|1H|dbot": 1793482414.9755046
   },
   "sig_range": {
     "Gold": true,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793481802.8185308,
+    "USOIL|4H:top": 1793482415.515138,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793481802.5087698
+    "Gold|1H:bot": 1793482415.238203
   },
-  "last_analysis": 1793481789.352444,
-  "last_news": 1793481802.1835594,
+  "last_analysis": 1793482408.9585242,
+  "last_news": 1793482414.9743586,
   "seen_news": [
-    "Google taught the world how to search. Now it faces a revolution it can\u2019t afford",
-    "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "UBS sees Bank of England rate hikes supporting pound vs franc",
-    "German state inflation cools in October, but will that ease the ECB's headache?",
-    "Chung c\u01b0 gi\u1ea3m gi\u00e1, ng\u01b0\u1eddi mua v\u1eabn d\u00e8 d\u1eb7t",
     "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
     "Doanh thu h\u00e0ng ngh\u00ecn t\u1ef7 \u0111\u1ed3ng, m\u1ed9t '\u00f4ng l\u1edbn' chuy\u00ean b\u00e1n t\u00f4m h\u00f9m cho Trung Qu\u1ed1c s\u1eaf",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
@@ -455,6 +449,12 @@
     "Faisal Islam: This Budget was micro and that was deliberate",
     "BOJ speeds up ETF sales, potentially boosting funding for Takaichi\u2019s plans",
     "Week ahead: Elections, rate decisions and jobs take center stage",
-    "L\u1eddi nh\u1eafc nh\u1edf d\u00e0nh cho t\u1ea5t c\u1ea3 nh\u1eefng ng\u01b0\u1eddi d\u00f9ng Samsung khi \u0111i\u1ec7n tho\u1ea1i xu\u1ea5t hi\u1ec7n b"
+    "L\u1eddi nh\u1eafc nh\u1edf d\u00e0nh cho t\u1ea5t c\u1ea3 nh\u1eefng ng\u01b0\u1eddi d\u00f9ng Samsung khi \u0111i\u1ec7n tho\u1ea1i xu\u1ea5t hi\u1ec7n b",
+    "From Levi's to Primark - the fashion chains selling mended clothes",
+    "UBS raises zloty forecast as currency faces mounting pressure",
+    "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
+    "\u0110\u1ec1 xu\u1ea5t t\u0103ng m\u1ee9c ph\u1ea1t ti\u1ec1n t\u1ed1i \u0111a l\u00ean 1,5 t\u1ef7 \u0111\u1ed3ng \u0111\u00ea b\u1ea3o \u0111\u1ea3m t\u00ednh r\u0103n \u0111e",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "INTC: Intel Stock Plunges 24% as Weak Outlook Overshadows Strong Earnings Growth"
   ]
 }
