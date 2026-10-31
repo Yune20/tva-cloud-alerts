@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793427773.1969528,
+  "last_signals": 1793428384.381099,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793427773.5094094,
+    "USOIL|4H:top": 1793428384.993806,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793427774.149434,
+    "GBP/USD|1D:top": 1793428386.3120403,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793427773.3566074
+    "Gold|1H:bot": 1793428384.6884472
   },
-  "last_analysis": 1793427764.1775682,
-  "last_news": 1793427773.1960347,
+  "last_analysis": 1793428374.125017,
+  "last_news": 1793428384.3801155,
   "seen_news": [
-    "H\u00e0 N\u1ed9i FC ng\u01b0\u1ee3c d\u00f2ng th\u1eafng Ninh B\u00ecnh nh\u1eefng ph\u00fat cu\u1ed1i tr\u00ean s\u00e2n H\u00e0ng \u0110\u1eaby",
-    "GVR: T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VRG - VietstockFinance",
-    "Zoned Properties retains Bryan McLaren as contractor; executives and directors r",
-    "This cybersecurity stock will be the next to join the S&P 500",
-    "Cramer\u2019s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "EQB Inc. (EQB) To Sell Bennington at ~8% Discount to Receivables - TradingView",
     "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on e",
     "The Indian workers filming their work to train AI",
@@ -455,6 +449,12 @@
     "C\u00f4ng ngh\u1ec7 d\u1eabn \u0111\u1ea7u th\u1ebf gi\u1edbi c\u1ee7a Nga l\u00e0m rung chuy\u1ec3n ng\u00e0nh n\u0103ng l\u01b0\u1ee3ng, 9 qu\u1ed1c gia ",
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "OpenWorld Targets $3.5 Million in Registered Offering With Maxim Group - Trading",
-    "Warsh wants the Fed to say less. Two officials are pushing for more transparency"
+    "Warsh wants the Fed to say less. Two officials are pushing for more transparency",
+    "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch",
+    "B\u1ed9 tr\u01b0\u1edfng GD&\u0110T: S\u00e1ch gi\u00e1o khoa s\u1ebd \u0111\u01b0\u1ee3c cung c\u1ea5p mi\u1ec5n ph\u00ed t\u1eeb n\u0103m h\u1ecdc 2028-2029",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Looming tech threat - TradingView",
+    "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have s",
+    "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget"
   ]
 }
