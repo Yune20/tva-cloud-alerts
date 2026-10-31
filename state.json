@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793477117.2996771,
+  "last_signals": 1793477722.2924037,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793477117.612213,
+    "USOIL|4H:top": 1793477722.8938975,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793477117.4472435
+    "Gold|1H:bot": 1793477722.6730342
   },
-  "last_analysis": 1793477105.0318806,
-  "last_news": 1793477115.5280237,
+  "last_analysis": 1793477714.8131673,
+  "last_news": 1793477722.2915523,
   "seen_news": [
-    "Nat-Gas Prices Fall as US Weather Remains Warm - TradingView",
-    "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-    "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spil",
-    "How video game remakes tap the power of nostalgia",
-    "Fed's Barkin: Direction of travel is straightforward for the Fed",
-    "C\u00f4ng an ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng li\u00ean quan \u0111\u1ebfn \u1ee9ng d\u1ee5ng \u0111\u1ecbnh danh \u0111i\u1ec7n t\u1eed VNeID",
     "Your pay, energy bills and savings: How the Budget affects you",
     "US approves $2.1 billion Patriot missile sale to Ukraine",
     "Bitcoin sellers jump on the risk-off bandwagon",
@@ -455,6 +449,12 @@
     "Nam MC l\u1ea7n \u0111\u1ea7u ti\u00ean d\u1eabn Chung k\u1ebft Olympia l\u00e0 c\u1ef1u sinh vi\u00ean tr\u01b0\u1eddng B\u00e1o, t\u1eebng l\u00e0m ",
     "PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "UMD: Provision releases and cost cuts lifted H1 earnings, but liquidity remains ",
-    "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch"
+    "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+    "What Exponent (EXPO) Said on Its Q3 Earnings Call - TradingView",
+    "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with pr",
+    "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North",
+    "VIDEO: Kinh ho\u00e0ng c\u1ea3nh t\u01b0\u1ee3ng n\u00fai l\u1eeda phun tr\u00e0o cao 3km \u1edf l\u00e1ng gi\u1ec1ng Vi\u1ec7t Nam",
+    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
+    "India releases 1.09 trillion Indian rupees in tax devolution - TradingView"
   ]
 }
