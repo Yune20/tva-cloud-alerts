@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793478945.1139255,
+  "last_signals": 1793479548.646305,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793478945.4151232,
+    "USOIL|4H:top": 1793479549.0006373,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793478945.2657447
+    "Gold|1H:bot": 1793479548.824212
   },
-  "last_analysis": 1793478932.8291492,
-  "last_news": 1793478940.0895643,
+  "last_analysis": 1793479540.6368582,
+  "last_news": 1793479548.645439,
   "seen_news": [
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "What Republic Services (RSG) Said on Its Q3 Earnings Call - TradingView",
-    "Nvidia\u2019s Megaspeed ties show potential blind spots in the U.S. effort to block C",
-    "\u2018Pop-up\u2019 super PACs pour $637 million into 2026 midterm races",
-    "Bereaved families will not face tax bill over pension delays under new rules",
-    "China factory activity contracts in October as economic recovery falters",
     "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
     "Automakers like Rivian and Ford are \u2018democratizing 3D printing\u2019 to reduce costs ",
     "Healey provides some breathing space but things still set to get worse for most",
@@ -455,6 +449,12 @@
     "Alphatec Q3 Earnings Call Highlights - TradingView",
     "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
     "What the Budget offers for under 25s - and what it leaves out",
-    "Isolated clashes in France after peaceful marches, as police brace for Halloween"
+    "Isolated clashes in France after peaceful marches, as police brace for Halloween",
+    "Ph\u00e1t hi\u1ec7n 13,5 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n m\u1eb7t ch\u00f4n d\u01b0\u1edbi l\u00f2ng \u0111\u1ea5t",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "Hanwha Chooses Chainlink Data and CCIP for Global Tokenization Platform - Tradin",
+    "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negot",
+    "Yorkshire Water boss resigns after firm downgraded",
+    "Bitcoin sellers jump on the risk-off bandwagon"
   ]
 }
