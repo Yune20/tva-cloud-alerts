@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793413172.0026424,
-  "last_bot4": 1793419468.5937107,
+  "last_bot4": 1793420119.8768559,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793419468.594641,
+  "last_signals": 1793420119.8776248,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -49,7 +49,8 @@
     "5575146754|Gold|4H|trap_dn": 1793391785.7158117,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
-    "5575146754|Gold|1H|tbot": 1793419468.594641
+    "5575146754|Gold|1H|tbot": 1793419468.594641,
+    "5575146754|Gold|1H|dbot": 1793420119.8776248
   },
   "sig_range": {
     "Gold": true,
@@ -125,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793419469.1984665,
+    "USOIL|4H:top": 1793420120.4379873,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -146,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793419470.311663,
+    "GBP/USD|1D:top": 1793420121.7572627,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793419468.9361854
+    "Gold|1H:bot": 1793420120.1646323
   },
-  "last_analysis": 1793419453.4949572,
-  "last_news": 1793419465.6837018,
+  "last_analysis": 1793420111.828092,
+  "last_news": 1793420119.8757844,
   "seen_news": [
-    "The Fed held interest rates steady, but these officials see more hikes coming so",
-    "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an ex",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Nasdaq 100 in freefall below all MAs after Bear Flag: Live levels",
-    "German import prices surge at fastest pace in nearly four years as energy costs ",
-    "T\u1ed5ng gi\u00e1m \u0111\u1ed1c Tr\u1ecbnh V\u0103n Tu\u1ec7 v\u1eeba b\u1ecb kh\u1edfi t\u1ed1, doanh nghi\u1ec7p th\u00f4ng b\u00e1o kh\u1ea9n",
     "Faisal Islam: This Budget was micro and that was deliberate",
     "S&P 500 November seasonality: historical trends and this year\u2019s context",
     "Week ahead: Elections, rate decisions and jobs take center stage",
@@ -454,6 +449,12 @@
     "France inflation heats up again in October, leaving the ECB caught between a roc",
     "T\u00e0i t\u1eed 'Ti\u1ec3u L\u00fd phi \u0111ao' gi\u1ea3i ngh\u1ec7 khi \u1edf \u0111\u1ec9nh cao, s\u1ed1ng kh\u00e9p k\u00edn sau 2 l\u1ea7n \u0111\u1ed5 v\u1ee1",
     "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
-    "Tech Selloff Drags Wall Street Lower - TradingView"
+    "Tech Selloff Drags Wall Street Lower - TradingView",
+    "Con g\u00e0 \u0111\u1ebb tr\u1ee9ng v\u00e0ng c\u1ee7a Nh\u1eadt B\u1ea3n",
+    "VC7: CTCP T\u1eadp \u0111o\u00e0n BGI - BGI - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-10-31 \u2014 cnbctv:ae5a3dbd4094b:0 - TradingV",
+    "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+    "Bereaved families will not face tax bill over pension delays under new rules",
+    "China factory activity contracts in October as economic recovery falters"
   ]
 }
