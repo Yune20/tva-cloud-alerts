@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793470032.2847674,
+  "last_signals": 1793470640.6485577,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793468817.9948046
+    "5575146754|Gold|1H|dbot": 1793470640.6485577
   },
   "sig_range": {
     "Gold": true,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793470032.8526068,
+    "USOIL|4H:top": 1793470640.9815996,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793470032.6009378
+    "Gold|1H:bot": 1793470640.8186707
   },
-  "last_analysis": 1793470023.9654896,
-  "last_news": 1793470032.2841163,
+  "last_analysis": 1793470633.3226657,
+  "last_news": 1793470640.6476505,
   "seen_news": [
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "What DaVita (DVA) Said on Its Q3 Earnings Call - TradingView",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "Living with a stink? Technology might help",
-    "ExxonMobil Profits Double to $15.4 Billion",
-    "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
     "Power bills and data centers cast rare spotlight on utilities in US midterms",
     "Fed\u2019s Musalem: Moving sooner with rate hikes lessens risk of hit to broader econ",
     "Viettel kh\u1edfi c\u00f4ng nh\u00e0 m\u00e1y v\u0169 kh\u00ed, trang b\u1ecb qu\u00e2n s\u1ef1 c\u00f4ng ngh\u1ec7 cao t\u1ea1i Th\u00e1i Nguy\u00ean",
@@ -455,6 +449,12 @@
     "Meta builds humanoid robot with China\u2019s Fourier as home robot push expands: repo",
     "Tokyo October CPI 2.8% (2.7% expected)",
     "L\u1ee3i nhu\u1eadn ACV gi\u1ea3m 35%, s\u1ed1 lao \u0111\u1ed9ng gi\u1ea3m g\u1ea7n 3.700 ng\u01b0\u1eddi trong khi ti\u1ec1n \u0111\u1ea7u t\u01b0 c",
-    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance"
+    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
+    "Japan to Overtake China As World\u2019s Top LNG Importer This Year",
+    "Isolated clashes in France, as tensions erupt after peaceful marches",
+    "How has the Magnificent 7 done relatively to the broader stock indices today?",
+    "Ch\u1ee9ng kho\u00e1n th\u00e1ng 11 \u0111\u1ed1i m\u1eb7t nhi\u1ec1u th\u00e1ch th\u1ee9c, d\u00f2ng ti\u1ec1n t\u00ecm c\u01a1 h\u1ed9i \u1edf \u0111\u00e2u?",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Stocktwits Fintech Pulse: US Fintech Weekly Briefing & Market Drivers - TradingV"
   ]
 }
