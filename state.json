@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793459192.0018601,
+  "last_signals": 1793459800.624338,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793459192.6701357,
+    "USOIL|4H:top": 1793459800.9933639,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793459193.8103006,
+    "GBP/USD|1D:top": 1793459801.650877,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793459192.342247
+    "Gold|1H:bot": 1793459800.807243
   },
-  "last_analysis": 1793459182.5575886,
-  "last_news": 1793459192.0007353,
+  "last_analysis": 1793459793.6281056,
+  "last_news": 1793459800.623519,
   "seen_news": [
-    "QTP: CTCP Nhi\u1ec7t \u0111i\u1ec7n Qu\u1ea3ng Ninh - EVN TPC QUANG NINH - VietstockFinance",
-    "BlincVision AB (publ) (BLINC_B) CFO Dan Wahrenberg To Depart - TradingView",
-    "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on e",
-    "The Indian workers filming their work to train AI",
-    "Bolsonaro\u2019s Election Defeat Could Complicate U.S. Rare Earth Plans",
-    "Fitch revises France\u2019s outlook to \u2019negative\u2019 on worsening debt dynamics",
     "Indian Oil Q2 2027 Earnings Call Is Live - TradingView",
     "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan ca",
     "Why are more roofs not made of solar tiles?",
@@ -455,6 +449,12 @@
     "Senegal\u2019s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
     "UBS sees scope for further sterling gains as short positioning creates upside",
     "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
-    "Gi\u00e1 \u0111i\u1ec7n ch\u00ednh th\u1ee9c gi\u1ea3m 2% t\u1eeb ng\u00e0y 1/11"
+    "Gi\u00e1 \u0111i\u1ec7n ch\u00ednh th\u1ee9c gi\u1ea3m 2% t\u1eeb ng\u00e0y 1/11",
+    "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases",
+    "Binance says 90% of stolen assets replenished",
+    "investingLive European session wrap: AI spending fears spook tech stocks; dollar",
+    "Ch\u1ed3ng c\u0169 Britney Spears n\u1ee3 h\u00e0ng t\u1ef7, b\u1ecb ki\u1ec7n khi kh\u00f4ng c\u00f2n nh\u1eadn \u0111\u01b0\u1ee3c \"tr\u1ee3 c\u1ea5p nu\u00f4",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Sanofi Q3 2026 Earnings Call Is Live - TradingView"
   ]
 }
