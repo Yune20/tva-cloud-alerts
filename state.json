@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793424394.4072394,
+  "last_signals": 1793424718.9815683,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793424394.771337,
+    "USOIL|4H:top": 1793424719.361612,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -147,21 +147,15 @@
     "EUR/USD|4H:top": 1793332808.835939,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793369686.1465232,
-    "GBP/USD|1D:top": 1793424395.539851,
+    "GBP/USD|1D:top": 1793424720.0906303,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793424394.613249
+    "Gold|1H:bot": 1793424719.1551433
   },
-  "last_analysis": 1793424099.2789156,
-  "last_news": 1793424394.406656,
+  "last_analysis": 1793424710.3372054,
+  "last_news": 1793424718.980719,
   "seen_news": [
-    "Reddit\u2019s stock logs its biggest one-day drop ever. It\u2019s not the last of the bad ",
-    "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign asset",
-    "How long will humans be needed for translation?",
-    "Canadian dollar strengthens as traders assess BoC hike, await US data",
-    "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
-    "Hot l\u1ea1i h\u00ecnh \u1ea3nh 12 n\u0103m tr\u01b0\u1edbc c\u1ee7a Minh H\u1eb1ng",
     "P&R urged to speed up review of relocation grants",
     "S&P Global revises outlook on Meta to negative on cashflow concerns",
     "Bitcoin tests key support as Binance security fears weigh",
@@ -455,6 +449,12 @@
     "Agentic AI excitement runs ahead of results",
     "France's economy contracts in Q3 as growth troubles pile up for the ECB",
     "B\u1ed9 N\u00f4ng nghi\u1ec7p v\u00e0 M\u00f4i tr\u01b0\u1eddng c\u00f3 t\u00e2n th\u1ee9 tr\u01b0\u1edfng",
-    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance"
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
+    "Will Top-Line Improvement Benefit Palantir in Q3 Earnings? - TradingView",
+    "In a wild October for markets, these stocks were the biggest winners and losers",
+    "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+    "Bitcoin, cryptocurrency prices fall after Binance reports security issue"
   ]
 }
