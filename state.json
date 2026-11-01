@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793549280.256109,
+  "last_signals": 1793549890.913328,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793549272.189557,
-  "last_news": 1793549280.2552307,
+  "last_analysis": 1793549882.8212829,
+  "last_news": 1793549890.9122722,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "Iran offers 48-hour Hormuz reopening plan as Trump signals progress in talks",
-    "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch",
-    "Doanh nghi\u1ec7p h\u00e0ng kh\u00f4ng gi\u1ea3m m\u1ea1nh nh\u00e2n s\u1ef1",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Will Top-Line Improvement Benefit Palantir in Q3 Earnings? - TradingView",
     "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
     "Macau gaming revenue falls 10% in October despite Golden Week visitor surge",
     "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
@@ -455,6 +449,12 @@
     "Azerbaijan\u2019s Renewable Energy Boom Is Transforming Its Power Sector",
     "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
     "Ch\u00e2n dung t\u00e2n Qu\u00e1n qu\u00e2n Olympia 2026 \u0110o\u00e0n L\u00ea Anh \u0110\u1ee9c",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Binance sees spike in customers pulling funds out after covering bulk of stolen ",
+    "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. W",
+    "Thu\u1ed9c Qu\u1ed1c ca 135 n\u01b0\u1edbc, Qu\u00e1n qu\u00e2n Olympia Anh \u0110\u1ee9c ng\u1eabu h\u1ee9ng h\u00e1t Qu\u1ed1c ca H\u00e0n Qu\u1ed1c",
+    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-11-01 \u2014 cnbctv:2ba7131e8094b:0 - TradingV",
+    "Humans are still doing the work behind some AI agents"
   ]
 }
