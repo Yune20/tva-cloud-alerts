@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793554845.0533934,
+  "last_signals": 1793555458.8759246,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793554838.0121477,
-  "last_news": 1793554845.0526075,
+  "last_analysis": 1793555448.3655024,
+  "last_news": 1793555458.87505,
   "seen_news": [
-    "Sanofi Q3 2026 Earnings Call Is Live - TradingView",
-    "Intel stock has worst day since 1970s, wiping about $12 billion off government's",
-    "What we know about Binance's $6.3bn hack",
-    "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 bi",
-    "US employment cost index for Q3 +0.8% vs +0.8% expected",
-    "Vi\u1ec7t Nam v\u1eeba h\u1ea1 th\u1ee7y si\u00eau t\u00e0u d\u00e0i h\u01a1n 111 m, c\u1ea7n c\u1ea9u 150 t\u1ea5n, c\u00f3 b\u00e3i \u0111\u00e1p tr\u1ef1c th",
     "Morning Kickstart: Tech hammered as Amazon and Intel tumble; oil rises despite p",
     "T\u1ed1i h\u1eadu th\u01b0 c\u1ee7a \u00f4ng Putin khi\u1ebfn ch\u00e2u \u00c2u rung ch\u1ea5n - L\u1ec7nh huy \u0111\u1ed9ng qu\u00e2n v\u00e0 \u201ccu\u1ed9c ",
     "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - VietstockFinance",
@@ -455,6 +449,12 @@
     "SAB: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - SABECO - Vietsto",
     "Rosenblatt maintains SanDisk at Buy, keeps price target at $2400 - TradingView",
     "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash",
-    "Stocks started the week with promise but ended in despair. Our take on the big r"
+    "Stocks started the week with promise but ended in despair. Our take on the big r",
+    "B\u00e1o c\u00e1o ph\u00e2n t\u00edch - VietstockFinance",
+    "Procter & Gamble Closes $4 Billion Notes Offering Across Four Maturities - Tradi",
+    "Gamble on democracy: Inside suspicious election-contracts trading on prediction ",
+    "US interest rates held steady and economy grows - what it means for you",
+    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+    "Saudi Arabia\u2019s economy contracts 3.8% as war disrupts oil production"
   ]
 }
