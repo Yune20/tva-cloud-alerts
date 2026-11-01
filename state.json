@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793570876.1231878,
+  "last_signals": 1793571487.6044676,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
-    "5575146754|Gold|4H|trap_dn": 1793567824.2199879,
+    "5575146754|Gold|4H|trap_dn": 1793571487.6044676,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
@@ -70,10 +70,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793570868.5583668,
-  "last_news": 1793570876.1222167,
+  "last_analysis": 1793571476.1454153,
+  "last_news": 1793571487.6036649,
   "seen_news": [
-    "AutoNation 3Q 2026: Revenue $7.01B, EPS $4.87\u2014 10-Q Summary - TradingView",
-    "Trump promised to slash energy costs  \u2014 but gasoline, diesel and jet fuel all so",
-    "Bereaved families will not face tax bill over pension delays under new rules",
-    "German state inflation cools in October, but will that ease the ECB's headache?",
-    "1 tu\u1ea7n n\u1eefa s\u1ebd c\u00f3 2 con gi\u00e1p g\u1eb7p th\u1eddi \u0111\u1ed5i v\u1eadn, gi\u00e0u sang ph\u00fa qu\u00fd, 1 con gi\u00e1p l\u1ea1i ",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "B\u1eafc Ninh x\u1eed l\u00fd h\u01a1n 72.000 tr\u01b0\u1eddng h\u1ee3p ch\u1ea1y qu\u00e1 t\u1ed1c \u0111\u1ed9 trong 10 th\u00e1ng",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-11-01 \u2014 cnbctv:d2dfa2add094b:0 - TradingV",
@@ -455,6 +449,12 @@
     "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.84%",
     "Trump says US and Canada have \u2018concept\u2019 of a deal, two days before midterms",
     "B\u00ed quy\u1ebft gi\u1eef \u1ea5m \u0111\u1ed9c \u0111\u00e1o c\u1ee7a ng\u01b0\u1eddi Trung Qu\u1ed1c c\u1ed5 \u0111\u1ea1i",
-    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - VietstockFinance"
+    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - VietstockFinance",
+    "\u0110en V\u00e2u b\u1ea5t ng\u1edd xu\u1ea5t hi\u1ec7n \u1edf chung k\u1ebft \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia 2026",
+    "Doanh nghi\u1ec7p AZ - VietstockFinance",
+    "Australian lender Westpac's full-year profit ticks higher - TradingView",
+    "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+    "From Levi's to Primark - the fashion chains selling mended clothes",
+    "UBS raises zloty forecast as currency faces mounting pressure"
   ]
 }
