@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793544022.6905515,
+  "last_signals": 1793544629.9092643,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
-    "5575146754|Gold|4H|trap_dn": 1793540918.8981497,
+    "5575146754|Gold|4H|trap_dn": 1793544629.9092643,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793544013.6697621,
-  "last_news": 1793544020.4283102,
+  "last_analysis": 1793544619.7119417,
+  "last_news": 1793544629.908366,
   "seen_news": [
-    "Corn Fades Lower on Friday - TradingView",
-    "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Binance to resume withdrawals after covering bulk of stolen $6.3 billion",
-    "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another cryp",
-    "B\u1ea3ng gi\u00e1 ki\u1ec3m \u0111\u1ecbnh c\u00e1c lo\u1ea1i \u00f4 t\u00f4 theo quy \u0111\u1ecbnh m\u1edbi",
     "Streeting denies 'kicking can down the road' in defence spending row",
     "Sterling today: Pound firms as dollar slips on midterm, AI jitters",
     "Bitcoin tests key support as Binance security fears weigh",
@@ -455,6 +449,12 @@
     "Key facts: BTCUSD drops to mid-$70k; Binance $6.3B hack, ETFs $104B - TradingVie",
     "Crypto industry pours more than $200 million into 2026 midterms to pressure Cong",
     "What the Budget offers for under 25s - and what it leaves out",
-    "Bitcoin, cryptocurrency prices fall after Binance reports security issue"
+    "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+    "What Trane Technologies (TT) Said on Its Q3 Earnings Call - TradingView",
+    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w",
+    "Your pay, energy bills and savings: How the Budget affects you",
+    "Canadian dollar strengthens as traders assess BoC hike, await US data",
+    "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
+    "Gi\u00e1o s\u01b0 \u0110\u1ea1i h\u1ecdc Thanh Hoa: \u0110\u1ee9a tr\u1ebb \"n\u00f3i nhi\u1ec1u\" v\u00e0 \"\u00edt n\u00f3i\", 20 n\u0103m sau s\u1ebd c\u00f3 hai"
   ]
 }
