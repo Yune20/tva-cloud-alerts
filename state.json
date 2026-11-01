@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793492447.8483202,
+  "last_signals": 1793493064.4330847,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793492448.1907706,
+    "USOIL|4H:top": 1793493064.9415252,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793492448.0280857
+    "Gold|1H:bot": 1793493064.6688466
   },
-  "last_analysis": 1793492440.4944348,
-  "last_news": 1793492447.8474169,
+  "last_analysis": 1793493055.6740096,
+  "last_news": 1793493064.4322052,
   "seen_news": [
-    "Canada GDP for August 0.0% vs 0.2% estimate",
-    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \"ng\u1ed3i l\u00ec\" tr\u00ean xe m\u00e1y, c\u1ea3n tr\u1edf CSGT t\u1ea1m gi\u1eef ph\u01b0\u01a1ng ti\u1ec7n vi ph\u1ea1m",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
-    "Not Quite an Octoberfest, but D-St Makes a Recovery - TradingView",
-    "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a hi",
-    "Stocks started the week with promise but ended in despair. Our take on the big r",
     "TP.HCM t\u1ed1i Halloween: M\u01b0a v\u1eeba ng\u1edbt ng\u01b0\u1eddi ng\u01b0\u1eddi \u0111\u00e3 \u0111\u1ed5 ra ph\u1ed1, ch\u1eadt k\u00edn Nguy\u1ec5n Hu\u1ec7",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "Key facts: AbbVie, Inc. Q3 revenue $17.404B; Skyrizi approved; lutikizumab succe",
@@ -455,6 +449,12 @@
     "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
     "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E",
     "Gi\u00e1m \u0111\u1ed1c B\u1ec7nh vi\u1ec7n B\u1ea1ch Mai l\u00e0m Th\u1ee9 tr\u01b0\u1edfng B\u1ed9 Y t\u1ebf",
-    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - VietstockFinance"
+    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - VietstockFinance",
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "Indian Oil Q2 2027 Earnings Call Is Live - TradingView",
+    "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+    "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume wi",
+    "Rainmakers: The drones used to seed clouds",
+    "Oil hits six-month highs as Hormuz attacks threaten Iran peace efforts"
   ]
 }
