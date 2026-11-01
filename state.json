@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793496737.5111134,
+  "last_signals": 1793497347.8761973,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793496737.863419,
+    "USOIL|4H:top": 1793497348.3746543,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793496737.6888127
+    "Gold|1H:bot": 1793497348.127468
   },
-  "last_analysis": 1793496729.678415,
-  "last_news": 1793496737.5101602,
+  "last_analysis": 1793497340.1356611,
+  "last_news": 1793497347.8753605,
   "seen_news": [
-    "China reports sharp increase in gold, nickel and strategic minerals - Xinhua",
-    "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
-    "Ch\u1ee9ng kho\u00e1n D\u1ea7u kh\u00ed b\u1ecb ph\u1ea1t v\u00e0 truy thu thu\u1ebf",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Cousins Properties Q3 Earnings Call Highlights - TradingView",
-    "Medicare used AI to pre-approve patient care, and it immediately led to a large ",
     "L\u1ecbch ch\u1ed1t quy\u1ec1n c\u1ed5 t\u1ee9c tu\u1ea7n 2-6/11: C\u1ed5 t\u1ee9c ti\u1ec1n m\u1eb7t cao nh\u1ea5t 100%",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
     "Banco Santander Chile reports results for the quarter ended September 30 - Earni",
@@ -455,6 +449,12 @@
     "Bank of England weighs raising cap on high-risk mortgages to five times income: ",
     "Crude oil extends gains as traders hedge into weekend amid risks of US strikes o",
     "T\u00ecnh h\u00ecnh hi\u1ec7n t\u1ea1i c\u1ee7a nam NSND, \"b\u1ed1\" di\u1ec5n vi\u00ean B\u1ea3o Thanh",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: GDP qu\u00fd 3 \u00e1p s\u00e1t 10%, t\u1ea1o \u0111\u00e0 t\u0103ng t\u1ed1c cu\u1ed1i n\u0103m - VietstockFinance",
+    "Swiss firms plan to expand China investments as trade deal deepens ties",
+    "investingLive Asia-Pacific market news: Binance hack shakes crypto",
+    "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a MC \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia v\u00e0 c\u00f4 \u0111\u1ed3ng nghi\u1ec7p",
+    "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - VietstockFinance",
+    "Richmond Mutual reports Q3 net income of $1.75 million - TradingView",
+    "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he lik"
   ]
 }
