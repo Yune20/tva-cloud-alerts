@@ -29,14 +29,14 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793560120.1802914,
+  "last_signals": 1793560731.2238162,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
     "5575146754|Gold|4H|dbot": 1793360834.2515242,
-    "5575146754|Gold|1D|dn": 1793539096.977688,
+    "5575146754|Gold|1D|dn": 1793560731.2238162,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793218184.489898,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793560111.5748127,
-  "last_news": 1793560120.1793978,
+  "last_analysis": 1793560723.4713795,
+  "last_news": 1793560731.2233179,
   "seen_news": [
-    "AI investors rush to hedge against potential tech market downturn - WSJ",
-    "Fed\u2019s Musalem: Moving sooner with rate hikes lessens risk of hit to broader econ",
-    "Gi\u00e1 \u0111i\u1ec7n gi\u1ea3m 2% t\u1eeb ng\u00e0y 1/11: T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n l\u01b0u \u00fd ki\u1ec3m tra ngay 5 thi\u1ebft b\u1ecb n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "What Lear (LEA) Said on Its Q3 Earnings Call - TradingView",
-    "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage",
     "investingLive Asia-Pacific market news: Binance hack shakes crypto",
     "XSMT 1/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 1 th\u00e1ng 11",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
@@ -455,6 +449,12 @@
     "SoftBank-backed OPay shelves IPO plans after regulatory probe - TradingView",
     "Anthropic is AI trade's last big hope for a major IPO this year",
     "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
-    "U.S. Oil, Gas Drillers Still on Hold"
+    "U.S. Oil, Gas Drillers Still on Hold",
+    "How has the Magnificent 7 done relatively to the broader stock indices today?",
+    "Nh\u1eefng ng\u00f4i sao m\u1ed9t th\u1eddi tr\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n: T\u1eeb v\u1ecb th\u1ebf c\u1ee9 \u201c\u00f4m\u201d l\u00e0 th\u1eafng, \u0111\u1ebfn ch",
+    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
+    "TFI International Q3 Earnings Call Highlights - TradingView",
+    "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
+    "Crypto firm Binance covers 90% of losses after $6.3bn hack"
   ]
 }
