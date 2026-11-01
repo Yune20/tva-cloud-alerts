@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793500747.4182003,
+  "last_signals": 1793501357.4134185,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,8 +70,8 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793500747.7316906,
+    "USOIL|4H:top": 1793501357.741923,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793500747.5798798
+    "Gold|1H:bot": 1793501357.5834553
   },
-  "last_analysis": 1793500739.7352383,
-  "last_news": 1793500747.4172473,
+  "last_analysis": 1793501349.3632863,
+  "last_news": 1793501357.412474,
   "seen_news": [
-    "US tech stocks see sharp falls as AI spending nears $1tn",
-    "Oil Traders Brace for a Wild Week as Brent Approaches $120",
-    "Power bills and data centers cast rare spotlight on utilities in US midterms",
-    "Fed\u2019s Musalem: Moving sooner with rate hikes lessens risk of hit to broader econ",
-    "Th\u01b0\u01a1ng v\u1ee5 \u0111\u1ea5u gi\u00e1 g\u1ea7n 80 tri\u1ec7u c\u1ed5 phi\u1ebfu Seaprodex l\u1ea1i b\u1ea5t th\u00e0nh",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
     "Citi upgrades Hyundai Mobis to buy on 4Q outlook",
     "Fed\u2019s Daly: AI matters for near- and medium-term policy",
     "Nh\u1eefng ng\u01b0\u1eddi h\u00f3a gi\u1ea3i \u2018l\u1eddi nguy\u1ec1n\u2019 c\u1ee7a mi\u1ec1n T\u00e2y \u1edf c\u00f4ng ty t\u01b0 nh\u00e2n ng\u00e0nh n\u01b0\u1edbc l\u1edbn ",
@@ -455,6 +449,12 @@
     "Ph\u00e1 v\u1ee1 truy\u1ec1n th\u1ed1ng, Nga ph\u00e1t minh c\u00f4ng ngh\u1ec7 \u0111\u1ed9t ph\u00e1 cho turbine kh\u00ed, h\u1ee9a h\u1eb9n tu",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
     "What AGCO (AGCO) Said on Its Q3 Earnings Call - TradingView",
-    "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in fiv"
+    "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in fiv",
+    "Lo\u1ea1i n\u1ea5m G-Dragon (BIGBANG) r\u1ea5t m\u00ea \u0103n",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "FMC Q3 Earnings Call Highlights - TradingView",
+    "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
+    "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
+    "The tech helping crack decades-old cold cases"
   ]
 }
