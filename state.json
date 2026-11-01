@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793555751.0977817,
-  "last_bot4": 1793560414.4098167,
+  "last_bot4": 1793561102.8955579,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793560731.2238162,
+  "last_signals": 1793561102.9007244,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793560723.4713795,
-  "last_news": 1793560731.2233179,
+  "last_analysis": 1793561092.6519718,
+  "last_news": 1793561102.8944285,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Binance hack shakes crypto",
-    "XSMT 1/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 1 th\u00e1ng 11",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "FMC Q3 Earnings Call Highlights - TradingView",
-    "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-    "US tech stocks see sharp falls as AI spending nears $1tn",
     "Roblox Q3 Earnings Call Highlights - TradingView",
     "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
     "The tech helping crack decades-old cold cases",
@@ -455,6 +449,12 @@
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "TFI International Q3 Earnings Call Highlights - TradingView",
     "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
-    "Crypto firm Binance covers 90% of losses after $6.3bn hack"
+    "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "Ronaldo b\u1ecb \"t\u01b0\u1edbc\" 7 b\u00e0n th\u1eafng?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
+    "Nike has a new plan for retro Michael Jordan shoes - TradingView",
+    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
+    "Shops looted as German cost-of-living protests turn violent",
+    "AI investors rush to hedge against potential tech market downturn - WSJ"
   ]
 }
