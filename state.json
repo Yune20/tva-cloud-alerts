@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793575577.0920541,
+  "last_signals": 1793576193.8372698,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,10 +70,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793575568.528735,
-  "last_news": 1793575577.0911033,
+  "last_analysis": 1793576185.5623002,
+  "last_news": 1793576193.8364673,
   "seen_news": [
-    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
-    "Binance to resume crypto withdrawals after $6.3B hack - TradingView",
-    "Social Security may have to cut retirement benefits in six years. Here's how muc",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "investingLive Americas FX news wrap 30 Oct: It\u2019s a wrap: Nasdaq tumbles as AI co",
-    "X\u1eed ph\u1ea1t lo\u1ea1t nh\u00e0 \u0111\u1ea7u t\u01b0 thao t\u00fang c\u1ed5 phi\u1ebfu c\u1ee7a Kido",
     "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
     "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
     "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
@@ -455,6 +449,12 @@
     "Key facts: BTCUSD drops to mid-$70k; Binance $6.3B hack, ETFs $104B - TradingVie",
     "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
     "Healey provides some breathing space but things still set to get worse for most",
-    "Canadian dollar strengthens as traders assess BoC hike, await US data"
+    "Canadian dollar strengthens as traders assess BoC hike, await US data",
+    "Sterling today: Pound firms as dollar slips on midterm, AI jitters",
+    "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another cryp",
+    "M\u1eb9 1 con quy\u1ebft \u0111\u1ecbnh b\u1ecf b\u1edbt qu\u1ea7n \u00e1o, kh\u00f4ng ng\u1edd cu\u1ed9c s\u1ed1ng thay \u0111\u1ed5i: T\u1ee7 c\u00e0ng tr\u1ed1ng,",
+    "KDH: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Kinh doanh Nh\u00e0 Khang \u0110i\u1ec1n - KHADIHOUSE JSC - VietstockFinanc",
+    "What YPF Sociedad An\u00f3nima (YPF) Said on Its Q3 Earnings Call - TradingView",
+    "Apple\u2019s new earnings era begins at a critical time for Big Tech"
   ]
 }
