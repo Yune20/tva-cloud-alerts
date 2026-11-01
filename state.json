@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793499526.5982764,
+  "last_signals": 1793500139.1012263,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793497953.9624078
+    "5575146754|Gold|1H|dbot": 1793500139.1012263
   },
   "sig_range": {
     "Gold": true,
@@ -70,10 +70,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793499527.4699776,
+    "USOIL|4H:top": 1793500139.6955826,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793499527.1352005
+    "Gold|1H:bot": 1793500139.366899
   },
-  "last_analysis": 1793499517.236734,
-  "last_news": 1793499526.5970407,
+  "last_analysis": 1793500130.1690643,
+  "last_news": 1793500139.100187,
   "seen_news": [
-    "T\u1eadp \u0111o\u00e0n \u0111\u1ee9ng sau Zalo l\u00e3i h\u01a1n 1.000 t\u1ef7 \u0111\u1ed3ng, h\u00e9 l\u1ed9 kho\u1ea3n l\u00e3i g\u1ea7n 320 t\u1ef7 t\u1eeb m\u1ed9t ",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Pro-Dex, Inc. Announces Fiscal 2027 First Quarter Results - TradingView",
-    "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in fiv",
-    "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
-    "The tech helping crack decades-old cold cases",
     "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
     "FMC Q3 Earnings Call Highlights - TradingView",
     "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-",
@@ -455,6 +449,12 @@
     "Gi\u1ea3i \u0111\u1ea5u th\u1ec3 l\u1ef1c l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi l\u1ea7n \u0111\u1ea7u \u0111\u1ebfn Vi\u1ec7t Nam: Ch\u1ea1y 8 km, \u0111\u1ea9y xe 202 k",
     "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
     "Shell Q3 Earnings Call Highlights - TradingView",
-    "Anthropic is AI trade's last big hope for a major IPO this year"
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Ph\u1ea1m Tr\u01b0\u1eddng S\u01a1n khai v\u1ec1 nh\u00f3m \"\u0111\u1ea7u t\u01b0 r\u01b0\u1ee3u vang\" t\u01b0 v\u1ea5n cho Mr Pips",
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
+    "Bambusa, Clinical-Stage Bispecific Antibody Developer, Files for Nasdaq IPO - Tr",
+    "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
+    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+    "U.S. Oil, Gas Drillers Still on Hold"
   ]
 }
