@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793548006.5300622,
+  "last_signals": 1793548615.789494,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
-    "5575146754|Gold|4H|trap_dn": 1793544629.9092643,
+    "5575146754|Gold|4H|trap_dn": 1793548615.789494,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793547999.9328809,
-  "last_news": 1793548006.5291567,
+  "last_analysis": 1793548603.1863742,
+  "last_news": 1793548615.788675,
   "seen_news": [
-    "T\u1eeb ng\u00e0y 1/11, t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n Vi\u1ec7t Nam \u0111\u01b0\u1ee3c gi\u1ea3m ti\u1ec1n \u0111i\u1ec7n",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "Crypto Market Is on Sale: Top 5 Altcoins Showing Buying Opportunities - TradingV",
-    "Humans are still doing the work behind some AI agents",
-    "Google value plunges by $500bn as its own AI search hits ad sales",
-    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
     "OpenWorld Targets $3.5 Million in Registered Offering With Maxim Group - Trading",
     "Binance, crypto and hacks: What to know about keeping coin safe as cyber crimina",
     "The Indian workers filming their work to train AI",
@@ -455,6 +449,12 @@
     "LyondellBasell Industries Q3 Earnings Call Highlights - TradingView",
     "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have s",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Chevron Raises Exploration Spending By 50%"
+    "Chevron Raises Exploration Spending By 50%",
+    "Chainlink Launches CustodySync With Anchorage to Link Custody and DeFi Loans - T",
+    "In the wake of Weil, a legal recruiter's advice for surviving a company wind-dow",
+    "How long will humans be needed for translation?",
+    "Senegal\u2019s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
+    "UBS sees scope for further sterling gains as short positioning creates upside",
+    "investingLive European session wrap: AI spending fears spook tech stocks; dollar"
   ]
 }
