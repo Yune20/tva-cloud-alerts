@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793512058.8906038,
-  "last_bot4": 1793516403.5756044,
+  "last_bot4": 1793517368.8254826,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793515719.9496138
+    "Gold": 1793517368.8253675
   },
   "bot_chats": {
     "bot4": [
@@ -29,14 +29,14 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793517006.0457766,
+  "last_signals": 1793517368.8262317,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793331575.55301,
     "5575146754|Gold|4H|dbot": 1793360834.2515242,
-    "5575146754|Gold|1D|dn": 1793495535.6781065,
+    "5575146754|Gold|1D|dn": 1793517368.8262317,
     "5575146754|Gold|1D|trap_dn": 1793054482.1087122,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793218184.489898,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
-    "5575146754|Gold|4H|trap_dn": 1793513602.0934687,
+    "5575146754|Gold|4H|trap_dn": 1793517368.8262317,
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793516998.0683641,
-  "last_news": 1793517006.0449884,
+  "last_analysis": 1793517359.2288516,
+  "last_news": 1793517366.6510315,
   "seen_news": [
-    "35-year-old took on $20K in debt to launch a business from her dining room\u2014now i",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Senegal\u2019s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
-    "UBS sees scope for further sterling gains as short positioning creates upside",
-    "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-    "\u0102n c\u1ee7 c\u1ea3i tr\u1eafng m\u1ed7i ng\u00e0y, ng\u01b0\u1eddi ph\u1ee5 n\u1eef m\u1eafc ung th\u01b0 b\u1ea5t ng\u1edd khi \u0111i kh\u00e1m",
     "Why the UK is dithering over what to do about e-scooters",
     "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
     "Binance says 90% of stolen assets replenished",
@@ -455,6 +449,12 @@
     "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
     "Companies promised AI gains\u2014 here's how the payoff showed up in earnings",
     "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
-    "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion"
+    "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion",
+    "Chainlink Launches CustodySync With Anchorage to Link Custody and DeFi Loans - T",
+    "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have s",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Chevron Raises Exploration Spending By 50%",
+    "Who are the spillover winners from the AI export boom in Asia?",
+    "investingLive Americas market news wrap: ECB holds, sources report says December"
   ]
 }
