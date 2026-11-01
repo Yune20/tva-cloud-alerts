@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793497347.8761973,
+  "last_signals": 1793497953.9624078,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -50,7 +50,7 @@
     "5575146754|Gold|1H|momo_dn": 1793369071.5956316,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793496131.8675332
+    "5575146754|Gold|1H|dbot": 1793497953.9624078
   },
   "sig_range": {
     "Gold": true,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793497348.3746543,
+    "USOIL|4H:top": 1793497954.4503644,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793497348.127468
+    "Gold|1H:bot": 1793497954.1862035
   },
-  "last_analysis": 1793497340.1356611,
-  "last_news": 1793497347.8753605,
+  "last_analysis": 1793497945.4575632,
+  "last_news": 1793497953.9616318,
   "seen_news": [
-    "L\u1ecbch ch\u1ed1t quy\u1ec1n c\u1ed5 t\u1ee9c tu\u1ea7n 2-6/11: C\u1ed5 t\u1ee9c ti\u1ec1n m\u1eb7t cao nh\u1ea5t 100%",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "Banco Santander Chile reports results for the quarter ended September 30 - Earni",
-    "Why bitcoin held up better after the record Binance hack",
-    "The grads ditching the UK for a fresh start abroad",
-    "America\u2019s LNG Boom Faces Its Biggest Test Yet",
     "Cramer\u2019s week ahead: Expect more volatility as tech earnings, midterms loom",
     "The AI telling farmers when to harvest",
     "Why Deutsche Bank says the AI dollar is here",
@@ -455,6 +449,12 @@
     "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a MC \u0110\u01b0\u1eddng L\u00ean \u0110\u1ec9nh Olympia v\u00e0 c\u00f4 \u0111\u1ed3ng nghi\u1ec7p",
     "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - VietstockFinance",
     "Richmond Mutual reports Q3 net income of $1.75 million - TradingView",
-    "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he lik"
+    "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he lik",
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
+    "Cousins Properties Q3 Earnings Call Highlights - TradingView",
+    "Medicare used AI to pre-approve patient care, and it immediately led to a large ",
+    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+    "'An annoying buzz': The search for stealthier drones",
+    "South Korea exports surge 93.7% in October, fastest growth since 1974"
   ]
 }
