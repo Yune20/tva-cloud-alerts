@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793522957.0859456,
-  "last_bot4": 1793525400.027855,
+  "last_bot4": 1793526081.5921276,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793524783.1178691
+    "Gold": 1793526081.5920115
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793525718.0246472,
+  "last_signals": 1793526081.5928152,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,10 +70,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793525710.5436215,
-  "last_news": 1793525718.0237677,
+  "last_analysis": 1793526071.446948,
+  "last_news": 1793526079.5723703,
   "seen_news": [
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Cousins Properties Q3 Earnings Call Highlights - TradingView",
-    "Medicare used AI to pre-approve patient care, and it immediately led to a large ",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "'An annoying buzz': The search for stealthier drones",
-    "South Korea exports surge 93.7% in October, fastest growth since 1974",
     "What Newell Brands (NWL) Said on Its Q3 Earnings Call - TradingView",
     "Why bitcoin held up better after the record Binance hack",
     "The grads ditching the UK for a fresh start abroad",
@@ -455,6 +449,12 @@
     "What we know about Binance's $6.3bn hack",
     "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 bi",
     "US employment cost index for Q3 +0.8% vs +0.8% expected",
-    "Vi\u1ec7t Nam v\u1eeba h\u1ea1 th\u1ee7y si\u00eau t\u00e0u d\u00e0i h\u01a1n 111 m, c\u1ea7n c\u1ea9u 150 t\u1ea5n, c\u00f3 b\u00e3i \u0111\u00e1p tr\u1ef1c th"
+    "Vi\u1ec7t Nam v\u1eeba h\u1ea1 th\u1ee7y si\u00eau t\u00e0u d\u00e0i h\u01a1n 111 m, c\u1ea7n c\u1ea9u 150 t\u1ea5n, c\u00f3 b\u00e3i \u0111\u00e1p tr\u1ef1c th",
+    "Morning Kickstart: Tech hammered as Amazon and Intel tumble; oil rises despite p",
+    "T\u1ed1i h\u1eadu th\u01b0 c\u1ee7a \u00f4ng Putin khi\u1ebfn ch\u00e2u \u00c2u rung ch\u1ea5n - L\u1ec7nh huy \u0111\u1ed9ng qu\u00e2n v\u00e0 \u201ccu\u1ed9c ",
+    "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - VietstockFinance",
+    "Indian Oil Q2 2027 Earnings Call Is Live - TradingView",
+    "AI is coming to construction sites. But does it make workers safer?",
+    "Soaring cost of Halloween treats spooks shoppers"
   ]
 }
