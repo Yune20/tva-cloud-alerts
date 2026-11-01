@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793490615.428121,
+  "last_signals": 1793491223.500317,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -73,13 +73,13 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793166740.8996322,
     "JPY Index|4H:top": 1793166741.4016662,
-    "USOIL|4H:top": 1793490615.722896,
+    "USOIL|4H:top": 1793491224.035767,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793397311.8502061,
@@ -151,17 +151,11 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793490615.5754793
+    "Gold|1H:bot": 1793491223.7686946
   },
-  "last_analysis": 1793490607.4868608,
-  "last_news": 1793490615.427195,
+  "last_analysis": 1793491214.8493664,
+  "last_news": 1793491223.499405,
   "seen_news": [
-    "KB Financial Group Inc Stock 12\u2011Month Price Target Raised to $161.05, Implies 43",
-    "Social Security\u2019s fate \u2014 and your benefits \u2014 are in the hands of the candidates ",
-    "Meta outlook revised downward by S&P on cash flow and capex concerns",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
-    "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E",
     "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
     "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
     "investingLive Asia-Pacific market news: Binance hack shakes crypto",
@@ -455,6 +449,12 @@
     "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. W",
     "Nhi\u1ec1u c\u00f4ng ty d\u01b0\u1ee3c b\u1ecb ng\u00e2n h\u00e0ng si\u1ebft n\u1ee3",
     "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "OpenWorld Targets $3.5 Million in Registered Offering With Maxim Group - Trading"
+    "OpenWorld Targets $3.5 Million in Registered Offering With Maxim Group - Trading",
+    "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
+    "C\u1ea3 showbiz H\u00e0n \u0111au bu\u1ed3n",
+    "B\u00e1o c\u00e1o ph\u00e2n t\u00edch - VietstockFinance",
+    "Sanofi Q3 2026 Earnings Call Is Live - TradingView",
+    "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan ca",
+    "Why are more roofs not made of solar tiles?"
   ]
 }
