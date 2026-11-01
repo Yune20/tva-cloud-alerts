@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793542145.2036736,
+  "last_signals": 1793542751.7008274,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,10 +70,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793542139.2289412,
-  "last_news": 1793542145.2025607,
+  "last_analysis": 1793542744.696732,
+  "last_news": 1793542751.69987,
   "seen_news": [
-    "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
-    "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
-    "UBS sees Bank of England rate hikes supporting pound vs franc",
-    "France's economy contracts in Q3 as growth troubles pile up for the ECB",
-    "Ph\u00e1t hi\u1ec7n Trung Qu\u1ed1c c\u00f3 h\u1ea7m b\u00ed m\u1eadt s\u00e2u 2.400 m d\u01b0\u1edbi l\u00f2ng n\u00fai: Kh\u00f4ng gian ng\u1ea7m r\u1ed9",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
     "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
     "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
     "Tin vui cho t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n mua xe m\u00e1y \u0111i\u1ec7n VinFast m\u1edbi",
@@ -455,6 +449,12 @@
     "News by CNBC TV18 on TradingView, 2026-11-01 \u2014 cnbctv:d2dfa2add094b:0 - TradingV",
     "This is the biggest threat to the AI-powered bull market",
     "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-    "What we now know about the UK economy in four charts"
+    "What we now know about the UK economy in four charts",
+    "Crypto Biz: Bitcoin\u2019s quantum threat is becoming an economic problem - TradingVi",
+    "Automatic 401(k) rollovers reduce cash-outs, research finds \u2014 but few accounts r",
+    "How Poundland grew from a market stall to a high street giant",
+    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+    "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
+    "3 th\u00f3i quen g\u1ed9i \u0111\u1ea7u v\u00e0o bu\u1ed5i t\u1ed1i c\u1ea7n b\u1ecf ngay"
   ]
 }
