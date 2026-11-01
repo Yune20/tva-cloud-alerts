@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793561102.9007244,
+  "last_signals": 1793561713.8058088,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793561092.6519718,
-  "last_news": 1793561102.8944285,
+  "last_analysis": 1793561706.448134,
+  "last_news": 1793561713.8048072,
   "seen_news": [
-    "Roblox Q3 Earnings Call Highlights - TradingView",
-    "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-    "The tech helping crack decades-old cold cases",
-    "ExxonMobil Profits Double to $15.4 Billion",
-    "Trump calls $50 million contract for ex-lawyer Habba Mildon \u2019not acceptable\u2019",
-    "Fed\u2019s Daly: AI matters for near- and medium-term policy",
     "Oil Traders Brace for a Wild Week as Brent Approaches $120",
     "Explainer-How US news organizations will make midterm race calls",
     "Fed\u2019s Logan: At least two more quarter-point rate hikes needed",
@@ -455,6 +449,12 @@
     "Nike has a new plan for retro Michael Jordan shoes - TradingView",
     "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of de",
     "Shops looted as German cost-of-living protests turn violent",
-    "AI investors rush to hedge against potential tech market downturn - WSJ"
+    "AI investors rush to hedge against potential tech market downturn - WSJ",
+    "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+    "US tech stocks see sharp falls as AI spending nears $1tn",
+    "Hanwha signs $269 million shipbuilding contract for US Navy",
+    "Fed\u2019s Musalem: Moving sooner with rate hikes lessens risk of hit to broader econ",
+    "T\u1ea1i sao t\u00f4i kh\u00f4ng th\u1ec3 gi\u1ea3m c\u00e2n d\u00f9 \u0103n \u00edt v\u00e0 t\u1eadp th\u1ec3 d\u1ee5c nhi\u1ec1u? 5 suy ngh\u0129 sai l\u1ea7m",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance"
   ]
 }
