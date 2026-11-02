@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793649750.6677036,
+  "last_signals": 1793650413.7089932,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793647896.2518353,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -64,14 +64,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793649753.8092854,
+    "GBP/USD|1D:top": 1793650415.7271793,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793649755.5160005
+    "DXY|1D:bot": 1793650416.638507
   },
-  "last_analysis": 1793649740.8591645,
-  "last_news": 1793649750.666935,
+  "last_analysis": 1793650358.0186946,
+  "last_news": 1793650413.708159,
   "seen_news": [
-    "Goldman upgrades BAT on clearer path to sustained revenue growth",
-    "Zcash extends consolidation as macro headwinds continue to limit the upside. Wha",
-    "\u0110i nh\u1eadn \u0111\u1ea5t t\u00e1i \u0111\u1ecbnh c\u01b0 84 m2 c\u1ea1nh \u0111\u01b0\u1eddng 10 l\u00e0n xe, m\u1ed9t ng\u01b0\u1eddi b\u00e1n v\u00e9 s\u1ed1 \u0111\u01b0\u1ee3c B\u00ed ",
-    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
-    "HC Wainwright & Co. assumes coverage of Autolus Therapeutics at Buy, sets price ",
-    "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
     "Kh\u00e1m x\u00e9t kh\u1ea9n c\u1ea5p, thu gi\u1eef 2.157 t\u1ea5n ph\u00e2n b\u00f3n gi\u1ea3 trong chuy\u00ean \u00e1n l\u1edbn, b\u1eaft Nguy\u1ec5",
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Amneal (AMRX) Q3 earnings: what to expect - TradingView",
@@ -457,6 +451,12 @@
     "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
     "If gold breaks lower, investors may look at these safe haven currencies: analyst",
     "24/7 Markets: Are Brokers Ready?",
-    "\u00d4ng Nguy\u1ec5n \u0110\u1ee9c T\u00e0i tung \u201cchi\u00eau\u201d b\u00e1n h\u00e0ng m\u1edbi: Kh\u00f4ng c\u1ea7n v\u1ed1n, kh\u00f4ng c\u1ea7n nh\u1eadp h\u00e0ng"
+    "\u00d4ng Nguy\u1ec5n \u0110\u1ee9c T\u00e0i tung \u201cchi\u00eau\u201d b\u00e1n h\u00e0ng m\u1edbi: Kh\u00f4ng c\u1ea7n v\u1ed1n, kh\u00f4ng c\u1ea7n nh\u1eadp h\u00e0ng",
+    "M\u1ed9t c\u1ed5 \u0111\u00f4ng l\u1edbn li\u00ean quan \u0111\u1ebfn b\u00e0 Th\u1ee7y Ti\u00ean mu\u1ed1n b\u00e1n h\u01a1n 2,6 tri\u1ec7u c\u1ed5 phi\u1ebfu c\u00f4ng ",
+    "Intel foundry push faces critical test after stock's 45% plunge in October",
+    "The tech helping crack decades-old cold cases",
+    "US senator wants \u2019full accounting\u2019 of Air Force One White House flyover",
+    "NASDAQ indices have given up their gains. Trade in negative territory",
+    "M\u1ed9t doanh nghi\u1ec7p c\u00f3 doanh thu v\u01b0\u1ee3t Vingroup, b\u1ecf xa Vinhomes, g\u1ea5p h\u01a1n 2 l\u1ea7n H\u00f2a P"
   ]
 }
