@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793651338.8254128,
+  "last_signals": 1793651965.3191898,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793651340.529611,
+    "GBP/USD|1D:top": 1793651966.8764365,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793651342.0371978
+    "DXY|1D:bot": 1793651967.6253707
   },
-  "last_analysis": 1793651330.9905882,
-  "last_news": 1793651338.8246598,
+  "last_analysis": 1793651954.501938,
+  "last_news": 1793651965.3184438,
   "seen_news": [
-    "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-    "Shop freezers in six European countries hit by suspected cyber-attack",
-    "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
-    "Why is Marvell Technology stock rallying today?",
-    "Goldman lifts December Brent forecast to $105 on Middle East and Russia supply r",
-    "Ch\u00e0ng trai 17 tu\u1ed5i su\u00fdt m\u1ea5t m\u1ea1ng sau khi \u0103n 1 b\u00e1t c\u01a1m trong t\u1ee7 l\u1ea1nh",
     "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
     "Marriott lifts annual room revenue growth forecast on resilient travel demand",
     "Tucker Carlson claims Trump weighing nuclear strike on Iran\u2019s Pickaxe Mountain",
@@ -457,6 +451,12 @@
     "Gold Fields wins key Quebec environmental approval for Windfall gold project - T",
     "Canada-India $5.5 billion bank takeover attracts opposition from workers, politi",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Why is Choice Hotels stock rallying today?"
+    "Why is Choice Hotels stock rallying today?",
+    "S&P 500 rises; Apple and Palantir set to report results",
+    "Zcash extends consolidation as macro headwinds continue to limit the upside. Wha",
+    "\u00d4ng l\u1edbn t\u1eebng khi\u1ebfn t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long ph\u1ea3i vay h\u00e0ng tri\u1ec7u USD, chi 200.000 US",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Weekly Recap: Xerox cuts outlook, suspends dividends and Citi cuts target - Trad",
+    "Chip stocks are suffering from a \u2018crisis of confidence\u2019 \u2014 but things aren\u2019t as g"
   ]
 }
