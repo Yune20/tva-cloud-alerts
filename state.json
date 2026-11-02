@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793632461.4375653,
-  "last_bot4": 1793635923.272126,
+  "last_bot4": 1793636613.7352607,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793635094.9037843
+    "Gold": 1793636613.7351077
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793636250.7142794,
+  "last_signals": 1793636613.7361927,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -66,7 +66,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793636257.57204
+    "DXY|1D:bot": 1793636616.789172
   },
-  "last_analysis": 1793636239.9374704,
-  "last_news": 1793636250.7134316,
+  "last_analysis": 1793636600.2411516,
+  "last_news": 1793636610.7249553,
   "seen_news": [
-    "Felix Gold Requests Trading Halt - TradingView",
-    "Your stock portfolio increasingly hinges on the bond market \u2014 and the midterm el",
-    "These Senate races may help determine the fate of Social Security",
-    "Streeting denies 'kicking can down the road' in defence spending row",
-    "Senegal\u2019s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
-    "Why is Caixabank stock rallying today?",
     "\u200fSun Property \u0111\u01b0\u1ee3c vinh danh \u201cNh\u00e0 ph\u00e1t tri\u1ec3n B\u0110S ti\u00eau bi\u1ec3u Vi\u1ec7t Nam\u201d\u200f\u200f \u200f\u200fv\u1edbi lo\u1ea1",
     "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "First Watch earnings: what to look for from FWRG - TradingView",
@@ -457,6 +451,12 @@
     "JP Morgan maintains OneMain Holdings at Underweight, raises price target to $56 ",
     "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day bec",
     "Stock market after midterm elections: What S&P 500 history shows",
-    "Don't get caught out by new Buy Now Pay Later rules"
+    "Don't get caught out by new Buy Now Pay Later rules",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Vail Resorts (MTN) Faces Two Oasis Board Nominees - TradingView",
+    "When you turn this age, it\u2019s your best chance to get crucial tax and healthcare ",
+    "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumen",
+    "Christmas shoebox appeal launches to help children",
+    "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again"
   ]
 }
