@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793624049.067668,
+  "last_signals": 1793624655.9370525,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793612448.761439,
-    "DXY|1D:bot": 1793624051.9392397
+    "DXY|1D:bot": 1793624657.6841185
   },
-  "last_analysis": 1793624037.7860613,
-  "last_news": 1793624049.06679,
+  "last_analysis": 1793624645.4674168,
+  "last_news": 1793624655.9362195,
   "seen_news": [
-    "Bowhead Specialty earnings: what to look for from BOW - TradingView",
-    "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving",
-    "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-    "Diwali hampers to bring hope to families in need",
-    "Why is Contemporary Amperex Technology stock surging today?",
-    "investingLive Asia-Pacific market news: Oil eases on Doha talks",
     "Yen Weakens Despite Verbal Warning - TradingView",
     "Why AI is boosting Meta's ad business while hurting Google search",
     "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North",
@@ -457,6 +451,12 @@
     "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
     "Why is Marvell Technology stock rallying today?",
     "Goldman lifts December Brent forecast to $105 on Middle East and Russia supply r",
-    "Ch\u00e0ng trai 17 tu\u1ed5i su\u00fdt m\u1ea5t m\u1ea1ng sau khi \u0103n 1 b\u00e1t c\u01a1m trong t\u1ee7 l\u1ea1nh"
+    "Ch\u00e0ng trai 17 tu\u1ed5i su\u00fdt m\u1ea5t m\u1ea1ng sau khi \u0103n 1 b\u00e1t c\u01a1m trong t\u1ee7 l\u1ea1nh",
+    "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+    "Marriott lifts annual room revenue growth forecast on resilient travel demand",
+    "Tucker Carlson claims Trump weighing nuclear strike on Iran\u2019s Pickaxe Mountain",
+    "ALUSIL PLUS N5: L\u1ee3i th\u1ebf v\u1eadn h\u00e0nh ph\u00eda sau m\u1ee9c gi\u00e1 h\u1ee3p l\u00fd",
+    "FPT: CTCP FPT - FPT Corp - VietstockFinance",
+    "Icarus Capital Corp. (ICRS) Names Jim Boyle Strategic Advisor, Grants 1.1M Optio"
   ]
 }
