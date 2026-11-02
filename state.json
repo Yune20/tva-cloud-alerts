@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793589847.0464325,
+  "last_signals": 1793590453.6061666,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793589476.4694557,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793589836.1022189,
-  "last_news": 1793589844.5496664,
+  "last_analysis": 1793590444.1297982,
+  "last_news": 1793590453.605077,
   "seen_news": [
-    "How has the Magnificent 7 done relatively to the broader stock indices today?",
-    "Nh\u1eefng ng\u00f4i sao m\u1ed9t th\u1eddi tr\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n: T\u1eeb v\u1ecb th\u1ebf c\u1ee9 \u201c\u00f4m\u201d l\u00e0 th\u1eafng, \u0111\u1ebfn ch",
-    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
-    "TFI International Q3 Earnings Call Highlights - TradingView",
-    "Treasury Department announces new Series I bond rate of 5.51% for the next six m",
-    "Crypto firm Binance covers 90% of losses after $6.3bn hack",
     "Ronaldo b\u1ecb \"t\u01b0\u1edbc\" 7 b\u00e0n th\u1eafng?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
     "Nike has a new plan for retro Michael Jordan shoes - TradingView",
@@ -455,6 +449,12 @@
     "Video m\u00e1y bay n\u1ed5 nh\u01b0 qu\u1ea3 c\u1ea7u l\u1eeda g\u1ea7n khu ngh\u1ec9 d\u01b0\u1ee1ng c\u1ee7a \u00f4ng Trump, 9 ng\u01b0\u1eddi ch\u1ebft",
     "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance",
     "What W&T Offshore (WTI) Said on Its Q3 Earnings Call - TradingView",
-    "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-"
+    "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-",
+    "The AI telling farmers when to harvest",
+    "Why is China Construction Bank stock climbing today?",
+    "JPMorgan joins hike call for RBA\u2019s November meeting, sees tightening bias persis",
+    "Shark B\u00ecnh khai nh\u1eadn \u0111\u01b0\u1ee3c nhi\u1ec1u khi\u1ebfu n\u1ea1i v\u00e0 c\u00f4ng v\u0103n c\u1ee7a c\u00f4ng an v\u1ec1 s\u00e0n giao d\u1ecb",
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "BYD's October vehicle sales rise as overseas demand offsets China weakness - Tra"
   ]
 }
