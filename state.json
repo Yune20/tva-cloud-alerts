@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793599438.1564443,
-  "last_bot4": 1793605077.111684,
+  "last_bot4": 1793605711.3839037,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793605077.1124122,
+  "last_signals": 1793605711.3846598,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793596698.9645138,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -68,13 +68,13 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793605379.267157,
-  "last_news": 1793605074.2598326,
+  "last_analysis": 1793605701.8239534,
+  "last_news": 1793605711.382856,
   "seen_news": [
-    "Sterling today: Pound firms as dollar slips on midterm, AI jitters",
-    "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another cryp",
-    "M\u1eb9 1 con quy\u1ebft \u0111\u1ecbnh b\u1ecf b\u1edbt qu\u1ea7n \u00e1o, kh\u00f4ng ng\u1edd cu\u1ed9c s\u1ed1ng thay \u0111\u1ed5i: T\u1ee7 c\u00e0ng tr\u1ed1ng,",
-    "KDH: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Kinh doanh Nh\u00e0 Khang \u0110i\u1ec1n - KHADIHOUSE JSC - VietstockFinanc",
-    "What YPF Sociedad An\u00f3nima (YPF) Said on Its Q3 Earnings Call - TradingView",
-    "Apple\u2019s new earnings era begins at a critical time for Big Tech",
     "Don't get caught out by new Buy Now Pay Later rules",
     "China\u2019s big banks post fastest quarterly profit growth in years as margins stabi",
     "investingLive Americas FX news wrap 30 Oct: It\u2019s a wrap: Nasdaq tumbles as AI co",
@@ -455,6 +449,12 @@
     "Huy \u0111\u1ed9ng 40 k\u1ef9 s\u01b0, 160 sinh vi\u00ean c\u00f9ng h\u1ec7 th\u1ed1ng th\u1ee7y l\u1ef1c, 'th\u1ea7n \u0111\u00e8n' Vi\u1ec7t Nam di ",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Spin Master Q3 Earnings Call Highlights - TradingView",
-    "Marine sniper turned macro strategist says this bull market has six to 12 months"
+    "Marine sniper turned macro strategist says this bull market has six to 12 months",
+    "Key facts: BTCUSD drops to mid-$70k; Binance $6.3B hack, ETFs $104B - TradingVie",
+    "Automatic 401(k) rollovers reduce cash-outs, research finds \u2014 but few accounts r",
+    "Faisal Islam: This Budget was micro and that was deliberate",
+    "Barclays downgrades Dr. Martens to underweight, cuts price target",
+    "Australia\u2019s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2",
+    "Nh\u00e0 n\u00e0o \u0111ang l\u1eafp camera tr\u01b0\u1edbc c\u1eeda n\u00ean bi\u1ebft 3 \u0111i\u1ec1u quan tr\u1ecdng"
   ]
 }
