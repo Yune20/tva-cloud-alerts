@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793604100.9777079,
+  "last_signals": 1793604703.4273727,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793596698.9645138,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -89,7 +89,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -154,14 +154,8 @@
     "Gold|1H:bot": 1793505207.9811332
   },
   "last_analysis": 1793604410.4404616,
-  "last_news": 1793604097.6864178,
+  "last_news": 1793604703.4240847,
   "seen_news": [
-    "Australia\u2019s AI investment ambitions hit by another data centre setback",
-    "Kh\u00f4ng v\u00f4 \u0111\u1ecbch, Nguy\u1ec5n Huy Quang Minh - \u00c1 qu\u00e2n Olympia 2026 v\u1eabn ghi \u0111i\u1ec3m tuy\u1ec7t \u0111\u1ed1",
-    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w",
-    "Your pay, energy bills and savings: How the Budget affects you",
-    "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-    "Australia\u2019s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2",
     "Chi\u1ebfc iPhone 13 tri\u1ec7u c\u1ee7a Mbapp\u00e9",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Key facts: BTCUSD drops to mid-$70k; Binance $6.3B hack, ETFs $104B - TradingVie",
@@ -455,6 +449,12 @@
     "FX option expiries for 2 November 10am New York cut",
     "Kh\u00f4ng ph\u1ea3i Dubai hay Maldives, m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m \u1edf Vi\u1ec7t Nam s\u1eafp \u0111\u00f3n li\u00ean ti\u1ebfp 3 si\u00eau ",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: Q3 profit surge and ~\u00a3210bn RWA target including Basel 3.1 - Tradi"
+    "Weekly Recap: Q3 profit surge and ~\u00a3210bn RWA target including Basel 3.1 - Tradi",
+    "How Poundland grew from a market stall to a high street giant",
+    "UBS sees Bank of England rate hikes supporting pound vs franc",
+    "Week ahead: Elections, rate decisions and jobs take center stage",
+    "Ph\u00e1t hi\u1ec7n v\u1ebft n\u1ee9t tuabin Boeing 787 do M\u1ef9 s\u1ea3n xu\u1ea5t ch\u1ec9 sau 1.000 chuy\u1ebfn bay, chu",
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "Weekly Recap: Capital Group 3.95% holding and T. Rowe Price undisclosed - Tradin"
   ]
 }
