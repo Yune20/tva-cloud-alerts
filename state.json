@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793622124.9537027,
+  "last_signals": 1793622752.3229923,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793612448.761439,
-    "DXY|1D:bot": 1793622126.4528067
+    "DXY|1D:bot": 1793622754.7339146
   },
-  "last_analysis": 1793622117.422838,
-  "last_news": 1793622124.9527788,
+  "last_analysis": 1793622742.727115,
+  "last_news": 1793622752.3221793,
   "seen_news": [
-    "City of London chief tops UK Black Powerlist",
-    "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
-    "Why is Agricultural Bank of China stock climbing today?",
-    "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-    "T\u00ecnh h\u00ecnh hi\u1ec7n t\u1ea1i c\u1ee7a V\u00f5 \u0110i\u1ec1n Gia Huy",
-    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
     "Anthropic's path to the Nasdaq just got a lot bumpier",
     "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
     "Chevron Profits Nearly Triple to $9.9 Billion",
@@ -457,6 +451,12 @@
     "\u0110i nh\u1eadn \u0111\u1ea5t t\u00e1i \u0111\u1ecbnh c\u01b0 84 m2 c\u1ea1nh \u0111\u01b0\u1eddng 10 l\u00e0n xe, m\u1ed9t ng\u01b0\u1eddi b\u00e1n v\u00e9 s\u1ed1 \u0111\u01b0\u1ee3c B\u00ed ",
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
     "HC Wainwright & Co. assumes coverage of Autolus Therapeutics at Buy, sets price ",
-    "Tech stocks enter November after a brutal October: Is it time to buy the dip?"
+    "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
+    "Kh\u00e1m x\u00e9t kh\u1ea9n c\u1ea5p, thu gi\u1eef 2.157 t\u1ea5n ph\u00e2n b\u00f3n gi\u1ea3 trong chuy\u00ean \u00e1n l\u1edbn, b\u1eaft Nguy\u1ec5",
+    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Amneal (AMRX) Q3 earnings: what to expect - TradingView",
+    "Marvell and Lumentum officially plan to combine. Here\u2019s what to know.",
+    "Canada-India $5.5 billion bank takeover attracts opposition from workers, politi",
+    "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-at"
   ]
 }
