@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793582664.9170458,
+  "last_signals": 1793583281.9493263,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793582664.9170458,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -79,7 +79,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793582656.463956,
-  "last_news": 1793582664.9162364,
+  "last_analysis": 1793583274.0426207,
+  "last_news": 1793583281.9484136,
   "seen_news": [
-    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-    "What protects Japan\u2019s economy? And what does it mean for the yen?",
-    "Ph\u00e1t hi\u1ec7n Vi\u1ec7t Nam c\u00f3 h\u1ea7m \u0111\u1eb7c bi\u1ec7t d\u00e0i 14.200m n\u1eb1m s\u00e2u trong l\u00f2ng n\u00fai, s\u1edf h\u1eefu c\u00f4",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "Not Quite an Octoberfest, but D-St Makes a Recovery - TradingView",
     "Canada GDP for August 0.0% vs 0.2% estimate",
     "Vi\u1ec7t Nam c\u00f3 m\u1ed9t \"ti\u1ec3u sa m\u1ea1c\" r\u1ed9ng h\u00e0ng tr\u0103m ha, c\u1ea3nh thay \u0111\u1ed5i li\u00ean t\u1ee5c trong ng",
     "NKG: CTCP Th\u00e9p Nam Kim - NAKISCO - VietstockFinance",
@@ -455,6 +449,12 @@
     "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
     "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
     "Japan\u2019s Katayama says US-Japan FX statement \u2018alive\u2019, warns on disorderly yen mov",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111ang d\u00f9ng VNeID ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a c\u00f4ng an"
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111ang d\u00f9ng VNeID ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a c\u00f4ng an",
+    "Thousands of jobs at Virgin Media O2 to be cut",
+    "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears",
+    "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
+    "C\u00e1c h\u00e3ng AI th\u1ed1ng nh\u1ea5t ti\u00eau chu\u1ea9n ch\u1eb7n thu th\u1eadp d\u1eef li\u1ec7u hu\u1ea5n luy\u1ec7n",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
+    "IFA Hotels And Resorts Q3 Net Profit 196,590 Dinars - TradingView"
   ]
 }
