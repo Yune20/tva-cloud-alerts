@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793583281.9493263,
+  "last_signals": 1793583901.0142927,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793582664.9170458,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -79,7 +79,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793583274.0426207,
-  "last_news": 1793583281.9484136,
+  "last_analysis": 1793583893.02905,
+  "last_news": 1793583901.0133038,
   "seen_news": [
-    "Canada GDP for August 0.0% vs 0.2% estimate",
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t \"ti\u1ec3u sa m\u1ea1c\" r\u1ed9ng h\u00e0ng tr\u0103m ha, c\u1ea3nh thay \u0111\u1ed5i li\u00ean t\u1ee5c trong ng",
-    "NKG: CTCP Th\u00e9p Nam Kim - NAKISCO - VietstockFinance",
-    "Canopy Growth Q1 Earnings Call Highlights - TradingView",
-    "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user",
-    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
     "What is spooking markets as stocks, Treasury yields and gold all fall ahead of E",
     "L\u1ea7n \u0111\u1ea7u ti\u00ean t\u1ea1i Vi\u1ec7t Nam c\u00f3 DN c\u00f4ng b\u1ed1 l\u00e3i h\u01a1n 100.000 t\u1ef7 \u0111\u1ed3ng trong 4 qu\u00fd: Vin",
     "SAB: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - SABECO - Vietsto",
@@ -455,6 +449,12 @@
     "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
     "C\u00e1c h\u00e3ng AI th\u1ed1ng nh\u1ea5t ti\u00eau chu\u1ea9n ch\u1eb7n thu th\u1eadp d\u1eef li\u1ec7u hu\u1ea5n luy\u1ec7n",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
-    "IFA Hotels And Resorts Q3 Net Profit 196,590 Dinars - TradingView"
+    "IFA Hotels And Resorts Q3 Net Profit 196,590 Dinars - TradingView",
+    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan",
+    "X\u00e9t x\u1eed n\u1eef \u0111\u1ea1i gia Chu Th\u1ecb Th\u00e0nh: T\u00f2a tri\u1ec7u t\u1eadp \u0111\u1ea1i di\u1ec7n 2 b\u1ed9 v\u00e0 6 c\u01a1 quan thu\u1ebf",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
+    "Not Quite an Octoberfest, but D-St Makes a Recovery - TradingView",
+    "Meta outlook revised downward by S&P on cash flow and capex concerns",
+    "No more washing up: How Airbnb's new house rules have divided hosts and guests"
   ]
 }
