@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793613380.2069228,
+  "last_signals": 1793613987.6228461,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -135,7 +135,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793613382.5903618,
+    "GBP/USD|4H:top": 1793613988.6989417,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793612448.761439,
-    "DXY|1D:bot": 1793613383.7552438
+    "DXY|1D:bot": 1793613989.2382395
   },
   "last_analysis": 1793613685.0584183,
-  "last_news": 1793613380.206111,
+  "last_news": 1793613987.6220238,
   "seen_news": [
-    "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash",
-    "Gamble on democracy: Inside suspicious election-contracts trading on prediction ",
-    "Why are more roofs not made of solar tiles?",
-    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
-    "Binance sees outflows stabilising as exchange returns online after $6.3 billion\u00a0",
-    "China\u2019s central bank goes daily on 1.25% overnight repo, moving to Fed-style anc",
     "3 n\u1eef ca s\u0129 gi\u00e0u c\u00f3 SN 1977, 1978 g\u1eb7p nhau \u1edf TP.HCM",
     "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
     "GDI Property Group Announces Director Resignation - TradingView",
@@ -457,6 +451,12 @@
     "Anthropic is AI trade's last big hope for a major IPO this year",
     "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
     "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan"
+    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan",
+    "French yields steady as Fitch spares credit downgrade; Bunds edge up",
+    "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
+    "Mi\u1ec1n B\u1eafc s\u1eafp \u0111\u00f3n \u0111\u1ee3t kh\u00f4ng kh\u00ed l\u1ea1nh m\u1ea1nh, c\u00f3 n\u01a1i d\u01b0\u1edbi 18 \u0111\u1ed9 C",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
+    "Vulcan Energy Resources Limited (VUL) Reports Morgan Stanley Holdings Notificati",
+    "5 celebrities who waited years to buy their dream homes"
   ]
 }
