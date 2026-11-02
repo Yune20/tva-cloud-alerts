@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793606380.7903454,
+  "last_signals": 1793606993.6063907,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793596698.9645138,
+    "5575146754|Gold|1H|range_in": 1793606993.6063907,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793606371.8293777,
-  "last_news": 1793606378.2456837,
+  "last_analysis": 1793606984.1113398,
+  "last_news": 1793606993.6056097,
   "seen_news": [
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Trinity Industries Q3 Earnings Call Highlights - TradingView",
-    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
-    "These Senate races may help determine the fate of Social Security",
-    "Streeting denies 'kicking can down the road' in defence spending row",
-    "China\u2019s robot makers have mastered the moves. Now comes the race for brains",
     "Social Security may have to cut retirement benefits in six years. Here's how muc",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Oil Prices No Longer Follow Headlines",
@@ -455,6 +449,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Weekly Recap: DSV A/S DKK1.5bn buyback and BlackRock 5.05% stake - TradingView",
     "Apple\u2019s new earnings era begins at a critical time for Big Tech",
-    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w"
+    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w",
+    "Ryanair may freeze workers' pay as fuel prices spike",
+    "U.S. Pushes to Restore Russian Gas Flows to Europe",
+    "Sterling today: Pound firms as dollar slips on midterm, AI jitters",
+    "Market playbook: Can the RBA surprise markets again and give AUD/USD another rea",
+    "Gi\u00e1 v\u00e0ng ch\u1ea1m \u0111\u00e1y 1 n\u0103m, ch\u1ee9ng kho\u00e1n M\u1ef9 b\u1ecb b\u00e1n th\u00e1o, chuy\u00ean gia nh\u1ea5n m\u1ea1nh: \"\u0110\u1eebng",
+    "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance"
   ]
 }
