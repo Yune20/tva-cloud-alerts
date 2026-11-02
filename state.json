@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793633439.4195979,
+  "last_signals": 1793634058.0319078,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -76,22 +76,22 @@
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793633441.2306666
+    "DXY|1D:bot": 1793634059.586088
   },
-  "last_analysis": 1793633431.4908466,
-  "last_news": 1793633439.4186704,
+  "last_analysis": 1793634050.2942026,
+  "last_news": 1793634058.0309849,
   "seen_news": [
-    "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
-    "What are the main events for today?",
-    "Ph\u00e1t hi\u1ec7n lo\u1ea1t giao d\u1ecbch chuy\u1ec3n kho\u1ea3n li\u00ean t\u1ee5c l\u00ean t\u1edbi 1,98 t\u1ef7 \u0111\u1ed3ng, c\u00f3 c\u1ea3 giao ",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Weekly Recap: High FCNR(B) deposits and Q2 GNPA improvement, brokers' targets - ",
-    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
     "CII: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - CII - VietstockFinance",
     "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - ",
     "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2",
@@ -457,6 +451,12 @@
     "Qualisys Releases Prisma Pose - Markerless Motion Capture for Biomechanics Labs ",
     "Marvell\u2019s deal for Lumentum is giving flashbacks to the dot-com bubble",
     "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-    "Yorkshire Water boss resigns after firm downgraded"
+    "Yorkshire Water boss resigns after firm downgraded",
+    "Information Services Group Q3 2026 Earnings Call Is Live - TradingView",
+    "Want guaranteed income in retirement without an annuity? Try laddering I-bonds.",
+    "Wall Street's Fear Index is doing something strange. Here's what it means for st",
+    "Faisal Islam: This Budget was micro and that was deliberate",
+    "Ukraine Has Hit Three Russian Refineries Since Friday",
+    "Why is Seagate Technology stock sliding today?"
   ]
 }
