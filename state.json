@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793588878.4250517,
+  "last_signals": 1793589476.4694557,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793582664.9170458,
+    "5575146754|Gold|1H|range_in": 1793589476.4694557,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -154,14 +154,8 @@
     "Gold|1H:bot": 1793505207.9811332
   },
   "last_analysis": 1793589182.885037,
-  "last_news": 1793588878.42411,
+  "last_news": 1793589476.4686987,
   "seen_news": [
-    "Street Calls of the Week",
-    "Gold tumbles despite lower yields. Technicals show the way.",
-    "M\u1ed9t \"\u0111\u1ea1i gia\" chu\u1ea9n b\u1ecb l\u0103n ch\u1ed1t c\u1ed5 t\u1ee9c h\u01a1n 50% b\u1eb1ng ti\u1ec1n m\u1eb7t, d\u1ef1 chi g\u1ea7n 7.000 t",
-    "MWG: CTCP \u0110\u1ea7u t\u01b0 Th\u1ebf gi\u1edbi Di \u0111\u1ed9ng - MWG - VietstockFinance",
-    "Tether-Backed FASE Foundation Targets Scams and Stablecoin Aid - TradingView",
-    "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-",
     "Ch\u1ec9 c\u00f2n 1 ng\u00e0y, t\u1ea5t c\u1ea3 nh\u1eefng ai c\u00f3 Gi\u1ea5y ch\u1ee9ng nh\u1eadn quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t c\u1ea7n kh\u1ea9n tr",
     "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
     "SoftBank-backed OPay shelves IPO plans after regulatory probe - TradingView",
@@ -455,6 +449,12 @@
     "The grads ditching the UK for a fresh start abroad",
     "Why Deutsche Bank says the AI dollar is here",
     "Election scenarios: Morgan Stanley\u2019s Wilson says buy midterm dip, sees S&P 500 a",
-    "Ch\u1ecdn nh\u00e0 th\u1ea7u ch\u00e2u \u00c2u, \u0111\u1eadp cao g\u1ea7n g\u1ea5p \u0111\u00f4i \u0111\u1eadp Tam Hi\u1ec7p ph\u1ea3i d\u1eebng x\u00e2y d\u1ef1ng kh\u1ea9n "
+    "Ch\u1ecdn nh\u00e0 th\u1ea7u ch\u00e2u \u00c2u, \u0111\u1eadp cao g\u1ea7n g\u1ea5p \u0111\u00f4i \u0111\u1eadp Tam Hi\u1ec7p ph\u1ea3i d\u1eebng x\u00e2y d\u1ef1ng kh\u1ea9n ",
+    "Rainmakers: The drones used to seed clouds",
+    "Shares steady as Apple earnings near, oil eases",
+    "Bitcoin forecast today: The rebound looks better, but $79,000 is the real test",
+    "Th\u1ef1c h\u01b0 chuy\u1ec7n u\u1ed1ng n\u01b0\u1edbc sau khi th\u1ee9c d\u1eady gi\u00fap \u201cr\u1eeda tr\u00f4i c\u1ee5c m\u00e1u \u0111\u00f4ng\u201d",
+    "DIG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n X\u00e2y d\u1ef1ng - T\u1eacP \u0110O\u00c0N DIC (DIC GROUP) ",
+    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:1f4beec63094b:0 - TradingV"
   ]
 }
