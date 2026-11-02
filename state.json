@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793588499.3748407,
-  "last_bot4": 1793594117.1564975,
+  "last_bot4": 1793594804.014202,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793594454.3091466,
+  "last_signals": 1793594804.0150814,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793592887.852665,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793594434.3210719,
-  "last_news": 1793594454.3084655,
+  "last_analysis": 1793594794.1378276,
+  "last_news": 1793594804.0130403,
   "seen_news": [
-    "People (PPLI) reports earnings tomorrow: what to expect - TradingView",
-    "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-    "Chevron Profits Nearly Triple to $9.9 Billion",
-    "After a +193% return: A new list of AI-picks for November is NOW LIVE",
-    "Carney: Canada, EU working toward deepest possible partnership, short of accessi",
     "'Painful' years ahead, think tanks warn, as living standards set to fall",
     "Water Tank Rupture Triggers Safety Concerns at Tajikistan\u2019s Rogun Dam",
     "Pakistan-bound LNG tanker attacked near Hormuz despite Iran clearance - Bloomber",
@@ -455,6 +449,12 @@
     "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Earnings to watch: Kadant (KAI) reports Q3 results tomorrow - TradingView",
     "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-    "Shops looted as German cost-of-living protests turn violent"
+    "Shops looted as German cost-of-living protests turn violent",
+    "City of London chief tops UK Black Powerlist",
+    "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+    "Why is Agricultural Bank of China stock climbing today?",
+    "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
+    "T\u00ecnh h\u00ecnh hi\u1ec7n t\u1ea1i c\u1ee7a V\u00f5 \u0110i\u1ec1n Gia Huy",
+    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance"
   ]
 }
