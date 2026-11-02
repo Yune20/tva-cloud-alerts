@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793621500.7303157,
-  "last_bot4": 1793627714.5199764,
+  "last_bot4": 1793628359.7737887,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793628039.8400233,
+  "last_signals": 1793628359.7744448,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -70,11 +70,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -82,16 +82,16 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793628042.0477178
+    "DXY|1D:bot": 1793628361.6195617
   },
-  "last_analysis": 1793628028.7338738,
-  "last_news": 1793628039.839041,
+  "last_analysis": 1793628350.957946,
+  "last_news": 1793628359.7728314,
   "seen_news": [
-    "\u2018Pop-up\u2019 super PACs pour $637 million into 2026 midterm races",
-    "Yorkshire Water boss resigns after firm downgraded",
-    "Oil Prices Slide 3% as Hopes for Iran Peace Deal Grow",
-    "Why is Bank of Baroda stock rallying today?",
-    "Trump says US and Canada have \u2018concept\u2019 of a deal, two days before midterms",
-    "Mr Pips: Ti\u1ebfn s\u0129, th\u1ea1c s\u0129 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n c\u0169ng thua",
     "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
     "From Levi's to Primark - the fashion chains selling mended clothes",
     "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
@@ -457,6 +451,12 @@
     "How video game remakes tap the power of nostalgia",
     "Stellantis chip shortage disrupts Fiat output in Italy, may last through Decembe",
     "BOJ continues to reaffirm that inflation is here to stay, so what's stopping ano",
-    "Th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t t\u1eeb c\u00f4ng an: Hai ph\u1ea1m nh\u00e2n \u0111ang tr\u1ed1n Tr\u1ea1i giam A2 mang theo da"
+    "Th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t t\u1eeb c\u00f4ng an: Hai ph\u1ea1m nh\u00e2n \u0111ang tr\u1ed1n Tr\u1ea1i giam A2 mang theo da",
+    "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "Rainmakers: The drones used to seed clouds",
+    "German metal workers step up strikes in pay dispute",
+    "US election: The key races that could tip control of Congress",
+    "L\u00e3i su\u1ea5t ti\u1ebft ki\u1ec7m ng\u00e0y 2/11 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, MB, VP",
+    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance"
   ]
 }
