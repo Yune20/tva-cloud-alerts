@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793578983.4717197,
+  "last_signals": 1793579594.0957673,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -136,7 +136,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793339558.4038467,
-    "Gold|4H:bot": 1793578983.6688166,
+    "Gold|4H:bot": 1793579594.4276268,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793578974.115711,
-  "last_news": 1793578983.470978,
+  "last_analysis": 1793579585.7952511,
+  "last_news": 1793579594.0950377,
   "seen_news": [
-    "Binance sees spike in customers pulling funds out after covering bulk of stolen ",
-    "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. W",
-    "Thu\u1ed9c Qu\u1ed1c ca 135 n\u01b0\u1edbc, Qu\u00e1n qu\u00e2n Olympia Anh \u0110\u1ee9c ng\u1eabu h\u1ee9ng h\u00e1t Qu\u1ed1c ca H\u00e0n Qu\u1ed1c",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-01 \u2014 cnbctv:2ba7131e8094b:0 - TradingV",
-    "Humans are still doing the work behind some AI agents",
     "\u201cB\u1ed9i th\u1ef1c\u201d Steven Nguy\u1ec5n",
     "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Bulgaria votes in presidential runoff after tight first round - TradingView",
@@ -455,6 +449,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "Locate Technologies Sells Entire Holding Of 12.3 Bitcoin - TradingView",
     "Binance sees $3.64 billion in net outflows as withdrawals resume after massive h",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters"
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Felix Gold Requests Trading Halt - TradingView",
+    "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
+    "Google value plunges by $500bn as its own AI search hits ad sales",
+    "Azerbaijan\u2019s Renewable Energy Boom Is Transforming Its Power Sector",
+    "UBS sees scope for further sterling gains as short positioning creates upside"
   ]
 }
