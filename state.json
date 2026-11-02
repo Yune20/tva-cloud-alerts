@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793643441.6986198,
-  "last_bot4": 1793645372.0509968,
+  "last_bot4": 1793646046.2530198,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793644739.8302016
+    "Gold": 1793646046.25291
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793645372.0516386,
+  "last_signals": 1793646046.2537253,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793645373.3335688,
+    "GBP/USD|1D:top": 1793646047.2523966,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793645374.3947756
+    "DXY|1D:bot": 1793646047.8137934
   },
-  "last_analysis": 1793645671.5325706,
-  "last_news": 1793645372.0500453,
+  "last_analysis": 1793646032.0171592,
+  "last_news": 1793646043.77312,
   "seen_news": [
-    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance",
-    "Ernst Russ AG sells MV \u201cMirror\u201d - TradingView",
-    "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-    "The grads ditching the UK for a fresh start abroad",
-    "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
-    "UBS sees Roche giredestrant potential priced in after 50% share rally",
     "How oil prices could average $130 per barrel next year, according to Goldman Sac",
     "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
@@ -457,6 +451,12 @@
     "Fed will vote on rates less often. What that could mean for borrowers",
     "'An annoying buzz': The search for stealthier drones",
     "Dollar steadies as U.S. midterms loom; euro digests Fitch outlook downgrade",
-    "Eurozone manufacturing PMI holds up in October but rising price pressures give t"
+    "Eurozone manufacturing PMI holds up in October but rising price pressures give t",
+    "China private factory PMI at 52.0 beats forecasts, output growth fastest since A",
+    "Nhi\u1ec1u c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng r\u1ebb ngang b\u00f3 rau d\u00f9 l\u00e3i ngh\u00ecn t\u1ef7 m\u1ed7i qu\u00fd",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "BlackRock American Income Trust plc Sells 225,000 Treasury Shares - TradingView",
+    "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+    "The Indian workers filming their work to train AI"
   ]
 }
