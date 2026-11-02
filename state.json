@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793608304.9000423,
+  "last_signals": 1793608903.9287057,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793606993.6063907,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -154,14 +154,8 @@
     "Gold|1H:bot": 1793505207.9811332
   },
   "last_analysis": 1793608604.3214378,
-  "last_news": 1793608302.258659,
+  "last_news": 1793608903.9279501,
   "seen_news": [
-    "BTCPay Server tells operators to shut down after reports of hot wallets being dr",
-    "Lo\u1ea1i rau quen thu\u1ed9c trong m\u00e2m c\u01a1m Vi\u1ec7t c\u00f3 l\u1ee3i cho tim m\u1ea1ch",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "Locate Technologies Sells Entire Holding Of 12.3 Bitcoin - TradingView",
-    "Binance sees $3.64 billion in net outflows as withdrawals resume after massive h",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Felix Gold Requests Trading Halt - TradingView",
     "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
@@ -455,6 +449,12 @@
     "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2",
     "New Buy Now Pay Later rules - don't get caught out",
     "Oil Prices No Longer Follow Headlines",
-    "FTSE 100 today: Stocks fall as crude slide drags oil majors lower"
+    "FTSE 100 today: Stocks fall as crude slide drags oil majors lower",
+    "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+    "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
+    "Chevron Raises Exploration Spending By 50%",
+    "Why is Alstom stock down 27% today?",
+    "Germany retail sales slump in September as consumer weakness adds to ECB's heada",
+    "B\u1ea3o hi\u1ec3m B\u1ea3o Minh ch\u1ed1t ng\u00e0y ph\u00e1t h\u00e0nh h\u01a1n 15 tri\u1ec7u c\u1ed5 phi\u1ebfu tr\u1ea3 c\u1ed5 t\u1ee9c"
   ]
 }
