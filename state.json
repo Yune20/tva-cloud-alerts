@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793643771.534809,
+  "last_signals": 1793644370.6249442,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793643772.6179502,
+    "GBP/USD|1D:top": 1793644372.1743493,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793643773.085679
+    "DXY|1D:bot": 1793644372.8842814
   },
   "last_analysis": 1793644075.64669,
-  "last_news": 1793643771.5339515,
+  "last_news": 1793644370.6242678,
   "seen_news": [
-    "The latest market wobble sees Citi giving up on this big tech trade",
-    "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign\u2019",
-    "'An annoying buzz': The search for stealthier drones",
-    "Why is Check Point Software stock tumbling today?",
-    "Eurozone manufacturing PMI holds up in October but rising price pressures give t",
-    "V\u1ee5 du kh\u00e1ch Nga 28 tu\u1ed5i b\u1ecb b\u1eaft c\u00f3c, s\u00e1t h\u1ea1i g\u00e2y r\u00fang \u0111\u1ed9ng t\u1ea1i Bali: B\u1ea1n g\u00e1i ti\u1ebft",
     "The Indian workers filming their work to train AI",
     "Dollar steadies as U.S. midterms loom; euro digests Fitch outlook downgrade",
     "Election scenarios: Morgan Stanley\u2019s Wilson says buy midterm dip, sees S&P 500 a",
@@ -457,6 +451,12 @@
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Intel Gets Price Target Revamp but Keeps One Major Catalyst - TradingView",
     "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street ",
-    "Options traders are getting anxious on Palantir and Apple ahead of earnings"
+    "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
+    "What to expect from Bristow Group\u2019s (VTOL) Q3 earnings - TradingView",
+    "The bond-market rally is defying the typical investing playbook. Here\u2019s why.",
+    "Apple reports after the bell. Options traders expect a big move",
+    "What we know about Binance's $6.3bn hack",
+    "Still-negative Japanese real rates should continue to support USD/JPY: UBS"
   ]
 }
