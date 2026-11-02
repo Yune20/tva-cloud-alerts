@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793657538.3211668,
+  "last_signals": 1793658154.0826018,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793657539.4921043,
+    "GBP/USD|1D:top": 1793658155.9935143,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793657539.9800806
+    "DXY|1D:bot": 1793658156.7655184
   },
-  "last_analysis": 1793657530.22484,
-  "last_news": 1793657538.3203943,
+  "last_analysis": 1793658146.2581623,
+  "last_news": 1793658154.0817487,
   "seen_news": [
-    "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
-    "Poundland's former owner offers to invest as minister prepares to meet board",
-    "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
-    "Nasdaq 100 futures surge as Wall Street looks to rebound from rout in AI trade",
-    "Iran\u2019s Pezeshkian says Supreme Leader has granted government some authority on d",
-    "TP.HCM v\u1eadn \u0111\u1ed9ng doanh nghi\u1ec7p c\u00f4ng khai th\u01b0\u1edfng T\u1ebft \u0110inh M\u00f9i 2027 trong th\u00e1ng 11",
     "NYT: T\u1ed5ng th\u1ed1ng Putin \u0111\u1eadp tan n\u1ed7 l\u1ef1c c\u00f4 l\u1eadp c\u1ee7a ph\u01b0\u01a1ng T\u00e2y",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
     "ETF Strategies to Fight Rising Rates - TradingView",
@@ -457,6 +451,12 @@
     "Up to six blasts reported near Iran\u2019s Qeshm Island as Israeli TV cites US strike",
     "L\u01b0u Di\u1ec7c Phi li\u00ean t\u1ee5c l\u00e9p v\u1ebf tr\u01b0\u1edbc \u0111\u00e0n em",
     "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
-    "Fabrinet Revenue Rises 51% to $1.47 Billion; Non-GAAP EPS Reaches $4.34 - Tradin"
+    "Fabrinet Revenue Rises 51% to $1.47 Billion; Non-GAAP EPS Reaches $4.34 - Tradin",
+    "Apple beats Q4 forecasts on iPhone and Mac as revenue tops $114 billion",
+    "Tin vui th\u00e1ng 10 \u00e2m: 3 con gi\u00e1p c\u00f3 c\u01a1 h\u1ed9i c\u1ea3i thi\u1ec7n t\u00e0i ch\u00ednh, trong \u0111\u00f3 1 con gi",
+    "PHR: CTCP Cao su Ph\u01b0\u1edbc H\u00f2a - PHURUCO - VietstockFinance",
+    "Grades fall as Trump says not considering Iran strikes after midterms - TradingV",
+    "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 jus",
+    "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout"
   ]
 }
