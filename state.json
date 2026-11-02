@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793656276.689918,
+  "last_signals": 1793656899.9052815,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793656277.7321584,
+    "GBP/USD|1D:top": 1793656900.938705,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793656278.3335838
+    "DXY|1D:bot": 1793656901.3835485
   },
-  "last_analysis": 1793656266.9888637,
-  "last_news": 1793656276.6891346,
+  "last_analysis": 1793656890.9353144,
+  "last_news": 1793656899.9044764,
   "seen_news": [
-    "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-    "Rainmakers: The drones used to seed clouds",
-    "German metal workers step up strikes in pay dispute",
-    "US election: The key races that could tip control of Congress",
-    "L\u00e3i su\u1ea5t ti\u1ebft ki\u1ec7m ng\u00e0y 2/11 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, MB, VP",
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
     "Weekly Recap: 2026 organic revenue guidance cut and \u00a3500m buyback - TradingView",
     "Oracle\u2019s stock falls as the company details plan to raise $20 billion",
     "South Korea targets 'world's highest performance' sovereign AI model in record n",
@@ -457,6 +451,12 @@
     "Wall Street\u2019s most hated stocks are faring far better than its favorites",
     "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michig",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Apple results beat Wall Street expectations\u00a0on strong iPhone sales"
+    "Apple results beat Wall Street expectations\u00a0on strong iPhone sales",
+    "4 Energy Stocks for Midterm Elections That Could Go Either Way",
+    "S&P 500 ends down; Apple dips ahead of quarterly report",
+    "Danish Krone Exchange Rate: 2026 Expert Forecast and Peg Data",
+    "Si\u00eau bom H m\u1ea1nh nh\u1ea5t l\u1ecbch s\u1eed lo\u00e0i ng\u01b0\u1eddi c\u00f3 th\u1ec3 t\u1ea1o \"c\u00fa l\u1ed9i ng\u01b0\u1ee3c d\u00f2ng\" cho ng\u00e0nh",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV"
   ]
 }
