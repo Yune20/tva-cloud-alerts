@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793602272.8698301,
+  "last_signals": 1793602880.925726,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793596698.9645138,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -90,7 +90,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793602263.6809547,
-  "last_news": 1793602272.86889,
+  "last_analysis": 1793602870.5738964,
+  "last_news": 1793602880.925019,
   "seen_news": [
-    "OPEC+ holds December targets steady for third month as Hormuz disruption persist",
-    "Ch\u00e2n dung 2 t\u00e2n Th\u1ee9 tr\u01b0\u1edfng B\u1ed9 Y t\u1ebf, B\u1ed9 N\u00f4ng nghi\u1ec7p v\u00e0 M\u00f4i tr\u01b0\u1eddng",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "What Mastercard (MA) Said on Its Q3 Earnings Call - TradingView",
-    "Automatic 401(k) rollovers reduce cash-outs, research finds \u2014 but few accounts r",
-    "How Poundland grew from a market stall to a high street giant",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "Embecta Q3 Earnings Call Highlights - TradingView",
     "Trump promised to slash energy costs  \u2014 but gasoline, diesel and jet fuel all so",
@@ -455,6 +449,12 @@
     "T\u1eebng l\u00e0m cho B\u1ed9 ngo\u1ea1i giao Nh\u1eadt B\u1ea3n, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng n\u00e0y gi\u1edd \u0111ang ph\u00e1t tri\u1ec3n \u1ee9ng d",
     "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK - VietstockFinance",
     "Weekly Recap: Q3 recurring profit \u20ac405m and beats estimates, trims 2026 guidance",
-    "Companies promised AI gains \u2014 here's how the payoff showed up in earnings"
+    "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+    "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
+    "CEO c\u1ee7a s\u00e0n giao d\u1ecbch ti\u1ec1n \u0111i\u1ec7n t\u1eed l\u1edbn th\u1ee9 6 th\u1ebf gi\u1edbi n\u00f3i v\u1ec1 k\u1ebf ho\u1ea1ch ti\u1ebfn v\u00e0o \u0110",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "News by Matriks on TradingView, 2026-11-02 - TradingView",
+    "This is the biggest threat to the AI-powered bull market",
+    "How elections worldwide are testing Trump\u2019s influence abroad"
   ]
 }
