@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793617187.1833267,
+  "last_signals": 1793617811.147122,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,7 +70,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -135,7 +135,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793617188.3053122,
+    "GBP/USD|4H:top": 1793617812.3131886,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -144,26 +144,20 @@
     "Ethereum|4H:bot": 1793332186.464401,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793617188.4766803,
+    "EUR/USD|4H:top": 1793617812.5120692,
     "Bitcoin|1D:bot": 1793145918.0955172,
-    "DXY|4H:bot": 1793617188.8608344,
-    "GBP/USD|1D:top": 1793617188.3053315,
+    "DXY|4H:bot": 1793617812.8379185,
+    "GBP/USD|1D:top": 1793617812.3132071,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793612448.761439,
-    "DXY|1D:bot": 1793617188.8608537
+    "DXY|1D:bot": 1793617812.837937
   },
-  "last_analysis": 1793617177.3986888,
-  "last_news": 1793617187.1824117,
+  "last_analysis": 1793617799.4916327,
+  "last_news": 1793617811.1461728,
   "seen_news": [
-    "The AI telling farmers when to harvest",
-    "Why is China Construction Bank stock climbing today?",
-    "JPMorgan joins hike call for RBA\u2019s November meeting, sees tightening bias persis",
-    "Shark B\u00ecnh khai nh\u1eadn \u0111\u01b0\u1ee3c nhi\u1ec1u khi\u1ebfu n\u1ea1i v\u00e0 c\u00f4ng v\u0103n c\u1ee7a c\u00f4ng an v\u1ec1 s\u00e0n giao d\u1ecb",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
-    "BYD's October vehicle sales rise as overseas demand offsets China weakness - Tra",
     "Gold price analysis today: Is the sharp selloff creating a buying opportunity or",
     "Di\u1ec5n bi\u1ebfn m\u1edbi \u1edf c\u00f4ng tr\u01b0\u1eddng \u0111\u01b0\u1eddng d\u1eabn c\u1ea7u 315 t\u1ef7 'tr\u1ed1ng hu\u1ebfch tr\u1ed1ng ho\u00e1c'",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
@@ -457,6 +451,12 @@
     "B\u1ed9 N\u1ed9i v\u1ee5 y\u00eau c\u1ea7u b\u00e1o c\u00e1o ti\u1ec1n l\u01b0\u01a1ng, th\u01b0\u1edfng T\u1ebft t\u1ea1i doanh nghi\u1ec7p tr\u01b0\u1edbc 25/11",
     "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
     "REG - Mpac Group PLC - Chair Succession - TradingView",
-    "The AI trade has broken down. How we got here and what investors should expect n"
+    "The AI trade has broken down. How we got here and what investors should expect n",
+    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance",
+    "Ernst Russ AG sells MV \u201cMirror\u201d - TradingView",
+    "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    "The grads ditching the UK for a fresh start abroad",
+    "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
+    "UBS sees Roche giredestrant potential priced in after 50% share rally"
   ]
 }
