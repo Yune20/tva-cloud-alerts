@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793658774.2112823,
+  "last_signals": 1793659375.0489166,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793658775.211568,
+    "GBP/USD|1D:top": 1793659376.1946304,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793658775.72327
+    "DXY|1D:bot": 1793659376.666553
   },
   "last_analysis": 1793659083.680975,
-  "last_news": 1793658774.210368,
+  "last_news": 1793659375.04807,
   "seen_news": [
-    "Factbox-Six things to watch as US voters decide control of Congress",
-    "Oil prices sink as Iran's President says Supreme Leader granted certain authorit",
-    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh th\u01b0\u1eddng xuy\u00ean \u0111\u1ec3 th\u1ecbt, c\u00e1 trong ng\u0103n \u0111\u00e1 t\u1ee7 l\u1ea1nh",
-    "HII: CTCP An Ti\u1ebfn Industries - ANTIEN INDUSTRIES.,JSC - VietstockFinance",
-    "PPHC Announces Acquisition Of Reevemark - TradingView",
-    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
     "\u0110\u00ednh h\u00f4n v\u00e0o ng\u00e0y b\u00e3o, c\u1eb7p \u0111\u00f4i b\u1ecb k\u1eb9t tr\u00ean v\u00e1ch n\u00fai su\u1ed1t 7 gi\u1edd",
     "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "FIRST RESOURCE BANCORP, INC. ANNOUNCES QUARTERLY CASH DIVIDEND - TradingView",
@@ -457,6 +451,12 @@
     "The stock market has gone nowhere for the past 5 months. It\u2019s now looking like a",
     "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign\u2019",
     "Poundland's former owner offers to invest as minister prepares to meet board",
-    "Why is Ichor Holdings stock gaining today?"
+    "Why is Ichor Holdings stock gaining today?",
+    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
+    "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
+    "From Levi's to Primark - the fashion chains selling mended clothes",
+    "Why is Vertex Pharmaceuticals stock climbing today?",
+    "Dow rises as Nasdaq slides",
+    "\u201cB\u00f3c h\u01a1n 100 phong b\u00ec c\u01b0\u1edbi, nhi\u1ec1u c\u00e1i ch\u1ec9 500K trong khi m\u00e2m c\u1ed7 3,5 tri\u1ec7u, ch\u1ee7 n"
   ]
 }
