@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793632461.4375653,
-  "last_bot4": 1793641300.326185,
+  "last_bot4": 1793641929.8176925,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793640666.4539735
+    "Gold": 1793641929.8175952
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793641598.360174,
+  "last_signals": 1793641929.818468,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793641600.3074148
+    "DXY|1D:bot": 1793641931.4581914
   },
-  "last_analysis": 1793641300.3251183,
-  "last_news": 1793641598.359519,
+  "last_analysis": 1793641918.2216797,
+  "last_news": 1793641926.8128765,
   "seen_news": [
-    "Bitcoin rebounds after the Binance hack driven selloff as US-Iran deal hopes imp",
-    "Nguy c\u01a1 l\u1ed9 d\u1eef li\u1ec7u t\u1eeb tr\u00e0o l\u01b0u t\u1ea1o \u1ea3nh n\u1eef th\u1ea7n b\u1eb1ng AI",
-    "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance",
-    "Mutares SE & Co. KGaA (MUX) Sells Stuart to Quiver - TradingView",
-    "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he b",
-    "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
     "TCH: CTCP \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy - TCH - VietstockFinance",
     "What to expect from Bristow Group\u2019s (VTOL) Q3 earnings - TradingView",
     "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $",
@@ -457,6 +451,12 @@
     "REG - JPMorgan Emerg. EMEA - Closed Period Notification - TradingView",
     "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with M",
     "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040"
+    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
+    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
+    "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
+    "C\u1ed5 phi\u1ebfu n\u00e0o th\u01b0\u1eddng t\u0103ng trong th\u00e1ng 11?",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
+    "Hugo Boss AG (BOSS) Receives Major Holdings Notification From SIH Partners - Tra"
   ]
 }
