@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793634058.0319078,
+  "last_signals": 1793634669.9482424,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -76,7 +76,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793634059.586088
+    "DXY|1D:bot": 1793634671.6848392
   },
-  "last_analysis": 1793634050.2942026,
-  "last_news": 1793634058.0309849,
+  "last_analysis": 1793634662.2988431,
+  "last_news": 1793634669.9472613,
   "seen_news": [
-    "CII: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - CII - VietstockFinance",
-    "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - ",
-    "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2",
-    "New Buy Now Pay Later rules - don't get caught out",
-    "Oil Prices No Longer Follow Headlines",
-    "FTSE 100 today: Stocks fall as crude slide drags oil majors lower",
     "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
     "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
     "Chevron Raises Exploration Spending By 50%",
@@ -457,6 +451,12 @@
     "Wall Street's Fear Index is doing something strange. Here's what it means for st",
     "Faisal Islam: This Budget was micro and that was deliberate",
     "Ukraine Has Hit Three Russian Refineries Since Friday",
-    "Why is Seagate Technology stock sliding today?"
+    "Why is Seagate Technology stock sliding today?",
+    "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "The AI telling farmers when to harvest",
+    "U.S. Pushes to Restore Russian Gas Flows to Europe",
+    "Top Integrated Oil Stock According To TD Cowen",
+    "Canada S&P global manufacturing PMI 49.6 versus 51.5 last month",
+    "Nhan s\u1eafc th\u1eddi \u0111\u1ec9nh cao c\u1ee7a 'n\u1eef ho\u00e0ng \u1ea3nh l\u1ecbch' Di\u1ec5m H\u01b0\u01a1ng"
   ]
 }
