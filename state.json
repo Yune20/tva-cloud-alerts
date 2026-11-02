@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793630315.57297,
+  "last_signals": 1793630918.9383032,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793618440.0433018,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
-    "5575146754|Gold|1H|trap_up": 1793627423.014668,
+    "5575146754|Gold|1H|trap_up": 1793630918.9383032,
     "5575146754|Gold|1D|range_in": 1793237078.0675597,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
     "5575146754|Gold|4H|dtop": 1793230210.644832,
@@ -66,7 +66,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793630319.4734874
+    "DXY|1D:bot": 1793630920.7591877
   },
   "last_analysis": 1793630620.265159,
-  "last_news": 1793630315.5722299,
+  "last_news": 1793630918.937496,
   "seen_news": [
-    "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-    "FX option expiries for 2 November 10am New York cut",
-    "Kh\u00f4ng ph\u1ea3i Dubai hay Maldives, m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m \u1edf Vi\u1ec7t Nam s\u1eafp \u0111\u00f3n li\u00ean ti\u1ebfp 3 si\u00eau ",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: Q3 profit surge and ~\u00a3210bn RWA target including Basel 3.1 - Tradi",
     "How Poundland grew from a market stall to a high street giant",
     "UBS sees Bank of England rate hikes supporting pound vs franc",
     "Week ahead: Elections, rate decisions and jobs take center stage",
@@ -457,6 +451,12 @@
     "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh th\u01b0\u1eddng xuy\u00ean \u0111\u1ec3 th\u1ecbt, c\u00e1 trong ng\u0103n \u0111\u00e1 t\u1ee7 l\u1ea1nh",
     "HII: CTCP An Ti\u1ebfn Industries - ANTIEN INDUSTRIES.,JSC - VietstockFinance",
     "PPHC Announces Acquisition Of Reevemark - TradingView",
-    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m"
+    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
+    "\u0110\u00ednh h\u00f4n v\u00e0o ng\u00e0y b\u00e3o, c\u1eb7p \u0111\u00f4i b\u1ecb k\u1eb9t tr\u00ean v\u00e1ch n\u00fai su\u1ed1t 7 gi\u1edd",
+    "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "FIRST RESOURCE BANCORP, INC. ANNOUNCES QUARTERLY CASH DIVIDEND - TradingView",
+    "This is the biggest threat to the AI-powered bull market",
+    "Anthropic releases amended IPO prospectus with third-quarter financials",
+    "Binance users withdraw $3.6bn after largest-ever crypto hack"
   ]
 }
