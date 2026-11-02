@@ -29,14 +29,14 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793595425.3790553,
+  "last_signals": 1793596081.9416704,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793592887.852665,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
-    "5575146754|Gold|1D|dn": 1793560731.2238162,
+    "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793575007.9618816,
     "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793218184.489898,
@@ -80,7 +80,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793595721.0200343,
-  "last_news": 1793595425.3781018,
+  "last_analysis": 1793596073.7181244,
+  "last_news": 1793596081.9410734,
   "seen_news": [
-    "Trump calls $50 million contract for ex-lawyer Habba Mildon \u2019not acceptable\u2019",
-    "Fed\u2019s Daly: AI matters for near- and medium-term policy",
-    "Vi\u1ec7t Nam c\u00f3 16 nh\u00e0 m\u00e1y \u00f4 t\u00f4, c\u00f4ng su\u1ea5t 1,5 tri\u1ec7u xe/n\u0103m nh\u01b0ng doanh s\u1ed1 to\u00e0n th\u1ecb ",
-    "VIX: CTCP Ch\u1ee9ng kho\u00e1n VIX - VIX - VietstockFinance",
-    "Black Stone Minerals (BSM) Q3 earnings: what to expect - TradingView",
-    "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving",
     "Qu\u00e1n qu\u00e2n Olympia 2026 mu\u1ed1n g\u1eb7p b\u00e0 ngo\u1ea1i \u0111\u1ea7u ti\u00ean sau chi\u1ebfn th\u1eafng",
     "GVR: T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VRG - VietstockFinance",
     "Herbalife (HLF) Q3 earnings: what to expect - TradingView",
@@ -455,6 +449,12 @@
     "Chevron Profits Nearly Triple to $9.9 Billion",
     "Why is Reliance Industries stock surging today?",
     "Carney: Canada, EU working toward deepest possible partnership, short of accessi",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi"
+    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
+    "Th\u00e0 ch\u1ecbu chi ph\u00ed g\u1ea5p \u0111\u00f4i ch\u1ee9 kh\u00f4ng ch\u1ecdn nh\u00e0 th\u1ea7u Trung Qu\u1ed1c, \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 3",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "Bank of Korea probes financial firms\u2019 exposure to crypto risks - TradingView",
+    "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Her",
+    "Energy bills help 'doesn't go far enough'",
+    "Water Tank Rupture Triggers Safety Concerns at Tajikistan\u2019s Rogun Dam"
   ]
 }
