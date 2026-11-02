@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793584514.3126457,
+  "last_signals": 1793585128.778465,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793582664.9170458,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -79,7 +79,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793584507.1119406,
-  "last_news": 1793584514.3117893,
+  "last_analysis": 1793585120.2086854,
+  "last_news": 1793585128.777555,
   "seen_news": [
-    "B\u00e1o c\u00e1o ph\u00e2n t\u00edch - VietstockFinance",
-    "Procter & Gamble Closes $4 Billion Notes Offering Across Four Maturities - Tradi",
-    "Gamble on democracy: Inside suspicious election-contracts trading on prediction ",
-    "US interest rates held steady and economy grows - what it means for you",
-    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
-    "Saudi Arabia\u2019s economy contracts 3.8% as war disrupts oil production",
     "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate electio",
     "What we know about Binance's $6.3bn hack",
     "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
@@ -455,6 +449,12 @@
     "Burnham 'ready to support' Poundland staff as retailer faces collapse",
     "U.S. Treasuries surge to wrap October in biggest rally since 2024",
     "PBOC is expected to set the USD/CNY reference rate at 6.6625 \u2013 Reuters estimate",
-    "3 th\u00e1ng sau sinh, Tr\u1ea7n \u0110\u00ecnh Ni v\u1eabn g\u00e2y cho\u00e1ng v\u1edbi v\u00f3c d\u00e1ng thon g\u1ecdn: H\u00e9 l\u1ed9 5 b\u00ed "
+    "3 th\u00e1ng sau sinh, Tr\u1ea7n \u0110\u00ecnh Ni v\u1eabn g\u00e2y cho\u00e1ng v\u1edbi v\u00f3c d\u00e1ng thon g\u1ecdn: H\u00e9 l\u1ed9 5 b\u00ed ",
+    "People in China are spending nearly as much of their income as Americans on heal",
+    "The Indian workers filming their work to train AI",
+    "China\u2019s top three airlines head for full-year losses as fuel costs weigh",
+    "China private factory PMI at 52.0 beats forecasts, output growth fastest since A",
+    "Ph\u00e1t hi\u1ec7n m\u1ed9t con thuy\u1ec1n kh\u00f4ng ng\u01b0\u1eddi l\u00e1i, kh\u00f4ng c\u1ea7n n\u1ea1p nhi\u00ean li\u1ec7u li\u00ean t\u1ee5c di c",
+    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance"
   ]
 }
