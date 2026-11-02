@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793646046.2537253,
+  "last_signals": 1793646661.2066493,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793646047.2523966,
+    "GBP/USD|1D:top": 1793646662.3692434,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793646047.8137934
+    "DXY|1D:bot": 1793646662.952979
   },
-  "last_analysis": 1793646032.0171592,
-  "last_news": 1793646043.77312,
+  "last_analysis": 1793646653.5464416,
+  "last_news": 1793646661.2058997,
   "seen_news": [
-    "How oil prices could average $130 per barrel next year, according to Goldman Sac",
-    "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Wall Street futures rise as AI stocks catch their breath; midterms in focus",
-    "Crude oil opens the week lower and extends the losses as US-Iran deal hopes retu",
-    "B\u1ed9 tr\u01b0\u1edfng Y t\u1ebf: Tuy\u1ec7t \u0111\u1ed1i c\u1ea5m l\u1ea5y t\u1ea1ng t\u1eeb ng\u01b0\u1eddi d\u01b0\u1edbi 18 tu\u1ed5i c\u00f2n s\u1ed1ng",
     "How long will humans be needed for translation?",
     "BofA Securities Keeps Software Top Picks Despite AI Worries",
     "24/7 Markets: Are Brokers Ready?",
@@ -457,6 +451,12 @@
     "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
     "BlackRock American Income Trust plc Sells 225,000 Treasury Shares - TradingView",
     "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-    "The Indian workers filming their work to train AI"
+    "The Indian workers filming their work to train AI",
+    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance",
+    "Clarus Q2 Earnings Call Highlights - TradingView",
+    "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "The grads ditching the UK for a fresh start abroad",
+    "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
+    "Why Deutsche Bank says the AI dollar is here"
   ]
 }
