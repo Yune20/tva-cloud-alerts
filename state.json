@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793621500.7303157,
+  "last_news_report": 1793632461.4375653,
   "last_bot4": 1793632162.4389606,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793631856.4158993,
+  "last_signals": 1793632461.438803,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -70,11 +70,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793631859.0991416
+    "DXY|1D:bot": 1793632463.098889
   },
   "last_analysis": 1793632159.373011,
-  "last_news": 1793631856.414752,
+  "last_news": 1793632456.5634484,
   "seen_news": [
-    "Key facts: BTCUSD drops to mid-$70k; Binance $6.3B hack, ETFs $104B - TradingVie",
-    "Automatic 401(k) rollovers reduce cash-outs, research finds \u2014 but few accounts r",
-    "Faisal Islam: This Budget was micro and that was deliberate",
-    "Barclays downgrades Dr. Martens to underweight, cuts price target",
-    "Australia\u2019s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2",
-    "Nh\u00e0 n\u00e0o \u0111ang l\u1eafp camera tr\u01b0\u1edbc c\u1eeda n\u00ean bi\u1ebft 3 \u0111i\u1ec1u quan tr\u1ecdng",
     "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
     "B\u00ean trong nh\u00e0 t\u00f9 kh\u1ed5ng l\u1ed3 m\u1edbi \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng \u0111\u1ec3 \"giam gi\u1eef nh\u1eefng t\u1ed9i ph\u1ea1m nguy hi\u1ec3",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -457,6 +451,12 @@
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "REG - Lloyds Banking Group - Director/PDMR Shareholding - TradingView",
     "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 bill",
-    "Virgin Media O2 set to cut thousands of jobs to reduce costs"
+    "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+    "Shop freezers in seven European countries hit by cyber-attack",
+    "Brazil's Data Center Boom Faces a 14-GW Reality Check",
+    "Oracle taps investors for $20 billion to finance AI expansion",
+    "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
+    "N\u1eef ca s\u0129 SN 1995 \u0111\u01b0\u1ee3c B\u1ed9 Qu\u1ed1c ph\u00f2ng khen th\u01b0\u1edfng: Nh\u1edd 1 b\u00e0i h\u00e1t m\u00e0 \u0111\u1ed5i \u0111\u1eddi, 2 l\u1ea7n",
+    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance"
   ]
 }
