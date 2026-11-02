@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793622752.3229923,
+  "last_signals": 1793623375.8352087,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -70,11 +70,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793612448.761439,
-    "DXY|1D:bot": 1793622754.7339146
+    "DXY|1D:bot": 1793623378.509817
   },
-  "last_analysis": 1793622742.727115,
-  "last_news": 1793622752.3221793,
+  "last_analysis": 1793623364.256008,
+  "last_news": 1793623375.833663,
   "seen_news": [
-    "Anthropic's path to the Nasdaq just got a lot bumpier",
-    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-    "Chevron Profits Nearly Triple to $9.9 Billion",
-    "Why is Reliance Industries stock surging today?",
-    "Carney: Canada, EU working toward deepest possible partnership, short of accessi",
-    "PVS: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 K\u1ef9 thu\u1eadt D\u1ea7u kh\u00ed Vi\u1ec7t Nam - PTSC - VietstockFi",
     "Th\u00e0 ch\u1ecbu chi ph\u00ed g\u1ea5p \u0111\u00f4i ch\u1ee9 kh\u00f4ng ch\u1ecdn nh\u00e0 th\u1ea7u Trung Qu\u1ed1c, \u0111\u01b0\u1eddng s\u1eaft cao t\u1ed1c 3",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "Bank of Korea probes financial firms\u2019 exposure to crypto risks - TradingView",
@@ -457,6 +451,12 @@
     "Amneal (AMRX) Q3 earnings: what to expect - TradingView",
     "Marvell and Lumentum officially plan to combine. Here\u2019s what to know.",
     "Canada-India $5.5 billion bank takeover attracts opposition from workers, politi",
-    "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-at"
+    "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-at",
+    "A $731 Billion Opportunity for SpaceX Stock - TradingView",
+    "America is doing better than you think \u2014 just ask those in the bottom half of ho",
+    "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michig",
+    "City of London chief tops UK Black Powerlist",
+    "Blackstone-Led Investors Buy into LNG Canada for $3.1 Billion",
+    "Premarket movers: Estee Lauder, Rivian rise premarket; Check Point falls"
   ]
 }
