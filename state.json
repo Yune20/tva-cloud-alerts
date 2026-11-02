@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793611834.4193923,
+  "last_signals": 1793612448.4373665,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -79,7 +79,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -151,17 +151,12 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
-    "Gold|1H:bot": 1793505207.9811332
+    "Gold|1H:bot": 1793505207.9811332,
+    "USOIL|4H:bot": 1793612448.761439
   },
-  "last_analysis": 1793611825.3685396,
-  "last_news": 1793611834.418455,
+  "last_analysis": 1793612440.0218637,
+  "last_news": 1793612448.4365928,
   "seen_news": [
-    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan",
-    "X\u00e9t x\u1eed n\u1eef \u0111\u1ea1i gia Chu Th\u1ecb Th\u00e0nh: T\u00f2a tri\u1ec7u t\u1eadp \u0111\u1ea1i di\u1ec7n 2 b\u1ed9 v\u00e0 6 c\u01a1 quan thu\u1ebf",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "Not Quite an Octoberfest, but D-St Makes a Recovery - TradingView",
-    "Meta outlook revised downward by S&P on cash flow and capex concerns",
-    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
     "Weekly Recap: \u20ac1,209m adjusted profit and 45% ERB Asfalistiki stake sale - Tradi",
     "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok t",
     "Burnham 'ready to support' Poundland staff as retailer faces collapse",
@@ -455,6 +450,12 @@
     "European stock market open: Stocks kick start November trading more cautiously",
     "Ph\u00fa Qu\u1ed1c ch\u1ea1y \u0111ua ti\u1ebfn \u0111\u1ed9 d\u1ef1 \u00e1n APEC gi\u1eefa \u00e1p l\u1ef1c thi\u1ebfu nh\u00e2n l\u1ef1c",
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
-    "Key facts: OCS advances Privosegtor; appoints Aaron Tansy - TradingView"
+    "Key facts: OCS advances Privosegtor; appoints Aaron Tansy - TradingView",
+    "Japan\u2019s Katayama says US-Japan FX statement \u2018alive\u2019, warns on disorderly yen mov",
+    "Nam di\u1ec5n vi\u00ean t\u1eebng b\u1ecb \u0111\u1ed9t qu\u1ef5 b\u1ecf ph\u1ed1 v\u1ec1 Long An s\u1ed1ng trong nh\u00e0 v\u01b0\u1eddn 6.000 m2",
+    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
+    "HSBC plans Hong Kong AI institute, targeting early 2027 launch - TradingView",
+    "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
+    "Ryanair may freeze workers' pay and raise airfares"
   ]
 }
