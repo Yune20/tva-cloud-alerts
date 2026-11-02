@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793661562.5822804,
+  "last_signals": 1793661894.3745372,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793661564.3225284
+    "DXY|1D:bot": 1793661899.464442
   },
-  "last_analysis": 1793661271.5109143,
-  "last_news": 1793661562.5814955,
+  "last_analysis": 1793661880.0875902,
+  "last_news": 1793661894.3736758,
   "seen_news": [
-    "My ex-husband sent me a text, promising $20,000 for our children\u2019s education. No",
-    "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare f",
-    "How Poundland grew from a market stall to a high street giant",
-    "Why is Bright Minds Biosciences stock collapsing today?",
-    "Bitcoin bounces off Friday's key technical support but has a limit to the upside",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n ch\u00fa \u00fd quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t v\u1ec1 c\u01b0 tr\u00fa t\u1eeb ng\u00e0y 15/11",
     "T\u1ed1i 2/11, gi\u00e1 v\u00e0ng t\u0103ng v\u1ecdt",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Qualisys Releases Prisma Pose - Markerless Motion Capture for Biomechanics Labs ",
@@ -457,6 +451,12 @@
     "Virgin Media O2 set to cut thousands of jobs to reduce costs",
     "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated",
     "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-    "Goldman: Don\u2019t try to time the S&P 500 top as EPS growth seen slowing to 11%"
+    "Goldman: Don\u2019t try to time the S&P 500 top as EPS growth seen slowing to 11%",
+    "AI is coming to construction sites. But does it make workers safer?",
+    "Shop freezers in seven European countries hit by cyber-attack",
+    "Brazil's Data Center Boom Faces a 14-GW Reality Check",
+    "Oracle taps investors for $20 billion to finance AI expansion",
+    "US midterms: what traders need to know as narrow Congress majorities face voters",
+    "X\u00e2y si\u00eau \u0111\u01b0\u1eddng s\u1eaft h\u01a1n 3 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng, m\u1ed9t c\u00e2y c\u1ea7u gi\u1eefa th\u1ee7 \u0111\u00f4 ph\u1ea3i c\u1ea3i t\u1ea1o: S\u1ebd"
   ]
 }
