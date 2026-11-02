@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793632461.4375653,
-  "last_bot4": 1793636613.7352607,
+  "last_bot4": 1793637281.218449,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793636613.7361927,
+  "last_signals": 1793637281.220352,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793636616.789172
+    "DXY|1D:bot": 1793637283.1664727
   },
-  "last_analysis": 1793636913.2979448,
-  "last_news": 1793636610.7249553,
+  "last_analysis": 1793637271.8735788,
+  "last_news": 1793637281.2175267,
   "seen_news": [
-    "\u200fSun Property \u0111\u01b0\u1ee3c vinh danh \u201cNh\u00e0 ph\u00e1t tri\u1ec3n B\u0110S ti\u00eau bi\u1ec3u Vi\u1ec7t Nam\u201d\u200f\u200f \u200f\u200fv\u1edbi lo\u1ea1",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "First Watch earnings: what to look for from FWRG - TradingView",
-    "Social Security may have to cut retirement benefits in six years. Here's how muc",
-    "Google value plunges by $500bn as its own AI search hits ad sales",
-    "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
     "VNZ: CTCP T\u1eadp \u0111o\u00e0n VNG - VNG Group - VietstockFinance",
     "Clarus Q2 Earnings Call Highlights - TradingView",
     "Crypto industry pours more than $200 million into 2026 midterms to pressure Cong",
@@ -457,6 +451,12 @@
     "When you turn this age, it\u2019s your best chance to get crucial tax and healthcare ",
     "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumen",
     "Christmas shoebox appeal launches to help children",
-    "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again"
+    "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again",
+    "Behind Anthropic\u2019s 1,127% revenue surge \u2014 and the computing bill that erased its",
+    "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+    "Streeting denies 'kicking can down the road' in defence spending row",
+    "U.S.-Backed Consortium Proposes $4.4 Billion LNG Terminal in Pakistan",
+    "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
+    "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate"
   ]
 }
