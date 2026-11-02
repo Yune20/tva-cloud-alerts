@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793643441.6986198,
-  "last_bot4": 1793644075.648222,
+  "last_bot4": 1793644739.8302984,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793643445.0490055
+    "Gold": 1793644739.8302016
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793644370.6249442,
+  "last_signals": 1793644739.8309844,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -66,7 +66,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793644372.1743493,
+    "GBP/USD|1D:top": 1793644741.6041026,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793644372.8842814
+    "DXY|1D:bot": 1793644742.310358
   },
-  "last_analysis": 1793644075.64669,
-  "last_news": 1793644370.6242678,
+  "last_analysis": 1793644726.7229388,
+  "last_news": 1793644737.1347816,
   "seen_news": [
-    "The Indian workers filming their work to train AI",
-    "Dollar steadies as U.S. midterms loom; euro digests Fitch outlook downgrade",
-    "Election scenarios: Morgan Stanley\u2019s Wilson says buy midterm dip, sees S&P 500 a",
-    "B\u1ea3o v\u1ec7 ng\u01b0\u1eddi cao tu\u1ed5i tr\u01b0\u1edbc c\u00fam c\u1ea7n \u0111\u01b0\u1ee3c xem l\u00e0 m\u1ed9t \u01b0u ti\u00ean c\u1ee7a y t\u1ebf d\u1ef1 ph\u00f2ng",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "OpenAI partners with Adnoc, Mubadala on AI deployment in the UAE - TradingView",
     "Why Deutsche Bank says the AI dollar is here",
     "Bitcoin forecast today: The rebound looks better, but $79,000 is the real test",
     "B\u1ed9 N\u1ed9i v\u1ee5 y\u00eau c\u1ea7u b\u00e1o c\u00e1o ti\u1ec1n l\u01b0\u01a1ng, th\u01b0\u1edfng T\u1ebft t\u1ea1i doanh nghi\u1ec7p tr\u01b0\u1edbc 25/11",
@@ -457,6 +451,12 @@
     "The bond-market rally is defying the typical investing playbook. Here\u2019s why.",
     "Apple reports after the bell. Options traders expect a big move",
     "What we know about Binance's $6.3bn hack",
-    "Still-negative Japanese real rates should continue to support USD/JPY: UBS"
+    "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
+    "Felix Gold Requests Trading Halt - TradingView",
+    "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $",
+    "Social Security may have to cut retirement benefits in six years. Here's how muc",
+    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+    "Wall Street rebounds after Nasdaq posts worst month since March 2025 on AI rout",
+    "Market outlook for the week of 2nd - 6th November"
   ]
 }
