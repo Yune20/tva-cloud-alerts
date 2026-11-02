@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793588499.3748407,
-  "last_bot4": 1793589182.8865979,
+  "last_bot4": 1793589847.045662,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793588507.306367
+    "Gold": 1793589847.0455713
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793589476.4694557,
+  "last_signals": 1793589847.0464325,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793589476.4694557,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793589182.885037,
-  "last_news": 1793589476.4686987,
+  "last_analysis": 1793589836.1022189,
+  "last_news": 1793589844.5496664,
   "seen_news": [
-    "Ch\u1ec9 c\u00f2n 1 ng\u00e0y, t\u1ea5t c\u1ea3 nh\u1eefng ai c\u00f3 Gi\u1ea5y ch\u1ee9ng nh\u1eadn quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t c\u1ea7n kh\u1ea9n tr",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
-    "SoftBank-backed OPay shelves IPO plans after regulatory probe - TradingView",
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
-    "U.S. Oil, Gas Drillers Still on Hold",
     "How has the Magnificent 7 done relatively to the broader stock indices today?",
     "Nh\u1eefng ng\u00f4i sao m\u1ed9t th\u1eddi tr\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n: T\u1eeb v\u1ecb th\u1ebf c\u1ee9 \u201c\u00f4m\u201d l\u00e0 th\u1eafng, \u0111\u1ebfn ch",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
@@ -455,6 +449,12 @@
     "Bitcoin forecast today: The rebound looks better, but $79,000 is the real test",
     "Th\u1ef1c h\u01b0 chuy\u1ec7n u\u1ed1ng n\u01b0\u1edbc sau khi th\u1ee9c d\u1eady gi\u00fap \u201cr\u1eeda tr\u00f4i c\u1ee5c m\u00e1u \u0111\u00f4ng\u201d",
     "DIG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n X\u00e2y d\u1ef1ng - T\u1eacP \u0110O\u00c0N DIC (DIC GROUP) ",
-    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:1f4beec63094b:0 - TradingV"
+    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:1f4beec63094b:0 - TradingV",
+    "Australian stocks that benefit from RBA rate hikes \u2014 and those most at risk",
+    "Tanker hit by two projectiles off Saudi coast as Gulf incidents reach 10 in thre",
+    "Video m\u00e1y bay n\u1ed5 nh\u01b0 qu\u1ea3 c\u1ea7u l\u1eeda g\u1ea7n khu ngh\u1ec9 d\u01b0\u1ee1ng c\u1ee7a \u00f4ng Trump, 9 ng\u01b0\u1eddi ch\u1ebft",
+    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance",
+    "What W&T Offshore (WTI) Said on Its Q3 Earnings Call - TradingView",
+    "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-"
   ]
 }
