@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793582117.7821758,
+  "last_signals": 1793582664.9170458,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793356542.4152074,
+    "5575146754|Gold|1H|range_in": 1793582664.9170458,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -72,7 +72,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793582092.1502793,
-  "last_news": 1793582117.7812836,
+  "last_analysis": 1793582656.463956,
+  "last_news": 1793582664.9162364,
   "seen_news": [
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "Will Top-Line Improvement Benefit Palantir in Q3 Earnings? - TradingView",
-    "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a hi",
-    "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign\u2019",
-    "Thousands of jobs at Virgin Media O2 to be cut",
-    "Macau gaming revenue falls 10% in October despite Golden Week visitor surge",
     "No more washing up: How Airbnb's new house rules have divided hosts and guests",
     "U.S. Treasuries surge to wrap October in biggest rally since 2024",
     "What protects Japan\u2019s economy? And what does it mean for the yen?",
@@ -455,6 +449,12 @@
     "Humans are still doing the work behind some AI agents",
     "Binance users withdraw $3.6bn after record crypto hack",
     "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
-    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist"
+    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+    "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day bec",
+    "Berkshire ekes out some new highs, but October rally stalls",
+    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains",
+    "Japan\u2019s Katayama says US-Japan FX statement \u2018alive\u2019, warns on disorderly yen mov",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111ang d\u00f9ng VNeID ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a c\u00f4ng an"
   ]
 }
