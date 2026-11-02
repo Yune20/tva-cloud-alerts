@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793624655.9370525,
+  "last_signals": 1793625261.895201,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793612448.761439,
-    "DXY|1D:bot": 1793624657.6841185
+    "DXY|1D:bot": 1793625263.60779
   },
   "last_analysis": 1793624964.190121,
-  "last_news": 1793624655.9362195,
+  "last_news": 1793625261.8945472,
   "seen_news": [
-    "Yen Weakens Despite Verbal Warning - TradingView",
-    "Why AI is boosting Meta's ad business while hurting Google search",
-    "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North",
-    "Xiaomi shares climb as October EV deliveries top 50,000",
-    "Gold\u2019s slide to one-year low: margin calls amplified a fall driven by Fed hike b",
-    "C\u00f4ng an ki\u1ec3m tra m\u1ed9t c\u0103n nh\u00e0 l\u00fac 6 gi\u1edd, b\u1eaft gi\u1eef c\u00f4 g\u00e1i SN 2002",
     "Living with a stink? Technology might help",
     "Glencore proposes CEO pay changes to speed takeover payouts- FT",
     "China\u2019s factory and services PMI gauges both drop below 50 as fourth quarter sta",
@@ -457,6 +451,12 @@
     "Tucker Carlson claims Trump weighing nuclear strike on Iran\u2019s Pickaxe Mountain",
     "ALUSIL PLUS N5: L\u1ee3i th\u1ebf v\u1eadn h\u00e0nh ph\u00eda sau m\u1ee9c gi\u00e1 h\u1ee3p l\u00fd",
     "FPT: CTCP FPT - FPT Corp - VietstockFinance",
-    "Icarus Capital Corp. (ICRS) Names Jim Boyle Strategic Advisor, Grants 1.1M Optio"
+    "Icarus Capital Corp. (ICRS) Names Jim Boyle Strategic Advisor, Grants 1.1M Optio",
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
+    "CPX: Contracted growth and embedded upside underpin reaffirmed 2026 guidance - T",
+    "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile f",
+    "Everything changed for the oil, AI and bond trades over the past month",
+    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "Morgan Stanley names CaixaBank top pick on expected net interest income rebound"
   ]
 }
