@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793599438.1564443,
-  "last_bot4": 1793607302.1352909,
+  "last_bot4": 1793608304.899316,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793607302.1351962
+    "Gold": 1793608304.8992214
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793607595.7980988,
+  "last_signals": 1793608304.9000423,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793606993.6063907,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -79,7 +79,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793607872.9385488,
-  "last_news": 1793607595.7973807,
+  "last_analysis": 1793608293.0192077,
+  "last_news": 1793608302.258659,
   "seen_news": [
-    "Chevron Raises Exploration Spending By 50%",
-    "Midterm US elections, earnings, jobs data loom for AI-wary stock market",
-    "Bank of America\u2019s Hartnett says buy tech bonds as relative returns hit 30-year l",
-    "\u201cQu\u00fd t\u1eed\u201d nh\u00e0 B\u00f9i Ti\u1ebfn D\u0169ng \u0111\u00fang l\u00e0 c\u1ef1c ph\u1ea9m: M\u1edbi g\u1ea7n 4 tu\u1ed5i \u0111\u00e3 \u0111\u1eb9p trai th\u1ebf n\u00e0y,",
-    "FRT: CTCP B\u00e1n l\u1ebb K\u1ef9 thu\u1eadt s\u1ed1 FPT - FRT JSC - VietstockFinance",
-    "Weekly Recap: Q3 profit and sales growth and Top hybrid exporter to Europe - Tra",
     "BTCPay Server tells operators to shut down after reports of hot wallets being dr",
     "Lo\u1ea1i rau quen thu\u1ed9c trong m\u00e2m c\u01a1m Vi\u1ec7t c\u00f3 l\u1ee3i cho tim m\u1ea1ch",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
@@ -455,6 +449,12 @@
     "Ph\u00e1t hi\u1ec7n lo\u1ea1t giao d\u1ecbch chuy\u1ec3n kho\u1ea3n li\u00ean t\u1ee5c l\u00ean t\u1edbi 1,98 t\u1ef7 \u0111\u1ed3ng, c\u00f3 c\u1ea3 giao ",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Weekly Recap: High FCNR(B) deposits and Q2 GNPA improvement, brokers' targets - ",
-    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he "
+    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
+    "CII: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - CII - VietstockFinance",
+    "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - ",
+    "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2",
+    "New Buy Now Pay Later rules - don't get caught out",
+    "Oil Prices No Longer Follow Headlines",
+    "FTSE 100 today: Stocks fall as crude slide drags oil majors lower"
   ]
 }
