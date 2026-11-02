@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793640995.214721,
+  "last_signals": 1793641598.360174,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -66,12 +66,12 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793640998.5692258
+    "DXY|1D:bot": 1793641600.3074148
   },
   "last_analysis": 1793641300.3251183,
-  "last_news": 1793640995.2135487,
+  "last_news": 1793641598.359519,
   "seen_news": [
-    "French yields steady as Fitch spares credit downgrade; Bunds edge up",
-    "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
-    "Mi\u1ec1n B\u1eafc s\u1eafp \u0111\u00f3n \u0111\u1ee3t kh\u00f4ng kh\u00ed l\u1ea1nh m\u1ea1nh, c\u00f3 n\u01a1i d\u01b0\u1edbi 18 \u0111\u1ed9 C",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
-    "Vulcan Energy Resources Limited (VUL) Reports Morgan Stanley Holdings Notificati",
-    "5 celebrities who waited years to buy their dream homes",
     "Bitcoin rebounds after the Binance hack driven selloff as US-Iran deal hopes imp",
     "Nguy c\u01a1 l\u1ed9 d\u1eef li\u1ec7u t\u1eeb tr\u00e0o l\u01b0u t\u1ea1o \u1ea3nh n\u1eef th\u1ea7n b\u1eb1ng AI",
     "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance",
@@ -457,6 +451,12 @@
     "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra n\u1ebfu ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 giao d\u1ecbch nh\u1eadn v\u00e0 chuy\u1ec3",
     "VNZ: CTCP T\u1eadp \u0111o\u00e0n VNG - VNG Group - VietstockFinance",
     "REG - CML Microsystems PLC - Holding(s) in Company - TradingView",
-    "Oracle wants $20 billion to fund its AI future \u2014 and its stock is paying the pri"
+    "Oracle wants $20 billion to fund its AI future \u2014 and its stock is paying the pri",
+    "L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed, Vi\u1ec7t Nam d\u00ecm th\u00e0nh c\u00f4ng 4 kh\u1ed1i b\u00ea t\u00f4ng n\u1eb7ng g\u1ea7n 110.",
+    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
+    "REG - JPMorgan Emerg. EMEA - Closed Period Notification - TradingView",
+    "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with M",
+    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040"
   ]
 }
