@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793591678.2763312,
+  "last_signals": 1793592288.9145145,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793589476.4694557,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793591669.8405867,
-  "last_news": 1793591678.2755098,
+  "last_analysis": 1793592281.2621155,
+  "last_news": 1793592288.9139016,
   "seen_news": [
-    "T\u1ef7 ph\u00fa Nguy\u1ec5n Th\u1ecb Ph\u01b0\u01a1ng Th\u1ea3o \u0111\u0103ng k\u00fd t\u00e0i tr\u1ee3 50.000 t\u1ef7 \u0111\u1ed3ng, VinaCapital t\u00ednh h",
-    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
-    "$600B Tech Wipeout Meets $1.48T Margin Debt - TradingView",
-    "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-    "The tech helping crack decades-old cold cases",
-    "ExxonMobil Profits Double to $15.4 Billion",
     "TotalEnergies Q3 Earnings Call Highlights - TradingView",
     "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michig",
     "Energy bills help 'doesn't go far enough'",
@@ -455,6 +449,12 @@
     "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
     "M\u1ed9t b\u00e1c s\u0129 \u0111\u00e3 gi\u1ea3m 22kg trong 8 th\u00e1ng nh\u1edd ki\u00ean tr\u00ec m\u1ed9t ki\u1ec3u \u0103n s\u00e1ng",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "Golden Horse Minerals Announces Spin Out Of Sorrel Copper Project - TradingView"
+    "Golden Horse Minerals Announces Spin Out Of Sorrel Copper Project - TradingView",
+    "Canada GDP for August 0.0% vs 0.2% estimate",
+    "N\u1eef \u0111\u1ea1i gia H\u00e0 N\u1ed9i c\u00f3 1 \u0111\u1eddi ch\u1ed3ng: \u0110ang y\u00eau ng\u01b0\u1eddi m\u1eabu k\u00e9m 12 tu\u1ed5i, s\u1ed1ng trong bi\u1ec7",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Stock recommendations for 2 November from MarketSmith India - TradingView",
+    "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+    "US tech stocks see sharp falls as AI spending nears $1tn"
   ]
 }
