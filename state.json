@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793599438.1564443,
+  "last_news_report": 1793610535.1118486,
   "last_bot4": 1793609917.6175315,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793609917.617941,
+  "last_signals": 1793610535.1126888,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,16 +64,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -84,7 +84,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793609911.176757,
-  "last_news": 1793609917.6168158,
+  "last_analysis": 1793610519.3909032,
+  "last_news": 1793610529.6722765,
   "seen_news": [
-    "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
-    "investingLive European session wrap: AI spending fears spook tech stocks; dollar",
-    "M\u1edf r\u1ed9ng th\u1ecb tr\u01b0\u1eddng d\u1ecbch v\u1ee5 kinh doanh robot t\u1ea1i Trung Qu\u1ed1c",
-    "NVL: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 \u0110\u1ecba \u1ed1c No Va - NOVALAND GROUP CORP - VietstockFinance",
-    "KuCoin Announces Russia and Belarus Exit With Individual Account Deadlines - Tra",
-    "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have s",
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
     "Asia shares bend under AI stress; Apple earnings loom - TradingView",
     "Humans are still doing the work behind some AI agents",
@@ -455,6 +449,12 @@
     "These Senate races may help determine the fate of Social Security",
     "Streeting denies 'kicking can down the road' in defence spending row",
     "Senegal\u2019s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
-    "Why is Caixabank stock rallying today?"
+    "Why is Caixabank stock rallying today?",
+    "\u200fSun Property \u0111\u01b0\u1ee3c vinh danh \u201cNh\u00e0 ph\u00e1t tri\u1ec3n B\u0110S ti\u00eau bi\u1ec3u Vi\u1ec7t Nam\u201d\u200f\u200f \u200f\u200fv\u1edbi lo\u1ea1",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "First Watch earnings: what to look for from FWRG - TradingView",
+    "Social Security may have to cut retirement benefits in six years. Here's how muc",
+    "Google value plunges by $500bn as its own AI search hits ad sales",
+    "Goldman Sachs Raises December Brent Oil Price Forecast to $105"
   ]
 }
