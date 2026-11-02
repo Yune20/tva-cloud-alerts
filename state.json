@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793577121.586538,
+  "last_signals": 1793577740.8070486,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793356542.4152074,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -75,7 +75,7 @@
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793577112.4945035,
-  "last_news": 1793577121.5858157,
+  "last_analysis": 1793577730.231749,
+  "last_news": 1793577740.8062177,
   "seen_news": [
-    "M\u00e2m c\u01a1m b\u00ean trong c\u0103n bi\u1ec7t th\u1ef1 c\u1ee7a B\u1ea3o Thy v\u00e0 ch\u1ed3ng \u0111\u1ea1i gia",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "LyondellBasell Industries Q3 Earnings Call Highlights - TradingView",
-    "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have s",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Chevron Raises Exploration Spending By 50%",
     "Chainlink Launches CustodySync With Anchorage to Link Custody and DeFi Loans - T",
     "In the wake of Weil, a legal recruiter's advice for surviving a company wind-dow",
     "How long will humans be needed for translation?",
@@ -455,6 +449,12 @@
     "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
     "These Senate races may help determine the fate of Social Security",
     "Streeting denies 'kicking can down the road' in defence spending row",
-    "China\u2019s robot makers have mastered the moves. Now comes the race for brains"
+    "China\u2019s robot makers have mastered the moves. Now comes the race for brains",
+    "Social Security may have to cut retirement benefits in six years. Here's how muc",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Oil Prices No Longer Follow Headlines",
+    "Australian home prices fall for seventh month, looming rate hike adds to pain",
+    "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
+    "Ng\u01b0\u1eddi d\u00e2n \u0111ang chu\u1ea9n b\u1ecb mua xe ch\u00fa \u00fd th\u00f4ng b\u00e1o t\u1eeb c\u00f4ng an"
   ]
 }
