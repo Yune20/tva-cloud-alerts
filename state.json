@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793621500.7303157,
-  "last_bot4": 1793628359.7737887,
+  "last_bot4": 1793629381.8394914,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793627714.5199218
+    "Gold": 1793629381.8394122
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793628823.2407782,
+  "last_signals": 1793629381.8406334,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793628825.6380143
+    "DXY|1D:bot": 1793629384.3838794
   },
-  "last_analysis": 1793628813.63192,
-  "last_news": 1793628823.2399204,
+  "last_analysis": 1793629369.7208478,
+  "last_news": 1793629378.3913977,
   "seen_news": [
-    "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing",
-    "Economic and event calendar in Asia Monday, November 2, 2026 - another China PMI",
-    "T\u1eebng l\u00e0m cho B\u1ed9 ngo\u1ea1i giao Nh\u1eadt B\u1ea3n, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng n\u00e0y gi\u1edd \u0111ang ph\u00e1t tri\u1ec3n \u1ee9ng d",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK - VietstockFinance",
-    "Weekly Recap: Q3 recurring profit \u20ac405m and beats estimates, trims 2026 guidance",
-    "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
     "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
     "CEO c\u1ee7a s\u00e0n giao d\u1ecbch ti\u1ec1n \u0111i\u1ec7n t\u1eed l\u1edbn th\u1ee9 6 th\u1ebf gi\u1edbi n\u00f3i v\u1ec1 k\u1ebf ho\u1ea1ch ti\u1ebfn v\u00e0o \u0110",
     "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
@@ -457,6 +451,12 @@
     "South Korea targets 'world's highest performance' sovereign AI model in record n",
     "Shop freezers in seven European countries hit by suspected cyber-attack",
     "Oil Prices Slide 3% as Hopes for Iran Peace Deal Grow",
-    "Morgan Stanley bearish on Coinbase, slashes target on weaker recovery"
+    "Morgan Stanley bearish on Coinbase, slashes target on weaker recovery",
+    "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
+    "Poundland's former owner offers to invest as minister prepares to meet board",
+    "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
+    "Nasdaq 100 futures surge as Wall Street looks to rebound from rout in AI trade",
+    "Iran\u2019s Pezeshkian says Supreme Leader has granted government some authority on d",
+    "TP.HCM v\u1eadn \u0111\u1ed9ng doanh nghi\u1ec7p c\u00f4ng khai th\u01b0\u1edfng T\u1ebft \u0110inh M\u00f9i 2027 trong th\u00e1ng 11"
   ]
 }
