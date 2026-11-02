@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793640372.8362193,
+  "last_signals": 1793640995.214721,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793640374.4163396
+    "DXY|1D:bot": 1793640998.5692258
   },
-  "last_analysis": 1793640365.7730668,
-  "last_news": 1793640372.8356254,
+  "last_analysis": 1793640985.3702893,
+  "last_news": 1793640995.2135487,
   "seen_news": [
-    "LIC Housing Finance Q2 2027 Earnings Call Is Live - TradingView",
-    "Tech stocks have made big V-shaped rebounds five times in 30 months \u2014 and now De",
-    "Anthropic is AI trade's last big hope for a major IPO this year",
-    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan",
     "French yields steady as Fitch spares credit downgrade; Bunds edge up",
     "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
     "Mi\u1ec1n B\u1eafc s\u1eafp \u0111\u00f3n \u0111\u1ee3t kh\u00f4ng kh\u00ed l\u1ea1nh m\u1ea1nh, c\u00f3 n\u01a1i d\u01b0\u1edbi 18 \u0111\u1ed9 C",
@@ -457,6 +451,12 @@
     "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
     "Germany retail sales slump in September as consumer weakness adds to ECB's heada",
     "N\u00f3ng: H\u00f4m nay 3/11, con chip v\u00e0 n\u1ec1n t\u1ea3ng b\u00e1n d\u1eabn b\u1ea3o m\u1eadt \u201cMake in Vi\u1ec7t Nam\u201d \u0111\u1ea7u ",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance"
+    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
+    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+    "US midterms 2026: Is Trump about to lose his grip on Congress?",
+    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra n\u1ebfu ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 giao d\u1ecbch nh\u1eadn v\u00e0 chuy\u1ec3",
+    "VNZ: CTCP T\u1eadp \u0111o\u00e0n VNG - VNG Group - VietstockFinance",
+    "REG - CML Microsystems PLC - Holding(s) in Company - TradingView",
+    "Oracle wants $20 billion to fund its AI future \u2014 and its stock is paying the pri"
   ]
 }
