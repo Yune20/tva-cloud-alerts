@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793599438.1564443,
-  "last_bot4": 1793605711.3839037,
+  "last_bot4": 1793606380.78953,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793605077.111589
+    "Gold": 1793606380.789423
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793605711.3846598,
+  "last_signals": 1793606380.7903454,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793596698.9645138,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -64,17 +64,17 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -153,15 +153,9 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332
   },
-  "last_analysis": 1793605701.8239534,
-  "last_news": 1793605711.382856,
+  "last_analysis": 1793606371.8293777,
+  "last_news": 1793606378.2456837,
   "seen_news": [
-    "Don't get caught out by new Buy Now Pay Later rules",
-    "China\u2019s big banks post fastest quarterly profit growth in years as margins stabi",
-    "investingLive Americas FX news wrap 30 Oct: It\u2019s a wrap: Nasdaq tumbles as AI co",
-    "Chainalysis: V\u1ee5 t\u1ea5n c\u00f4ng Binance l\u00e0 \u201cki\u1ec3u r\u1eeda ti\u1ec1n ch\u01b0a t\u1eebng th\u1ea5y tr\u01b0\u1edbc \u0111\u00e2y\u201d",
-    "KSB: CTCP Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng - Bimico - VietstockFinance",
-    "Binance to resume crypto withdrawals after $6.3B hack - TradingView",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Trinity Industries Q3 Earnings Call Highlights - TradingView",
     "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
@@ -455,6 +449,12 @@
     "Faisal Islam: This Budget was micro and that was deliberate",
     "Barclays downgrades Dr. Martens to underweight, cuts price target",
     "Australia\u2019s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2",
-    "Nh\u00e0 n\u00e0o \u0111ang l\u1eafp camera tr\u01b0\u1edbc c\u1eeda n\u00ean bi\u1ebft 3 \u0111i\u1ec1u quan tr\u1ecdng"
+    "Nh\u00e0 n\u00e0o \u0111ang l\u1eafp camera tr\u01b0\u1edbc c\u1eeda n\u00ean bi\u1ebft 3 \u0111i\u1ec1u quan tr\u1ecdng",
+    "Spain Q3 GDP growth slows slightly but it's the inflation problem that should wo",
+    "B\u00ean trong nh\u00e0 t\u00f9 kh\u1ed5ng l\u1ed3 m\u1edbi \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng \u0111\u1ec3 \"giam gi\u1eef nh\u1eefng t\u1ed9i ph\u1ea1m nguy hi\u1ec3",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Weekly Recap: DSV A/S DKK1.5bn buyback and BlackRock 5.05% stake - TradingView",
+    "Apple\u2019s new earnings era begins at a critical time for Big Tech",
+    "Gen Z is ditching bars for run clubs \u2014 and finding more than friends along the w"
   ]
 }
