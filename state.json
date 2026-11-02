@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793658154.0826018,
+  "last_signals": 1793658774.2112823,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -71,9 +71,9 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793658155.9935143,
+    "GBP/USD|1D:top": 1793658775.211568,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793658156.7655184
+    "DXY|1D:bot": 1793658775.72327
   },
-  "last_analysis": 1793658146.2581623,
-  "last_news": 1793658154.0817487,
+  "last_analysis": 1793658764.8528578,
+  "last_news": 1793658774.210368,
   "seen_news": [
-    "NYT: T\u1ed5ng th\u1ed1ng Putin \u0111\u1eadp tan n\u1ed7 l\u1ef1c c\u00f4 l\u1eadp c\u1ee7a ph\u01b0\u01a1ng T\u00e2y",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "ETF Strategies to Fight Rising Rates - TradingView",
-    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
-    "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
-    "From Levi's to Primark - the fashion chains selling mended clothes",
     "Factbox-Six things to watch as US voters decide control of Congress",
     "Oil prices sink as Iran's President says Supreme Leader granted certain authorit",
     "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh th\u01b0\u1eddng xuy\u00ean \u0111\u1ec3 th\u1ecbt, c\u00e1 trong ng\u0103n \u0111\u00e1 t\u1ee7 l\u1ea1nh",
@@ -457,6 +451,12 @@
     "PHR: CTCP Cao su Ph\u01b0\u1edbc H\u00f2a - PHURUCO - VietstockFinance",
     "Grades fall as Trump says not considering Iran strikes after midterms - TradingV",
     "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 jus",
-    "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout"
+    "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp - VietstockFinance",
+    "Pampa Energ\u00eda S.A. Q3 Sales Rise 34% to $790M - TradingView",
+    "The stock market has gone nowhere for the past 5 months. It\u2019s now looking like a",
+    "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign\u2019",
+    "Poundland's former owner offers to invest as minister prepares to meet board",
+    "Why is Ichor Holdings stock gaining today?"
   ]
 }
