@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793659744.2066777,
+  "last_signals": 1793660354.2690258,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793659747.0631945
+    "DXY|1D:bot": 1793660355.7965982
   },
-  "last_analysis": 1793659734.9288626,
-  "last_news": 1793659744.2048254,
+  "last_analysis": 1793660346.1798196,
+  "last_news": 1793660354.2682567,
   "seen_news": [
-    "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated",
-    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-    "Nasdaq trims losses as renewed hopes for US-Iran deal improve the risk sentiment",
-    "M\u1ef9 mu\u1ed1n Nga n\u1ed1i l\u1ea1i kh\u00ed \u0111\u1ed1t sang ch\u00e2u \u00c2u qua Ukraine, \u0110i\u1ec7n Kremlin l\u1eadp t\u1ee9c l\u00ean t",
-    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
-    "Tesla Rival NIO's October Deliveries Sink 15% - TradingView",
     "Morning Kickstart: Oil tumbles as Iran talks continue. USD mixed ahead of ISM",
     "H\u1ea1t D\u1ebb, L\u1ecd Lem, Minh Trang c\u00f9ng \u0111\u1ed5 b\u1ed9 H\u00e0n Qu\u1ed1c: M\u00f9a thu x\u1ee9 kim chi c\u00f3 g\u00ec m\u00e0 g\u00e1i ",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "Lindsay appoints Michael Koch CFO, replacing interim co-CFOs - TradingView",
     "South Korea targets 'world's highest performance' sovereign AI model in record n",
     "Rainmakers: The drones used to seed clouds",
-    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease"
+    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
+    "Titan Technology Corp. (TTC) Appoints Julia Pyatigor CFO - TradingView",
+    "Supreme Court rejects DOJ's bid to block California from counting disputed ballo",
+    "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
+    "Palantir beats Q3 estimates, lifts 2026 revenue outlook to around $8.5 billion",
+    "T\u1ef1 doanh CTCK b\u00e1n r\u00f2ng g\u1ea7n 300 t\u1ef7 phi\u00ean \u0111\u1ea7u th\u00e1ng, ng\u01b0\u1ee3c chi\u1ec1u m\u1ed9t c\u1ed5 phi\u1ebfu ng\u00e2n"
   ]
 }
