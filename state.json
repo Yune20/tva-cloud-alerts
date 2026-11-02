@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793643149.242902,
+  "last_signals": 1793643771.534809,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793635639.0886405,
+    "GBP/USD|1D:top": 1793643772.6179502,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793643150.9161298
+    "DXY|1D:bot": 1793643773.085679
   },
-  "last_analysis": 1793643140.719146,
-  "last_news": 1793643149.2420628,
+  "last_analysis": 1793643758.2642517,
+  "last_news": 1793643771.5339515,
   "seen_news": [
-    "Canopy Growth Q1 Earnings Call Highlights - TradingView",
-    "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
-    "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
-    "Market outlook for the week of 2nd - 6th November",
     "The latest market wobble sees Citi giving up on this big tech trade",
     "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign\u2019",
     "'An annoying buzz': The search for stealthier drones",
@@ -457,6 +451,12 @@
     "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News rep",
     "Gold Technicals: Gold is up sharply erasing some of last week's declines.  Bounc",
     "Top 10 c\u1ed5 phi\u1ebfu t\u0103ng/gi\u1ea3m m\u1ea1nh nh\u1ea5t th\u00e1ng 10: M\u1ed9t m\u00e3 t\u0103ng g\u1ea7n 330%, lo\u1ea1t c\u1ed5 phi\u1ebf",
-    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance"
+    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
+    "investingLive Asia-Pacific market news: Oil eases on Doha talks",
+    "N\u00f3ng: H\u00f4m nay 3/11, chip b\u1ea3o m\u1eadt \u201cMake in Vi\u1ec7t Nam\u201d \u0111\u1ea7u ti\u00ean s\u1ebd ch\u00ednh th\u1ee9c l\u1ed9 di",
+    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
+    "Intel Gets Price Target Revamp but Keeps One Major Catalyst - TradingView",
+    "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street ",
+    "Options traders are getting anxious on Palantir and Apple ahead of earnings"
   ]
 }
