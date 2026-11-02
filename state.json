@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793652586.6776826,
+  "last_signals": 1793653202.7577717,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -71,7 +71,7 @@
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -147,23 +147,17 @@
     "EUR/USD|4H:top": 1793620879.0000093,
     "Bitcoin|1D:bot": 1793145918.0955172,
     "DXY|4H:bot": 1793620879.5073617,
-    "GBP/USD|1D:top": 1793651966.8764365,
+    "GBP/USD|1D:top": 1793653204.5351262,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793652588.6293888
+    "DXY|1D:bot": 1793653205.4774728
   },
-  "last_analysis": 1793652576.6626022,
-  "last_news": 1793652586.6767354,
+  "last_analysis": 1793653193.2015235,
+  "last_news": 1793653202.757007,
   "seen_news": [
-    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
-    "CPX: Contracted growth and embedded upside underpin reaffirmed 2026 guidance - T",
-    "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile f",
-    "Everything changed for the oil, AI and bond trades over the past month",
-    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-    "Morgan Stanley names CaixaBank top pick on expected net interest income rebound",
     "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
     "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash",
     "Why AI is boosting Meta's ad business while hurting Google search",
@@ -457,6 +451,12 @@
     "Children\u2019s Place weighs bankruptcy sale or liquidation, Bloomberg reports",
     "Conoce al equipo de FxPro en The Trading Festival de la Ciudad de M\u00e9xico",
     "Ph\u00e1t hi\u1ec7n Vi\u1ec7t Nam c\u00f3 h\u1ea7m \u0111\u1eb7c bi\u1ec7t d\u00e0i 4.885m xuy\u00ean qua l\u00f2ng n\u00fai, s\u1eed d\u1ee5ng c\u00f4ng n",
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance"
+    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
+    "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
+    "Ng\u00e0nh ch\u1ee9ng kho\u00e1n tr\u01b0\u1edbc v\u1eadn h\u1ed9i m\u1edbi: V\u1ed1n l\u1edbn h\u01a1n, cho vay m\u1ea1nh h\u01a1n, c\u1ea1nh tranh k",
+    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
+    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
+    "Trump focuses on Reflecting Pool in final public speech before midterms",
+    "Why the UK is dithering over what to do about e-scooters"
   ]
 }
