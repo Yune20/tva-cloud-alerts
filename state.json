@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793621500.7303157,
-  "last_bot4": 1793630623.5807028,
+  "last_bot4": 1793631243.8488111,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793630918.9383032,
+  "last_signals": 1793631243.8498123,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -70,7 +70,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793630920.7591877
+    "DXY|1D:bot": 1793631245.5539503
   },
-  "last_analysis": 1793630620.265159,
-  "last_news": 1793630918.937496,
+  "last_analysis": 1793631235.0282454,
+  "last_news": 1793631243.8477323,
   "seen_news": [
-    "How Poundland grew from a market stall to a high street giant",
-    "UBS sees Bank of England rate hikes supporting pound vs franc",
-    "Week ahead: Elections, rate decisions and jobs take center stage",
-    "Ph\u00e1t hi\u1ec7n v\u1ebft n\u1ee9t tuabin Boeing 787 do M\u1ef9 s\u1ea3n xu\u1ea5t ch\u1ec9 sau 1.000 chuy\u1ebfn bay, chu",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "Weekly Recap: Capital Group 3.95% holding and T. Rowe Price undisclosed - Tradin",
     "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
     "Australia\u2019s AI investment ambitions hit by another data centre setback",
     "Huy \u0111\u1ed9ng 40 k\u1ef9 s\u01b0, 160 sinh vi\u00ean c\u00f9ng h\u1ec7 th\u1ed1ng th\u1ee7y l\u1ef1c, 'th\u1ea7n \u0111\u00e8n' Vi\u1ec7t Nam di ",
@@ -457,6 +451,12 @@
     "FIRST RESOURCE BANCORP, INC. ANNOUNCES QUARTERLY CASH DIVIDEND - TradingView",
     "This is the biggest threat to the AI-powered bull market",
     "Anthropic releases amended IPO prospectus with third-quarter financials",
-    "Binance users withdraw $3.6bn after largest-ever crypto hack"
+    "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated",
+    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+    "Nasdaq trims losses as renewed hopes for US-Iran deal improve the risk sentiment",
+    "M\u1ef9 mu\u1ed1n Nga n\u1ed1i l\u1ea1i kh\u00ed \u0111\u1ed1t sang ch\u00e2u \u00c2u qua Ukraine, \u0110i\u1ec7n Kremlin l\u1eadp t\u1ee9c l\u00ean t",
+    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
+    "Tesla Rival NIO's October Deliveries Sink 15% - TradingView"
   ]
 }
