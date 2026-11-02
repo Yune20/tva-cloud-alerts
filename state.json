@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793613053.4326305,
+  "last_signals": 1793613380.2069228,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793609917.617941,
     "5575146754|Gold|4H|range_in": 1793321592.088542,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -135,7 +135,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793339558.4038467,
+    "GBP/USD|4H:top": 1793613382.5903618,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -152,17 +152,12 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793612448.761439
+    "USOIL|4H:bot": 1793612448.761439,
+    "DXY|1D:bot": 1793613383.7552438
   },
-  "last_analysis": 1793612760.677739,
-  "last_news": 1793613053.4318337,
+  "last_analysis": 1793613369.7134984,
+  "last_news": 1793613380.206111,
   "seen_news": [
-    "People in China are spending nearly as much of their income as Americans on heal",
-    "The Indian workers filming their work to train AI",
-    "China\u2019s top three airlines head for full-year losses as fuel costs weigh",
-    "China private factory PMI at 52.0 beats forecasts, output growth fastest since A",
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t con thuy\u1ec1n kh\u00f4ng ng\u01b0\u1eddi l\u00e1i, kh\u00f4ng c\u1ea7n n\u1ea1p nhi\u00ean li\u1ec7u li\u00ean t\u1ee5c di c",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
     "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash",
     "Gamble on democracy: Inside suspicious election-contracts trading on prediction ",
     "Why are more roofs not made of solar tiles?",
@@ -456,6 +451,12 @@
     "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
     "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
     "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
-    "Huy \u0111\u1ed9ng 210.000 t\u1ef7 \u0111\u1ed3ng x\u00e2y d\u1ef1ng s\u00e2n bay qu\u1ed1c t\u1ebf l\u1edbn g\u1ea5p 6,4 l\u1ea7n N\u1ed9i B\u00e0i, tr\u1edf t"
+    "Huy \u0111\u1ed9ng 210.000 t\u1ef7 \u0111\u1ed3ng x\u00e2y d\u1ef1ng s\u00e2n bay qu\u1ed1c t\u1ebf l\u1edbn g\u1ea5p 6,4 l\u1ea7n N\u1ed9i B\u00e0i, tr\u1edf t",
+    "LIC Housing Finance Q2 2027 Earnings Call Is Live - TradingView",
+    "Tech stocks have made big V-shaped rebounds five times in 30 months \u2014 and now De",
+    "Anthropic is AI trade's last big hope for a major IPO this year",
+    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
+    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan"
   ]
 }
