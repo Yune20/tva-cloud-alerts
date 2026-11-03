@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793665436.3343043,
-  "last_bot4": 1793673849.0078907,
+  "last_bot4": 1793674817.732962,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793673849.0077972
+    "Gold": 1793674817.7328584
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793674442.3110564,
+  "last_signals": 1793674817.733696,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793674153.5715666,
-  "last_news": 1793674442.309443,
+  "last_analysis": 1793674803.6027303,
+  "last_news": 1793674814.7555256,
   "seen_news": [
-    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance",
-    "Clarus Q2 Earnings Call Highlights - TradingView",
-    "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "The grads ditching the UK for a fresh start abroad",
-    "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
-    "Why Deutsche Bank says the AI dollar is here",
     "Prediction market traders now see nearly 75% chance of Democrats winning the Sen",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
@@ -457,6 +451,12 @@
     "Capital Southwest (NASDAQ:CSWC) beats Q3 CY2026 sales expectations - TradingView",
     "Fed will vote on rates less often. What that could mean for borrowers",
     "'An annoying buzz': The search for stealthier drones",
-    "Early bird Black Friday: Up to 55% off InvestingPro \u2013 the lowest price of the ye"
+    "Early bird Black Friday: Up to 55% off InvestingPro \u2013 the lowest price of the ye",
+    "South Korea's Lee calls for powerful government-wide cybersecurity body - Tradin",
+    "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+    "The Indian workers filming their work to train AI",
+    "Earnings beat, guidance raised: our AI-picked pharma stock is up 23.96%",
+    "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
+    "L\u00fd do \u0111\u01b0\u1ee3c h\u01b0\u1edfng b\u1ea3o hi\u1ec3m y t\u1ebf 100% v\u1eabn ph\u1ea3i tr\u1ea3 th\u00eam ti\u1ec1n"
   ]
 }
