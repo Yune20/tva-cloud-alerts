@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793736243.4710789,
+  "last_signals": 1793736916.2345626,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793736244.0217855,
+    "Bitcoin|1D:bot": 1793736917.132425,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793736551.5231707,
-  "last_news": 1793736243.4703918,
+  "last_analysis": 1793736907.5469909,
+  "last_news": 1793736916.2336378,
   "seen_news": [
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Inovio Wins FDA Accelerated Approval for VOCERYQ to Reduce RRP Surgery - Trading",
-    "Apple's quarter is not perfect. But with enough to like, we raised our price tar",
-    "The grads ditching the UK for a fresh start abroad",
-    "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
-    "S&P futures dip, Nasdaq futures higher ahead of U.S. midterms",
     "Apple shares slide as higher memory costs fuel margin concerns",
     "Nasdaq\u2019s worst month since March 2025 puts returns on AI spending in focus, says",
     "Vietlott 3/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Power 6/55 ng\u00e0y 3 th\u00e1ng 11",
@@ -457,6 +451,12 @@
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "Houthi Fighters Launch Ground Incursions Into Saudi Arabia",
     "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
-    "Crude oil trims losses as US strikes Iran's Qeshm Island while CIA Director call"
+    "Crude oil trims losses as US strikes Iran's Qeshm Island while CIA Director call",
+    "If you squint, the odds are improving slightly for Republican Senate control",
+    "M\u1ed9t doanh nghi\u1ec7p n\u1ee3 1,5 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng b\u1ea5t ng\u1edd kh\u00f4ng thanh to\u00e1n \u0111\u01b0\u1ee3c kho\u1ea3n vay, t",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "BMW lowers 2026 automotive EBIT margin outlook and deliveries - TradingView",
+    "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Rep",
+    "'An annoying buzz': The search for stealthier drones"
   ]
 }
