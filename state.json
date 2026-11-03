@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793703663.636709,
+  "last_signals": 1793704274.2053173,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -68,12 +68,12 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793703664.1240554,
+    "Bitcoin|1D:bot": 1793704274.6720142,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793703655.973468,
-  "last_news": 1793703663.635803,
+  "last_analysis": 1793704265.9864087,
+  "last_news": 1793704274.2043886,
   "seen_news": [
-    "Tr\u00e0o l\u01b0u ph\u01a1i n\u1eafng g\u00e2y ch\u00fa \u00fd, c\u00f3 ng\u01b0\u1eddi n\u00f3i \u0111\u1ee1 \u0111au x\u01b0\u01a1ng kh\u1edbp, tho\u00e1t v\u1ecb \u0111\u0129a \u0111\u1ec7m: ",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Capital Southwest (NASDAQ:CSWC) beats Q3 CY2026 sales expectations - TradingView",
-    "Fed will vote on rates less often. What that could mean for borrowers",
-    "'An annoying buzz': The search for stealthier drones",
-    "Early bird Black Friday: Up to 55% off InvestingPro \u2013 the lowest price of the ye",
     "South Korea's Lee calls for powerful government-wide cybersecurity body - Tradin",
     "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
     "The Indian workers filming their work to train AI",
@@ -457,6 +451,12 @@
     "Key facts: OCS advances Privosegtor; appoints Aaron Tansy - TradingView",
     "Oil has had a massive run, but a prominent bull sees a turning point on midterm ",
     "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters"
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "REG - HSBC Bank plc - Admission to Trading - TradingView",
+    "Thousands of Disney job cuts may be coming. Investors are asking what comes next",
+    "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion",
+    "Dollar subdued as U.S. midterms get underway; Aussie Hits 2-week low"
   ]
 }
