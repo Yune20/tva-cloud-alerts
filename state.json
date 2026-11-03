@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793731046.9087071,
-  "last_bot4": 1793739279.5522418,
+  "last_bot4": 1793739920.1948252,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793739584.6656675,
+  "last_signals": 1793739920.1954916,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -75,7 +75,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793739585.1820767,
+    "Bitcoin|1D:bot": 1793739921.139879,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793739276.752273,
-  "last_news": 1793739584.6648974,
+  "last_analysis": 1793739910.7975426,
+  "last_news": 1793739920.1938198,
   "seen_news": [
-    "V\u1ee5 clip nh\u1ea1y c\u1ea3m b\u1eaft ghen tr\u00ean \u00f4 t\u00f4: Lu\u1eadt s\u01b0 c\u1ea3nh b\u00e1o vi\u1ec7c \u0111\u0103ng t\u1ea3i, chia s\u1ebb c\u00f3 ",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Key facts: ETHUSD ETF Outflows Extend; Bitmine Stakes 5.23M ETH - TradingView",
-    "3 signs cash-strapped consumers are nearing a \u2018spend-pocalypse\u2019 that would hurt ",
-    "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
-    "How long will humans be needed for translation?",
     "Eaton Vance Municipal Income 2028 Term Trust declares $0.0782 dividend - Trading",
     "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
     "Santoli: AI bull market almost surely needs tech stocks to recover to keep advan",
@@ -457,6 +451,12 @@
     "AMD has been crushed into earnings. Here\u2019s one way to trade it",
     "The tech helping crack decades-old cold cases",
     "ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal",
-    "If gold breaks lower, investors may look at these safe haven currencies: analyst"
+    "If gold breaks lower, investors may look at these safe haven currencies: analyst",
+    "Con g\u00e1i Xu\u00e2n Lan 13 tu\u1ed5i \u0111\u00e3 cao 1,72m, ngo\u1ea1i h\u00ecnh chu\u1ea9n vedette t\u01b0\u01a1ng lai n\u1ed1i ng",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Marathon Makes Major $4.2 Billion Refinery Sale - TradingView",
+    "The next wave of luxury real estate: marina developments with yacht parking",
+    "Why Gen Z are planning for life without a state pension",
+    "Why Supplying Europe With LNG Has a Best-Before Date"
   ]
 }
