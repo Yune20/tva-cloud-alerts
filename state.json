@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793695651.3312063,
+  "last_signals": 1793696277.8754933,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -73,8 +73,8 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793695643.356654,
-  "last_news": 1793695651.3304691,
+  "last_analysis": 1793696269.8706884,
+  "last_news": 1793696277.8744078,
   "seen_news": [
-    "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
-    "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg ",
-    "US construction spending for the month of September -1.9% versus 0.3% estimate",
-    "C\u00f4ng an ki\u1ec3m tra 25 c\u00e1n b\u1ed9, gi\u00e1o vi\u00ean, nh\u00e2n vi\u00ean tr\u01b0\u1eddng h\u1ecdc",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "OpenAI taps former US army secretary Dan Driscoll for national security role",
     "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
     "Di\u1ec5n vi\u00ean 'M\u01b0a \u0111\u1ecf' \u0111\u00ednh ch\u00ednh",
@@ -457,6 +451,12 @@
     "Why is SalMar stock rallying today?",
     "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
     "Ninh B\u00ecnh \u0111\u1ea5u gi\u00e1 360 l\u00f4 \u0111\u1ea5t 'v\u00e0ng\u2019, gi\u00e1 kh\u1edfi \u0111i\u1ec3m cao nh\u1ea5t 95 tri\u1ec7u \u0111\u1ed3ng/m\u00b2",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
+    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan",
+    "M\u1ed9t t\u1ec9nh mi\u1ec1n Trung chu\u1ea9n b\u1ecb kh\u1edfi c\u00f4ng khu c\u00f4ng nghi\u1ec7p 52,5 tri\u1ec7u USD, quy m\u00f4 h\u01a1",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
+    "Hogs Fall Lower on Monday - TradingView",
+    "U.S. strikes Iran\u2019s Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with"
   ]
 }
