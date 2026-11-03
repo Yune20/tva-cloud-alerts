@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793692853.2892742,
+  "last_signals": 1793693465.9920888,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -79,20 +79,20 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793693730,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793692842.137147,
-  "last_news": 1793692853.2884505,
+  "last_analysis": 1793693458.2135258,
+  "last_news": 1793693465.9911404,
   "seen_news": [
-    "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-    "Christmas donations gift demand up, charities say",
-    "Germany Misses Gas Storage Target as Prices Soar",
-    "Automakers back US rollback of fuel economy rules",
-    "Pershing Square says Big Tech\u2019s $740 billion capex is offensive, not defensive",
-    "S\u1ef1 c\u1ed1 nghi \u0111i\u1ec7n gi\u1eadt t\u1ea1i b\u1ec3 b\u01a1i kh\u00e1ch s\u1ea1n 5 sao \u1edf \u1ea4n \u0110\u1ed9 khi\u1ebfn 2 du kh\u00e1ch t\u1eed vong",
     "New York reports first measles-linked child death in over 30 years amid outbreak",
     "US to host second Ukraine-Russia trilateral talks in Abu Dhabi on November 10 to",
     "C\u1eadn c\u1ea3nh c\u00f4ng vi\u00ean g\u1ea7n 100 t\u1ef7 \u0111\u1ed3ng \u1edf trung t\u00e2m t\u1ec9nh L\u00e0o Cai s\u1eafp h\u00ecnh th\u00e0nh",
@@ -457,6 +451,12 @@
     "Public venues offer tea and warm welcome in winter",
     "Jefferies downgrades Fuchs to hold as pricing tailwinds face normalisation risks",
     "investingLive Americas FX news wrap 2 Nov: It\u2019s a wrap: AI selling overwhelms oi",
-    "\u0110\u1ec1 xu\u1ea5t cho ph\u00e9p b\u1ec7nh vi\u1ec7n d\u00f9ng b\u1eb1ng s\u00e1ng ch\u1ebf l\u00e0m t\u00e0i s\u1ea3n th\u1ebf ch\u1ea5p vay v\u1ed1n"
+    "\u0110\u1ec1 xu\u1ea5t cho ph\u00e9p b\u1ec7nh vi\u1ec7n d\u00f9ng b\u1eb1ng s\u00e1ng ch\u1ebf l\u00e0m t\u00e0i s\u1ea3n th\u1ebf ch\u1ea5p vay v\u1ed1n",
+    "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "NAPCO Security Technologies Q1 Earnings Call Highlights - TradingView",
+    "Wall Street's Fear Index is doing something strange. Here's what it means for st",
+    "The AI telling farmers when to harvest",
+    "Virgin Media O2 cuts jobs and pauses fibre rollout",
+    "Swiss inflation surprises higher in October but core prices offer some relief"
   ]
 }
