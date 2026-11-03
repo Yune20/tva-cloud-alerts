@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793731046.9087071,
-  "last_bot4": 1793732443.1000748,
+  "last_bot4": 1793733121.7860832,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793732782.490386,
+  "last_signals": 1793733121.7870612,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -72,13 +72,13 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793732783.0864363,
+    "Bitcoin|1D:bot": 1793733123.3824768,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793732774.7284114,
-  "last_news": 1793732782.4894156,
+  "last_analysis": 1793733113.5713296,
+  "last_news": 1793733121.7850764,
   "seen_news": [
-    "What analysts are saying as Apple\u2019s stock falls after earnings report",
-    "Baked by Melissa enters Target with first at-home cupcake mix",
-    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
-    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-    "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
     "Ryanair says it may freeze workers' pay and raise airfares",
     "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
     "Sterling today: Pound edges up as dollar eases, BoE hike in view",
@@ -457,6 +451,12 @@
     "California Resources Q3 2026 Earnings Call Is Live - TradingView",
     "My wife and I have no kids and a 99% chance of outliving our life savings. Why n",
     "Sullivan: What the 2026 midterms could mean for energy investors",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?"
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "261 m\u00e1y bay mang qu\u1ed1c t\u1ecbch Vi\u1ec7t Nam \u0111ang n\u1eb1m trong tay ai?",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Worldwide Healthcare Trust PLC Buys 2,365,270 Shares at 390.31p - TradingView",
+    "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
+    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    "Shopify faces pressure to prove holiday spending can deliver stronger growth"
   ]
 }
