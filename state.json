@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793730430.1841497,
+  "last_signals": 1793730755.1686246,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -73,7 +73,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793730431.5793848,
+    "Bitcoin|1D:bot": 1793730756.125753,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793730417.899058,
-  "last_news": 1793730430.1823108,
+  "last_analysis": 1793730745.5335138,
+  "last_news": 1793730755.1677067,
   "seen_news": [
-    "Apple and Palantir shares slide in premarket trading following post-bell earning",
-    "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "Why is Palantir Technologies stock sliding today?",
-    "Gold trims gains after overnight strikes on Iran as the focus turns to the US mi",
-    "Ch\u1ee7 t\u1ecbch Viettel T\u00e0o \u0110\u1ee9c Th\u1eafng n\u00f3i g\u00ec v\u1ec1 con chip b\u1ea3o m\u1eadt \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam?",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
     "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
     "Asia shares bend under AI stress; Apple earnings loom - TradingView",
     "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
@@ -457,6 +451,12 @@
     "S\u0129 quan qu\u00e2n \u0111\u1ed9i ngh\u1ec9 h\u01b0u r\u1ebd h\u01b0\u1edbng kinh doanh, tu\u1ed5i U80 v\u1eabn \u0111i\u1ec1u h\u00e0nh doanh nghi",
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
     "JP Morgan maintains Fox at Overweight, raises price target to $83 from $82 - Tra",
-    "Ghosted after a job interview? There's a website for that\u2014and thousands of frust"
+    "Ghosted after a job interview? There's a website for that\u2014and thousands of frust",
+    "H\u1ebft th\u1eddi \"qu\u1ea7n l\u00e0 \u00e1o l\u01b0\u1ee3t\", m\u00f4i gi\u1edbi B\u0110S v\u1eeba ch\u1ea1y taxi, v\u1eeba ch\u00e0o kh\u00e1ch mua \u0111\u1ea5t, ",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "FuelCell Energy Secures EXIM Funding to Expand South Korea Presence - TradingVie",
+    "Once election results are in, here\u2019s what investors should focus on next",
+    "Trump midterm election lawsuits, state pushback come to a head Tuesday",
+    "My hometown shows that high streets have to change or die"
   ]
 }
