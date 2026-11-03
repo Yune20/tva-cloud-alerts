@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793701822.4609325,
+  "last_signals": 1793702438.5691261,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -68,10 +68,10 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -90,7 +90,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793701823.4390206,
+    "Bitcoin|1D:bot": 1793702439.04969,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793701810.5402932,
-  "last_news": 1793701822.4600027,
+  "last_analysis": 1793702430.091866,
+  "last_news": 1793702438.5681684,
   "seen_news": [
-    "The Dow Jones Index Closes 0.46% Higher - TradingView",
-    "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "Blackstone president says more tech sector fundraising ahead to keep up with AI ",
-    "More on US strikes on Qeshm: officials confirm attack as Trump plays down war ri",
-    "Trung Qu\u1ed1c cho m\u00e1y bay t\u00e0ng h\u00ecnh c\u1ea5t/h\u1ea1 c\u00e1nh t\u1eeb t\u00e0u chi\u1ebfn",
     "What we know about Binance's $6.3bn hack",
     "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
     "Following the money: the playbook behind the $6.3bn Binance heist and a suspecte",
@@ -457,6 +451,12 @@
     "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
     "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
     "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-    "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%"
+    "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
+    "Ryanair says it may freeze workers' pay and raise airfares",
+    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
+    "Sterling today: Pound edges up as dollar eases, BoE hike in view",
+    "US construction spending for the month of September -1.9% versus 0.3% estimate",
+    "V\u1ee5 t\u00e0i x\u1ebf gh\u00e9 qu\u00e1n \u0103n c\u01a1m b\u00ecnh d\u00e2n h\u1ebft 640.000 \u0111\u1ed3ng: \u0110\u00e3 c\u00f3 m\u1ee9c ph\u1ea1t cho ch\u1ee7 qu\u00e1n",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance"
   ]
 }
