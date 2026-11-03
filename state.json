@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793687252.8168933,
-  "last_bot4": 1793689102.5911639,
+  "last_bot4": 1793689785.191945,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793689435.6585183,
+  "last_signals": 1793689785.1927576,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793689425.3396442,
-  "last_news": 1793689435.6315289,
+  "last_analysis": 1793689777.9114707,
+  "last_news": 1793689785.1911116,
   "seen_news": [
-    "ETF Strategies to Fight Rising Rates - TradingView",
-    "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 bill",
-    "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-    "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated",
-    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-    "Goldman: Don\u2019t try to time the S&P 500 top as EPS growth seen slowing to 11%",
     "AI is coming to construction sites. But does it make workers safer?",
     "Shop freezers in seven European countries hit by cyber-attack",
     "Brazil's Data Center Boom Faces a 14-GW Reality Check",
@@ -457,6 +451,12 @@
     "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
     "Clarus Q2 Earnings Call Highlights - TradingView",
     "Supreme Court rejects DOJ's bid to block California from counting disputed ballo",
-    "Binance users withdraw $3.6bn after largest-ever crypto hack"
+    "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "\u0110\u1ea1i t\u00e1 B\u00f9i \u0110\u1ea1i H\u1ea3i gi\u1eef ch\u1ee9c Ch\u00ednh \u1ee7y B\u1ed9 T\u01b0 l\u1ec7nh V\u00f9ng C\u1ea3nh s\u00e1t bi\u1ec3n 4",
+    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
+    "Weekly Recap: Insurance divestitures and $302 million catastrophe losses - Tradi",
+    "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,",
+    "Why are more roofs not made of solar tiles?",
+    "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply"
   ]
 }
