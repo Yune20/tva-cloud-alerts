@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793722389.7757912,
+  "last_signals": 1793723000.692144,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -69,10 +69,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793722390.2573833,
+    "Bitcoin|1D:bot": 1793723001.180607,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,17 +153,11 @@
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793722390.5440843
+    "US30|4H:bot": 1793723001.5451121
   },
   "last_analysis": 1793722703.2376428,
-  "last_news": 1793722389.7747784,
+  "last_news": 1793723000.6913197,
   "seen_news": [
-    "From Levi's to Primark - the fashion chains selling mended clothes",
-    "Asia stocks fall as Apple outlook weighs; RBA raises rates to 18-yr high",
-    "What are the main events for today?",
-    "T\u1eeb ng\u00e0y 15/11, t\u1ed5 ch\u1ee9c n\u01b0\u1edbc ngo\u00e0i mu\u1ed1n tuy\u1ec3n ng\u01b0\u1eddi Vi\u1ec7t Nam ph\u1ea3i l\u00e0m m\u1ed9t vi\u1ec7c",
-    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
-    "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
     "Germany retail sales slump in September as consumer weakness adds to ECB's heada",
     "30 T\u1eadp \u0111o\u00e0n Vi\u1ec7t Nam n\u1eafm 4,29 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng t\u00e0i s\u1ea3n, t\u1ea1o vi\u1ec7c l\u00e0m cho 560.000 la",
     "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp - VietstockFinance",
@@ -457,6 +451,12 @@
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
     "Massimo Group (MAMO) Launches Two UTVs; Estimates Preorders Above 100 Units - Tr",
     "It\u2019s finally Election Day \u2014 and prediction markets may show \u2018too much confidence",
-    "Job openings posted big September gain in positive sign for labor market ahead o"
+    "Job openings posted big September gain in positive sign for labor market ahead o",
+    "US September factory orders +1.8% vs +1.2% expected",
+    "\u00d4ng Trump h\u00e0nh \u0111\u1ed9ng d\u1ee9t kho\u00e1t nh\u1eafm v\u00e0o \u0111\u1ed3ng minh Israel ngay tr\u01b0\u1edbc gi\u1edd b\u1ea7u c\u1eed",
+    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
+    "Kimberly-Clark Corporation (KMB) Reports Final Results for Kenvue Note Exchange ",
+    "Crude oil prices fall for second day as market hopes for diplomatic resolution t",
+    "Poundland's former owner offers to invest as minister prepares to meet board"
   ]
 }
