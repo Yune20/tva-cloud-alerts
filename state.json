@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793665436.3343043,
-  "last_bot4": 1793667944.726999,
+  "last_bot4": 1793668610.9887297,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793667284.839423
+    "Gold": 1793668610.988623
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793667944.7277799,
+  "last_signals": 1793668610.9894605,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -67,7 +67,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
@@ -79,19 +79,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793667935.92929,
-  "last_news": 1793667944.7259903,
+  "last_analysis": 1793668561.6691186,
+  "last_news": 1793668588.319836,
   "seen_news": [
-    "Shops looted as German cost-of-living protests turn violent",
-    "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
-    "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
-    "Germany retail sales slump in September as consumer weakness adds to ECB's heada",
-    "N\u00f3ng: H\u00f4m nay 3/11, con chip v\u00e0 n\u1ec1n t\u1ea3ng b\u00e1n d\u1eabn b\u1ea3o m\u1eadt \u201cMake in Vi\u1ec7t Nam\u201d \u0111\u1ea7u ",
-    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance",
     "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
     "US midterms 2026: Is Trump about to lose his grip on Congress?",
     "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra n\u1ebfu ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 giao d\u1ecbch nh\u1eadn v\u00e0 chuy\u1ec3",
@@ -457,6 +451,12 @@
     "M\u00e1y l\u00e0m \u0111\u00e1 PEMIC cam k\u1ebft \u0111\u1ea1t s\u1ea3n l\u01b0\u1ee3ng theo c\u00f4ng b\u1ed1",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
     "Asia shares bend under AI stress; Apple earnings loom - TradingView",
-    "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter"
+    "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
+    "AI Earnings: 3 Reports to Watch This Week - TradingView",
+    "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Bid",
+    "North Korea denies being behind record $6.3bn Binance hack",
+    "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
+    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
+    "Iran talks stall as reported US strike and CIA advice undercut oil\u2019s 4% deal-hop"
   ]
 }
