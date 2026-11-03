@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793738639.4699397,
+  "last_signals": 1793738966.905854,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793738640.672762,
+    "Bitcoin|1D:bot": 1793738967.3828938,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793738623.538604,
-  "last_news": 1793738639.4684772,
+  "last_analysis": 1793738958.8022501,
+  "last_news": 1793738966.9049513,
   "seen_news": [
-    "11 bargain-priced stocks of companies that have huge growth potential over the n",
-    "Versant earnings beat expectations as digital platforms drive growth",
-    "The tech helping crack decades-old cold cases",
-    "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
-    "If gold breaks lower, investors may look at these safe haven currencies: analyst",
-    "Apple and Palantir beat earnings. Why did both stocks fall?",
     "Centrica shares jump 2% as Jefferies sees overlooked business growth",
     "More: RBA lifts cash rate to 4.85% in split 6-3 vote, sees inflation above 3% un",
     "Nam ngh\u1ec7 s\u0129 SN 1970 r\u1eddi M\u1ef9 v\u1ec1 n\u01b0\u1edbc: 42 tu\u1ed5i nh\u1eadn qu\u1ed1c t\u1ecbch Vi\u1ec7t Nam, U60 vi\u00ean m\u00e3",
@@ -457,6 +451,12 @@
     "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
     "Sau khi ngh\u1ec9 h\u01b0u, nhi\u1ec1u ng\u01b0\u1eddi Trung Qu\u1ed1c r\u1ee7 nhau l\u00e0m 1 vi\u1ec7c r\u1ea5t l\u1ea1: \u0110i du l\u1ecbch c",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "Palantir Stocks Slide 6.19% Despite Nearly Doubling AI Revenue - TradingView"
+    "Palantir Stocks Slide 6.19% Despite Nearly Doubling AI Revenue - TradingView",
+    "Nh\u00ecn \u0111\u1ea1i m\u1ef9 nh\u00e2n SN 1996 m\u1ed9t l\u1ea7n \"h\u1edf b\u1ea1o\" \u0111\u1ec3 th\u1ea5y th\u1ebf n\u00e0o l\u00e0 s\u1ee9c h\u00fat c\u1ee7a n\u1eef th\u1ea7n",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "RKLB Q3'26 Earnings: revenue estimate is 257.19M USD - TradingView",
+    "The internet is \u2018dying\u2019: AI is eating it and obliterating these business models",
+    "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
+    "US tech stocks see sharp falls as AI spending nears $1tn"
   ]
 }
