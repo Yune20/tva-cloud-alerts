@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793731730.3062441,
+  "last_signals": 1793732100.8568313,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -89,7 +89,7 @@
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793731731.0309782,
+    "Bitcoin|1D:bot": 1793732101.7328742,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793731721.7787807,
-  "last_news": 1793731730.3045473,
+  "last_analysis": 1793732091.9044368,
+  "last_news": 1793732100.8560133,
   "seen_news": [
-    "Alzinova (ALZ) Submits US Ethics Application for Planned Phase 2a Study - Tradin",
-    "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Central Asia\u2019s Power Grid Faces a Major Test as Winter Approaches",
-    "Why is Truecaller stock plunging today?",
-    "Iran talks stall as reported US strike and CIA advice undercut oil\u2019s 4% deal-hop",
     "Google\u2019s use of press by AI chatbot may infringe copyright rules, EU court advis",
     "Ethereum consolidates as focus shifts to US midterm elections while US-Iran nego",
     "Ng\u00e0y 3/11, g\u1eedi 200 tri\u1ec7u \u0111\u1ed3ng k\u1ef3 h\u1ea1n 12 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
@@ -457,6 +451,12 @@
     "Why is Weyerhaeuser stock sliding today?",
     "Gold trims gains after overnight strikes on Iran as the focus turns to the US mi",
     "Vi\u1ec7t Nam c\u00f3 1 c\u00f4ng tr\u00ecnh lot top \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi, \u0111\u01b0\u1ee3c Oscar du l\u1ecbch vinh danh",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance"
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "Supermarket fridges hit with cyberattacks across Europe \u2014 here's what's happenin",
+    "Drivers may get compensation offers before car finance saga ends",
+    "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
+    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
+    "investingLive Asia-Pacific market news: RBA hikes to 18-year high",
+    "Bu\u1ed3n c\u1ee7a c\u1ed5 \u0111\u00f4ng FPT, Masan Consumer, SSI: H\u00e0ng ch\u1ee5c ngh\u00ecn t\u1ef7 v\u1ed1n h\u00f3a \"bay h\u01a1i\" "
   ]
 }
