@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793692238.529144,
+  "last_signals": 1793692853.2892742,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -89,7 +89,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -129,7 +129,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793692239.2406116,
+    "Bitcoin|4H:bot": 1793692854.009635,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793692239.2406242,
+    "Bitcoin|1D:bot": 1793692854.0096574,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793692228.5270917,
-  "last_news": 1793692238.5283372,
+  "last_analysis": 1793692842.137147,
+  "last_news": 1793692853.2884505,
   "seen_news": [
-    "Weekly Recap: Q3 earnings growth and El Dorado Savings Bank deal - TradingView",
-    "Wall Street's Fear Index is doing something strange. Here's what it means for st",
-    "The AI telling farmers when to harvest",
-    "Ukraine Has Hit Three Russian Refineries Since Friday",
-    "Grab Holdings boosts 2026 forecasts on strong delivery, ride-hailing demand",
-    "Economic and event calendar in Asia 03 November 2026 - RBA rate hike expected",
     "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
     "Christmas donations gift demand up, charities say",
     "Germany Misses Gas Storage Target as Prices Soar",
@@ -457,6 +451,12 @@
     "FX option expiries for 3 November 10am New York cut",
     "Coteccons chi h\u01a1n 33 t\u1ef7 \u0111\u1ed3ng mua c\u00f4ng ty qu\u1ea3ng c\u00e1o c\u1ee7a Ph\u00f3 T\u1ed5ng Gi\u00e1m \u0111\u1ed1c Nguy\u1ec5n ",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "Hacksaw AB (publ) (HACK) Names Philippa Gregory Operational CEO of Hacksaw Gamin"
+    "Hacksaw AB (publ) (HACK) Names Philippa Gregory Operational CEO of Hacksaw Gamin",
+    "Marvell and Lumentum shareholders unite in panning merger deal: \u2018It\u2019s a trash of",
+    "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-m",
+    "Public venues offer tea and warm welcome in winter",
+    "Jefferies downgrades Fuchs to hold as pricing tailwinds face normalisation risks",
+    "investingLive Americas FX news wrap 2 Nov: It\u2019s a wrap: AI selling overwhelms oi",
+    "\u0110\u1ec1 xu\u1ea5t cho ph\u00e9p b\u1ec7nh vi\u1ec7n d\u00f9ng b\u1eb1ng s\u00e1ng ch\u1ebf l\u00e0m t\u00e0i s\u1ea3n th\u1ebf ch\u1ea5p vay v\u1ed1n"
   ]
 }
