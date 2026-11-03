@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793700586.545976,
+  "last_signals": 1793701202.7408996,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -80,15 +80,15 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793700587.50549,
+    "Bitcoin|1D:bot": 1793701203.8007686,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793700577.4578803,
-  "last_news": 1793700586.5450401,
+  "last_analysis": 1793701195.8817894,
+  "last_news": 1793701202.740117,
   "seen_news": [
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
-    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-    "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
-    "V\u00e0ng, b\u1ea1c b\u1ecb b\u00e1n th\u00e1o - chuy\u00ean gia 25 n\u0103m kinh nghi\u1ec7m l\u1ea1i g\u1ecdi \u0111\u00e2y l\u00e0 'c\u01a1 h\u1ed9i c\u1ee7a",
-    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "Thu nh\u1eadp 35 tri\u1ec7u/th\u00e1ng, ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c 500 tri\u1ec7u, v\u1ee3 ch\u1ed3ng tr\u1ebb \u1edf H\u00e0 N\u1ed9i mu\u1ed1n mu",
     "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
     "Virtu Financial Q2 Earnings Call Highlights - TradingView",
@@ -457,6 +451,12 @@
     "Ng\u00e0y 3/11, g\u1eedi 200 tri\u1ec7u \u0111\u1ed3ng k\u1ef3 h\u1ea1n 12 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
     "Convatec Group Appoints Jill McConnell As CFO Effective March 1, 2027 - TradingV",
-    "Motivational speaker Mel Robbins\u2019 real estate journey from a Massachusetts farmh"
+    "Motivational speaker Mel Robbins\u2019 real estate journey from a Massachusetts farmh",
+    "Oracle set to price $10 billion share sale at reported 11% discount",
+    "\u0102n 1 b\u00e1t c\u01a1m ngu\u1ed9i, nam sinh 17 tu\u1ed5i nh\u1eadp vi\u1ec7n c\u1ea5p c\u1ee9u d\u00f9 c\u01a1m ch\u01b0a h\u1ecfng, th\u1ee7 ph\u1ea1",
+    "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
+    "Key facts: CoreWeave Hits 52-Week Low; Expands CrowdStrike Partnership - Trading",
+    "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+    "No more washing up: How Airbnb's new house rules have divided hosts and guests"
   ]
 }
