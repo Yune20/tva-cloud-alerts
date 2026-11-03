@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793682673.642347,
+  "last_signals": 1793683283.5973213,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
-    "5575146754|Gold|4H|range_in": 1793627423.014668,
+    "5575146754|Gold|4H|range_in": 1793683283.5973213,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
@@ -65,7 +65,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793682674.1553628,
+    "Bitcoin|1D:bot": 1793683284.0346205,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793682662.5926697,
-  "last_news": 1793682670.6155167,
+  "last_analysis": 1793683275.2085223,
+  "last_news": 1793683283.5964265,
   "seen_news": [
-    "Living with a stink? Technology might help",
-    "Exclusive-Veteran US proxy solicitors launch new firm Senpoint Partners",
-    "AUDUSD trades to a new low and looks to test a swing area target",
-    "Th\u00f3t tim v\u1edbi c\u1ea3nh gh\u1ebf \u0111\u00e1 b\u1eadt ng\u1eeda \u0111\u00e8 l\u00ean 2 b\u00e9 trai: Ng\u01b0\u1eddi l\u1edbn \u1edf ngay g\u1ea7n v\u1eabn kh\u00f4",
-    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
-    "Gold Rises from One-Year Low - TradingView",
     "Trump's $350 Billion Defense Gamble Has a $290 Billion Problem - TradingView",
     "Want to help your adult kids and grandkids? Give them money while you\u2019re still a",
     "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect ne",
@@ -457,6 +451,12 @@
     "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
     "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
     "Trump\u2019s Trillion-Dollar Oil Play: A Trap For Big Oil?",
-    "Reddit blasts Australia\u2019s \u2019inept\u2019 social media ban as court challenge begins"
+    "Reddit blasts Australia\u2019s \u2019inept\u2019 social media ban as court challenge begins",
+    "Palantir earnings reveal a major AI turning point",
+    "Palantir reports booming U.S. commercial revenue growth, topping government for ",
+    "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North",
+    "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
+    "Apple earnings beat fails to impress Wall Street as tech shares struggle ahead o",
+    "L\u1eddi khuy\u00ean cho nh\u1eefng ng\u01b0\u1eddi th\u00edch \u0103n cam"
   ]
 }
