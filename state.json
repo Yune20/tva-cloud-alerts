@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793709212.8408797,
-  "last_bot4": 1793712295.7895043,
+  "last_bot4": 1793718293.917665,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793712295.7893796
+    "Gold": 1793718293.9176009
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793712592.471371,
+  "last_signals": 1793718293.9183037,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -70,14 +70,14 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
-    "US30|1H": true,
-    "US30|4H": true,
+    "US30|1H": false,
+    "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
@@ -85,15 +85,15 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": true,
-    "JPY Index|1H": true,
+    "DXY|1D": false,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793713163,
   "menu_prices": {
@@ -145,25 +145,19 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793712593.646378,
+    "Bitcoin|1D:bot": 1793718294.4333203,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793626806.195451,
+    "USOIL|4H:bot": 1793718294.2604914,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793712292.5284598,
-  "last_news": 1793712592.470532,
+  "last_analysis": 1793718281.6983728,
+  "last_news": 1793718290.613926,
   "seen_news": [
-    "Palantir earnings reveal a major AI turning point",
-    "Palantir reports booming U.S. commercial revenue growth, topping government for ",
-    "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North",
-    "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
-    "Apple earnings beat fails to impress Wall Street as tech shares struggle ahead o",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng ng\u01b0\u1eddi th\u00edch \u0103n cam",
     "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
     "Australian, Chinese airline stocks jump as oil prices plunge more than 7%",
     "RBA\u2019s Bullock offers no guidance, says it is probably good to wait for data afte",
@@ -457,6 +451,12 @@
     "AMD gets bullish pre-earnings call from Lynx as server CPU demand accelerates",
     "Squeezing the Lemon: Why Brokers' Growth Is Already in Their Systems",
     "B\u00ed m\u1eadt Qu\u00e2n A.P - L\u00ea Khanh gi\u1ea5u k\u00edn 14 n\u0103m b\u1ecb b\u1ea1i l\u1ed9",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Learning from \u2018Love Is Blind\u2019 money drama",
+    "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first",
+    "Proposal for free bus service scrapped",
+    "U.S. Launches Secret Strikes on Iran Ahead of Midterm Elections",
+    "Treasury yields edge up as Election Day meets JOLTS, refunding",
+    "Trump on Israel: The aid gets cut off at year-end"
   ]
 }
