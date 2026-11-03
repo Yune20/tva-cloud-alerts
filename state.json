@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793720084.0575888,
-  "last_bot4": 1793727772.8116443,
+  "last_bot4": 1793728431.240808,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793727106.940573
+    "Gold": 1793728431.240707
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793728094.8666027,
+  "last_signals": 1793728431.241611,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -75,7 +75,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793728095.431074,
+    "Bitcoin|1D:bot": 1793728432.2166378,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793728086.0099509,
-  "last_news": 1793728094.865707,
+  "last_analysis": 1793728416.889148,
+  "last_news": 1793728427.9723487,
   "seen_news": [
-    "UBS downgrades adidas to sell as footwear slowdown threatens 2027 growth",
-    "China private factory PMI at 52.0 beats forecasts, output growth fastest since A",
-    "Phan \u0110\u0103ng Nh\u1eadt Minh - Nh\u00e0 v\u00f4 \u0111\u1ecbch \u0111\u01b0\u1ee3c xem l\u00e0 \"m\u1ea1nh nh\u1ea5t\" l\u1ecbch s\u1eed Olympia!",
-    "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
-    "FuelCell Energy Secures EXIM Funding to Expand South Korea Presence - TradingVie",
-    "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
     "Don't get caught out by new Buy Now Pay Later rules",
     "Germany Misses Gas Storage Target as Prices Soar",
     "Why is SalMar stock rallying today?",
@@ -457,6 +451,12 @@
     "The Vanguard Group, Inc. Files DCC Takeover Disclosure - TradingView",
     "We're trimming some more off a stock that's enjoying nice post-earnings gains",
     "Rainmakers: The drones used to seed clouds",
-    "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says"
+    "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "US Job Openings Beat Forecasts - TradingView",
+    "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB F",
+    "The AI telling farmers when to harvest",
+    "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
+    "Setback for Google as EU court adviser sides with publishers against AI chatbot"
   ]
 }
