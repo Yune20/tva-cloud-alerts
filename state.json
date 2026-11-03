@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793670422.9274583,
+  "last_signals": 1793671037.7759888,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793670414.8954186,
-  "last_news": 1793670422.9265883,
+  "last_analysis": 1793671027.870007,
+  "last_news": 1793671037.7751455,
   "seen_news": [
-    "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. mi",
-    "My hometown shows that high streets have to change or die",
-    "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
-    "Snap settles with two teens during trial testing claims social media caused depr",
-    "Bitcoin rebounds after the Binance hack driven selloff as US-Iran deal hopes imp",
-    "Tether b\u1ea5t ng\u1edd gi\u1ea3m n\u1eafm gi\u1eef v\u00e0ng l\u1ea7n \u0111\u1ea7u sau g\u1ea7n 3 n\u0103m, nh\u01b0ng m\u1ed9t \u201ckho v\u00e0ng\u201d kh\u00e1",
     "Ryanair says it may freeze workers' pay and raise airfares",
     "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd",
     "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News rep",
@@ -457,6 +451,12 @@
     "Jazz Pharmaceuticals Q3 2026 Earnings Call Is Live - TradingView",
     "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with M",
     "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040"
+    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
+    "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+    "RBA set for fifth hike of 2026 to 4.85%: three views on what comes next",
+    "Phim H\u00e0n v\u1eeba chi\u1ebfm s\u00f3ng top 1 Vi\u1ec7t Nam, khi\u1ebfn to\u00e0n c\u1ea7u chao \u0111\u1ea3o: Nam ch\u00ednh l\u00e0 qu",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance"
   ]
 }
