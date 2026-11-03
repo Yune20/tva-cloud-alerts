@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793691009.2044537,
+  "last_signals": 1793691626.3198776,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -89,7 +89,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -129,7 +129,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793691009.658919,
+    "Bitcoin|4H:bot": 1793691627.0875435,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793691009.658939,
+    "Bitcoin|1D:bot": 1793691627.0875597,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793690999.3495607,
-  "last_news": 1793691009.2035165,
+  "last_analysis": 1793691617.0263932,
+  "last_news": 1793691626.3190536,
   "seen_news": [
-    "Yorkshire Water boss resigns after firm downgraded",
-    "Factbox-Six things to watch as US voters decide control of Congress",
-    "investingLive Americas FX news wrap 2 Nov: It\u2019s a wrap: AI selling overwhelms oi",
-    "4 con gi\u00e1p c\u00f3 v\u1eadn tr\u00ecnh hanh th\u00f4ng, t\u00e0i l\u1ed9c \u0111\u1ee7 \u0111\u1ea7y nh\u1ea5t trong tu\u1ea7n m\u1edbi t\u1eeb 2/11 -",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "Germany's INIT cuts 2026 EBIT forecast as Q3 profit drops - TradingView",
     "L\u1ea7n \u0111\u1ea7u ti\u00ean Vi\u1ec7t Nam t\u1ef1 tay x\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh g\u1ea7n 12.000 t\u1ef7 \u0111\u1ed3ng n\u1eb1m s\u00e2u tron",
     "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "Key facts: OCS advances Privosegtor; appoints Aaron Tansy - TradingView",
@@ -457,6 +451,12 @@
     "ETF Strategies to Fight Rising Rates - TradingView",
     "Kalshi valuation jumps to $40 billion in latest funding round",
     "Shop freezers in seven European countries hit by cyber-attack",
-    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip"
+    "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+    "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
+    "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare f",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens",
+    "HFM Brings a New Trading Experience to The Trading Festival Mexico 2026",
+    "L\u1eddi khuy\u00ean cho nh\u1eefng ng\u01b0\u1eddi th\u00edch \u0103n c\u00e1 kh\u00f4"
   ]
 }
