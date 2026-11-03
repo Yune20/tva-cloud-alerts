@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793720084.0575888,
-  "last_bot4": 1793719776.5855227,
+  "last_bot4": 1793720690.1750467,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793719776.5854275
+    "Gold": 1793720690.1749825
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793720084.058734,
+  "last_signals": 1793720690.1760552,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -70,19 +70,19 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -145,26 +145,20 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793720084.5888429,
+    "Bitcoin|1D:bot": 1793720690.6581419,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793720084.4199588,
+    "USOIL|4H:bot": 1793720690.4787414,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793720084.9095778
+    "US30|4H:bot": 1793720691.0061443
   },
   "last_analysis": 1793720388.3664534,
-  "last_news": 1793720078.8895915,
+  "last_news": 1793720685.4153056,
   "seen_news": [
-    "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
-    "Christmas 2026 stamps unveiled by Royal Mail",
-    "4 Energy Stocks for Midterm Elections That Could Go Either Way",
-    "Big-ticket tech deals need to keep pace with AI boom but risks remain high, fina",
-    "RBA governor Bullock says it might be that this rate hike might not be enough",
-    "Gi\u00e1 v\u00e0ng b\u1ea1c 3/11 ti\u1ebfp t\u1ee5c t\u0103ng m\u1ea1nh: Doji, Ph\u00fa Qu\u00fd, SJC, BTMH \u0111\u1ed3ng lo\u1ea1t \"l\u1ea5y l\u1ea1",
     "Why is Lenovo stock sliding today?",
     "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
     "\u0110i\u00eau Thuy\u1ec1n c\u00f3 th\u1ef1c s\u1ef1 t\u1ed3n t\u1ea1i?",
@@ -458,6 +452,12 @@
     "Gold Rises from One-Year Low - TradingView",
     "This indicator has triggered just 5 times since 2000 \u2014 and it warns of a trap fo",
     "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-    "Asda hires ex-Morrisons boss in bid to grow firm"
+    "Asda hires ex-Morrisons boss in bid to grow firm",
+    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
+    "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into an",
+    "Disney plans several thousand layoffs, asks some managers to cut costs by up to ",
+    "Living with a stink? Technology might help",
+    "Brent Flash Crashes $6 Before Rebounding Towards $104",
+    "Treasuries steady as traders weigh midterm vote and AI trade"
   ]
 }
