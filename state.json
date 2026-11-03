@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793676400.2660909,
-  "last_bot4": 1793681989.1307108,
+  "last_bot4": 1793682673.6416068,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793681377.1017547
+    "Gold": 1793682673.6415122
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793682306.4264665,
+  "last_signals": 1793682673.642347,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793682306.8823097,
+    "Bitcoin|1D:bot": 1793682674.1553628,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793682298.779224,
-  "last_news": 1793682306.4256377,
+  "last_analysis": 1793682662.5926697,
+  "last_news": 1793682670.6155167,
   "seen_news": [
-    "Palantir earnings reveal a major AI turning point",
-    "Palantir reports booming U.S. commercial revenue growth, topping government for ",
-    "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North",
-    "Bernstein names stocks to buy as data centre political risks appear overstated",
-    "Apple and Palantir earnings preview: The numbers buyers and sellers will be watc",
-    "C\u00e1i gi\u00e1 \u0111\u1eaft \u0111\u1ecf c\u1ee7a nh\u1eefng si\u00eau d\u1ef1 \u00e1n B\u0110S: Ph\u00e1t \u0110\u1ea1t vay g\u1ea7n 9.000 t\u1ef7 \u0111\u1ed3ng th\u01b0\u01a1ng v",
     "Living with a stink? Technology might help",
     "Exclusive-Veteran US proxy solicitors launch new firm Senpoint Partners",
     "AUDUSD trades to a new low and looks to test a swing area target",
@@ -457,6 +451,12 @@
     "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
     "IXIC: Nasdaq Futures Rebound with Apple Earnings, US Midterm Elections Ahead - T",
     "Trump focuses on Reflecting Pool in final public speech before midterms",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?"
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
+    "Brutal AI selloff stirs recession fears: McGeever - TradingView",
+    "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
+    "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "Trump\u2019s Trillion-Dollar Oil Play: A Trap For Big Oil?",
+    "Reddit blasts Australia\u2019s \u2019inept\u2019 social media ban as court challenge begins"
   ]
 }
