@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793731046.9087071,
-  "last_bot4": 1793737289.966686,
+  "last_bot4": 1793737984.0277584,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793736554.385886
+    "Gold": 1793737984.02766
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793737636.2383864,
+  "last_signals": 1793737984.028429,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793737636.7377498,
+    "Bitcoin|1D:bot": 1793737985.4642215,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793737627.8716657,
-  "last_news": 1793737636.2372034,
+  "last_analysis": 1793737972.0190718,
+  "last_news": 1793737981.1455948,
   "seen_news": [
-    "Blackstone\u2019s Gray sees more AI equity fundraising ahead from major tech firms",
-    "Tri\u1ec7u t\u1eadp n\u1eef t\u00e0i x\u1ebf ch\u00e8n \u00e9p, t\u00f4ng ng\u00e3 thai ph\u1ee5 6 th\u00e1ng",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "What to expect from Bristow Group\u2019s (VTOL) Q3 earnings - TradingView",
-    "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $",
-    "Pfizer hikes full-year outlook, taps company veteran as new CFO",
     "Following the money: the playbook behind the $6.3bn Binance heist and a suspecte",
     "Ch\u1ee7 qu\u00e1n c\u01a1m \u2018ch\u1eb7t ch\u00e9m\u2019 \u0111\u0103ng l\u1eddi xin l\u1ed7i kh\u00e1ch h\u00e0ng v\u00e0 ng\u01b0\u1eddi d\u00e2n Qu\u1ea3ng Ng\u00e3i",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
@@ -457,6 +451,12 @@
     "Binance breach puts custody at center of crypto infrastructure trade",
     "The grads ditching the UK for a fresh start abroad",
     "JetBlue raises checked bag fees to $70 amid fuel costs",
-    "Three warning signs the tech selloff isn't over as Wall Street sentiment hangs b"
+    "Three warning signs the tech selloff isn't over as Wall Street sentiment hangs b",
+    "FOX (NASDAQ:FOXA) reports strong Q3 CY2026 - TradingView",
+    "JetBlue raises bag fees for third time in a year as fuel costs bite",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Uber president Jill Hazelbaker joins OpenAI as communications chief",
+    "The S&P 500 stays on the back foot amid geopolitical uncertainty as US midterm e",
+    "T\u00ecnh h\u00ecnh hi\u1ec7n t\u1ea1i c\u1ee7a Ng\u1ecdc Trinh"
   ]
 }
