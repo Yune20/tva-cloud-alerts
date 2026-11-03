@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793722034.1943736,
+  "last_signals": 1793722389.7757912,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -38,7 +38,6 @@
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
-    "5575146754|Gold|1H|momo_up": 1793117306.3483202,
     "5575146754|Gold|1H|trap_up": 1793632833.6165655,
     "5575146754|Gold|1D|range_in": 1793237078.0675597,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
@@ -74,7 +73,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
@@ -145,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793722035.2428718,
+    "Bitcoin|1D:bot": 1793722390.2573833,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -154,17 +153,11 @@
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793722035.7800379
+    "US30|4H:bot": 1793722390.5440843
   },
-  "last_analysis": 1793722019.9696078,
-  "last_news": 1793722030.8432436,
+  "last_analysis": 1793722379.0935998,
+  "last_news": 1793722389.7747784,
   "seen_news": [
-    "HPG: CTCP T\u1eadp \u0111o\u00e0n H\u00f2a Ph\u00e1t - Hoa Phat Group - VietstockFinance",
-    "National Aluminium Company Q2 2027 Earnings Call Is Live - TradingView",
-    "The stock market has gone nowhere for the past 5 months. It\u2019s now looking like a",
-    "Aon CEO warns AI data center insurance risks could threaten financing",
-    "Poundland's former owner offers to invest as minister prepares to meet board",
-    "Reddit blasts \u2019inept\u2019 Australian social media ban as challenge airs in court",
     "From Levi's to Primark - the fashion chains selling mended clothes",
     "Asia stocks fall as Apple outlook weighs; RBA raises rates to 18-yr high",
     "What are the main events for today?",
@@ -458,6 +451,12 @@
     "32 tu\u1ed5i ki\u1ebfm 479,3 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng nh\u1edd \u0111i g\u00e3i ng\u1ee9a thu\u00ea",
     "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
     "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV",
-    "The Texas governor\u2019s race might be a make-or-break contest for a wobbling AI tra"
+    "The Texas governor\u2019s race might be a make-or-break contest for a wobbling AI tra",
+    "JOLTs Job openings 7.523M vs 7.100M estimate",
+    "Kh\u00f4ng ph\u1ea3i chu\u1ed1i hay xo\u00e0i, \u0111\u00e2y m\u1edbi l\u00e0 lo\u1ea1i qu\u1ea3 gi\u00fap b\u1ea1n ng\u1ee7 ngon v\u00e0 s\u00e2u gi\u1ea5c h\u01a1n",
+    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
+    "Massimo Group (MAMO) Launches Two UTVs; Estimates Preorders Above 100 Units - Tr",
+    "It\u2019s finally Election Day \u2014 and prediction markets may show \u2018too much confidence",
+    "Job openings posted big September gain in positive sign for labor market ahead o"
   ]
 }
