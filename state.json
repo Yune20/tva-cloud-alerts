@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793669808.9909873,
+  "last_signals": 1793670422.9274583,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793651016.2981668,
+    "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -79,8 +79,8 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793669799.7327075,
-  "last_news": 1793669808.9900746,
+  "last_analysis": 1793670414.8954186,
+  "last_news": 1793670422.9265883,
   "seen_news": [
-    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-    "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
-    "C\u1ed5 phi\u1ebfu n\u00e0o th\u01b0\u1eddng t\u0103ng trong th\u00e1ng 11?",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
-    "Hugo Boss AG (BOSS) Receives Major Holdings Notification From SIH Partners - Tra",
     "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. mi",
     "My hometown shows that high streets have to change or die",
     "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
@@ -457,6 +451,12 @@
     "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
     "FOX (NASDAQ:FOXA) reports strong Q3 CY2026 - TradingView",
     "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
-    "Google value plunges by $500bn as its own AI search hits ad sales"
+    "Google value plunges by $500bn as its own AI search hits ad sales",
+    "Ch\u1ea1y \u0111ua v\u1edbi AI \u0111\u1ebfn ki\u1ec7t s\u1ee9c, k\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m g\u1ea7n 10 n\u0103m kinh nghi\u1ec7m t\u00ednh b\u1ecf ngh\u1ec1",
+    "VNZ: CTCP T\u1eadp \u0111o\u00e0n VNG - VNG Group - VietstockFinance",
+    "Jazz Pharmaceuticals Q3 2026 Earnings Call Is Live - TradingView",
+    "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with M",
+    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040"
   ]
 }
