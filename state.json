@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793709537.964554,
+  "last_signals": 1793710149.0219495,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793709538.7884746,
+    "Bitcoin|1D:bot": 1793710149.6688063,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793709529.0377934,
-  "last_news": 1793709537.9229584,
+  "last_analysis": 1793710138.8267574,
+  "last_news": 1793710149.0210376,
   "seen_news": [
-    "Reserve Bank of Australia (RBA) 25bp rate hike, as widely expected",
-    "C\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng n\u00e0o gi\u1ea3m m\u1ea1nh nh\u1ea5t t\u1eeb \u0111\u1ea7u n\u0103m?",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Offshore Yuan Slides as PBOC Acts to Curb Rally - TradingView",
-    "Canada-India $5.5 billion bank takeover attracts opposition from workers, politi",
-    "North Carolina voters weigh up Trump's track record on cost of living",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "What to expect from ESAB\u2019s (ESAB) Q3 earnings - TradingView",
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
@@ -457,6 +451,12 @@
     "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
     "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
     "US tech stocks see sharp falls as AI spending nears $1tn",
-    "ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal"
+    "ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal",
+    "11 bargain-priced stocks of companies that have huge growth potential over the n",
+    "Versant earnings beat expectations as digital platforms drive growth",
+    "The tech helping crack decades-old cold cases",
+    "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
+    "If gold breaks lower, investors may look at these safe haven currencies: analyst",
+    "Apple and Palantir beat earnings. Why did both stocks fall?"
   ]
 }
