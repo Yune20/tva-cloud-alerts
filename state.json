@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793743194.2786577,
+  "last_signals": 1793743805.0401971,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793743194.806315,
+    "Bitcoin|1D:bot": 1793743806.3889003,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,14 +156,8 @@
     "US30|4H:bot": 1793726812.8171103
   },
   "last_analysis": 1793743501.8223553,
-  "last_news": 1793743194.2776775,
+  "last_news": 1793743805.0392978,
   "seen_news": [
-    "Christmas 2026 stamps unveiled by Royal Mail",
-    "Dubai Benchmark Slips Into Contango for the First Time Since July",
-    "Why is Accenture stock sliding today?",
-    "Never tell me the odds: Prediction markets see Democrats taking control of House",
-    "Gi\u00e1 x\u0103ng gi\u1ea3m ti\u1ebfp h\u01a1n 1.000 \u0111\u1ed3ng/l\u00edt",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
     "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
     "The broader US stock indices are making a play to the upside. Nasdaq indices bou",
     "32 tu\u1ed5i ki\u1ebfm 479,3 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng nh\u1edd \u0111i g\u00e3i ng\u1ee9a thu\u00ea",
@@ -457,6 +451,12 @@
     "Nh\u00e0 n\u00e0o \u0111ang tr\u1ed3ng c\u00e2y kh\u1ebf n\u00ean nh\u1edb 4 \u0111i\u1ec1u quan tr\u1ecdng",
     "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
     "Jazz climbs as 2026 revenue guidance boosted - TradingView",
-    "Bill Ackman warns of 'casino' stock market as speculative trading grows"
+    "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+    "investingLive Americas market news wrap: Job openings jump as the US votes",
+    "C\u00f4ng ty \u1ea4n \u0111\u1ed9 cung c\u1ea5p ph\u1ea7n m\u1ec1m cho h\u01a1n 20 tri\u1ec7u \u00f4 t\u00f4 v\u1eeba quy\u1ebft \u0111\u1ecbnh l\u1eadp c\u00f4ng ty",
+    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
+    "Glacier Bancorp 3Q 2026: Revenue $329.8M, Net income $104.6M, EPS $0.8\u2014 10-Q Sum",
+    "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
+    "AMD stock jumps 8% on earnings as data center revenue nearly doubles"
   ]
 }
