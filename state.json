@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793666654.390926,
+  "last_signals": 1793666980.837709,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -66,7 +66,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -79,10 +79,10 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -153,17 +153,11 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793626806.195451,
-    "DXY|1D:bot": 1793666656.129084
+    "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793666358.9105563,
-  "last_news": 1793666654.3900445,
+  "last_analysis": 1793666970.2251377,
+  "last_news": 1793666980.8369608,
   "seen_news": [
-    "What are the main events for today?",
-    "Madam Pang y\u00eau c\u1ea7u \u0111i\u1ec1u tra v\u00e0 tr\u1eebng ph\u1ea1t C\u0110V x\u00fac ph\u1ea1m HLV Park Hang-seo",
-    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
-    "Binance withdrawals hit $4.7B after giant crypto hack - report - TradingView",
-    "These tech stocks got unfairly swept up in last week\u2019s selloff, analysts say",
-    "Trump administration asks Supreme Court to hear California mail-in ballot appeal",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
     "Asia shares bend under AI stress; Apple earnings loom - TradingView",
     "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
@@ -457,6 +451,12 @@
     "U.S.-Backed Consortium Proposes $4.4 Billion LNG Terminal in Pakistan",
     "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
     "Apple bought back $24 billion of stock in the quarter as purchase commitments ju",
-    "Nh\u00e3 Ph\u01b0\u01a1ng kh\u00f4ng c\u00f2n nh\u01b0 x\u01b0a"
+    "Nh\u00e3 Ph\u01b0\u01a1ng kh\u00f4ng c\u00f2n nh\u01b0 x\u01b0a",
+    "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
+    "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg ",
+    "US construction spending for the month of September -1.9% versus 0.3% estimate",
+    "C\u00f4ng an ki\u1ec3m tra 25 c\u00e1n b\u1ed9, gi\u00e1o vi\u00ean, nh\u00e2n vi\u00ean tr\u01b0\u1eddng h\u1ecdc",
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
