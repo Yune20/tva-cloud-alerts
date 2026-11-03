@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793710149.0219495,
+  "last_signals": 1793710755.1886625,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
-    "5575146754|Gold|4H|range_in": 1793683283.5973213,
+    "5575146754|Gold|4H|range_in": 1793710755.1886625,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
@@ -65,7 +65,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793710149.6688063,
+    "Bitcoin|1D:bot": 1793710756.0283518,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793710138.8267574,
-  "last_news": 1793710149.0210376,
+  "last_analysis": 1793710745.2243822,
+  "last_news": 1793710755.1878412,
   "seen_news": [
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "What to expect from ESAB\u2019s (ESAB) Q3 earnings - TradingView",
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "My hometown shows that high streets have to change or die",
-    "Asian currencies mixed as yuan slides after PBOC move, won rebounds",
-    "After the Binance hack, the simple security rule regulators keep coming back to,",
     "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investm",
     "City of London chief tops UK Black Powerlist",
     "Adani Group seeks $1.5 bln loan for data center expansion- Economic Times",
@@ -457,6 +451,12 @@
     "The tech helping crack decades-old cold cases",
     "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
     "If gold breaks lower, investors may look at these safe haven currencies: analyst",
-    "Apple and Palantir beat earnings. Why did both stocks fall?"
+    "Apple and Palantir beat earnings. Why did both stocks fall?",
+    "Centrica shares jump 2% as Jefferies sees overlooked business growth",
+    "More: RBA lifts cash rate to 4.85% in split 6-3 vote, sees inflation above 3% un",
+    "Nam ngh\u1ec7 s\u0129 SN 1970 r\u1eddi M\u1ef9 v\u1ec1 n\u01b0\u1edbc: 42 tu\u1ed5i nh\u1eadn qu\u1ed1c t\u1ecbch Vi\u1ec7t Nam, U60 vi\u00ean m\u00e3",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Ryanair Holdings (cdi) Q2 Earnings Call Highlights - TradingView",
+    "The stock market loves gridlock. But midterm elections won\u2019t resolve two big mon"
   ]
 }
