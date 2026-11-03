@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793704274.2053173,
+  "last_signals": 1793704894.2202904,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -67,8 +67,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -80,20 +80,20 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793705153,
   "menu_prices": {
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793704274.6720142,
+    "Bitcoin|1D:bot": 1793704895.2541738,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793704265.9864087,
-  "last_news": 1793704274.2043886,
+  "last_analysis": 1793704884.492601,
+  "last_news": 1793704894.2194722,
   "seen_news": [
-    "South Korea's Lee calls for powerful government-wide cybersecurity body - Tradin",
-    "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-    "The Indian workers filming their work to train AI",
-    "Earnings beat, guidance raised: our AI-picked pharma stock is up 23.96%",
-    "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
-    "L\u00fd do \u0111\u01b0\u1ee3c h\u01b0\u1edfng b\u1ea3o hi\u1ec3m y t\u1ebf 100% v\u1eabn ph\u1ea3i tr\u1ea3 th\u00eam ti\u1ec1n",
     "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
     "What to expect from Bristow Group\u2019s (VTOL) Q3 earnings - TradingView",
     "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settl",
@@ -457,6 +451,12 @@
     "North Korea denies links to Binance hack as researchers trace stolen billions",
     "Apple unsure when it will get more foldable iPhones ahead of Christmas",
     "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion",
-    "Dollar subdued as U.S. midterms get underway; Aussie Hits 2-week low"
+    "Dollar subdued as U.S. midterms get underway; Aussie Hits 2-week low",
+    "This signal from the corporate bond market has historically preceded big drawdow",
+    "A little-known biotech\u2019s high-stakes cancer bet just paid off and its shares dou",
+    "'Quiet quitting' could be hitting the economy - here's why",
+    "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
+    "Solana remains under pressure as markets weigh US-Iran talks, Fed risks and US m",
+    "VN-Index l\u1ea1i m\u1ea5t m\u1ed1c 1.700 \u0111i\u1ec3m, kh\u1ed1i ngo\u1ea1i n\u1ed1i d\u00e0i chu\u1ed7i b\u00e1n r\u00f2ng"
   ]
 }
