@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793723620.8504767,
+  "last_signals": 1793724201.6190925,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -75,7 +75,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793723622.4176345,
+    "Bitcoin|1D:bot": 1793724202.7645888,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,17 +153,11 @@
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793723623.4815311
+    "US30|4H:bot": 1793724203.5969186
   },
   "last_analysis": 1793723908.437835,
-  "last_news": 1793723610.4212766,
+  "last_news": 1793724201.6157582,
   "seen_news": [
-    "US midterms 2026: Is Trump about to lose his grip on Congress?",
-    "To\u00e0 chung c\u01b0 15.400 t\u1ef7 \u0111\u1ed3ng b\u1ea5t ng\u1edd b\u1ecb ch\u1ee7 \u0111\u1ea7u t\u01b0 'b\u1ecf r\u01a1i' d\u00f9 kh\u00e1ch v\u1eabn n\u01b0\u1eddm n\u01b0\u1ee3",
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
-    "Clarus Q2 Earnings Call Highlights - TradingView",
-    "Supreme Court rejects DOJ's bid to block California from counting disputed ballo",
-    "Binance users withdraw $3.6bn after largest-ever crypto hack",
     "\u0110\u1ea1i t\u00e1 B\u00f9i \u0110\u1ea1i H\u1ea3i gi\u1eef ch\u1ee9c Ch\u00ednh \u1ee7y B\u1ed9 T\u01b0 l\u1ec7nh V\u00f9ng C\u1ea3nh s\u00e1t bi\u1ec3n 4",
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
     "Weekly Recap: Insurance divestitures and $302 million catastrophe losses - Tradi",
@@ -457,6 +451,12 @@
     "What's happening to UK interest rates and what does it mean for mortgages?",
     "IEA Warns Global Gas Crunch Could Last Well into 2027",
     "European supermarkets rush to patch vulnerabilities after region-wide fridge hac",
-    "Morning Kickstart: Election uncertainty, Iran tensions and rising yields frame t"
+    "Morning Kickstart: Election uncertainty, Iran tensions and rising yields frame t",
+    "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasef",
+    "How video game remakes tap the power of nostalgia",
+    "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
+    "Unilever targets \u20ac1 billion in savings by 2029",
+    "How markets price geopolitical risk: Why de-escalation headlines can trigger maj",
+    "V\u1eeba c\u00f4ng khai v\u1ee3 xinh nh\u01b0 ti\u00ean t\u1eed, Qu\u00e2n A.P \u0111\u00e3 \u201cho\u00e1 \u0111i\u00ean\u201d"
   ]
 }
