@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793668610.9894605,
+  "last_signals": 1793669196.358296,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -79,19 +79,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793668872.535461,
-  "last_news": 1793668588.319836,
+  "last_analysis": 1793669188.402363,
+  "last_news": 1793669196.3574648,
   "seen_news": [
-    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-    "US midterms 2026: Is Trump about to lose his grip on Congress?",
-    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra n\u1ebfu ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 giao d\u1ecbch nh\u1eadn v\u00e0 chuy\u1ec3",
-    "VNZ: CTCP T\u1eadp \u0111o\u00e0n VNG - VNG Group - VietstockFinance",
-    "REG - CML Microsystems PLC - Holding(s) in Company - TradingView",
-    "Oracle wants $20 billion to fund its AI future \u2014 and its stock is paying the pri",
     "L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed, Vi\u1ec7t Nam d\u00ecm th\u00e0nh c\u00f4ng 4 kh\u1ed1i b\u00ea t\u00f4ng n\u1eb7ng g\u1ea7n 110.",
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "REG - JPMorgan Emerg. EMEA - Closed Period Notification - TradingView",
@@ -457,6 +451,12 @@
     "North Korea denies being behind record $6.3bn Binance hack",
     "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
     "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
-    "Iran talks stall as reported US strike and CIA advice undercut oil\u2019s 4% deal-hop"
+    "Iran talks stall as reported US strike and CIA advice undercut oil\u2019s 4% deal-hop",
+    "Streeting denies 'kicking can down the road' in defence spending row",
+    "Central Asia\u2019s Power Grid Faces a Major Test as Winter Approaches",
+    "SK Hynix rejected below Ichimoku cloud: Live levels",
+    "Oracle set to price $10 billion share sale at reported 11% discount",
+    "Si\u00eau d\u1ef1 \u00e1n \u0111\u01b0\u1eddng s\u1eaft d\u00e0i 523 km, v\u1ed1n \u0111\u1ea7u t\u01b0 4,7 t\u1ef7 USD: Trung Qu\u1ed1c cho vay 2,3 t",
+    "OCB: Ng\u00e2n h\u00e0ng TMCP Ph\u01b0\u01a1ng \u0110\u00f4ng - OCB - VietstockFinance"
   ]
 }
