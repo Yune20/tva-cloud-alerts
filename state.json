@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793718847.4625523,
+  "last_signals": 1793719470.997036,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,15 +82,15 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
@@ -145,26 +145,20 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793718848.041695,
+    "Bitcoin|1D:bot": 1793719471.9087317,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793718847.8465972,
+    "USOIL|4H:bot": 1793719471.6203773,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793718848.4992359
+    "US30|4H:bot": 1793719472.6452217
   },
-  "last_analysis": 1793718837.3354807,
-  "last_news": 1793718847.4615731,
+  "last_analysis": 1793719459.5440047,
+  "last_news": 1793719470.995986,
   "seen_news": [
-    "Oil prices sink as Iran's President says Supreme Leader granted certain authorit",
-    "M\u1ed9t NTK n\u1ed5i ti\u1ebfng Vi\u1ec7t Nam t\u1eebng chi 100 tri\u1ec7u \u0111\u1ed3ng mua chocolate l\u00e0m qu\u00e0 t\u1eb7ng: N",
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
-    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
-    "Want to help your adult kids and grandkids? Give them money while you\u2019re still a",
-    "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect ne",
     "investingLive European session wrap: Oil sinks, stocks steady as US midterm elec",
     "N\u1eef di\u1ec5n vi\u00ean T\u1ea1 Doanh Huy\u00ean g\u00e2y s\u1ed1t v\u1edbi di\u1ec7n m\u1ea1o v\u1eeba quy\u1ebfn r\u0169 v\u1eeba c\u00e1 t\u00ednh, h\u00e9 l\u1ed9",
     "Wall Street\u2019s most hated stocks are faring far better than its favorites",
@@ -458,6 +452,12 @@
     "Apple\u2019s \u2019unprecedented\u2019 memory warning adds fuel to wobbly Micron, SK hynix trad",
     "Tough to buy into the Iran headlines in the context of the election",
     "B\u00f9ng n\u1ed5 tin ti\u1ec3u th\u01b0 gi\u00e0u nh\u1ea5t showbiz ly th\u00e2n Ch\u1ee7 t\u1ecbch t\u1eadp \u0111o\u00e0n b\u00e1n l\u1ebb doanh th",
-    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto"
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
+    "Why is Dell Technologies stock rallying today?",
+    "Bitcoin sellers had their shot and missed. Now it is the buyers\u2019 turn.",
+    "Ph\u00e1t hi\u1ec7n n\u01a1i ng\u01b0\u1eddi ti\u1ec1n s\u1eed nh\u00f3m l\u1eeda 9.000 n\u0103m tr\u01b0\u1edbc b\u00ean h\u1ed3 n\u01b0\u1edbc ng\u1ecdt 90 tri\u1ec7u m",
+    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
+    "IXIC: Nasdaq Futures Rebound with Apple Earnings, US Midterm Elections Ahead - T",
+    "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,00"
   ]
 }
