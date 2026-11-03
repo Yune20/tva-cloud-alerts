@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793720084.0575888,
-  "last_bot4": 1793721356.7817757,
+  "last_bot4": 1793722034.1935465,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793720690.1749825
+    "Gold": 1793722034.1934698
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793721356.7826445,
+  "last_signals": 1793722034.1943736,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -145,26 +145,20 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793721357.696496,
+    "Bitcoin|1D:bot": 1793722035.2428718,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793721357.345003,
+    "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793721358.291779
+    "US30|4H:bot": 1793722035.7800379
   },
-  "last_analysis": 1793721659.5628994,
-  "last_news": 1793721356.7806814,
+  "last_analysis": 1793722019.9696078,
+  "last_news": 1793722030.8432436,
   "seen_news": [
-    "Eurozone manufacturing PMI holds up in October but rising price pressures give t",
-    "C\u00e2y ng\u00e2n h\u1ea1nh 1.400 n\u0103m tu\u1ed5i g\u1eafn v\u1edbi chuy\u1ec7n t\u00ecnh c\u1ee7a m\u1ed9t v\u1ecb ho\u00e0ng \u0111\u1ebf: \u0110\u1ebfn m\u00f9a th",
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
-    "Foreign funds get picky, IPO anchor share hits five-year low - TradingView",
-    "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 jus",
-    "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
     "HPG: CTCP T\u1eadp \u0111o\u00e0n H\u00f2a Ph\u00e1t - Hoa Phat Group - VietstockFinance",
     "National Aluminium Company Q2 2027 Earnings Call Is Live - TradingView",
     "The stock market has gone nowhere for the past 5 months. It\u2019s now looking like a",
@@ -458,6 +452,12 @@
     "Why is Accenture stock sliding today?",
     "Never tell me the odds: Prediction markets see Democrats taking control of House",
     "Gi\u00e1 x\u0103ng gi\u1ea3m ti\u1ebfp h\u01a1n 1.000 \u0111\u1ed3ng/l\u00edt",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance"
+    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
+    "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
+    "The broader US stock indices are making a play to the upside. Nasdaq indices bou",
+    "32 tu\u1ed5i ki\u1ebfm 479,3 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng nh\u1edd \u0111i g\u00e3i ng\u1ee9a thu\u00ea",
+    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
+    "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV",
+    "The Texas governor\u2019s race might be a make-or-break contest for a wobbling AI tra"
   ]
 }
