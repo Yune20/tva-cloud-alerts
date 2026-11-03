@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793741937.7221806,
-  "last_bot4": 1793743504.745799,
+  "last_bot4": 1793744414.419867,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793743504.745735
+    "Gold": 1793744414.4198194
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793743805.0401971,
+  "last_signals": 1793744414.4206812,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793743806.3889003,
+    "Bitcoin|1D:bot": 1793744415.2525668,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,14 +156,8 @@
     "US30|4H:bot": 1793726812.8171103
   },
   "last_analysis": 1793744112.8112063,
-  "last_news": 1793743805.0392978,
+  "last_news": 1793744411.0173001,
   "seen_news": [
-    "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
-    "The broader US stock indices are making a play to the upside. Nasdaq indices bou",
-    "32 tu\u1ed5i ki\u1ebfm 479,3 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng nh\u1edd \u0111i g\u00e3i ng\u1ee9a thu\u00ea",
-    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
-    "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV",
-    "The Texas governor\u2019s race might be a make-or-break contest for a wobbling AI tra",
     "JOLTs Job openings 7.523M vs 7.100M estimate",
     "Kh\u00f4ng ph\u1ea3i chu\u1ed1i hay xo\u00e0i, \u0111\u00e2y m\u1edbi l\u00e0 lo\u1ea1i qu\u1ea3 gi\u00fap b\u1ea1n ng\u1ee7 ngon v\u00e0 s\u00e2u gi\u1ea5c h\u01a1n",
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
@@ -457,6 +451,12 @@
     "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
     "Glacier Bancorp 3Q 2026: Revenue $329.8M, Net income $104.6M, EPS $0.8\u2014 10-Q Sum",
     "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
-    "AMD stock jumps 8% on earnings as data center revenue nearly doubles"
+    "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
+    "Specialty chemicals supplier Innospec's Q3 revenue slightly misses estimates - T",
+    "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into an",
+    "Disney plans several thousand layoffs, asks some managers to cut costs by up to ",
+    "Asda hires ex-Morrisons boss in bid to grow firm",
+    "US Crude Oil Inventories Still in Freefall"
   ]
 }
