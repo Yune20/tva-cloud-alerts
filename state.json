@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793705508.4930146,
+  "last_signals": 1793706121.3295002,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -73,7 +73,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793705509.232404,
+    "Bitcoin|1D:bot": 1793706121.8209553,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793705499.0422952,
-  "last_news": 1793705508.4922686,
+  "last_analysis": 1793706112.9809942,
+  "last_news": 1793706121.3287327,
   "seen_news": [
-    "Nasdaq\u2019s worst month since March 2025 puts returns on AI spending in focus, says",
-    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh \u0111ang s\u1eed d\u1ee5ng g\u01b0\u01a1ng l\u1edbn trong nh\u00e0",
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
-    "Inovio Wins FDA Accelerated Approval for VOCERYQ to Reduce RRP Surgery - Trading",
-    "Prediction market traders now see nearly 75% chance of Democrats winning the Sen",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
     "BlackRock American Income Trust plc Sells 225,000 Treasury Shares - TradingView",
     "Texas governor race tightens in prediction markets, but Abbott remains favored",
@@ -457,6 +451,12 @@
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "Dollar drifts on Mideast, midterm risks; Aussie and yuan dip - TradingView",
     "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-    "'An annoying buzz': The search for stealthier drones"
+    "'An annoying buzz': The search for stealthier drones",
+    "Three warning signs the tech selloff isn't over as Wall Street sentiment hangs b",
+    "Ch\u1ecb T\u01b0\u01a1i b\u00e1n b\u00e1nh r\u00e1n l\u00e0m d\u00e2n m\u1ea1ng \u201cph\u00e1t s\u1ed1t\u201d: C\u00f3 2 b\u1eb1ng \u0110H, t\u1ed1t nghi\u1ec7p Th\u1ea1c s\u0129,",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "REG - Fevertree Drinks PLC - Holding(s) in Company - TradingView",
+    "Midterm elections could jolt stocks if Democrats sweep Congress",
+    "The Indian workers filming their work to train AI"
   ]
 }
