@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793665436.3343043,
-  "last_bot4": 1793673188.1042879,
+  "last_bot4": 1793673849.0078907,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793672558.6449077
+    "Gold": 1793673849.0077972
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793673476.9078476,
+  "last_signals": 1793673849.0086575,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -67,11 +67,11 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793673188.102957,
-  "last_news": 1793673476.907191,
+  "last_analysis": 1793673833.4300826,
+  "last_news": 1793673842.8086312,
   "seen_news": [
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Why is EVgo (EVGO) stock rocketing higher today - TradingView",
-    "Fed will vote on rates less often. What that could mean for borrowers",
-    "'An annoying buzz': The search for stealthier drones",
-    "Dollar steadies as U.S. midterms loom; euro digests Fitch outlook downgrade",
-    "Eurozone manufacturing PMI holds up in October but rising price pressures give t",
     "China private factory PMI at 52.0 beats forecasts, output growth fastest since A",
     "Nhi\u1ec1u c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng r\u1ebb ngang b\u00f3 rau d\u00f9 l\u00e3i ngh\u00ecn t\u1ef7 m\u1ed7i qu\u00fd",
     "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "Following the money: the playbook behind the $6.3bn Binance heist and a suspecte",
     "T\u1eeb ch\u1ea5t l\u01b0\u1ee3ng s\u1ea3n ph\u1ea9m \u0111\u1ebfn h\u1ec7 n\u0103ng l\u1ef1c d\u1eabn d\u1eaft gi\u00e1 tr\u1ecb: Khi chu\u1ea9n m\u1ef1c tr\u1edf th\u00e0nh ",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV"
+    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV",
+    "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $",
+    "Social Security may have to cut retirement benefits in six years. Here's how muc",
+    "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+    "Apple suppliers split in Asia as strong iPhone sales meet rising memory costs",
+    "PBOC sets USD/ CNY central rate at 6.7150 (vs. estimate at 6.6489)",
+    "D\u1ea3i ph\u00e2n c\u00e1ch \u0111\u1ea1i l\u1ed9 \u1edf Ninh B\u00ecnh bi\u1ebfn th\u00e0nh ru\u1ed9ng d\u1ee9a, ch\u1ee7 \u0111\u1ea7u t\u01b0 y\u00eau c\u1ea7u d\u1ecdn b\u1ecf"
   ]
 }
