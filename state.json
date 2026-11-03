@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793745386.0875149,
+  "last_signals": 1793745747.7931468,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -72,14 +72,14 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793745387.7649229,
+    "Bitcoin|1D:bot": 1793745748.2339005,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793745371.755277,
-  "last_news": 1793745382.8662786,
+  "last_analysis": 1793745733.27393,
+  "last_news": 1793745747.7925017,
   "seen_news": [
-    "Want to help your adult kids and grandkids? Give them money while you\u2019re still a",
-    "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
-    "What's happening to UK interest rates and what does it mean for mortgages?",
-    "IEA Warns Global Gas Crunch Could Last Well into 2027",
-    "European supermarkets rush to patch vulnerabilities after region-wide fridge hac",
-    "Morning Kickstart: Election uncertainty, Iran tensions and rising yields frame t",
     "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasef",
     "How video game remakes tap the power of nostalgia",
     "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
@@ -457,6 +451,12 @@
     "Living with a stink? Technology might help",
     "Brent Flash Crashes $6 Before Rebounding Towards $104",
     "Dollar ticks up with eyes on U.S. midterm elections; Aussie slips despite RBA hi",
-    "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)"
+    "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
+    "Crude oil prices fall for second day as market hopes for diplomatic resolution t",
+    "Poundland's former owner offers to invest as minister prepares to meet board",
+    "Dubai Benchmark Slips Into Contango for the First Time Since July",
+    "AMD forecasts quarterly revenue above estimates as data-center revenue hits reco",
+    "Nasdaq rebounds as chip stocks rally and Dow slips",
+    "Nghi\u00ean c\u1ee9u g\u1ea7n 12 n\u0103m h\u00e9 l\u1ed9: T\u1ed1c \u0111\u1ed9 \u0111i b\u1ed9 c\u00f3 th\u1ec3 ti\u1ebft l\u1ed9 manh m\u1ed1i v\u1ec1 tu\u1ed5i th\u1ecd, n"
   ]
 }
