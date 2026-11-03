@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793665436.3343043,
-  "last_bot4": 1793667284.8395092,
+  "last_bot4": 1793667944.726999,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793667574.8073878,
+  "last_signals": 1793667944.7277799,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -70,7 +70,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -82,16 +82,16 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793667282.2792628,
-  "last_news": 1793667574.7754207,
+  "last_analysis": 1793667935.92929,
+  "last_news": 1793667944.7259903,
   "seen_news": [
-    "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a",
-    "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-    "North Carolina voters weigh up Trump's track record on cost of living",
-    "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
-    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
-    "U.S. stocks rebound as Iran diplomacy hopes and lower oil outweigh mixed economi",
     "Shops looted as German cost-of-living protests turn violent",
     "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
     "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
@@ -457,6 +451,12 @@
     "Di\u1ec5n vi\u00ean 'M\u01b0a \u0111\u1ecf' \u0111\u00ednh ch\u00ednh",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
     "Vail Resorts (MTN) Faces Two Oasis Board Nominees - TradingView",
-    "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway."
+    "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
+    "OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
+    "China\u2019s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD",
+    "M\u00e1y l\u00e0m \u0111\u00e1 PEMIC cam k\u1ebft \u0111\u1ea1t s\u1ea3n l\u01b0\u1ee3ng theo c\u00f4ng b\u1ed1",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "Asia shares bend under AI stress; Apple earnings loom - TradingView",
+    "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter"
   ]
 }
