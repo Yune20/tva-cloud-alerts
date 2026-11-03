@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793666980.837709,
+  "last_signals": 1793667574.8073878,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793651016.2981668,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -66,7 +66,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": true,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
@@ -79,16 +79,16 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -156,14 +156,8 @@
     "DXY|1D:bot": 1793666982.16376
   },
   "last_analysis": 1793667282.2792628,
-  "last_news": 1793666980.8369608,
+  "last_news": 1793667574.7754207,
   "seen_news": [
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "Asia shares bend under AI stress; Apple earnings loom - TradingView",
-    "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
-    "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Bid",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Central Asia\u2019s Power Grid Faces a Major Test as Winter Approaches",
     "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a",
     "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
     "North Carolina voters weigh up Trump's track record on cost of living",
@@ -457,6 +451,12 @@
     "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg ",
     "US construction spending for the month of September -1.9% versus 0.3% estimate",
     "C\u00f4ng an ki\u1ec3m tra 25 c\u00e1n b\u1ed9, gi\u00e1o vi\u00ean, nh\u00e2n vi\u00ean tr\u01b0\u1eddng h\u1ecdc",
-    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "HCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "OpenAI taps former US army secretary Dan Driscoll for national security role",
+    "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
+    "Di\u1ec5n vi\u00ean 'M\u01b0a \u0111\u1ecf' \u0111\u00ednh ch\u00ednh",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
+    "Vail Resorts (MTN) Faces Two Oasis Board Nominees - TradingView",
+    "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway."
   ]
 }
