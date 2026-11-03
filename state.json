@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793696889.2493575,
+  "last_signals": 1793697511.2477844,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793692854.0096574,
+    "Bitcoin|1D:bot": 1793697512.080446,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793696882.2086124,
-  "last_news": 1793696889.2383823,
+  "last_analysis": 1793697503.4965363,
+  "last_news": 1793697511.2469523,
   "seen_news": [
-    "OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
-    "China\u2019s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD",
-    "M\u00e1y l\u00e0m \u0111\u00e1 PEMIC cam k\u1ebft \u0111\u1ea1t s\u1ea3n l\u01b0\u1ee3ng theo c\u00f4ng b\u1ed1",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "Asia shares bend under AI stress; Apple earnings loom - TradingView",
-    "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
     "AI Earnings: 3 Reports to Watch This Week - TradingView",
     "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Bid",
     "North Korea denies being behind record $6.3bn Binance hack",
@@ -457,6 +451,12 @@
     "KNDS N.V. Partners With SeaOwl to Develop Armed Naval Drone - TradingView",
     "Stock market after midterm elections: What S&P 500 history shows",
     "Apple unsure when more foldable iPhones will be available after selling out",
-    "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy"
+    "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
+    "U.S.-Backed Consortium Proposes $4.4 Billion LNG Terminal in Pakistan",
+    "German yields hover near August lows on tech rout",
+    "European stock market open: Stocks tumble across the board as risk sentiment sou",
+    "L\u00fd do nhi\u1ec1u gia \u0111\u00ecnh th\u01b0\u1eddng \u0111\u1eb7t mu\u1ed1i tr\u1eafng trong ph\u00f2ng ng\u1ee7",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Swiss Inflation Climbs More Than Expected - TradingView"
   ]
 }
