@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793731046.9087071,
-  "last_bot4": 1793736554.3859568,
+  "last_bot4": 1793737289.966686,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793736916.2345626,
+  "last_signals": 1793737289.967089,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793736917.132425,
+    "Bitcoin|1D:bot": 1793737290.4018297,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793736907.5469909,
-  "last_news": 1793736916.2336378,
+  "last_analysis": 1793737282.9588246,
+  "last_news": 1793737289.965891,
   "seen_news": [
-    "Apple shares slide as higher memory costs fuel margin concerns",
-    "Nasdaq\u2019s worst month since March 2025 puts returns on AI spending in focus, says",
-    "Vietlott 3/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Power 6/55 ng\u00e0y 3 th\u00e1ng 11",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
-    "Latour Q3 2026 Earnings Call Is Live - TradingView",
-    "Aramco's profit rises as refining margins strengthen amid Iran war",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "ADM beats quarterly estimates, lifts annual profit forecast on stronger processi",
     "The S&P 500 stays on the back foot amid geopolitical uncertainty as US midterm e",
@@ -457,6 +451,12 @@
     "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
     "BMW lowers 2026 automotive EBIT margin outlook and deliveries - TradingView",
     "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Rep",
-    "'An annoying buzz': The search for stealthier drones"
+    "'An annoying buzz': The search for stealthier drones",
+    "To\u00e0n c\u1ea3nh c\u1ea7u d\u00e2y v\u0103ng g\u1ea7n 12.000 t\u1ef7 \u0111\u1ed3ng b\u1eafc qua s\u00f4ng H\u1ed3ng: Tr\u1ee5 th\u00e1p cao t\u01b0\u01a1ng ",
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV",
+    "Apple warns of risks related to AI agents behaving in 'unintended or unpredictab",
+    "The Indian workers filming their work to train AI",
+    "S&P 500 Santa Claus rally: what history says and where the index stands"
   ]
 }
