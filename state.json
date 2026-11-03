@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793720084.0575888,
-  "last_bot4": 1793724582.851937,
+  "last_bot4": 1793725193.7400599,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793724582.8526628,
+  "last_signals": 1793725193.7404232,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -73,7 +73,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793724583.811814,
+    "Bitcoin|1D:bot": 1793725194.7037184,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,7 +153,7 @@
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793724584.3502214
+    "US30|4H:bot": 1793725195.3096886
   },
   "last_analysis": 1793724896.9267116,
   "last_news": 1793724906.7994223,
