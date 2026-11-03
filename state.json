@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793726811.9499252,
+  "last_signals": 1793727443.8663213,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -73,7 +73,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793726812.470436,
+    "Bitcoin|1D:bot": 1793727444.7297027,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793726802.6887002,
-  "last_news": 1793726811.949027,
+  "last_analysis": 1793727433.3991563,
+  "last_news": 1793727443.865673,
   "seen_news": [
-    "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "NAPCO Security Technologies Q1 Earnings Call Highlights - TradingView",
-    "Wall Street's Fear Index is doing something strange. Here's what it means for st",
-    "The AI telling farmers when to harvest",
-    "Virgin Media O2 cuts jobs and pauses fibre rollout",
-    "Swiss inflation surprises higher in October but core prices offer some relief",
     "Pershing Square says Big Tech\u2019s $740 billion capex is offensive, not defensive",
     "Cu\u1ed9c s\u1ed1ng sau khi r\u1eddi showbiz c\u1ee7a 't\u00ecnh \u0111\u1ea7u qu\u1ed1c d\u00e2n' m\u00e0n \u1ea3nh Vi\u1ec7t",
     "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
@@ -457,6 +451,12 @@
     "Clarus Q2 Earnings Call Highlights - TradingView",
     "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
     "Why are more roofs not made of solar tiles?",
-    "European shares falls as Apple margin warning triggers global tech rout"
+    "European shares falls as Apple margin warning triggers global tech rout",
+    "Polymarket unit gets US industry organization\u2019s approval to be futures broker",
+    "US-Iran deal still out of reach despite fresh diplomatic hopes ahead of US midte",
+    "S\u00e0n t\u00e0i s\u1ea3n m\u00e3 h\u00f3a t\u1ea1i Vi\u1ec7t Nam s\u1ebd ph\u1ea3i c\u00f4ng khai nh\u1eefng g\u00ec? M\u1ed9t m\u1ed1c th\u1eddi gian \u0111\u00e1",
+    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
+    "Goldman raises Sirius XM PT, citing YouTube and spectrum value - TradingView",
+    "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash"
   ]
 }
