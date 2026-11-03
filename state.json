@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793680473.807732,
+  "last_signals": 1793681092.6377075,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793680474.6045086,
+    "Bitcoin|1D:bot": 1793681093.393548,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793680464.747175,
-  "last_news": 1793680473.8069532,
+  "last_analysis": 1793681081.1901312,
+  "last_news": 1793681092.636953,
   "seen_news": [
-    "City of London chief tops UK Black Powerlist",
-    "Blackstone-Led Investors Buy into LNG Canada for $3.1 Billion",
-    "Children\u2019s Place weighs bankruptcy sale or liquidation, Bloomberg reports",
-    "Conoce al equipo de FxPro en The Trading Festival de la Ciudad de M\u00e9xico",
-    "Ph\u00e1t hi\u1ec7n Vi\u1ec7t Nam c\u00f3 h\u1ea7m \u0111\u1eb7c bi\u1ec7t d\u00e0i 4.885m xuy\u00ean qua l\u00f2ng n\u00fai, s\u1eed d\u1ee5ng c\u00f4ng n",
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
     "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
     "Ng\u00e0nh ch\u1ee9ng kho\u00e1n tr\u01b0\u1edbc v\u1eadn h\u1ed9i m\u1edbi: V\u1ed1n l\u1edbn h\u01a1n, cho vay m\u1ea1nh h\u01a1n, c\u1ea1nh tranh k",
     "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
@@ -457,6 +451,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Offshore Yuan Slides as PBOC Acts to Curb Rally - TradingView",
     "Canada-India $5.5 billion bank takeover attracts opposition from workers, politi",
-    "North Carolina voters weigh up Trump's track record on cost of living"
+    "North Carolina voters weigh up Trump's track record on cost of living",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "What to expect from ESAB\u2019s (ESAB) Q3 earnings - TradingView",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "My hometown shows that high streets have to change or die",
+    "Asian currencies mixed as yuan slides after PBOC move, won rebounds",
+    "After the Binance hack, the simple security rule regulators keep coming back to,"
   ]
 }
