@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793747989.4929786,
+  "last_signals": 1793748606.472712,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -79,7 +79,7 @@
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793747990.0981526,
+    "Bitcoin|1D:bot": 1793748606.9520915,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793747982.4195316,
-  "last_news": 1793747989.492142,
+  "last_analysis": 1793748597.5870945,
+  "last_news": 1793748606.47169,
   "seen_news": [
-    "Applied Aerospace & Defense Appoints Robert Wingfield As Chief Information Offic",
-    "New national home listing database is taking on Compass in the battle for contro",
-    "Shop freezers in seven European countries hit by cyber-attack",
-    "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply",
-    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
-    "USDCHF falls on firmer Swiss CPI, but buyers lean against the 100 day MA",
     "BOC's Macklem: There could be a need to raise the policy rate further",
     "Ch\u1ee7 t\u1ecbch t\u1eebng t\u1ed1t nghi\u1ec7p Harvard, c\u00f3 b\u1eb1ng b\u00e1c s\u0129 r\u1ed3i tr\u1edf th\u00e0nh doanh nh\u00e2n n\u1ed5i ti",
     "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp - VietstockFinance",
@@ -457,6 +451,12 @@
     "What's happening to UK interest rates and what does it mean for mortgages?",
     "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
     "Canva cuts 22% of workforce as growth slows for first time",
-    "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to "
+    "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to ",
+    "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
+    "AMD forecasts 2027 sales above estimates as data-center business booms",
+    "Carney says US trade talks to intensify as Washington asks less and offers mor",
+    "Nam MC \u0111\u1ea7u ti\u00ean c\u1ee7a \u0110\u01b0\u1eddng l\u00ean \u0111\u1ec9nh Olympia v\u00e0 cu\u1ed9c s\u1ed1ng k\u00edn ti\u1ebfng \u1edf tu\u1ed5i U60",
+    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
+    "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView"
   ]
 }
