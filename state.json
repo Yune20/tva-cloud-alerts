@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793747326.6138504,
+  "last_signals": 1793747989.4929786,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,7 +78,7 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793747327.095205,
+    "Bitcoin|1D:bot": 1793747990.0981526,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793747318.5585716,
-  "last_news": 1793747326.6128995,
+  "last_analysis": 1793747982.4195316,
+  "last_news": 1793747989.492142,
   "seen_news": [
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
-    "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
-    "U.S. jobs market perks up, but it\u2019s still not a great time to get hired",
-    "The 'poison pill' ballot measure that could kill the California billionaire tax",
-    "Binance users withdraw $3.6bn after largest-ever crypto hack",
-    "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
     "Applied Aerospace & Defense Appoints Robert Wingfield As Chief Information Offic",
     "New national home listing database is taking on Compass in the battle for contro",
     "Shop freezers in seven European countries hit by cyber-attack",
@@ -457,6 +451,12 @@
     "U.S. GoldMining Received Notice of Noncompliance - TradingView",
     "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
     "How video game remakes tap the power of nostalgia",
-    "Big Oil Puts Debt Reduction Ahead of New Investments"
+    "Big Oil Puts Debt Reduction Ahead of New Investments",
+    "Palantir Stock: Buy, Hold or Sell After 96% Revenue Growth? - TradingView",
+    "What the 2026 midterm elections could mean for Trump's final two years",
+    "What's happening to UK interest rates and what does it mean for mortgages?",
+    "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
+    "Canva cuts 22% of workforce as growth slows for first time",
+    "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to "
   ]
 }
