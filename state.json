@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793687252.8168933,
-  "last_bot4": 1793694380.4301624,
+  "last_bot4": 1793695039.4282796,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793694671.5788763,
+  "last_signals": 1793695039.428938,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -73,8 +73,8 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|1H": false,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793694377.431691,
-  "last_news": 1793694671.578334,
+  "last_analysis": 1793695030.689158,
+  "last_news": 1793695039.427382,
   "seen_news": [
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Atlas Energy Solutions (NYSE:AESI) surprises with Q3 2026 sales - TradingView",
-    "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
-    "Don't get caught out by new Buy Now Pay Later rules",
-    "How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again",
-    "Automakers back Trump administration\u2019s rollback of US fuel economy rules",
     "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
     "Apple unsure when more foldable iPhones will be available after selling out",
     "U.S.-Backed Consortium Proposes $4.4 Billion LNG Terminal in Pakistan",
@@ -457,6 +451,12 @@
     "investingLive Asia-Pacific market news: Oil eases on Doha talks",
     "Kh\u00f4ng ph\u1ea3i Sa Pa, Vi\u1ec7t Nam c\u00f3 m\u1ed9t n\u01a1i n\u1eb1m \u1edf \u0111\u1ed9 cao h\u01a1n 1.500m \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng th\u00e0n",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - "
+    "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - ",
+    "UBS downgrades adidas to sell as footwear slowdown threatens 2027 growth",
+    "China private factory PMI at 52.0 beats forecasts, output growth fastest since A",
+    "Phan \u0110\u0103ng Nh\u1eadt Minh - Nh\u00e0 v\u00f4 \u0111\u1ecbch \u0111\u01b0\u1ee3c xem l\u00e0 \"m\u1ea1nh nh\u1ea5t\" l\u1ecbch s\u1eed Olympia!",
+    "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
+    "FuelCell Energy Secures EXIM Funding to Expand South Korea Presence - TradingVie",
+    "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
   ]
 }
