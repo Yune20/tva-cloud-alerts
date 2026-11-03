@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793711371.854673,
+  "last_signals": 1793711990.842006,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,18 +82,18 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793712247,
   "menu_prices": {
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793711373.080199,
+    "Bitcoin|1D:bot": 1793711991.9001012,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793711363.7784398,
-  "last_news": 1793711371.8535454,
+  "last_analysis": 1793711978.9863214,
+  "last_news": 1793711990.8410282,
   "seen_news": [
-    "investingLive Asia-Pacific market news: RBA hikes to 18-year high",
-    "B\u1ecf h\u1ecdc n\u0103m 13 tu\u1ed5i, mua x\u01b0\u1edfng t\u00e0u H\u00e0n Qu\u1ed1c b\u1ecf hoang 8 n\u0103m, t\u1ef7 ph\u00fa Trung Qu\u1ed1c bi\u1ebf",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
-    "IXIC: Nasdaq Futures Rebound with Apple Earnings, US Midterm Elections Ahead - T",
-    "Trump focuses on Reflecting Pool in final public speech before midterms",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
     "Brutal AI selloff stirs recession fears: McGeever - TradingView",
     "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
@@ -457,6 +451,12 @@
     "Key facts: ETHUSD ETF Outflows Extend; Bitmine Stakes 5.23M ETH - TradingView",
     "3 signs cash-strapped consumers are nearing a \u2018spend-pocalypse\u2019 that would hurt ",
     "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
-    "How long will humans be needed for translation?"
+    "How long will humans be needed for translation?",
+    "Eaton Vance Municipal Income 2028 Term Trust declares $0.0782 dividend - Trading",
+    "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
+    "Santoli: AI bull market almost surely needs tech stocks to recover to keep advan",
+    "City of London chief tops UK Black Powerlist",
+    "Anthropic targets doubling computing capacity to 7 gigawatts next year, NYT repo",
+    "investingLive European news wrap: Markets remain cautious as focus shifts to US "
   ]
 }
