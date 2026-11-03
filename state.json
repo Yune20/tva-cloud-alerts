@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793702438.5691261,
+  "last_signals": 1793703046.3880525,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -67,11 +67,11 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793702439.04969,
+    "Bitcoin|1D:bot": 1793703047.1281142,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793702430.091866,
-  "last_news": 1793702438.5681684,
+  "last_analysis": 1793703038.668871,
+  "last_news": 1793703046.3873193,
   "seen_news": [
-    "What we know about Binance's $6.3bn hack",
-    "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
-    "Following the money: the playbook behind the $6.3bn Binance heist and a suspecte",
-    "T\u1eeb ch\u1ea5t l\u01b0\u1ee3ng s\u1ea3n ph\u1ea9m \u0111\u1ebfn h\u1ec7 n\u0103ng l\u1ef1c d\u1eabn d\u1eaft gi\u00e1 tr\u1ecb: Khi chu\u1ea9n m\u1ef1c tr\u1edf th\u00e0nh ",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV",
     "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $",
     "Social Security may have to cut retirement benefits in six years. Here's how muc",
     "Burnham 'ready to support' Poundland staff as retailer faces collapse",
@@ -457,6 +451,12 @@
     "Sterling today: Pound edges up as dollar eases, BoE hike in view",
     "US construction spending for the month of September -1.9% versus 0.3% estimate",
     "V\u1ee5 t\u00e0i x\u1ebf gh\u00e9 qu\u00e1n \u0103n c\u01a1m b\u00ecnh d\u00e2n h\u1ebft 640.000 \u0111\u1ed3ng: \u0110\u00e3 c\u00f3 m\u1ee9c ph\u1ea1t cho ch\u1ee7 qu\u00e1n",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance"
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
+    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business rep",
+    "More on US strikes on Qeshm: officials confirm attack as Trump plays down war ri",
+    "Th\u00fay Loan tr\u1edf th\u00e0nh c\u1ed5 \u0111\u00f4ng l\u1edbn m\u1ed9t doanh nghi\u1ec7p tr\u00ean s\u00e0n",
+    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
+    "Sobi to present new gout data at ACR Convergence 2026 - TradingView"
   ]
 }
