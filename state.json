@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793737289.967089,
+  "last_signals": 1793737636.2383864,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793737290.4018297,
+    "Bitcoin|1D:bot": 1793737636.7377498,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793737282.9588246,
-  "last_news": 1793737289.965891,
+  "last_analysis": 1793737627.8716657,
+  "last_news": 1793737636.2372034,
   "seen_news": [
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "ADM beats quarterly estimates, lifts annual profit forecast on stronger processi",
-    "The S&P 500 stays on the back foot amid geopolitical uncertainty as US midterm e",
-    "B\u1ec7nh vi\u1ec7n duy nh\u1ea5t c\u1ee7a Vi\u1ec7t Nam l\u1ecdt Top 10 n\u01a1i l\u00e0m vi\u1ec7c t\u1ed1t nh\u1ea5t \u0110\u00f4ng Nam \u00c1",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "State Bank of India Q2 2027 Earnings Call Is Live - TradingView",
     "Blackstone\u2019s Gray sees more AI equity fundraising ahead from major tech firms",
     "Tri\u1ec7u t\u1eadp n\u1eef t\u00e0i x\u1ebf ch\u00e8n \u00e9p, t\u00f4ng ng\u00e3 thai ph\u1ee5 6 th\u00e1ng",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
@@ -457,6 +451,12 @@
     "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV",
     "Apple warns of risks related to AI agents behaving in 'unintended or unpredictab",
     "The Indian workers filming their work to train AI",
-    "S&P 500 Santa Claus rally: what history says and where the index stands"
+    "S&P 500 Santa Claus rally: what history says and where the index stands",
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "Inovio Wins FDA Accelerated Approval for VOCERYQ to Reduce RRP Surgery - Trading",
+    "Binance breach puts custody at center of crypto infrastructure trade",
+    "The grads ditching the UK for a fresh start abroad",
+    "JetBlue raises checked bag fees to $70 amid fuel costs",
+    "Three warning signs the tech selloff isn't over as Wall Street sentiment hangs b"
   ]
 }
