@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793746711.5259075,
+  "last_signals": 1793747326.6138504,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -72,13 +72,13 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793746712.0571656,
+    "Bitcoin|1D:bot": 1793747327.095205,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793746701.5917888,
-  "last_news": 1793746709.795522,
+  "last_analysis": 1793747318.5585716,
+  "last_news": 1793747326.6128995,
   "seen_news": [
-    "RBA governor Bullock says it might be that this rate hike might not be enough",
-    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam qu\u1ea3n l\u00fd c\u1eeda h\u00e0ng Tr\u1ea7n Thanh Nh\u00e0n SN 2004",
-    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
-    "HIMS Q3'26 Earnings: revenue estimate is 892.88M USD - TradingView",
-    "U.S. clears path for first regulated equity perpetual futures",
-    "What the 2026 midterm elections could mean for Trump's final two years",
     "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
     "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
     "U.S. jobs market perks up, but it\u2019s still not a great time to get hired",
@@ -457,6 +451,12 @@
     "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
     "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
     "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
-    "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's"
+    "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's",
+    "X\u0103ng E5 gi\u1ea3m h\u01a1n 1.000 \u0111\u1ed3ng/l\u00edt, d\u1ea7u mazut t\u0103ng gi\u00e1",
+    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
+    "U.S. GoldMining Received Notice of Noncompliance - TradingView",
+    "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
+    "How video game remakes tap the power of nostalgia",
+    "Big Oil Puts Debt Reduction Ahead of New Investments"
   ]
 }
