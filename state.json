@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793730755.1686246,
+  "last_signals": 1793731404.962144,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,7 +78,7 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793730756.125753,
+    "Bitcoin|1D:bot": 1793731405.561871,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793730745.5335138,
-  "last_news": 1793730755.1677067,
+  "last_analysis": 1793731394.5484364,
+  "last_news": 1793731404.961217,
   "seen_news": [
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
-    "Asia shares bend under AI stress; Apple earnings loom - TradingView",
-    "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
-    "Brookfield plans for a $27 billion AI data center at UK power station",
-    "North Korea denies being behind record $6.3bn Binance hack",
-    "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
     "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
     "Trump is going to get 'trounced' in the midterms \u2014 and knows it, Anthony Scaramu",
     "Drivers may get compensation offers before car finance saga ends",
@@ -457,6 +451,12 @@
     "FuelCell Energy Secures EXIM Funding to Expand South Korea Presence - TradingVie",
     "Once election results are in, here\u2019s what investors should focus on next",
     "Trump midterm election lawsuits, state pushback come to a head Tuesday",
-    "My hometown shows that high streets have to change or die"
+    "My hometown shows that high streets have to change or die",
+    "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+    "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "Iran War Triples Logistics Costs for Oil Services Firms",
+    "Why is Ball stock sliding today?",
+    "European stock market open: Stocks tumble across the board as risk sentiment sou",
+    "Tr\u00fang t\u1edbi 46 g\u00f3i th\u1ea7u t\u1eeb Vingroup, Sun Group, Masterise, MIK, m\u1ed9t doanh nghi\u1ec7p t"
   ]
 }
