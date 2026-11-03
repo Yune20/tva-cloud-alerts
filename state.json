@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793728762.092005,
+  "last_signals": 1793729421.5358543,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,10 +78,10 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793728762.5999744,
+    "Bitcoin|1D:bot": 1793729422.0684257,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793729065.5951583,
-  "last_news": 1793728762.0910554,
+  "last_analysis": 1793729413.323789,
+  "last_news": 1793729421.5351183,
   "seen_news": [
-    "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
-    "Japan weighs \u00a55,000 annual payment for low-income workers under new benefit plan",
-    "M\u1ed9t t\u1ec9nh mi\u1ec1n Trung chu\u1ea9n b\u1ecb kh\u1edfi c\u00f4ng khu c\u00f4ng nghi\u1ec7p 52,5 tri\u1ec7u USD, quy m\u00f4 h\u01a1",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "Hogs Fall Lower on Monday - TradingView",
-    "U.S. strikes Iran\u2019s Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with",
     "\u1ed0c b\u01b0\u01a1u v\u00e0ng \u0111\u1eaft h\u00e0ng \u1edf mi\u1ec1n T\u00e2y, ng\u00e0nh ch\u1ee9c n\u0103ng khuy\u1ebfn c\u00e1o kh\u1ea9n",
     "HII: CTCP An Ti\u1ebfn Industries - ANTIEN INDUSTRIES.,JSC - VietstockFinance",
     "KNDS N.V. Partners With SeaOwl to Develop Armed Naval Drone - TradingView",
@@ -457,6 +451,12 @@
     "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
     "ZEW Kogeneracja Preliminary Q3 Net Loss At About 34 Million Zlotys - TradingView",
     "Palantir sinks 2% after earnings as analysts point to slowdown in total contract",
-    "Keeping mortgage interest relief approved"
+    "Keeping mortgage interest relief approved",
+    "Brazil's Data Center Push Hinges on Gas Rules, Grid Access and a New Congress",
+    "Shopify earnings analysis: questions answered and next catalysts",
+    "European stocks close lower as yields climb. UK FTSE leads the declines",
+    "CTCK \u0111\u01b0a ra d\u1ef1 b\u00e1o b\u1ea5t ng\u1edd v\u1ec1 tri\u1ec3n v\u1ecdng FPT",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - "
   ]
 }
