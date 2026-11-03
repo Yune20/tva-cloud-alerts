@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793731046.9087071,
-  "last_bot4": 1793731050.7068253,
+  "last_bot4": 1793731730.305498,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793731404.962144,
+  "last_signals": 1793731730.3062441,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -73,7 +73,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793731405.561871,
+    "Bitcoin|1D:bot": 1793731731.0309782,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793731394.5484364,
-  "last_news": 1793731404.961217,
+  "last_analysis": 1793731721.7787807,
+  "last_news": 1793731730.3045473,
   "seen_news": [
-    "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
-    "Trump is going to get 'trounced' in the midterms \u2014 and knows it, Anthony Scaramu",
-    "Drivers may get compensation offers before car finance saga ends",
-    "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
-    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
-    "China\u2019s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD",
     "Alzinova (ALZ) Submits US Ethics Application for Planned Phase 2a Study - Tradin",
     "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
@@ -457,6 +451,12 @@
     "Iran War Triples Logistics Costs for Oil Services Firms",
     "Why is Ball stock sliding today?",
     "European stock market open: Stocks tumble across the board as risk sentiment sou",
-    "Tr\u00fang t\u1edbi 46 g\u00f3i th\u1ea7u t\u1eeb Vingroup, Sun Group, Masterise, MIK, m\u1ed9t doanh nghi\u1ec7p t"
+    "Tr\u00fang t\u1edbi 46 g\u00f3i th\u1ea7u t\u1eeb Vingroup, Sun Group, Masterise, MIK, m\u1ed9t doanh nghi\u1ec7p t",
+    "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You s",
+    "North Korea denies being behind record $6.3bn Binance hack",
+    "Why is Weyerhaeuser stock sliding today?",
+    "Gold trims gains after overnight strikes on Iran as the focus turns to the US mi",
+    "Vi\u1ec7t Nam c\u00f3 1 c\u00f4ng tr\u00ecnh lot top \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi, \u0111\u01b0\u1ee3c Oscar du l\u1ecbch vinh danh",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance"
   ]
 }
