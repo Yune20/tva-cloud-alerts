@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793671652.5277772,
+  "last_signals": 1793672272.0444407,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -67,7 +67,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -90,8 +90,8 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": false,
-    "JPY Index|1H": true,
+    "DXY|1D": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793671644.2413824,
-  "last_news": 1793671652.526964,
+  "last_analysis": 1793672262.099937,
+  "last_news": 1793672272.0436063,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Oil eases on Doha talks",
-    "N\u00f3ng: H\u00f4m nay 3/11, chip b\u1ea3o m\u1eadt \u201cMake in Vi\u1ec7t Nam\u201d \u0111\u1ea7u ti\u00ean s\u1ebd ch\u00ednh th\u1ee9c l\u1ed9 di",
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
-    "Intel Gets Price Target Revamp but Keeps One Major Catalyst - TradingView",
-    "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street ",
-    "Options traders are getting anxious on Palantir and Apple ahead of earnings",
     "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
     "What to expect from Bristow Group\u2019s (VTOL) Q3 earnings - TradingView",
     "The bond-market rally is defying the typical investing playbook. Here\u2019s why.",
@@ -457,6 +451,12 @@
     "U.S. Treasuries surge to wrap October in biggest rally since 2024",
     "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
     "V\u00e0ng, b\u1ea1c b\u1ecb b\u00e1n th\u00e1o - chuy\u00ean gia 25 n\u0103m kinh nghi\u1ec7m l\u1ea1i g\u1ecdi \u0111\u00e2y l\u00e0 'c\u01a1 h\u1ed9i c\u1ee7a",
-    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF"
+    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
+    "Thu nh\u1eadp 35 tri\u1ec7u/th\u00e1ng, ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c 500 tri\u1ec7u, v\u1ee3 ch\u1ed3ng tr\u1ebb \u1edf H\u00e0 N\u1ed9i mu\u1ed1n mu",
+    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
+    "Virtu Financial Q2 Earnings Call Highlights - TradingView",
+    "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. mi",
+    "Ryanair says it may freeze workers' pay and raise airfares",
+    "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg"
   ]
 }
