@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793707343.5635238,
+  "last_signals": 1793707952.2970667,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -73,9 +73,9 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -87,13 +87,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793708217,
   "menu_prices": {
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793707344.5518882,
+    "Bitcoin|1D:bot": 1793707952.7439709,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793707332.5926814,
-  "last_news": 1793707343.562718,
+  "last_analysis": 1793707942.5595624,
+  "last_news": 1793707952.296308,
   "seen_news": [
-    "Up to 55% off! Lock in your InvestingPro subscription for less than $2/week NOW",
-    "Canada S&P global manufacturing PMI 49.6 versus 51.5 last month",
-    "Lo\u1ea1i c\u00e2y n\u00ean tr\u1ed3ng ngay trong th\u00e1ng 11 n\u00e0y",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Hong Kong Stocks Edge Higher on China Support Hopes - TradingView",
-    "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
     "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
     "US tech stocks see sharp falls as AI spending nears $1tn",
     "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
@@ -457,6 +451,12 @@
     "Vietlott 3/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 Vietlott Power 6/55 ng\u00e0y 3 th\u00e1ng 11",
     "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
     "Latour Q3 2026 Earnings Call Is Live - TradingView",
-    "Aramco's profit rises as refining margins strengthen amid Iran war"
+    "Aramco's profit rises as refining margins strengthen amid Iran war",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "ADM beats quarterly estimates, lifts annual profit forecast on stronger processi",
+    "The S&P 500 stays on the back foot amid geopolitical uncertainty as US midterm e",
+    "B\u1ec7nh vi\u1ec7n duy nh\u1ea5t c\u1ee7a Vi\u1ec7t Nam l\u1ecdt Top 10 n\u01a1i l\u00e0m vi\u1ec7c t\u1ed1t nh\u1ea5t \u0110\u00f4ng Nam \u00c1",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
+    "State Bank of India Q2 2027 Earnings Call Is Live - TradingView"
   ]
 }
