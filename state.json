@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793720084.0575888,
-  "last_bot4": 1793720690.1750467,
+  "last_bot4": 1793721356.7817757,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793720690.1760552,
+  "last_signals": 1793721356.7826445,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -74,13 +74,13 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -145,26 +145,20 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793720690.6581419,
+    "Bitcoin|1D:bot": 1793721357.696496,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793720690.4787414,
+    "USOIL|4H:bot": 1793721357.345003,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793720691.0061443
+    "US30|4H:bot": 1793721358.291779
   },
-  "last_analysis": 1793720988.1308892,
-  "last_news": 1793720685.4153056,
+  "last_analysis": 1793721345.4263744,
+  "last_news": 1793721356.7806814,
   "seen_news": [
-    "Why is Lenovo stock sliding today?",
-    "US midterms 2026: Where are Republicans most vulnerable in the battle for Congre",
-    "\u0110i\u00eau Thuy\u1ec1n c\u00f3 th\u1ef1c s\u1ef1 t\u1ed3n t\u1ea1i?",
-    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
-    "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV",
-    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. ",
     "Eurozone manufacturing PMI holds up in October but rising price pressures give t",
     "C\u00e2y ng\u00e2n h\u1ea1nh 1.400 n\u0103m tu\u1ed5i g\u1eafn v\u1edbi chuy\u1ec7n t\u00ecnh c\u1ee7a m\u1ed9t v\u1ecb ho\u00e0ng \u0111\u1ebf: \u0110\u1ebfn m\u00f9a th",
     "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
@@ -458,6 +452,12 @@
     "Disney plans several thousand layoffs, asks some managers to cut costs by up to ",
     "Living with a stink? Technology might help",
     "Brent Flash Crashes $6 Before Rebounding Towards $104",
-    "Treasuries steady as traders weigh midterm vote and AI trade"
+    "Treasuries steady as traders weigh midterm vote and AI trade",
+    "Christmas 2026 stamps unveiled by Royal Mail",
+    "Dubai Benchmark Slips Into Contango for the First Time Since July",
+    "Why is Accenture stock sliding today?",
+    "Never tell me the odds: Prediction markets see Democrats taking control of House",
+    "Gi\u00e1 x\u0103ng gi\u1ea3m ti\u1ebfp h\u01a1n 1.000 \u0111\u1ed3ng/l\u00edt",
+    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance"
   ]
 }
