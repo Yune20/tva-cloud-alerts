@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793665436.3343043,
-  "last_bot4": 1793674817.732962,
+  "last_bot4": 1793675495.3731375,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793674817.733696,
+  "last_signals": 1793675495.37375,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -67,7 +67,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": true,
-    "JPY Index|1H": true,
+    "DXY|1D": false,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793145918.0955172,
+    "Bitcoin|1D:bot": 1793675495.9861512,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793675117.1630085,
-  "last_news": 1793674814.7555256,
+  "last_analysis": 1793675487.6523514,
+  "last_news": 1793675495.372249,
   "seen_news": [
-    "Prediction market traders now see nearly 75% chance of Democrats winning the Sen",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
-    "Manufacturing PMI and JOLTs job openings among economic data due Tuesday",
-    "Iran and US reportedly on verge of preliminary agreement",
-    "Ch\u00e0ng trai Vi\u1ec7t \"c\u01b0a \u0111\u1ed5\" c\u00f4 m\u1eabu T\u00e2y xinh nh\u01b0 thi\u00ean th\u1ea7n tr\u00ean T\u00e0 X\u00f9a, chuy\u1ec7n 7 n\u0103",
     "How long will humans be needed for translation?",
     "Pennsylvania measles cases rise to 1,433, state health department says",
     "USDCAD decline stalls at key support. Can buyers build on the bounce?",
@@ -457,6 +451,12 @@
     "The Indian workers filming their work to train AI",
     "Earnings beat, guidance raised: our AI-picked pharma stock is up 23.96%",
     "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
-    "L\u00fd do \u0111\u01b0\u1ee3c h\u01b0\u1edfng b\u1ea3o hi\u1ec3m y t\u1ebf 100% v\u1eabn ph\u1ea3i tr\u1ea3 th\u00eam ti\u1ec1n"
+    "L\u00fd do \u0111\u01b0\u1ee3c h\u01b0\u1edfng b\u1ea3o hi\u1ec3m y t\u1ebf 100% v\u1eabn ph\u1ea3i tr\u1ea3 th\u00eam ti\u1ec1n",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "What to expect from Bristow Group\u2019s (VTOL) Q3 earnings - TradingView",
+    "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settl",
+    "The grads ditching the UK for a fresh start abroad",
+    "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
+    "Why Deutsche Bank says the AI dollar is here"
   ]
 }
