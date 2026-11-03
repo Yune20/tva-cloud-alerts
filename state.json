@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793671037.7759888,
+  "last_signals": 1793671652.5277772,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -67,10 +67,10 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -91,7 +91,7 @@
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793671027.870007,
-  "last_news": 1793671037.7751455,
+  "last_analysis": 1793671644.2413824,
+  "last_news": 1793671652.526964,
   "seen_news": [
-    "Ryanair says it may freeze workers' pay and raise airfares",
-    "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd",
-    "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News rep",
-    "Gold Technicals: Gold is up sharply erasing some of last week's declines.  Bounc",
-    "Top 10 c\u1ed5 phi\u1ebfu t\u0103ng/gi\u1ea3m m\u1ea1nh nh\u1ea5t th\u00e1ng 10: M\u1ed9t m\u00e3 t\u0103ng g\u1ea7n 330%, lo\u1ea1t c\u1ed5 phi\u1ebf",
-    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
     "investingLive Asia-Pacific market news: Oil eases on Doha talks",
     "N\u00f3ng: H\u00f4m nay 3/11, chip b\u1ea3o m\u1eadt \u201cMake in Vi\u1ec7t Nam\u201d \u0111\u1ea7u ti\u00ean s\u1ebd ch\u00ednh th\u1ee9c l\u1ed9 di",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
@@ -457,6 +451,12 @@
     "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
     "RBA set for fifth hike of 2026 to 4.85%: three views on what comes next",
     "Phim H\u00e0n v\u1eeba chi\u1ebfm s\u00f3ng top 1 Vi\u1ec7t Nam, khi\u1ebfn to\u00e0n c\u1ea7u chao \u0111\u1ea3o: Nam ch\u00ednh l\u00e0 qu",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance"
+    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
+    "U.S. Treasuries surge to wrap October in biggest rally since 2024",
+    "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
+    "V\u00e0ng, b\u1ea1c b\u1ecb b\u00e1n th\u00e1o - chuy\u00ean gia 25 n\u0103m kinh nghi\u1ec7m l\u1ea1i g\u1ecdi \u0111\u00e2y l\u00e0 'c\u01a1 h\u1ed9i c\u1ee7a",
+    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF"
   ]
 }
