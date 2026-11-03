@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793720084.0575888,
-  "last_bot4": 1793722703.2388277,
+  "last_bot4": 1793723620.848997,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793722034.1934698
+    "Gold": 1793723620.8489397
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793723000.692144,
+  "last_signals": 1793723620.8504767,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -69,10 +69,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793723001.180607,
+    "Bitcoin|1D:bot": 1793723622.4176345,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,17 +153,11 @@
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793723001.5451121
+    "US30|4H:bot": 1793723623.4815311
   },
   "last_analysis": 1793723307.7842174,
-  "last_news": 1793723000.6913197,
+  "last_news": 1793723610.4212766,
   "seen_news": [
-    "Germany retail sales slump in September as consumer weakness adds to ECB's heada",
-    "30 T\u1eadp \u0111o\u00e0n Vi\u1ec7t Nam n\u1eafm 4,29 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng t\u00e0i s\u1ea3n, t\u1ea1o vi\u1ec7c l\u00e0m cho 560.000 la",
-    "CMG: CTCP T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC - CMC Corp - VietstockFinance",
-    "Capital Power Q3 2026 Earnings Call Is Live - TradingView",
-    "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
-    "How video game remakes tap the power of nostalgia",
     "US midterms 2026: Is Trump about to lose his grip on Congress?",
     "To\u00e0 chung c\u01b0 15.400 t\u1ef7 \u0111\u1ed3ng b\u1ea5t ng\u1edd b\u1ecb ch\u1ee7 \u0111\u1ea7u t\u01b0 'b\u1ecf r\u01a1i' d\u00f9 kh\u00e1ch v\u1eabn n\u01b0\u1eddm n\u01b0\u1ee3",
     "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
@@ -457,6 +451,12 @@
     "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
     "Kimberly-Clark Corporation (KMB) Reports Final Results for Kenvue Note Exchange ",
     "Crude oil prices fall for second day as market hopes for diplomatic resolution t",
-    "Poundland's former owner offers to invest as minister prepares to meet board"
+    "Poundland's former owner offers to invest as minister prepares to meet board",
+    "Want to help your adult kids and grandkids? Give them money while you\u2019re still a",
+    "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
+    "What's happening to UK interest rates and what does it mean for mortgages?",
+    "IEA Warns Global Gas Crunch Could Last Well into 2027",
+    "European supermarkets rush to patch vulnerabilities after region-wide fridge hac",
+    "Morning Kickstart: Election uncertainty, Iran tensions and rising yields frame t"
   ]
 }
