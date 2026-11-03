@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793725531.3758821,
+  "last_signals": 1793726159.6751482,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -73,7 +73,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793725531.8747592,
+    "Bitcoin|1D:bot": 1793726160.6376278,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,17 +153,11 @@
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
-    "US30|4H:bot": 1793725532.2415905
+    "US30|4H:bot": 1793726161.2483904
   },
-  "last_analysis": 1793725523.5929308,
-  "last_news": 1793725531.3750196,
+  "last_analysis": 1793726148.3743074,
+  "last_news": 1793726159.6737607,
   "seen_news": [
-    "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
-    "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare f",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens",
-    "HFM Brings a New Trading Experience to The Trading Festival Mexico 2026",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng ng\u01b0\u1eddi th\u00edch \u0103n c\u00e1 kh\u00f4",
     "Rainmakers: The drones used to seed clouds",
     "After banking a +495% gain: A new list of AI picks for November is NOW LIVE",
     "FX option expiries for 3 November 10am New York cut",
@@ -457,6 +451,12 @@
     "U.S. jobs market perks up, but it\u2019s still not a great time to get hired",
     "The 'poison pill' ballot measure that could kill the California billionaire tax",
     "Binance users withdraw $3.6bn after largest-ever crypto hack",
-    "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant"
+    "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
+    "Applied Aerospace & Defense Appoints Robert Wingfield As Chief Information Offic",
+    "New national home listing database is taking on Compass in the battle for contro",
+    "Shop freezers in seven European countries hit by cyber-attack",
+    "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply",
+    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
+    "USDCHF falls on firmer Swiss CPI, but buyers lean against the 100 day MA"
   ]
 }
