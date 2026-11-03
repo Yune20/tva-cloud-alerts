@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793685160.907464,
+  "last_signals": 1793685737.2886097,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -65,7 +65,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793685107.3519025,
-  "last_news": 1793685160.9066706,
+  "last_analysis": 1793685729.2186432,
+  "last_news": 1793685737.2878098,
   "seen_news": [
-    "How video game remakes tap the power of nostalgia",
-    "Why is Palantir Technologies stock rising today?",
-    "Up to six blasts reported near Iran\u2019s Qeshm Island as Israeli TV cites US strike",
-    "L\u01b0u Di\u1ec7c Phi li\u00ean t\u1ee5c l\u00e9p v\u1ebf tr\u01b0\u1edbc \u0111\u00e0n em",
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
-    "Fabrinet Revenue Rises 51% to $1.47 Billion; Non-GAAP EPS Reaches $4.34 - Tradin",
     "Apple beats Q4 forecasts on iPhone and Mac as revenue tops $114 billion",
     "Tin vui th\u00e1ng 10 \u00e2m: 3 con gi\u00e1p c\u00f3 c\u01a1 h\u1ed9i c\u1ea3i thi\u1ec7n t\u00e0i ch\u00ednh, trong \u0111\u00f3 1 con gi",
     "PHR: CTCP Cao su Ph\u01b0\u1edbc H\u00f2a - PHURUCO - VietstockFinance",
@@ -457,6 +451,12 @@
     "Wall Street\u2019s most hated stocks are faring far better than its favorites",
     "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michig",
     "Living with a stink? Technology might help",
-    "Treasuries steady as traders weigh midterm vote and AI trade"
+    "Treasuries steady as traders weigh midterm vote and AI trade",
+    "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+    "Christmas 2026 stamps unveiled by Royal Mail",
+    "4 Energy Stocks for Midterm Elections That Could Go Either Way",
+    "Big-ticket tech deals need to keep pace with AI boom but risks remain high, fina",
+    "RBA governor Bullock says it might be that this rate hike might not be enough",
+    "Gi\u00e1 v\u00e0ng b\u1ea1c 3/11 ti\u1ebfp t\u1ee5c t\u0103ng m\u1ea1nh: Doji, Ph\u00fa Qu\u00fd, SJC, BTMH \u0111\u1ed3ng lo\u1ea1t \"l\u1ea5y l\u1ea1"
   ]
 }
