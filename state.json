@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793679196.5379786,
+  "last_signals": 1793679867.5411506,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793679197.4710605,
+    "Bitcoin|1D:bot": 1793679868.0154362,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793679497.5937185,
-  "last_news": 1793679196.5371587,
+  "last_analysis": 1793679857.8851805,
+  "last_news": 1793679867.5402856,
   "seen_news": [
-    "VNeID v\u1eeba c\u00f3 thay \u0111\u1ed5i m\u1edbi, nh\u1eefng ng\u01b0\u1eddi thu\u1ed9c tr\u01b0\u1eddng h\u1ee3p d\u01b0\u1edbi \u0111\u00e2y c\u1ea7n ki\u1ec3m tra ng",
-    "MWG: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 91,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Gold Fields wins key Quebec environmental approval for Windfall gold project - T",
-    "Canada-India $5.5 billion bank takeover attracts opposition from workers, politi",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Why is Choice Hotels stock rallying today?",
     "S&P 500 rises; Apple and Palantir set to report results",
     "Zcash extends consolidation as macro headwinds continue to limit the upside. Wha",
     "\u00d4ng l\u1edbn t\u1eebng khi\u1ebfn t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long ph\u1ea3i vay h\u00e0ng tri\u1ec7u USD, chi 200.000 US",
@@ -457,6 +451,12 @@
     "Crypto firm Binance covers 90% of losses after $6.3bn hack",
     "Big ticket tech deals needed to keep pace with AI growth boom, financial leaders",
     "Apple and Palantir beat earnings. Why did both stocks fall?",
-    "V\u00e0ng SJC v\u01b0\u1ee3t 141 tri\u1ec7u \u0111\u1ed3ng/l\u01b0\u1ee3ng"
+    "V\u00e0ng SJC v\u01b0\u1ee3t 141 tri\u1ec7u \u0111\u1ed3ng/l\u01b0\u1ee3ng",
+    "The tech helping crack decades-old cold cases",
+    "Asia stocks mixed as Apple outlook weighs; RBA raises rates to 18-yr high",
+    "More: RBA lifts cash rate to 4.85% in split 6-3 vote, sees inflation above 3% un",
+    "CSGT ph\u00e1t hi\u1ec7n \u00f4 t\u00f4 VF3 b\u1ecb m\u1ea5t tr\u1ed9m ch\u1ea1y tr\u00ean qu\u1ed1c l\u1ed9 \u1edf H\u1ea3i Ph\u00f2ng",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Martin Marietta Materials earnings: what to look for from MLM - TradingView"
   ]
 }
