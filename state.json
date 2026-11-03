@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793731046.9087071,
-  "last_bot4": 1793741272.940319,
+  "last_news_report": 1793741937.7221806,
+  "last_bot4": 1793741940.7344174,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793740589.782837
+    "Gold": 1793741940.7342994
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793741272.9411023,
+  "last_signals": 1793741940.7351718,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793741273.4853895,
+    "Bitcoin|1D:bot": 1793741941.7524853,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793741584.7820735,
-  "last_news": 1793741272.9393945,
+  "last_analysis": 1793741922.9546216,
+  "last_news": 1793741931.0752652,
   "seen_news": [
-    "Mining giant joins fight to stop killer toad march across Australia",
-    "Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo",
-    "Apple\u2019s \u2019unprecedented\u2019 memory warning adds fuel to wobbly Micron, SK hynix trad",
-    "Tough to buy into the Iran headlines in the context of the election",
-    "B\u00f9ng n\u1ed5 tin ti\u1ec3u th\u01b0 gi\u00e0u nh\u1ea5t showbiz ly th\u00e2n Ch\u1ee7 t\u1ecbch t\u1eadp \u0111o\u00e0n b\u00e1n l\u1ebb doanh th",
-    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
     "Why is Dell Technologies stock rallying today?",
     "Bitcoin sellers had their shot and missed. Now it is the buyers\u2019 turn.",
     "Ph\u00e1t hi\u1ec7n n\u01a1i ng\u01b0\u1eddi ti\u1ec1n s\u1eed nh\u00f3m l\u1eeda 9.000 n\u0103m tr\u01b0\u1edbc b\u00ean h\u1ed3 n\u01b0\u1edbc ng\u1ecdt 90 tri\u1ec7u m",
@@ -457,6 +451,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Valero to Acquire Houston Refining Site, Plans 165,000 BPD Restart - TradingView",
     "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
-    "Car finance compensation payments explained"
+    "Car finance compensation payments explained",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Key facts: ETHUSD ETF Outflows Extend; Bitmine Stakes 5.23M ETH - TradingView",
+    "S&P 500 is looking over the edge of a technical cliff \u2014 what happens if it falls",
+    "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first",
+    "Proposal for free bus service scrapped",
+    "U.S. Launches Secret Strikes on Iran Ahead of Midterm Elections"
   ]
 }
