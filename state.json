@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793677963.2896492,
+  "last_signals": 1793678572.6832325,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -67,7 +67,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793677964.312023,
+    "Bitcoin|1D:bot": 1793678573.1606483,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793677954.5891697,
-  "last_news": 1793677963.2877607,
+  "last_analysis": 1793678563.7040246,
+  "last_news": 1793678572.6822848,
   "seen_news": [
-    "M\u1ed9t c\u1ed5 \u0111\u00f4ng l\u1edbn li\u00ean quan \u0111\u1ebfn b\u00e0 Th\u1ee7y Ti\u00ean mu\u1ed1n b\u00e1n h\u01a1n 2,6 tri\u1ec7u c\u1ed5 phi\u1ebfu c\u00f4ng ",
-    "Intel foundry push faces critical test after stock's 45% plunge in October",
-    "The tech helping crack decades-old cold cases",
-    "US senator wants \u2019full accounting\u2019 of Air Force One White House flyover",
-    "NASDAQ indices have given up their gains. Trade in negative territory",
-    "M\u1ed9t doanh nghi\u1ec7p c\u00f3 doanh thu v\u01b0\u1ee3t Vingroup, b\u1ecf xa Vinhomes, g\u1ea5p h\u01a1n 2 l\u1ea7n H\u00f2a P",
     "A Unified Experience for Investment Solutions: Brokeree\u2019s New Design System",
     "Th\u1ebf Gi\u1edbi Di \u0110\u1ed9ng, GELEX v\u00e0 Ho\u00e0ng Anh Gia Lai b\u1ea5t ng\u1edd ghi th\u00eam h\u00e0ng ngh\u00ecn t\u1ef7 \u0111\u1ed3ng",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "Lo\u1ea1i c\u00e2y n\u00ean tr\u1ed3ng ngay trong th\u00e1ng 11 n\u00e0y",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "Hong Kong Stocks Edge Higher on China Support Hopes - TradingView",
-    "Defense, healthcare, crypto and AI: How the midterm election could affect stocks"
+    "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+    "US tech stocks see sharp falls as AI spending nears $1tn",
+    "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
+    "If gold breaks lower, investors may look at these safe haven currencies: analyst",
+    "US election: The key races that could tip control of Congress",
+    "H\u00e0 N\u1ed9i m\u1eddi g\u1ecdi nh\u00e0 \u0111\u1ea7u t\u01b0 l\u00e0m b\u00e3i xe ng\u1ea7m t\u1ea1i lo\u1ea1t c\u00f4ng vi\u00ean l\u1edbn nh\u01b0 Th\u1ed1ng Nh\u1ea5t,"
   ]
 }
