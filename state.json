@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793687252.8168933,
+  "last_news_report": 1793698128.2029815,
   "last_bot4": 1793697800.0530946,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793697511.2477844,
+  "last_signals": 1793698128.2039335,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793697512.080446,
+    "Bitcoin|1D:bot": 1793698129.0003357,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793697503.4965363,
-  "last_news": 1793697511.2469523,
+  "last_analysis": 1793698113.4607291,
+  "last_news": 1793698121.9225833,
   "seen_news": [
-    "AI Earnings: 3 Reports to Watch This Week - TradingView",
-    "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Bid",
-    "North Korea denies being behind record $6.3bn Binance hack",
-    "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
-    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
-    "Iran talks stall as reported US strike and CIA advice undercut oil\u2019s 4% deal-hop",
     "Streeting denies 'kicking can down the road' in defence spending row",
     "Central Asia\u2019s Power Grid Faces a Major Test as Winter Approaches",
     "SK Hynix rejected below Ichimoku cloud: Live levels",
@@ -457,6 +451,12 @@
     "European stock market open: Stocks tumble across the board as risk sentiment sou",
     "L\u00fd do nhi\u1ec1u gia \u0111\u00ecnh th\u01b0\u1eddng \u0111\u1eb7t mu\u1ed1i tr\u1eafng trong ph\u00f2ng ng\u1ee7",
     "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Swiss Inflation Climbs More Than Expected - TradingView"
+    "Swiss Inflation Climbs More Than Expected - TradingView",
+    "Apple and Palantir shares slide in premarket trading following post-bell earning",
+    "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "Why is Palantir Technologies stock sliding today?",
+    "Gold trims gains after overnight strikes on Iran as the focus turns to the US mi",
+    "Ch\u1ee7 t\u1ecbch Viettel T\u00e0o \u0110\u1ee9c Th\u1eafng n\u00f3i g\u00ec v\u1ec1 con chip b\u1ea3o m\u1eadt \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam?",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance"
   ]
 }
