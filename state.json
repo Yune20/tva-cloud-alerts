@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793701202.7408996,
+  "last_signals": 1793701822.4609325,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -80,7 +80,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -90,7 +90,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793701203.8007686,
+    "Bitcoin|1D:bot": 1793701823.4390206,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793701195.8817894,
-  "last_news": 1793701202.740117,
+  "last_analysis": 1793701810.5402932,
+  "last_news": 1793701822.4600027,
   "seen_news": [
-    "Thu nh\u1eadp 35 tri\u1ec7u/th\u00e1ng, ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c 500 tri\u1ec7u, v\u1ee3 ch\u1ed3ng tr\u1ebb \u1edf H\u00e0 N\u1ed9i mu\u1ed1n mu",
-    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
-    "Virtu Financial Q2 Earnings Call Highlights - TradingView",
-    "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. mi",
-    "Ryanair says it may freeze workers' pay and raise airfares",
-    "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg",
     "The Dow Jones Index Closes 0.46% Higher - TradingView",
     "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
     "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -457,6 +451,12 @@
     "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
     "Key facts: CoreWeave Hits 52-Week Low; Expands CrowdStrike Partnership - Trading",
     "Oil prices climb after U.S. strikes Iran's Qeshm Island",
-    "No more washing up: How Airbnb's new house rules have divided hosts and guests"
+    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    "What analysts are saying as Apple\u2019s stock falls after earnings report",
+    "Baked by Melissa enters Target with first at-home cupcake mix",
+    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
+    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+    "JPMorgan\u2019s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%"
   ]
 }
