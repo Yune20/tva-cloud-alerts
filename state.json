@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793698740.8402662,
+  "last_signals": 1793699345.0866888,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793690396.7105443,
     "5575146754|Gold|4H|range_in": 1793683283.5973213,
@@ -79,7 +79,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793698741.3259308,
+    "Bitcoin|1D:bot": 1793699345.564796,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793682307.867977
   },
-  "last_analysis": 1793698732.9875267,
-  "last_news": 1793698740.8393586,
+  "last_analysis": 1793699337.0100105,
+  "last_news": 1793699345.085707,
   "seen_news": [
-    "PBOC is expected to set the USD/CNY reference rate at 6.6489 \u2013 Reuters estimate",
-    "Toyota Hilux s\u1eafp c\u00f3 b\u1ea3n m\u1edbi c\u1ea1nh tranh s\u00f2ng ph\u1eb3ng Ranger Raptor, d\u1ec5 ra m\u1eaft n\u0103m s",
-    "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
-    "FOX (NASDAQ:FOXA) reports strong Q3 CY2026 - TradingView",
-    "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
-    "Google value plunges by $500bn as its own AI search hits ad sales",
     "Ch\u1ea1y \u0111ua v\u1edbi AI \u0111\u1ebfn ki\u1ec7t s\u1ee9c, k\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m g\u1ea7n 10 n\u0103m kinh nghi\u1ec7m t\u00ednh b\u1ecf ngh\u1ec1",
     "VNZ: CTCP T\u1eadp \u0111o\u00e0n VNG - VNG Group - VietstockFinance",
     "Jazz Pharmaceuticals Q3 2026 Earnings Call Is Live - TradingView",
@@ -457,6 +451,12 @@
     "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
     "Brookfield plans for a $27 billion AI data center at UK power station",
     "North Korea denies being behind record $6.3bn Binance hack",
-    "Questions Mount Over Venezuela\u2019s Biggest Oil Deal"
+    "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
+    "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
+    "Trump is going to get 'trounced' in the midterms \u2014 and knows it, Anthony Scaramu",
+    "Drivers may get compensation offers before car finance saga ends",
+    "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
+    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
+    "China\u2019s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD"
   ]
 }
