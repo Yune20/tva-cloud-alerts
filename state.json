@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793681092.6377075,
+  "last_signals": 1793681700.6722245,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793670422.9274583,
     "5575146754|Gold|4H|range_in": 1793627423.014668,
@@ -65,7 +65,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -85,13 +85,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793681093.393548,
+    "Bitcoin|1D:bot": 1793681701.2219846,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "USOIL|4H:bot": 1793626806.195451,
     "DXY|1D:bot": 1793666982.16376
   },
-  "last_analysis": 1793681081.1901312,
-  "last_news": 1793681092.636953,
+  "last_analysis": 1793681692.5824504,
+  "last_news": 1793681700.6712546,
   "seen_news": [
-    "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
-    "Ng\u00e0nh ch\u1ee9ng kho\u00e1n tr\u01b0\u1edbc v\u1eadn h\u1ed9i m\u1edbi: V\u1ed1n l\u1edbn h\u01a1n, cho vay m\u1ea1nh h\u01a1n, c\u1ea1nh tranh k",
-    "DBC: CTCP T\u1eadp \u0111o\u00e0n Dabaco Vi\u1ec7t Nam - DABACO - VietstockFinance",
-    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
-    "Trump focuses on Reflecting Pool in final public speech before midterms",
-    "Why the UK is dithering over what to do about e-scooters",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
     "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
     "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
@@ -457,6 +451,12 @@
     "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "My hometown shows that high streets have to change or die",
     "Asian currencies mixed as yuan slides after PBOC move, won rebounds",
-    "After the Binance hack, the simple security rule regulators keep coming back to,"
+    "After the Binance hack, the simple security rule regulators keep coming back to,",
+    "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investm",
+    "City of London chief tops UK Black Powerlist",
+    "Adani Group seeks $1.5 bln loan for data center expansion- Economic Times",
+    "Iran\u2019s Pezeshkian says Supreme Leader has granted government some authority on d",
+    "1,6 tri\u1ec7u ng\u01b0\u1eddi Vi\u1ec7t \u0111ang \"ph\u00e1t h\u1eddn\" v\u00ec 1 b\u00e0i h\u00e1t: Ai ch\u01b0a c\u00f3 ng\u01b0\u1eddi y\u00eau c\u00e2n nh\u1eafc",
+    "AAA: CTCP Nh\u1ef1a An Ph\u00e1t Xanh - An Phat Bioplastics., JSC - VietstockFinance"
   ]
 }
