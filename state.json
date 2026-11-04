@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793832069.3639274,
+  "last_signals": 1793832681.627482,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,13 +88,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793832069.8957384,
+    "Bitcoin|1D:bot": 1793832682.9348347,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793832070.743229
+    "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793832059.5380917,
-  "last_news": 1793832069.3630023,
+  "last_analysis": 1793832672.2616735,
+  "last_news": 1793832681.6267052,
   "seen_news": [
-    "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
-    "FX option expiries for 4 November 10am New York cut",
-    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef c\u00e2u \u0111\u01b0\u1ee3c con c\u00e1 t\u1ea7m kh\u1ed5ng l\u1ed3 d\u00e0i 3,45 m\u00e9t tr\u00ean s\u00f4ng",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "H\u00e0 N\u1ed9i ch\u1ed1t gi\u00e1 5 tuy\u1ebfn metro d\u00e0i 253km, chi ph\u00ed t\u1ed1i \u0111a 120 tri\u1ec7u USD/km",
     "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
     "Swedencare appoints Kristy Murphy as Interim CEO of Naturvet - TradingView",
@@ -462,6 +456,12 @@
     "Shop freezers in seven European countries hit by cyber-attack",
     "Chime raises annual revenue forecast on robust demand",
     "Snap user count falls short at 495 million as profit beat offsets slight revenue",
-    "V\u1ee3 ch\u1ed3ng 30 tu\u1ed5i vay 7,3 t\u1ef7 \u0111\u1ed3ng mua nh\u00e0, thu nh\u1eadp 150 tri\u1ec7u/th\u00e1ng v\u1eabn ch\u1eadt v\u1eadt"
+    "V\u1ee3 ch\u1ed3ng 30 tu\u1ed5i vay 7,3 t\u1ef7 \u0111\u1ed3ng mua nh\u00e0, thu nh\u1eadp 150 tri\u1ec7u/th\u00e1ng v\u1eabn ch\u1eadt v\u1eadt",
+    "The AI telling farmers when to harvest",
+    "Arm forecasts third-quarter revenue above estimates on AI spending boom",
+    "Arm shares fall 5% after hours despite Q2 beat as outlook only edges past foreca",
+    "5 th\u1ef1c ph\u1ea9m t\u00e0n ph\u00e1 gan ngang u\u1ed1ng r\u01b0\u1ee3u n\u1ebfu l\u1ea1m d\u1ee5ng",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
+    "MKS launches $500M share repurchase program - TradingView"
   ]
 }
