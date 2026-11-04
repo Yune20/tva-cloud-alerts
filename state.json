@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793762856.5290952,
+  "last_signals": 1793763464.111592,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -81,13 +81,13 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -140,7 +140,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793762857.263954,
+    "Ethereum|4H:bot": 1793763465.2759378,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793762857.864823
+    "EUR/USD|1D:top": 1793763466.1137931
   },
-  "last_analysis": 1793762848.1828537,
-  "last_news": 1793762856.528166,
+  "last_analysis": 1793763456.2167134,
+  "last_news": 1793763464.1106296,
   "seen_news": [
-    "To\u00e0n c\u1ea3nh c\u1ea7u d\u00e2y v\u0103ng g\u1ea7n 12.000 t\u1ef7 \u0111\u1ed3ng b\u1eafc qua s\u00f4ng H\u1ed3ng: Tr\u1ee5 th\u00e1p cao t\u01b0\u01a1ng ",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV",
-    "Apple warns of risks related to AI agents behaving in 'unintended or unpredictab",
-    "The Indian workers filming their work to train AI",
-    "S&P 500 Santa Claus rally: what history says and where the index stands",
     "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
     "Inovio Wins FDA Accelerated Approval for VOCERYQ to Reduce RRP Surgery - Trading",
     "Binance breach puts custody at center of crypto infrastructure trade",
@@ -458,6 +452,12 @@
     "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
     "JOLTs Job openings 7.523M vs 7.100M estimate",
     "H\u00e0 N\u1ed9i nghi\u00ean c\u1ee9u ph\u01b0\u01a1ng \u00e1n t\u00e1i \u0111\u1ecbnh c\u01b0 m\u1edf r\u1ed9ng \u0111\u01b0\u1eddng Nguy\u1ec5n Phong S\u1eafc",
-    "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance"
+    "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance",
+    "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Rep",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "CVS Health to split into two publicly traded companies by 2028, FT reports",
+    "If you squint, the odds are improving slightly for Republican Senate control",
+    "C\u1ea7u 280 t\u1ef7 \u0111\u1ed3ng sau 5 n\u0103m thi c\u00f4ng v\u1eabn dang d\u1edf",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance"
   ]
 }
