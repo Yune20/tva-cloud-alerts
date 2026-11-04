@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793771512.8596334,
+  "last_signals": 1793772122.6179395,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -64,7 +64,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": false,
@@ -78,7 +78,7 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -88,7 +88,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -143,8 +143,8 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793768430.1897576,
-    "Bitcoin|1D:bot": 1793771513.835768,
+    "EUR/USD|4H:top": 1793772123.8777897,
+    "Bitcoin|1D:bot": 1793772123.1133244,
     "DXY|4H:bot": 1793769662.1118343,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793771515.113875
+    "EUR/USD|1D:top": 1793772123.8778086
   },
-  "last_analysis": 1793771504.141058,
-  "last_news": 1793771512.8586495,
+  "last_analysis": 1793772114.2279778,
+  "last_news": 1793772122.6170123,
   "seen_news": [
-    "Automakers back Trump administration\u2019s rollback of US fuel economy rules",
-    "Bitcoin sellers had their shot and missed. Now it is the buyers\u2019 turn.",
-    "Nh\u00e0 n\u00e0o \u0111ang tr\u1ed3ng c\u00e2y kh\u1ebf n\u00ean nh\u1edb 4 \u0111i\u1ec1u quan tr\u1ecdng",
-    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
-    "Jazz climbs as 2026 revenue guidance boosted - TradingView",
-    "Bill Ackman warns of 'casino' stock market as speculative trading grows",
     "investingLive Americas market news wrap: Job openings jump as the US votes",
     "C\u00f4ng ty \u1ea4n \u0111\u1ed9 cung c\u1ea5p ph\u1ea7n m\u1ec1m cho h\u01a1n 20 tri\u1ec7u \u00f4 t\u00f4 v\u1eeba quy\u1ebft \u0111\u1ecbnh l\u1eadp c\u00f4ng ty",
     "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
@@ -458,6 +452,12 @@
     "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
     "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
     "Mining giant joins fight to stop killer toad march across Australia",
-    "Treasury yields edge up as Election Day meets JOLTS, refunding"
+    "Treasury yields edge up as Election Day meets JOLTS, refunding",
+    "Car finance compensation payments explained",
+    "EloElo raises $80 million with NBCUniversal backing",
+    "Tough to buy into the Iran headlines in the context of the election",
+    "22 c\u00f4ng d\u00e2n b\u1ecb Hoa K\u1ef3 tr\u1ee5c xu\u1ea5t",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Vietnam dong, gold rates - November 4 - TradingView"
   ]
 }
