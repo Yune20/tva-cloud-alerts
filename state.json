@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793829273.1915157,
+  "last_signals": 1793829880.71319,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
@@ -125,7 +125,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793778652.0054686,
-    "Gold|4H:top": 1793829273.6375048,
+    "Gold|4H:top": 1793829881.0716302,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793829274.549262,
+    "Bitcoin|1D:bot": 1793829881.672783,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793829276.4123871
+    "EUR/USD|1D:top": 1793829883.6871219
   },
   "last_analysis": 1793829578.9819396,
-  "last_news": 1793829273.190758,
+  "last_news": 1793829880.7125003,
   "seen_news": [
-    "China Now Home to Nearly Half of World's Clean Industrial Plants",
-    "Jeweller Pandora nudges up 2026 outlook helped by demand for novelties",
-    "investingLive European news wrap: Markets remain cautious as focus shifts to US ",
-    "Huy\u1ec1n tho\u1ea1i Warren Buffett l\u1ea1i \"\u0111i tr\u01b0\u1edbc th\u1eddi \u0111\u1ea1i\": C\u1ed5 phi\u1ebfu l\u1edbn nh\u1ea5t danh m\u1ee5c t",
-    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
-    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
     "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to ",
     "Th\u1ee7 t\u01b0\u1edbng: \"Sau r\u1ea5t nhi\u1ec1u n\u0103m, gi\u00e1 \u0111i\u1ec7n m\u1edbi gi\u1ea3m, tr\u00ean c\u01a1 s\u1edf \u0111\u00e1nh gi\u00e1 r\u1ea5t k\u1ef9 t\u00ecn",
     "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
@@ -462,6 +456,12 @@
     "Figma\u2019s stock falls as investors worry that AI momentum is coming at a high pric",
     "What was really behind Wednesday's monster rally? Trump quickly making peace",
     "Pound rises to its highest level since the Brexit referendum",
-    "After-Hours Movers: QCOM, COHR, APP, HUBS, SNAP, FSLY, FIG, ZG, BROS, CDE"
+    "After-Hours Movers: QCOM, COHR, APP, HUBS, SNAP, FSLY, FIG, ZG, BROS, CDE",
+    "Can Cheap Batteries Deliver COP31\u2019s 35% Electrification Goal?",
+    "Arm\u2019s third-quarter revenue forecast above estimates but investors unimpressed",
+    "How will central banks wrap up the year?",
+    "H\u00e3ng t\u00e0u h\u00e0ng \u0111\u1ea7u H\u00e0 Lan ch\u1ecdn m\u1ed9t x\u01b0\u1edfng \u1edf H\u1ea3i Ph\u00f2ng l\u00e0m c\u1ee9 \u0111i\u1ec3m n\u01b0\u1edbc ngo\u00e0i: V\u1eeba ",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
+    "Lancashire Q3 2026 Earnings Call Is Live - TradingView"
   ]
 }
