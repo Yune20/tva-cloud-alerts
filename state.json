@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793778650.7108057,
+  "last_signals": 1793779248.2007174,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793778651.6663446,
+    "Bitcoin|1D:bot": 1793779248.7185936,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793778652.9534607
+    "EUR/USD|1D:top": 1793779249.4457161
   },
-  "last_analysis": 1793778640.3788688,
-  "last_news": 1793778650.7098763,
+  "last_analysis": 1793779239.8696918,
+  "last_news": 1793779248.199825,
   "seen_news": [
-    "L\u1eddi khuy\u00ean \u0111\u1ebfn t\u1ea5t c\u1ea3 nh\u1eefng ai th\u00edch \u0103n c\u01a1m chan n\u01b0\u1edbc canh",
-    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
-    "Duolingo Q3 2026 Earnings Call Is Live - TradingView",
-    "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasef",
-    "Binance users withdraw $3.6bn after largest-ever crypto hack",
-    "IEA Warns Global Gas Crunch Could Last Well into 2027",
     "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
     "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
     "New national home listing database is taking on Compass in the battle for contro",
@@ -459,6 +453,12 @@
     "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
     "What's happening to UK interest rates and what does it mean for mortgages?",
     "Big Oil Puts Debt Reduction Ahead of New Investments",
-    "Zeal Network raises 2026 sales guidance after Q3 results"
+    "Zeal Network raises 2026 sales guidance after Q3 results",
+    "Gold, silver and precious metals prices jump, dollar dips as Democrats take cont",
+    "Shop freezers in seven European countries hit by cyber-attack",
+    "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
+    "Crypto dips on Democrat midterm wins, Binance hack dent optimism",
+    "Carney says US trade talks to intensify as Washington asks less and offers mor",
+    "Kh\u1ea3 Ng\u00e2n v\u00e0 Nhan Ph\u00fac Vinh \u0111i ch\u1ee5p \u1ea3nh c\u01b0\u1edbi, c\u00f4 d\u00e2u l\u1ed9 b\u1ee5ng l\u1edbn"
   ]
 }
