@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793763761.5960753,
+  "last_news_report": 1793774595.2345424,
   "last_bot4": 1793774262.69277,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793773976.7992375,
+  "last_signals": 1793774595.2355878,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,13 +68,13 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
@@ -144,9 +144,9 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793773978.5338311,
-    "Bitcoin|1D:bot": 1793773977.5070484,
-    "DXY|4H:bot": 1793773361.6899889,
+    "EUR/USD|4H:top": 1793774597.5039117,
+    "Bitcoin|1D:bot": 1793774596.2185698,
+    "DXY|4H:bot": 1793774598.1766725,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793773978.533842
+    "EUR/USD|1D:top": 1793774597.5039644
   },
-  "last_analysis": 1793773968.0588765,
-  "last_news": 1793773976.7984524,
+  "last_analysis": 1793774578.700723,
+  "last_news": 1793774587.5130885,
   "seen_news": [
-    "IXIC: Nasdaq Futures Rebound with Apple Earnings, US Midterm Elections Ahead - T",
-    "Job openings posted big September gain in positive sign for labor market ahead o",
-    "Living with a stink? Technology might help",
-    "Brent Flash Crashes $6 Before Rebounding Towards $104",
-    "Dollar ticks up with eyes on U.S. midterm elections; Aussie slips despite RBA hi",
-    "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
     "Crude oil prices fall for second day as market hopes for diplomatic resolution t",
     "Poundland's former owner offers to invest as minister prepares to meet board",
     "Dubai Benchmark Slips Into Contango for the First Time Since July",
@@ -459,6 +453,12 @@
     "BlackRock American Income Trust plc Sells 225,000 Treasury Shares - TradingView",
     "Democrats win the House and Senate. Here\u2019s what it means for your finances.",
     "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke",
-    "Asda hires ex-Morrisons boss in bid to grow firm"
+    "Asda hires ex-Morrisons boss in bid to grow firm",
+    "Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B - TradingView",
+    "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
+    "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    "Christmas 2026 stamps unveiled by Royal Mail",
+    "Oil Prices Rebound as Middle East Supply Fears Return",
+    "Treasuries steady as traders weigh midterm vote and AI trade"
   ]
 }
