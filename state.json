@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793781456.6046088,
+  "last_signals": 1793782068.2847207,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,11 +68,11 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793781457.0463936,
+    "Bitcoin|1D:bot": 1793782068.7674196,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,15 +157,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793781457.633309
   },
-  "last_analysis": 1793781449.5839953,
-  "last_news": 1793781456.6038454,
+  "last_analysis": 1793782060.576835,
+  "last_news": 1793782068.28372,
   "seen_news": [
-    "IWG Q3 Earnings Call Highlights - TradingView",
-    "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-    "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "Global Diesel Crunch Set to Last Well Into 2027",
-    "LATAM Airlines trims earnings outlook as fuel costs bite",
-    "Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WG",
     "Canva announces major job cuts after 'our hardest year yet'",
     "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
     "3M to take $5.8 billion hit under PFAS personal injury settlement",
@@ -459,6 +453,12 @@
     "Aehr Test Systems Stock 12\u2011Month Price Target Cut to $127, Implies 95% Upside - ",
     "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
     "Why the UK is dithering over what to do about e-scooters",
-    "Bottler Coca-Cola\u00a0Europacific Partners flags cost pressures, keeps outlook"
+    "Bottler Coca-Cola\u00a0Europacific Partners flags cost pressures, keeps outlook",
+    "Jim Cramer sees signs of life in tech stocks \u2014 but not from the usual winners",
+    "Why Gen Z are planning for life without a state pension",
+    "Why is Bayerische Motoren Werke stock sliding today?",
+    "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this we",
+    "C\u00f4ng an v\u00e0o cu\u1ed9c c\u1ea3nh b\u00e1o: Bi\u1ebfn t\u01b0\u1edbng t\u1eeb ho\u1ea1t \u0111\u1ed9ng '\u0111i ch\u00f9a online', y\u00eau c\u1ea7u ng\u01b0",
+    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance"
   ]
 }
