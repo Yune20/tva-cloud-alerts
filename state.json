@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793783909.158516,
+  "last_signals": 1793784529.6065753,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
-    "5575146754|Gold|1H|trap_up": 1793782676.333451,
+    "5575146754|Gold|1H|trap_up": 1793784529.6065753,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793776806.1635826,
     "5575146754|Gold|4H|dtop": 1793777418.4379046,
@@ -50,7 +50,8 @@
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
-    "5575146754|Gold|1H|momo_up": 1793774948.0045073
+    "5575146754|Gold|1H|momo_up": 1793774948.0045073,
+    "5575146754|Gold|4H|up": 1793784529.6065753
   },
   "sig_range": {
     "Gold": true,
@@ -145,7 +146,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793783909.8827546,
+    "Bitcoin|1D:bot": 1793784530.4591568,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,15 +158,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793783300.5114222
   },
-  "last_analysis": 1793783900.9554942,
-  "last_news": 1793783909.1577213,
+  "last_analysis": 1793784521.0172107,
+  "last_news": 1793784529.6057837,
   "seen_news": [
-    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "Don't get caught out by new Buy Now Pay Later rules",
-    "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
-    "Tesla misled South Korean buyers over Full Self-Driving, consumer group alleges",
-    "T\u1ed5ng th\u1ed1ng Trump b\u1ea5t ng\u1edd tuy\u00ean b\u1ed1 ch\u1ea5m d\u1ee9t vi\u1ec7n tr\u1ee3 qu\u00e2n s\u1ef1 h\u00e0ng n\u0103m cho Israel",
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
     "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investm",
     "Why are more roofs not made of solar tiles?",
     "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
@@ -459,6 +454,12 @@
     "What in the World",
     "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
     "German yields steady as U.S. midterm shifts and eurozone CPI loom",
-    "Italy October services PMI 52.0 vs 51.5 expected"
+    "Italy October services PMI 52.0 vs 51.5 expected",
+    "Graduates are managing AI - but are they learning much else?",
+    "Brazil's Data Center Push Hinges on Gas Rules, Grid Access and a New Congress",
+    "U.S. stock futures turn positive as Dems sweep Congress; AMD rises",
+    "Why the Democrats' victory in the US midterm elections is driving gold higher an",
+    "Lao c\u00f4ng b\u1ed7ng n\u1ed5i ti\u1ebfng v\u00ec th\u1ea7n th\u00e1i nh\u01b0 ng\u00f4i sao: Qu\u00e1 kh\u1ee9 b\u1ecb ch\u00ea x\u1ea5u trai, kh\u00f4n",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
