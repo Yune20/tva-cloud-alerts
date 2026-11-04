@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793763464.111592,
+  "last_signals": 1793764079.836156,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -156,15 +156,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793763466.1137931
   },
-  "last_analysis": 1793763456.2167134,
-  "last_news": 1793763464.1106296,
+  "last_analysis": 1793764069.713142,
+  "last_news": 1793764079.8352516,
   "seen_news": [
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
-    "Inovio Wins FDA Accelerated Approval for VOCERYQ to Reduce RRP Surgery - Trading",
-    "Binance breach puts custody at center of crypto infrastructure trade",
-    "The grads ditching the UK for a fresh start abroad",
-    "JetBlue raises checked bag fees to $70 amid fuel costs",
-    "Three warning signs the tech selloff isn't over as Wall Street sentiment hangs b",
     "FOX (NASDAQ:FOXA) reports strong Q3 CY2026 - TradingView",
     "JetBlue raises bag fees for third time in a year as fuel costs bite",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
@@ -458,6 +452,12 @@
     "CVS Health to split into two publicly traded companies by 2028, FT reports",
     "If you squint, the odds are improving slightly for Republican Senate control",
     "C\u1ea7u 280 t\u1ef7 \u0111\u1ed3ng sau 5 n\u0103m thi c\u00f4ng v\u1eabn dang d\u1edf",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance"
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "+72%, +40%: How two AI-picked drugmakers beat and raised in one week",
+    "US September factory orders +1.8% vs +1.2% expected",
+    "X\u00e2y n\u1ec1n khu t\u00e1i \u0111\u1ecbnh c\u01b0 44 t\u1ef7 \u0111\u1ed3ng b\u1eb1ng \u0111\u00e1 h\u1ed9c, r\u1ec5 c\u00e2y?",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds - TradingView",
+    "Midterm elections could jolt stocks as Democrats look poised to sweep Congress"
   ]
 }
