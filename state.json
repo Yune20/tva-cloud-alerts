@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793831458.17774,
+  "last_signals": 1793832069.3639274,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,7 +78,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793831459.4315295,
+    "Bitcoin|1D:bot": 1793832069.8957384,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793831461.2295377
+    "EUR/USD|1D:top": 1793832070.743229
   },
-  "last_analysis": 1793831448.808035,
-  "last_news": 1793831458.1768892,
+  "last_analysis": 1793832059.5380917,
+  "last_news": 1793832069.3630023,
   "seen_news": [
-    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
-    "AMD Shares Jump 5% After Quarterly Report Shows AI Sales Keep Going Strong - Tra",
-    "What the 2026 midterm elections could mean for Trump's final two years",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Smith+Nephew cuts outlook, confirms failed merger talks with J&J\u2019s orthopaedics ",
-    "What are the main events for today?",
     "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
     "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
@@ -462,6 +456,12 @@
     "How do Americans feel about the midterm results? It depends on how much money th",
     "Prediction markets cement their status after forecasting Democratic sweep of Con",
     "How video game remakes tap the power of nostalgia",
-    "Coty tops estimates on prestige brands boost amid turnaround"
+    "Coty tops estimates on prestige brands boost amid turnaround",
+    "Qualcomm\u2019s stock falls as twin forces pressure sales",
+    "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on ",
+    "Shop freezers in seven European countries hit by cyber-attack",
+    "Chime raises annual revenue forecast on robust demand",
+    "Snap user count falls short at 495 million as profit beat offsets slight revenue",
+    "V\u1ee3 ch\u1ed3ng 30 tu\u1ed5i vay 7,3 t\u1ef7 \u0111\u1ed3ng mua nh\u00e0, thu nh\u1eadp 150 tri\u1ec7u/th\u00e1ng v\u1eabn ch\u1eadt v\u1eadt"
   ]
 }
