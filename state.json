@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793809054.6758223,
+  "last_signals": 1793809571.2412634,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -77,7 +77,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793809055.6109471,
+    "Bitcoin|1D:bot": 1793809572.1341736,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,19 +155,13 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
-    "DXY|1D:bot": 1793682307.867977,
+    "DXY|1D:bot": 1793809573.7805045,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793809056.9411368
+    "EUR/USD|1D:top": 1793809573.2375848
   },
-  "last_analysis": 1793809036.563841,
-  "last_news": 1793809046.6503448,
+  "last_analysis": 1793809562.1984653,
+  "last_news": 1793809571.2401032,
   "seen_news": [
-    "Nh\u00e0 3 t\u1ea7ng mang d\u00e1ng d\u1ea5p ph\u1ed1 x\u01b0a v\u1edbi m\u00e1i ng\u00f3i \u0111\u1ecf v\u00e0 c\u1eeda v\u00f2m",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "Japan Monetary Base Declines for 15th Straight Month - TradingView",
-    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. ",
-    "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "Iran War Triples Logistics Costs for Oil Services Firms",
     "No more rice grains in Kellogg's Rice Krispies due to changing weather",
     "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
     "The very early results in Kentucky show a massive swing towards Democrats",
@@ -461,6 +455,12 @@
     "Gold gains 3% as dollar slides after Democratic midterm gains - TradingView",
     "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
     "Analysis: The Democrats have one chance to extract concessions from Trump. Marke",
-    "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterm"
+    "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterm",
+    "Canfor Pulp Products Q3 2026 Earnings Call Is Live - TradingView",
+    "Micron and other chip stocks slip as election results strike at the core of data",
+    "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+    "Poundland owner in crunch talks as retailer's collapse looms",
+    "US Oil Inventories Fall Further As Demand Holds",
+    "Treasuries rally as Democrats sweep into Congress"
   ]
 }
