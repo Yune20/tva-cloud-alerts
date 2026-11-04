@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793835744.7793806,
+  "last_signals": 1793836358.9954517,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,13 +88,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793835745.5146928,
+    "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1793835745.0047975,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793835745.3109095,
+    "Bitcoin|1D:bot": 1793836359.5371382,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793835735.2977407,
-  "last_news": 1793835744.7785552,
+  "last_analysis": 1793836348.8591397,
+  "last_news": 1793836358.9946048,
   "seen_news": [
-    "XAUUSD / BTCUSD: Gold Is Back Above $4,000, Bitcoin Recovers from Election Shake",
-    "Google responds to political backlash over removing search from schools that ban",
-    "What in the World",
-    "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
-    "German yields steady as U.S. midterm shifts and eurozone CPI loom",
-    "Italy October services PMI 52.0 vs 51.5 expected",
     "Graduates are managing AI - but are they learning much else?",
     "Brazil's Data Center Push Hinges on Gas Rules, Grid Access and a New Congress",
     "U.S. stock futures turn positive as Dems sweep Congress; AMD rises",
@@ -462,6 +456,12 @@
     "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
     "ACRES Commercial Realty Q3 revenue beats estimates; completed merger with manage",
     "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into an",
-    "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one"
+    "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Datadog 3Q 2026: Revenue $1.2B, Net income $118.32M, EPS $0.32\u2014 10-Q Summary - T",
+    "\u2018My life could be cut short\u2019: I\u2019m 55, married with $4.3 million and have a brain",
+    "What Wall Street billionaires are saying about Democrats' midterm sweep",
+    "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "Elf sees Q2 sales boost with marketing, Europe expansion"
   ]
 }
