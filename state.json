@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793822167.4960518,
+  "last_signals": 1793822780.6920528,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -83,9 +83,9 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793822168.683872,
+    "Bitcoin|1D:bot": 1793822781.6827724,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,19 +156,13 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
-    "DXY|1D:bot": 1793822169.842525,
+    "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793822169.4612856
+    "EUR/USD|1D:top": 1793822782.9552612
   },
-  "last_analysis": 1793822159.9357398,
-  "last_news": 1793822167.4952464,
+  "last_analysis": 1793822771.524388,
+  "last_news": 1793822780.6912014,
   "seen_news": [
-    "Asia stocks tumble as tech shares slide on U.S. election results",
-    "China\u2019s yuan slides to two-week low as PBOC moves to slow its rally",
-    "M\u1eb7t tr\u1eadn m\u1edbi khi\u1ebfn 32 n\u01b0\u1edbc b\u1ea5t l\u1ee3i tr\u01b0\u1edbc Nga: Moscow \"d\u1ef1ng ph\u00e1o \u0111\u00e0i\" \u1edf v\u00f9ng \u0111\u1ea5t ",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Dollar Falls on Strong Democratic Showing - TradingView",
-    "Treasury yields fall as investors crowd into bonds for safety amid election stoc",
     "US midterms: Poll closing times today",
     "L\u1eadp c\u00f4ng ty 'ma' d\u1ef1ng d\u1ef1 \u00e1n \u0111\u1ea7u t\u01b0 gi\u1ea3, l\u1eeba h\u01a1n 100 t\u1ef7 \u0111\u1ed3ng qua app LB-Pro",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -462,6 +456,12 @@
     "Why is Vermilion Energy stock tumbling today?",
     "AUD/USD rebounds above 0.7000 as US dollar slides but key technical hurdles rema",
     "M\u1ed9t c\u00f4ng ty ch\u1ed1t ng\u00e0y tr\u1ea3 c\u1ed5 t\u1ee9c ti\u1ec1n m\u1eb7t 20% trong th\u00e1ng n\u00e0y",
-    "SAB: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - SABECO - Vietsto"
+    "SAB: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Bia - R\u01b0\u1ee3u - N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n - SABECO - Vietsto",
+    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
+    "Kennametal 2026: Revenue $768.19M, Net income $274.46M, EPS $3.48\u2014 10-Q Summary ",
+    "Microsoft and Amazon combine for a $400 billion market-cap boost \u2014\u00a0and these fac",
+    "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline"
   ]
 }
