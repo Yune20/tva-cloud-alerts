@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793780230.5603917,
+  "last_signals": 1793780848.9649298,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,7 +82,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793780231.5770445,
+    "Bitcoin|1D:bot": 1793780849.7642941,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793780233.0129275
+    "EUR/USD|1D:top": 1793780850.9187875
   },
-  "last_analysis": 1793780221.8823686,
-  "last_news": 1793780230.559588,
+  "last_analysis": 1793780840.796799,
+  "last_news": 1793780848.9640656,
   "seen_news": [
-    "CVS Health to break up into two companies, WSJ reports",
-    "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this we",
-    "Ch\u00e2n dung \"th\u1ea7n \u0111\u1ed3ng\" 17 tu\u1ed5i khi\u1ebfn c\u1ea3 gi\u1edbi c\u00f4ng ngh\u1ec7 ch\u00fa \u00fd",
-    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
-    "Clarus Q2 Earnings Call Highlights - TradingView",
-    "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
     "BMW issues second profit warning, says car business could slip into operating lo",
     "Mi\u1ec1n B\u1eafc s\u1eafp \u0111\u00f3n  kh\u00f4ng kh\u00ed l\u1ea1nh li\u00ean ti\u1ebfp",
     "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
@@ -459,6 +453,12 @@
     "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
     "FX option expiries for 4 November 10am New York cut",
     "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef c\u00e2u \u0111\u01b0\u1ee3c con c\u00e1 t\u1ea7m kh\u1ed5ng l\u1ed3 d\u00e0i 3,45 m\u00e9t tr\u00ean s\u00f4ng",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance"
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "H\u00e0 N\u1ed9i ch\u1ed1t gi\u00e1 5 tuy\u1ebfn metro d\u00e0i 253km, chi ph\u00ed t\u1ed1i \u0111a 120 tri\u1ec7u USD/km",
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
+    "Swedencare appoints Kristy Murphy as Interim CEO of Naturvet - TradingView",
+    "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+    "Poundland supplier 'will lose millions' if retailer collapses",
+    "Iran War Doubles Egypt\u2019s LNG Bill as Gas Output Keeps Falling"
   ]
 }
