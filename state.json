@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793774595.2345424,
-  "last_bot4": 1793778939.1613824,
+  "last_bot4": 1793779619.8429723,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793779248.2007174,
+  "last_signals": 1793779619.8435564,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,14 +82,14 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|1H": true,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -122,7 +122,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793778652.0054686,
-    "Gold|4H:top": 1793778042.1102793,
+    "Gold|4H:top": 1793779620.2264504,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793779248.7185936,
+    "Bitcoin|1D:bot": 1793779621.013613,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793779249.4457161
+    "EUR/USD|1D:top": 1793779622.676811
   },
-  "last_analysis": 1793779239.8696918,
-  "last_news": 1793779248.199825,
+  "last_analysis": 1793779611.1419072,
+  "last_news": 1793779619.842079,
   "seen_news": [
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
-    "New national home listing database is taking on Compass in the battle for contro",
-    "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
-    "Two reasons why the US could attack Iran as soon as tomorrow",
     "Poundland supplier 'will lose millions' if retailer collapses",
     "Iran War Doubles Egypt\u2019s LNG Bill as Gas Output Keeps Falling",
     "Suncor Energy tops profit estimates on higher oil prices, margins",
@@ -459,6 +453,12 @@
     "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
     "Crypto dips on Democrat midterm wins, Binance hack dent optimism",
     "Carney says US trade talks to intensify as Washington asks less and offers mor",
-    "Kh\u1ea3 Ng\u00e2n v\u00e0 Nhan Ph\u00fac Vinh \u0111i ch\u1ee5p \u1ea3nh c\u01b0\u1edbi, c\u00f4 d\u00e2u l\u1ed9 b\u1ee5ng l\u1edbn"
+    "Kh\u1ea3 Ng\u00e2n v\u00e0 Nhan Ph\u00fac Vinh \u0111i ch\u1ee5p \u1ea3nh c\u01b0\u1edbi, c\u00f4 d\u00e2u l\u1ed9 b\u1ee5ng l\u1edbn",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
+    "AMD Shares Jump 5% After Quarterly Report Shows AI Sales Keep Going Strong - Tra",
+    "What the 2026 midterm elections could mean for Trump's final two years",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "Smith+Nephew cuts outlook, confirms failed merger talks with J&J\u2019s orthopaedics ",
+    "What are the main events for today?"
   ]
 }
