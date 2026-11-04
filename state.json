@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793814039.084267,
+  "last_signals": 1793814656.89316,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -85,7 +85,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793814039.4848318,
+    "Bitcoin|1D:bot": 1793814657.440471,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793814040.123807
+    "EUR/USD|1D:top": 1793814658.3293421
   },
-  "last_analysis": 1793814030.5716946,
-  "last_news": 1793814039.0833774,
+  "last_analysis": 1793814650.5663655,
+  "last_news": 1793814656.8921764,
   "seen_news": [
-    "AMD\u2019s OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-    "Update: Iran says Hormuz stays shut until demands met as US deal remains far off",
-    "Ph\u1ea1t r\u1ea5t n\u1eb7ng, v\u00ec sao v\u1eabn t\u00e1i di\u1ec5n n\u1ea1n phi xe m\u00e1y l\u00ean v\u1ec9a h\u00e8?",
-    "PHR: CTCP Cao su Ph\u01b0\u1edbc H\u00f2a - PHURUCO - VietstockFinance",
-    "What do Israel's elections mean for oil prices? - TradingView",
-    "CrowdStrike launches AI kill switch that it says can stop internal agents that g",
     "Iran tensions rise as report details U.S. strike contingency and intelligence di",
     "\u0110\u1ed9t qu\u1ef5 sau khi xoa b\u00f3p, k\u00e9o gi\u00e3n v\u00f9ng c\u1ed5 kh\u00f4ng \u0111\u00fang k\u1ef9 thu\u1eadt",
     "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
@@ -461,6 +455,12 @@
     "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
     "National Bank of Greece Q3 2026 Earnings Call Is Live - TradingView",
     "Hospital stocks rally while drugmakers brace for scrutiny. Here\u2019s what the Democ",
-    "Elon Musk\u2019s record election bet backfired. The backlash may reach beyond one bil"
+    "Elon Musk\u2019s record election bet backfired. The backlash may reach beyond one bil",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "Modine Manufacturing Company Q2 2027 Earnings Call Is Live - TradingView",
+    "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and ",
+    "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "Democrats Win Texas Oil Regulator Seat for First Time Since 1990"
   ]
 }
