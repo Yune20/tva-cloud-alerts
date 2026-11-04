@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793758001.7081892,
+  "last_signals": 1793758626.4790807,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -69,12 +69,12 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793758002.9203413
+    "EUR/USD|1D:top": 1793758627.6976566
   },
-  "last_analysis": 1793757992.700674,
-  "last_news": 1793758001.707211,
+  "last_analysis": 1793758618.0767,
+  "last_news": 1793758626.4782584,
   "seen_news": [
-    "261 m\u00e1y bay mang qu\u1ed1c t\u1ecbch Vi\u1ec7t Nam \u0111ang n\u1eb1m trong tay ai?",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "Worldwide Healthcare Trust PLC Buys 2,365,270 Shares at 390.31p - TradingView",
-    "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
-    "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-    "Shopify faces pressure to prove holiday spending can deliver stronger growth",
     "NVL: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 \u0110\u1ecba \u1ed1c No Va - NOVALAND GROUP CORP - VietstockFinance",
     "What do Israel's elections mean for oil prices? - TradingView",
     "Baked by Melissa enters Target with first at-home cupcake mix",
@@ -458,6 +452,12 @@
     "3M commits $7.35 billion to settle \u2019forever chemicals\u2019-related claims",
     "China services PMI slows to 50.8 in October as price cuts meet rising costs",
     "DeepSeek d\u1ea1y AI bi\u1ebft ch\u1ee7 \u0111\u1ed9ng nh\u1eadn vi\u1ec7c, kh\u00f4ng c\u1ea7n t\u1edbi con ng\u01b0\u1eddi n\u1eefa",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance"
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
+    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
+    "Irish Services Sector Growth Remains Solid in October - TradingView",
+    "Sullivan: What the 2026 midterms could mean for energy investors",
+    "North Korea denies being behind record $6.3bn Binance hack",
+    "CVS tests breakup of retail, insurance businesses, source says",
+    "Sell tech, sell USD and other signals from the massive blue wave that's unfoldin"
   ]
 }
