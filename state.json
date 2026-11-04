@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793775567.9941022,
+  "last_signals": 1793776185.2991984,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
-    "5575146754|Gold|1H|trap_up": 1793773976.7992375,
+    "5575146754|Gold|1H|trap_up": 1793776185.2991984,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793213775.711567,
     "5575146754|Gold|4H|dtop": 1793230210.644832,
@@ -83,8 +83,8 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
-    "EUR/USD|1D": false,
+    "EUR/USD|4H": true,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -145,8 +145,8 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793775568.4330575,
-    "DXY|4H:bot": 1793774950.4103916,
+    "Bitcoin|1D:bot": 1793776185.716363,
+    "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793775569.0363438
+    "EUR/USD|1D:top": 1793776186.3645678
   },
-  "last_analysis": 1793775559.7582352,
-  "last_news": 1793775567.9923625,
+  "last_analysis": 1793776177.6001873,
+  "last_news": 1793776185.2985892,
   "seen_news": [
-    "Super Micro shares rise after hours as revenue nears $20bn and Q2 guidance tops ",
-    "Kh\u00f4ng ph\u1ea3i chu\u1ed1i hay xo\u00e0i, \u0111\u00e2y m\u1edbi l\u00e0 lo\u1ea1i qu\u1ea3 gi\u00fap b\u1ea1n ng\u1ee7 ngon v\u00e0 s\u00e2u gi\u1ea5c h\u01a1n",
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
-    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV",
-    "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
-    "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's",
     "X\u0103ng E5 gi\u1ea3m h\u01a1n 1.000 \u0111\u1ed3ng/l\u00edt, d\u1ea7u mazut t\u0103ng gi\u00e1",
     "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
     "U.S. GoldMining Received Notice of Noncompliance - TradingView",
@@ -459,6 +453,12 @@
     "Vi\u1ec7t Nam \u0111\u1ec1 xu\u1ea5t 3 \u0111\u1ecbnh h\u01b0\u1edbng th\u00fac \u0111\u1ea9y h\u1ee3p t\u00e1c APEC",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
     "IXIC: Nasdaq Futures Rebound with Apple Earnings, US Midterm Elections Ahead - T",
-    "Novo raises full-year outlook as Wegovy pill sales impress"
+    "Novo raises full-year outlook as Wegovy pill sales impress",
+    "Novo Nordisk Q3 profit beats forecast; raises 2026 guidance",
+    "US futures continue to trim losses after early beatdown but AI worries linger",
+    "Tin vui cho nh\u1eefng ng\u01b0\u1eddi d\u00f9ng n\u1ed3i inox n\u1ea5u \u0103n",
+    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
+    "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV",
+    "What analysts are telling us while Apple\u2019s stock falls after earnings report"
   ]
 }
