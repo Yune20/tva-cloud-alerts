@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793776806.1635826,
+  "last_signals": 1793777418.4379046,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -41,7 +41,7 @@
     "5575146754|Gold|1H|trap_up": 1793776185.2991984,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793776806.1635826,
-    "5575146754|Gold|4H|dtop": 1793230210.644832,
+    "5575146754|Gold|4H|dtop": 1793777418.4379046,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
@@ -68,7 +68,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -122,7 +122,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
-    "Gold|4H:top": 1793776806.3701863,
+    "Gold|4H:top": 1793777418.72407,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793776806.9292667,
+    "Bitcoin|1D:bot": 1793777419.1800253,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793776808.0929098
+    "EUR/USD|1D:top": 1793777420.119046
   },
-  "last_analysis": 1793776797.2265325,
-  "last_news": 1793776806.1626863,
+  "last_analysis": 1793777409.940782,
+  "last_news": 1793777418.4369807,
   "seen_news": [
-    "Palantir Stock: Buy, Hold or Sell After 96% Revenue Growth? - TradingView",
-    "What the 2026 midterm elections could mean for Trump's final two years",
-    "What's happening to UK interest rates and what does it mean for mortgages?",
-    "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
-    "Canva cuts 22% of workforce as growth slows for first time",
-    "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to ",
     "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
     "AMD forecasts 2027 sales above estimates as data-center business booms",
     "Carney says US trade talks to intensify as Washington asks less and offers mor",
@@ -459,6 +453,12 @@
     "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
     "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's",
     "Leisure centre price hikes on the way",
-    "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat"
+    "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat",
+    "China Now Home to Nearly Half of World's Clean Industrial Plants",
+    "Jeweller Pandora nudges up 2026 outlook helped by demand for novelties",
+    "investingLive European news wrap: Markets remain cautious as focus shifts to US ",
+    "Huy\u1ec1n tho\u1ea1i Warren Buffett l\u1ea1i \"\u0111i tr\u01b0\u1edbc th\u1eddi \u0111\u1ea1i\": C\u1ed5 phi\u1ebfu l\u1edbn nh\u1ea5t danh m\u1ee5c t",
+    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
+    "Weekly Recap: SoFi Q3 beat estimates and analysts raise price targets - TradingV"
   ]
 }
