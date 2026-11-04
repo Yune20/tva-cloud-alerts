@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793757388.4336624,
+  "last_signals": 1793758001.7081892,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,7 +78,7 @@
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793757390.182399
+    "EUR/USD|1D:top": 1793758002.9203413
   },
-  "last_analysis": 1793757377.59626,
-  "last_news": 1793757385.5201826,
+  "last_analysis": 1793757992.700674,
+  "last_news": 1793758001.707211,
   "seen_news": [
-    "Gi\u1eadt m\u00ecnh gi\u00e1 tr\u1ecb kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng t\u1eeb khi ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam \u0111\u01b0\u1ee3c n\u00e2ng h\u1ea1ng",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "California Resources Q3 2026 Earnings Call Is Live - TradingView",
-    "My wife and I have no kids and a 99% chance of outliving our life savings. Why n",
-    "Sullivan: What the 2026 midterms could mean for energy investors",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
     "261 m\u00e1y bay mang qu\u1ed1c t\u1ecbch Vi\u1ec7t Nam \u0111ang n\u1eb1m trong tay ai?",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "Worldwide Healthcare Trust PLC Buys 2,365,270 Shares at 390.31p - TradingView",
@@ -458,6 +452,12 @@
     "The very early results in Kentucky show a massive swing towards Democrats",
     "L\u1ec7nh kh\u00e1m x\u00e9t ch\u1ed7 \u1edf, b\u1eaft Nguy\u1ec5n Th\u1ecb Thoa SN 1986",
     "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
-    "Global Water Resources Q3 Revenue Rises 5% as Net Income Declines - TradingView"
+    "Global Water Resources Q3 Revenue Rises 5% as Net Income Declines - TradingView",
+    "Drivers may get compensation offers before car finance saga ends",
+    "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
+    "3M commits $7.35 billion to settle \u2019forever chemicals\u2019-related claims",
+    "China services PMI slows to 50.8 in October as price cuts meet rising costs",
+    "DeepSeek d\u1ea1y AI bi\u1ebft ch\u1ee7 \u0111\u1ed9ng nh\u1eadn vi\u1ec7c, kh\u00f4ng c\u1ea7n t\u1edbi con ng\u01b0\u1eddi n\u1eefa",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance"
   ]
 }
