@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793816260.2426589,
+  "last_signals": 1793816879.5211341,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793816261.3724089,
+    "Bitcoin|1D:bot": 1793816880.0959756,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793816262.7240589
+    "EUR/USD|1D:top": 1793816880.6992822
   },
-  "last_analysis": 1793816248.7767174,
-  "last_news": 1793816260.2401714,
+  "last_analysis": 1793816870.8831751,
+  "last_news": 1793816879.5203874,
   "seen_news": [
-    "+72%, +40%: How two AI-picked drugmakers beat and raised in one week",
-    "US September factory orders +1.8% vs +1.2% expected",
-    "X\u00e2y n\u1ec1n khu t\u00e1i \u0111\u1ecbnh c\u01b0 44 t\u1ef7 \u0111\u1ed3ng b\u1eb1ng \u0111\u00e1 h\u1ed9c, r\u1ec5 c\u00e2y?",
-    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
-    "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds - TradingView",
-    "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
     "TP H\u1ed3 Ch\u00ed Minh \u0111\u1eb7t l\u1ed9 tr\u00ecnh \u0111\u01b0a ti\u1ebfng Anh v\u00e0o m\u1ecdi ho\u1ea1t \u0111\u1ed9ng tr\u01b0\u1eddng h\u1ecdc",
     "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
     "Liberty Star Uranium & Metals Extends 2026 Warrants by Three Years - TradingView",
@@ -461,6 +455,12 @@
     "Crude oil futures tumbled. Down close to 8%",
     "Xiaomi Vi\u1ec7t Nam l\u00ean ti\u1ebfng",
     "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance",
-    "Comfort Systems (FIX) stock trades down, here is why - TradingView"
+    "Comfort Systems (FIX) stock trades down, here is why - TradingView",
+    "US October ADP employment +86K vs +65K expected",
+    "CEO 42 tu\u1ed5i Danny Le v\u00e0 d\u00e0n gi\u00e1m \u0111\u1ed1c \u201cso\u00e1i ca\u201d t\u1ea1i Masan: \u0110\u1ebfn t\u1eeb Morgan Stanley,",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
+    "DNR: Backlog surged ~61%, supporting FY guidance and 2027 growth visibility - Tr",
+    "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
+    "AI data center stocks and Musk's SpaceX decline as Texas governor result raises "
   ]
 }
