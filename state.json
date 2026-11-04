@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793809051.5763507,
-  "last_bot4": 1793809054.6749594,
+  "last_bot4": 1793809932.1993055,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793809571.2412634,
+  "last_signals": 1793809932.1998694,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -40,7 +40,7 @@
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
     "5575146754|Gold|1H|trap_up": 1793784529.6065753,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
-    "5575146754|Gold|4H|ttop": 1793776806.1635826,
+    "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793777418.4379046,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
@@ -124,7 +124,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793778652.0054686,
-    "Gold|4H:top": 1793779620.2264504,
+    "Gold|4H:top": 1793809932.6697166,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793809572.1341736,
+    "Bitcoin|1D:bot": 1793809933.3729515,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,19 +155,13 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
-    "DXY|1D:bot": 1793809573.7805045,
+    "DXY|1D:bot": 1793809935.5607493,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793809573.2375848
+    "EUR/USD|1D:top": 1793809934.8675158
   },
-  "last_analysis": 1793809562.1984653,
-  "last_news": 1793809571.2401032,
+  "last_analysis": 1793809924.058743,
+  "last_news": 1793809932.1984215,
   "seen_news": [
-    "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-    "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
-    "The very early results in Kentucky show a massive swing towards Democrats",
-    "L\u1ec7nh kh\u00e1m x\u00e9t ch\u1ed7 \u1edf, b\u1eaft Nguy\u1ec5n Th\u1ecb Thoa SN 1986",
-    "PET: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed - PETROSETCO - VietstockFinan",
-    "Global Water Resources Q3 Revenue Rises 5% as Net Income Declines - TradingView",
     "Drivers may get compensation offers before car finance saga ends",
     "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
     "3M commits $7.35 billion to settle \u2019forever chemicals\u2019-related claims",
@@ -461,6 +455,12 @@
     "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
     "Poundland owner in crunch talks as retailer's collapse looms",
     "US Oil Inventories Fall Further As Demand Holds",
-    "Treasuries rally as Democrats sweep into Congress"
+    "Treasuries rally as Democrats sweep into Congress",
+    "Datadog\u2019s stock extends steep declines in the wake of earnings",
+    "CVS to split off drugstore business in major breakup of healthcare giant; shares",
+    "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispie",
+    "Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa",
+    "Crypto tracks stocks higher after Democrat midterm wins",
+    "EIA weekly US crude oil inventories -865K vs +877K expected"
   ]
 }
