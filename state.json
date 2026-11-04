@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793762246.2760272,
+  "last_signals": 1793762856.5290952,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": true,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -81,7 +81,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -140,7 +140,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793332186.464401,
+    "Ethereum|4H:bot": 1793762857.263954,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793762247.3925467
+    "EUR/USD|1D:top": 1793762857.864823
   },
-  "last_analysis": 1793762234.7184105,
-  "last_news": 1793762243.1072512,
+  "last_analysis": 1793762848.1828537,
+  "last_news": 1793762856.528166,
   "seen_news": [
-    "If you squint, the odds are improving slightly for Republican Senate control",
-    "M\u1ed9t doanh nghi\u1ec7p n\u1ee3 1,5 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng b\u1ea5t ng\u1edd kh\u00f4ng thanh to\u00e1n \u0111\u01b0\u1ee3c kho\u1ea3n vay, t",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
-    "BMW lowers 2026 automotive EBIT margin outlook and deliveries - TradingView",
-    "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Rep",
-    "'An annoying buzz': The search for stealthier drones",
     "To\u00e0n c\u1ea3nh c\u1ea7u d\u00e2y v\u0103ng g\u1ea7n 12.000 t\u1ef7 \u0111\u1ed3ng b\u1eafc qua s\u00f4ng H\u1ed3ng: Tr\u1ee5 th\u00e1p cao t\u01b0\u01a1ng ",
     "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-11-02 \u2014 cnbctv:93c0a2356094b:0 - TradingV",
@@ -458,6 +452,12 @@
     "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
     "HIMS Q3'26 Earnings: revenue estimate is 892.88M USD - TradingView",
     "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
-    "'Quiet quitting' could be hitting the economy - here's why"
+    "'Quiet quitting' could be hitting the economy - here's why",
+    "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "Houthi Fighters Launch Ground Incursions Into Saudi Arabia",
+    "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
+    "JOLTs Job openings 7.523M vs 7.100M estimate",
+    "H\u00e0 N\u1ed9i nghi\u00ean c\u1ee9u ph\u01b0\u01a1ng \u00e1n t\u00e1i \u0111\u1ecbnh c\u01b0 m\u1edf r\u1ed9ng \u0111\u01b0\u1eddng Nguy\u1ec5n Phong S\u1eafc",
+    "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance"
   ]
 }
