@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793815273.6077209,
+  "last_signals": 1793815897.1186414,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -52,7 +52,7 @@
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
     "5575146754|Gold|4H|up": 1793815273.6077209,
-    "5575146754|Gold|4H|momo_up": 1793809054.6758223
+    "5575146754|Gold|4H|momo_up": 1793815897.1186414
   },
   "sig_range": {
     "Gold": true,
@@ -88,13 +88,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793816152,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793815274.1236408,
+    "Bitcoin|1D:bot": 1793815898.5317256,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793815274.9332137
+    "EUR/USD|1D:top": 1793815900.3601084
   },
-  "last_analysis": 1793815263.8509462,
-  "last_news": 1793815273.6066468,
+  "last_analysis": 1793815886.546299,
+  "last_news": 1793815897.1178172,
   "seen_news": [
-    "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-    "Houthi Fighters Launch Ground Incursions Into Saudi Arabia",
-    "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
-    "JOLTs Job openings 7.523M vs 7.100M estimate",
-    "H\u00e0 N\u1ed9i nghi\u00ean c\u1ee9u ph\u01b0\u01a1ng \u00e1n t\u00e1i \u0111\u1ecbnh c\u01b0 m\u1edf r\u1ed9ng \u0111\u01b0\u1eddng Nguy\u1ec5n Phong S\u1eafc",
-    "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance",
     "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Rep",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "CVS Health to split into two publicly traded companies by 2028, FT reports",
@@ -461,6 +455,12 @@
     "China's Rail Line Into Central Asia Is Set for 2031",
     "India rupee\u2019s recovery may find fresh legs from equity flows, dollar weakness",
     "Morning Kickstart: Dollar falls, stocks rise as Democrats take Congress",
-    "H\u00e0ng lo\u1ea1t nh\u00e0 b\u0103ng Vietcombank, MB, Techcombank, HDBank, MSB,... mu\u1ed1n th\u00e0nh l\u1eadp "
+    "H\u00e0ng lo\u1ea1t nh\u00e0 b\u0103ng Vietcombank, MB, Techcombank, HDBank, MSB,... mu\u1ed1n th\u00e0nh l\u1eadp ",
+    "'Quiet quitting' could be hitting the economy - here's why",
+    "European Gas Prices Fall 2% as Traders Wait on Trump\u2019s Next Move in Iran",
+    "European shares jump over 1% after Democrats sweep US Congress, Novo Nordisk sur",
+    "House Democratic leader Jeffries says will pass bill to stop tariffs and to end ",
+    "2 \u1ee9ng d\u1ee5ng ng\u01b0\u1eddi d\u00f9ng n\u00ean x\u00f3a ngay \u0111\u1ec3 kh\u00f4ng b\u1ecb theo d\u00f5i",
+    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance"
   ]
 }
