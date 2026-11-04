@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793814656.89316,
+  "last_signals": 1793815273.6077209,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -51,7 +51,7 @@
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
-    "5575146754|Gold|4H|up": 1793811556.0964758,
+    "5575146754|Gold|4H|up": 1793815273.6077209,
     "5575146754|Gold|4H|momo_up": 1793809054.6758223
   },
   "sig_range": {
@@ -89,13 +89,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793815531,
   "menu_prices": {
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793814657.440471,
+    "Bitcoin|1D:bot": 1793815274.1236408,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793814658.3293421
+    "EUR/USD|1D:top": 1793815274.9332137
   },
-  "last_analysis": 1793814650.5663655,
-  "last_news": 1793814656.8921764,
+  "last_analysis": 1793815263.8509462,
+  "last_news": 1793815273.6066468,
   "seen_news": [
-    "Iran tensions rise as report details U.S. strike contingency and intelligence di",
-    "\u0110\u1ed9t qu\u1ef5 sau khi xoa b\u00f3p, k\u00e9o gi\u00e3n v\u00f9ng c\u1ed5 kh\u00f4ng \u0111\u00fang k\u1ef9 thu\u1eadt",
-    "VGC: T\u1ed5ng C\u00f4ng ty Viglacera - CTCP - VIGLACERA - VietstockFinance",
-    "HIMS Q3'26 Earnings: revenue estimate is 892.88M USD - TradingView",
-    "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
-    "'Quiet quitting' could be hitting the economy - here's why",
     "Apple unsure when it will get more foldable iPhones ahead of Christmas",
     "Houthi Fighters Launch Ground Incursions Into Saudi Arabia",
     "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
@@ -461,6 +455,12 @@
     "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and ",
     "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
     "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "Democrats Win Texas Oil Regulator Seat for First Time Since 1990"
+    "Democrats Win Texas Oil Regulator Seat for First Time Since 1990",
+    "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' t",
+    "Ryanair says it may freeze workers' pay and raise airfares",
+    "China's Rail Line Into Central Asia Is Set for 2031",
+    "India rupee\u2019s recovery may find fresh legs from equity flows, dollar weakness",
+    "Morning Kickstart: Dollar falls, stocks rise as Democrats take Congress",
+    "H\u00e0ng lo\u1ea1t nh\u00e0 b\u0103ng Vietcombank, MB, Techcombank, HDBank, MSB,... mu\u1ed1n th\u00e0nh l\u1eadp "
   ]
 }
