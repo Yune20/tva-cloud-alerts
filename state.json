@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793774595.2345424,
-  "last_bot4": 1793774262.69277,
+  "last_bot4": 1793774948.0038083,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793773651.8702955
+    "Gold": 1793774948.0036983
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793774595.2355878,
+  "last_signals": 1793774948.0045073,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -50,7 +50,7 @@
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
-    "5575146754|Gold|1H|momo_up": 1793772743.1198545
+    "5575146754|Gold|1H|momo_up": 1793774948.0045073
   },
   "sig_range": {
     "Gold": true,
@@ -68,18 +68,18 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,9 +144,9 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793774597.5039117,
-    "Bitcoin|1D:bot": 1793774596.2185698,
-    "DXY|4H:bot": 1793774598.1766725,
+    "EUR/USD|4H:top": 1793774949.908974,
+    "Bitcoin|1D:bot": 1793774948.777256,
+    "DXY|4H:bot": 1793774950.4103916,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793774597.5039644
+    "EUR/USD|1D:top": 1793774949.9089885
   },
-  "last_analysis": 1793774578.700723,
-  "last_news": 1793774587.5130885,
+  "last_analysis": 1793774934.506724,
+  "last_news": 1793774945.171702,
   "seen_news": [
-    "Crude oil prices fall for second day as market hopes for diplomatic resolution t",
-    "Poundland's former owner offers to invest as minister prepares to meet board",
-    "Dubai Benchmark Slips Into Contango for the First Time Since July",
-    "AMD forecasts quarterly revenue above estimates as data-center revenue hits reco",
-    "Nasdaq rebounds as chip stocks rally and Dow slips",
-    "Nghi\u00ean c\u1ee9u g\u1ea7n 12 n\u0103m h\u00e9 l\u1ed9: T\u1ed1c \u0111\u1ed9 \u0111i b\u1ed9 c\u00f3 th\u1ec3 ti\u1ebft l\u1ed9 manh m\u1ed1i v\u1ec1 tu\u1ed5i th\u1ecd, n",
     "Paraguay\u2019s central bank chief resigns at president\u2019s request as digital lender c",
     "AMD shares rise after hours as Q4 revenue outlook of $17bn tops forecasts on AI ",
     "\u00d4ng Trump h\u00e0nh \u0111\u1ed9ng d\u1ee9t kho\u00e1t nh\u1eafm v\u00e0o \u0111\u1ed3ng minh Israel ngay tr\u01b0\u1edbc gi\u1edd b\u1ea7u c\u1eed",
@@ -459,6 +453,12 @@
     "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
     "Christmas 2026 stamps unveiled by Royal Mail",
     "Oil Prices Rebound as Middle East Supply Fears Return",
-    "Treasuries steady as traders weigh midterm vote and AI trade"
+    "Treasuries steady as traders weigh midterm vote and AI trade",
+    "Living with a stink? Technology might help",
+    "US Crude Oil Inventories Still in Freefall",
+    "Dollar ticks up with eyes on U.S. midterm elections; Aussie slips despite RBA hi",
+    "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
+    "Th\u00f4ng tin m\u1edbi nh\u1ea5t v\u1ec1 gi\u00e1 b\u00e1n l\u1ebb \u0111i\u1ec7n sinh ho\u1ea1t theo 5 b\u1eadc",
+    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance"
   ]
 }
