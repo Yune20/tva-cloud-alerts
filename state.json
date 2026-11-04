@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793819977.4962308,
+  "last_signals": 1793820584.54087,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -91,7 +91,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793819978.0815613,
+    "Bitcoin|1D:bot": 1793820585.356016,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,19 +156,13 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
-    "DXY|1D:bot": 1793819979.3142564,
+    "DXY|1D:bot": 1793820587.295716,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793819978.956879
+    "EUR/USD|1D:top": 1793820586.431421
   },
-  "last_analysis": 1793819963.0378237,
-  "last_news": 1793819970.4357772,
+  "last_analysis": 1793820574.9489236,
+  "last_news": 1793820584.5399716,
   "seen_news": [
-    "The tech helping crack decades-old cold cases",
-    "If gold breaks lower, investors may look at these safe haven currencies: analyst",
-    "Trump on Israel: The aid gets cut off at year-end",
-    "Ng\u01b0\u1eddi d\u00e2n v\u1eeba lo l\u1ed9 l\u1ecdt d\u1eef li\u1ec7u, v\u1eeba v\u1ea5t v\u1ea3 v\u00ec ph\u1ea3i c\u00e0i \u0111\u1eb7t nhi\u1ec1u \u1ee9ng d\u1ee5ng",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Gold Steady as US Midterms, Iran Talks in Focus - TradingView",
     "Gi\u00fap Mr Pips r\u1eeda ti\u1ec1n, Shark B\u00ecnh b\u1ecb \u0111\u1ec1 ngh\u1ecb ph\u1ea1t 9 - 10 n\u0103m t\u00f9",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Democrat Rob Sand wins Iowa governor race, media reports - TradingView",
@@ -462,6 +456,12 @@
     "US optimism fuels Nifty\u2019s strongest 5-day rally in seven months - TradingView",
     "4 market-moving issues investors should watch now that the midterms are over",
     "Voters rebuff data centers in every ballot measure except one during the 2026 mi",
-    "'An annoying buzz': The search for stealthier drones"
+    "'An annoying buzz': The search for stealthier drones",
+    "The Indian workers filming their work to train AI",
+    "Polar Vortex Puts Europe's Gas Reserves at Risk",
+    "Amazon, Microsoft lead mega-cap stock movers on Wednesday",
+    "EUR/USD rebounds as midterm results put the dollar under pressure as markets rea",
+    "B\u1ed9 tr\u01b0\u1edfng B\u1ed9 C\u00f4ng an L\u01b0\u01a1ng Tam Quang: \"Ngo\u00e0i ph\u1ea1t ti\u1ec1n, s\u1ebd nghi\u00ean c\u1ee9u quy \u0111\u1ecbnh v",
+    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance"
   ]
 }
