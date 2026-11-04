@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793741937.7221806,
-  "last_bot4": 1793750458.689411,
+  "last_bot4": 1793751365.8140798,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793750458.6893106
+    "Gold": 1793751365.8140194
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793750758.3497212,
+  "last_signals": 1793751365.814989,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,15 +82,15 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -156,14 +156,8 @@
     "US30|4H:bot": 1793726812.8171103
   },
   "last_analysis": 1793751059.0122023,
-  "last_news": 1793750758.3489003,
+  "last_news": 1793751361.5259805,
   "seen_news": [
-    "M\u1ed9t l\u0129nh v\u1ef1c t\u1eebng h\u00fat h\u01a1n 82 tri\u1ec7u USD t\u1ea1i Vi\u1ec7t Nam b\u1ea5t ng\u1edd m\u1ea5t 99% v\u1ed1n ch\u1ec9 sau ",
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "The Vanguard Group, Inc. Files DCC Takeover Disclosure - TradingView",
-    "We're trimming some more off a stock that's enjoying nice post-earnings gains",
-    "Rainmakers: The drones used to seed clouds",
-    "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "US Job Openings Beat Forecasts - TradingView",
     "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB F",
@@ -457,6 +451,12 @@
     "Suncor Energy tops profit estimates on higher oil prices, margins",
     "Booking Holdings shares slide as Q3 revenue misses despite earnings and bookings",
     "'\u00d4ng tr\u00f9m' xe \u0111i\u1ec7n th\u1ebf gi\u1edbi \u0111\u00f3n tin bu\u1ed3n t\u1eeb \u0110\u00f4ng Nam \u00c1",
-    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance"
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
+    "CVS Health to break up into two companies, WSJ reports",
+    "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this we",
+    "Ch\u00e2n dung \"th\u1ea7n \u0111\u1ed3ng\" 17 tu\u1ed5i khi\u1ebfn c\u1ea3 gi\u1edbi c\u00f4ng ngh\u1ec7 ch\u00fa \u00fd",
+    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
+    "Clarus Q2 Earnings Call Highlights - TradingView",
+    "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says"
   ]
 }
