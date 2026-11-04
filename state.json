@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793809051.5763507,
+  "last_news_report": 1793819977.4951122,
   "last_bot4": 1793819642.292005,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793819350.7747374,
+  "last_signals": 1793819977.4962308,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -52,7 +52,8 @@
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
     "5575146754|Gold|4H|up": 1793815273.6077209,
-    "5575146754|Gold|4H|momo_up": 1793815897.1186414
+    "5575146754|Gold|4H|momo_up": 1793815897.1186414,
+    "5575146754|Gold|4H|trap_up": 1793819977.4962308
   },
   "sig_range": {
     "Gold": true,
@@ -90,7 +91,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -147,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793819351.3241374,
+    "Bitcoin|1D:bot": 1793819978.0815613,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,19 +156,13 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
-    "DXY|1D:bot": 1793819352.5075526,
+    "DXY|1D:bot": 1793819979.3142564,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793819352.1136112
+    "EUR/USD|1D:top": 1793819978.956879
   },
-  "last_analysis": 1793819342.3214567,
-  "last_news": 1793819350.773595,
+  "last_analysis": 1793819963.0378237,
+  "last_news": 1793819970.4357772,
   "seen_news": [
-    "RKLB Q3'26 Earnings: revenue estimate is 257.19M USD - TradingView",
-    "The internet is \u2018dying\u2019: AI is eating it and obliterating these business models",
-    "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
-    "The AI telling farmers when to harvest",
-    "Gift Nifty 50 surges overbought near Upper BB: Live levels",
-    "Nikkei drops 3% as Democratic midterm gains hit AI and chip stocks",
     "The tech helping crack decades-old cold cases",
     "If gold breaks lower, investors may look at these safe haven currencies: analyst",
     "Trump on Israel: The aid gets cut off at year-end",
@@ -461,6 +456,12 @@
     "Si\u00eau s\u00e2n v\u1eadn \u0111\u1ed9ng 80.000 ch\u1ed7 ng\u1ed3i, l\u1edbn g\u1ea5p 2 l\u1ea7n s\u00e2n M\u1ef9 \u0110\u00ecnh: ng\u1ed1n 28.000 t\u1ea5n th",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Barclays maintains Expeditors International at Underweight, raises price target ",
-    "SpaceX\u2019s Qualcomm deal could be a precursor to a telecom takeover"
+    "SpaceX\u2019s Qualcomm deal could be a precursor to a telecom takeover",
+    "Ph\u00e1t hi\u1ec7n Vi\u1ec7t Nam c\u00f3 h\u1ea7m \u0111\u1eb7c bi\u1ec7t d\u00e0i 11.258m xuy\u00ean n\u00fai, thi c\u00f4ng b\u1eb1ng c\u1ed7 m\u00e1y 3",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
+    "US optimism fuels Nifty\u2019s strongest 5-day rally in seven months - TradingView",
+    "4 market-moving issues investors should watch now that the midterms are over",
+    "Voters rebuff data centers in every ballot measure except one during the 2026 mi",
+    "'An annoying buzz': The search for stealthier drones"
   ]
 }
