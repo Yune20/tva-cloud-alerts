@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793772743.1198545,
+  "last_signals": 1793773360.1106954,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -74,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
@@ -83,7 +83,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -144,9 +144,9 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793772744.358665,
-    "Bitcoin|1D:bot": 1793772743.6652236,
-    "DXY|4H:bot": 1793772744.6770773,
+    "EUR/USD|4H:top": 1793773361.3961403,
+    "Bitcoin|1D:bot": 1793773360.7244365,
+    "DXY|4H:bot": 1793773361.6899889,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793772744.3586855
+    "EUR/USD|1D:top": 1793773361.3961537
   },
-  "last_analysis": 1793772735.8266761,
-  "last_news": 1793772743.1189382,
+  "last_analysis": 1793773353.350702,
+  "last_news": 1793773360.110058,
   "seen_news": [
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Specialty chemicals supplier Innospec's Q3 revenue slightly misses estimates - T",
-    "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into an",
-    "Disney plans several thousand layoffs, asks some managers to cut costs by up to ",
-    "Asda hires ex-Morrisons boss in bid to grow firm",
-    "US Crude Oil Inventories Still in Freefall",
     "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
     "Latham\u2019s (NASDAQ:SWIM) Q3 2026 sales beat estimates - TradingView",
     "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
@@ -459,6 +453,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Coinbase resumes crypto staking in New Jersey after order reversal - TradingView",
     "Stock market after midterm elections: What S&P 500 history shows",
-    "Proposal for free bus service scrapped"
+    "Proposal for free bus service scrapped",
+    "Why is Mitsubishi stock rallying today?",
+    "investingLive Americas market news wrap: Job openings jump as the US votes",
+    "\u0110BQH: Khi d\u1eef li\u1ec7u b\u1ecb l\u1ed9, ng\u01b0\u1eddi d\u00e2n ph\u1ea3i \u0111\u01b0\u1ee3c c\u1ea3nh b\u00e1o \u0111\u1ec3 b\u1ea3o v\u1ec7 t\u00e0i kho\u1ea3n",
+    "VIX: CTCP Ch\u1ee9ng kho\u00e1n VIX - VIX - VietstockFinance",
+    "Bouvet ASA - Key information regarding supplementary cash dividend - TradingView",
+    "Democrats win the Senate and close in on control of the House. Here\u2019s what it me"
   ]
 }
