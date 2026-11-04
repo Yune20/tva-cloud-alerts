@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793772122.6179395,
+  "last_signals": 1793772743.1198545,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -49,7 +49,8 @@
     "5575146754|Gold|1H|momo_dn": 1793692238.529144,
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
-    "5575146754|Gold|1H|dbot": 1793504596.896774
+    "5575146754|Gold|1H|dbot": 1793504596.896774,
+    "5575146754|Gold|1H|momo_up": 1793772743.1198545
   },
   "sig_range": {
     "Gold": true,
@@ -73,7 +74,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
@@ -82,13 +83,13 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -143,9 +144,9 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793772123.8777897,
-    "Bitcoin|1D:bot": 1793772123.1133244,
-    "DXY|4H:bot": 1793769662.1118343,
+    "EUR/USD|4H:top": 1793772744.358665,
+    "Bitcoin|1D:bot": 1793772743.6652236,
+    "DXY|4H:bot": 1793772744.6770773,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
@@ -154,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793772123.8778086
+    "EUR/USD|1D:top": 1793772744.3586855
   },
-  "last_analysis": 1793772114.2279778,
-  "last_news": 1793772122.6170123,
+  "last_analysis": 1793772735.8266761,
+  "last_news": 1793772743.1189382,
   "seen_news": [
-    "investingLive Americas market news wrap: Job openings jump as the US votes",
-    "C\u00f4ng ty \u1ea4n \u0111\u1ed9 cung c\u1ea5p ph\u1ea7n m\u1ec1m cho h\u01a1n 20 tri\u1ec7u \u00f4 t\u00f4 v\u1eeba quy\u1ebft \u0111\u1ecbnh l\u1eadp c\u00f4ng ty",
-    "CTG: Ng\u00e2n h\u00e0ng TMCP C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam - VietinBank - T\u1ea3i t\u00e0i li\u1ec7u - Vietstock",
-    "Glacier Bancorp 3Q 2026: Revenue $329.8M, Net income $104.6M, EPS $0.8\u2014 10-Q Sum",
-    "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
-    "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
     "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
     "Specialty chemicals supplier Innospec's Q3 revenue slightly misses estimates - T",
     "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into an",
@@ -458,6 +453,12 @@
     "Tough to buy into the Iran headlines in the context of the election",
     "22 c\u00f4ng d\u00e2n b\u1ecb Hoa K\u1ef3 tr\u1ee5c xu\u1ea5t",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Vietnam dong, gold rates - November 4 - TradingView"
+    "Vietnam dong, gold rates - November 4 - TradingView",
+    "US midterms 2026: Who would've thought that a war would be a bad idea?",
+    "7 d\u1ea5u hi\u1ec7u c\u1ee7a ng\u00f4i nh\u00e0 c\u00f3 phong th\u1ee7y c\u1ef1c t\u1ed1t",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Coinbase resumes crypto staking in New Jersey after order reversal - TradingView",
+    "Stock market after midterm elections: What S&P 500 history shows",
+    "Proposal for free bus service scrapped"
   ]
 }
