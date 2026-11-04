@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793782068.2847207,
+  "last_signals": 1793782676.333451,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
-    "5575146754|Gold|1H|trap_up": 1793776185.2991984,
+    "5575146754|Gold|1H|trap_up": 1793782676.333451,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793776806.1635826,
     "5575146754|Gold|4H|dtop": 1793777418.4379046,
@@ -72,7 +72,7 @@
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": true,
@@ -144,8 +144,8 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793782068.7674196,
+    "EUR/USD|4H:top": 1793782677.3585584,
+    "Bitcoin|1D:bot": 1793782676.75793,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793781457.633309
+    "EUR/USD|1D:top": 1793782677.3585715
   },
-  "last_analysis": 1793782060.576835,
-  "last_news": 1793782068.28372,
+  "last_analysis": 1793782669.4771366,
+  "last_news": 1793782676.332764,
   "seen_news": [
-    "Canva announces major job cuts after 'our hardest year yet'",
-    "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
-    "3M to take $5.8 billion hit under PFAS personal injury settlement",
-    "Economic and event calendar in Asia Wednesday, November 4, 2026 - NZ jobs report",
-    "\u0110ang bay \u1edf \u0111\u1ed9 cao h\u01a1n 11.000m, m\u00e1y bay ch\u1edf kh\u00e1ch b\u1ea5t ng\u1edd th\u1ef1c hi\u1ec7n c\u00fa quay \u0111\u1ea7u g",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
     "European stocks close lower as yields climb. UK FTSE leads the declines",
     "4h s\u00e1ng \u0111\u1ebfn 12h \u0111\u00eam c\u1ee7a MC Kh\u00e1nh Vy",
@@ -459,6 +453,12 @@
     "Why is Bayerische Motoren Werke stock sliding today?",
     "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this we",
     "C\u00f4ng an v\u00e0o cu\u1ed9c c\u1ea3nh b\u00e1o: Bi\u1ebfn t\u01b0\u1edbng t\u1eeb ho\u1ea1t \u0111\u1ed9ng '\u0111i ch\u00f9a online', y\u00eau c\u1ea7u ng\u01b0",
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance"
+    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
+    "Stocks Finished Mostly Higher on Chipmaker Strength - TradingView",
+    "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI ",
+    "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republi",
+    "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "Global Diesel Crunch Set to Last Well Into 2027",
+    "Crypto dips on Democrat midterm wins, Binance hack dents optimism"
   ]
 }
