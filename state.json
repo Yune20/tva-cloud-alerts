@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793813425.5570893,
+  "last_signals": 1793814039.084267,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -85,17 +85,17 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793814297,
   "menu_prices": {
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793813426.0436165,
+    "Bitcoin|1D:bot": 1793814039.4848318,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793813426.763644
+    "EUR/USD|1D:top": 1793814040.123807
   },
-  "last_analysis": 1793813415.0196652,
-  "last_news": 1793813425.556224,
+  "last_analysis": 1793814030.5716946,
+  "last_news": 1793814039.0833774,
   "seen_news": [
-    "Here is what changed in the new Fed statement",
-    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "India rupee\u2019s recovery may find fresh legs from equity flows, dollar weakness",
-    "PBOC sets USD/ CNY mid-point today at 6.7180 (vs. estimate at 6.6811)",
-    "8 ki\u1ec3u ti\u1ebft ki\u1ec7m kh\u00f4ng bao gi\u1edd l\u1ed7i th\u1eddi",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
     "AMD\u2019s OpenAI, Meta chip deals trigger $1 billion quarterly charge",
     "Update: Iran says Hormuz stays shut until demands met as US deal remains far off",
     "Ph\u1ea1t r\u1ea5t n\u1eb7ng, v\u00ec sao v\u1eabn t\u00e1i di\u1ec5n n\u1ea1n phi xe m\u00e1y l\u00ean v\u1ec9a h\u00e8?",
@@ -461,6 +455,12 @@
     "Canada Trade Balance ($C) for September +5.35B vs +4.1B estimate",
     "Gi\u1ea3ng vi\u00ean Nh\u1ea1c vi\u1ec7n \u0111\u1eaft show b\u1eadc nh\u1ea5t Vi\u1ec7t Nam \u0111\u01b0\u1ee3c ch\u1ed3ng \u1ea4n \u0110\u1ed9 \"c\u01b0ng nh\u01b0 tr\u1ee9ng",
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
-    "RBC Capital maintains Graphic Packaging Holding at Sector Perform, raises price "
+    "RBC Capital maintains Graphic Packaging Holding at Sector Perform, raises price ",
+    "US September international trade balance -105.0B vs -108.0B expected",
+    "Vi\u1ec7t Nam s\u1eafp c\u00f3 si\u00eau qu\u1ea7n th\u1ec3 g\u1ea7n 585 ha, v\u1ed1n h\u01a1n 21.000 t\u1ef7 \u0111\u1ed3ng t\u1ea1i n\u01a1i \u0111\u01b0\u1ee3c v\u00ed",
+    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
+    "National Bank of Greece Q3 2026 Earnings Call Is Live - TradingView",
+    "Hospital stocks rally while drugmakers brace for scrutiny. Here\u2019s what the Democ",
+    "Elon Musk\u2019s record election bet backfired. The backlash may reach beyond one bil"
   ]
 }
