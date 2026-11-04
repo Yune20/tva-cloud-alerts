@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793776185.2991984,
+  "last_signals": 1793776806.1635826,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -40,7 +40,7 @@
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
     "5575146754|Gold|1H|trap_up": 1793776185.2991984,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
-    "5575146754|Gold|4H|ttop": 1793213775.711567,
+    "5575146754|Gold|4H|ttop": 1793776806.1635826,
     "5575146754|Gold|4H|dtop": 1793230210.644832,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
@@ -71,7 +71,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -83,8 +83,8 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|4H": false,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -122,7 +122,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793237696.594155,
-    "Gold|4H:top": 1793232056.4127665,
+    "Gold|4H:top": 1793776806.3701863,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793776185.716363,
+    "Bitcoin|1D:bot": 1793776806.9292667,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793776186.3645678
+    "EUR/USD|1D:top": 1793776808.0929098
   },
-  "last_analysis": 1793776177.6001873,
-  "last_news": 1793776185.2985892,
+  "last_analysis": 1793776797.2265325,
+  "last_news": 1793776806.1626863,
   "seen_news": [
-    "X\u0103ng E5 gi\u1ea3m h\u01a1n 1.000 \u0111\u1ed3ng/l\u00edt, d\u1ea7u mazut t\u0103ng gi\u00e1",
-    "SSB: Ng\u00e2n h\u00e0ng TMCP \u0110\u00f4ng Nam \u00c1 - SeABank - VietstockFinance",
-    "U.S. GoldMining Received Notice of Noncompliance - TradingView",
-    "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
-    "How video game remakes tap the power of nostalgia",
-    "Big Oil Puts Debt Reduction Ahead of New Investments",
     "Palantir Stock: Buy, Hold or Sell After 96% Revenue Growth? - TradingView",
     "What the 2026 midterm elections could mean for Trump's final two years",
     "What's happening to UK interest rates and what does it mean for mortgages?",
@@ -459,6 +453,12 @@
     "Tin vui cho nh\u1eefng ng\u01b0\u1eddi d\u00f9ng n\u1ed3i inox n\u1ea5u \u0103n",
     "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
     "Weekly Recap: AI financing and quarterly losses, shares down over 30% - TradingV",
-    "What analysts are telling us while Apple\u2019s stock falls after earnings report"
+    "What analysts are telling us while Apple\u2019s stock falls after earnings report",
+    "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC - VietstockFinance",
+    "Corn Falls Lower on Tuesday with Traders Taking Risk Off - TradingView",
+    "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
+    "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's",
+    "Leisure centre price hikes on the way",
+    "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat"
   ]
 }
