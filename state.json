@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793833905.1027226,
+  "last_signals": 1793834513.1100059,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -41,7 +41,7 @@
     "5575146754|Gold|1H|trap_up": 1793811556.0964758,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
-    "5575146754|Gold|4H|dtop": 1793829273.1915157,
+    "5575146754|Gold|4H|dtop": 1793834513.1100059,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
@@ -52,7 +52,7 @@
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
     "5575146754|Gold|4H|up": 1793815273.6077209,
-    "5575146754|Gold|4H|momo_up": 1793815897.1186414,
+    "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793823762.319758
   },
   "sig_range": {
@@ -124,8 +124,8 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793833905.7667038,
-    "Gold|4H:top": 1793829881.0716302,
+    "Ethereum|4H:top": 1793834513.7416284,
+    "Gold|4H:top": 1793834513.2864397,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793833905.6038768,
+    "Bitcoin|1D:bot": 1793834513.5822303,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793833893.4602132,
-  "last_news": 1793833905.1017406,
+  "last_analysis": 1793834505.142363,
+  "last_news": 1793834513.1091087,
   "seen_news": [
-    "Jim Cramer sees signs of life in tech stocks \u2014 but not from the usual winners",
-    "Why Gen Z are planning for life without a state pension",
-    "Why is Bayerische Motoren Werke stock sliding today?",
-    "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this we",
-    "C\u00f4ng an v\u00e0o cu\u1ed9c c\u1ea3nh b\u00e1o: Bi\u1ebfn t\u01b0\u1edbng t\u1eeb ho\u1ea1t \u0111\u1ed9ng '\u0111i ch\u00f9a online', y\u00eau c\u1ea7u ng\u01b0",
-    "BVB: Ng\u00e2n h\u00e0ng TMCP B\u1ea3n Vi\u1ec7t - Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t - VietstockFinance",
     "Stocks Finished Mostly Higher on Chipmaker Strength - TradingView",
     "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI ",
     "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republi",
@@ -462,6 +456,12 @@
     "Snap shares fall over 10% on third-quarter revenue miss",
     "Swim and gym prices set to rise above inflation",
     "Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis",
-    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease"
+    "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
+    "Big Tech is driving a historic divide in the S&P 500. Why investors need to take",
+    "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+    "Keeping mortgage interest relief approved",
+    "Why is Paycom Software stock sliding today?",
+    "Citrini warns AI infrastructure risk has turned to the downside",
+    "Nhi\u1ec1u t\u1ec9nh, th\u00e0nh tuy\u1ec3n l\u1edbp 10 b\u1eb1ng h\u1ecdc b\u1ea1, H\u00e0 N\u1ed9i th\u1ebf n\u00e0o?"
   ]
 }
