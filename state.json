@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793753280.5500793,
+  "last_signals": 1793753897.6186788,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,8 +87,8 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|1H": false,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
@@ -123,8 +123,8 @@
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1793753281.806811,
-    "JPY Index|4H:top": 1793753282.102853,
+    "USD/JPY|4H:top": 1793753898.9129992,
+    "JPY Index|4H:top": 1793753899.214137,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
@@ -134,7 +134,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793753281.4863877,
+    "GBP/USD|4H:top": 1793753898.603513,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793753273.5286999,
-  "last_news": 1793753280.54938,
+  "last_analysis": 1793753888.2515132,
+  "last_news": 1793753897.6177926,
   "seen_news": [
-    "Don't get caught out by new Buy Now Pay Later rules",
-    "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
-    "USDCAD buyers push away from support. Can they clear the next upside hurdles?",
-    "L\u00e3i su\u1ea5t ti\u1ebft ki\u1ec7m ng\u00e0y 4/11 t\u1ea1i Agribank, Vietcombank, BIDV, VietinBank, MB, VP",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 09/2026 - Huy \u0111\u1ed9ng t\u0103ng t\u1ed1c, kh\u1ea3 n\u0103ng h\u1ea5p t",
-    "flatexDEGIRO SE (FTK) Reports Morgan Stanley Voting-Rights Threshold Crossing - ",
     "Why is International Paper stock sliding today?",
     "History is kind to buyers of stock markets today",
     "S\u0129 quan qu\u00e2n \u0111\u1ed9i ngh\u1ec9 h\u01b0u r\u1ebd h\u01b0\u1edbng kinh doanh, tu\u1ed5i U80 v\u1eabn \u0111i\u1ec1u h\u00e0nh doanh nghi",
@@ -457,6 +451,12 @@
     "3M to take $5.8 billion hit under PFAS personal injury settlement",
     "Economic and event calendar in Asia Wednesday, November 4, 2026 - NZ jobs report",
     "\u0110ang bay \u1edf \u0111\u1ed9 cao h\u01a1n 11.000m, m\u00e1y bay ch\u1edf kh\u00e1ch b\u1ea5t ng\u1edd th\u1ef1c hi\u1ec7n c\u00fa quay \u0111\u1ea7u g",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
+    "European stocks close lower as yields climb. UK FTSE leads the declines",
+    "4h s\u00e1ng \u0111\u1ebfn 12h \u0111\u00eam c\u1ee7a MC Kh\u00e1nh Vy",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "XAUUSD: Gold Regains $3,900 After a Bruising October. What to Watch This Week - ",
+    "Google responds to political backlash over removing search from schools that ban"
   ]
 }
