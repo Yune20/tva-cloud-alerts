@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793778041.962593,
+  "last_signals": 1793778650.7108057,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,7 +68,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": true,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -88,7 +88,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -121,7 +121,7 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793237696.594155,
+    "Ethereum|4H:top": 1793778652.0054686,
     "Gold|4H:top": 1793778042.1102793,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
@@ -145,7 +145,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793775569.036326,
-    "Bitcoin|1D:bot": 1793778042.4268603,
+    "Bitcoin|1D:bot": 1793778651.6663446,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,17 +155,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793778043.0828018
+    "EUR/USD|1D:top": 1793778652.9534607
   },
-  "last_analysis": 1793778034.200743,
-  "last_news": 1793778041.9616325,
+  "last_analysis": 1793778640.3788688,
+  "last_news": 1793778650.7098763,
   "seen_news": [
-    "Oil: Private survey of inventory shows a huge headline crude oil draw vs. build ",
-    "Nh\u00e0 \u1edf x\u00e3 h\u1ed9i t\u1ea1i H\u00e0 N\u1ed9i c\u00f3 gi\u00e1 t\u1eeb 880 tri\u1ec7u \u0111\u1ed3ng/c\u0103n, ti\u1ec7n \u00edch th\u1ebf n\u00e0o?",
-    "IDC: T\u1ed5ng C\u00f4ng ty IDICO - CTCP - IDICO - VietstockFinance",
-    "Solstice Advanced Materials Declares Quarterly Dividend of $0.075 per Share - Tr",
-    "The 'poison pill' ballot measure that could kill the California billionaire tax",
-    "Shop freezers in seven European countries hit by cyber-attack",
     "L\u1eddi khuy\u00ean \u0111\u1ebfn t\u1ea5t c\u1ea3 nh\u1eefng ai th\u00edch \u0103n c\u01a1m chan n\u01b0\u1edbc canh",
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "Duolingo Q3 2026 Earnings Call Is Live - TradingView",
@@ -459,6 +453,12 @@
     "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
     "Weekly Recap: Infant formula sale and lower future capital spending - TradingVie",
     "Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Rep",
-    "How video game remakes tap the power of nostalgia"
+    "How video game remakes tap the power of nostalgia",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
+    "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
+    "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
+    "What's happening to UK interest rates and what does it mean for mortgages?",
+    "Big Oil Puts Debt Reduction Ahead of New Investments",
+    "Zeal Network raises 2026 sales guidance after Q3 results"
   ]
 }
