@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793811556.0964758,
+  "last_signals": 1793812184.4688187,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -86,14 +86,14 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "EUR/USD|1D": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793811557.3363633,
+    "Bitcoin|1D:bot": 1793812185.3503532,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,19 +155,13 @@
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793722034.8068702,
-    "DXY|1D:bot": 1793811559.7601905,
+    "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793811558.9555602
+    "EUR/USD|1D:top": 1793812186.5097265
   },
-  "last_analysis": 1793811546.9242237,
-  "last_news": 1793811556.0956824,
+  "last_analysis": 1793812173.98326,
+  "last_news": 1793812184.4679897,
   "seen_news": [
-    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-    "It's no longer early, this election is looking like a disaster for Republicans",
-    "Kh\u00e1m x\u00e9t kh\u1ea9n c\u1ea5p n\u01a1i \u1edf c\u1ee7a ng\u01b0\u1eddi ph\u1ee5 n\u1eef 54 tu\u1ed5i \u1edf H\u00e0 N\u1ed9i",
-    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
-    "Ferroglobe plans five plant closures, 20% overhead cut in profitability push - T",
-    "Kalshi valuation jumps to $40 billion in latest funding round",
     "Options traders are betting heavily on these stocks ahead of election results",
     "Ryanair says it may freeze workers' pay and raise airfares",
     "Sterling today: Pound edges up as dollar eases, BoE hike in view",
@@ -461,6 +455,12 @@
     "DCM: CTCP - T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau - PVCFC - VietstockFinance",
     "YieldMax MSFT Option Income Strategy ETF announces weekly distribution of $0.071",
     "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost",
-    "What Republicans' huge loss means for Trump"
+    "What Republicans' huge loss means for Trump",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "UPST Q3 Earnings Call Highlights Macro Risks and Revised Outlook - TradingView",
+    "Three things that explain what\u2019s changing with Obamacare in 2027",
+    "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile se",
+    "Drivers may get compensation offers before car finance saga ends",
+    "New Jersey Moves to Block Trump's Russian Diesel Imports"
   ]
 }
