@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793758626.4790807,
+  "last_signals": 1793759237.1729906,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -72,16 +72,16 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793758627.6976566
+    "EUR/USD|1D:top": 1793759239.1978931
   },
-  "last_analysis": 1793758618.0767,
-  "last_news": 1793758626.4782584,
+  "last_analysis": 1793759228.939483,
+  "last_news": 1793759237.1720426,
   "seen_news": [
-    "NVL: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 \u0110\u1ecba \u1ed1c No Va - NOVALAND GROUP CORP - VietstockFinance",
-    "What do Israel's elections mean for oil prices? - TradingView",
-    "Baked by Melissa enters Target with first at-home cupcake mix",
-    "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-    "ECB\u2019s Nagel says a December rate hike is very likely to be necessary",
     "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost",
     "Options traders are betting heavily on these stocks ahead of election results",
     "Ryanair says it may freeze workers' pay and raise airfares",
@@ -458,6 +452,12 @@
     "Sullivan: What the 2026 midterms could mean for energy investors",
     "North Korea denies being behind record $6.3bn Binance hack",
     "CVS tests breakup of retail, insurance businesses, source says",
-    "Sell tech, sell USD and other signals from the massive blue wave that's unfoldin"
+    "Sell tech, sell USD and other signals from the massive blue wave that's unfoldin",
+    "Aon CEO warns AI data center insurance risks could threaten financing",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "+49.6% since March: our AI-picked chipmaker keeps climbing after last week\u2019s rou",
+    "China buyback loan applications top 200bn yuan as PBOC steps up stock support",
+    "Showbiz Vi\u1ec7t c\u00f3 \u0111\u00e1m c\u01b0\u1edbi \u0111\u1ea1o di\u1ec5n tr\u0103m t\u1ef7 nh\u01b0ng ch\u1ec9 m\u1eddi 20 ng\u01b0\u1eddi, danh t\u00ednh c\u00f4 d",
+    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance"
   ]
 }
