@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793759237.1729906,
+  "last_signals": 1793759840.186028,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793757388.4336624,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -73,7 +73,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": false,
@@ -87,7 +87,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -154,17 +154,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793759239.1978931
+    "EUR/USD|1D:top": 1793759841.332982
   },
-  "last_analysis": 1793759228.939483,
-  "last_news": 1793759237.1720426,
+  "last_analysis": 1793759831.3300202,
+  "last_news": 1793759840.1851854,
   "seen_news": [
-    "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost",
-    "Options traders are betting heavily on these stocks ahead of election results",
-    "Ryanair says it may freeze workers' pay and raise airfares",
-    "Sterling today: Pound edges up as dollar eases, BoE hike in view",
-    "Iran tensions rise as report details U.S. strike contingency and intelligence di",
-    "Ph\u00eda sau con chip b\u1ea3o m\u1eadt \u0111\u1ea7u ti\u00ean do Vi\u1ec7t Nam l\u00e0m ch\u1ee7 thi\u1ebft k\u1ebf: H\u01a1n 40 chuy\u00ean g",
     "Jefferies names top lifestyle & growth platform stocks ahead of earnings",
     "Ethereum consolidates as focus shifts to US midterm elections while US-Iran nego",
     "Vi\u1ec7t Nam c\u00f3 m\u1ed9t '\u00f4ng l\u1edbn' sang L\u00e0o x\u00e2y t\u1ed5 h\u1ee3p b\u00f2 s\u1eefa quy m\u00f4 l\u1edbn: Trang tr\u1ea1i 8.00",
@@ -458,6 +452,12 @@
     "+49.6% since March: our AI-picked chipmaker keeps climbing after last week\u2019s rou",
     "China buyback loan applications top 200bn yuan as PBOC steps up stock support",
     "Showbiz Vi\u1ec7t c\u00f3 \u0111\u00e1m c\u01b0\u1edbi \u0111\u1ea1o di\u1ec5n tr\u0103m t\u1ef7 nh\u01b0ng ch\u1ec9 m\u1eddi 20 ng\u01b0\u1eddi, danh t\u00ednh c\u00f4 d",
-    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance"
+    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
+    "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+    "It's no longer early, this election is looking like a disaster for Republicans",
+    "Kh\u00e1m x\u00e9t kh\u1ea9n c\u1ea5p n\u01a1i \u1edf c\u1ee7a ng\u01b0\u1eddi ph\u1ee5 n\u1eef 54 tu\u1ed5i \u1edf H\u00e0 N\u1ed9i",
+    "PVP: CTCP V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed Th\u00e1i B\u00ecnh D\u01b0\u01a1ng - PV Trans Pacific JSC - VietstockFina",
+    "Ferroglobe plans five plant closures, 20% overhead cut in profitability push - T",
+    "Kalshi valuation jumps to $40 billion in latest funding round"
   ]
 }
