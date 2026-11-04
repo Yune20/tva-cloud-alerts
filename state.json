@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793750150.52461,
+  "last_signals": 1793750758.3497212,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -67,7 +67,7 @@
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -82,15 +82,15 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -144,7 +144,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793620879.0000093,
-    "Bitcoin|1D:bot": 1793750151.3210948,
+    "Bitcoin|1D:bot": 1793750758.8531904,
     "DXY|4H:bot": 1793620879.5073617,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,14 +156,8 @@
     "US30|4H:bot": 1793726812.8171103
   },
   "last_analysis": 1793750455.595311,
-  "last_news": 1793750150.5237567,
+  "last_news": 1793750758.3489003,
   "seen_news": [
-    "Swiss inflation surprises higher in October but core prices offer some relief",
-    "C\u1ef1u sinh vi\u00ean c\u01a1 kh\u00ed B\u00e1ch khoa \u0110\u00e0 N\u1eb5ng \u0111i b\u00e1n s\u1eefa \u0111\u1eadu n\u00e0nh c\u00f3 kh\u1ed1i t\u00e0i s\u1ea3n 2.000",
-    "VIC: T\u1eadp \u0111o\u00e0n VINGROUP - CTCP - VINGROUP - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "Weekly Recap: Insurance divestitures and $302 million catastrophe losses - Tradi",
-    "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "M\u1ed9t l\u0129nh v\u1ef1c t\u1eebng h\u00fat h\u01a1n 82 tri\u1ec7u USD t\u1ea1i Vi\u1ec7t Nam b\u1ea5t ng\u1edd m\u1ea5t 99% v\u1ed1n ch\u1ec9 sau ",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "The Vanguard Group, Inc. Files DCC Takeover Disclosure - TradingView",
@@ -457,6 +451,12 @@
     "New national home listing database is taking on Compass in the battle for contro",
     "Virgin Media O2 set to cut thousands of jobs to reduce costs",
     "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen ease",
-    "Two reasons why the US could attack Iran as soon as tomorrow"
+    "Two reasons why the US could attack Iran as soon as tomorrow",
+    "Poundland supplier 'will lose millions' if retailer collapses",
+    "Iran War Doubles Egypt\u2019s LNG Bill as Gas Output Keeps Falling",
+    "Suncor Energy tops profit estimates on higher oil prices, margins",
+    "Booking Holdings shares slide as Q3 revenue misses despite earnings and bookings",
+    "'\u00d4ng tr\u00f9m' xe \u0111i\u1ec7n th\u1ebf gi\u1edbi \u0111\u00f3n tin bu\u1ed3n t\u1eeb \u0110\u00f4ng Nam \u00c1",
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance"
   ]
 }
