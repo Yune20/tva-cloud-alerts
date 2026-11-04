@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793752938.7050364,
-  "last_bot4": 1793754840.981837,
+  "last_bot4": 1793755498.141486,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793754189.419014
+    "Gold": 1793755498.1413708
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793755129.7523062,
+  "last_signals": 1793755498.1422255,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793709537.964554,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -70,7 +70,7 @@
     "USOIL|4H": true,
     "USOIL|1D": true,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -123,8 +123,8 @@
     "Ethereum|4H:top": 1793237696.594155,
     "Gold|4H:top": 1793232056.4127665,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1793755131.2871926,
-    "JPY Index|4H:top": 1793755131.6740026,
+    "USD/JPY|4H:top": 1793755499.5197885,
+    "JPY Index|4H:top": 1793755499.8440127,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
@@ -155,15 +155,9 @@
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103
   },
-  "last_analysis": 1793754840.9810028,
-  "last_news": 1793755129.7514772,
+  "last_analysis": 1793755485.231406,
+  "last_news": 1793755495.4189255,
   "seen_news": [
-    "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-    "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "Iran War Triples Logistics Costs for Oil Services Firms",
-    "Why is Ball stock sliding today?",
-    "European stock market open: Stocks tumble across the board as risk sentiment sou",
-    "Tr\u00fang t\u1edbi 46 g\u00f3i th\u1ea7u t\u1eeb Vingroup, Sun Group, Masterise, MIK, m\u1ed9t doanh nghi\u1ec7p t",
     "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You s",
     "North Korea denies being behind record $6.3bn Binance hack",
     "Why is Weyerhaeuser stock sliding today?",
@@ -457,6 +451,12 @@
     "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
     "Tesla misled South Korean buyers over Full Self-Driving, consumer group alleges",
     "T\u1ed5ng th\u1ed1ng Trump b\u1ea5t ng\u1edd tuy\u00ean b\u1ed1 ch\u1ea5m d\u1ee9t vi\u1ec7n tr\u1ee3 qu\u00e2n s\u1ef1 h\u00e0ng n\u0103m cho Israel",
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance"
+    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
+    "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investm",
+    "Why are more roofs not made of solar tiles?",
+    "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
+    "SK Hynix trapped in bear flag below Cloud resistance: Live",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6811 \u2013 Reuters estimate",
+    "Chuy\u00ean gia: Kh\u00f4ng ph\u1ea3i m\u1ecdi h\u00f3a \u0111\u01a1n \u0111i\u1ec7n \u0111\u1ec1u gi\u1ea3m 2%"
   ]
 }
