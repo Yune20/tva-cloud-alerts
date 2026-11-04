@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793832681.627482,
+  "last_signals": 1793833287.3921707,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,7 +78,7 @@
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
@@ -88,13 +88,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     }
   },
   "sig_touch": {
-    "Ethereum|4H:top": 1793778652.0054686,
+    "Ethereum|4H:top": 1793833288.1588497,
     "Gold|4H:top": 1793829881.0716302,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793832682.9348347,
+    "Bitcoin|1D:bot": 1793833287.9590378,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793832672.2616735,
-  "last_news": 1793832681.6267052,
+  "last_analysis": 1793833276.6667674,
+  "last_news": 1793833287.3913136,
   "seen_news": [
-    "H\u00e0 N\u1ed9i ch\u1ed1t gi\u00e1 5 tuy\u1ebfn metro d\u00e0i 253km, chi ph\u00ed t\u1ed1i \u0111a 120 tri\u1ec7u USD/km",
-    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
-    "Swedencare appoints Kristy Murphy as Interim CEO of Naturvet - TradingView",
-    "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-    "Poundland supplier 'will lose millions' if retailer collapses",
-    "Iran War Doubles Egypt\u2019s LNG Bill as Gas Output Keeps Falling",
     "7 m\u00f3n n\u1ed9i th\u1ea5t kh\u00f4ng n\u00ean mua qu\u00e1 l\u1edbn: Nh\u00ecn th\u00ec sang nh\u01b0ng c\u00e0ng s\u1eed d\u1ee5ng c\u00e0ng th\u1ea5y",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Aehr Test Systems Stock 12\u2011Month Price Target Cut to $127, Implies 95% Upside - ",
@@ -462,6 +456,12 @@
     "Arm shares fall 5% after hours despite Q2 beat as outlook only edges past foreca",
     "5 th\u1ef1c ph\u1ea9m t\u00e0n ph\u00e1 gan ngang u\u1ed1ng r\u01b0\u1ee3u n\u1ebfu l\u1ea1m d\u1ee5ng",
     "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
-    "MKS launches $500M share repurchase program - TradingView"
+    "MKS launches $500M share repurchase program - TradingView",
+    "N\u1eef th\u1ea7n m\u1eb7t m\u1ed9c \u0111\u1eb9p ph\u00e1t s\u00e1ng, m\u1ed9t m\u00ecnh ch\u1ea5p 3 Hoa h\u1eadu chung khung h\u00ecnh",
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "Applovin Q3 2026 Earnings Call Is Live - TradingView",
+    "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
+    "Figma sinks after earnings beat as company prioritizes long-term growth with AI ",
+    "What's happening to UK interest rates and what does it mean for mortgages?"
   ]
 }
