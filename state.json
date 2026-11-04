@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793774595.2345424,
-  "last_bot4": 1793784815.1915877,
+  "last_news_report": 1793809051.5763507,
+  "last_bot4": 1793809054.6749594,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793784202.2586844
+    "Gold": 1793809054.6748877
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793785167.2587764,
+  "last_signals": 1793809054.6758223,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -51,7 +51,8 @@
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
-    "5575146754|Gold|4H|up": 1793784529.6065753
+    "5575146754|Gold|4H|up": 1793784529.6065753,
+    "5575146754|Gold|4H|momo_up": 1793809054.6758223
   },
   "sig_range": {
     "Gold": true,
@@ -68,32 +69,32 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
-    "USOIL|1D": true,
+    "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
-    "Bitcoin|1D": false,
+    "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": true,
-    "US30|1H": true,
+    "Ethereum|1D": false,
+    "US30|1H": false,
     "US30|4H": false,
-    "US30|1D": true,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "US30|1D": false,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
-    "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
+    "EUR/USD|1D": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|1H": true,
+    "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793785735,
@@ -146,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793785168.036066,
+    "Bitcoin|1D:bot": 1793809055.6109471,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793682307.867977,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793783300.5114222
+    "EUR/USD|1D:top": 1793809056.9411368
   },
-  "last_analysis": 1793785158.6470199,
-  "last_news": 1793785167.2579591,
+  "last_analysis": 1793809036.563841,
+  "last_news": 1793809046.6503448,
   "seen_news": [
-    "Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters",
-    "India gold demand seen at six-year low in 2026 as high prices and weak monsoon b",
-    "3 l\u1eddi khuy\u00ean khi th\u1ea5y r\u1eafn b\u00f2 v\u00e0o nh\u00e0",
-    "DCM: CTCP - T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau - PVCFC - VietstockFinance",
-    "FuelCell Energy Secures EXIM Funding to Expand South Korea Presence - TradingVie",
-    "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
     "Nh\u00e0 3 t\u1ea7ng mang d\u00e1ng d\u1ea5p ph\u1ed1 x\u01b0a v\u1edbi m\u00e1i ng\u00f3i \u0111\u1ecf v\u00e0 c\u1eeda v\u00f2m",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
     "Japan Monetary Base Declines for 15th Straight Month - TradingView",
@@ -460,6 +455,12 @@
     "To\u00e0n c\u1ea3nh d\u1ef1 \u00e1n c\u1ea7u M\u1ec5 S\u1edf sau h\u01a1n m\u1ed9t n\u0103m thi c\u00f4ng",
     "VCK: CTCP Ch\u1ee9ng kho\u00e1n VPS - VPS - VietstockFinance",
     "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
-    "AI-generated 'slopaganda' in political ads puts internet platforms on alert"
+    "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+    "C\u01a1 quan n\u00e0o tr\u00ean c\u01a1 th\u1ec3 con ng\u01b0\u1eddi l\u00e0 n\u01a1i DUY NH\u1ea4T kh\u00f4ng c\u00f3 m\u00e1u ch\u1ea3y qua?",
+    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Gold gains 3% as dollar slides after Democratic midterm gains - TradingView",
+    "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
+    "Analysis: The Democrats have one chance to extract concessions from Trump. Marke",
+    "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterm"
   ]
 }
