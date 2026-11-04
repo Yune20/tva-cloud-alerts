@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793819977.4951122,
+  "last_news_report": 1793830849.4695578,
   "last_bot4": 1793830360.0456202,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793830360.0464926,
+  "last_signals": 1793830849.470626,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -85,7 +85,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793830361.1774116,
+    "Bitcoin|1D:bot": 1793830850.182336,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793830362.4201066
+    "EUR/USD|1D:top": 1793830851.0493028
   },
-  "last_analysis": 1793830125.6045048,
-  "last_news": 1793830360.0448368,
+  "last_analysis": 1793830835.289386,
+  "last_news": 1793830843.8683882,
   "seen_news": [
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
-    "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
-    "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
-    "What's happening to UK interest rates and what does it mean for mortgages?",
-    "Big Oil Puts Debt Reduction Ahead of New Investments",
-    "Zeal Network raises 2026 sales guidance after Q3 results",
     "Gold, silver and precious metals prices jump, dollar dips as Democrats take cont",
     "Shop freezers in seven European countries hit by cyber-attack",
     "Drax Unveils \u00a320 Billion AI Data Centre Plans at UK Biomass Plant",
@@ -462,6 +456,12 @@
     "SoftBank faces two hits as Arm slide meets US rotation out of AI, leaving Nikkei",
     "5 l\u00fd do v\u00ec sao n\u00ean tr\u1ed3ng ngay 1 c\u00e2y \u0111a b\u00fap \u0111\u1ecf trong nh\u00e0",
     "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
-    "Ellington Financial Q3 adjusted EPS misses analyst estimates - TradingView"
+    "Ellington Financial Q3 adjusted EPS misses analyst estimates - TradingView",
+    "Dow surges 1,570 points as investors rotate out of AI and chip stocks",
+    "H\u00e0 N\u1ed9i l\u00e0m 5 tuy\u1ebfn metro, y\u00eau c\u1ea7u kh\u00f4ng v\u01b0\u1ee3t qu\u00e1 120 tri\u1ec7u USD/km \u0111i ng\u1ea7m",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Koppers Holdings Inc. Declares Quarterly Cash Dividend - TradingView",
+    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
+    "Every stock that moved because of the election"
   ]
 }
