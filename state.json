@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793812184.4688187,
+  "last_signals": 1793812799.5352442,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,19 +82,19 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793813058,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793812185.3503532,
+    "Bitcoin|1D:bot": 1793812800.423865,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793812186.5097265
+    "EUR/USD|1D:top": 1793812801.6832712
   },
-  "last_analysis": 1793812173.98326,
-  "last_news": 1793812184.4679897,
+  "last_analysis": 1793812789.6655114,
+  "last_news": 1793812799.534463,
   "seen_news": [
-    "Options traders are betting heavily on these stocks ahead of election results",
-    "Ryanair says it may freeze workers' pay and raise airfares",
-    "Sterling today: Pound edges up as dollar eases, BoE hike in view",
-    "US stock futures slip on Globex as early midterm results point to Democratic gai",
-    "Gi\u00e1 x\u0103ng gi\u1ea3m bao nhi\u00eau ch\u1ec9 sau 3 ng\u00e0y?",
-    "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
     "Greenwing Resources Agrees Non-Binding Terms With Atana Elements - TradingView",
     "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
     "Rainmakers: The drones used to seed clouds",
@@ -461,6 +455,12 @@
     "Three things that explain what\u2019s changing with Obamacare in 2027",
     "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile se",
     "Drivers may get compensation offers before car finance saga ends",
-    "New Jersey Moves to Block Trump's Russian Diesel Imports"
+    "New Jersey Moves to Block Trump's Russian Diesel Imports",
+    "What Trump can achieve without approval from a Democratic-led Congress",
+    "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+    "North Korea denies being behind record $6.3bn Binance hack",
+    "UAE-Controlled Moeve Sells Algerian Upstream Assets",
+    "Dollar falls to one-month low as U.S. midterms trigger flight to safe-havens",
+    "The biggest loser of the US elections was data centers"
   ]
 }
