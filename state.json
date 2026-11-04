@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793819977.4951122,
-  "last_bot4": 1793829581.504289,
+  "last_bot4": 1793830360.0456202,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793829880.71319,
+  "last_signals": 1793830360.0464926,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793829881.672783,
+    "Bitcoin|1D:bot": 1793830361.1774116,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793829883.6871219
+    "EUR/USD|1D:top": 1793830362.4201066
   },
   "last_analysis": 1793830125.6045048,
-  "last_news": 1793829880.7125003,
+  "last_news": 1793830360.0448368,
   "seen_news": [
-    "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to ",
-    "Th\u1ee7 t\u01b0\u1edbng: \"Sau r\u1ea5t nhi\u1ec1u n\u0103m, gi\u00e1 \u0111i\u1ec7n m\u1edbi gi\u1ea3m, tr\u00ean c\u01a1 s\u1edf \u0111\u00e1nh gi\u00e1 r\u1ea5t k\u1ef9 t\u00ecn",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
-    "Weekly Recap: Infant formula sale and lower future capital spending - TradingVie",
-    "Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Rep",
-    "How video game remakes tap the power of nostalgia",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
     "FTAI Aviation 2026: Revenue $977.66M, EPS $1.43\u2014 10-Q Summary - TradingView",
     "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to st",
@@ -462,6 +456,12 @@
     "How will central banks wrap up the year?",
     "H\u00e3ng t\u00e0u h\u00e0ng \u0111\u1ea7u H\u00e0 Lan ch\u1ecdn m\u1ed9t x\u01b0\u1edfng \u1edf H\u1ea3i Ph\u00f2ng l\u00e0m c\u1ee9 \u0111i\u1ec3m n\u01b0\u1edbc ngo\u00e0i: V\u1eeba ",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
-    "Lancashire Q3 2026 Earnings Call Is Live - TradingView"
+    "Lancashire Q3 2026 Earnings Call Is Live - TradingView",
+    "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "Qualcomm\u2019s smartphone chip sales miss estimates, shares fall",
+    "SoftBank faces two hits as Arm slide meets US rotation out of AI, leaving Nikkei",
+    "5 l\u00fd do v\u00ec sao n\u00ean tr\u1ed3ng ngay 1 c\u00e2y \u0111a b\u00fap \u0111\u1ecf trong nh\u00e0",
+    "TNG: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i TNG - TNG - VietstockFinance",
+    "Ellington Financial Q3 adjusted EPS misses analyst estimates - TradingView"
   ]
 }
