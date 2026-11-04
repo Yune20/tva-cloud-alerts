@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793828664.135338,
+  "last_signals": 1793829273.1915157,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -41,7 +41,7 @@
     "5575146754|Gold|1H|trap_up": 1793811556.0964758,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
-    "5575146754|Gold|4H|dtop": 1793810305.3154364,
+    "5575146754|Gold|4H|dtop": 1793829273.1915157,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
@@ -85,7 +85,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -125,7 +125,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793778652.0054686,
-    "Gold|4H:top": 1793810305.4740858,
+    "Gold|4H:top": 1793829273.6375048,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793828664.7272592,
+    "Bitcoin|1D:bot": 1793829274.549262,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793828665.6703796
+    "EUR/USD|1D:top": 1793829276.4123871
   },
-  "last_analysis": 1793828656.660321,
-  "last_news": 1793828664.1344283,
+  "last_analysis": 1793829264.6465452,
+  "last_news": 1793829273.190758,
   "seen_news": [
-    "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC - VietstockFinance",
-    "Corn Falls Lower on Tuesday with Traders Taking Risk Off - TradingView",
-    "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
-    "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's",
-    "Leisure centre price hikes on the way",
-    "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat",
     "China Now Home to Nearly Half of World's Clean Industrial Plants",
     "Jeweller Pandora nudges up 2026 outlook helped by demand for novelties",
     "investingLive European news wrap: Markets remain cautious as focus shifts to US ",
@@ -462,6 +456,12 @@
     "HDB: Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HDBank - VietstockFinance",
     "REG - Ondo InsurTech PLC - Holding(s) in Company - TradingView",
     "Microsoft and Amazon combined to see a $424 billion market-cap boost \u2014\u00a0and these",
-    "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on s"
+    "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on s",
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
+    "Key facts: Nebius $2.7B share sales; asset-backed financing expected - TradingVi",
+    "Figma\u2019s stock falls as investors worry that AI momentum is coming at a high pric",
+    "What was really behind Wednesday's monster rally? Trump quickly making peace",
+    "Pound rises to its highest level since the Brexit referendum",
+    "After-Hours Movers: QCOM, COHR, APP, HUBS, SNAP, FSLY, FIG, ZG, BROS, CDE"
   ]
 }
