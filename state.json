@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793822780.6920528,
+  "last_signals": 1793823390.9002957,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,11 +87,11 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793822781.6827724,
+    "Bitcoin|1D:bot": 1793823391.8822544,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793822782.9552612
+    "EUR/USD|1D:top": 1793823393.1542623
   },
   "last_analysis": 1793823090.6907113,
-  "last_news": 1793822780.6912014,
+  "last_news": 1793823390.8996186,
   "seen_news": [
-    "US midterms: Poll closing times today",
-    "L\u1eadp c\u00f4ng ty 'ma' d\u1ef1ng d\u1ef1 \u00e1n \u0111\u1ea7u t\u01b0 gi\u1ea3, l\u1eeba h\u01a1n 100 t\u1ef7 \u0111\u1ed3ng qua app LB-Pro",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Dollar drops sharply on Democrats' early gains in US midterm election - TradingV",
-    "S&P 500 is looking over the edge of a technical cliff \u2014 what happens if it falls",
-    "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Key facts: ETHUSD ETF Outflows Extend; Bitmine Stakes 5.23M ETH - TradingView",
     "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
@@ -462,6 +456,12 @@
     "Microsoft and Amazon combine for a $400 billion market-cap boost \u2014\u00a0and these fac",
     "CVS Health plans to split itself up. Here's why a breakup could make sense now",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline"
+    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
+    "Hai container m\u1eafc k\u1eb9t \u1edf c\u1ea3ng v\u00e0 h\u00e0nh tr\u00ecnh \u0111\u01b0a Hapaco l\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n c\u1ee7a m\u1ed9",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Can Sterling's Raised 2026 Outlook Sustain Its Strong Growth Momentum? - Trading",
+    "Democrats take Congress in a blue wave. Here's what it means for your money",
+    "How long will humans be needed for translation?",
+    "Wall Street surges, Dow up 3% as investors cheer removal of midterms uncertainty"
   ]
 }
