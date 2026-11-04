@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793826209.656905,
+  "last_signals": 1793826821.3765626,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -91,7 +91,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -148,7 +148,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793826210.3358147,
+    "Bitcoin|1D:bot": 1793826821.8841844,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -158,17 +158,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793826211.0477035
+    "EUR/USD|1D:top": 1793826822.6169853
   },
-  "last_analysis": 1793826201.5654347,
-  "last_news": 1793826209.6559987,
+  "last_analysis": 1793826814.1406364,
+  "last_news": 1793826821.3754911,
   "seen_news": [
-    "Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B - TradingView",
-    "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
-    "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-    "Christmas 2026 stamps unveiled by Royal Mail",
-    "Oil Prices Rebound as Middle East Supply Fears Return",
-    "Treasuries steady as traders weigh midterm vote and AI trade",
     "Living with a stink? Technology might help",
     "US Crude Oil Inventories Still in Freefall",
     "Dollar ticks up with eyes on U.S. midterm elections; Aussie slips despite RBA hi",
@@ -462,6 +456,12 @@
     "Rainmakers: The drones used to seed clouds",
     "Iran War and AI Boom Drive Global Gas Supply Crunch",
     "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 3.19%",
-    "Zcash catches a bid as Democratic sweep pressures US dollar and Treasury yields."
+    "Zcash catches a bid as Democratic sweep pressures US dollar and Treasury yields.",
+    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
+    "Service Corporation declares $0.36 dividend - TradingView",
+    "Hospital stocks rallied while drugmakers brace for scrutiny. Here\u2019s what the Dem",
+    "Mortgage rates drop for the third straight week, but homebuyers are still leavin",
+    "Asda hires ex-Morrisons boss in bid to grow firm",
+    "3M stock soars following $7.35 billion \u2019forever chemicals\u2019 settlement"
   ]
 }
