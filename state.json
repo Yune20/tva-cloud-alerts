@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793816879.5211341,
+  "last_signals": 1793817500.0792024,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,18 +82,18 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793783300.5114012,
-    "Bitcoin|1D:bot": 1793816880.0959756,
+    "Bitcoin|1D:bot": 1793817500.7077992,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,17 +157,11 @@
     "USOIL|4H:bot": 1793722034.8068702,
     "DXY|1D:bot": 1793812187.1431758,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793816880.6992822
+    "EUR/USD|1D:top": 1793817501.6580882
   },
   "last_analysis": 1793817192.0503716,
-  "last_news": 1793816879.5203874,
+  "last_news": 1793817500.0783746,
   "seen_news": [
-    "TP H\u1ed3 Ch\u00ed Minh \u0111\u1eb7t l\u1ed9 tr\u00ecnh \u0111\u01b0a ti\u1ebfng Anh v\u00e0o m\u1ecdi ho\u1ea1t \u0111\u1ed9ng tr\u01b0\u1eddng h\u1ecdc",
-    "PAN: CTCP T\u1eadp \u0111o\u00e0n PAN - The PAN Group - VietstockFinance",
-    "Liberty Star Uranium & Metals Extends 2026 Warrants by Three Years - TradingView",
-    "Apple warns of risks related to AI agents behaving in 'unintended or unpredictab",
-    "'An annoying buzz': The search for stealthier drones",
-    "Why is Block\u2019s Australian stock surging today?",
     "Inovio Wins FDA Accelerated Approval for VOCERYQ to Reduce RRP Surgery - Trading",
     "Binance breach puts custody at center of crypto infrastructure trade",
     "The Indian workers filming their work to train AI",
@@ -461,6 +455,12 @@
     "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 09/2026 - VietstockFinance",
     "DNR: Backlog surged ~61%, supporting FY guidance and 2027 growth visibility - Tr",
     "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
-    "AI data center stocks and Musk's SpaceX decline as Texas governor result raises "
+    "AI data center stocks and Musk's SpaceX decline as Texas governor result raises ",
+    "PNj: PNJ: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt \u0110HC\u0110 b\u1ea5t th\u01b0\u1eddng 21/10/2026 - VietstockFinance",
+    "Nvidia's China Customers Face a Stunning 99% Chip Shortfall - TradingView",
+    "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have $500 ",
+    "Kraft Heinz to divest its North American coffee business in $650 million deal",
+    "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout"
   ]
 }
