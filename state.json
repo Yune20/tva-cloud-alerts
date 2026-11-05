@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793859452.0785139,
+  "last_signals": 1793860070.3836246,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -83,7 +83,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -148,7 +148,7 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793859453.342991,
+    "EUR/USD|4H:top": 1793860074.297772,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
@@ -161,15 +161,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793859445.1728587,
-  "last_news": 1793859452.0776064,
+  "last_analysis": 1793860061.9234035,
+  "last_news": 1793860070.3825984,
   "seen_news": [
-    "Qualcomm\u2019s stock falls as twin forces pressure sales",
-    "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on ",
-    "Shop freezers in seven European countries hit by cyber-attack",
-    "Chime raises annual revenue forecast on robust demand",
-    "Snap user count falls short at 495 million as profit beat offsets slight revenue",
-    "V\u1ee3 ch\u1ed3ng 30 tu\u1ed5i vay 7,3 t\u1ef7 \u0111\u1ed3ng mua nh\u00e0, thu nh\u1eadp 150 tri\u1ec7u/th\u00e1ng v\u1eabn ch\u1eadt v\u1eadt",
     "The AI telling farmers when to harvest",
     "Arm forecasts third-quarter revenue above estimates on AI spending boom",
     "Arm shares fall 5% after hours despite Q2 beat as outlook only edges past foreca",
@@ -463,6 +457,12 @@
     "M\u1ef9 nh\u00e2n VTV ki\u1ebfm 7 t\u1ef7 1 n\u0103m, n\u00f3i \u0111\u01b0\u1ee3c 4 th\u1ee9 ti\u1ebfng, c\u1ea3 \u0111\u1eddi ch\u01b0a t\u1eebng bi\u1ebft m\u00f9i flo",
     "HDB: Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HDBank - VietstockFinance",
     "Indonesia stock market to publish more details on company shareholding - Trading",
-    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o"
+    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
+    "\u00d4ng L\u00ea Thanh Th\u1ea3n s\u1eafp h\u1ea7u t\u00f2a v\u1ee5 h\u01a1n 500 c\u0103n h\u1ed9 CT6 Ki\u1ebfn H\u01b0ng kh\u00f4ng c\u00f3 s\u1ed5 \u0111\u1ecf",
+    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
+    "MORLD: Record backlog and Ocean Installer strength lift FY26 EBITDA guidance - T",
+    "How do Americans feel about the midterm results? It depends on how much money th",
+    "Every stock that moved because of the election",
+    "Elon Musk's millions failed to deliver Republican wins in fierce midterms"
   ]
 }
