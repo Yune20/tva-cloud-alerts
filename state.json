@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793841983.5904114,
-  "last_bot4": 1793850457.689079,
+  "last_bot4": 1793851392.8990026,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793850457.6889932
+    "Gold": 1793851392.8988848
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793851053.7353275,
+  "last_signals": 1793851392.8997214,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -51,7 +51,7 @@
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793851053.7353275,
-    "5575146754|Gold|4H|up": 1793847689.7566514,
+    "5575146754|Gold|4H|up": 1793851392.8997214,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793823762.319758
   },
@@ -91,7 +91,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793850761.8795588,
-  "last_news": 1793851053.7347255,
+  "last_analysis": 1793851381.126706,
+  "last_news": 1793851389.9837813,
   "seen_news": [
-    "Hai container m\u1eafc k\u1eb9t \u1edf c\u1ea3ng v\u00e0 h\u00e0nh tr\u00ecnh \u0111\u01b0a Hapaco l\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n c\u1ee7a m\u1ed9",
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Can Sterling's Raised 2026 Outlook Sustain Its Strong Growth Momentum? - Trading",
-    "Democrats take Congress in a blue wave. Here's what it means for your money",
-    "How long will humans be needed for translation?",
-    "Wall Street surges, Dow up 3% as investors cheer removal of midterms uncertainty",
     "The market is making a big bet on ending the Iran war",
     "\"Qu\u00e1i v\u1eadt\" n\u1eb7ng g\u1ea7n 5.000 t\u1ea5n, d\u00e0i b\u1eb1ng s\u00e2n b\u00f3ng \u0111\u00e1, \u0111\u01b0\u1eddng k\u00ednh b\u1eb1ng t\u00f2a nh\u00e0 6 t",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -462,6 +456,12 @@
     "Inside the chip talent war: Trade secrets and rising Chinese rivals",
     "The grads ditching the UK for a fresh start abroad",
     "Why is SoftBank stock sliding today?",
-    "US October ADP employment +86K vs +65K expected"
+    "US October ADP employment +86K vs +65K expected",
+    "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+    "The tech helping crack decades-old cold cases",
+    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
+    "Why is Sino Biopharmaceutical stock surging today?",
+    "Bitcoin analysis after the US midterms: Bulls are back, but $82,000 could change",
+    "Gi\u00e1 b\u1ea1c th\u1ebf gi\u1edbi v\u01b0\u1ee3t 53 USD/ounce, b\u1ea1c trong n\u01b0\u1edbc t\u0103ng h\u00e0ng tri\u1ec7u \u0111\u1ed3ng/kg"
   ]
 }
