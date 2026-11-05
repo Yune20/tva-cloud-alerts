@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793879820.1530979,
+  "last_signals": 1793880420.3621163,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -74,7 +74,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -83,8 +83,8 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793879822.9055014,
+    "GBP/USD|1D:top": 1793880421.9189,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793879823.3327801,
-    "USOIL|1D:bot": 1793879821.0053253
+    "EUR/USD|1D:top": 1793880422.106359,
+    "USOIL|1D:bot": 1793880421.1472886
   },
   "last_analysis": 1793880124.8588293,
-  "last_news": 1793879820.1253924,
+  "last_news": 1793880420.3611546,
   "seen_news": [
-    "CVS Health plans to split itself up. Here's why a breakup could make sense now",
-    "The tech helping crack decades-old cold cases",
-    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
-    "Why is Sino Biopharmaceutical stock surging today?",
-    "Bitcoin analysis after the US midterms: Bulls are back, but $82,000 could change",
-    "Gi\u00e1 b\u1ea1c th\u1ebf gi\u1edbi v\u01b0\u1ee3t 53 USD/ounce, b\u1ea1c trong n\u01b0\u1edbc t\u0103ng h\u00e0ng tri\u1ec7u \u0111\u1ed3ng/kg",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Why is Tencent stock surging today?",
     "China blocks SoftBank\u2019s $5.4 billion ABB robotics deal, FT says, in blow to Son\u2019",
@@ -464,6 +458,12 @@
     "Consumers are spending on physical gifts even as travel tops wish lists, Visa su",
     "The Indian workers filming their work to train AI",
     "Polar Vortex Puts Europe's Gas Reserves at Risk",
-    "Dollar slips to over one-month low on U.S. midterm results, mixed economic data"
+    "Dollar slips to over one-month low on U.S. midterm results, mixed economic data",
+    "Bank of England hikes for the first time since the Iran war, lifting interest ra",
+    "Three ways the interest rate rise could affect you",
+    "Goldman says this FX trade is the best hedge for the AI drawdown",
+    "What Could Stop the Fed Raising Rates in  December?",
+    "Trung Qu\u1ed1c b\u1ea5t ng\u1edd b\u00e1o tin kh\u00f4ng vui cho to\u00e0n th\u1ebf gi\u1edbi",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
