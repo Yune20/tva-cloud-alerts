@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793903614.2166622,
+  "last_signals": 1793904229.4389088,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,15 +88,15 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793904487,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793903614.700664,
+    "Bitcoin|4H:bot": 1793904230.5571947,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793903615.1447794,
+    "GBP/USD|1D:top": 1793904231.692496,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793903614.9998972,
-    "EUR/USD|1D:top": 1793903615.2808197,
-    "USOIL|1D:bot": 1793903614.5449598
+    "EUR/USD|1D:top": 1793904232.1121686,
+    "USOIL|1D:bot": 1793904230.1657302
   },
-  "last_analysis": 1793903605.9006023,
-  "last_news": 1793903614.21581,
+  "last_analysis": 1793904220.2053263,
+  "last_news": 1793904229.3997164,
   "seen_news": [
-    "New Jersey Moves to Block Trump's Russian Diesel Imports",
-    "Deutsche Bank sees lower policy risk supporting euro amid debt ceiling focus",
-    "Gold's key breakout signals a potential trend reversal as Vance's comments fuel ",
-    "C\u1eadn c\u1ea3nh d\u1ef1 \u00e1n khi\u1ebfn c\u1ef1u Ph\u00f3 Ch\u1ee7 t\u1ecbch t\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc c\u0169 v\u01b0\u1edbng lao l\u00fd",
-    "DCM: CTCP - T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau - PVCFC - VietstockFinance",
-    "Catella Q3 2026 Earnings Call Is Live - TradingView",
     "\u2018N\u1eef t\u01b0\u1edbng\u2019 c\u01a1 \u0111i\u1ec7n l\u1ea1nh REE Nguy\u1ec5n Th\u1ecb Mai Thanh l\u1ea7n \u0111\u1ea7u ti\u00ean n\u00f3i v\u1ec1 s\u1ef1 bu\u00f4ng b\u1ecf",
     "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Sweden's Oncopeptides Q3 net sales rise on Pepaxti demand - TradingView",
@@ -464,6 +458,12 @@
     "Midday Pulse: S&P 500 top intraday losers - TradingView",
     "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plung",
     "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch ",
-    "Second buyer makes rescue bid for Poundland as retailer faces collapse"
+    "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+    "Gold Fields reaffirms FY 2026 production guidance after Q3 update - TradingView",
+    "How to buy a new car for under $30,000 in this economy",
+    "Marc Lore's Wonder confidentially files for IPO",
+    "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "SOCAR Bets $1.65 Billion on U.S. Shale Gas Boom",
+    "Nasdaq set to confirm correction as AI stocks tumble"
   ]
 }
