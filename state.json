@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793874827.8406975,
-  "last_bot4": 1793882868.0524352,
+  "last_bot4": 1793883533.8316352,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793882260.3871725
+    "Gold": 1793883533.8315353
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793883156.7661722,
+  "last_signals": 1793883533.8328001,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793864738.0150247,
+    "5575146754|Gold|1H|range_in": 1793883533.8328001,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -90,7 +90,7 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793883159.4331534,
+    "GBP/USD|1D:top": 1793883536.2748497,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793883159.800528,
-    "USOIL|1D:bot": 1793883157.6944716
+    "EUR/USD|1D:top": 1793883536.6349134,
+    "USOIL|1D:bot": 1793883534.6000478
   },
-  "last_analysis": 1793883147.3882139,
-  "last_news": 1793883156.7654095,
+  "last_analysis": 1793883520.981625,
+  "last_news": 1793883530.9011407,
   "seen_news": [
-    "\"B\u00e1u v\u1eadt nhan s\u1eafc\" H\u00e0n Qu\u1ed1c: 55 tu\u1ed5i v\u1eabn s\u00e0nh \u0111i\u1ec7u ngang g\u00e1i \u0111\u00f4i m\u01b0\u01a1i",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Citi employee killed in shooting at Florida office, suspect dead - TradingView",
-    "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
-    "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
     "Optimum Communications earnings: what to look for from OPTU - TradingView",
     "Stock market after midterm elections: What S&P 500 history shows",
@@ -464,6 +458,12 @@
     "Bitcoin analysis after the US midterms: Bulls are back, but $82,000 could change",
     "B\u1eaft m\u1ed9t \u0111\u1ea7u b\u1ebfp \u0111\u1ec3 \u0111i\u1ec1u tra v\u1ec1 t\u00e0i s\u1ea3n tr\u1ecb gi\u00e1 10 tri\u1ec7u \u0111\u1ed3ng",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Companhia Brasileira de Distribuicao Q3 2026 Earnings Call Is Live - TradingView"
+    "Companhia Brasileira de Distribuicao Q3 2026 Earnings Call Is Live - TradingView",
+    "Tripadvisor shares tumble 18% on earnings miss, CEO exit",
+    "China blocks SoftBank\u2019s $5.4 billion ABB robotics deal, FT says, in blow to Son\u2019",
+    "Nh\u1eefng chi\u1ebfc Herm\u00e8s Birkin c\u00f3 ch\u1eef k\u00fd ng\u00f4i sao: N\u01b0\u1edbc \u0111i \u0111\u1ed9c b\u1ea3n, hay d\u1ea5u hi\u1ec7u bi\u1ec3u",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "KEEL Q3'26 Earnings: EPS estimate is (0.09) USD - TradingView",
+    "Robot maker Agility starts trading today \u2014 but its steep losses are raising red "
   ]
 }
