@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793868571.8740945,
+  "last_signals": 1793869204.8201199,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -139,7 +139,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793868572.865151,
+    "GBP/USD|4H:top": 1793869207.4682176,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -151,25 +151,19 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793868572.8651707,
+    "GBP/USD|1D:top": 1793869207.4682324,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793868572.189358,
+    "USOIL|4H:bot": 1793869205.6519904,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793868573.0161815
+    "EUR/USD|1D:top": 1793869207.895825
   },
-  "last_analysis": 1793868564.9161925,
-  "last_news": 1793868571.8701634,
+  "last_analysis": 1793869183.7868316,
+  "last_news": 1793869204.819259,
   "seen_news": [
-    "What Republicans' huge loss means for Trump",
-    "Australia's oldest department store David Jones collapses after 188 years",
-    "Africa\u2019s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
-    "Dollar edges lower as US election outcome cheers global markets",
-    "Japan services PMI edges up to 51.7, but composite slips to five-month low as hi",
-    "Nga v\u00e0 c\u00e1c n\u01b0\u1edbc ph\u1ea3n \u1ee9ng v\u1edbi k\u1ebft qu\u1ea3 b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9",
     "Drivers may get compensation offers before car finance saga ends",
     "New Jersey Moves to Block Trump's Russian Diesel Imports",
     "Deutsche Bank sees lower policy risk supporting euro amid debt ceiling focus",
@@ -463,6 +457,12 @@
     "Treasuries rally as Democrats sweep into Congress",
     "Goldman Sachs: 45% of planned US data centre capacity faces state pauses, but li",
     "Gi\u00e1 x\u0103ng d\u1ea7u ti\u1ebfp t\u1ee5c gi\u1ea3m m\u1ea1nh, x\u0103ng E10 v\u1ec1 s\u00e1t 21.000 \u0111\u1ed3ng/l\u00edt",
-    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance"
+    "CTG: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 23/10/2026 - VietstockFinance",
+    "FinecoBank beats profit forecast, cuts cost guidance for 2026",
+    "Australia\u2019s trade surplus jumps to A$2.8 billion, a seven-month high, on LNG and",
+    "Hai h\u00ecnh th\u1ee9c ti\u1ec1n l\u01b0\u01a1ng \u0111\u1ed1i v\u1edbi h\u1ee3p \u0111\u1ed3ng t\u1ea1i \u0111\u01a1n v\u1ecb s\u1ef1 nghi\u1ec7p",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
+    "Key facts: AppLovin Gains 20.6% Overnight; Buyback Plan Reaches $3.6B - TradingV",
+    "Figma\u2019s stock dips as investors worry that AI momentum is coming at a high price"
   ]
 }
