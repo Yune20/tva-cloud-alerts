@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793881362.2374475,
+  "last_signals": 1793881971.743328,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -84,7 +84,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -94,7 +94,7 @@
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793881364.5411878,
+    "GBP/USD|1D:top": 1793881972.7566557,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793881364.8673506,
-    "USOIL|1D:bot": 1793881363.2455323
+    "EUR/USD|1D:top": 1793881972.8907588,
+    "USOIL|1D:bot": 1793881972.0661533
   },
-  "last_analysis": 1793881352.1852918,
-  "last_news": 1793881362.2364476,
+  "last_analysis": 1793881962.6098418,
+  "last_news": 1793881971.7423744,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Yen Strengthens on Hawkish BOJ Minutes - TradingView",
-    "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-    "Mining giant joins fight to stop killer toad march across Australia",
-    "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
-    "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escal",
     "As Vistra and other energy stocks slide, some analysts warn of an \u2018excessive kne",
     "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
     "Why are more roofs not made of solar tiles?",
@@ -464,6 +458,12 @@
     "HAH: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 55,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "ADGM Q3'26 Earnings: revenue estimate is 0 USD - TradingView",
     "An Anthropic IPO when the AI trade is this turbulent? Godspeed!",
-    "Here's what the Democratic election rout could mean for the U.S. economy"
+    "Here's what the Democratic election rout could mean for the U.S. economy",
+    "Nhi\u1ec1u qu\u1ed1c gia khuy\u1ebfn c\u00e1o ng\u01b0\u1eddi d\u00e2n chu\u1ea9n b\u1ecb \u201c\u0111\u1ed3 sinh t\u1ed3n\u201d: B\u1ed9 Ngo\u1ea1i giao Vi\u1ec7t N",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Cheffelo (Q3 Review): Don\u2019t Judge the Dish by the Plating - TradingView",
+    "The real test for the artificial intelligence build-out is what happens in 2028,",
+    "Wendy's rejects takeover proposal from Nelson Peltz\u2019s Trian",
+    "The grads ditching the UK for a fresh start abroad"
   ]
 }
