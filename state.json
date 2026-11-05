@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793839768.2338276,
+  "last_signals": 1793840389.456648,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -90,13 +90,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793840640,
   "menu_prices": {
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793839762.1249425,
-  "last_news": 1793839768.2329385,
+  "last_analysis": 1793840379.4746578,
+  "last_news": 1793840389.455608,
   "seen_news": [
-    "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
-    "Sterling today: Pound gains as dollar slips on Democratic midterm sweep",
-    "October US ISM services 54.5 vs 54.8 expected",
-    "B\u00ed \u1ea9n r\u00f9ng r\u1ee3n v\u1ec1 nh\u1eefng vi khu\u1ea9n th\u00e2y ma v\u1eabn ti\u1ebfp t\u1ee5c t\u1ea1o ra ADN d\u00f9 t\u1ebf b\u00e0o ch\u1ebft",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
-    "AIX Debt Capital Structure II Demands Immediate Loan Note Payment - TradingView",
     "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
     "M\u1ef9 nh\u00e2n cao 1m65 m\u1eb7c \u0111\u1eb9p kh\u00f4ng tr\u01b0\u1ee3t ph\u00e1t n\u00e0o, l\u00ean th\u1ea3m \u0111\u1ecf c\u00f2n \"so k\u00e8\" v\u1edbi L\u01b0u D",
     "DCM: CTCP - T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau - PVCFC - VietstockFinance",
@@ -462,6 +456,12 @@
     "Crypto tracks stocks higher after Democrat midterm wins",
     "ICYMI: ADNOC denies report of third Hormuz bypass pipeline that could open to ot",
     "Ng\u00e0y 5/11, Qu\u1ed1c h\u1ed9i th\u1ea3o lu\u1eadn v\u1ec1 d\u1ef1 \u00e1n Lu\u1eadt Ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc (h\u1ee3p nh\u1ea5t)",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance"
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
+    "Treasuries rally as Democrats sweep into Congress",
+    "SNB watches for second-round Swiss inflation effects as December rate hike bets ",
+    "Kh\u1ed1i t\u00e0i s\u1ea3n kh\u1ee7ng c\u1ee7a c\u1eb7p \u0111\u00f4i \u0111\u00ecnh \u0111\u00e1m b\u1eadc nh\u1ea5t Cbiz: V\u1ee3 chi 316 t\u1ef7 \u0111\u1ed3ng mua tr",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "CoreCivic (NYSE:CXW) delivers impressive Q3 2026 - TradingView",
+    "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on s"
   ]
 }
