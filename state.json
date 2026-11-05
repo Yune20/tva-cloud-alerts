@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793885718.9615374,
-  "last_bot4": 1793894664.5744703,
+  "last_news_report": 1793900549.1876771,
+  "last_bot4": 1793900551.691277,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793894664.5743818
+    "Gold": 1793900551.6911824
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793894348.123315,
+  "last_signals": 1793900551.6919818,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -72,7 +72,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -80,22 +80,22 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
-    "US30|4H": true,
+    "US30|1H": false,
+    "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "EUR/USD|1D": false,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793894349.272462,
+    "GBP/USD|1D:top": 1793900552.8149905,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793894349.4830878,
-    "USOIL|1D:bot": 1793894348.4756384
+    "EUR/USD|1D:top": 1793900553.0040503,
+    "USOIL|1D:bot": 1793900552.0332084
   },
-  "last_analysis": 1793894661.600273,
-  "last_news": 1793894348.1223605,
+  "last_analysis": 1793900531.5613592,
+  "last_news": 1793900544.407327,
   "seen_news": [
-    "BoJ minutes: board backed further hikes, flagged 50% oil surge as government urg",
-    "B\u00e9 g\u00e1i 10 tu\u1ed5i cao 1,82m th\u01b0\u1eddng b\u1ecb nh\u1ea7m l\u00e0 gi\u00e1o vi\u00ean: M\u1ed7i th\u00e1ng t\u0103ng 1cm, gia \u0111\u00ec",
-    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Key facts: Q3 Growth, Buyback; Omnipod Trials, Filing; 2027 Slowdown - TradingVi",
-    "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-    "Graduates are managing AI - but are they learning much else?",
     "VGI: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Qu\u1ed1c t\u1ebf Viettel - VIETTEL GLOBAL - VietstockFin",
     "Oncopeptides Q3 2026 Earnings Call Is Live - TradingView",
     "From tanks to drones: South Korea\u2019s defense firms face a new battlefield test",
@@ -464,6 +458,12 @@
     "Norway stocks lower at close of trade; Oslo OBX down 1.27%",
     "Gold price recovery gathers pace after US midterms but $4,200 remains a major hu",
     "\u0110i\u1ec7n \u1ea3nh Vi\u1ec7t thi\u1ebfu k\u1ecbch b\u1ea3n \u0111\u1ee7 hay cho c\u00e1c ng\u1ecdc n\u1eef!",
-    "C\u1eadp nh\u1eadt HAH \u2013 KH\u1ea2 QUAN - VietstockFinance"
+    "C\u1eadp nh\u1eadt HAH \u2013 KH\u1ea2 QUAN - VietstockFinance",
+    "Bitcoin falls with risk off sentiment. The price is testing a key swing area tar",
+    "C\u00f4ng ty nu\u00f4i heo b\u00f2 g\u00e0 c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long \u0111\u00e3 l\u00e0m g\u00ec v\u1edbi 1.250 t\u1ef7 \u0111\u1ed3ng t\u1eeb ",
+    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
+    "Why CAVA (CAVA) shares are falling today - TradingView",
+    "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like unce",
+    "Wall Street's fear gauge surges the most since April. Why traders think it shoul"
   ]
 }
