@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793847689.7566514,
+  "last_signals": 1793848298.8156283,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,10 +82,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793847682.1036415,
-  "last_news": 1793847689.7558453,
+  "last_analysis": 1793848289.5019104,
+  "last_news": 1793848298.8146431,
   "seen_news": [
-    "Ph\u00e1t hi\u1ec7n Vi\u1ec7t Nam c\u00f3 h\u1ea7m \u0111\u1eb7c bi\u1ec7t d\u00e0i 11.258m xuy\u00ean n\u00fai, thi c\u00f4ng b\u1eb1ng c\u1ed7 m\u00e1y 3",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "US optimism fuels Nifty\u2019s strongest 5-day rally in seven months - TradingView",
-    "4 market-moving issues investors should watch now that the midterms are over",
-    "Voters rebuff data centers in every ballot measure except one during the 2026 mi",
-    "'An annoying buzz': The search for stealthier drones",
     "The Indian workers filming their work to train AI",
     "Polar Vortex Puts Europe's Gas Reserves at Risk",
     "Amazon, Microsoft lead mega-cap stock movers on Wednesday",
@@ -462,6 +456,12 @@
     "168 of 225 Nikkei stocks rise, but AI losses drag the index lower as the Topix r",
     "3 b\u1ed9 ph\u1eadn B\u1ea8N NH\u1ea4T c\u1ee7a con c\u00e1 nh\u01b0ng nhi\u1ec1u ng\u01b0\u1eddi th\u00edch \u0103n, c\u00f2n t\u01b0\u1edfng... b\u1ed5",
     "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "Vietnam dong, gold rates - November 5 - TradingView"
+    "Vietnam dong, gold rates - November 5 - TradingView",
+    "Gold jumps as oil slumps on Iran diplomacy hopes, an early test of Citi\u2019s thesis",
+    "S\u1ee3 AI c\u01b0\u1edbp c\u00f4ng, c\u00e1c nh\u00e0 to\u00e1n h\u1ecdc h\u00e0ng \u0111\u1ea7u th\u1ebf gi\u1edbi ph\u1ea3i gi\u1ea5u \u00fd t\u01b0\u1edfng nghi\u00ean c\u1ee9u",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Koppers Holdings declares $0.09 dividend - TradingView",
+    "A massive trade just happened in a leading mortgage lender",
+    "Why Gen Z are planning for life without a state pension"
   ]
 }
