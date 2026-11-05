@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793883533.8328001,
+  "last_signals": 1793884069.112276,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793883533.8328001,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -90,7 +90,7 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793883536.2748497,
+    "GBP/USD|1D:top": 1793884071.7078776,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793883536.6349134,
-    "USOIL|1D:bot": 1793883534.6000478
+    "EUR/USD|1D:top": 1793884072.1832898,
+    "USOIL|1D:bot": 1793884070.012792
   },
-  "last_analysis": 1793883520.981625,
-  "last_news": 1793883530.9011407,
+  "last_analysis": 1793884058.2798324,
+  "last_news": 1793884069.1111848,
   "seen_news": [
-    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
-    "Optimum Communications earnings: what to look for from OPTU - TradingView",
-    "Stock market after midterm elections: What S&P 500 history shows",
-    "Asda hires ex-Morrisons boss in bid to grow firm",
-    "Iran War and AI Boom Drive Global Gas Supply Crunch",
-    "Why is REA stock surging today?",
     "Rainmakers: The drones used to seed clouds",
     "Toyota posts first profit rise in six quarters, lifts annual outlook",
     "investingLive Asia-Pacific market news: Gold rocketed higher still",
@@ -464,6 +458,12 @@
     "Nh\u1eefng chi\u1ebfc Herm\u00e8s Birkin c\u00f3 ch\u1eef k\u00fd ng\u00f4i sao: N\u01b0\u1edbc \u0111i \u0111\u1ed9c b\u1ea3n, hay d\u1ea5u hi\u1ec7u bi\u1ec3u",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "KEEL Q3'26 Earnings: EPS estimate is (0.09) USD - TradingView",
-    "Robot maker Agility starts trading today \u2014 but its steep losses are raising red "
+    "Robot maker Agility starts trading today \u2014 but its steep losses are raising red ",
+    "Visa sees US holiday retail sales growing 4.5%, fastest pace since 2021",
+    "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
+    "C\u1eadn c\u1ea3nh tuy\u1ebfn \u0111\u01b0\u1eddng d\u00e0i h\u01a1n 11 km \u0111\u01b0\u1ee3c \u0111\u1eb7t t\u00ean c\u1ed1 B\u00ed th\u01b0 Th\u00e0nh \u1ee7y \u0110\u00e0 N\u1eb5ng Nguy\u1ec5",
+    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "1-800-Flowers Q1 revenue misses estimates - TradingView",
+    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he "
   ]
 }
