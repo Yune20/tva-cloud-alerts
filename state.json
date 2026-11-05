@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793911657.554971,
-  "last_bot4": 1793920503.9152617,
+  "last_bot4": 1793921847.9786556,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793920503.9152167
+    "Gold": 1793921847.9785337
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793920214.3914378,
+  "last_signals": 1793921847.9794059,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793917700.8044708,
+    "Bitcoin|4H:bot": 1793921848.9174585,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -162,15 +162,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793919599.6483164
   },
-  "last_analysis": 1793920203.028582,
-  "last_news": 1793920214.390604,
+  "last_analysis": 1793921835.0292919,
+  "last_news": 1793921845.0200584,
   "seen_news": [
-    "V\u00ec sao t\u1ed1i 4/11 nhi\u1ec1u m\u00e1y bay \u0111\u1ebfn T\u00e2n S\u01a1n Nh\u1ea5t ph\u1ea3i bay v\u00f2ng ch\u1edd h\u1ea1 c\u00e1nh?",
-    "C\u1eadp nh\u1eadt nhanh BSR \u2013 MUA - VietstockFinance",
-    "REPCOHOME: Q2 growth paired with stronger disbursements and lower GNPA - Trading",
-    "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
-    "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. C",
-    "Living with a stink? Technology might help",
     "CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - VietstockFinance",
     "Graham Corporation (NYSE:GHM) misses Q3 CY2026 sales expectations - TradingView",
     "Three things that explain what\u2019s changing with Obamacare in 2027",
@@ -464,6 +458,12 @@
     "Neocloud IREN says $4 billion in annualized revenue being delayed due to custome",
     "Asda hires ex-Morrisons boss in bid to grow firm",
     "Asia Hopes U.S. Midterm Results Will Ease Energy Crisis",
-    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep"
+    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
+    "Mattel cuts annual forecasts as challenges pile up for new CEO",
+    "Australia\u2019s trade surplus jumps to A$2.8 billion, a seven-month high, on LNG and",
+    "H\u00e0ng lo\u1ea1t m\u1eb7t b\u1eb1ng \u2018v\u00e0ng\u2019 \u1edf TP.HCM b\u1ecf tr\u1ed1ng tr\u01b0\u1edbc m\u00f9a cao \u0111i\u1ec3m mua s\u1eafm",
+    "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "SMR: First-article manufacturing began as liquidity reached ~$1.9 billion - Trad",
+    "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cind"
   ]
 }
