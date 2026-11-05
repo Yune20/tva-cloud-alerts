@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793869204.8201199,
+  "last_signals": 1793869809.4963472,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -74,7 +74,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
@@ -91,13 +91,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793870063,
   "menu_prices": {
@@ -139,7 +139,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793869207.4682176,
+    "GBP/USD|4H:top": 1793869811.7733588,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -151,25 +151,19 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793869207.4682324,
+    "GBP/USD|1D:top": 1793869811.7733774,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793869205.6519904,
+    "USOIL|4H:bot": 1793869810.1925724,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793869207.895825
+    "EUR/USD|1D:top": 1793869812.0926561
   },
-  "last_analysis": 1793869183.7868316,
-  "last_news": 1793869204.819259,
+  "last_analysis": 1793869799.474161,
+  "last_news": 1793869809.4954898,
   "seen_news": [
-    "Drivers may get compensation offers before car finance saga ends",
-    "New Jersey Moves to Block Trump's Russian Diesel Imports",
-    "Deutsche Bank sees lower policy risk supporting euro amid debt ceiling focus",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6783 \u2013 Reuters estimate",
-    "T\u1eeb \u0111\u00eam nay gi\u00f3 m\u00f9a \u0111\u00f4ng b\u1eafc tr\u00e0n v\u1ec1",
-    "DCM: CTCP - T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau - PVCFC - VietstockFinance",
     "Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal",
     "Sterling today: Pound gains as dollar slips on Democratic midterm sweep",
     "Economic and event calendar in Asia Thursday, November 5, 2026 - we hear from th",
@@ -463,6 +457,12 @@
     "Hai h\u00ecnh th\u1ee9c ti\u1ec1n l\u01b0\u01a1ng \u0111\u1ed1i v\u1edbi h\u1ee3p \u0111\u1ed3ng t\u1ea1i \u0111\u01a1n v\u1ecb s\u1ef1 nghi\u1ec7p",
     "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
     "Key facts: AppLovin Gains 20.6% Overnight; Buyback Plan Reaches $3.6B - TradingV",
-    "Figma\u2019s stock dips as investors worry that AI momentum is coming at a high price"
+    "Figma\u2019s stock dips as investors worry that AI momentum is coming at a high price",
+    "VCK: CTCP Ch\u1ee9ng kho\u00e1n VPS - VPS - VietstockFinance",
+    "Nightingale Health Plc (HEALTH) Gets First New York Test Approvals - TradingView",
+    "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+    "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+    "SOCAR Bets $1.65 Billion on U.S. Shale Gas Boom",
+    "RS Group reports first-half results ahead of expectations"
   ]
 }
