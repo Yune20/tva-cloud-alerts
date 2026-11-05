@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793841983.5904114,
-  "last_bot4": 1793843236.6047962,
+  "last_bot4": 1793843924.6058562,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793842618.7656357
+    "Gold": 1793843924.6057901
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793843552.8737864,
+  "last_signals": 1793843924.606429,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
-    "5575146754|Gold|1H|trap_up": 1793841983.5918086,
+    "5575146754|Gold|1H|trap_up": 1793843924.606429,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793834513.1100059,
@@ -94,7 +94,7 @@
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793843546.0899856,
-  "last_news": 1793843552.873174,
+  "last_analysis": 1793843913.692957,
+  "last_news": 1793843922.3400466,
   "seen_news": [
-    "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' t",
-    "Ryanair says it may freeze workers' pay and raise airfares",
-    "China's Rail Line Into Central Asia Is Set for 2031",
-    "India rupee\u2019s recovery may find fresh legs from equity flows, dollar weakness",
-    "Morning Kickstart: Dollar falls, stocks rise as Democrats take Congress",
-    "H\u00e0ng lo\u1ea1t nh\u00e0 b\u0103ng Vietcombank, MB, Techcombank, HDBank, MSB,... mu\u1ed1n th\u00e0nh l\u1eadp ",
     "'Quiet quitting' could be hitting the economy - here's why",
     "European Gas Prices Fall 2% as Traders Wait on Trump\u2019s Next Move in Iran",
     "European shares jump over 1% after Democrats sweep US Congress, Novo Nordisk sur",
@@ -462,6 +456,12 @@
     "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
     "My hometown shows that high streets have to change or die",
     "Fire Shuts Equinor\u2019s Visund Platform in Norwegian North Sea",
-    "Sterling today: Pound edges up as dollar eases, BoE hike in view"
+    "Sterling today: Pound edges up as dollar eases, BoE hike in view",
+    "AMC Entertainment (NYSE:AMC) reports upbeat Q3 2026 - TradingView",
+    "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
+    "Defense firms fall as Democratic victory stokes fears of tighter Pentagon budget",
+    "October US ISM services 54.5 vs 54.8 expected"
   ]
 }
