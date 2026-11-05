@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793913549.9676168,
+  "last_signals": 1793914169.5625656,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -90,13 +90,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793914428,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793912002.9684272,
+    "Bitcoin|4H:bot": 1793914170.4519372,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793912002.9684393,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793913552.0411346,
+    "GBP/USD|1D:top": 1793914171.3350632,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
-    "EUR/USD|1D:top": 1793913552.3040245,
-    "USOIL|1D:bot": 1793913550.615385
+    "EUR/USD|1D:top": 1793914171.6016893,
+    "USOIL|1D:bot": 1793914170.1374836
   },
-  "last_analysis": 1793913538.3301501,
-  "last_news": 1793913549.9668396,
+  "last_analysis": 1793914159.3097262,
+  "last_news": 1793914169.5616589,
   "seen_news": [
-    "Nasdaq futures rebound nearly 280 points. But buyers now face a crucial test",
-    "Bi\u1ec7t th\u1ef1 200m2 \u1edf TP.HCM ch\u1ed3ng doanh nh\u00e2n t\u1eb7ng n\u1eef MC SN 1985 t\u1eebng d\u1eabn \u0110\u01b0\u1eddng L\u00ean \u0110",
-    "HAH: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 55,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "ADGM Q3'26 Earnings: revenue estimate is 0 USD - TradingView",
-    "An Anthropic IPO when the AI trade is this turbulent? Godspeed!",
-    "Here's what the Democratic election rout could mean for the U.S. economy",
     "Nhi\u1ec1u qu\u1ed1c gia khuy\u1ebfn c\u00e1o ng\u01b0\u1eddi d\u00e2n chu\u1ea9n b\u1ecb \u201c\u0111\u1ed3 sinh t\u1ed3n\u201d: B\u1ed9 Ngo\u1ea1i giao Vi\u1ec7t N",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Cheffelo (Q3 Review): Don\u2019t Judge the Dish by the Plating - TradingView",
@@ -464,6 +458,12 @@
     "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day ",
     "Three ways the interest rate rise could affect you",
     "AI storm dooms tech stocks to $2 trillion decline on darkest day since 2025",
-    "What Could Stop the Fed Raising Rates in  December?"
+    "What Could Stop the Fed Raising Rates in  December?",
+    "Retail traders dump the most stocks in a single day since Covid sell-off",
+    "Interest rates hiked to 4% in first increase in over three years",
+    "Citi sees dollar weakening against yen after U.S. midterms",
+    "Bank of England raises the Bank Rate to 4.00% as expected in a 9-0 vote",
+    "Qu\u1ef9 ngo\u1ea1i quy m\u00f4 23.000 t\u1ef7 l\u1ed7 g\u1ea7n 15% t\u1eeb \u0111\u1ea7u n\u0103m, kh\u00f4ng ti\u1ebfc l\u1eddi khen m\u1ed9t c\u1ed5 phi",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
