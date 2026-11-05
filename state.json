@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793908565.7820573,
+  "last_signals": 1793909179.7967775,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -94,7 +94,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793908566.2611325,
+    "Bitcoin|4H:bot": 1793909180.3211265,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793908566.2611504,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793908566.7344558,
+    "GBP/USD|1D:top": 1793909180.8249116,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
-    "EUR/USD|1D:top": 1793908566.9049704,
-    "USOIL|1D:bot": 1793908566.0984263
+    "EUR/USD|1D:top": 1793909181.06409,
+    "USOIL|1D:bot": 1793909180.1245205
   },
-  "last_analysis": 1793908554.9472656,
-  "last_news": 1793908565.7811534,
+  "last_analysis": 1793909172.414728,
+  "last_news": 1793909179.795819,
   "seen_news": [
-    "India stocks higher at close of trade; Nifty 50 up 2.40%",
-    "Bank of England preview: first hike to 4% expected as energy pushes inflation to",
-    "XSMT 5/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 5 th\u00e1ng 11",
-    "GEG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 17,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Vinati Organics Q2 2027 Earnings Call Is Live - TradingView",
-    "Toyota stock rallies after company lowered sales guidance. Here\u2019s how rare that ",
     "How the midterms could fuel the K-shaped AI trade",
     "Australia's oldest department store David Jones folds after 188 years",
     "HSBC sees Democratic midterm strength weighing on dollar near-term",
@@ -464,6 +458,12 @@
     "IRS announces bigger estate and gift tax exemption for 2027",
     "Drivers may get compensation offers before car finance saga ends",
     "Dollar slides after Democratic sweep; Sterling pauses ahead of BoE",
-    "Ethereum rallies on bets midterm defeat will push Trump towards Iran war exit. W"
+    "Ethereum rallies on bets midterm defeat will push Trump towards Iran war exit. W",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Bloom Energy plunges again despite landing its biggest-ever international deal -",
+    "This pancreatic cancer treatment is on track for \u2018one of the best drug launches ",
+    "IRS announces new federal income tax brackets for 2027",
+    "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "France's Debt Crisis Could Trigger a Much Bigger European Meltdown"
   ]
 }
