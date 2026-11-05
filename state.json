@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793900549.1876771,
-  "last_bot4": 1793904540.3221505,
+  "last_bot4": 1793905165.5350873,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793904836.0819664,
+  "last_signals": 1793905165.5357382,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -83,20 +83,20 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793905423,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793904836.740949,
+    "Bitcoin|4H:bot": 1793905166.5506213,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -151,26 +151,20 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793904837.2671962,
+    "GBP/USD|1D:top": 1793905167.663296,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
-    "US30|4H:bot": 1793904837.0950437,
-    "EUR/USD|1D:top": 1793904837.4251628,
-    "USOIL|1D:bot": 1793904836.536903
+    "US30|4H:bot": 1793905167.2508938,
+    "EUR/USD|1D:top": 1793905168.039962,
+    "USOIL|1D:bot": 1793905166.151319
   },
-  "last_analysis": 1793904537.332699,
-  "last_news": 1793904836.0810938,
+  "last_analysis": 1793905156.2858047,
+  "last_news": 1793905165.5340915,
   "seen_news": [
-    "Quy ho\u1ea1ch TP.HCM t\u1ea7m nh\u00ecn 100 n\u0103m: C\u1ea7n h\u01a1n 8 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng cho \u0111\u1ea7u t\u01b0 5 n\u0103m",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Danish Aerospace Maintains Outlook For 2026 - TradingView",
-    "What Republicans' huge loss means for Trump",
-    "Drivers may get compensation offers before car finance saga ends",
-    "Fire Shuts Equinor\u2019s Visund Platform in Norwegian North Sea",
     "Inside India newsletter: India weighs a tax cut to win over foreign investors. W",
     "UK and EU agree draft deal to scrap Brexit red tape over food exports",
     "Sterling today: Pound gains as dollar slips on Democratic midterm sweep",
@@ -464,6 +458,12 @@
     "Nasdaq Composite breaks the July low in 5.5% rout",
     "Doanh nh\u00e2n U80 qu\u00ea H\u00e0 T\u0129nh \u0111i x\u00e2y nh\u00e0, l\u00e0m th\u1ee7y \u0111i\u1ec7n c\u00f3 kh\u1ed1i t\u00e0i s\u1ea3n g\u1ea7n 2.000 t",
     "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
-    "Ducommun Q3 2026 Earnings Call Is Live - TradingView"
+    "Ducommun Q3 2026 Earnings Call Is Live - TradingView",
+    "General Mills eyes separation of Haagen-Dazs brand outside North America, WSJ re",
+    "The market is telling the hyperscalers it's happy about a slower data center bui",
+    "Huy \u0111\u1ed9ng m\u00e1y khoan h\u1ea7m n\u1eb7ng 1.000 t\u1ea5n, d\u00e0i 120 m\u00e9t \u0111\u1ec3 x\u00e2y metro d\u00e0i b\u1eb1ng 1/2 tuy",
+    "Ch\u1ee9ng quy\u1ec1n VRE/MSVN/7M/0126 HOSE: CVRE2614 - VietstockFinance",
+    "Italy's Banco BPM posts solid quarter, strengthens 2026 payout guidance - Tradin",
+    "The year\u2019s most successful stock-market trades are unraveling \u2014 perhaps for good"
   ]
 }
