@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793853240.724774,
+  "last_signals": 1793853869.1908767,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -91,7 +91,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -147,7 +147,7 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793853241.8121607,
+    "EUR/USD|4H:top": 1793853870.4839573,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793853543.3288622,
-  "last_news": 1793853240.723829,
+  "last_analysis": 1793853861.3155181,
+  "last_news": 1793853869.1898093,
   "seen_news": [
-    "The market is telling the hyperscalers it's happy about a slower data center bui",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "What Leidos (LDOS) Said on Its Q3 Earnings Call - TradingView",
-    "Democrats\u2019 big election win revives a difficult Social Security question: Who pa",
-    "Caitlin Clark signs as first-ever brand partner with Dick's and Foot Locker",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
     "Prologis CEO says warehouse demands are shifting fast. Here's how he's keeping u",
     "Rainmakers: The drones used to seed clouds",
@@ -462,6 +456,12 @@
     "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
     "Mining giant joins fight to stop killer toad march across Australia",
     "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
-    "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escal"
+    "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escal",
+    "As Vistra and other energy stocks slide, some analysts warn of an \u2018excessive kne",
+    "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
+    "Why are more roofs not made of solar tiles?",
+    "Treasury yields edge up as Election Day meets JOLTS, refunding",
+    "Eurozone inflation hits 4% for first time since 2023, piling pressure on ECB",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n l\u1eafp camera ch\u00fa \u00fd m\u1ee9c ph\u1ea1t t\u1eeb 15 \u0111\u1ebfn 25 tri\u1ec7u \u0111\u1ed3ng \u0111\u00e3 \u0111\u01b0\u1ee3c \u00e1p d\u1ee5"
   ]
 }
