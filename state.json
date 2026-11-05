@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793911657.554971,
-  "last_bot4": 1793915808.2899523,
+  "last_bot4": 1793916482.8501713,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793915140.1355948
+    "Gold": 1793916482.8501058
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793915808.2908034,
+  "last_signals": 1793916482.8512194,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793915140.7675838,
+    "Bitcoin|4H:bot": 1793916483.33495,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793912002.9684393,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793915811.0117593,
+    "GBP/USD|1D:top": 1793916483.8119063,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
-    "EUR/USD|1D:top": 1793915811.4041753,
-    "USOIL|1D:bot": 1793915809.1606064
+    "EUR/USD|1D:top": 1793916483.9669485,
+    "USOIL|1D:bot": 1793916483.1708665
   },
-  "last_analysis": 1793916111.382182,
-  "last_news": 1793915808.288765,
+  "last_analysis": 1793916470.785147,
+  "last_news": 1793916479.930433,
   "seen_news": [
-    "Tripadvisor shares tumble 18% on earnings miss, CEO exit",
-    "China blocks SoftBank\u2019s $5.4 billion ABB robotics deal, FT says, in blow to Son\u2019",
-    "Nh\u1eefng chi\u1ebfc Herm\u00e8s Birkin c\u00f3 ch\u1eef k\u00fd ng\u00f4i sao: N\u01b0\u1edbc \u0111i \u0111\u1ed9c b\u1ea3n, hay d\u1ea5u hi\u1ec7u bi\u1ec3u",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "KEEL Q3'26 Earnings: EPS estimate is (0.09) USD - TradingView",
-    "Robot maker Agility starts trading today \u2014 but its steep losses are raising red ",
     "Visa sees US holiday retail sales growing 4.5%, fastest pace since 2021",
     "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
     "C\u1eadn c\u1ea3nh tuy\u1ebfn \u0111\u01b0\u1eddng d\u00e0i h\u01a1n 11 km \u0111\u01b0\u1ee3c \u0111\u1eb7t t\u00ean c\u1ed1 B\u00ed th\u01b0 Th\u00e0nh \u1ee7y \u0110\u00e0 N\u1eb5ng Nguy\u1ec5",
@@ -464,6 +458,12 @@
     "Sterling today: Pound flat as BoE hikes 25 bps, dollar steadies before payrolls",
     "Germany industrial orders rebound in September but manufacturing recovery remain",
     "Ngay H\u00e0 N\u1ed9i c\u00f3 ng\u1ecdn n\u00fai l\u1eeda g\u1ea7n 200 tri\u1ec7u n\u0103m tu\u1ed5i, nay tr\u1edf th\u00e0nh V\u01b0\u1eddn qu\u1ed1c gia ",
-    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance"
+    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
+    "\u2019Our phones are exploding\u2019: Goldman Sachs dissects historic Wall Street crash",
+    "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI sellof",
+    "V\u00ec sao n\u00ean \u0111\u1ec3 chu\u1ed1i ch\u00edn tr\u00e1nh xa t\u00e1o v\u00e0 m\u1ed9t s\u1ed1 lo\u1ea1i tr\u00e1i c\u00e2y kh\u00e1c?",
+    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Here is Why the Crypto Market Erased Over $120 Billion Today - TradingView",
+    "Tech stocks log worst day since 2020 as carnage comes to the AI trade"
   ]
 }
