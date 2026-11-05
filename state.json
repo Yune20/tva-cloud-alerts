@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793841983.5904114,
-  "last_bot4": 1793846438.7473698,
+  "last_bot4": 1793847081.1166275,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793846438.7481112,
+  "last_signals": 1793847081.1172483,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -82,7 +82,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793846740.7156773,
-  "last_news": 1793846435.844838,
+  "last_analysis": 1793847073.041849,
+  "last_news": 1793847081.1156335,
   "seen_news": [
-    "BP to sell 5% stake in Norway\u2019s Aker BP",
-    "investingLive European session wrap: Stocks rebound, gold soars as dollar tumble",
-    "Sang n\u0103m 2027, nh\u1eefng tr\u01b0\u1eddng h\u1ee3p sau s\u1ebd b\u1ecb thu h\u1ed3i S\u1ed5 \u0111\u1ecf",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "Trump's midterm drubbing demonstrates the power of data center opponents - Tradi",
-    "Blood banks targeted in latest European fridge cyberattacks",
     "Datadog earnings analysis: questions answered and next catalysts",
     "Trump says election loss was largely a result of the Iran war",
     "Si\u00eau s\u00e2n v\u1eadn \u0111\u1ed9ng 80.000 ch\u1ed7 ng\u1ed3i, l\u1edbn g\u1ea5p 2 l\u1ea7n s\u00e2n M\u1ef9 \u0110\u00ecnh: ng\u1ed1n 28.000 t\u1ea5n th",
@@ -462,6 +456,12 @@
     "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
     "Why is DBS stock falling today?",
     "House Democratic leader Jeffries says will pass bill to stop tariffs and to end ",
-    "Viral b\u00e0i \u0111\u0103ng v\u1ee3 ki\u1ebfm 15 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, ch\u1ed3ng th\u00e0 \u1edf nh\u00e0 c\u00f2n h\u01a1n nh\u1eadn vi\u1ec7c 25"
+    "Viral b\u00e0i \u0111\u0103ng v\u1ee3 ki\u1ebfm 15 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, ch\u1ed3ng th\u00e0 \u1edf nh\u00e0 c\u00f2n h\u01a1n nh\u1eadn vi\u1ec7c 25",
+    "Bitcoin's Great Consensus Cleanup soft fork targets legacy vulnerabilities - Tra",
+    "Democrats map out an agenda to address affordability and corruption after midter",
+    "Australia's oldest department store David Jones folds after 188 years",
+    "Hang Seng overbought at RSI 79 after V-Bottom surge: Live levels",
+    "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
+    "Chi ph\u00ed x\u00e2y nh\u00e0 m\u00e1i Nh\u1eadt 2 t\u1ea7ng 100m\u00b2 h\u1ebft bao nhi\u00eau?"
   ]
 }
