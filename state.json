@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793885718.9615374,
-  "last_bot4": 1793888342.3927386,
+  "last_bot4": 1793889314.3856597,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793888342.3926048
+    "Gold": 1793889314.3855412
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793888943.2978656,
+  "last_signals": 1793889314.3864746,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793888342.393511,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -84,19 +84,19 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793889574,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793888945.674264,
+    "GBP/USD|1D:top": 1793889315.8467786,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793888946.0015128,
-    "USOIL|1D:bot": 1793888944.119637
+    "EUR/USD|1D:top": 1793889316.0880978,
+    "USOIL|1D:bot": 1793889314.8721669
   },
-  "last_analysis": 1793888651.5212379,
-  "last_news": 1793888943.2969155,
+  "last_analysis": 1793889302.805595,
+  "last_news": 1793889311.5904953,
   "seen_news": [
-    "4 lo\u1ea1i c\u00e1 ngo\u00e0i ch\u1ee3 b\u00e1n r\u1ebb \u0111\u1ebfn m\u1ea5y c\u0169ng kh\u00f4ng n\u00ean mua",
-    "TIG: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 Th\u0103ng Long - THANG LONG INVESTGROUP.,JSC - VietstockFi",
-    "TD SYNNEX partners with SISA to expand cybersecurity offerings in India - Tradin",
-    "Prediction markets cement their status after forecasting Democratic sweep of Con",
-    "The AI telling farmers when to harvest",
-    "Lanxess narrows 2026 guidance to upper end of range",
     "Dollar slides as US election drives oil and Treasury yields lower; sterling gain",
     "SoftBank faces two hits as Arm slide meets US rotation out of AI, leaving Nikkei",
     "Xiaomi khoe robot h\u00ecnh ng\u01b0\u1eddi \u0111\u00e3 c\u00f3 th\u1ec3 l\u00e0m vi\u1ec7c nh\u01b0 c\u00f4ng nh\u00e2n, phi\u00ean b\u1ea3n gia \u0111\u00ecn",
@@ -464,6 +458,12 @@
     "Watch live: Brown Harris Stevens' Bess Freedman talks real estate, wealth and th",
     "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
     "Wednesday\u2019s top insider buys and sells: Intel CEO adds $9.7M stake",
-    "US initial jobless claims 189K vs 196K estimate"
+    "US initial jobless claims 189K vs 196K estimate",
+    "European shares advance toward record highs on earnings momentum, midterm relief",
+    "US Q3 productivity +3.6% vs +2.8% expected",
+    "Top 4 con gi\u00e1p c\u00f3 c\u01a1 h\u1ed9i \u0111\u1ed5i v\u1eadn trong 2 n\u0103m t\u1edbi: T\u00e0i l\u1ed9c kh\u1edfi s\u1eafc, nh\u00e0 c\u1eeda th\u00eam",
+    "T\u1ed5ng CTCP Khoan v\u00e0 D\u1ecbch v\u1ee5 Khoan D\u1ea7u kh\u00ed (PVD) KH\u1ea2 QUAN +16,7% - VietstockFinanc",
+    "US INITIAL CLAIMS FOR JOBLESS BENEFITS: 189,000, -6,000 - TradingView",
+    "Qualcomm\u2019s stock falls as twin forces pressure sales"
   ]
 }
