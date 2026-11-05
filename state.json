@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793862539.9258592,
+  "last_signals": 1793863153.9043806,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -83,19 +83,19 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -139,7 +139,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793754519.1532736,
+    "GBP/USD|4H:top": 1793863156.487964,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -159,17 +159,11 @@
     "USOIL|4H:bot": 1793859452.4168034,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793832684.6686547
+    "EUR/USD|1D:top": 1793863156.8713093
   },
-  "last_analysis": 1793862531.257203,
-  "last_news": 1793862539.9252212,
+  "last_analysis": 1793863145.0721452,
+  "last_news": 1793863153.903517,
   "seen_news": [
-    "Car finance compensation payments explained",
-    "Why is Snap stock sliding today?",
-    "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to ",
-    "Vi\u1ec7t Nam c\u00f3 d\u00f2ng th\u00e1c k\u1ef3 l\u1ea1 cao 30m, du kh\u00e1ch \u0111\u1ebfn t\u1eadn n\u01a1i v\u1eabn c\u00f3 th\u1ec3 kh\u00f4ng nh\u00ecn ",
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
-    "Oil tanks, stocks leap on US midterms - TradingView",
     "UBS raises AI capex forecast to $1.4 trillion, flags 2027 debt ceiling as key bo",
     "\"G\u1ee1 v\u01b0\u1edbng\u201d t\u1ea1i 12 d\u1ef1 \u00e1n c\u1ee7a T\u1eadp \u0111o\u00e0n M\u01b0\u1eddng Thanh: Th\u01b0\u1ee3ng t\u00f4n ph\u00e1p lu\u1eadt, b\u1ea3o v\u1ec7 q",
     "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
@@ -463,6 +457,12 @@
     "Tr\u00e1nh \u0111\u1ed9i v\u1ed1n H\u00e0 N\u1ed9i ch\u1ed1t gi\u00e1 5 tuy\u1ebfn metro, kh\u00f4ng qu\u00e1 120 tri\u1ec7u USD/km",
     "FPT: CTCP FPT - FPT Corp - VietstockFinance",
     "Corpay Q3 2026 Earnings Call Is Live - TradingView",
-    "These stocks soared the most today after the Democrats trounced Trump"
+    "These stocks soared the most today after the Democrats trounced Trump",
+    "\u0110\u01b0\u1eddng d\u00e2y d\u1ee5 ph\u1ee5 n\u1eef livestream khi\u00eau d\u00e2m, ti\u1ec1n lu\u00e2n chuy\u1ec3n h\u01a1n 4.000 t\u1ef7 \u0111\u1ed3ng",
+    "GEL: CTCP H\u1ea1 t\u1ea7ng GELEX - Gelex Infrastructure JSC - VietstockFinance",
+    "Sweden's Viscaria posts no Q3 revenue, narrows net loss - TradingView",
+    "Most investors are blind to the possibility of a market crash. Here is the five-",
+    "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+    "Why do sausage rolls and veterinary fees vary in price across London?"
   ]
 }
