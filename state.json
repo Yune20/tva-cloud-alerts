@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793874827.8406975,
-  "last_bot4": 1793883533.8316352,
+  "last_bot4": 1793884485.5857673,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793883533.8315353
+    "Gold": 1793884485.5856667
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793884069.112276,
+  "last_signals": 1793884485.5865314,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793883533.8328001,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,22 +68,22 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793884071.7078776,
+    "GBP/USD|1D:top": 1793884488.1589158,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793884072.1832898,
-    "USOIL|1D:bot": 1793884070.012792
+    "EUR/USD|1D:top": 1793884488.5753777,
+    "USOIL|1D:bot": 1793884486.3762197
   },
-  "last_analysis": 1793884058.2798324,
-  "last_news": 1793884069.1111848,
+  "last_analysis": 1793884472.8576622,
+  "last_news": 1793884481.2360106,
   "seen_news": [
-    "Rainmakers: The drones used to seed clouds",
-    "Toyota posts first profit rise in six quarters, lifts annual outlook",
-    "investingLive Asia-Pacific market news: Gold rocketed higher still",
-    "Kh\u00e1ch T\u00e2y \u0111\u1ebfn 1 b\u1ec7nh vi\u1ec7n \u1edf \u0110\u00e0 N\u1eb5ng m\u1ed5 u t\u1ee7y s\u1ed1ng, sau 2 ng\u00e0y \u0111\u00e3 \u0111i l\u1ea1i \u0111\u01b0\u1ee3c: Ki",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
-    "Addus HomeCare Q3 Earnings Call Highlights - TradingView",
     "investingLive Americas market news wrap: Oil crushed as Republicans blame war fo",
     "\"N\u00e0ng th\u01a1\" tr\u1ea3 l\u1ea1i g\u1ea7n 4 tri\u1ec7u \u0111\u1ed3ng ti\u1ec1n m\u1eebng c\u01b0\u1edbi sau h\u00f4n l\u1ec5 v\u1edbi ch\u1ee7 t\u1ecbch showb",
     "CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - VietstockFinance",
@@ -464,6 +458,12 @@
     "C\u1eadn c\u1ea3nh tuy\u1ebfn \u0111\u01b0\u1eddng d\u00e0i h\u01a1n 11 km \u0111\u01b0\u1ee3c \u0111\u1eb7t t\u00ean c\u1ed1 B\u00ed th\u01b0 Th\u00e0nh \u1ee7y \u0110\u00e0 N\u1eb5ng Nguy\u1ec5",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "1-800-Flowers Q1 revenue misses estimates - TradingView",
-    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he "
+    "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he ",
+    "Berkshire adds $27 million of Sirius XM as investors rotate from AI toward value",
+    "X\u00e1c minh chi\u1ebfc t\u00fai ch\u1ee9a 130 tri\u1ec7u \u0111\u1ed3ng t\u1ea1i khu v\u1ef1c soi chi\u1ebfu s\u00e2n bay T\u00e2n S\u01a1n Nh\u1ea5",
+    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
+    "HCWB Q3'26 Earnings: EPS estimate is (1.35) USD - TradingView",
+    "I constantly attend free meals hosted by people promoting annuities. Am I flirti",
+    "Democrats take Congress in a blue wave. Here's what it means for your money"
   ]
 }
