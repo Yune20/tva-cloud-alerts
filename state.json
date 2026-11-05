@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793885442.0910046,
+  "last_signals": 1793886094.5586636,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793883533.8328001,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -83,7 +83,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793885445.1959176,
+    "GBP/USD|1D:top": 1793886097.0749447,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793885445.6382043,
-    "USOIL|1D:bot": 1793885443.0099258
+    "EUR/USD|1D:top": 1793886097.4651663,
+    "USOIL|1D:bot": 1793886095.322865
   },
-  "last_analysis": 1793885431.3570893,
-  "last_news": 1793885442.0899334,
+  "last_analysis": 1793886084.770594,
+  "last_news": 1793886094.5580523,
   "seen_news": [
-    "Figma Q3 2026 Earnings Call Is Live - TradingView",
-    "What was really behind Wednesday's monster rally? Trump quickly making peace",
-    "Pound rises to its highest level since the Brexit referendum",
-    "Dollar edges lower as US election outcome spurs risk sentiment; sterling gains",
-    "Italy October services PMI 52.0 vs 51.5 expected",
-    "Top 10 m\u1ef9 nh\u00e2n \u0111\u1eb9p nh\u1ea5t Trung Qu\u1ed1c n\u0103m 2026: Tri\u1ec7u L\u1ed9 T\u01b0 khi\u1ebfn 2 tri\u1ec7u ng\u01b0\u1eddi m\u00ea ",
     "Key facts: ETHUSD ETF Outflows Extend; Bitmine Stakes 5.23M ETH - TradingView",
     "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
     "Business Daily",
@@ -464,6 +458,12 @@
     "investingLive Asia-Pacific market news: Gold rocketed higher still",
     "C\u00e1c nh\u00e0 khoa h\u1ecdc l\u00fd gi\u1ea3i hi\u1ec7n t\u01b0\u1ee3ng c\u00e1 m\u1eadp hai \u0111\u1ea7u b\u00ed \u1ea9n xu\u1ea5t hi\u1ec7n trong \u0111\u1ea1i d\u01b0\u01a1",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "NREF Announces Third Quarter 2026 Results, Provides Fourth Quarter 2026 Guidance"
+    "NREF Announces Third Quarter 2026 Results, Provides Fourth Quarter 2026 Guidance",
+    "Asda hires ex-Morrisons boss in bid to grow firm",
+    "Iran War and AI Boom Drive Global Gas Supply Crunch",
+    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
+    "investingLive Americas market news wrap: Oil crushed as Republicans blame war fo",
+    "2 ch\u00e0ng trai t\u00ean Ho\u00e0ng \u1edf Chung k\u1ebft Olympia 2017, c\u00f9ng h\u1ecdc B\u00e1ch khoa r\u1ed3i g\u1eb7p l\u1ea1i ",
+    "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
