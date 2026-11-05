@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793892511.241463,
+  "last_signals": 1793893126.3966475,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -84,7 +84,7 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
@@ -94,7 +94,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793892513.2805095,
+    "GBP/USD|1D:top": 1793893127.548824,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793892513.6495478,
-    "USOIL|1D:bot": 1793892511.8820975
+    "EUR/USD|1D:top": 1793893127.7454715,
+    "USOIL|1D:bot": 1793893126.7991893
   },
-  "last_analysis": 1793892502.5778296,
-  "last_news": 1793892511.2398481,
+  "last_analysis": 1793893114.894555,
+  "last_news": 1793893126.3958027,
   "seen_news": [
-    "UBS raises AI capex forecast to $1.4 trillion, flags 2027 debt ceiling as key bo",
-    "B\u1eb1ng Ki\u1ec1u h\u00e1t \u201cn\u01a1i t\u00ecnh y\u00eau b\u1eaft \u0111\u1ea7u\u201d t\u1eb7ng \u00f4ng Tr\u1ecbnh V\u0103n Quy\u1ebft, tr\u01b0\u1edbc \u0111\u00f3 t\u1eebng ch\u1ed1",
-    "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC - VietstockFinance",
-    "DJI: Dow Jones Jumps 3% in Stunning Post-Election Turnaround, AI Stocks Miss Out",
-    "\u2018My life could be cut short\u2019: I\u2019m 55, married with $4.3 million and have a brain",
-    "What Wall Street billionaires are saying about Democrats' midterm sweep",
     "Interest rates expected to rise for first time in over three years",
     "Butane\u2019s Perfect Storm Sends Prices to Decade Highs",
     "Why gamble on Blue Lagoon\u2019s IPO when a travel leader trades near a 52-week low?",
@@ -464,6 +458,12 @@
     "CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan (MCH) - VietstockFinance",
     "Palo Alto Networks Eyes $500 Million AI Security Deal - TradingView",
     "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,00",
-    "Jim Cramer's top 10 things to watch in the stock market Thursday"
+    "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Kce Electronics QTRLY Profit Attributable 484.6 Million Baht - TradingView",
+    "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
+    "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+    "Food, fuel and taxes \u2013 can the Democrats actually make life cheaper?",
+    "EU Not Planning to Resume Russian Gas Purchases"
   ]
 }
