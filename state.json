@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793885718.9615374,
-  "last_bot4": 1793887015.8627808,
+  "last_bot4": 1793887709.9991157,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793887338.960567,
+  "last_signals": 1793887710.0366411,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793883533.8328001,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -90,13 +90,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793887958,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793887341.8617554,
+    "GBP/USD|1D:top": 1793887712.9025638,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793887342.213049,
-    "USOIL|1D:bot": 1793887339.8286402
+    "EUR/USD|1D:top": 1793887713.270357,
+    "USOIL|1D:bot": 1793887711.0229785
   },
-  "last_analysis": 1793887330.851926,
-  "last_news": 1793887338.9597425,
+  "last_analysis": 1793887701.633549,
+  "last_news": 1793887709.9982388,
   "seen_news": [
-    "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
-    "Oil prices plunge after US midterms as WTI crude faces a critical technical test",
-    "M\u1ef9 nh\u00e2n VTV ki\u1ebfm 7 t\u1ef7 1 n\u0103m, n\u00f3i \u0111\u01b0\u1ee3c 4 th\u1ee9 ti\u1ebfng, c\u1ea3 \u0111\u1eddi ch\u01b0a t\u1eebng bi\u1ebft m\u00f9i flo",
-    "HDB: Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HDBank - VietstockFinance",
-    "Indonesia stock market to publish more details on company shareholding - Trading",
-    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
     "\u00d4ng L\u00ea Thanh Th\u1ea3n s\u1eafp h\u1ea7u t\u00f2a v\u1ee5 h\u01a1n 500 c\u0103n h\u1ed9 CT6 Ki\u1ebfn H\u01b0ng kh\u00f4ng c\u00f3 s\u1ed5 \u0111\u1ecf",
     "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
     "MORLD: Record backlog and Ocean Installer strength lift FY26 EBITDA guidance - T",
@@ -464,6 +458,12 @@
     "REPCOHOME: Q2 growth paired with stronger disbursements and lower GNPA - Trading",
     "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 m",
     "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. C",
-    "Living with a stink? Technology might help"
+    "Living with a stink? Technology might help",
+    "CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - VietstockFinance",
+    "Graham Corporation (NYSE:GHM) misses Q3 CY2026 sales expectations - TradingView",
+    "Three things that explain what\u2019s changing with Obamacare in 2027",
+    "Banks are turning cautious on lending, according to the Fed. What it means for t",
+    "Democrats won on affordability - how much can they actually deliver?",
+    "Can Cheap Batteries Deliver COP31\u2019s 35% Electrification Goal?"
   ]
 }
