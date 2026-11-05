@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793876716.0856261,
+  "last_signals": 1793877326.0182648,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -86,7 +86,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793876717.1318932,
+    "GBP/USD|1D:top": 1793877327.0159743,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793876717.2814863,
-    "USOIL|1D:bot": 1793876716.4666595
+    "EUR/USD|1D:top": 1793877327.200664,
+    "USOIL|1D:bot": 1793877326.3212316
   },
-  "last_analysis": 1793876706.0161984,
-  "last_news": 1793876716.0848734,
+  "last_analysis": 1793877315.489368,
+  "last_news": 1793877326.0174239,
   "seen_news": [
-    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
-    "US 10-Year Yield Hits Near Two-Month Low - TradingView",
-    "LIV Golf faces liquidation after BC Partners scraps rescue plan",
-    "'An annoying buzz': The search for stealthier drones",
-    "Up 37% since March - this AI-picked IT services stock keeps climbing",
-    "Trump says election loss was largely a result of the Iran war",
     "Polar Vortex Puts Europe's Gas Reserves at Risk",
     "Why is Samsung Electronics stock plunging today?",
     "The biggest loser of the US elections was data centers",
@@ -464,6 +458,12 @@
     "HSBC sees Democratic midterm strength weighing on dollar near-term",
     "Solana rallies as Republicans' midterm loss raises hopes of US-Iran war ending",
     "DOJI t\u0103ng c\u01b0\u1eddng trao \u0111\u1ed5i chuy\u00ean m\u00f4n v\u1edbi GIA, n\u00e2ng cao tr\u1ea3i nghi\u1ec7m mua s\u1eafm trang ",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst"
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "Europe's STOXX 600 hovers near all-time high; tech lags - TradingView",
+    "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on s",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Iran Reports More Tanker Fires in Strait of Hormuz",
+    "Stellantis extends by one more week production stoppage for Fiat 500",
+    "Oil prices tumble as Republicans' midterm loss sparks bets on Iran war exit; Tru"
   ]
 }
