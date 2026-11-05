@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793889314.3864746,
+  "last_signals": 1793889929.9240947,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793888342.393511,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -84,20 +84,20 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793890182,
   "menu_prices": {
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793889315.8467786,
+    "GBP/USD|1D:top": 1793889932.7175758,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793889316.0880978,
-    "USOIL|1D:bot": 1793889314.8721669
+    "EUR/USD|1D:top": 1793889933.1135077,
+    "USOIL|1D:bot": 1793889930.8593905
   },
-  "last_analysis": 1793889302.805595,
-  "last_news": 1793889311.5904953,
+  "last_analysis": 1793889920.329207,
+  "last_news": 1793889929.923225,
   "seen_news": [
-    "Dollar slides as US election drives oil and Treasury yields lower; sterling gain",
-    "SoftBank faces two hits as Arm slide meets US rotation out of AI, leaving Nikkei",
-    "Xiaomi khoe robot h\u00ecnh ng\u01b0\u1eddi \u0111\u00e3 c\u00f3 th\u1ec3 l\u00e0m vi\u1ec7c nh\u01b0 c\u00f4ng nh\u00e2n, phi\u00ean b\u1ea3n gia \u0111\u00ecn",
-    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
-    "Key facts: Fresenius raises EPS guidance; top-three biosimilar goal - TradingVie",
-    "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
     "IMCD third quarter earnings rise 18% to \u20ac140.2 million",
     "FX option expiries for 5 November 10am New York cut",
     "Tr\u00e1nh \u0111\u1ed9i v\u1ed1n H\u00e0 N\u1ed9i ch\u1ed1t gi\u00e1 5 tuy\u1ebfn metro, kh\u00f4ng qu\u00e1 120 tri\u1ec7u USD/km",
@@ -464,6 +458,12 @@
     "Top 4 con gi\u00e1p c\u00f3 c\u01a1 h\u1ed9i \u0111\u1ed5i v\u1eadn trong 2 n\u0103m t\u1edbi: T\u00e0i l\u1ed9c kh\u1edfi s\u1eafc, nh\u00e0 c\u1eeda th\u00eam",
     "T\u1ed5ng CTCP Khoan v\u00e0 D\u1ecbch v\u1ee5 Khoan D\u1ea7u kh\u00ed (PVD) KH\u1ea2 QUAN +16,7% - VietstockFinanc",
     "US INITIAL CLAIMS FOR JOBLESS BENEFITS: 189,000, -6,000 - TradingView",
-    "Qualcomm\u2019s stock falls as twin forces pressure sales"
+    "Qualcomm\u2019s stock falls as twin forces pressure sales",
+    "How video game remakes tap the power of nostalgia",
+    "IEEFA: $67.8 Billion in Asian LNG Power Projects Scrapped or Stalled",
+    "This FX trade is the best hedge for the AI drawdown: Goldman",
+    "Morning Kickstart: BOE hikes to 4% as sterling struggles to hold its gains",
+    "V\u1ec7t s\u00e1ng l\u1ea1 xu\u1ea5t hi\u1ec7n tr\u00ean b\u1ea7u tr\u1eddi nhi\u1ec1u qu\u1ed1c gia \u0110\u00f4ng Nam \u00c1, NASA l\u00ean ti\u1ebfng x\u00e1",
+    "CTCP \u0110\u00f4ng H\u1ea3i B\u1ebfn Tre (DHC) - VietstockFinance"
   ]
 }
