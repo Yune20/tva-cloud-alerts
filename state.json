@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793836970.1347144,
+  "last_signals": 1793837589.806411,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,13 +88,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -125,7 +125,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1793835745.0047975,
+    "Gold|4H:top": 1793837590.2906685,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793836957.588105,
-  "last_news": 1793836970.1338806,
+  "last_analysis": 1793837577.2455835,
+  "last_news": 1793837589.8055294,
   "seen_news": [
-    "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. doll",
-    "Macro pulse: What if good news for stocks turns into bad news for the bond marke",
-    "To\u00e0n c\u1ea3nh d\u1ef1 \u00e1n c\u1ea7u M\u1ec5 S\u1edf sau h\u01a1n m\u1ed9t n\u0103m thi c\u00f4ng",
-    "VCK: CTCP Ch\u1ee9ng kho\u00e1n VPS - VPS - VietstockFinance",
-    "Est\u00e9e Lauder (NYSE:EL) surprises with Q3 CY2026 sales - TradingView",
-    "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
     "C\u01a1 quan n\u00e0o tr\u00ean c\u01a1 th\u1ec3 con ng\u01b0\u1eddi l\u00e0 n\u01a1i DUY NH\u1ea4T kh\u00f4ng c\u00f3 m\u00e1u ch\u1ea3y qua?",
     "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Gold gains 3% as dollar slides after Democratic midterm gains - TradingView",
@@ -462,6 +456,12 @@
     "Butane\u2019s Perfect Storm Sends Prices to Decade Highs",
     "NextDC shares surge 43% as Goodman, Digital Realty buy stake",
     "Qualcomm beats Q4 forecasts, shares slip 2% as profit guidance comes in light",
-    "Th\u00e0nh ph\u1ed1 \u0111\u00e1ng s\u1ed1ng b\u1eadc nh\u1ea5t Vi\u1ec7t Nam s\u1eafp kh\u1edfi c\u00f4ng 3 khu \u0111\u00f4 th\u1ecb h\u01a1n 40.000 t\u1ef7 \u0111"
+    "Th\u00e0nh ph\u1ed1 \u0111\u00e1ng s\u1ed1ng b\u1eadc nh\u1ea5t Vi\u1ec7t Nam s\u1eafp kh\u1edfi c\u00f4ng 3 khu \u0111\u00f4 th\u1ecb h\u01a1n 40.000 t\u1ef7 \u0111",
+    "Expedia\u2019s downbeat revenue forecast dims strong quarter on steady travel demand",
+    "BoJ minutes: board backed further hikes, flagged 50% oil surge as government urg",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 42 tu\u1ed5i nh\u1ed3i m\u00e1u c\u01a1 tim khi \u0111ang \u0111\u01b0a con \u0111i d\u1ea1o",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 100,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Lundin Gold Inc. (LUG) Declares US$1.14 Per-Share Dividend - TradingView",
+    "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14"
   ]
 }
