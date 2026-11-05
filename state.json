@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793921847.9794059,
+  "last_signals": 1793922410.9376438,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793890541.9271684,
+    "5575146754|Gold|1H|range_in": 1793922410.9376438,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793921848.9174585,
+    "Bitcoin|4H:bot": 1793922411.4279265,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -162,15 +162,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793919599.6483164
   },
-  "last_analysis": 1793921835.0292919,
-  "last_news": 1793921845.0200584,
+  "last_analysis": 1793922403.360463,
+  "last_news": 1793922410.9368048,
   "seen_news": [
-    "CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - VietstockFinance",
-    "Graham Corporation (NYSE:GHM) misses Q3 CY2026 sales expectations - TradingView",
-    "Three things that explain what\u2019s changing with Obamacare in 2027",
-    "Banks are turning cautious on lending, according to the Fed. What it means for t",
-    "Democrats won on affordability - how much can they actually deliver?",
-    "Can Cheap Batteries Deliver COP31\u2019s 35% Electrification Goal?",
     "Nasdaq 100 futures slide 1% amid post-midterms rotation out of chip stocks",
     "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
     "Th\u00f4ng tin quan tr\u1ecdng t\u1eeb S\u1edf GD&\u0110T H\u00e0 N\u1ed9i sau v\u1ee5 ch\u00e1y tr\u01b0\u1eddng Kim Li\u00ean",
@@ -464,6 +458,12 @@
     "H\u00e0ng lo\u1ea1t m\u1eb7t b\u1eb1ng \u2018v\u00e0ng\u2019 \u1edf TP.HCM b\u1ecf tr\u1ed1ng tr\u01b0\u1edbc m\u00f9a cao \u0111i\u1ec3m mua s\u1eafm",
     "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "SMR: First-article manufacturing began as liquidity reached ~$1.9 billion - Trad",
-    "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cind"
+    "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cind",
+    "Ph\u00e1t hi\u1ec7n Vi\u1ec7t Nam c\u00f3 m\u1ed9t 'c\u00e1nh c\u1eeda' xu\u1ea5t kh\u1ea9u m\u1edbi tr\u1ecb gi\u00e1 h\u00e0ng t\u1ef7 USD - t\u1ef7 ph\u00fa ",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Visa President, Technology Sold Shares Worth Over $14M - TradingView",
+    "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after",
+    "Pound rises to its highest level since the Brexit referendum",
+    "European Gas Prices Drop on Iran Deal Hopes after U.S. Midterms"
   ]
 }
