@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793893737.5445755,
+  "last_signals": 1793894348.123315,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -79,7 +79,7 @@
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": true,
+    "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
@@ -88,14 +88,14 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "EUR/USD|1D": true,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793893739.001797,
+    "GBP/USD|1D:top": 1793894349.272462,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793893739.1871622,
-    "USOIL|1D:bot": 1793893737.9943204
+    "EUR/USD|1D:top": 1793894349.4830878,
+    "USOIL|1D:bot": 1793894348.4756384
   },
-  "last_analysis": 1793893728.951723,
-  "last_news": 1793893737.5436754,
+  "last_analysis": 1793894339.5915885,
+  "last_news": 1793894348.1223605,
   "seen_news": [
-    "European shares advance to August highs on AI Momentum and midterm relief",
-    "Germany industrial orders rebound in September but manufacturing recovery remain",
-    "N\u1eef NS\u01afT SN 1977 mua nh\u00e0 ch\u1ee5c t\u1ef7 TP.HCM: \"Ng\u01b0\u1eddi ta \u0111\u1ed3n t\u00f4i tr\u1ed1n n\u1ee3\"",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 29,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Far EasTone Telecommunications Q3 2026 Earnings Call Is Live - TradingView",
-    "Dow scores its best day in 18 months in a broad relief rally after Democrats swe",
     "BoJ minutes: board backed further hikes, flagged 50% oil surge as government urg",
     "B\u00e9 g\u00e1i 10 tu\u1ed5i cao 1,82m th\u01b0\u1eddng b\u1ecb nh\u1ea7m l\u00e0 gi\u00e1o vi\u00ean: M\u1ed7i th\u00e1ng t\u0103ng 1cm, gia \u0111\u00ec",
     "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -464,6 +458,12 @@
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "EU Survey Reveals Massive Support for Renewable Energy Transition",
     "Why is Micron Technology stock plunging today?",
-    "Marco Rubio \u2018on resignation watch\u2019 - report"
+    "Marco Rubio \u2018on resignation watch\u2019 - report",
+    "Rainmakers: The drones used to seed clouds",
+    "Butane\u2019s Perfect Storm Sends Prices to Decade Highs",
+    "Norway stocks lower at close of trade; Oslo OBX down 1.27%",
+    "Gold price recovery gathers pace after US midterms but $4,200 remains a major hu",
+    "\u0110i\u1ec7n \u1ea3nh Vi\u1ec7t thi\u1ebfu k\u1ecbch b\u1ea3n \u0111\u1ee7 hay cho c\u00e1c ng\u1ecdc n\u1eef!",
+    "C\u1eadp nh\u1eadt HAH \u2013 KH\u1ea2 QUAN - VietstockFinance"
   ]
 }
