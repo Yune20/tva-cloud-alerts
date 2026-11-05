@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793885718.9615374,
-  "last_bot4": 1793887709.9991157,
+  "last_bot4": 1793888342.3927386,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793887015.8627067
+    "Gold": 1793888342.3926048
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793887710.0366411,
+  "last_signals": 1793888342.393511,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793883533.8328001,
+    "5575146754|Gold|1H|range_in": 1793888342.393511,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
     "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -68,10 +68,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793887712.9025638,
+    "GBP/USD|1D:top": 1793888343.6510131,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793887713.270357,
-    "USOIL|1D:bot": 1793887711.0229785
+    "EUR/USD|1D:top": 1793888343.8635674,
+    "USOIL|1D:bot": 1793888342.8334255
   },
-  "last_analysis": 1793888015.2693925,
-  "last_news": 1793887709.9982388,
+  "last_analysis": 1793888330.4133332,
+  "last_news": 1793888339.1225374,
   "seen_news": [
-    "\u00d4ng L\u00ea Thanh Th\u1ea3n s\u1eafp h\u1ea7u t\u00f2a v\u1ee5 h\u01a1n 500 c\u0103n h\u1ed9 CT6 Ki\u1ebfn H\u01b0ng kh\u00f4ng c\u00f3 s\u1ed5 \u0111\u1ecf",
-    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
-    "MORLD: Record backlog and Ocean Installer strength lift FY26 EBITDA guidance - T",
-    "How do Americans feel about the midterm results? It depends on how much money th",
-    "Every stock that moved because of the election",
-    "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
     "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
     "Moreld ASA (MORLD) Authorizes Up to NOK 100.0M Buyback - TradingView",
     "Qualcomm\u2019s stock falls as twin forces pressure sales",
@@ -464,6 +458,12 @@
     "Three things that explain what\u2019s changing with Obamacare in 2027",
     "Banks are turning cautious on lending, according to the Fed. What it means for t",
     "Democrats won on affordability - how much can they actually deliver?",
-    "Can Cheap Batteries Deliver COP31\u2019s 35% Electrification Goal?"
+    "Can Cheap Batteries Deliver COP31\u2019s 35% Electrification Goal?",
+    "Nasdaq 100 futures slide 1% amid post-midterms rotation out of chip stocks",
+    "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
+    "Th\u00f4ng tin quan tr\u1ecdng t\u1eeb S\u1edf GD&\u0110T H\u00e0 N\u1ed9i sau v\u1ee5 ch\u00e1y tr\u01b0\u1eddng Kim Li\u00ean",
+    "B\u00c1O C\u00c1O DOANH NGHI\u1ec6P CTCP X\u00e2y d\u1ef1ng Coteccons - CTD (HOSE) - VietstockFinance",
+    "BRIEF-Arko Q3 Dividend USD 0.03 - TradingView",
+    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o"
   ]
 }
