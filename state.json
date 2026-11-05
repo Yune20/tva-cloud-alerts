@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793893126.3966475,
+  "last_signals": 1793893737.5445755,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -84,11 +84,11 @@
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793893127.548824,
+    "GBP/USD|1D:top": 1793893739.001797,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793893127.7454715,
-    "USOIL|1D:bot": 1793893126.7991893
+    "EUR/USD|1D:top": 1793893739.1871622,
+    "USOIL|1D:bot": 1793893737.9943204
   },
-  "last_analysis": 1793893114.894555,
-  "last_news": 1793893126.3958027,
+  "last_analysis": 1793893728.951723,
+  "last_news": 1793893737.5436754,
   "seen_news": [
-    "Interest rates expected to rise for first time in over three years",
-    "Butane\u2019s Perfect Storm Sends Prices to Decade Highs",
-    "Why gamble on Blue Lagoon\u2019s IPO when a travel leader trades near a 52-week low?",
-    "Gold price recovery gathers pace after US midterms but $4,200 remains a major hu",
-    "\u1ee6y ban C\u1ea1nh tranh Qu\u1ed1c gia c\u00f4ng b\u1ed1 k\u1ebft qu\u1ea3 r\u00e0 so\u00e1t ch\u00ednh s\u00e1ch gi\u00e1, ph\u00ed c\u1ee7a Grab:",
-    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - T\u1ea3i t\u00e0i li\u1ec7u - Vietsto",
     "European shares advance to August highs on AI Momentum and midterm relief",
     "Germany industrial orders rebound in September but manufacturing recovery remain",
     "N\u1eef NS\u01afT SN 1977 mua nh\u00e0 ch\u1ee5c t\u1ef7 TP.HCM: \"Ng\u01b0\u1eddi ta \u0111\u1ed3n t\u00f4i tr\u1ed1n n\u1ee3\"",
@@ -464,6 +458,12 @@
     "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
     "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
     "Food, fuel and taxes \u2013 can the Democrats actually make life cheaper?",
-    "EU Not Planning to Resume Russian Gas Purchases"
+    "EU Not Planning to Resume Russian Gas Purchases",
+    "A record 10% of first-time home buyers now pay in cash. Here\u2019s where they get th",
+    "What Wall Street billionaires are saying about Democrats' midterm sweep",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "EU Survey Reveals Massive Support for Renewable Energy Transition",
+    "Why is Micron Technology stock plunging today?",
+    "Marco Rubio \u2018on resignation watch\u2019 - report"
   ]
 }
