@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793900549.1876771,
+  "last_news_report": 1793911657.554971,
   "last_bot4": 1793911323.5520887,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793911030.3176277,
+  "last_signals": 1793911657.5560215,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -94,7 +94,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793911030.918493,
+    "Bitcoin|4H:bot": 1793911658.6421006,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793908566.2611504,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793911031.4308808,
+    "GBP/USD|1D:top": 1793911659.7779522,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
-    "EUR/USD|1D:top": 1793911031.6697156,
-    "USOIL|1D:bot": 1793911030.753025
+    "EUR/USD|1D:top": 1793911660.0901148,
+    "USOIL|1D:bot": 1793911658.2534423
   },
-  "last_analysis": 1793911022.0268254,
-  "last_news": 1793911030.316572,
+  "last_analysis": 1793911642.2831922,
+  "last_news": 1793911651.6562748,
   "seen_news": [
-    "Goldman Sachs sees USD/CNH entry opportunity on policy move",
-    "Gold jumps as oil slumps on Iran diplomacy hopes, an early test of Citi\u2019s thesis",
-    "USD lao d\u1ed1c xu\u1ed1ng th\u1ea5p nh\u1ea5t g\u1ea7n 1,5 th\u00e1ng sau b\u1ea7u c\u1eed t\u1ea1i M\u1ef9",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "SiTime 3Q 2026: Revenue $298.67M, EPS $0.14 \u2014 10-Q Summary - TradingView",
-    "Research firm declares \u2018end of the AI trade as we know it\u2019 \u2014 and Asian tech stoc",
     "C\u00f4ng an s\u1ebd ki\u1ec3m tra m\u00e1y t\u00ednh, \u0111i\u1ec7n tho\u1ea1i trong tr\u01b0\u1eddng h\u1ee3p sau",
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Zelluna Q3 2026 Earnings Call Is Live - TradingView",
@@ -464,6 +458,12 @@
     "Ph\u00f3 Th\u1ee7 t\u01b0\u1edbng: Kh\u00f4ng quy \u0111\u1ecbnh b\u1eaft bu\u1ed9c ng\u01b0\u1eddi d\u00e2n, doanh nghi\u1ec7p ph\u1ea3i chuy\u1ec3n sang ",
     "GEG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 17,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Avista Q3 Earnings Call Highlights - TradingView",
-    "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $450 billion two-day "
+    "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $450 billion two-day ",
+    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang qu\u1ed1c gia s\u1edf h\u1eefu m\u1ecf v\u00e0ng h\u00e0ng \u0111\u1ea7u th\u1ebf gi\u1edbi, ph\u1ea3i \u0111i q",
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "Leerink Partners maintains Progyny at Outperform, raises price target to $38 fro",
+    "My 93-year-old father changed his will at the 11th hour, leaving my brother his ",
+    "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since",
+    "'Quiet quitting' could be hitting the economy - here's why"
   ]
 }
