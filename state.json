@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793912936.5739331,
+  "last_signals": 1793913549.9676168,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -89,13 +89,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793912002.9684393,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793912938.0350626,
+    "GBP/USD|1D:top": 1793913552.0411346,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
-    "EUR/USD|1D:top": 1793912938.2849927,
-    "USOIL|1D:bot": 1793912937.2107258
+    "EUR/USD|1D:top": 1793913552.3040245,
+    "USOIL|1D:bot": 1793913550.615385
   },
-  "last_analysis": 1793912927.0015826,
-  "last_news": 1793912934.0576987,
+  "last_analysis": 1793913538.3301501,
+  "last_news": 1793913549.9668396,
   "seen_news": [
-    "Interest rates hiked to 4% in first increase in over three years",
-    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
-    "Citi sees dollar weakening against yen after U.S. midterms",
-    "Bank of England raises the Bank Rate to 4.00% as expected in a 9-0 vote",
-    "4 th\u01b0\u01a1ng hi\u1ec7u chi\u1ebfn th\u1eafng trong h\u1ea1ng m\u1ee5c Gi\u1ea3i ph\u00e1p \u0111\u1ed5i m\u1edbi s\u00e1ng t\u1ea1o ph\u1ee5c v\u1ee5 ng\u01b0\u1edd",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Nasdaq futures rebound nearly 280 points. But buyers now face a crucial test",
     "Bi\u1ec7t th\u1ef1 200m2 \u1edf TP.HCM ch\u1ed3ng doanh nh\u00e2n t\u1eb7ng n\u1eef MC SN 1985 t\u1eebng d\u1eabn \u0110\u01b0\u1eddng L\u00ean \u0110",
     "HAH: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 55,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
@@ -464,6 +458,12 @@
     "Oil prices tumble as Republicans' midterm loss sparks bets on Iran war exit; Tru",
     "Kh\u00f4ng ph\u1ea3i NEU hay FTU, \u0111\u00e2y m\u1edbi l\u00e0 \u0111\u1ea1i h\u1ecdc top 3 Vi\u1ec7t Nam tr\u00ean BXH qu\u1ed1c t\u1ebf m\u1edbi n",
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Amazon Stocks Decline 3.52% With AWS Profitability in Focus - TradingView"
+    "Amazon Stocks Decline 3.52% With AWS Profitability in Focus - TradingView",
+    "Nvidia repeating Cisco\u2019s fatal dot-com playbook, George Noble warns - TradingVie",
+    "Why CrowdStrike and cybersecurity stocks got crunched in Thursday\u2019s rout",
+    "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day ",
+    "Three ways the interest rate rise could affect you",
+    "AI storm dooms tech stocks to $2 trillion decline on darkest day since 2025",
+    "What Could Stop the Fed Raising Rates in  December?"
   ]
 }
