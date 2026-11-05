@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793878596.849179,
+  "last_signals": 1793879205.420759,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -89,12 +89,12 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793878597.7704313,
+    "GBP/USD|1D:top": 1793879207.8626347,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793878597.9147246,
-    "USOIL|1D:bot": 1793878597.1876318
+    "EUR/USD|1D:top": 1793879208.187103,
+    "USOIL|1D:bot": 1793879206.2303166
   },
-  "last_analysis": 1793878585.437927,
-  "last_news": 1793878594.419159,
+  "last_analysis": 1793879195.0791774,
+  "last_news": 1793879205.4199936,
   "seen_news": [
-    "US September international trade balance -105.0B vs -108.0B expected",
-    "H\u00e0 N\u1ed9i: M\u1ed9t doanh nghi\u1ec7p \u0111\u01b0\u1ee3c giao h\u01a1n 6,4ha \u0111\u1ea5t t\u1ea1i x\u00e3 T\u00e2y Ph\u01b0\u01a1ng \u0111\u1ec3 l\u00e0m d\u1ef1 \u00e1n ",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "CrowdStrike Chief Financial Officer Sold Shares Worth Over $1.9M - TradingView",
-    "Hyperscalers and Apple surge after election results remove investor uncertainty",
-    "The Indian workers filming their work to train AI",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Stocks in Hong Kong Hit 5-week High - TradingView",
     "Inside the chip talent war: Trade secrets and rising Chinese rivals",
@@ -464,6 +458,12 @@
     "USD lao d\u1ed1c xu\u1ed1ng th\u1ea5p nh\u1ea5t g\u1ea7n 1,5 th\u00e1ng sau b\u1ea7u c\u1eed t\u1ea1i M\u1ef9",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "SiTime 3Q 2026: Revenue $298.67M, EPS $0.14 \u2014 10-Q Summary - TradingView",
-    "Research firm declares \u2018end of the AI trade as we know it\u2019 \u2014 and Asian tech stoc"
+    "Research firm declares \u2018end of the AI trade as we know it\u2019 \u2014 and Asian tech stoc",
+    "C\u00f4ng an s\u1ebd ki\u1ec3m tra m\u00e1y t\u00ednh, \u0111i\u1ec7n tho\u1ea1i trong tr\u01b0\u1eddng h\u1ee3p sau",
+    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Zelluna Q3 2026 Earnings Call Is Live - TradingView",
+    "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just ",
+    "World's largest olive oil company plummets 18% after rivals agree to takeover de",
+    "Welsh aviation firm AerFin bought in \u00a3475m deal"
   ]
 }
