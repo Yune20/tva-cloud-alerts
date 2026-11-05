@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793863777.1907952,
-  "last_bot4": 1793863441.72109,
+  "last_bot4": 1793864124.0953233,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793863777.191827,
+  "last_signals": 1793864124.1012242,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,13 +87,13 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -139,7 +139,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793863779.834885,
+    "GBP/USD|4H:top": 1793864126.8854723,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -151,25 +151,19 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793863779.8349104,
+    "GBP/USD|1D:top": 1793864126.8854825,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793863778.1062958,
+    "USOIL|4H:bot": 1793864125.0418508,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793863780.378503
+    "EUR/USD|1D:top": 1793864127.2924125
   },
-  "last_analysis": 1793863760.970155,
-  "last_news": 1793863770.0176914,
+  "last_analysis": 1793864115.31791,
+  "last_news": 1793864124.0947075,
   "seen_news": [
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Datadog 3Q 2026: Revenue $1.2B, Net income $118.32M, EPS $0.32\u2014 10-Q Summary - T",
-    "\u2018My life could be cut short\u2019: I\u2019m 55, married with $4.3 million and have a brain",
-    "What Wall Street billionaires are saying about Democrats' midterm sweep",
-    "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "Elf sees Q2 sales boost with marketing, Europe expansion",
     "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment o",
     "Interest rates expected to rise for first time in over three years",
     "Butane\u2019s Perfect Storm Sends Prices to Decade Highs",
@@ -463,6 +457,12 @@
     "Sony Q2 profit jumps on \u2019Spider-Man\u2019 and PlayStation boost",
     "US futures fall again as tech stocks stumble, can Wall Street pull off another c",
     "Kh\u1edfi t\u1ed1 ch\u1ee7 t\u00e0i kho\u1ea3n \u201cThanh Th\u1eadt Th\u00e0\u201d v\u00ec \u0111\u0103ng tin sai s\u1ef1 th\u1eadt v\u1ec1 h\u00e3ng taxi c\u1ee7a ",
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance"
+    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
+    "What the Democratic midterms sweep changes for U.S.-China relations",
+    "Swim and gym prices set to rise above inflation",
+    "Deutsche Beteiligungs reports stable net asset value in third quarter",
+    "Citrini warns AI infrastructure risk has turned to the downside",
+    "\u0110ang ch\u00e1y l\u1edbn t\u1ea1i tr\u01b0\u1eddng THCS Kim Li\u00ean \u1edf H\u00e0 N\u1ed9i, nhi\u1ec1u xe c\u1ee9u h\u1ecfa v\u00e0 c\u1ea5p c\u1ee9u t\u1edbi",
+    "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance"
   ]
 }
