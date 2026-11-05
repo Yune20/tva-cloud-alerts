@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793839164.1027474,
+  "last_signals": 1793839768.2338276,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -51,7 +51,7 @@
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
-    "5575146754|Gold|4H|up": 1793815273.6077209,
+    "5575146754|Gold|4H|up": 1793839768.2338276,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793823762.319758
   },
@@ -91,7 +91,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793839155.7269423,
-  "last_news": 1793839164.1017973,
+  "last_analysis": 1793839762.1249425,
+  "last_news": 1793839768.2329385,
   "seen_news": [
-    "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal",
-    "Deutsche Bank sees lower policy risk supporting euro amid debt ceiling focus",
-    "Stocks surge, but buyers still have technical work to do",
-    "90% gia \u0111\u00ecnh Vi\u1ec7t \u0111\u1ec1u t\u00edch tr\u1eef 6 th\u1ee9 n\u00e0y v\u1edbi t\u00e2m l\u00fd \"b\u1ecf th\u00ec th\u01b0\u01a1ng, v\u01b0\u01a1ng th\u00ec t\u1ed9",
-    "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
     "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
     "Sterling today: Pound gains as dollar slips on Democratic midterm sweep",
     "October US ISM services 54.5 vs 54.8 expected",
@@ -462,6 +456,12 @@
     "Micron and other chip stocks slip as election results strike at the core of data",
     "Jim Cramer warns investors may be reading too much into Wall Street's post-elect",
     "Poundland owner in crunch talks as retailer's collapse looms",
-    "US Oil Inventories Fall Further As Demand Holds"
+    "US Oil Inventories Fall Further As Demand Holds",
+    "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispie",
+    "Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa",
+    "Crypto tracks stocks higher after Democrat midterm wins",
+    "ICYMI: ADNOC denies report of third Hormuz bypass pipeline that could open to ot",
+    "Ng\u00e0y 5/11, Qu\u1ed1c h\u1ed9i th\u1ea3o lu\u1eadn v\u1ec1 d\u1ef1 \u00e1n Lu\u1eadt Ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc (h\u1ee3p nh\u1ea5t)",
+    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance"
   ]
 }
