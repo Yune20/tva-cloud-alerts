@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793830849.4695578,
-  "last_bot4": 1793841331.4250326,
+  "last_news_report": 1793841983.5904114,
+  "last_bot4": 1793841983.591376,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793841611.4151094,
+  "last_signals": 1793841983.5918086,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
-    "5575146754|Gold|1H|trap_up": 1793839164.1027474,
+    "5575146754|Gold|1H|trap_up": 1793841983.5918086,
     "5575146754|Gold|1D|range_in": 1793770893.0097413,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793834513.1100059,
@@ -82,19 +82,19 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -155,20 +155,14 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793722034.8068702,
+    "USOIL|4H:bot": 1793841984.1872144,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793841602.9542413,
-  "last_news": 1793841611.4145172,
+  "last_analysis": 1793841967.290363,
+  "last_news": 1793841978.4341664,
   "seen_news": [
-    "What Trump can achieve without approval from a Democratic-led Congress",
-    "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-    "North Korea denies being behind record $6.3bn Binance hack",
-    "UAE-Controlled Moeve Sells Algerian Upstream Assets",
-    "Dollar falls to one-month low as U.S. midterms trigger flight to safe-havens",
-    "The biggest loser of the US elections was data centers",
     "Fire Shuts Equinor\u2019s Visund Platform in Norwegian North Sea",
     "Sterling today: Pound edges up as dollar eases, BoE hike in view",
     "Canada Trade Balance ($C) for September +5.35B vs +4.1B estimate",
@@ -462,6 +456,12 @@
     "Africa\u2019s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
     "Dollar edges lower as US election outcome cheers global markets",
     "Japan services PMI edges up to 51.7, but composite slips to five-month low as hi",
-    "Nga v\u00e0 c\u00e1c n\u01b0\u1edbc ph\u1ea3n \u1ee9ng v\u1edbi k\u1ebft qu\u1ea3 b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9"
+    "Nga v\u00e0 c\u00e1c n\u01b0\u1edbc ph\u1ea3n \u1ee9ng v\u1edbi k\u1ebft qu\u1ea3 b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9",
+    "Drivers may get compensation offers before car finance saga ends",
+    "New Jersey Moves to Block Trump's Russian Diesel Imports",
+    "Deutsche Bank sees lower policy risk supporting euro amid debt ceiling focus",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6783 \u2013 Reuters estimate",
+    "T\u1eeb \u0111\u00eam nay gi\u00f3 m\u00f9a \u0111\u00f4ng b\u1eafc tr\u00e0n v\u1ec1",
+    "DCM: CTCP - T\u1ed5ng c\u00f4ng ty Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau - PVCFC - VietstockFinance"
   ]
 }
