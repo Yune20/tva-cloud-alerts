@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793863777.1907952,
-  "last_bot4": 1793866884.7015917,
+  "last_bot4": 1793867548.46041,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793866247.4097204
+    "Gold": 1793867548.4603407
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793867177.7083163,
+  "last_signals": 1793867548.4609208,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -87,7 +87,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -139,7 +139,7 @@
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
-    "GBP/USD|4H:top": 1793867180.4823048,
+    "GBP/USD|4H:top": 1793867550.6514719,
     "Gold|4H:bot": 1793581436.6883185,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
@@ -151,25 +151,19 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793867180.4823234,
+    "GBP/USD|1D:top": 1793867550.6514823,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1793867178.5745933,
+    "USOIL|4H:bot": 1793867549.2366273,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793867180.9060905
+    "EUR/USD|1D:top": 1793867550.989486
   },
-  "last_analysis": 1793866884.7006102,
-  "last_news": 1793867177.7076454,
+  "last_analysis": 1793867534.8408558,
+  "last_news": 1793867545.8343272,
   "seen_news": [
-    "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispie",
-    "Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa",
-    "Crypto tracks stocks higher after Democrat midterm wins",
-    "ICYMI: ADNOC denies report of third Hormuz bypass pipeline that could open to ot",
-    "Ng\u00e0y 5/11, Qu\u1ed1c h\u1ed9i th\u1ea3o lu\u1eadn v\u1ec1 d\u1ef1 \u00e1n Lu\u1eadt Ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc (h\u1ee3p nh\u1ea5t)",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - VietstockFinance",
     "Treasuries rally as Democrats sweep into Congress",
     "SNB watches for second-round Swiss inflation effects as December rate hike bets ",
     "Kh\u1ed1i t\u00e0i s\u1ea3n kh\u1ee7ng c\u1ee7a c\u1eb7p \u0111\u00f4i \u0111\u00ecnh \u0111\u00e1m b\u1eadc nh\u1ea5t Cbiz: V\u1ee3 chi 316 t\u1ef7 \u0111\u1ed3ng mua tr",
@@ -463,6 +457,12 @@
     "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Key facts: Q3 Growth, Buyback; Omnipod Trials, Filing; 2027 Slowdown - TradingVi",
     "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-    "Graduates are managing AI - but are they learning much else?"
+    "Graduates are managing AI - but are they learning much else?",
+    "VGI: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Qu\u1ed1c t\u1ebf Viettel - VIETTEL GLOBAL - VietstockFin",
+    "Oncopeptides Q3 2026 Earnings Call Is Live - TradingView",
+    "From tanks to drones: South Korea\u2019s defense firms face a new battlefield test",
+    "Food, fuel and taxes \u2013 can the Democrats do anything to ease cost of living pres",
+    "US Oil Inventories Fall Further As Demand Holds",
+    "DAX parabolic advance stalls at ATH: Live levels"
   ]
 }
