@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793886094.5586636,
+  "last_signals": 1793886723.2181451,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793883533.8328001,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -71,11 +71,11 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -83,7 +83,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793886097.0749447,
+    "GBP/USD|1D:top": 1793886725.3231652,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793886097.4651663,
-    "USOIL|1D:bot": 1793886095.322865
+    "EUR/USD|1D:top": 1793886725.6378047,
+    "USOIL|1D:bot": 1793886723.9108863
   },
-  "last_analysis": 1793886396.1557224,
-  "last_news": 1793886094.5580523,
+  "last_analysis": 1793886712.8166895,
+  "last_news": 1793886723.2172556,
   "seen_news": [
-    "Key facts: ETHUSD ETF Outflows Extend; Bitmine Stakes 5.23M ETH - TradingView",
-    "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-    "Business Daily",
-    "Can Cheap Batteries Deliver COP31\u2019s 35% Electrification Goal?",
-    "Microsoft declines Nscale Texas expansion ahead of $35 bln IPO - report",
-    "What are the main events for today?",
     "Nasdaq Futures Analysis for Day Traders Today: Bears Take Control Below 28,270 a",
     "6 tu\u1ed5i t\u1ef1 h\u1ecdc to\u00e1n \u0111\u1ea1i h\u1ecdc, 25 tu\u1ed5i l\u1ea5y b\u1eb1ng ti\u1ebfn s\u0129, th\u1ea7n \u0111\u1ed3ng r\u1eddi M\u1ef9 v\u1ec1 n\u01b0\u1edbc c",
     "B\u00c1O C\u00c1O DOANH NGHI\u1ec6P CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i \u2013 TNG (HNX) Tri\u1ec3n v\u1ecdng kinh doanh",
@@ -464,6 +458,12 @@
     "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
     "investingLive Americas market news wrap: Oil crushed as Republicans blame war fo",
     "2 ch\u00e0ng trai t\u00ean Ho\u00e0ng \u1edf Chung k\u1ebft Olympia 2017, c\u00f9ng h\u1ecdc B\u00e1ch khoa r\u1ed3i g\u1eb7p l\u1ea1i ",
-    "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u0103ng tr\u01b0\u1edfng m\u1ea1nh tr\u01b0\u1edbc \u00e1p l\u1ef1c l\u1ea1m ph\u00e1t - VietstockFinance",
+    "Acorn Energy Q3 Revenue Rises 4.6%; Net Income Reaches $940,000 - TradingView",
+    "The real test for the artificial-intelligence buildout is what happens in 2028, ",
+    "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz\u2019s Trian",
+    "Pound rises to its highest level since the Brexit referendum",
+    "Musk has little to show for his record spending on Republican campaigns in US mi"
   ]
 }
