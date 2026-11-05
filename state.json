@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793880420.3621163,
+  "last_signals": 1793880745.8565502,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -74,7 +74,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": true,
     "Ethereum|1H": true,
@@ -84,7 +84,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793880421.9189,
+    "GBP/USD|1D:top": 1793880747.6658103,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793880422.106359,
-    "USOIL|1D:bot": 1793880421.1472886
+    "EUR/USD|1D:top": 1793880747.8823743,
+    "USOIL|1D:bot": 1793880746.5692945
   },
-  "last_analysis": 1793880124.8588293,
-  "last_news": 1793880420.3611546,
+  "last_analysis": 1793880735.8234015,
+  "last_news": 1793880745.8557127,
   "seen_news": [
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Why is Tencent stock surging today?",
-    "China blocks SoftBank\u2019s $5.4 billion ABB robotics deal, FT says, in blow to Son\u2019",
-    "Con \u0111\u01b0\u1eddng 8 l\u00e0n xuy\u00ean r\u1eebng d\u1ef1ng t\u01b0\u1eddng ch\u1ed1ng \u1ed3n, ch\u1eafn s\u00e1ng su\u1ed1t 13 km \u0111\u1ec3 th\u00fa hoan",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Z Squared elects CTO Jeffery Harris to its board - TradingView",
     "investingLive European session wrap: Stocks rebound, gold soars as dollar tumble",
     "C\u1ed5 phi\u1ebfu v\u1eeba \u0111\u01b0\u1ee3c \u201cgi\u1ea3i c\u1ee9u\u201d, Ch\u1ee7 t\u1ecbch v\u00e0 lo\u1ea1t c\u1ed5 \u0111\u00f4ng li\u00ean quan l\u1eadp t\u1ee9c b\u1ecb b\u00e1n ",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -464,6 +458,12 @@
     "Goldman says this FX trade is the best hedge for the AI drawdown",
     "What Could Stop the Fed Raising Rates in  December?",
     "Trung Qu\u1ed1c b\u1ea5t ng\u1edd b\u00e1o tin kh\u00f4ng vui cho to\u00e0n th\u1ebf gi\u1edbi",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Interest rates hiked to 4% in first increase in over three years",
+    "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
+    "Citi sees dollar weakening against yen after U.S. midterms",
+    "Bank of England raises the Bank Rate to 4.00% as expected in a 9-0 vote",
+    "4 th\u01b0\u01a1ng hi\u1ec7u chi\u1ebfn th\u1eafng trong h\u1ea1ng m\u1ee5c Gi\u1ea3i ph\u00e1p \u0111\u1ed5i m\u1edbi s\u00e1ng t\u1ea1o ph\u1ee5c v\u1ee5 ng\u01b0\u1edd",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
