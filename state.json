@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793843924.606429,
+  "last_signals": 1793844547.0667794,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -50,7 +50,7 @@
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
-    "5575146754|Gold|1H|momo_up": 1793774948.0045073,
+    "5575146754|Gold|1H|momo_up": 1793844547.0667794,
     "5575146754|Gold|4H|up": 1793843552.8737864,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793823762.319758
@@ -88,13 +88,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793843913.692957,
-  "last_news": 1793843922.3400466,
+  "last_analysis": 1793844537.688863,
+  "last_news": 1793844547.0657768,
   "seen_news": [
-    "'Quiet quitting' could be hitting the economy - here's why",
-    "European Gas Prices Fall 2% as Traders Wait on Trump\u2019s Next Move in Iran",
-    "European shares jump over 1% after Democrats sweep US Congress, Novo Nordisk sur",
-    "House Democratic leader Jeffries says will pass bill to stop tariffs and to end ",
-    "2 \u1ee9ng d\u1ee5ng ng\u01b0\u1eddi d\u00f9ng n\u00ean x\u00f3a ngay \u0111\u1ec3 kh\u00f4ng b\u1ecb theo d\u00f5i",
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
     "Nigeria's Oil and Gas Output Rises to 3.04 Million Boepd",
     "Kraft Heinz to divest North America coffee unit amid CEO turnaround efforts",
     "Crude oil futures tumbled. Down close to 8%",
@@ -462,6 +456,12 @@
     "UK and EU agree draft deal to scrap Brexit red tape over food exports",
     "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
     "Defense firms fall as Democratic victory stokes fears of tighter Pentagon budget",
-    "October US ISM services 54.5 vs 54.8 expected"
+    "October US ISM services 54.5 vs 54.8 expected",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "China's Rail Line Into Central Asia Is Set for 2031",
+    "India rupee\u2019s recovery may find fresh legs from equity flows, dollar weakness",
+    "Sidecars and exam days: two Korean market quirks explained as the KOSPI slides 4",
+    "Ai s\u1edf h\u1eefu n\u00fai Ph\u00fa S\u0129?",
+    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance"
   ]
 }
