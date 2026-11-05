@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793885718.9615374,
-  "last_bot4": 1793891821.7941225,
+  "last_bot4": 1793892511.2408223,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793892156.2038665,
+  "last_signals": 1793892511.241463,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -78,24 +78,24 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793892157.9656708,
+    "GBP/USD|1D:top": 1793892513.2805095,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793892158.2167954,
-    "USOIL|1D:bot": 1793892156.7077975
+    "EUR/USD|1D:top": 1793892513.6495478,
+    "USOIL|1D:bot": 1793892511.8820975
   },
-  "last_analysis": 1793892146.1885,
-  "last_news": 1793892156.1741662,
+  "last_analysis": 1793892502.5778296,
+  "last_news": 1793892511.2398481,
   "seen_news": [
-    "EU Survey Reveals Massive Support for Renewable Energy Transition",
-    "Camurus third quarter revenue beats expectations on Buvidal gains",
-    "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to ",
-    "B\u00e0i h\u00e1t Vi\u1ec7t h\u00fat 2 t\u1ef7 view \u1edf Trung Qu\u1ed1c, khi\u1ebfn d\u00e0n sao kinh ng\u1ea1c, m\u1ef9 nh\u00e2n qu\u00ea H\u00e0",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "XPartners: Interim report July\u2013September 2026 - TradingView",
     "UBS raises AI capex forecast to $1.4 trillion, flags 2027 debt ceiling as key bo",
     "B\u1eb1ng Ki\u1ec1u h\u00e1t \u201cn\u01a1i t\u00ecnh y\u00eau b\u1eaft \u0111\u1ea7u\u201d t\u1eb7ng \u00f4ng Tr\u1ecbnh V\u0103n Quy\u1ebft, tr\u01b0\u1edbc \u0111\u00f3 t\u1eebng ch\u1ed1",
     "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC - VietstockFinance",
@@ -464,6 +458,12 @@
     "B\u1ecf 51.000 \u0111\u1ed3ng mua v\u00e9 s\u1ed1, m\u1ed9t ng\u01b0\u1eddi tr\u00fang \u0111\u1ed9c \u0111\u1eafc h\u01a1n 21.700 t\u1ef7 v\u1edbi x\u00e1c xu\u1ea5t 1/2",
     "B\u00c1O C\u00c1O DOANH NGHI\u1ec6P CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i \u2013 TNG (HNX) Tri\u1ec3n v\u1ecdng kinh doanh",
     "Morgan Stanley Sees SpaceX Stock Hitting $300 as AI Forecasts Explode - TradingV",
-    "Learning from \u2018Love Is Blind\u2019 money drama"
+    "Learning from \u2018Love Is Blind\u2019 money drama",
+    "Fed's Barkin: Gradual pace of hikes \"makes sense\"",
+    "Ng\u01b0\u1eddi EQ th\u1ea5p s\u1ebd l\u00e0m g\u00ec khi nh\u1eadn ra ng\u01b0\u1eddi kh\u00e1c \u0111ang c\u1ed1 t\u00ecnh n\u00f3i m\u00f3c m\u00ecnh?",
+    "CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan (MCH) - VietstockFinance",
+    "Palo Alto Networks Eyes $500 Million AI Security Deal - TradingView",
+    "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,00",
+    "Jim Cramer's top 10 things to watch in the stock market Thursday"
   ]
 }
