@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793900551.6919818,
+  "last_signals": 1793901089.1703186,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -90,13 +90,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": true
   },
   "chain_lease_until": 1793901342,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793900553.0040503,
-    "USOIL|1D:bot": 1793900552.0332084
+    "EUR/USD|1D:top": 1793901091.4499736,
+    "USOIL|1D:bot": 1793901090.0145261
   },
-  "last_analysis": 1793900531.5613592,
-  "last_news": 1793900544.407327,
+  "last_analysis": 1793901072.7836618,
+  "last_news": 1793901089.1693156,
   "seen_news": [
-    "VGI: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Qu\u1ed1c t\u1ebf Viettel - VIETTEL GLOBAL - VietstockFin",
-    "Oncopeptides Q3 2026 Earnings Call Is Live - TradingView",
-    "From tanks to drones: South Korea\u2019s defense firms face a new battlefield test",
-    "Food, fuel and taxes \u2013 can the Democrats do anything to ease cost of living pres",
-    "US Oil Inventories Fall Further As Demand Holds",
-    "DAX parabolic advance stalls at ATH: Live levels",
     "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military ",
     "Poundland owner in crunch talks as retailer's collapse looms",
     "Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa",
@@ -464,6 +458,12 @@
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "Why CAVA (CAVA) shares are falling today - TradingView",
     "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like unce",
-    "Wall Street's fear gauge surges the most since April. Why traders think it shoul"
+    "Wall Street's fear gauge surges the most since April. Why traders think it shoul",
+    "Ch\u1ee9ng quy\u1ec1n MSN/MSVN/7M/0326 HOSE: CMSN2634 - VietstockFinance",
+    "Micron hits unexpected roadblock on $4.5 billion chip bet - TradingView",
+    "I\u2019m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though",
+    "Trump's energy deals are about to face a wave of investigations by Democrats",
+    "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+    "Guyana\u2019s Oil Boom Could Ease the Global Supply Crunch"
   ]
 }
