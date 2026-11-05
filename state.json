@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793885718.9615374,
-  "last_bot4": 1793890246.0402088,
+  "last_bot4": 1793890923.8474255,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793890541.9271684,
+  "last_signals": 1793890923.8480763,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -76,15 +76,15 @@
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
-    "Bitcoin|1D": true,
+    "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": true,
     "US30|1H": true,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793890543.399932,
+    "GBP/USD|1D:top": 1793890926.5224597,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793890543.6138375,
-    "USOIL|1D:bot": 1793890542.3305433
+    "EUR/USD|1D:top": 1793890926.953202,
+    "USOIL|1D:bot": 1793890924.7052
   },
-  "last_analysis": 1793890243.2890093,
-  "last_news": 1793890541.9263754,
+  "last_analysis": 1793890914.756189,
+  "last_news": 1793890923.8466086,
   "seen_news": [
-    "\u0110\u01b0\u1eddng d\u00e2y d\u1ee5 ph\u1ee5 n\u1eef livestream khi\u00eau d\u00e2m, ti\u1ec1n lu\u00e2n chuy\u1ec3n h\u01a1n 4.000 t\u1ef7 \u0111\u1ed3ng",
-    "GEL: CTCP H\u1ea1 t\u1ea7ng GELEX - Gelex Infrastructure JSC - VietstockFinance",
-    "Sweden's Viscaria posts no Q3 revenue, narrows net loss - TradingView",
-    "Most investors are blind to the possibility of a market crash. Here is the five-",
-    "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
-    "Why do sausage rolls and veterinary fees vary in price across London?",
     "What's happening to UK interest rates and what does it mean for mortgages?",
     "Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis",
     "Sony Q2 profit jumps on \u2019Spider-Man\u2019 and PlayStation boost",
@@ -464,6 +458,12 @@
     "Democratic sweep puts crypto on defensive in Washington",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
-    "Nasdaq opens over 1% lower amid post-midterms rotation out of chip stocks"
+    "Nasdaq opens over 1% lower amid post-midterms rotation out of chip stocks",
+    "How do Americans feel about the midterm results? It depends on how much money th",
+    "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "How long will humans be needed for translation?",
+    "Iran Braces for Trump's Next Move After Democrats Sweep Congress",
+    "Nasdaq extends opening slide to over 2% amid post-midterms rotation out of chips",
+    "BoE Governor Bailey says there is a case for another 25bps hike if war doesn't e"
   ]
 }
