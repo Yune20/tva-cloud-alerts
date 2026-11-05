@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793874516.6261685,
+  "last_signals": 1793875122.5630968,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793864738.0150247,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,7 +88,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793874519.5320146,
+    "GBP/USD|1D:top": 1793875124.9269338,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793874519.975592,
-    "USOIL|1D:bot": 1793874517.7455106
+    "EUR/USD|1D:top": 1793875125.3036537,
+    "USOIL|1D:bot": 1793875123.319027
   },
   "last_analysis": 1793874822.7335494,
-  "last_news": 1793874516.6251426,
+  "last_news": 1793875122.5623899,
   "seen_news": [
-    "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-    "Why the UK is dithering over what to do about e-scooters",
-    "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
-    "Why is DBS stock falling today?",
-    "House Democratic leader Jeffries says will pass bill to stop tariffs and to end ",
-    "Viral b\u00e0i \u0111\u0103ng v\u1ee3 ki\u1ebfm 15 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, ch\u1ed3ng th\u00e0 \u1edf nh\u00e0 c\u00f2n h\u01a1n nh\u1eadn vi\u1ec7c 25",
     "Bitcoin's Great Consensus Cleanup soft fork targets legacy vulnerabilities - Tra",
     "Democrats map out an agenda to address affordability and corruption after midter",
     "Australia's oldest department store David Jones folds after 188 years",
@@ -464,6 +458,12 @@
     "The economy brought Trump back to power. Now it's his downfall",
     "From scooters to shampoo - the people saving hundreds from dumpster diving",
     "China\u2019s Diesel Exports Set to Plunge as Domestic Inventories Run Low",
-    "UBS sees Swedish krona strengthening against the euro"
+    "UBS sees Swedish krona strengthening against the euro",
+    "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+    "'Quiet quitting' could be hitting the economy - here's why",
+    "China's Rail Line Into Central Asia Is Set for 2031",
+    "Dollar slides after Democratic sweep; Sterling pauses ahead of BoE",
+    "Ethereum rallies on bets midterm defeat will push Trump towards Iran war exit. W",
+    "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi t\u1eed vong trong v\u1ee5 ch\u00e1y tr\u01b0\u1eddng THCS Kim Li\u00ean \u1edf H\u00e0 N\u1ed9i"
   ]
 }
