@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793900549.1876771,
-  "last_bot4": 1793907326.114197,
+  "last_bot4": 1793907955.5165756,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793907619.9369931,
+  "last_signals": 1793907955.517416,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793890541.9271684,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -79,14 +79,14 @@
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
-    "Ethereum|1D": false,
+    "Ethereum|1D": true,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -94,7 +94,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793907620.5797093,
+    "Bitcoin|4H:bot": 1793907956.684184,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -149,28 +149,22 @@
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793836971.3926694,
+    "Bitcoin|1D:bot": 1793907956.6842048,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793907621.287269,
+    "GBP/USD|1D:top": 1793907957.8864708,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
-    "US30|4H:bot": 1793907621.0068092,
-    "EUR/USD|1D:top": 1793907621.48147,
-    "USOIL|1D:bot": 1793907620.3527982
+    "US30|4H:bot": 1793907957.478173,
+    "EUR/USD|1D:top": 1793907958.2260034,
+    "USOIL|1D:bot": 1793907956.283639
   },
-  "last_analysis": 1793907323.2946906,
-  "last_news": 1793907619.9362738,
+  "last_analysis": 1793907945.2771258,
+  "last_news": 1793907955.5155604,
   "seen_news": [
-    "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-    "'Quiet quitting' could be hitting the economy - here's why",
-    "China's Rail Line Into Central Asia Is Set for 2031",
-    "Dollar slides after Democratic sweep; Sterling pauses ahead of BoE",
-    "Ethereum rallies on bets midterm defeat will push Trump towards Iran war exit. W",
-    "Ph\u00e1t hi\u1ec7n 1 ng\u01b0\u1eddi t\u1eed vong trong v\u1ee5 ch\u00e1y tr\u01b0\u1eddng THCS Kim Li\u00ean \u1edf H\u00e0 N\u1ed9i",
     "Why do veterinary fees and sausage rolls vary in price across London?",
     "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
     "Bomb alerts force flights to land in France, Bulgaria, Belgium",
@@ -464,6 +458,12 @@
     "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
     "European stock market open: Stocks push higher across the board but US tech woes",
     "\u0110\u1ea1i gia t\u1ea1i H\u01b0ng Y\u00ean tuy\u1ec3n 200 th\u1ee3 h\u00e0n, c\u1eaft h\u01a1i, l\u1eafp r\u00e1p \u0111\u1ec3 \u0111\u00f3ng du thuy\u1ec1n, l\u01b0\u01a1n",
-    "Ch\u1ee9ng quy\u1ec1n SHB/MSVN/7M/0126 HOSE: CSHB2623 - VietstockFinance"
+    "Ch\u1ee9ng quy\u1ec1n SHB/MSVN/7M/0126 HOSE: CSHB2623 - VietstockFinance",
+    "China\u2019s Diesel Exports Set to Plunge as Domestic Inventories Run Low",
+    "UBS sees Swedish krona strengthening against the euro",
+    "What are the main events for today?",
+    "T\u1eadp \u0111o\u00e0n M\u01b0\u1eddng Thanh t\u0103ng v\u1ed1n th\u00eam 1.850 t\u1ef7 \u0111\u1ed3ng trong 3 th\u00e1ng tr\u01b0\u1edbc ng\u00e0y \u00f4ng L\u00ea",
+    "Ch\u1ee9ng quy\u1ec1n VNM/MSVN/10M/0226 HOSE: CVNM2628 - VietstockFinance",
+    "TSMC Stocks Fall 7.46% Despite a $53.3 Billion Revenue Midpoint - TradingView"
   ]
 }
