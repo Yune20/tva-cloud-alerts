@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793842330.4236443,
+  "last_signals": 1793842946.5200195,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -88,13 +88,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793842321.5818064,
-  "last_news": 1793842330.4226046,
+  "last_analysis": 1793842936.7220685,
+  "last_news": 1793842946.5190396,
   "seen_news": [
-    "US September international trade balance -105.0B vs -108.0B expected",
-    "Vi\u1ec7t Nam s\u1eafp c\u00f3 si\u00eau qu\u1ea7n th\u1ec3 g\u1ea7n 585 ha, v\u1ed1n h\u01a1n 21.000 t\u1ef7 \u0111\u1ed3ng t\u1ea1i n\u01a1i \u0111\u01b0\u1ee3c v\u00ed",
-    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
-    "National Bank of Greece Q3 2026 Earnings Call Is Live - TradingView",
-    "Hospital stocks rally while drugmakers brace for scrutiny. Here\u2019s what the Democ",
-    "Elon Musk\u2019s record election bet backfired. The backlash may reach beyond one bil",
     "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
     "Modine Manufacturing Company Q2 2027 Earnings Call Is Live - TradingView",
     "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and ",
@@ -462,6 +456,12 @@
     "Economic and event calendar in Asia Thursday, November 5, 2026 - we hear from th",
     "4 t\u1ec9nh, th\u00e0nh c\u00f4ng b\u1ed1 x\u00e9t h\u1ecdc b\u1ea1 v\u00e0o l\u1edbp 10 n\u0103m 2027",
     "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "NY Cocoa Prices Rebound on Dollar Weakness - TradingView"
+    "NY Cocoa Prices Rebound on Dollar Weakness - TradingView",
+    "EIA weekly US crude oil inventories -865K vs +877K expected",
+    "Mi\u1ec1n B\u1eafc \u0111\u00f3n \u0111\u1ee3t r\u00e9t di\u1ec7n r\u1ed9ng \u0111\u1ea7u ti\u00ean, th\u1eddi ti\u1ebft H\u00e0 N\u1ed9i 10 ng\u00e0y t\u1edbi ra sao?",
+    "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
+    "SMMT: AstraZeneca invested $2.0B as ivonescimab\u2019s clinical program expanded - Tr",
+    "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
+    "From scooters to shampoo - the people saving hundreds from dumpster diving"
   ]
 }
