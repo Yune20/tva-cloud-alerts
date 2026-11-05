@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793852910.1106143,
-  "last_bot4": 1793854174.1275978,
+  "last_bot4": 1793854837.1003091,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793854467.7355163,
+  "last_signals": 1793854837.1009996,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -39,7 +39,7 @@
     "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
     "5575146754|Gold|1H|trap_up": 1793843924.606429,
-    "5575146754|Gold|1D|range_in": 1793770893.0097413,
+    "5575146754|Gold|1D|range_in": 1793854837.1009996,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793834513.1100059,
     "5575146754|Gold|1D|tbot": 1793337118.585362,
@@ -50,10 +50,11 @@
     "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
-    "5575146754|Gold|1H|momo_up": 1793851053.7353275,
+    "5575146754|Gold|1H|momo_up": 1793854837.1009996,
     "5575146754|Gold|4H|up": 1793851392.8997214,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
-    "5575146754|Gold|4H|trap_up": 1793853240.724774
+    "5575146754|Gold|4H|trap_up": 1793853240.724774,
+    "5575146754|Gold|1H|up": 1793854837.1009996
   },
   "sig_range": {
     "Gold": true,
@@ -69,7 +70,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": false,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
@@ -147,7 +148,7 @@
     "Ethereum|4H:bot": 1793771514.1680503,
     "USD/JPY|4H:bot": 1793368450.6806107,
     "JPY Index|4H:bot": 1793368451.0141861,
-    "EUR/USD|4H:top": 1793854470.070046,
+    "EUR/USD|4H:top": 1793854838.3835835,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793659746.133583,
@@ -160,15 +161,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793854171.6916893,
-  "last_news": 1793854467.7348099,
+  "last_analysis": 1793854829.9469373,
+  "last_news": 1793854837.0993598,
   "seen_news": [
-    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
-    "Service Corporation declares $0.36 dividend - TradingView",
-    "Hospital stocks rallied while drugmakers brace for scrutiny. Here\u2019s what the Dem",
-    "Mortgage rates drop for the third straight week, but homebuyers are still leavin",
-    "Asda hires ex-Morrisons boss in bid to grow firm",
-    "3M stock soars following $7.35 billion \u2019forever chemicals\u2019 settlement",
     "Apple cements its status as tech\u2019s biggest heavyweight with the stock\u2019s best day",
     "Qualcomm stock drops 5% on weak earnings forecast as memory shortage weighs on s",
     "Christmas 2026 stamps unveiled by Royal Mail",
@@ -462,6 +457,12 @@
     "Gi\u00e1 v\u00e0ng b\u1ea1c 5/11 t\u0103ng d\u1ef1ng \u0111\u1ee9ng: C\u1eadp nh\u1eadt m\u1edbi nh\u1ea5t t\u1ea1i Ph\u00fa Qu\u00fd, SJC, Doji, BTMC",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "China National Building Material Says Unit Gets CSRC Notice - TradingView",
-    "Blackstone president calls for more equity to fund AI buildout as debt risks mou"
+    "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
+    "\"B\u00e1u v\u1eadt nhan s\u1eafc\" H\u00e0n Qu\u1ed1c: 55 tu\u1ed5i v\u1eabn s\u00e0nh \u0111i\u1ec7u ngang g\u00e1i \u0111\u00f4i m\u01b0\u01a1i",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Citi employee killed in shooting at Florida office, suspect dead - TradingView",
+    "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
+    "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada"
   ]
 }
