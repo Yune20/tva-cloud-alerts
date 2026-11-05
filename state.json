@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793842946.5200195,
+  "last_signals": 1793843552.8737864,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793769660.4604137,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -51,7 +51,7 @@
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793774948.0045073,
-    "5575146754|Gold|4H|up": 1793839768.2338276,
+    "5575146754|Gold|4H|up": 1793843552.8737864,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793823762.319758
   },
@@ -88,11 +88,11 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
@@ -160,15 +160,9 @@
     "US30|4H:bot": 1793726812.8171103,
     "EUR/USD|1D:top": 1793832684.6686547
   },
-  "last_analysis": 1793842936.7220685,
-  "last_news": 1793842946.5190396,
+  "last_analysis": 1793843546.0899856,
+  "last_news": 1793843552.873174,
   "seen_news": [
-    "ORS: CTCP Ch\u1ee9ng kho\u00e1n Ti\u00ean Phong - TPS - VietstockFinance",
-    "Modine Manufacturing Company Q2 2027 Earnings Call Is Live - TradingView",
-    "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and ",
-    "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "Democrats Win Texas Oil Regulator Seat for First Time Since 1990",
     "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' t",
     "Ryanair says it may freeze workers' pay and raise airfares",
     "China's Rail Line Into Central Asia Is Set for 2031",
@@ -462,6 +456,12 @@
     "EVF: C\u00f4ng ty T\u00e0i ch\u00ednh T\u1ed5ng h\u1ee3p C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c - EVF - VietstockFinance",
     "SMMT: AstraZeneca invested $2.0B as ivonescimab\u2019s clinical program expanded - Tr",
     "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
-    "From scooters to shampoo - the people saving hundreds from dumpster diving"
+    "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "OIL: T\u1ed5ng C\u00f4ng ty D\u1ea7u Vi\u1ec7t Nam - CTCP - PVOIL - VietstockFinance",
+    "Global Water Resources Q3 Revenue Rises 5% as Net Income Declines - TradingView",
+    "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+    "My hometown shows that high streets have to change or die",
+    "Fire Shuts Equinor\u2019s Visund Platform in Norwegian North Sea",
+    "Sterling today: Pound edges up as dollar eases, BoE hike in view"
   ]
 }
