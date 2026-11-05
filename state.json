@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793888342.393511,
+  "last_signals": 1793888943.2978656,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793888342.393511,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -68,7 +68,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -151,7 +151,7 @@
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793836971.3926694,
     "DXY|4H:bot": 1793776186.638589,
-    "GBP/USD|1D:top": 1793888343.6510131,
+    "GBP/USD|1D:top": 1793888945.674264,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1793195896.713138,
@@ -159,18 +159,12 @@
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793726812.8171103,
-    "EUR/USD|1D:top": 1793888343.8635674,
-    "USOIL|1D:bot": 1793888342.8334255
+    "EUR/USD|1D:top": 1793888946.0015128,
+    "USOIL|1D:bot": 1793888944.119637
   },
   "last_analysis": 1793888651.5212379,
-  "last_news": 1793888339.1225374,
+  "last_news": 1793888943.2969155,
   "seen_news": [
-    "SCS: CTCP D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a S\u00e0i G\u00f2n - SCSC - VietstockFinance",
-    "Moreld ASA (MORLD) Authorizes Up to NOK 100.0M Buyback - TradingView",
-    "Qualcomm\u2019s stock falls as twin forces pressure sales",
-    "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on ",
-    "How video game remakes tap the power of nostalgia",
-    "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
     "4 lo\u1ea1i c\u00e1 ngo\u00e0i ch\u1ee3 b\u00e1n r\u1ebb \u0111\u1ebfn m\u1ea5y c\u0169ng kh\u00f4ng n\u00ean mua",
     "TIG: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 Th\u0103ng Long - THANG LONG INVESTGROUP.,JSC - VietstockFi",
     "TD SYNNEX partners with SISA to expand cybersecurity offerings in India - Tradin",
@@ -464,6 +458,12 @@
     "Th\u00f4ng tin quan tr\u1ecdng t\u1eeb S\u1edf GD&\u0110T H\u00e0 N\u1ed9i sau v\u1ee5 ch\u00e1y tr\u01b0\u1eddng Kim Li\u00ean",
     "B\u00c1O C\u00c1O DOANH NGHI\u1ec6P CTCP X\u00e2y d\u1ef1ng Coteccons - CTD (HOSE) - VietstockFinance",
     "BRIEF-Arko Q3 Dividend USD 0.03 - TradingView",
-    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o"
+    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
+    "B\u00e1o c\u00e1o c\u1eadp nh\u1eadt D\u1ef1 ki\u1ebfn v\u01b0\u1ee3t k\u1ebf ho\u1ea1ch 2026 v\u1edbi l\u1ee3i nhu\u1eadn t\u0103ng m\u1ea1nh - VietstockF",
+    "Jerash Holdings (US), Inc. Declares Quarterly Dividend - TradingView",
+    "Watch live: Brown Harris Stevens' Bess Freedman talks real estate, wealth and th",
+    "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "Wednesday\u2019s top insider buys and sells: Intel CEO adds $9.7M stake",
+    "US initial jobless claims 189K vs 196K estimate"
   ]
 }
