@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793974051.9038453,
+  "last_signals": 1793974666.11708,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -88,13 +88,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793974927,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793974041.7158003,
-  "last_news": 1793974051.902883,
+  "last_analysis": 1793974655.6621814,
+  "last_news": 1793974666.1161587,
   "seen_news": [
-    "IRS announces bigger estate and gift tax exemption for 2027",
-    "Drivers may get compensation offers before car finance saga ends",
-    "Exclusive-China\u2019s top flash memory chipmaker targets more homegrown tools for ne",
-    "What are the main events for today?",
-    "Vi\u1ec7t Nam v\u01b0\u1ee3t Indonesia, s\u1eafp b\u1eaft k\u1ecbp Th\u00e1i Lan?",
-    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
     "From scooters to shampoo - the people saving hundreds from dumpster diving",
     "France's Debt Crisis Could Trigger a Much Bigger European Meltdown",
     "Why is Lotte Rental stock surging today?",
@@ -462,6 +456,12 @@
     "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
     "US October non-farm payrolls +165K vs +65K expected",
     "\u0110\u1eb1ng sau chuy\u1ec7n T\u1ed5ng th\u1ed1ng M\u1ef9 Trump \u0111\u1ed9t \u2018gi\u00e1ng \u0111\u00f2n\u2019 v\u00e0o Israel",
-    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/7M/0226 HOSE: CVPB2633 - VietstockFinance"
+    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/7M/0226 HOSE: CVPB2633 - VietstockFinance",
+    "Dollar rebounds as tech rout and strong U.S. jobs data lift safe-haven demand an",
+    "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate ",
+    "To\u00e0n c\u1ea3nh ng\u1ecdn n\u00fai gi\u1eefa \u0111\u00f4 th\u1ecb Quy Nh\u01a1n tr\u01b0\u1edbc \u0111\u1ecbnh h\u01b0\u1edbng g\u1ecdt, h\u1ea1 m\u1ed9t ph\u1ea7n m\u00e1i n\u00fa",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
+    "Banco ABC Brasil Q3 2026 Earnings Call Is Live - TradingView",
+    "Moderna raises its revenue outlook \u2014 but all eyes are on what happens next with "
   ]
 }
