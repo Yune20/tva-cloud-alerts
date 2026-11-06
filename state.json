@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793979604.681687,
+  "last_signals": 1793980217.5332727,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -89,13 +89,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "USD/JPY|1D": false,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793980478,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793978983.302467,
+    "Bitcoin|4H:bot": 1793980218.4607997,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,11 +143,11 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793979605.2901099,
+    "Ethereum|4H:bot": 1793980218.7303038,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793976530.164125,
+    "Bitcoin|1D:bot": 1793980218.460816,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793979605.5075834
+    "US30|1D:bot": 1793980218.9895778
   },
-  "last_analysis": 1793979595.8805757,
-  "last_news": 1793979604.680857,
+  "last_analysis": 1793980208.226211,
+  "last_news": 1793980217.5324242,
   "seen_news": [
-    "Three ways the interest rate rise could affect you",
-    "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
-    "HSBC sees Democratic midterm strength weighing on dollar near-term",
-    "What Could Stop the Fed Raising Rates in  December?",
-    "Ph\u00e1t hi\u1ec7n 2 c\u1ef1u sinh vi\u00ean \u0110\u1ea1i h\u1ecdc Kinh t\u1ebf TP.HCM l\u00e0 b\u1ea1n th\u00e2n c\u00f9ng SN 1999: Th\u00e0nh",
-    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Inventurus Knowledge Solutions Q2 2027 Earnings Call Is Live - TradingView",
     "The world's best airline is updating its business and first-class experience",
     "Interest rates hiked to 4% in first increase in over three years",
@@ -463,6 +457,12 @@
     "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balan",
     "Welsh aviation firm AerFin bought in \u00a3475m deal",
     "Energy Aspects Slashes Forecast of China\u2019s November Diesel Exports",
-    "Moody\u2019s lifts Genmab outlook to positive on pipeline progress, debt reduction"
+    "Moody\u2019s lifts Genmab outlook to positive on pipeline progress, debt reduction",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "Nexus Industrial REIT Q3 2026 Earnings Call Is Live - TradingView",
+    "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-of",
+    "Could the US midterms put a pin in the AI bubble?",
+    "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
+    "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hike"
   ]
 }
