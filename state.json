@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793956130.7446284,
+  "last_signals": 1793956742.5654814,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793956131.8502476,
+    "Bitcoin|4H:bot": 1793956743.8346262,
     "EUR/USD|4H:bot": 1793954901.4218807,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793956131.850264,
+    "Bitcoin|1D:bot": 1793956743.8346395,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793956120.2032397,
-  "last_news": 1793956130.7438972,
+  "last_analysis": 1793956734.2083766,
+  "last_news": 1793956742.5647,
   "seen_news": [
-    "Trump says election loss was largely a result of the Iran war",
-    "Nhi\u1ec1u nh\u00f3m ph\u01b0\u01a1ng ti\u1ec7n \u0111\u01b0\u1ee3c gi\u1ea3m ph\u00ed \u0111\u0103ng ki\u1ec3m",
-    "HAH: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 55,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Vertical Data Closes $4.24 Million Private Placement of Common Stock - TradingVi",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
     "ADTRAN 3Q 2026: Revenue $281.17M, EPS ($0.1) \u2014 10-Q Summary - TradingView",
     "Las Vegas Raiders owner Mark Davis says he's 'not a fan' of sports gambling amid",
     "How video game remakes tap the power of nostalgia",
@@ -462,6 +456,12 @@
     "Tanks or drones? Defense earnings reveal a more complicated rearmament boom",
     "The Indian workers filming their work to train AI",
     "Global bonds rally as Tech-equity carnage sparks flight to safety",
-    "Newmont stock breaks out of a two-month downtrend. But buyers have a test to pas"
+    "Newmont stock breaks out of a two-month downtrend. But buyers have a test to pas",
+    "Costco is taking aim at its May record high \u2014 how it got here and where's it goi",
+    "The grads ditching the UK for a fresh start abroad",
+    "This FX trade is the best hedge for the AI drawdown: Goldman",
+    "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth conc",
+    "B\u1ea5t ch\u1ea5p c\u1ea1nh tranh gay g\u1eaft, Grab d\u1ef1 ki\u1ebfn doanh thu t\u1edbi 4,2 t\u1ef7 USD trong n\u0103m 202",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
