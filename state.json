@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1793988681.7191226,
-  "last_bot4": 1793994856.747347,
+  "last_news_report": 1794006286.0727482,
+  "last_bot4": 1794006288.6723974,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793994245.1293397
+    "Gold": 1794006288.6722255
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793994574.1679187,
+  "last_signals": 1794006288.673151,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -65,7 +65,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -129,9 +129,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793954901.7379038,
+    "DXY|4H:top": 1794006290.1827712,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1793968971.5806692,
+    "EUR/USD|4H:bot": 1794006289.8164797,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -146,12 +146,12 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793991197.299591,
+    "Bitcoin|1D:bot": 1794006289.1585624,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793965492.9306211,
+    "GBP/USD|4H:bot": 1794006289.6594434,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1793994566.367251,
-  "last_news": 1793994574.1670527,
+  "last_analysis": 1794006271.6003013,
+  "last_news": 1794006279.7552423,
   "seen_news": [
-    "A welcome change for gold as tech selloff fails to spark heavy liquidation, brea",
-    "Th\u1ea3m k\u1ecbch h\u1ed3 Nyos: C\u00e1i ch\u1ebft v\u00f4 h\u00ecnh c\u01b0\u1edbp \u0111i g\u1ea7n m\u1ed9t ngh\u00ecn t\u00e1m tr\u0103m sinh m\u1ea1ng tro",
-    "POW: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "National Bank of Greece Q3 2026 Earnings Call Is Live - TradingView",
-    "My 93-year-old father changed his will at the 11th hour, leaving my brother his ",
-    "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data ce",
     "Analog Devices, Inc. (ADI) Completes Alif Semiconductor Acquisition - TradingVie",
     "Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla pr",
     "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
@@ -462,6 +456,12 @@
     "Framery Group Plc: Acquisition of own shares during week 45, 2026 - TradingView",
     "Top House Oversight Democrat warns Trump family to 'lawyer up'",
     "How does it affect me if share prices fall?",
-    "India\u2019s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist"
+    "India\u2019s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist",
+    "M\u1ed9t t\u1ec9nh mi\u1ec1n Trung nghi\u00ean c\u1ee9u l\u1eadp 'si\u00eau x\u00e3' h\u01a1n 680km\u00b2 l\u00e0m khu kinh t\u1ebf \u0111\u1eb7c bi\u1ec7t",
+    "T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam (HOSE: POW) - VietstockFinance",
+    "William Blair downgrades Kura Sushi USA to Market Perform from Outperform - Trad",
+    "Elon Musk opens the door for a big SpaceX acquisition",
+    "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+    "Why smoky bacon crisps threaten to reignite rows over EU rules"
   ]
 }
