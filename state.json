@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793976529.0802195,
+  "last_signals": 1793977143.676872,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -86,15 +86,15 @@
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793977403,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793976518.856548,
-  "last_news": 1793976529.0790725,
+  "last_analysis": 1793977134.7863626,
+  "last_news": 1793977143.6761937,
   "seen_news": [
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "Dollar little changed as oil prices bounce, payrolls eyed",
-    "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support",
-    "N\u1eef NSND, ti\u1ebfn s\u0129 SN 1945: \"C\u00f3 nh\u1eefng th\u00e1ng ng\u00e0y s\u1ee9c kh\u1ecfe bu\u1ed9c t\u00f4i ph\u1ea3i d\u1eebng l\u1ea1i\"",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
-    "Kelly Services declares $0.075 dividend - TradingView",
     "The market is waiting for signals from Donald Trump",
     "C\u00f4ng an ki\u1ec3m tra t\u1ea1i b\u1ec7nh vi\u1ec7n l\u00fac 00 gi\u1edd 40 ph\u00fat, b\u1eaft qu\u1ea3 tang L\u00e0i V\u0103n Quang SN",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
@@ -462,6 +456,12 @@
     "Trump administration scraps meeting of panel that includes Meta\u2019s Zuckerberg, Nv",
     "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on h",
     "Chi\u1ebfc ca nh\u1ef1a gi\u00e1 60 ngh\u00ecn \u0111\u1ed3ng trong bi\u1ec7t th\u1ef1 50 t\u1ef7 c\u1ee7a Ng\u1ecdc Trinh",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Why is Walmart stock sliding today?",
+    "What are the main events for today?",
+    "M\u1ed9t ch\u1ec9 b\u00e1o kinh t\u1ebf M\u1ef9 b\u1ea5t ng\u1edd t\u0103ng g\u1ea5p g\u1ea7n 3 l\u1ea7n d\u1ef1 b\u00e1o, x\u00e1c su\u1ea5t Fed t\u0103ng l\u00e3i ",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "MADE in America is Great Again; SMX has the Proof - TradingView",
+    "Trump\u2019s Iran war has changed the future of Social Security"
   ]
 }
