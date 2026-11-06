@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793989343.479974,
+  "last_signals": 1793989964.4866433,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -45,7 +45,6 @@
     "5575146754|Gold|4H|dn": 1793435505.1491673,
     "5575146754|Gold|4H|trap_dn": 1793575577.0920541,
     "5575146754|Gold|1H|momo_dn": 1793692238.529144,
-    "5575146754|Gold|4H|momo_dn": 1793384901.0714078,
     "5575146754|Gold|1H|tbot": 1793419468.594641,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
     "5575146754|Gold|1H|momo_up": 1793856660.7425723,
@@ -69,7 +68,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -87,13 +86,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -147,7 +146,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793986465.835428,
+    "Bitcoin|1D:bot": 1793989965.0376596,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -159,17 +158,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793988683.101174
+    "US30|1D:bot": 1793989965.637538
   },
-  "last_analysis": 1793989333.4327059,
-  "last_news": 1793989343.4790297,
+  "last_analysis": 1793989956.120858,
+  "last_news": 1793989964.4856799,
   "seen_news": [
-    "Here are the 2027 capital-gains tax rates for each income level",
-    "Neocloud IREN says $4 billion in annualized revenue being delayed due to custome",
-    "'An annoying buzz': The search for stealthier drones",
-    "Indonesia stocks higher at close of trade; IDX Composite Index up 0.18%",
-    "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
-    "C\u01a1 quan Thu\u1ebf th\u00f4ng b\u00e1o: Ng\u01b0\u1eddi n\u1ed9p thu\u1ebf c\u1ea7n ki\u1ec3m tra ngay th\u00f4ng tin sau tr\u00ean eTax",
     "'I was asked if I was a crier': Your worst job interviews revealed",
     "China\u2019s Carbon Emissions Plunge 3.1% as Oil Demand Slumps",
     "FTSE 100 today: Stocks slump as global tech rout deepens",
@@ -463,6 +456,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "RBC Capital maintains Albemarle at Outperform, lowers price target to $119 from ",
     "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
-    "AI crush is powering one stock to sky-high valuations"
+    "AI crush is powering one stock to sky-high valuations",
+    "\u0110\u00e0 N\u1eb5ng th\u00fac ti\u1ebfn \u0111\u1ed9 si\u00eau d\u1ef1 \u00e1n g\u1ea7n 189 ha, v\u1ed1n g\u1ea7n 19.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a \u0110\u1ea1i Quang",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "DNP: Deflation restrained sales and margins as rapid store expansion continued -",
+    "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+    "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost",
+    "Asda hires ex-Morrisons boss in bid to grow firm"
   ]
 }
