@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793983966.3594081,
+  "last_signals": 1793984565.0590632,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -89,13 +89,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793984837,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793983967.0159194,
+    "Bitcoin|4H:bot": 1793984565.9511857,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,11 +143,11 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793983967.267574,
+    "Ethereum|4H:bot": 1793984566.3243787,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793983967.015942,
+    "Bitcoin|1D:bot": 1793984565.951208,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793983967.4599946
+    "US30|1D:bot": 1793984566.5875416
   },
   "last_analysis": 1793984271.9605331,
-  "last_news": 1793983966.3584824,
+  "last_news": 1793984565.0581732,
   "seen_news": [
-    "M\u00e2m c\u01a1m nh\u00e0 Kh\u00e1nh Thi - Phan Hi\u1ec3n",
-    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
-    "Ryerson CEO Sold Shares Worth Over $685K - TradingView",
-    "Buy the dip or wait it out? Young investors react as retail stock selling hits o",
-    "What the Democratic midterms sweep changes for U.S.-China relations",
-    "Mining giant joins fight to stop killer toad march across Australia",
     "Thermax Q2 2027 Earnings Call Is Live - TradingView",
     "How much in Roth conversions can you do in 2027 with the new tax brackets?",
     "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech",
@@ -463,6 +457,12 @@
     "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI sellof",
     "M\u1ed7i th\u00e1ng d\u01b0 3 tri\u1ec7u, n\u00ean ch\u1edd \u0111\u1ee7 100 tri\u1ec7u m\u1edbi g\u1eedi ti\u1ebft ki\u1ec7m hay g\u1eedi ngay? C\u00e1ch ",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Visa Establishes Six Singapore Hubs With 1,500+ Professionals - TradingView"
+    "Visa Establishes Six Singapore Hubs With 1,500+ Professionals - TradingView",
+    "Vi\u1ec7t Nam x\u00e2y th\u00e0nh c\u00f4ng t\u00f2a th\u00e1p \u0111\u00f4i cao 35 m, thi\u1ebft k\u1ebf thu\u1ed9c d\u1ea1ng hi\u1ebfm tr\u00ean th\u1ebf",
+    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
+    "West Virginia American Water Advances Central Grove Water Plant Project - Tradin",
+    "Nvidia, AMD and other chip stocks rebound. Is the \u2018violent\u2019 AI selloff over?",
+    "Watch live: Cramer updates his views on all the Club stocks and 1 to buy right n",
+    "'Quiet quitting' could be hitting the economy - here's why"
   ]
 }
