@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793977764.6464033,
+  "last_signals": 1793978370.904501,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -66,13 +66,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -89,13 +89,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793978636,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793976530.1641052,
+    "Bitcoin|4H:bot": 1793978371.4518747,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793977765.4529912,
+    "Ethereum|4H:bot": 1793978371.6367702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -158,17 +158,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1793941567.0572085
+    "USOIL|1D:bot": 1793941567.0572085,
+    "US30|1D:bot": 1793978371.8214834
   },
-  "last_analysis": 1793977751.749705,
-  "last_news": 1793977759.9358165,
+  "last_analysis": 1793978362.0169795,
+  "last_news": 1793978370.9035923,
   "seen_news": [
-    "Goldman Sachs sees USD/CNH entry opportunity on policy move",
-    "US September international trade balance -105.0B vs -108.0B expected",
-    "Vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o l\u00e0 \"thi\u00ean \u0111\u01b0\u1eddng h\u1ea1 gi\u1edbi\" c\u1ee7a ng\u01b0\u1eddi gi\u00e0: Gi\u00e1 3 tri\u1ec7u/th\u00e1ng v\u1eabn ng\u00e0",
-    "GEG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 17,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Cello World Q2 2027 Earnings Call Is Live - TradingView",
-    "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
     "B\u1ed9 tr\u01b0\u1edfng T\u00e0i ch\u00ednh n\u00eau c\u0103n c\u1ee9 x\u00e1c \u0111\u1ecbnh \u0111\u1ea5t b\u1ecf hoang \u0111\u1ec3 \u0111\u00e1nh thu\u1ebf",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
     "What ACI Worldwide (ACIW) Said on Its Q3 Earnings Call - TradingView",
@@ -462,6 +457,12 @@
     "Trump\u2019s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
     "Dollar little changed as oil prices bounce, payrolls eyed",
     "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
-    "\u0110\u1ed3ng Nai s\u1ebd \u0111\u1ec1 ngh\u1ecb UNESCO c\u00f4ng nh\u1eadn V\u01b0\u1eddn qu\u1ed1c gia C\u00e1t Ti\u00ean l\u00e0 Di s\u1ea3n thi\u00ean nhi\u00ea"
+    "\u0110\u1ed3ng Nai s\u1ebd \u0111\u1ec1 ngh\u1ecb UNESCO c\u00f4ng nh\u1eadn V\u01b0\u1eddn qu\u1ed1c gia C\u00e1t Ti\u00ean l\u00e0 Di s\u1ea3n thi\u00ean nhi\u00ea",
+    "Matas Group Reports Executive Share Transaction Notification - TradingView",
+    "The S&P 500 has become a big AI bet. Here are some simple alternatives.",
+    "Watch live: Jim Cramer shares his next investing moves for this tough market",
+    "AI stocks climb after trillions wiped from market values",
+    "Why is CoreWeave stock rallying today?",
+    "Iran responds positively to latest mediator proposal - report"
   ]
 }
