@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793955505.1689253,
+  "last_signals": 1793956130.7446284,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -87,13 +87,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793955505.6366272,
+    "Bitcoin|4H:bot": 1793956131.8502476,
     "EUR/USD|4H:bot": 1793954901.4218807,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793912002.9684393,
+    "Bitcoin|1D:bot": 1793956131.850264,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793955498.0778303,
-  "last_news": 1793955505.1679757,
+  "last_analysis": 1793956120.2032397,
+  "last_news": 1793956130.7438972,
   "seen_news": [
-    "Iran Braces for Trump's Next Move After Democrats Sweep Congress",
-    "Unity shares jump on report of takeover interest from Silver Lake, PIF",
-    "BoE Governor Bailey says there is a case for another 25bps hike if war doesn't e",
-    "C\u1ea1m b\u1eaby l\u1eeba \u0111\u1ea3o 'b\u1ee7a v\u00e2y' tr\u1ebb em tr\u00ean kh\u00f4ng gian m\u1ea1ng",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Emerita Provides Update on Falcon Project Litigation - TradingView",
     "Trump says election loss was largely a result of the Iran war",
     "Nhi\u1ec1u nh\u00f3m ph\u01b0\u01a1ng ti\u1ec7n \u0111\u01b0\u1ee3c gi\u1ea3m ph\u00ed \u0111\u0103ng ki\u1ec3m",
     "HAH: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 55,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
@@ -462,6 +456,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
     "Is Trump Media Selling Bitcoin? Democrats Prepare Crypto Probe - TradingView",
     "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
-    "The engine parts that 'fight the laws of the universe'"
+    "The engine parts that 'fight the laws of the universe'",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "Key facts: Record profit at Banco BPM; Barclays cuts target - TradingView",
+    "Tanks or drones? Defense earnings reveal a more complicated rearmament boom",
+    "The Indian workers filming their work to train AI",
+    "Global bonds rally as Tech-equity carnage sparks flight to safety",
+    "Newmont stock breaks out of a two-month downtrend. But buyers have a test to pas"
   ]
 }
