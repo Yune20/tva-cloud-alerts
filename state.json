@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793952119.5295844,
+  "last_signals": 1793952730.8774054,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -132,7 +132,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
     "Bitcoin|4H:bot": 1793952119.9430256,
-    "EUR/USD|4H:bot": 1793289228.5084565,
+    "EUR/USD|4H:bot": 1793952732.0336673,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793952120.0834408,
+    "Ethereum|4H:bot": 1793952731.5411727,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -152,7 +152,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1793195896.713138,
+    "GBP/USD|4H:bot": 1793952731.875265,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793952111.8504794,
-  "last_news": 1793952119.5279517,
+  "last_analysis": 1793952722.2030911,
+  "last_news": 1793952730.8764682,
   "seen_news": [
-    "KEEL Q3'26 Earnings: EPS estimate is (0.09) USD - TradingView",
-    "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 y",
-    "Here's what the Democratic election rout could mean for the U.S. economy",
-    "The Indian workers filming their work to train AI",
-    "Democratic senator demands tech firms, FCC chair turn over documents",
-    "Japan services PMI edges up to 51.7, but composite slips to five-month low as hi",
     "Here's where we stand on Kimberly-Clark shares after a better-than-feared quarte",
     "The grads ditching the UK for a fresh start abroad",
     "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
@@ -462,6 +456,12 @@
     "Asia Hopes U.S. Midterm Results Will Ease Energy Crisis",
     "Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payroll",
     "Australia\u2019s trade surplus jumps to A$2.8 billion, a seven-month high, on LNG and",
-    "T\u0103ng t\u1ed1c thi c\u00f4ng 7 c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng"
+    "T\u0103ng t\u1ed1c thi c\u00f4ng 7 c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng",
+    "Pound rises to its highest level since the Brexit referendum",
+    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
+    "FX option expiries for 6 November 10am New York cut",
+    "T\u0103ng Thanh H\u00e0 tr\u1edf l\u1ea1i m\u00e0n \u1ea3nh sau 13 n\u0103m, ti\u1ebft l\u1ed9 2 \u0111i\u1ec1u mu\u1ed1n bi\u1ebft trong ng\u00e0y th",
+    "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "GBPUSD: Pound Tests $1.35 in Solid Upside Swing, Bank of England Faces a Tough C"
   ]
 }
