@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793971227.047748,
+  "last_signals": 1793971843.9351501,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -88,13 +88,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793972103,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793971227.519953,
+    "Bitcoin|1D:bot": 1793971844.5689752,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793971217.5358891,
-  "last_news": 1793971227.0466127,
+  "last_analysis": 1793971831.8298132,
+  "last_news": 1793971843.934031,
   "seen_news": [
-    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef b\u1ea5t ng\u1edd ph\u00e1t hi\u1ec7n \u201cc\u00e1 m\u1eadp\u201d b\u01a1i gi\u1eefa \u0111\u01b0\u1eddng ph\u1ed1 ng\u1eadp n\u01b0\u1edbc \u1edf M\u1ef9",
-    "Ch\u1ee9ng quy\u1ec1n HPG/MSVN/7M/0326 HOSE: CHPG2645 - VietstockFinance",
-    "Visa Establishes Six Singapore Hubs With 1,500+ Professionals - TradingView",
-    "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take S",
-    "How long will humans be needed for translation?",
-    "Why is Nintendo stock sliding today?",
     "Telsey Advisory Group maintains Dutch Bros at Outperform, lowers price target to",
     "California\u2019s billionaire tax faces defeat, but Democrats plan higher taxes on th",
     "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -462,6 +456,12 @@
     "How do Americans feel about the midterm results? It depends on how much money th",
     "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Mu",
     "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-    "Asia\u2019s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation"
+    "Asia\u2019s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation",
+    "Why Democrats should use their new power to embrace Trump\u2019s tariffs",
+    "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin ",
+    "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
+    "Coloplast down 4% as UBS sees limited upside after guidance cut",
+    "investingLive European news wrap: Markets consolidate ahead of the US NFP report"
   ]
 }
