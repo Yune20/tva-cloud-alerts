@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793987435.190186,
+  "last_signals": 1793988054.6976514,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793987435.8411386,
+    "Bitcoin|4H:bot": 1793988055.449488,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793987436.1297762,
+    "Ethereum|4H:bot": 1793988055.6900542,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -161,15 +161,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793987068.4073527
   },
-  "last_analysis": 1793987425.7063239,
-  "last_news": 1793987435.188623,
+  "last_analysis": 1793988043.7320457,
+  "last_news": 1793988054.696767,
   "seen_news": [
-    "Pound rises to its highest level since the Brexit referendum",
-    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
-    "FX option expiries for 6 November 10am New York cut",
-    "T\u0103ng Thanh H\u00e0 tr\u1edf l\u1ea1i m\u00e0n \u1ea3nh sau 13 n\u0103m, ti\u1ebft l\u1ed9 2 \u0111i\u1ec1u mu\u1ed1n bi\u1ebft trong ng\u00e0y th",
-    "DMX: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "GBPUSD: Pound Tests $1.35 in Solid Upside Swing, Bank of England Faces a Tough C",
     "Japan services PMI edges up to 51.7, but composite slips to five-month low as hi",
     "Mua 5 ch\u1ec9 v\u00e0ng l\u00fac 18 tri\u1ec7u \u0111\u1ed3ng/ch\u1ec9, gi\u1edd b\u00e1n \u0111i c\u00f2n bao nhi\u00eau?",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -463,6 +457,12 @@
     "What\u2019s next for your portfolio after the decline in Big Tech stocks?",
     "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
     "The tech helping crack decades-old cold cases",
-    "Europe stocks drop;  STOXX 600 overtakes S&P 500 in YTD gains"
+    "Europe stocks drop;  STOXX 600 overtakes S&P 500 in YTD gains",
+    "DraftKings\u2019 expensive bet on prediction markets is crushing its stock",
+    "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to bu",
+    "Faisal Islam: How high will interest rates go?",
+    "Risk-off mood sweeps European stocks as AI concerns deepen",
+    "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capa",
+    "Ch\u00e2n dung ng\u01b0\u1eddi Vi\u1ec7t 18 tu\u1ed5i \u0111\u00e3 2 n\u0103m li\u00ean ti\u1ebfp gi\u00e0nh HCV Olympic To\u00e1n qu\u1ed1c t\u1ebf, "
   ]
 }
