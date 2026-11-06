@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793977764.6451218,
+  "last_news_report": 1793988681.7191226,
   "last_bot4": 1793988342.445673,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793988054.6976514,
+  "last_signals": 1793988681.7202573,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -89,13 +89,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793988931,
   "menu_prices": {
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793987068.4073527
+    "US30|1D:bot": 1793988683.101174
   },
-  "last_analysis": 1793988043.7320457,
-  "last_news": 1793988054.696767,
+  "last_analysis": 1793988666.0235746,
+  "last_news": 1793988675.7000577,
   "seen_news": [
-    "Japan services PMI edges up to 51.7, but composite slips to five-month low as hi",
-    "Mua 5 ch\u1ec9 v\u00e0ng l\u00fac 18 tri\u1ec7u \u0111\u1ed3ng/ch\u1ec9, gi\u1edd b\u00e1n \u0111i c\u00f2n bao nhi\u00eau?",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "MJ Gleeson Anticipates Profits To Be Significantly Weighted Towards H2 - Trading",
-    "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 y",
-    "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "IXIC: Nasdaq Seeks Footing After 5.5% Rout, US Stocks Suffer Biggest Wipeout Sin",
     "IRS unveils higher capital gains tax brackets for 2027",
@@ -463,6 +457,12 @@
     "Faisal Islam: How high will interest rates go?",
     "Risk-off mood sweeps European stocks as AI concerns deepen",
     "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capa",
-    "Ch\u00e2n dung ng\u01b0\u1eddi Vi\u1ec7t 18 tu\u1ed5i \u0111\u00e3 2 n\u0103m li\u00ean ti\u1ebfp gi\u00e0nh HCV Olympic To\u00e1n qu\u1ed1c t\u1ebf, "
+    "Ch\u00e2n dung ng\u01b0\u1eddi Vi\u1ec7t 18 tu\u1ed5i \u0111\u00e3 2 n\u0103m li\u00ean ti\u1ebfp gi\u00e0nh HCV Olympic To\u00e1n qu\u1ed1c t\u1ebf, ",
+    "Pound rises to its highest level since the Brexit referendum",
+    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
+    "US presses China to honor Busan trade truce as rare earth shipments fall short.",
+    "Ng\u00e0y 7/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng t\u1ea1i MB, VPBank, Techcombank, Sacombank, SHB, HDBan",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Live Nation Q3 Earnings Beat on Record Attendance and Ticketing Gains - TradingV"
   ]
 }
