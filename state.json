@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793927060.7941754,
+  "last_signals": 1793927711.4367654,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793927061.9508991,
+    "Bitcoin|4H:bot": 1793927712.2239153,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,9 +145,9 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793927062.3004026,
-    "USD/JPY|4H:bot": 1793927063.8858464,
-    "JPY Index|4H:bot": 1793927064.6567717,
+    "Ethereum|4H:bot": 1793927712.5590003,
+    "USD/JPY|4H:bot": 1793927713.6453593,
+    "JPY Index|4H:bot": 1793927714.2068298,
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793912002.9684393,
     "DXY|4H:bot": 1793776186.638589,
@@ -162,15 +162,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793919599.6483164
   },
-  "last_analysis": 1793927053.2601628,
-  "last_news": 1793927060.7932467,
+  "last_analysis": 1793927701.194835,
+  "last_news": 1793927711.4358542,
   "seen_news": [
-    "Fed's Barkin: Gradual pace of hikes \"makes sense\"",
-    "Ng\u01b0\u1eddi EQ th\u1ea5p s\u1ebd l\u00e0m g\u00ec khi nh\u1eadn ra ng\u01b0\u1eddi kh\u00e1c \u0111ang c\u1ed1 t\u00ecnh n\u00f3i m\u00f3c m\u00ecnh?",
-    "CTCP H\u00e0ng ti\u00eau d\u00f9ng Masan (MCH) - VietstockFinance",
-    "Palo Alto Networks Eyes $500 Million AI Security Deal - TradingView",
-    "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,00",
-    "Jim Cramer's top 10 things to watch in the stock market Thursday",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Kce Electronics QTRLY Profit Attributable 484.6 Million Baht - TradingView",
     "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
@@ -464,6 +458,12 @@
     "HAH: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 55,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Vertical Data Closes $4.24 Million Private Placement of Common Stock - TradingVi",
     "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Elon Musk's millions failed to deliver Republican wins in fierce midterms"
+    "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "ADTRAN 3Q 2026: Revenue $281.17M, EPS ($0.1) \u2014 10-Q Summary - TradingView",
+    "Las Vegas Raiders owner Mark Davis says he's 'not a fan' of sports gambling amid",
+    "How video game remakes tap the power of nostalgia",
+    "Oil Rebounds Toward $100 as Democrats\u2019 Sweep Rattles Energy Stocks",
+    "Chinese firms\u2019 profit margins trail global peers as domestic demand stays weak",
+    "Crude oil tests the key confluence area and finds willing buyers"
   ]
 }
