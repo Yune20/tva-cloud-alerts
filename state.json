@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793928903.8100035,
+  "last_signals": 1793929519.006256,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -92,7 +92,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": true,
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793928904.9192953,
+    "Bitcoin|4H:bot": 1793929519.5996017,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -146,8 +146,8 @@
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1793928905.327446,
-    "USD/JPY|4H:bot": 1793928906.850814,
-    "JPY Index|4H:bot": 1793928907.5442526,
+    "USD/JPY|4H:bot": 1793929520.507879,
+    "JPY Index|4H:bot": 1793929520.8594067,
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793912002.9684393,
     "DXY|4H:bot": 1793776186.638589,
@@ -162,15 +162,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793919599.6483164
   },
-  "last_analysis": 1793928893.429958,
-  "last_news": 1793928903.808547,
+  "last_analysis": 1793929511.1566308,
+  "last_news": 1793929519.0054238,
   "seen_news": [
-    "Rainmakers: The drones used to seed clouds",
-    "Butane\u2019s Perfect Storm Sends Prices to Decade Highs",
-    "Norway stocks lower at close of trade; Oslo OBX down 1.27%",
-    "Gold price recovery gathers pace after US midterms but $4,200 remains a major hu",
-    "\u0110i\u1ec7n \u1ea3nh Vi\u1ec7t thi\u1ebfu k\u1ecbch b\u1ea3n \u0111\u1ee7 hay cho c\u00e1c ng\u1ecdc n\u1eef!",
-    "C\u1eadp nh\u1eadt HAH \u2013 KH\u1ea2 QUAN - VietstockFinance",
     "Bitcoin falls with risk off sentiment. The price is testing a key swing area tar",
     "C\u00f4ng ty nu\u00f4i heo b\u00f2 g\u00e0 c\u1ee7a t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long \u0111\u00e3 l\u00e0m g\u00ec v\u1edbi 1.250 t\u1ef7 \u0111\u1ed3ng t\u1eeb ",
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
@@ -464,6 +458,12 @@
     "House Democratic leader Jeffries says will pass bill to stop tariffs and to end ",
     "Nh\u00e0 khoa h\u1ecdc viral kh\u1eafp MXH Vi\u1ec7t Nam l\u00fac n\u00e0y, t\u00e0i s\u1eafc 100 \u0111i\u1ec3m tuy\u1ec7t \u0111\u1ed1i: \"Ng\u1ecdc ",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Japan's Nikkei slumps 5.5% as market rout deepens on AI worries - TradingView"
+    "Japan's Nikkei slumps 5.5% as market rout deepens on AI worries - TradingView",
+    "Food, fuel and taxes \u2013 can the Democrats actually make life cheaper?",
+    "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
+    "Marco Rubio \u2018on resignation watch\u2019 - report",
+    "Grab v\u1eabn h\u00fat t\u00e0i x\u1ebf",
+    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
+    "Evertec President & CEO Sold Shares Worth Over $5M - TradingView"
   ]
 }
