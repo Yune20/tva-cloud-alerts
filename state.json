@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793945898.234987,
+  "last_signals": 1793946517.1611166,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -82,7 +82,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793944625.6252663,
+    "Bitcoin|4H:bot": 1793946517.5851953,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793945890.9160511,
-  "last_news": 1793945898.2340999,
+  "last_analysis": 1793946508.8948715,
+  "last_news": 1793946517.1330907,
   "seen_news": [
-    "Ch\u01b0a \u0111\u1ea7y 3 tu\u1ea7n n\u1eefa, to\u00e0n b\u1ed9 102 tri\u1ec7u ng\u01b0\u1eddi d\u00e2n Vi\u1ec7t Nam \u0111\u00f3n tin vui",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "What Dutch Bros (BROS) Said on Its Q3 Earnings Call - TradingView",
-    "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day ",
-    "The October jobs report is out Friday. Here's everything to expect",
-    "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
     "Major tech stocks plunge as US midterms add to fears of AI slowdown",
     "India to Require State Utilities to Add Energy Storage Capacity",
     "Sterling today: Pound flat as BoE hikes 25 bps, dollar steadies before payrolls",
@@ -462,6 +456,12 @@
     "Interest rates hiked to 4% in first increase in over three years",
     "JGB yields plunge to July lows as Wall St tech tout sparks haven rush",
     "Bank of England raises the Bank Rate to 4.00% as expected in a 9-0 vote",
-    "X\u1eed ph\u1ea1t \u0110\u1ea7u t\u01b0 \u0110\u1ee9c Trung"
+    "X\u1eed ph\u1ea1t \u0110\u1ea7u t\u01b0 \u0110\u1ee9c Trung",
+    "Rainmakers: The drones used to seed clouds",
+    "Citi sees dollar weakening against yen after U.S. midterms",
+    "US October ADP employment +86K vs +65K expected",
+    "NSND t\u1eebng l\u00e0 m\u1ef9 nh\u00e2n m\u00e0n \u1ea3nh s\u1edf h\u1eefu \"\u0111\u00f4i m\u1eaft bi\u1ebft n\u00f3i\", nh\u1eadn l\u01b0\u01a1ng h\u01b0u 6 tri\u1ec7u \u0111",
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "Oil prices rise amid US-Iran tension concerns after midterm elections - TradingV"
   ]
 }
