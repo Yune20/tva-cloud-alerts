@@ -29,11 +29,11 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793936328.7572265,
+  "last_signals": 1793936932.873122,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
-    "5575146754|Gold|1H|trap_dn": 1793382712.2491884,
+    "5575146754|Gold|1H|trap_dn": 1793936932.873122,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
     "5575146754|Gold|4H|dbot": 1793578983.4717197,
     "5575146754|Gold|1D|dn": 1793596081.9416704,
@@ -87,7 +87,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -162,15 +162,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793919599.6483164
   },
-  "last_analysis": 1793936320.0672736,
-  "last_news": 1793936328.756449,
+  "last_analysis": 1793936924.1568258,
+  "last_news": 1793936932.8720903,
   "seen_news": [
-    "Kimberly-Clark Q3 Earnings Beat on Lower Interest Costs, Sales Miss - TradingVie",
-    "HSA-eligible health plans in 2027: What to know about tax savings vs. higher ded",
-    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "US and Turkmenistan Explore New Gas Routes Across the Caspian",
-    "Costa Rica\u2019s Grynspan extends lead in informal UN chief poll, sources say",
-    "Memory names getting smoked: Micron breaks the July low in 12% drop",
     "Canva announces major job cuts after 'our hardest year yet'",
     "Gathering AI storm clouds doom tech stocks to darkest day in a year",
     "Macro pulse: Wall Street's post-election rally reveals a curious divergence",
@@ -464,6 +458,12 @@
     "TPS mi\u1ec5n nhi\u1ec7m T\u1ed5ng Gi\u00e1m \u0111\u1ed1c",
     "Ch\u1ee9ng quy\u1ec1n VRE/MSVN/7M/0126 HOSE: CVRE2614 - VietstockFinance",
     "Expanding Brazil Coffee Exports Weigh on Arabica Prices - TradingView",
-    "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s"
+    "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
+    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef b\u1ea5t ng\u1edd ph\u00e1t hi\u1ec7n \u201cc\u00e1 m\u1eadp\u201d b\u01a1i gi\u1eefa \u0111\u01b0\u1eddng ph\u1ed1 ng\u1eadp n\u01b0\u1edbc \u1edf M\u1ef9",
+    "Ch\u1ee9ng quy\u1ec1n HPG/MSVN/7M/0326 HOSE: CHPG2645 - VietstockFinance",
+    "Visa Establishes Six Singapore Hubs With 1,500+ Professionals - TradingView",
+    "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take S",
+    "How long will humans be needed for translation?",
+    "Why is Nintendo stock sliding today?"
   ]
 }
