@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793954900.3333652,
+  "last_signals": 1793955505.1689253,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -84,7 +84,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793954900.800641,
+    "Bitcoin|4H:bot": 1793955505.6366272,
     "EUR/USD|4H:bot": 1793954901.4218807,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793954893.2848535,
-  "last_news": 1793954900.3316612,
+  "last_analysis": 1793955498.0778303,
+  "last_news": 1793955505.1679757,
   "seen_news": [
-    "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
-    "investingLive Americas market news wrap: Oil crushed as Republicans blame war fo",
-    "TPHCM ch\u1ed1t th\u1eddi gian kh\u1edfi c\u00f4ng d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i 110ha",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "LightPath Technologies, Inc. (LPTH) Completes Sale of China Operations - Trading",
-    "Costco is taking aim at its May record high \u2014 how it got here and where's it goi",
     "Iran Braces for Trump's Next Move After Democrats Sweep Congress",
     "Unity shares jump on report of takeover interest from Silver Lake, PIF",
     "BoE Governor Bailey says there is a case for another 25bps hike if war doesn't e",
@@ -462,6 +456,12 @@
     "FTSE 100 today: Stocks slump as global tech rout deepens",
     "US initial jobless claims 189K vs 196K estimate",
     "\u0110\u01b0\u1ee3c Google tin t\u01b0\u1edfng c\u1ea5p ch\u1ee9ng nh\u1eadn, nh\u00e0 s\u1ea3n xu\u1ea5t Trung Qu\u1ed1c l\u1ea1i c\u00e0i c\u1eeda h\u1eadu v\u00e0",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina"
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
+    "US Q3 productivity +3.6% vs +2.8% expected",
+    "Gi\u00e1 v\u00e0ng r\u1eddi \u0111\u1ec9nh, ng\u01b0\u1eddi H\u00e0 N\u1ed9i \u0111ang mua- b\u00e1n th\u1ebf n\u00e0o?",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
+    "Is Trump Media Selling Bitcoin? Democrats Prepare Crypto Probe - TradingView",
+    "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+    "The engine parts that 'fight the laws of the universe'"
   ]
 }
