@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793978370.904501,
+  "last_signals": 1793978982.7695148,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -66,7 +66,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -81,21 +81,21 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "USD/JPY|1D": true,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793979244,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793978371.4518747,
+    "Bitcoin|4H:bot": 1793978983.302467,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793978371.6367702,
+    "Ethereum|4H:bot": 1793978983.4540803,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793978371.8214834
+    "US30|1D:bot": 1793978983.6305907
   },
-  "last_analysis": 1793978362.0169795,
-  "last_news": 1793978370.9035923,
+  "last_analysis": 1793978974.8645852,
+  "last_news": 1793978982.7686307,
   "seen_news": [
-    "B\u1ed9 tr\u01b0\u1edfng T\u00e0i ch\u00ednh n\u00eau c\u0103n c\u1ee9 x\u00e1c \u0111\u1ecbnh \u0111\u1ea5t b\u1ecf hoang \u0111\u1ec3 \u0111\u00e1nh thu\u1ebf",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
-    "What ACI Worldwide (ACIW) Said on Its Q3 Earnings Call - TradingView",
-    "India as an AI hedge? The country's stocks could see robust inflows as markets g",
-    "Welsh aviation firm AerFin bought in \u00a3475m deal",
-    "Batteries Are Taking the Gas Peaker\u2019s Best Hours",
     "Krispy Kreme Q3 Earnings Call Highlights - TradingView",
     "IRS announces new federal income tax brackets for 2027",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
@@ -463,6 +457,12 @@
     "Watch live: Jim Cramer shares his next investing moves for this tough market",
     "AI stocks climb after trillions wiped from market values",
     "Why is CoreWeave stock rallying today?",
-    "Iran responds positively to latest mediator proposal - report"
+    "Iran responds positively to latest mediator proposal - report",
+    "USD moves higher after the US jobs report. What levels are in play now?",
+    "B\u00e1o Nga: Th\u1ee9 kh\u00e1c th\u00ec kh\u00f4ng n\u00f3i, sao \u0111\u1ebfn c\u1ea3 \"th\u1ebf m\u1ea1nh t\u1ef1 h\u00e0o\" c\u1ee7a ch\u00fang ta gi\u1edd c",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
+    "Ubiquiti Reports Record $1.03 Billion Revenue, Diluted EPS of $5.29 - TradingVie",
+    "These three stars need to align before investors rush back into stocks, Bank of ",
+    "Family offices boost startup investments in October, backing women's health and "
   ]
 }
