@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793941566.2980995,
+  "last_signals": 1793942176.8390477,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -42,7 +42,6 @@
     "5575146754|Gold|1D|range_in": 1793854837.1009996,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793834513.1100059,
-    "5575146754|Gold|1D|tbot": 1793337118.585362,
     "5575146754|Gold|1D|dbot": 1793337739.603389,
     "5575146754|Gold|4H|dn": 1793435505.1491673,
     "5575146754|Gold|4H|trap_dn": 1793575577.0920541,
@@ -94,7 +93,7 @@
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -162,15 +161,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793941557.4724543,
-  "last_news": 1793941566.297303,
+  "last_analysis": 1793942170.0144944,
+  "last_news": 1793942176.837877,
   "seen_news": [
-    "Vi\u1ec7t Nam c\u00f3 m\u1ed9t t\u1ef7 ph\u00fa sang qu\u1ed1c gia s\u1edf h\u1eefu m\u1ecf v\u00e0ng h\u00e0ng \u0111\u1ea7u th\u1ebf gi\u1edbi, ph\u1ea3i \u0111i q",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "Leerink Partners maintains Progyny at Outperform, raises price target to $38 fro",
-    "My 93-year-old father changed his will at the 11th hour, leaving my brother his ",
-    "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since",
-    "'Quiet quitting' could be hitting the economy - here's why",
     "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
     "Goldman Sachs sees USD/CNH entry opportunity on policy move",
     "Solana rallies as Republicans' midterm loss raises hopes of US-Iran war ending",
@@ -464,6 +457,12 @@
     "Centre Planning to Use Component Scheme to Feed Chip Ecosystem - TradingView",
     "The 2027 tax brackets are out. See what the standard deduction and SALT tax brea",
     "Top Democrats call to rein in AI buildout after midterms sweep: 'National data c",
-    "Australia's oldest department store David Jones folds after 188 years"
+    "Australia's oldest department store David Jones folds after 188 years",
+    "How oil-rich Alberta's economy might fare if it broke away from Canada",
+    "Dollar little changed as oil prices bounce, payrolls eyed",
+    "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support",
+    "N\u1eef NSND, ti\u1ebfn s\u0129 SN 1945: \"C\u00f3 nh\u1eefng th\u00e1ng ng\u00e0y s\u1ee9c kh\u1ecfe bu\u1ed9c t\u00f4i ph\u1ea3i d\u1eebng l\u1ea1i\"",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
+    "Kelly Services declares $0.075 dividend - TradingView"
   ]
 }
