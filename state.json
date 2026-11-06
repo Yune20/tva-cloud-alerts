@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793972809.99194,
+  "last_signals": 1793973424.7248073,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -88,13 +88,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793973685,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793972810.8979156,
+    "Bitcoin|1D:bot": 1793973425.7262216,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793972800.012425,
-  "last_news": 1793972809.990527,
+  "last_analysis": 1793973412.972082,
+  "last_news": 1793973424.7239587,
   "seen_news": [
-    "Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI ro",
-    "Memory names getting smoked: Micron breaks the July low in 12% drop",
-    "C\u00f4ng an ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 s\u1ed1 C\u0103n c\u01b0\u1edbc c\u1ee7a ng\u01b0\u1eddi d\u00e2n",
-    "FPT: CTCP FPT - FPT Corp - VietstockFinance",
-    "Lam Research declares $0.33 dividend - TradingView",
-    "What Wall Street billionaires are saying about Democrats' midterm sweep",
     "VPBankS d\u1ef1 ki\u1ebfn ph\u00e1t h\u00e0nh h\u01a1n 843 tri\u1ec7u c\u1ed5 phi\u1ebfu th\u01b0\u1edfng",
     "Ch\u1ee9ng quy\u1ec1n VNM/MSVN/10M/0226 HOSE: CVNM2628 - VietstockFinance",
     "Samvat 2083: How much gold and silver should your portfolio hold? - TradingView",
@@ -462,6 +456,12 @@
     "Pasqal Holding Q3 2026 Earnings Call Is Live - TradingView",
     "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge Califo",
     "'The whole landscape changed': Gaming CEOs see new opportunities post-midterms",
-    "UK and EU agree draft deal to scrap Brexit red tape over food exports"
+    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "BetterLife Pharma Inc. (BETR) Settles Director's $2M Claim - TradingView",
+    "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what",
+    "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying'",
+    "Canva announces major job cuts after 'our hardest year yet'",
+    "Tesla to pull the plug on Cybertruck after years of poor sales",
+    "Nasdaq analysis after yesterday's crash: Is this the dip investors have been wai"
   ]
 }
