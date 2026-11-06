@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793985853.769152,
+  "last_signals": 1793986465.0030816,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -89,13 +89,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793986725,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793985854.3621728,
+    "Bitcoin|4H:bot": 1793986465.835416,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,11 +143,11 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793985854.5361974,
+    "Ethereum|4H:bot": 1793986466.2082355,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793985854.3621895,
+    "Bitcoin|1D:bot": 1793986465.835428,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793985854.7315433
+    "US30|1D:bot": 1793986466.5339553
   },
-  "last_analysis": 1793985841.894437,
-  "last_news": 1793985853.7683268,
+  "last_analysis": 1793986455.2618306,
+  "last_news": 1793986465.0022655,
   "seen_news": [
-    "The Global Oil Glut Returns as High Prices Crush Demand",
-    "JGB yields plunge to June lows as Wall St tech tout sparks haven rush",
-    "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
-    "Bunker nghi ch\u1ee9a c\u1ea3 tr\u0103m qu\u00e2n Ukraine ph\u00e1t n\u1ed5 sau v\u00e0i gi\u00e2y - Ph\u01b0\u01a1ng T\u00e2y b\u00e1o \u0111\u1ed9ng",
-    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Extra Space Storage Inc. (EXR) Declares $1.62 Per-Share Dividend - TradingView",
     "investingLive Asia-Pacific market news: Gold rocketed higher still",
     "X\u1eed l\u00fd sai ph\u1ea1m t\u1ea1i 12 d\u1ef1 \u00e1n M\u01b0\u1eddng Thanh: Vi an to\u00e0n l\u00e2u d\u00e0i cho ng\u01b0\u1eddi d\u00e2n",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -463,6 +457,12 @@
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "Why is Revolution Medicines stock surging today?",
     "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into earl",
-    "C\u1ea3nh b\u00e1o th\u1ee7 \u0111o\u1ea1n gi\u1ea3 c\u00e1n b\u1ed9 \u0111\u1ecba ch\u00ednh, d\u1ee5 ng\u01b0\u1eddi d\u00e2n vay ti\u1ec1n qua app ng\u00e2n h\u00e0ng"
+    "C\u1ea3nh b\u00e1o th\u1ee7 \u0111o\u1ea1n gi\u1ea3 c\u00e1n b\u1ed9 \u0111\u1ecba ch\u00ednh, d\u1ee5 ng\u01b0\u1eddi d\u00e2n vay ti\u1ec1n qua app ng\u00e2n h\u00e0ng",
+    "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
+    "Why is Ubiquiti stock surging today?",
+    "Bitcoin testing a key support target.  What needs to happen to give buyers some ",
+    "M\u1ed9t \"\u0111\u1ea1i gia\" d\u1ea7u kh\u00ed b\u1ea5t ng\u1edd n\u00e2ng k\u1ebf ho\u1ea1ch l\u1ee3i nhu\u1eadn g\u1ea5p 9 l\u1ea7n, l\u00e3i qu\u00fd 4 s\u1ebd g\u00e2",
+    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
+    "Data center boom faces new political roadblocks - TradingView"
   ]
 }
