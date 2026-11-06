@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793967382.8696954,
+  "last_signals": 1793967980.9227276,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793967383.5876794,
+    "Bitcoin|1D:bot": 1793967981.8908567,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -161,14 +161,8 @@
     "USOIL|1D:bot": 1793941567.0572085
   },
   "last_analysis": 1793967687.55734,
-  "last_news": 1793967379.9373775,
+  "last_news": 1793967980.9219306,
   "seen_news": [
-    "Corn Fading Lower at Midday - TradingView",
-    "Inside India newsletter: India weighs a tax cut to win over foreign investors. W",
-    "Poundland owner in crunch talks as retailer's collapse looms",
-    "U.S. Refineries Make Dramatic Shift Away From Gasoline",
-    "Trump-backed World Liberty Financial launches WLFI token buyback program",
-    "Europe Close: AI and chip liquidation drags equities lower in US, but Europe is ",
     "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispie",
     "Turkey Unveils $500 Billion Energy Plan Built on Gas, Solar, Nuclear",
     "Johnson & Johnson wins FDA approval for Rybrevant cancer treatment",
@@ -462,6 +456,12 @@
     "Lo\u00e0i c\u00e2y gi\u00fap ng\u01b0\u1eddi d\u00e2n duy tr\u00ec ngh\u1ec1 truy\u1ec1n th\u1ed1ng, qu\u1ea3 d\u00f9ng l\u00e0m thu\u1ed1c trong \u0110\u00f4ng",
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "The schisms between Indonesia's president and his popular predecessor - TradingV",
-    "Chip stocks are the cheapest they\u2019ve been in nearly seven years. How low is too "
+    "Chip stocks are the cheapest they\u2019ve been in nearly seven years. How low is too ",
+    "Khoe b\u1ee5ng ph\u1eb3ng l\u1ef3 sau sinh, \u00c1 H\u1eadu Vi\u1ec7t Nam g\u00e2y cho\u00e1ng v\u1edbi m\u00e0n \"l\u1ea5y d\u00e1ng\" th\u1ea7n t",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Orexo AB (publ) (ORX) Shareholders Approve Rights Issue - TradingView",
+    "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just ",
+    "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+    "Elon Musk's millions failed to deliver Republican wins in fierce midterms"
   ]
 }
