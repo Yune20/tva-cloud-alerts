@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793966714.6745782,
-  "last_bot4": 1793968970.6064699,
+  "last_bot4": 1793969645.3340693,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793968311.375264
+    "Gold": 1793969645.3339443
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793968970.6070323,
+  "last_signals": 1793969645.3348076,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793968971.0183215,
+    "Bitcoin|1D:bot": 1793969646.142552,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793968961.1050062,
-  "last_news": 1793968970.6058214,
+  "last_analysis": 1793969629.7670274,
+  "last_news": 1793969641.8134718,
   "seen_news": [
-    "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin ",
-    "Global tech stocks plunge as US midterms add to AI slowdown fears",
-    "Iran Opens Strait of Hormuz to China and India as U.S. Blockade Continues",
-    "Why is TSMC stock plunging today?",
-    "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
-    "H\u00e0 N\u1ed9i: Hi\u1ec7n tr\u1ea1ng \u0111\u01b0\u1eddng Tam Trinh tr\u01b0\u1edbc h\u1ea1n th\u00f4ng xe k\u1ef9 thu\u1eadt 31/12",
     "Wall Street rallies after Democrats win Congress; data center stocks slide - Tra",
     "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
     "Trump's energy deals are about to face a wave of investigations by Democrats",
@@ -462,6 +456,12 @@
     "Could CRISPR cure rare diseases before birth? Scientists are getting closer",
     "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispie",
     "Oil Prices Plunge as U.S. Elections Shake Up the Iran War",
-    "Why is Axon Enterprise stock sliding today?"
+    "Why is Axon Enterprise stock sliding today?",
+    "HSA-eligible health plans in 2027: What to know about tax savings vs. higher ded",
+    "PM tells firms to publish salaries in job adverts ahead of new law",
+    "Israel\u2019s Election Dispute Escalates Amid Claims of Foreign Interference",
+    "Why is Natera stock tumbling today?",
+    "Europe Close: AI and chip liquidation drags equities lower in US, but Europe is ",
+    "M\u1ef9 gi\u00e1ng \u0111\u00f2n tr\u1eebng ph\u1ea1t v\u00e0o c\u00e1 nh\u00e2n, c\u00f4ng ty \u0111\u1ee9ng sau \u1ed5 l\u1eeba \u0111\u1ea3o t\u1ea1i Campuchia"
   ]
 }
