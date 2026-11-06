@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793981494.4905217,
+  "last_signals": 1793982112.1322377,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -87,13 +87,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793981495.137084,
+    "Bitcoin|4H:bot": 1793982112.7534997,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793981495.3479588,
+    "Ethereum|4H:bot": 1793982112.9334857,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793981495.544938
+    "US30|1D:bot": 1793982113.125951
   },
-  "last_analysis": 1793981485.8053658,
-  "last_news": 1793981494.4895773,
+  "last_analysis": 1793982103.5522544,
+  "last_news": 1793982112.13114,
   "seen_news": [
-    "FRIDAY-SUNDAY WHITE HOUSE SCHEDULE - President Trump travels to Cape Canaveral -",
-    "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day ",
-    "The October jobs report is out Friday. Here's everything to expect",
-    "The AI telling farmers when to harvest",
-    "AI boom turns chip packaging into the next battleground for semiconductors",
-    "investingLive European session wrap: Stocks rebound, gold soars as dollar tumble",
     "HP, ASUS b\u1ea5t ng\u1edd \u0111\u01b0a d\u00e2y chuy\u1ec1n s\u1ea3n xu\u1ea5t PC tr\u1edf l\u1ea1i Trung Qu\u1ed1c, chi\u1ebfn l\u01b0\u1ee3c r\u1eddi b",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Sabio Holdings Inc. (SBIO) Director Matt Hull Resigns - TradingView",
@@ -463,6 +457,12 @@
     "Broader US stock indices bounce higher but still has work to do to give buyers m",
     "M\u1edf r\u1ed9ng 'l\u00e1 ch\u1eafn' b\u1ea3o v\u1ec7 giao d\u1ecbch t\u00e0i ch\u00ednh s\u1ed1",
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "REG - Raspberry Pi Hldgs - Confirmation of Directorate Change + Grant of LTIP - "
+    "REG - Raspberry Pi Hldgs - Confirmation of Directorate Change + Grant of LTIP - ",
+    "Xlence Becomes Official Internationalization Partner of 1. FSV Mainz 05 in Asia",
+    "Ti\u1ebfc cho Steven Nguy\u1ec5n",
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "REG - Citadel Group Intertek Group Plc - Form 8.3 - Intertek Group plc - Trading",
+    "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
+    "Data center double-down: Hassett says blue wave won't stop AI build-out"
   ]
 }
