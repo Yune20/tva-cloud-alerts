@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793978982.7695148,
+  "last_signals": 1793979604.681687,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -81,10 +81,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793978983.4540803,
+    "Ethereum|4H:bot": 1793979605.2901099,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793978983.6305907
+    "US30|1D:bot": 1793979605.5075834
   },
-  "last_analysis": 1793978974.8645852,
-  "last_news": 1793978982.7686307,
+  "last_analysis": 1793979595.8805757,
+  "last_news": 1793979604.680857,
   "seen_news": [
-    "Krispy Kreme Q3 Earnings Call Highlights - TradingView",
-    "IRS announces new federal income tax brackets for 2027",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
-    "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hike",
-    "Magnificent 7: What are the technicals telling traders for each of those compani",
     "Three ways the interest rate rise could affect you",
     "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
     "HSBC sees Democratic midterm strength weighing on dollar near-term",
@@ -463,6 +457,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
     "Ubiquiti Reports Record $1.03 Billion Revenue, Diluted EPS of $5.29 - TradingVie",
     "These three stars need to align before investors rush back into stocks, Bank of ",
-    "Family offices boost startup investments in October, backing women's health and "
+    "Family offices boost startup investments in October, backing women's health and ",
+    "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y - TradingView",
+    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
+    "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balan",
+    "Welsh aviation firm AerFin bought in \u00a3475m deal",
+    "Energy Aspects Slashes Forecast of China\u2019s November Diesel Exports",
+    "Moody\u2019s lifts Genmab outlook to positive on pipeline progress, debt reduction"
   ]
 }
