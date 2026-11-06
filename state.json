@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793985240.1975825,
+  "last_signals": 1793985853.769152,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -89,13 +89,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793986113,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793985241.414224,
+    "Bitcoin|4H:bot": 1793985854.3621728,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,11 +143,11 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793985241.826232,
+    "Ethereum|4H:bot": 1793985854.5361974,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793985241.4142368,
+    "Bitcoin|1D:bot": 1793985854.3621895,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793985242.2035904
+    "US30|1D:bot": 1793985854.7315433
   },
-  "last_analysis": 1793985228.780975,
-  "last_news": 1793985237.3399806,
+  "last_analysis": 1793985841.894437,
+  "last_news": 1793985853.7683268,
   "seen_news": [
-    "Japan stocks lower at close of trade; Nikkei 225 down 6.04%",
-    "Nasdaq 100 suffers worst day since 2020",
-    "R\u00e0 so\u00e1t ph\u01b0\u01a1ng \u00e1n, \u0111i\u1ec1u ki\u1ec7n c\u1ea7n thi\u1ebft \u0111\u01b0a s\u00e2n bay Long Th\u00e0nh khai th\u00e1c tr\u01b0\u1edbc 31",
-    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
-    "Cemindia Projects Q2 2027 Earnings Call Is Live - TradingView",
-    "The 'World's Best Airline' is updating its business and first-class experience",
     "The Global Oil Glut Returns as High Prices Crush Demand",
     "JGB yields plunge to June lows as Wall St tech tout sparks haven rush",
     "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
@@ -463,6 +457,12 @@
     "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
     "Mining giant joins fight to stop killer toad march across Australia",
     "Norway\u2019s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
-    "Tesla winds down Cybertruck production as Musk shifts focus to robotaxis"
+    "Tesla winds down Cybertruck production as Musk shifts focus to robotaxis",
+    "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
+    "Watch live: Cramer's views on every Club stock. 1 to buy now and others to consi",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Why is Revolution Medicines stock surging today?",
+    "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into earl",
+    "C\u1ea3nh b\u00e1o th\u1ee7 \u0111o\u1ea1n gi\u1ea3 c\u00e1n b\u1ed9 \u0111\u1ecba ch\u00ednh, d\u1ee5 ng\u01b0\u1eddi d\u00e2n vay ti\u1ec1n qua app ng\u00e2n h\u00e0ng"
   ]
 }
