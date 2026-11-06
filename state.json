@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793922705.4774313,
-  "last_bot4": 1793925169.4721718,
+  "last_bot4": 1793925835.8288956,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1793924536.950197
+    "Gold": 1793925835.828812
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793925469.683107,
+  "last_signals": 1793925835.829542,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793924244.2882543,
     "5575146754|Gold|4H|range_in": 1793710755.1886625,
@@ -89,12 +89,12 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": true
@@ -133,7 +133,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793182118.405191,
-    "Bitcoin|4H:bot": 1793925470.3034563,
+    "Bitcoin|4H:bot": 1793925836.5701337,
     "EUR/USD|4H:bot": 1793289228.5084565,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -145,9 +145,9 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793925470.5264466,
-    "USD/JPY|4H:bot": 1793925471.2970414,
-    "JPY Index|4H:bot": 1793925471.7097986,
+    "Ethereum|4H:bot": 1793925836.8492045,
+    "USD/JPY|4H:bot": 1793925837.9030666,
+    "JPY Index|4H:bot": 1793925838.3325408,
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1793912002.9684393,
     "DXY|4H:bot": 1793776186.638589,
@@ -162,15 +162,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793919599.6483164
   },
-  "last_analysis": 1793925169.471032,
-  "last_news": 1793925469.6822412,
+  "last_analysis": 1793925824.2761893,
+  "last_news": 1793925833.1846707,
   "seen_news": [
-    "How do Americans feel about the midterm results? It depends on how much money th",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "How long will humans be needed for translation?",
-    "Iran Braces for Trump's Next Move After Democrats Sweep Congress",
-    "Nasdaq extends opening slide to over 2% amid post-midterms rotation out of chips",
-    "BoE Governor Bailey says there is a case for another 25bps hike if war doesn't e",
     "FPT: CTCP FPT - FPT Corp - VietstockFinance",
     "Novavax boosts 2026 revenue forecast as licensing deals pay off - TradingView",
     "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge Califo",
@@ -464,6 +458,12 @@
     "The engine parts that 'fight the laws of the universe'",
     "IEEFA: $67.8 Billion in Asian LNG Power Projects Scrapped or Stalled",
     "This FX trade is the best hedge for the AI drawdown: Goldman",
-    "Morning Kickstart: BOE hikes to 4% as sterling struggles to hold its gains"
+    "Morning Kickstart: BOE hikes to 4% as sterling struggles to hold its gains",
+    "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
+    "investingLive Americas market news wrap: Oil crushed as Republicans blame war fo",
+    "TPHCM ch\u1ed1t th\u1eddi gian kh\u1edfi c\u00f4ng d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i 110ha",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "LightPath Technologies, Inc. (LPTH) Completes Sale of China Operations - Trading",
+    "Costco is taking aim at its May record high \u2014 how it got here and where's it goi"
   ]
 }
