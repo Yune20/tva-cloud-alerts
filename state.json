@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1793966714.6745782,
+  "last_news_report": 1793977764.6451218,
   "last_bot4": 1793977433.5680733,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793977143.676872,
+  "last_signals": 1793977764.6464033,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793953972.1587229,
+    "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -66,7 +66,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -87,15 +87,15 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1793978021,
   "menu_prices": {
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793957358.6885517,
+    "Ethereum|4H:bot": 1793977765.4529912,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793977134.7863626,
-  "last_news": 1793977143.6761937,
+  "last_analysis": 1793977751.749705,
+  "last_news": 1793977759.9358165,
   "seen_news": [
-    "The market is waiting for signals from Donald Trump",
-    "C\u00f4ng an ki\u1ec3m tra t\u1ea1i b\u1ec7nh vi\u1ec7n l\u00fac 00 gi\u1edd 40 ph\u00fat, b\u1eaft qu\u1ea3 tang L\u00e0i V\u0103n Quang SN",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Brilliant Earth Group Q3 Earnings Call Highlights - TradingView",
-    "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midter",
-    "'Quiet quitting' could be hitting the economy - here's why",
     "Goldman Sachs sees USD/CNH entry opportunity on policy move",
     "US September international trade balance -105.0B vs -108.0B expected",
     "Vi\u1ec7n d\u01b0\u1ee1ng l\u00e3o l\u00e0 \"thi\u00ean \u0111\u01b0\u1eddng h\u1ea1 gi\u1edbi\" c\u1ee7a ng\u01b0\u1eddi gi\u00e0: Gi\u00e1 3 tri\u1ec7u/th\u00e1ng v\u1eabn ng\u00e0",
@@ -462,6 +456,12 @@
     "M\u1ed9t ch\u1ec9 b\u00e1o kinh t\u1ebf M\u1ef9 b\u1ea5t ng\u1edd t\u0103ng g\u1ea5p g\u1ea7n 3 l\u1ea7n d\u1ef1 b\u00e1o, x\u00e1c su\u1ea5t Fed t\u0103ng l\u00e3i ",
     "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
     "MADE in America is Great Again; SMX has the Proof - TradingView",
-    "Trump\u2019s Iran war has changed the future of Social Security"
+    "Trump\u2019s Iran war has changed the future of Social Security",
+    "A long-term Elon Musk backer is cashing out of Tesla \u2014 and cutting its SpaceX ex",
+    "Australia's oldest department store David Jones folds after 188 years",
+    "Trump\u2019s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
+    "Dollar little changed as oil prices bounce, payrolls eyed",
+    "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
+    "\u0110\u1ed3ng Nai s\u1ebd \u0111\u1ec1 ngh\u1ecb UNESCO c\u00f4ng nh\u1eadn V\u01b0\u1eddn qu\u1ed1c gia C\u00e1t Ti\u00ean l\u00e0 Di s\u1ea3n thi\u00ean nhi\u00ea"
   ]
 }
