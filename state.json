@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793980827.137129,
+  "last_signals": 1793981494.4905217,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -86,16 +86,16 @@
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1793981753,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793980827.6302679,
+    "Bitcoin|4H:bot": 1793981495.137084,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -143,7 +143,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1793980827.8127906,
+    "Ethereum|4H:bot": 1793981495.3479588,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -159,17 +159,11 @@
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085,
-    "US30|1D:bot": 1793980828.0314133
+    "US30|1D:bot": 1793981495.544938
   },
-  "last_analysis": 1793980819.3933086,
-  "last_news": 1793980827.1361275,
+  "last_analysis": 1793981485.8053658,
+  "last_news": 1793981494.4895773,
   "seen_news": [
-    "Rainmakers: The drones used to seed clouds",
-    "Citi sees dollar weakening against yen after U.S. midterms",
-    "US October ADP employment +86K vs +65K expected",
-    "NSND t\u1eebng l\u00e0 m\u1ef9 nh\u00e2n m\u00e0n \u1ea3nh s\u1edf h\u1eefu \"\u0111\u00f4i m\u1eaft bi\u1ebft n\u00f3i\", nh\u1eadn l\u01b0\u01a1ng h\u01b0u 6 tri\u1ec7u \u0111",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "Oil prices rise amid US-Iran tension concerns after midterm elections - TradingV",
     "FRIDAY-SUNDAY WHITE HOUSE SCHEDULE - President Trump travels to Cape Canaveral -",
     "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day ",
     "The October jobs report is out Friday. Here's everything to expect",
@@ -463,6 +457,12 @@
     "Magnificent 7: What are the technicals telling traders for each of those compani",
     "B\u1eaft giang h\u1ed3 m\u1ea1ng Hi\u1ec7p \u201c\u0111en\u201d n\u1ed5i ti\u1ebfng tr\u00ean TikTok: Kh\u00e1m x\u00e9t kh\u00e1ch s\u1ea1n H\u1ed3ng H\u1ea1nh",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Citizens maintains Lemonade at Market Outperform, lowers price target to $75 fro"
+    "Citizens maintains Lemonade at Market Outperform, lowers price target to $75 fro",
+    "Interest rates hiked to 4% in first increase in over three years",
+    "Greece stocks lower at close of trade; Athens General Composite down 2.22%",
+    "Broader US stock indices bounce higher but still has work to do to give buyers m",
+    "M\u1edf r\u1ed9ng 'l\u00e1 ch\u1eafn' b\u1ea3o v\u1ec7 giao d\u1ecbch t\u00e0i ch\u00ednh s\u1ed1",
+    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "REG - Raspberry Pi Hldgs - Confirmation of Directorate Change + Grant of LTIP - "
   ]
 }
