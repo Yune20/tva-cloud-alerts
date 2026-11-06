@@ -1,6 +1,6 @@
 {
   "last_news_report": 1793944917.881561,
-  "last_bot4": 1793954279.032811,
+  "last_bot4": 1793954900.3326318,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793954574.6601865,
+  "last_signals": 1793954900.3333652,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -130,9 +130,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1793954575.9244998,
-    "Bitcoin|4H:bot": 1793954575.087581,
-    "EUR/USD|4H:bot": 1793954575.6424346,
+    "DXY|4H:top": 1793954901.7379038,
+    "Bitcoin|4H:bot": 1793954900.800641,
+    "EUR/USD|4H:bot": 1793954901.4218807,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793954276.5686731,
-  "last_news": 1793954574.6595318,
+  "last_analysis": 1793954893.2848535,
+  "last_news": 1793954900.3316612,
   "seen_news": [
-    "Moelis (NYSE:MC) misses Q3 2026 revenue estimates - TradingView",
-    "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
-    "The engine parts that 'fight the laws of the universe'",
-    "IEEFA: $67.8 Billion in Asian LNG Power Projects Scrapped or Stalled",
-    "This FX trade is the best hedge for the AI drawdown: Goldman",
-    "Morning Kickstart: BOE hikes to 4% as sterling struggles to hold its gains",
     "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
     "investingLive Americas market news wrap: Oil crushed as Republicans blame war fo",
     "TPHCM ch\u1ed1t th\u1eddi gian kh\u1edfi c\u00f4ng d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i 110ha",
@@ -462,6 +456,12 @@
     "'An annoying buzz': The search for stealthier drones",
     "Indonesia stocks higher at close of trade; IDX Composite Index up 0.18%",
     "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
-    "C\u01a1 quan Thu\u1ebf th\u00f4ng b\u00e1o: Ng\u01b0\u1eddi n\u1ed9p thu\u1ebf c\u1ea7n ki\u1ec3m tra ngay th\u00f4ng tin sau tr\u00ean eTax"
+    "C\u01a1 quan Thu\u1ebf th\u00f4ng b\u00e1o: Ng\u01b0\u1eddi n\u1ed9p thu\u1ebf c\u1ea7n ki\u1ec3m tra ngay th\u00f4ng tin sau tr\u00ean eTax",
+    "'I was asked if I was a crier': Your worst job interviews revealed",
+    "China\u2019s Carbon Emissions Plunge 3.1% as Oil Demand Slumps",
+    "FTSE 100 today: Stocks slump as global tech rout deepens",
+    "US initial jobless claims 189K vs 196K estimate",
+    "\u0110\u01b0\u1ee3c Google tin t\u01b0\u1edfng c\u1ea5p ch\u1ee9ng nh\u1eadn, nh\u00e0 s\u1ea3n xu\u1ea5t Trung Qu\u1ed1c l\u1ea1i c\u00e0i c\u1eeda h\u1eadu v\u00e0",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina"
   ]
 }
