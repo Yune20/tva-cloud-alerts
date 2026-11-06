@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1793975900.894068,
+  "last_signals": 1793976529.0802195,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793953972.1587229,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -88,13 +88,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1793976784,
@@ -131,7 +131,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1793954901.7379038,
-    "Bitcoin|4H:bot": 1793975901.5043778,
+    "Bitcoin|4H:bot": 1793976530.1641052,
     "EUR/USD|4H:bot": 1793968971.5806692,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -147,7 +147,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1793973425.7262216,
+    "Bitcoin|1D:bot": 1793976530.164125,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -160,15 +160,9 @@
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1793941567.0572085
   },
-  "last_analysis": 1793975891.2538588,
-  "last_news": 1793975900.8930893,
+  "last_analysis": 1793976518.856548,
+  "last_news": 1793976529.0790725,
   "seen_news": [
-    "NSND l\u00e0 \"n\u1eef ho\u00e0ng \u1ea3nh l\u1ecbch\", nguy\u00ean ph\u00f3 gi\u00e1m \u0111\u1ed1c nh\u00e0 h\u00e1t, s\u1ed1ng vi\u00ean m\u00e3n v\u1edbi l\u01b0\u01a1n",
-    "Ch\u1ee9ng quy\u1ec1n VNM/MSVN/7M/0126 HOSE: CVNM2627 - VietstockFinance",
-    "Centre Planning to Use Component Scheme to Feed Chip Ecosystem - TradingView",
-    "The 2027 tax brackets are out. See what the standard deduction and SALT tax brea",
-    "Top Democrats call to rein in AI buildout after midterms sweep: 'National data c",
-    "Australia's oldest department store David Jones folds after 188 years",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "Dollar little changed as oil prices bounce, payrolls eyed",
     "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support",
@@ -462,6 +456,12 @@
     "M\u1edf th\u1ea7u g\u00f3i t\u01b0 v\u1ea5n g\u1ea7n 10.800 t\u1ef7 d\u1ef1 \u00e1n \u0111\u01b0\u1eddng s\u1eaft t\u1ed1c \u0111\u1ed9 cao B\u1eafc - Nam",
     "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins - TradingV",
-    "A record number of first-time home buyers now pay in cash. Here\u2019s where they get"
+    "A record number of first-time home buyers now pay in cash. Here\u2019s where they get",
+    "Drivers may get compensation offers before car finance saga ends",
+    "Europe's Grid Spending Is Up 155% Since 2019",
+    "Trump administration scraps meeting of panel that includes Meta\u2019s Zuckerberg, Nv",
+    "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on h",
+    "Chi\u1ebfc ca nh\u1ef1a gi\u00e1 60 ngh\u00ecn \u0111\u1ed3ng trong bi\u1ec7t th\u1ef1 50 t\u1ef7 c\u1ee7a Ng\u1ecdc Trinh",
+    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
