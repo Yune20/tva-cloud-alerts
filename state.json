@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794059569.7695093,
+  "last_signals": 1794060175.1705616,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794059573.0250294,
+    "DXY|4H:top": 1794060177.0706527,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794059572.3138242,
+    "EUR/USD|4H:bot": 1794060176.4369643,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794059571.9867175,
+    "GBP/USD|4H:bot": 1794060176.2524953,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794059562.707046,
-  "last_news": 1794059569.7687774,
+  "last_analysis": 1794060165.3744602,
+  "last_news": 1794060175.0864606,
   "seen_news": [
-    "Energy Reliability Is Becoming More Important Than Energy Politics",
-    "Fed's Daly: Jobs report is good news",
-    "Kinh nghi\u1ec7m qu\u1ed1c t\u1ebf t\u1eeb si\u00eau t\u1ed5 h\u1ee3p th\u1ec3 thao \u0111\u00f3ng vai tr\u00f2 h\u1ea1t nh\u00e2n trong t\u00e1i ph\u00e1t",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
-    "DTE Energy Gas Unit Reports $176 Million Nine-Month Net Income - TradingView",
-    "AI crush is powering one stock to sky-high valuations",
     "ARYZTA AG (ARYN) Announces Upcoming CFO Departure - TradingView",
     "My adviser recommended an annuity. Is it the right move in this market environme",
     "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
@@ -460,6 +454,12 @@
     "Cosm rides premium moviegoing wave with more immersive screenings and a wider li",
     "Why the US midterms sparked an AI stock selloff",
     "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-    "Berkshire Hathaway steps up buybacks as operating profit falls"
+    "Berkshire Hathaway steps up buybacks as operating profit falls",
+    "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+    "Will this week's blue wave election usher in a Democratic president in 2028?",
+    "'I was asked if I was a crier': Your worst job interviews revealed",
+    "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
+    "Marco Rubio \u2018on resignation watch\u2019 - report",
+    "\"M\u1ea5t gh\u1ebf\" Gi\u00e1m \u0111\u1ed1c v\u00ec 1 quy\u1ebft \u0111\u1ecbnh, ng\u01b0\u1eddi ph\u1ee5 n\u1eef quy\u1ebft quay l\u1ea1i mua c\u1ea3 c\u00f4ng ty"
   ]
 }
