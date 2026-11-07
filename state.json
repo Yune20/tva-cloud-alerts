@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794070232.360386,
+  "last_signals": 1794070844.1395829,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794070233.7012494,
+    "DXY|4H:top": 1794070848.1583822,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794070233.3893943,
+    "EUR/USD|4H:bot": 1794070847.3096468,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794070233.2582939,
+    "GBP/USD|4H:bot": 1794070846.8373709,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794070223.4912965,
-  "last_news": 1794070232.3596172,
+  "last_analysis": 1794070835.2891111,
+  "last_news": 1794070844.138759,
   "seen_news": [
-    "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
-    "Democrats planning flood of AI bills when they take control of Congress",
-    "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth conc",
-    "Qu\u00e1 kh\u1ee9 16 n\u0103m tr\u01b0\u1edbc c\u1ee7a \u00f4ng tr\u00f9m \u0110i\u1ec1n Qu\u00e2n SN 1984",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "StepStone Group Q2 Earnings Call Highlights - TradingView",
     "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
     "What Runway Growth Finance (RWAY) Said on Its Q3 Earnings Call - TradingView",
     "Trump says U.S. carried out \u2018minor strikes\u2019 on Iran as missiles hit Qeshm Island",
@@ -460,6 +454,12 @@
     "What is the distribution of forecasts for the US NFP?",
     "M\u00f9a thu \u0111\u00f4ng \u0103n c\u00e1 g\u00ec v\u1eeba ngon v\u1eeba nh\u1eb9 b\u1ee5ng?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
-    "Key facts: Bitcoin below $76,000; mixed ETF flows; no bottom signal - TradingVie"
+    "Key facts: Bitcoin below $76,000; mixed ETF flows; no bottom signal - TradingVie",
+    "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
+    "Hai phi h\u00e0nh gia \u0111i b\u1ed9 ngo\u00e0i kh\u00f4ng gian g\u1ea7n 7 gi\u1edd \u0111\u1ec3 l\u1eafp pin M\u1eb7t Tr\u1eddi",
+    "GEX: CTCP T\u1eadp \u0111o\u00e0n GELEX - T\u1eadp \u0111o\u00e0n GELEX - VietstockFinance",
+    "RPM International CEO Frank C. Sullivan Plans to Retire - TradingView",
+    "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
+    "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost"
   ]
 }
