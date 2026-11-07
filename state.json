@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794027122.7637117,
+  "last_signals": 1794027736.115773,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1793977764.6464033,
+    "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|4H|tbot": 1793578365.4179883,
@@ -64,7 +64,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -128,9 +128,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794027124.4205503,
+    "DXY|4H:top": 1794027739.1953301,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794027123.9508505,
+    "EUR/USD|4H:bot": 1794027738.571222,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -150,7 +150,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794027123.7909405,
+    "GBP/USD|4H:bot": 1794027738.2549934,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -159,15 +159,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794027114.6936142,
-  "last_news": 1794027122.7597563,
+  "last_analysis": 1794027726.1167216,
+  "last_news": 1794027736.11484,
   "seen_news": [
-    "European stocks fall into the weekend as Wall Street rebounds",
-    "B\u1ea7u \u0110\u1ee9c th\u00f4ng b\u00e1o tin vui l\u1edbn",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "RBC Capital maintains Albemarle at Outperform, lowers price target to $119 from ",
-    "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
-    "AI crush is powering one stock to sky-high valuations",
     "\u0110\u00e0 N\u1eb5ng th\u00fac ti\u1ebfn \u0111\u1ed9 si\u00eau d\u1ef1 \u00e1n g\u1ea7n 189 ha, v\u1ed1n g\u1ea7n 19.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a \u0110\u1ea1i Quang",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "DNP: Deflation restrained sales and margins as rapid store expansion continued -",
@@ -461,6 +455,12 @@
     "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to bu",
     "Faisal Islam: How high will interest rates go?",
     "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capa",
-    "C\u00e2u h\u1ecfi khi\u1ebfn di\u1ec5n vi\u00ean Vi\u1ec7t Anh d\u1eebng ch\u00e2n t\u1ea1i Ai L\u00e0 Tri\u1ec7u Ph\u00fa"
+    "C\u00e2u h\u1ecfi khi\u1ebfn di\u1ec5n vi\u00ean Vi\u1ec7t Anh d\u1eebng ch\u00e2n t\u1ea1i Ai L\u00e0 Tri\u1ec7u Ph\u00fa",
+    "Macquarie maintains Klaviyo at Neutral, raises price target to $23 from $19 - Tr",
+    "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. ",
+    "Pound rises to its highest level since the Brexit referendum",
+    "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
+    "US presses China to honor Busan trade truce as rare earth shipments fall short.",
+    "B\u1eaft t\u1ea1m giam L\u00ea Thanh L\u1ee3i SN 1994 \u0111\u1ec3 \u0111i\u1ec1u tra v\u1ec1 s\u1ed1 t\u00e0i s\u1ea3n tr\u1ecb gi\u00e1 450.000.000 "
   ]
 }
