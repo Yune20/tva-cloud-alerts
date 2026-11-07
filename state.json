@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794060900.8451717,
-  "last_bot4": 1794067725.3347719,
+  "last_bot4": 1794068408.3671732,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794068045.4636137,
+  "last_signals": 1794068408.3680992,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794068047.1646724,
+    "DXY|4H:top": 1794068409.996783,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794068046.7901921,
+    "EUR/USD|4H:bot": 1794068409.5970635,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794068046.5808501,
+    "GBP/USD|4H:bot": 1794068409.4220712,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794068037.4526837,
-  "last_news": 1794068045.4627695,
+  "last_analysis": 1794068400.281295,
+  "last_news": 1794068408.3662634,
   "seen_news": [
-    "Israel\u2019s Election Dispute Escalates Amid Claims of Foreign Interference",
-    "Goldman raises global data center capacity forecast to 273 GW by 2030",
-    "Gi\u00e1 nh\u01b0 Ronaldo d\u1eebng l\u1ea1i s\u1edbm h\u01a1n th\u00ec m\u1ecdi th\u1ee9 s\u1ebd kh\u00f4ng d\u1edf dang th\u1ebf n\u00e0y!",
-    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
-    "Avery Dennison Director Sold Shares Worth Over $775K - TradingView",
-    "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
     "Nam sinh \u0111i xe bu\u00fdt nh\u1eadn iPhone 17, g\u00f3p \u00fd n\u00e2ng cao ch\u1ea5t l\u01b0\u1ee3ng",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
     "Key facts: Rightmove cuts 2026 growth forecasts; UK buyer demand falls 10% - Tra",
@@ -460,6 +454,12 @@
     "Trump chief of staff Susie Wiles to be replaced by Stephen Miller",
     "Qu\u00e1 \u0111\u00e1ng y\u00eau, clip b\u1ed1 l\u1ebdo \u0111\u1ebdo theo sau con g\u00e1i 15 th\u00e1ng tu\u1ed5i \u0111ang d\u1ed7i g\u00e2y s\u1ed1t",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Solana Price Struggles Below $90: Is a Bullish Reversal Taking Shape? - TradingV"
+    "Solana Price Struggles Below $90: Is a Bullish Reversal Taking Shape? - TradingV",
+    "R\u1ee6I RO H\u1ea0 NHI\u1ec6T, TH\u1eca TR\u01af\u1edcNG CH\u1edc \u0110\u1ed8NG L\u1ef0C - VietstockFinance",
+    "TBC Bank Group Q3 Earnings Call Highlights - TradingView",
+    "My 93-year-old father changed his will at the 11th hour, leaving my brother his ",
+    "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+    "PM tells firms to publish salaries in job adverts ahead of new law",
+    "Oil Prices Plunge as U.S. Elections Shake Up the Iran War"
   ]
 }
