@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794082581.172169,
-  "last_bot4": 1794089329.0476196,
+  "last_bot4": 1794090006.0136402,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794089646.8181243,
+  "last_signals": 1794090006.0143807,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794089648.242847,
+    "DXY|4H:top": 1794090007.5398912,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794089647.934826,
+    "EUR/USD|4H:bot": 1794090007.1836987,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794089647.792726,
+    "GBP/USD|4H:bot": 1794090007.0204964,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794089639.0049798,
-  "last_news": 1794089646.817288,
+  "last_analysis": 1794089999.104292,
+  "last_news": 1794090006.012538,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
-    "Macquarie initiates coverage of Take-Two Interactive at Outperform, sets price t",
-    "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 sel",
-    "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
-    "Asda hires ex-Morrisons boss in bid to grow firm",
-    "Energy Reliability Is Becoming More Important Than Energy Politics",
     "T\u1eeb 30 \u0111\u1ebfn 39 tu\u1ed5i, t\u00f4i \u0111\u00e3 thay \u0111\u1ed5i 7 \u0111i\u1ec1u n\u00e0y: Kh\u00f4ng gi\u00e0u c\u00f3 v\u01b0\u1ee3t b\u1eadc nh\u01b0ng cu\u1ed9c",
     "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Palo Alto Networks extends losses to eighth straight session - TradingView",
@@ -460,6 +454,12 @@
     "The market is telling the hyperscalers it's happy about a slower data center bui",
     "H\u00e0 N\u1ed9i ch\u1ec9 \u0111\u1ea1o kh\u1ea9n v\u1ee5 th\u1ecbt l\u1ee3n nh\u0169n b\u1edf 'do l\u1ee3n stress' \u1edf tr\u01b0\u1eddng m\u1ea7m non",
     "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
-    "What Moderna (MRNA) Said on Its Q3 Earnings Call - TradingView"
+    "What Moderna (MRNA) Said on Its Q3 Earnings Call - TradingView",
+    "Marco Rubio \u2018on resignation watch\u2019 - report",
+    "Nh\u00e0 h\u00e0ng Subeo v\u1eeba \u0111\u00f3n k\u1ef7 ni\u1ec7m: Gi\u00e1 kho\u1ea3ng 1 tri\u1ec7u/ ng\u01b0\u1eddi, n\u1eb1m tr\u00ean n\u00f3c kh\u00e1ch s\u1ea1",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Key facts: McGlone sees $10K; JPMorgan 10%; Schiff urges sales - TradingView",
+    "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+    "Berkshire shares surge as Wall Street swoons amid AI fears"
   ]
 }
