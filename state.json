@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794010238.7983375,
+  "last_signals": 1794010907.3058474,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,9 +129,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794010242.7227805,
+    "DXY|4H:top": 1794010910.0726607,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794010241.9582784,
+    "EUR/USD|4H:bot": 1794010909.3917332,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -151,7 +151,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794010241.5673585,
+    "GBP/USD|4H:bot": 1794010909.1407924,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794010228.7278476,
-  "last_news": 1794010238.7975612,
+  "last_analysis": 1794010897.8925855,
+  "last_news": 1794010907.3049624,
   "seen_news": [
-    "Graduates are managing AI - but are they learning much else?",
-    "A New Middle East Power Struggle Is Taking Shape in the Red Sea",
-    "Why is Oklo stock surging today?",
-    "AUDUSD sellers have pushed to the lowest level since mid-October. What next?",
-    "B\u1ecb sa th\u1ea3i, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng chi 103.773 t\u1ef7 \u0111\u1ed3ng mua l\u1ea1i ch\u00ednh c\u00f4ng ty t\u1eebng \u0111u\u1ed5i m\u00ec",
-    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
     "What is the distribution of forecasts for the US NFP?",
     "Ph\u00e1t hi\u1ec7n t\u00e0u ch\u1edf h\u00e0ng d\u00e0i 300 m ch\u1ea1y b\u1eb1ng amoniac xanh, chu\u1ea9n b\u1ecb v\u01b0\u1ee3t h\u01a1n 5.000",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
@@ -462,6 +456,12 @@
     "Zcash resists crypto market selloff as network upgrade goes live. What's next?",
     "T\u1eebng ngh\u00e8o \u0111\u1ebfn m\u1ee9c ph\u1ea3i d\u1ecdn b\u1ec3 ph\u1ed1t 7 ng\u00e0y/tu\u1ea7n \u0111\u1ec3 l\u1ea5y ti\u1ec1n \u0103n, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng tr",
     "R\u1ee6I RO H\u1ea0 NHI\u1ec6T, TH\u1eca TR\u01af\u1edcNG CH\u1edc \u0110\u1ed8NG L\u1ef0C - VietstockFinance",
-    "Vale: Iron ore scale underpins copper growth ambitions and disciplined investmen"
+    "Vale: Iron ore scale underpins copper growth ambitions and disciplined investmen",
+    "US-Iran uncertainty keeps the downside in oil limited as markets await further d",
+    "Xu\u1ea5t hi\u1ec7n chuy\u1ebfn bay th\u1ef1c hi\u1ec7n b\u1edfi \"chuy\u00ean c\u01a1\" b\u00ed \u1ea9n tr\u00ean b\u1ea7u tr\u1eddi Nga, ch\u1edf theo",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
+    "Tesla and SpaceX Shed $456 Billion, Elon Musk Loses Nearly $80 Billion in a Day ",
+    "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+    "PM tells firms to publish salaries in job adverts ahead of new law"
   ]
 }
