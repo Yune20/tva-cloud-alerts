@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794028946.1802187,
+  "last_signals": 1794029550.7463682,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -70,7 +70,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -128,9 +128,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794028947.4868789,
+    "DXY|4H:top": 1794029553.2458785,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794028947.195685,
+    "EUR/USD|4H:bot": 1794029552.73701,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -150,7 +150,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794028947.0456758,
+    "GBP/USD|4H:bot": 1794029552.4840696,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,14 +160,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794029244.8011093,
-  "last_news": 1794028945.8492432,
+  "last_news": 1794029550.745681,
   "seen_news": [
-    "'I was asked if I was a crier': Your worst job interviews revealed",
-    "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News ",
-    "Marco Rubio \u2018on resignation watch\u2019 - report",
-    "Vi\u1ec7t Nam \u0111\u00f3n '\u0111\u1ea1i b\u00e0ng' c\u00f4ng ngh\u1ec7 H\u00e0n Qu\u1ed1c r\u00f3t g\u1ea7n 4 t\u1ef7 USD x\u00e2y t\u1ed5 h\u1ee3p s\u1ea3n xu\u1ea5t ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
-    "Trump administration scraps meeting of high-profile tech panel - TradingView",
     "Energy Reliability Is Becoming More Important Than Energy Politics",
     "OpenAI will keep investing in data centers despite results of midterms - CFO",
     "Fed's Daly: Jobs report is good news",
@@ -461,6 +455,12 @@
     "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost",
     "Asda hires ex-Morrisons boss in bid to grow firm",
     "European stocks fall into the weekend as Wall Street rebounds",
-    "Ph\u1ea1t 1,5 t\u1ef7 \u0111\u1ed3ng, c\u1ea5m giao d\u1ecbch 2 n\u0103m v\u00ec thao t\u00fang c\u1ed5 phi\u1ebfu"
+    "Ph\u1ea1t 1,5 t\u1ef7 \u0111\u1ed3ng, c\u1ea5m giao d\u1ecbch 2 n\u0103m v\u00ec thao t\u00fang c\u1ed5 phi\u1ebfu",
+    "Why the US midterms sparked an AI stock selloff",
+    "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+    "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
+    "B\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i Vi\u1ec7t Nam th\u00f4ng tin quan tr\u1ecdng v\u1ec1 l\u01b0\u01a1ng h\u01b0u",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "IXIC: Nasdaq Seeks Footing After 5.5% Rout, US Stocks Suffer Biggest Wipeout Sin"
   ]
 }
