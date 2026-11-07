@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794060900.8462038,
+  "last_signals": 1794061498.8250604,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794060902.7176998,
+    "DXY|4H:top": 1794061500.5629451,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794060902.3530219,
+    "EUR/USD|4H:bot": 1794061500.23907,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794060902.189279,
+    "GBP/USD|4H:bot": 1794061499.9619155,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -159,14 +159,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794061200.4446259,
-  "last_news": 1794060895.824701,
+  "last_news": 1794061498.824382,
   "seen_news": [
-    "The Indian workers filming their work to train AI",
-    "H\u00e9 l\u1ed9 t\u00edn hi\u1ec7u h\u1ea1 nhi\u1ec7t c\u0103ng th\u1eb3ng Trung \u0110\u00f4ng sau b\u1ea7u c\u1eed M\u1ef9",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Canaccord Genuity maintains Blend Labs at Buy, lowers price target to $2 from $3",
-    "A disturbing employment trend is hiding beneath the latest strong job numbers",
-    "'My mortgage is going up \u00a3200': How rising interest rates are hitting people's p",
     "Food bank to close amid rising costs",
     "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
     "Eurozone retail sales fall 0.7% in September, signalling weakening consumer dema",
@@ -460,6 +454,12 @@
     "Palo Alto Networks extends losses to eighth straight session - TradingView",
     "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
     "The engine parts that 'fight the laws of the universe'",
-    "Poland\u2019s Domanski blames presidential vetoes as S&P cuts outlook to negative"
+    "Poland\u2019s Domanski blames presidential vetoes as S&P cuts outlook to negative",
+    "Drilling Tools International Q3 Earnings Call Highlights - TradingView",
+    "Democrat shaping AI policy bought chip stocks despite backing congressional trad",
+    "'An annoying buzz': The search for stealthier drones",
+    "Trump signals Iran peace progress as Hormuz attacks threaten talks",
+    "Fed's Daly: Jobs report is good news",
+    "Ca s\u0129 Vi\u1ec7t v\u1eeba \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi: 9 n\u0103m ch\u1eadt v\u1eadt t\u00ecm s\u1ef1 c\u00f4ng nh\u1eadn, nh"
   ]
 }
