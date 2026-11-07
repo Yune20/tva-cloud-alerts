@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794028047.9110339,
-  "last_bot4": 1794028051.2966769,
+  "last_bot4": 1794028945.8499413,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794028348.7653613,
+  "last_signals": 1794028946.1802187,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -87,13 +87,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794029335,
   "menu_prices": {
@@ -128,9 +128,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794028350.3964636,
+    "DXY|4H:top": 1794028947.4868789,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794028350.0770075,
+    "EUR/USD|4H:bot": 1794028947.195685,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -150,7 +150,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794028349.8929708,
+    "GBP/USD|4H:bot": 1794028947.0456758,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,14 +160,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794028648.587861,
-  "last_news": 1794028348.764501,
+  "last_news": 1794028945.8492432,
   "seen_news": [
-    "IXIC: Nasdaq Seeks Footing After 5.5% Rout, US Stocks Suffer Biggest Wipeout Sin",
-    "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 sel",
-    "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-    "Why the US midterms sparked an AI stock selloff",
-    "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-    "Apple\u2019s autocomplete restrictions include \u2019Dictator Trump\u2019 and \u2019Sleepy Joe,\u2019 res",
     "'I was asked if I was a crier': Your worst job interviews revealed",
     "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News ",
     "Marco Rubio \u2018on resignation watch\u2019 - report",
@@ -461,6 +455,12 @@
     "Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?",
     "M\u1edf c\u01a1 ch\u1ebf \u0111\u1eb7c th\u00f9, d\u1ef1 \u00e1n du l\u1ecbch 30.000 t\u1ef7 \u0111\u01b0\u1ee3c \u0111\u1ec1 xu\u1ea5t mi\u1ec5n thu\u1ebf 4 n\u0103m",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "What Moderna (MRNA) Said on Its Q3 Earnings Call - TradingView"
+    "What Moderna (MRNA) Said on Its Q3 Earnings Call - TradingView",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Macquarie initiates coverage of Take-Two Interactive at Outperform, sets price t",
+    "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost",
+    "Asda hires ex-Morrisons boss in bid to grow firm",
+    "European stocks fall into the weekend as Wall Street rebounds",
+    "Ph\u1ea1t 1,5 t\u1ef7 \u0111\u1ed3ng, c\u1ea5m giao d\u1ecbch 2 n\u0103m v\u00ec thao t\u00fang c\u1ed5 phi\u1ebfu"
   ]
 }
