@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794058966.0004234,
+  "last_signals": 1794059569.7695093,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794058968.2675772,
+    "DXY|4H:top": 1794059573.0250294,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794058967.797812,
+    "EUR/USD|4H:bot": 1794059572.3138242,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794058967.5788999,
+    "GBP/USD|4H:bot": 1794059571.9867175,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794058957.1974225,
-  "last_news": 1794058965.9995542,
+  "last_analysis": 1794059562.707046,
+  "last_news": 1794059569.7687774,
   "seen_news": [
-    "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 sel",
-    "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-    "'I was asked if I was a crier': Your worst job interviews revealed",
-    "Marco Rubio \u2018on resignation watch\u2019 - report",
-    "VN-Index m\u1ea5t g\u1ea7n 1%, chuy\u00ean gia khuy\u1ebfn ngh\u1ecb g\u00ec cho nh\u00e0 \u0111\u1ea7u t\u01b0?",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Energy Reliability Is Becoming More Important Than Energy Politics",
     "Fed's Daly: Jobs report is good news",
     "Kinh nghi\u1ec7m qu\u1ed1c t\u1ebf t\u1eeb si\u00eau t\u1ed5 h\u1ee3p th\u1ec3 thao \u0111\u00f3ng vai tr\u00f2 h\u1ea1t nh\u00e2n trong t\u00e1i ph\u00e1t",
@@ -460,6 +454,12 @@
     "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "What Moderna (MRNA) Said on Its Q3 Earnings Call - TradingView",
     "The AI trade is now counting on Anthropic\u2019s IPO \u2014 but it couldn\u2019t be happening a",
-    "America doesn't like socialism. So why are socialists winning?"
+    "America doesn't like socialism. So why are socialists winning?",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "IXIC: Nasdaq Seeks Footing After 5.5% Rout, US Stocks Suffer Biggest Wipeout Sin",
+    "Cosm rides premium moviegoing wave with more immersive screenings and a wider li",
+    "Why the US midterms sparked an AI stock selloff",
+    "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+    "Berkshire Hathaway steps up buybacks as operating profit falls"
   ]
 }
