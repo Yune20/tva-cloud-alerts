@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794006286.0727482,
-  "last_bot4": 1794013647.5586252,
+  "last_bot4": 1794014377.948776,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794013959.3630223,
+  "last_signals": 1794014377.9493186,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,9 +129,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794013960.7123005,
+    "DXY|4H:top": 1794014381.319317,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794013960.427235,
+    "EUR/USD|4H:bot": 1794014380.650294,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -151,7 +151,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794013960.2867086,
+    "GBP/USD|4H:bot": 1794014380.2944343,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794013951.4039464,
-  "last_news": 1794013959.3621356,
+  "last_analysis": 1794014370.2745254,
+  "last_news": 1794014377.947889,
   "seen_news": [
-    "BetterLife Pharma Inc. (BETR) Settles Director's $2M Claim - TradingView",
-    "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what",
-    "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying'",
-    "Canva announces major job cuts after 'our hardest year yet'",
-    "Tesla to pull the plug on Cybertruck after years of poor sales",
-    "Nasdaq analysis after yesterday's crash: Is this the dip investors have been wai",
     "Wall Street's fear gauge may be flashing a buy sign",
     "How video game remakes tap the power of nostalgia",
     "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
@@ -462,6 +456,12 @@
     "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
     "Poundland owner in crunch talks as retailer's collapse looms",
     "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
-    "Democrats planning flood of AI bills when they take control of Congress"
+    "Democrats planning flood of AI bills when they take control of Congress",
+    "Non-farm payrolls preview: October numbers show a skew",
+    "Xu\u1ea5t hi\u1ec7n trai \u0111\u1eb9p lai Vi\u1ec7t - M\u1ef9 SN 2004 v\u1eeba ra s\u00e2n \u0111\u00e3 g\u00e2y s\u1ed1t, d\u00e2n t\u00ecnh li\u1ec1n r\u00e9",
+    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
+    "Jones Trading maintains Relay Therapeutics at Buy, raises price target to $31 fr",
+    "'The whole landscape changed': Gaming CEOs see new opportunities post-midterms",
+    "UK and EU agree draft deal to scrap Brexit red tape over food exports"
   ]
 }
