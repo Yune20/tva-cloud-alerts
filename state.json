@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794010907.3058474,
+  "last_signals": 1794011553.3116305,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,9 +129,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794010910.0726607,
+    "DXY|4H:top": 1794011566.7040358,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794010909.3917332,
+    "EUR/USD|4H:bot": 1794011564.1591578,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -151,7 +151,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794010909.1407924,
+    "GBP/USD|4H:bot": 1794011562.927905,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794010897.8925855,
-  "last_news": 1794010907.3049624,
+  "last_analysis": 1794011537.108992,
+  "last_news": 1794011553.3107736,
   "seen_news": [
-    "What is the distribution of forecasts for the US NFP?",
-    "Ph\u00e1t hi\u1ec7n t\u00e0u ch\u1edf h\u00e0ng d\u00e0i 300 m ch\u1ea1y b\u1eb1ng amoniac xanh, chu\u1ea9n b\u1ecb v\u01b0\u1ee3t h\u01a1n 5.000",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
-    "Wall Street rallies after Democrats win Congress; data center stocks slide - Tra",
-    "How to buy a new car for under $30,000 in this economy",
-    "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market ",
     "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
     "Stocks tumble as AI panic sweeps markets, bonds draw haven demand - TradingView",
     "How do Americans feel about the midterm results? It depends on how much money th",
@@ -462,6 +456,12 @@
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
     "Tesla and SpaceX Shed $456 Billion, Elon Musk Loses Nearly $80 Billion in a Day ",
     "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
-    "PM tells firms to publish salaries in job adverts ahead of new law"
+    "PM tells firms to publish salaries in job adverts ahead of new law",
+    "CTD: CTCP X\u00e2y d\u1ef1ng Coteccons - COTECCONS - VietstockFinance",
+    "Avery Dennison Director Sold Shares Worth Over $775K - TradingView",
+    "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data ce",
+    "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "Israel\u2019s Election Dispute Escalates Amid Claims of Foreign Interference",
+    "Goldman raises global data center capacity forecast to 273 GW by 2030"
   ]
 }
