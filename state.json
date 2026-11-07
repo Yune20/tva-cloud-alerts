@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794081363.3453083,
+  "last_signals": 1794081972.0869112,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794081365.9774055,
+    "DXY|4H:top": 1794081973.4902666,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794081365.4426608,
+    "EUR/USD|4H:bot": 1794081973.2103715,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794081365.141332,
+    "GBP/USD|4H:bot": 1794081973.048851,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794081355.763484,
-  "last_news": 1794081363.3446012,
+  "last_analysis": 1794081963.0729086,
+  "last_news": 1794081972.0860796,
   "seen_news": [
-    "T\u00e0i s\u1ea3n l\u1edbn nh\u1ea5t c\u1ee7a Kh\u00e1nh Thi - Phan Hi\u1ec3n",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "Light AI Inc. (ALGO) Director and Chief Innovation Officer Resigns - TradingView",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Three ways the interest rate rise could affect you",
-    "IEA Sees 4,800 GW of New Renewables by 2031",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "William Blair downgrades Nerdwallet to Market Perform from Outperform - TradingV",
     "What the Democratic midterms sweep changes for U.S.-China relations",
@@ -460,6 +454,12 @@
     "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
     "Fox completes $22B purchase of Roku (update) - TradingView",
     "Here are the 2027 capital-gains tax rates for each income level",
-    "Top Democrats call to rein in AI buildout after midterms sweep: 'National data c"
+    "Top Democrats call to rein in AI buildout after midterms sweep: 'National data c",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
+    "CORRECTION: Vertical Data Closes $4.24 Million Private Placement of Common Stock",
+    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
+    "Data center double-down: Hassett says blue wave won't stop AI build-out",
+    "Interest rates hiked to 4% in first increase in over three years",
+    "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production"
   ]
 }
