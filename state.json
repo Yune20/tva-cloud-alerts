@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794048760.6629472,
+  "last_signals": 1794049365.7771451,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794048762.3602417,
+    "DXY|4H:top": 1794049368.2596931,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794048761.9810734,
+    "EUR/USD|4H:bot": 1794049367.6843448,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794048761.807503,
+    "GBP/USD|4H:bot": 1794049367.4203238,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794048753.3157659,
-  "last_news": 1794048760.6620336,
+  "last_analysis": 1794049358.3318727,
+  "last_news": 1794049365.6800802,
   "seen_news": [
-    "\u0110\u1ed5i m\u1edbi m\u00f4 h\u00ecnh ph\u00e1t tri\u1ec3n, t\u00ecm \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng m\u1edbi cho \u0111\u00f4 th\u1ecb Vi\u1ec7t Nam",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Light AI Inc. (ALGO) Director and Chief Innovation Officer Resigns - TradingView",
-    "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Energy Aspects Slashes Forecast of China\u2019s November Diesel Exports",
     "CORRECTION: Vertical Data Closes $4.24 Million Private Placement of Common Stock",
     "Stock market after midterm elections: What S&P 500 history shows",
     "Interest rates hiked to 4% in first increase in over three years",
@@ -460,6 +454,12 @@
     "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
     "V\u1ee5 ph\u00f3ng t\u00e0u Artemis II t\u1ea1o l\u1ed7 h\u1ed5ng trong kh\u00ed quy\u1ec3n, l\u00e0m sai l\u1ec7ch \u0111\u1ecbnh v\u1ecb GPS",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
-    "Jewellers expect fall in gold prices to boost Dhantera sales - TradingView"
+    "Jewellers expect fall in gold prices to boost Dhantera sales - TradingView",
+    "Iran responds positively to latest mediator proposal - report",
+    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam, kh\u00e1m x\u00e9t n\u01a1i \u1edf c\u1ee7a \u0110\u1ed7 Th\u1ecb Ng\u1ecdc Nguy\u00ean 63 tu\u1ed5i",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "Orexo AB (publ) (ORX) Shareholders Approve Rights Issue - TradingView",
+    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
+    "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-of"
   ]
 }
