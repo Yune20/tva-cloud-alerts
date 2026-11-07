@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794023377.919047,
+  "last_signals": 1794023728.9014685,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -74,7 +74,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -129,9 +129,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794023380.058484,
+    "DXY|4H:top": 1794023732.0505793,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794023379.6296325,
+    "EUR/USD|4H:bot": 1794023731.348436,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -151,7 +151,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794023379.401192,
+    "GBP/USD|4H:bot": 1794023731.0169625,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794023369.3661492,
-  "last_news": 1794023377.9178526,
+  "last_analysis": 1794023720.3229334,
+  "last_news": 1794023728.9007952,
   "seen_news": [
-    "GEE: CTCP C\u00f4ng nghi\u1ec7p Gelex - GELEX Industries.,JSC - VietstockFinance",
-    "Akamai jumps as CIS outlook shows momentum - TradingView",
-    "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-    "Mining giant joins fight to stop killer toad march across Australia",
-    "Norway\u2019s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
-    "Tesla winds down Cybertruck production as Musk shifts focus to robotaxis",
     "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
     "Watch live: Cramer's views on every Club stock. 1 to buy now and others to consi",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
@@ -462,6 +456,12 @@
     "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
     "From scooters to shampoo - the people saving hundreds from dumpster diving",
     "BOJ chief Ueda sees \u2019some upside risks\u2019 to inflation",
-    "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI sellof"
+    "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI sellof",
+    "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+    "Why are more roofs not made of solar tiles?",
+    "Colorado ends flat tax with new graduated income tax rate of 8.4%",
+    "The market is waiting for signals from Donald Trump",
+    "15.000 ng\u01b0\u1eddi \u0111\u1ed5 v\u1ec1 Qu\u1ea3ng tr\u01b0\u1eddng L\u00e2m Vi\u00ean, \u0110\u00e0 L\u1ea1t trong 1 bu\u1ed5i t\u1ed1i",
+    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng "
   ]
 }
