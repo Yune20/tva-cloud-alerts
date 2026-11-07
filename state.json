@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794013358.918072,
+  "last_signals": 1794013959.3630223,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1793977764.6464033,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -71,7 +71,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -129,9 +129,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794013360.60758,
+    "DXY|4H:top": 1794013960.7123005,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794013360.257708,
+    "EUR/USD|4H:bot": 1794013960.427235,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -151,7 +151,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794013359.9999216,
+    "GBP/USD|4H:bot": 1794013960.2867086,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -160,15 +160,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794013350.5743973,
-  "last_news": 1794013358.9171035,
+  "last_analysis": 1794013951.4039464,
+  "last_news": 1794013959.3621356,
   "seen_news": [
-    "B\u1ed9 Ngo\u1ea1i giao Nga: C\u1ea3nh b\u00e1o \u0111\u00f2n \u0111\u00e1p tr\u1ea3 m\u1ea1nh n\u1ebfu EU t\u1ecbch thu t\u00e0i s\u1ea3n",
-    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
-    "Pasqal Holding Q3 2026 Earnings Call Is Live - TradingView",
-    "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge Califo",
-    "'The whole landscape changed': Gaming CEOs see new opportunities post-midterms",
-    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
     "BetterLife Pharma Inc. (BETR) Settles Director's $2M Claim - TradingView",
     "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what",
     "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying'",
@@ -462,6 +456,12 @@
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "World Kinect Director Sold Shares Worth Over $665K - TradingView",
     "Montana votes to ban corporate political money. Next stop? Probably the Supreme ",
-    "Binance says fake job interviews used as part of $6.3bn crypto hack"
+    "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "StepStone Group Q2 Earnings Call Highlights - TradingView",
+    "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+    "Poundland owner in crunch talks as retailer's collapse looms",
+    "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
+    "Democrats planning flood of AI bills when they take control of Congress"
   ]
 }
