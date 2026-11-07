@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794039823.803676,
+  "last_signals": 1794040430.0636926,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -42,7 +42,6 @@
     "5575146754|Gold|1D|range_in": 1793854837.1009996,
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793834513.1100059,
-    "5575146754|Gold|4H|dn": 1793435505.1491673,
     "5575146754|Gold|4H|trap_dn": 1793575577.0920541,
     "5575146754|Gold|1H|momo_dn": 1793692238.529144,
     "5575146754|Gold|1H|dbot": 1793504596.896774,
@@ -128,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794039826.9704976,
+    "DXY|4H:top": 1794040433.3673136,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794039826.287727,
+    "EUR/USD|4H:bot": 1794040432.607786,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -150,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794039825.9624925,
+    "GBP/USD|4H:bot": 1794040432.2375686,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -159,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794039813.8113763,
-  "last_news": 1794039823.802846,
+  "last_analysis": 1794040422.3817801,
+  "last_news": 1794040430.0629704,
   "seen_news": [
-    "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng Facebook ch\u00fa \u00fd th\u00f4ng  b\u00e1o m\u1edbi c\u1ee7a c\u00f4ng an",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
-    "World Kinect Director Sold Shares Worth Over $665K - TradingView",
-    "Montana votes to ban corporate political money. Next stop? Probably the Supreme ",
-    "Binance says fake job interviews used as part of $6.3bn crypto hack",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "StepStone Group Q2 Earnings Call Highlights - TradingView",
     "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
@@ -461,6 +454,12 @@
     "Key facts: Rightmove cuts 2026 growth forecasts; UK buyer demand falls 10% - Tra",
     "Fake job interview scams like the one that hit Binance are getting more sophisti",
     "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-    "As tech swoon roils market, US inflation data on tap"
+    "As tech swoon roils market, US inflation data on tap",
+    "Stocks tumble as AI panic sweeps markets, bonds draw haven demand - TradingView",
+    "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Mu",
+    "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+    "Nasdaq rebounds but posts fourth straight weekly decline",
+    "What is the distribution of forecasts for the US NFP?",
+    "Nh\u00e0 b\u1ecf kh\u00f4ng 2 th\u00e1ng v\u1eabn nh\u1eadn h\u00f3a \u0111\u01a1n n\u01b0\u1edbc 46 tri\u1ec7u \u0111\u1ed3ng: C\u00f4ng ty c\u1ea5p n\u01b0\u1edbc kh\u1eb3ng"
   ]
 }
