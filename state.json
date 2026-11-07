@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794054007.4151068,
+  "last_signals": 1794054672.4872212,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794054010.8213358,
+    "DXY|4H:top": 1794054674.674992,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794054010.0579362,
+    "EUR/USD|4H:bot": 1794054674.211652,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794054009.6668453,
+    "GBP/USD|4H:bot": 1794054673.9820466,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794053999.174952,
-  "last_news": 1794054007.4141815,
+  "last_analysis": 1794054662.625102,
+  "last_news": 1794054672.486364,
   "seen_news": [
-    "Bitcoin testing a key support target.  What needs to happen to give buyers some ",
-    "T\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long sang Trung Qu\u1ed1c nghi\u00ean c\u1ee9u chung c\u01b0 nu\u00f4i l\u1ee3n nh\u01b0ng kh\u00f4ng l",
-    "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investm",
-    "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
-    "China extends gold buying streak to 24 months as prices slump below $4,000",
     "OpenAI will keep investing in AI data centers despite election results, CFO tell",
     "Rainmakers: The drones used to seed clouds",
     "Europe wants Russia to end Ukraine war before security talks",
@@ -460,6 +454,12 @@
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "Wall Street stocks rally after heavy AI-related selloff - TradingView",
     "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
-    "Mining giant joins fight to stop killer toad march across Australia"
+    "Mining giant joins fight to stop killer toad march across Australia",
+    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-11-07 \u2014 cnbctv:538ce469f094b:0 - TradingV",
+    "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Norway\u2019s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
+    "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into earl"
   ]
 }
