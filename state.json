@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794075848.64211,
+  "last_signals": 1794076462.8066247,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794075851.115564,
+    "DXY|4H:top": 1794076464.3656688,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794075850.5966341,
+    "EUR/USD|4H:bot": 1794076464.031558,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794075850.33527,
+    "GBP/USD|4H:bot": 1794076463.865827,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794075841.5189073,
-  "last_news": 1794075848.641278,
+  "last_analysis": 1794076455.5789995,
+  "last_news": 1794076462.8055303,
   "seen_news": [
-    "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
-    "Australia's oldest department store David Jones folds after 188 years",
-    "Trump\u2019s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
-    "China flags weak domestic demand as policymakers prepare 2027 growth measures",
-    "C\u00f4ng an ph\u00e1t th\u00f4ng b\u00e1o n\u00f3ng t\u1edbi nh\u1eefng ai nh\u1eadn \u0111\u01b0\u1ee3c cu\u1ed9c g\u1ecdi c\u00f3 n\u1ed9i dung sau",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data ce",
     "AI stocks climb after trillions wiped from market values",
     "Dollar little changed as oil prices bounce, payrolls eyed",
@@ -460,6 +454,12 @@
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "IBM Deploys Quantum System Two in Illinois - TradingView",
     "The race is on to build the first fusion power plant \u2014 and Europe is looking to ",
-    "Poundland owner in crunch talks as retailer's collapse looms"
+    "Poundland owner in crunch talks as retailer's collapse looms",
+    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Delta Air Lines President Sold Shares Worth Over $4M - TradingView",
+    "Drones are changing warfare. But defense giants are still making billions from o",
+    "Drivers may get compensation offers before car finance saga ends",
+    "Europe's Grid Spending Is Up 155% Since 2019",
+    "Seaport offers preliminary thoughts on Anthropic stock"
   ]
 }
