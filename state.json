@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794074621.2360947,
+  "last_signals": 1794075236.4567578,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -72,7 +72,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794074623.074525,
+    "DXY|4H:top": 1794075239.1766198,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794074622.6876833,
+    "EUR/USD|4H:bot": 1794075238.6589344,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794074622.5212734,
+    "GBP/USD|4H:bot": 1794075238.3209527,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794074612.8931625,
-  "last_news": 1794074621.183017,
+  "last_analysis": 1794075227.2052765,
+  "last_news": 1794075236.4558854,
   "seen_news": [
-    "Wall Street's fear gauge may be flashing a buy sign",
-    "Poundland owner in crunch talks as retailer's collapse looms",
-    "Europe's Grid Spending Is Up 155% Since 2019",
-    "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.36%",
-    "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on h",
-    "H\u00e0 N\u1ed9i: 20 h\u1ed9 d\u00e2n c\u00f3 \u0111\u1ea5t b\u1ecb thu h\u1ed3i t\u1ea1i si\u00eau d\u1ef1 \u00e1n th\u00e0nh ph\u1ed1 th\u00f4ng minh 4,2 t\u1ef7 U",
     "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Nasdaq rebounds after tech selloff but sheds 3% for the week - TradingView",
     "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying'",
@@ -460,6 +454,12 @@
     "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
     "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
     "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate ",
-    "Ng\u00e0y 8/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 1 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacomb"
+    "Ng\u00e0y 8/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 1 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacomb",
+    "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs ",
+    "L\u1ecbch ch\u1ed1t quy\u1ec1n c\u1ed5 t\u1ee9c tu\u1ea7n 9-13/11: C\u1ed5 t\u1ee9c ti\u1ec1n m\u1eb7t cao nh\u1ea5t 65%, m\u1ed9t \"\u00f4ng l\u1edbn\"",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "What Runway Growth Finance (RWAY) Said on Its Q3 Earnings Call - TradingView",
+    "Decisive election. Dramatic stock swings. How we handled the market last week",
+    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown"
   ]
 }
