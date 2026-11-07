@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794071451.9653265,
+  "last_signals": 1794072110.054116,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794071455.526385,
+    "DXY|4H:top": 1794072113.252681,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794071454.8021288,
+    "EUR/USD|4H:bot": 1794072112.604367,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794071454.4239,
+    "GBP/USD|4H:bot": 1794072112.259245,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794071443.428104,
-  "last_news": 1794071451.964334,
+  "last_analysis": 1794072102.6508853,
+  "last_news": 1794072110.0530655,
   "seen_news": [
-    "Why a wave of bomb threats is proving so difficult for Europe's aviation authori",
-    "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
-    "US initial jobless claims 189K vs 196K estimate",
-    "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh \u0111ang d\u00f9ng b\u00ecnh n\u00f3ng l\u1ea1nh m\u1ed7i ng\u00e0y",
-    "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
     "US October non-farm payrolls +165K vs +65K expected",
     "Vi\u1ec7t Nam c\u00f3 lo\u1ea1i rau d\u00e2n d\u00e3 gi\u00e1 r\u1ebb b\u00e8o, b\u1ed5 ngang th\u1ecbt b\u00f2",
@@ -460,6 +454,12 @@
     "OpenAI bugging suspect Alfozan pleads not guilty",
     "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispie",
     "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
-    "Nasdaq rebounds but posts fourth straight weekly decline"
+    "Nasdaq rebounds but posts fourth straight weekly decline",
+    "I attend free meals hosted by people promoting annuities. I\u2019ve no intention of b",
+    "Trump says U.S. carried out \u2018minor strikes\u2019 on Iran as missiles hit Qeshm Island",
+    "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "Binance CFO exits days after catastrophic $6 billion crypto hack",
+    "US-Iran uncertainty keeps the downside in oil limited as markets await further d",
+    "To\u00e0n b\u1ed9 ng\u01b0\u1eddi d\u00e2n hay li\u00ean l\u1ea1c v\u1edbi ng\u01b0\u1eddi th\u00e2n b\u1eb1ng Zalo \u0111\u1eb7c bi\u1ec7t l\u01b0u \u00fd c\u1ea3nh b\u00e1o "
   ]
 }
