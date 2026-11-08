@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794177433.655987,
+  "last_signals": 1794178003.5043488,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794177435.2360222,
+    "DXY|4H:top": 1794178005.8245816,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794177434.9303324,
+    "EUR/USD|4H:bot": 1794178005.3088512,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794177434.766762,
+    "GBP/USD|4H:bot": 1794178005.0669193,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794177380.7754273,
-  "last_news": 1794177433.6551125,
+  "last_analysis": 1794177995.16867,
+  "last_news": 1794178003.503627,
   "seen_news": [
-    "Iran 'm\u1edf kho\u00e1' t\u1ea7m b\u1eafn t\u00ean l\u1eeda \u0111\u1ea1n \u0111\u1ea1o gi\u1eefa l\u00fac c\u0103ng th\u1eb3ng v\u1edbi M\u1ef9 leo thang",
-    "Vietnam economic report - VietstockFinance",
-    "Earnings to watch: RadNet (RDNT) reports Q3 results tomorrow - TradingView",
-    "Here are the 2027 capital-gains tax rates for each income level",
-    "Top Democrats call to rein in AI buildout after midterms sweep: 'National data c",
-    "What does the raise in interest rates mean?",
     "As tech swoon roils market, US inflation data on tap",
     "Xlence Becomes Official Internationalization Partner of 1. FSV Mainz 05 in Asia",
     "\"Qu\u1ef7 l\u00f9n\u201d \u0110\u00e0o H\u1ed3ng S\u01a1n: T\u1eeb shipper ch\u1ea1y \u0111\u01a1n 30.000 \u0111\u1ed3ng m\u1ed7i ng\u00e0y \u0111\u1ebfn nh\u00e0 v\u00f4 \u0111\u1ecbch",
@@ -459,6 +453,12 @@
     "Could HBF be the solution to the Memory bottleneck?",
     "Weekend: Trump says new Iran strikes \u2018highly unlikely\u2019 five times (but three car",
     "2 lo\u1ea1i c\u00e2y \"h\u00fat\" v\u01b0\u1ee3ng kh\u00ed v\u00e0 may m\u1eafn, r\u1ea5t n\u00ean tr\u1ed3ng tr\u01b0\u1edbc c\u1eeda nh\u00e0",
-    "Stocks are moving in sync again for the first time in a while. There\u2019s just one "
+    "Stocks are moving in sync again for the first time in a while. There\u2019s just one ",
+    "Trump offers UFC chief Dana White press secretary job",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "Cryptocurrencies slide to two-month lows after US midterms",
+    "Three risks for Nvidia shares after Huang admits affair with suspected Chinese s",
+    "B\u1ecb xe c\u1ee7a nh\u00f3m c\u01b0\u1edbp t\u00f4ng tr\u00fang, ng\u01b0\u1eddi ph\u1ee5 n\u1eef t\u1ea1i Canada c\u00f2n ph\u1ea3i \u0111\u1ec1n th\u00eam ti\u1ec1n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance"
   ]
 }
