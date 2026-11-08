@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794105588.930967,
+  "last_signals": 1794105954.3619518,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794105590.5659237,
+    "DXY|4H:top": 1794105956.8184476,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794105590.222945,
+    "EUR/USD|4H:bot": 1794105956.3142467,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794105589.9999504,
+    "GBP/USD|4H:bot": 1794105956.0592923,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794105581.684503,
-  "last_news": 1794105588.9294233,
+  "last_analysis": 1794105945.5001533,
+  "last_news": 1794105954.3611116,
   "seen_news": [
-    "Nguy\u1ec5n Y\u1ebfn Trang ch\u00ednh th\u1ee9c \u0111\u0103ng quang Hoa h\u1eadu Vi\u1ec7t Nam 2026",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Berkshire Hathaway utility asks California regulators for 57% rate increase - Tr",
-    "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
-    "AI stocks climb after trillions wiped from market values",
-    "Dollar little changed as oil prices bounce, payrolls eyed",
     "Texas governor race tightens in prediction markets, but Abbott remains favored",
     "Graduates are managing AI - but are they learning much else?",
     "Tesla to expand Cybertruck production in bid to fill orders before dismantling l",
@@ -460,6 +454,12 @@
     "V\u1ed1n r\u1ebb ti\u1ebfp t\u1ee5c 'th\u1ea9m th\u1ea5u' v\u00e0o n\u1ec1n kinh t\u1ebf",
     "VNM: CTCP S\u1eefa Vi\u1ec7t Nam - VINAMILK - T\u1ea3i t\u00e0i li\u1ec7u - VietstockFinance",
     "Cattle Pull Off Friday Lows into the Weekend - TradingView",
-    "The race is on to build the first fusion power plant \u2014 and Europe is looking to "
+    "The race is on to build the first fusion power plant \u2014 and Europe is looking to ",
+    "Ph\u00e1t hi\u1ec7n l\u1ea1 \u1edf Nha Trang: C\u00e2y ven bi\u1ec3n Tr\u1ea7n Ph\u00fa \u0111\u01b0\u1ee3c t\u1ec9a th\u00e0nh h\u00ecnh kim t\u1ef1 th\u00e1p,",
+    "CTD: B\u00e1o c\u00e1o Ph\u00e2n t\u00edch K\u1ef9 thu\u1eadt 28/10/2026 - VietstockFinance",
+    "Ryerson CEO Sold Shares Worth Over $685K - TradingView",
+    "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
+    "'I've taken an extra job to pay for heating oil'",
+    "New Zealand election puts tax reform party in kingmaker role as majority hangs"
   ]
 }
