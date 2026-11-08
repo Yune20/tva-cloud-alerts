@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794161015.1274989,
+  "last_signals": 1794161624.3609288,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794161016.8184214,
+    "DXY|4H:top": 1794161625.9091465,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794161016.348256,
+    "EUR/USD|4H:bot": 1794161625.5345867,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794161016.142835,
+    "GBP/USD|4H:bot": 1794161625.3654294,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794161007.78879,
-  "last_news": 1794161015.126644,
+  "last_analysis": 1794161617.9380243,
+  "last_news": 1794161624.3600025,
   "seen_news": [
-    "EU, UK near post-Brexit carbon market linkage deal - Bloomberg",
-    "Tin m\u1edbi nh\u1ea5t v\u1ec1 \u0111\u1ee3t kh\u00f4ng kh\u00ed l\u1ea1nh: T\u1eeb \u0111\u00eam nay mi\u1ec1n B\u1eafc ch\u00ecm trong m\u01b0a r\u00e9t?",
-    "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "What Leon's Furniture (LNF) Said on Its Q3 Earnings Call - TradingView",
-    "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more th",
-    "'An annoying buzz': The search for stealthier drones",
     "The Indian workers filming their work to train AI",
     "America\u2019s Nuclear Revival Is Running Into a Fuel Supply Wall",
     "Dollar sees best day since June after stellar jobs report, set for weekly gain",
@@ -459,6 +453,12 @@
     "Why smoky bacon crisps threaten to reignite rows over EU rules",
     "How Big Oil Became the AI Industry's Favorite Customer",
     "Environmental groups embrace AI, even as they warn of data center impacts",
-    "US initial jobless claims 189K vs 196K estimate"
+    "US initial jobless claims 189K vs 196K estimate",
+    "Wall Street\u2019s \u201cEnergy Transition\u201d Funds Are Packed With Natural Gas",
+    "US Treasury sanctions Canadian money services firms over Iran-related transactio",
+    "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
+    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn 9999 h\u00f4m nay ng\u00e0y 9/11",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "South Korea selects Sikorsky for presidential helicopter program - TradingView"
   ]
 }
