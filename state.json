@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794145006.2285202,
+  "last_signals": 1794145609.2290175,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794145007.4994333,
+    "DXY|4H:top": 1794145610.7048779,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794145007.225825,
+    "EUR/USD|4H:bot": 1794145610.37722,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794145007.093286,
+    "GBP/USD|4H:bot": 1794145610.215077,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794144996.873881,
-  "last_news": 1794145004.0784714,
+  "last_analysis": 1794145601.9332056,
+  "last_news": 1794145609.2281346,
   "seen_news": [
-    "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hike",
-    "Non-farm payrolls preview: October numbers show a skew",
-    "Vi\u1ec7t Nam thu\u1ed9c nh\u00f3m qu\u1ed1c gia c\u1ea3i thi\u1ec7n \u0111\u00e1ng k\u1ec3 v\u1ec1 h\u1ea1 t\u1ea7ng ch\u1ea5t l\u01b0\u1ee3ng",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Orexo AB (publ) (ORX) Shareholders Approve Rights Issue - TradingView",
-    "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost",
     "H\u01a1n 40 con c\u00e1 voi hoa ti\u00eau ch\u1ebft h\u00e0ng lo\u1ea1t tr\u00ean b\u1edd bi\u1ec3n New Zealand",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,300 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Earnings to watch: RadNet (RDNT) reports Q3 results tomorrow - TradingView",
@@ -459,6 +453,12 @@
     "Brands are sponsoring IRL communities. Some experts say that could spell their e",
     "Winter support for residents facing cost pressures",
     "What are the AI lab compute commitments?",
-    "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected"
+    "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
+    "Tr\u00ean h\u00e0nh tinh n\u00e0y duy nh\u1ea5t Nga h\u1ecdc \u0111\u01b0\u1ee3c c\u00e1ch l\u00e0m: C\u1ed7 m\u00e1y \"c\u1ee9 d\u00f9ng h\u1ebft l\u1ea1i \u0111\u1ea7y\" ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "Iron Mountain Q3 Earnings Call Highlights - TradingView",
+    "Trump offers UFC chief Dana White press secretary job",
+    "My hometown shows that high streets have to change or die",
+    "Iran responds positively to latest mediator proposal - report"
   ]
 }
