@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1794115154.3551562,
-  "last_bot4": 1794120434.6676114,
+  "last_news_report": 1794130014.5514102,
+  "last_bot4": 1794130017.863446,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794119757.757641
+    "Gold": 1794130017.863355
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794121037.5272756,
+  "last_signals": 1794130017.8641448,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794121040.8428862,
+    "DXY|4H:top": 1794130021.4541337,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794121040.21357,
+    "EUR/USD|4H:bot": 1794130020.7245543,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794121039.8471365,
+    "GBP/USD|4H:bot": 1794130020.3445632,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794121029.6451774,
-  "last_news": 1794121037.5265954,
+  "last_analysis": 1794129997.8793354,
+  "last_news": 1794130009.0806477,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Thermax Q2 2027 Earnings Call Is Live - TradingView",
-    "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to bu",
-    "Asda hires ex-Morrisons boss in bid to grow firm",
-    "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
-    "Eurozone retail sales fall 0.7% in September, signalling weakening consumer dema",
     "How does it affect me if share prices fall?",
     "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
     "Nhan s\u1eafc \u0111\u1eddi th\u01b0\u1eddng Hoa h\u1eadu Nguy\u1ec5n Y\u1ebfn Trang",
@@ -459,6 +453,12 @@
     "Why Gen Z are planning for life without a state pension",
     "Fed's Daly: Jobs report is good news",
     "C\u0103n c\u1ee9 c\u1ea5p s\u1ed5 \u0111\u1ecf khi m\u1ea5t gi\u1ea5y t\u1edd giao \u0111\u1ea5t",
-    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance"
+    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
+    "Doanh s\u1ed1 th\u1ea3m h\u1ea1i v\u00e0 b\u00e3o ch\u1ec9 tr\u00edch: Tesla ch\u00ednh th\u1ee9c \"khai t\u1eed\" Cybertruck v\u00e0o gi",
+    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Gold, silver outlook hinges on US-Iran tensions, global inflation data next week",
+    "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup",
+    "'I was asked if I was a crier': Your worst job interviews revealed",
+    "5 big analyst AI moves: Is the historic AI stock rout a buy opportunity?"
   ]
 }
