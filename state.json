@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794171229.7462003,
+  "last_signals": 1794171835.5439305,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794171231.5618005,
+    "DXY|4H:top": 1794171838.087712,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794171231.1845982,
+    "EUR/USD|4H:bot": 1794171837.5248888,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794171230.9796112,
+    "GBP/USD|4H:bot": 1794171837.2790658,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794171222.2934394,
-  "last_news": 1794171229.7452762,
+  "last_analysis": 1794171826.8004124,
+  "last_news": 1794171835.5430853,
   "seen_news": [
-    "U.S. military disables cargo vessel attempting to breach Iran blockade",
-    "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs ",
-    "C\u0103n nh\u00e0 280m\u00b2 c\u1ee7a n\u1eef gi\u1ea3ng vi\u00ean \u0111\u1ea1i h\u1ecdc khi\u1ebfn nhi\u1ec1u ng\u01b0\u1eddi tr\u1ea7m tr\u1ed3: Kh\u00f4ng thi\u1ebft ",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Genco Shipping & Trading Q3 Earnings Call Highlights - TradingView",
-    "Inside the card-grading empire shaping the price of Pok\u00e9mon cards",
     "C\u00f4ng an \u0111\u1ec1 ngh\u1ecb 700 ch\u1ee7 ph\u01b0\u01a1ng ti\u1ec7n mang bi\u1ec3n s\u1ed1 sau s\u1edbm n\u1ed9p ph\u1ea1t ngu\u1ed9i theo Ngh",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-11-08 \u2014 cnbctv:ea542d4aa094b:0 - TradingV",
@@ -459,6 +453,12 @@
     "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
     "C\u00fa ch\u1ed1t c\u1ee7a n\u1eef t\u01b0\u1edbng Mai Ki\u1ec1u Li\u00ean v\u00e0 qu\u1ea3 ng\u1ecdt: Nh\u1eefng ng\u01b0\u1eddi b\u1ecf ra 53 tri\u1ec7u \u0111\u1ed3ng ",
     "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
-    "Krakow assailant appeared highly skilled, fellow shooting club member says - Tra"
+    "Krakow assailant appeared highly skilled, fellow shooting club member says - Tra",
+    "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate ",
+    "C\u1ef1u sinh vi\u00ean \u0111\u1ea1i h\u1ecdc B\u00e1ch khoa x\u00e2y d\u1ef1ng 2 th\u01b0\u01a1ng hi\u1ec7u ti\u00eau d\u00f9ng v\u1ea1n ng\u01b0\u1eddi m\u00ea, l",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Ingersoll Rand Officer Sold Shares Worth Over $831K - TradingView",
+    "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown"
   ]
 }
