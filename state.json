@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794149279.582183,
+  "last_signals": 1794149883.8964632,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794149282.3222454,
+    "DXY|4H:top": 1794149887.2284095,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794149281.8199284,
+    "EUR/USD|4H:bot": 1794149886.4411287,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794149281.5305493,
+    "GBP/USD|4H:bot": 1794149886.1297035,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794149271.4562123,
-  "last_news": 1794149279.581113,
+  "last_analysis": 1794149875.8447134,
+  "last_news": 1794149883.8949974,
   "seen_news": [
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
-    "Trump cites progress in Iran talks as fresh explosions hit Qeshm Island",
-    "The market is waiting for signals from Donald Trump",
-    "Clip 20 gi\u00e2y c\u1ee7a t\u00e2n Hoa h\u1eadu Vi\u1ec7t Nam 2026 Nguy\u1ec5n Y\u1ebfn Trang g\u00e2y s\u1ed1c",
-    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "What Cadre (CDRE) Said on Its Q3 Earnings Call - TradingView",
     "Tech companies face mounting child safety lawsuits while pushing AI into schools",
     "How video game remakes tap the power of nostalgia",
@@ -459,6 +453,12 @@
     "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside c",
     "He spent $50,000 on Labubus but now the craze is dying",
     "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
-    "USD moves higher after the US jobs report. What levels are in play now?"
+    "USD moves higher after the US jobs report. What levels are in play now?",
+    "Sterling today: Pound flat as BoE hikes 25 bps, dollar steadies before payrolls",
+    "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI sellof",
+    "Hai lo\u00e0i t\u00ea gi\u00e1c Indonesia c\u1eadn k\u1ec1 b\u1edd v\u1ef1c di\u1ec7t vong khi th\u1ebf gi\u1edbi ch\u1ec9 h\u01b0\u1edbng v\u1ec1 ch\u00e2",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "William Blair downgrades Nerdwallet to Market Perform from Outperform - TradingV",
+    "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Rep"
   ]
 }
