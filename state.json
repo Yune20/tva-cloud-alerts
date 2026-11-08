@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794104023.4939153,
+  "last_signals": 1794104641.6703012,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -69,7 +69,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -127,9 +127,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794104024.946296,
+    "DXY|4H:top": 1794104643.099318,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794104024.62988,
+    "EUR/USD|4H:bot": 1794104642.8126466,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -149,7 +149,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794104024.4408708,
+    "GBP/USD|4H:bot": 1794104642.607705,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794104014.8118145,
-  "last_news": 1794104023.4927835,
+  "last_analysis": 1794104632.9161115,
+  "last_news": 1794104641.6694295,
   "seen_news": [
-    "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on h",
-    "Nh\u00e0 m\u00e1y l\u1ecdc h\u00f3a d\u1ea7u \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam n\u00e2ng m\u1ee5c ti\u00eau l\u1ee3i nhu\u1eadn n\u0103m 2026 l\u00ean h",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "IBM Deploys Quantum System Two in Illinois - TradingView",
-    "The race is on to build the first fusion power plant \u2014 and Europe is looking to ",
-    "Poundland owner in crunch talks as retailer's collapse looms",
     "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Delta Air Lines President Sold Shares Worth Over $4M - TradingView",
     "Drones are changing warfare. But defense giants are still making billions from o",
@@ -460,6 +454,12 @@
     "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate ",
     "H\u01a1n 25.000 ng\u01b0\u1eddi H\u00e0n Qu\u1ed1c tham gia tang l\u1ec5 khi c\u00f2n s\u1ed1ng: V\u00ec sao \u0111i\u1ec1u n\u00e0y l\u1ea1i ph\u1ed5",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
-    "Google executive Donald Harrison resigns from SpaceX board - TradingView"
+    "Google executive Donald Harrison resigns from SpaceX board - TradingView",
+    "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs ",
+    "C\u1eadn c\u1ea3nh nhan s\u1eafc 2 \u00c1 h\u1eadu Hoa h\u1eadu Vi\u1ec7t Nam 2026: M\u1ed9t ng\u01b0\u1eddi \u0111\u1eb9p h\u1ecdc gi\u1ecfi, m\u1ed9t ng\u01b0",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Genco Shipping & Trading Q3 Earnings Call Highlights - TradingView",
+    "Decisive election. Dramatic stock swings. How we handled the market last week",
+    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown"
   ]
 }
