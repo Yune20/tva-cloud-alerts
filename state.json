@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794148046.9121737,
+  "last_signals": 1794148655.189211,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794148048.470975,
+    "DXY|4H:top": 1794148659.448468,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794148048.090222,
+    "EUR/USD|4H:bot": 1794148658.5958939,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794148047.927552,
+    "GBP/USD|4H:bot": 1794148658.1282523,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794148037.0931253,
-  "last_news": 1794148046.9113917,
+  "last_analysis": 1794148647.3041837,
+  "last_news": 1794148655.1884003,
   "seen_news": [
-    "What Moelis & Company (MC) Said on Its Q3 Earnings Call - TradingView",
-    "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "Interest rates hiked to 4% in first increase in over three years",
-    "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n d\u00f9ng Zalo ch\u00fa \u00fd th\u00f4ng b\u00e1o t\u1eeb c\u00f4ng an",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Vale: Iron ore scale underpins copper growth ambitions and disciplined investmen",
     "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Rep",
     "Three ways the interest rate rise could affect you",
@@ -459,6 +453,12 @@
     "Earnings to watch: RadNet (RDNT) reports Q3 results tomorrow - TradingView",
     "Here are the 2027 capital-gains tax rates for each income level",
     "Top Democrats call to rein in AI buildout after midterms sweep: 'National data c",
-    "What does the raise in interest rates mean?"
+    "What does the raise in interest rates mean?",
+    "As tech swoon roils market, US inflation data on tap",
+    "Xlence Becomes Official Internationalization Partner of 1. FSV Mainz 05 in Asia",
+    "\"Qu\u1ef7 l\u00f9n\u201d \u0110\u00e0o H\u1ed3ng S\u01a1n: T\u1eeb shipper ch\u1ea1y \u0111\u01a1n 30.000 \u0111\u1ed3ng m\u1ed7i ng\u00e0y \u0111\u1ebfn nh\u00e0 v\u00f4 \u0111\u1ecbch",
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "What Hamilton Beach Brands (HBB) Said on Its Q3 Earnings Call - TradingView",
+    "Texas governor race tightens in prediction markets, but Abbott remains favored"
   ]
 }
