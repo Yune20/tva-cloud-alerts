@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794169405.0598443,
+  "last_signals": 1794170012.0295491,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794169407.9750779,
+    "DXY|4H:top": 1794170014.2031775,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794169407.358179,
+    "EUR/USD|4H:bot": 1794170013.7783341,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794169407.0465934,
+    "GBP/USD|4H:bot": 1794170013.5545897,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794169397.254306,
-  "last_news": 1794169405.0589633,
+  "last_analysis": 1794170004.5353897,
+  "last_news": 1794170012.0287344,
   "seen_news": [
-    "US October non-farm payrolls +165K vs +65K expected",
-    "55 tu\u1ed5i kh\u00f4ng nh\u1ea5t thi\u1ebft ph\u1ea3i c\u00f3 ti\u1ec1n t\u1ef7, quan tr\u1ecdng c\u00f3 3 con s\u1ed1 n\u00e0y l\u00e0 an t\u00e2m n",
-    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
-    "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y - TradingView",
-    "Democrats\u2019 big election win revives a difficult Social Security question: Who pa",
-    "Why a wave of bomb threats is proving so difficult for Europe's aviation authori",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
     "What Vermilion Energy (VET) Said on Its Q3 Earnings Call - TradingView",
     "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
@@ -459,6 +453,12 @@
     "BSI: CTCP Ch\u1ee9ng kho\u00e1n BIDV - BSC - VietstockFinance",
     "NZ RegCo Announces Trading Halt On ANZ Shares - TradingView",
     "This market signal called the tech selloff. Now it\u2019s sending another warning.",
-    "Top Wall Street analysts like these 3 dividend stocks for consistent income"
+    "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+    "Many workers lose unused FSA money \u2014 but could still come out ahead. Here's how",
+    "Rainmakers: The drones used to seed clouds",
+    "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centr",
+    "G\u1ea7n 90 CTCK nh\u01b0ng \u201cmi\u1ebfng b\u00e1nh\u201d thu\u1ed9c v\u1ec1 s\u1ed1 \u00edt: Th\u1ecb tr\u01b0\u1eddng \u0111ang c\u00f3 qu\u00e1 nhi\u1ec1u \u201czom",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "What Southwest Gas (SWX) Said on Its Q3 Earnings Call - TradingView"
   ]
 }
