@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794154255.6766346,
+  "last_signals": 1794154851.1400187,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,10 +68,10 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794154257.171986,
+    "DXY|4H:top": 1794154852.6485999,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794154256.858993,
+    "EUR/USD|4H:bot": 1794154852.3058732,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794154256.707998,
+    "GBP/USD|4H:bot": 1794154852.1348958,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,14 +158,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794154557.594992,
-  "last_news": 1794154253.90868,
+  "last_news": 1794154851.1390781,
   "seen_news": [
-    "The market is telling the hyperscalers it's happy about a slower data center bui",
-    "Cao Th\u00e1i S\u01a1n ch\u1ee5p \u1ea3nh c\u00f9ng 1 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng, Nguy\u1ec5n V\u0103n Chung n\u00f3i th\u1eb3ng",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
-    "What Moderna (MRNA) Said on Its Q3 Earnings Call - TradingView",
-    "America doesn't like socialism. So why are socialists winning?",
-    "How long will humans be needed for translation?",
     "Ba Lan tuy\u00ean b\u1ed1 qu\u1ed1c tang 2 ng\u00e0y sau v\u1ee5 x\u1ea3 s\u00fang kinh ho\u00e0ng khi\u1ebfn \u00edt nh\u1ea5t 21 ng\u01b0\u1edd",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "USANA Health Sciences Q3 Earnings Call Highlights - TradingView",
@@ -459,6 +453,12 @@
     "Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?",
     "M\u00e2m c\u01a1m nh\u00e0 Ph\u01b0\u01a1ng M\u1ef9 Chi",
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Aave Buys Avon Team to Bring More Fixed-Rate Lending Onchain - TradingView"
+    "Aave Buys Avon Team to Bring More Fixed-Rate Lending Onchain - TradingView",
+    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
+    "Roku Terminates Credit Agreement With Citibank Following FOX Merger - TradingVie",
+    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
+    "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data cent",
+    "The tech helping crack decades-old cold cases",
+    "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It"
   ]
 }
