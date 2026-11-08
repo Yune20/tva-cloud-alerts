@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794170012.0295491,
+  "last_signals": 1794170616.707403,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794170014.2031775,
+    "DXY|4H:top": 1794170619.0533264,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794170013.7783341,
+    "EUR/USD|4H:bot": 1794170618.5940077,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794170013.5545897,
+    "GBP/USD|4H:bot": 1794170618.3636982,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794170004.5353897,
-  "last_news": 1794170012.0287344,
+  "last_analysis": 1794170608.5096204,
+  "last_news": 1794170616.7065446,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
-    "What Vermilion Energy (VET) Said on Its Q3 Earnings Call - TradingView",
-    "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-    "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting pe",
-    "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
-    "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
     "Decisive election. Dramatic stock swings. How we handled the market last week",
     "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
     "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
@@ -459,6 +453,12 @@
     "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centr",
     "G\u1ea7n 90 CTCK nh\u01b0ng \u201cmi\u1ebfng b\u00e1nh\u201d thu\u1ed9c v\u1ec1 s\u1ed1 \u00edt: Th\u1ecb tr\u01b0\u1eddng \u0111ang c\u00f3 qu\u00e1 nhi\u1ec1u \u201czom",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "What Southwest Gas (SWX) Said on Its Q3 Earnings Call - TradingView"
+    "What Southwest Gas (SWX) Said on Its Q3 Earnings Call - TradingView",
+    "Teleflex Q3 Earnings Call Highlights - TradingView",
+    "America's newest small business owners with no employees are off to a hot start ",
+    "The AI telling farmers when to harvest",
+    "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+    "US October non-farm payrolls +165K vs +65K expected",
+    "C\u1ea3nh b\u00e1o 'n\u00f3ng' t\u1eeb C\u00f4ng an \u0111\u1ebfn to\u00e0n b\u1ed9 ng\u01b0\u1eddi d\u00e2n \u0111ang c\u00f3 t\u00e0i kho\u1ea3n VNeID m\u1ee9c \u0111\u1ed9 "
   ]
 }
