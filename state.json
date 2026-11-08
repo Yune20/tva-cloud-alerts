@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794132836.5629733,
+  "last_signals": 1794133441.7359529,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794132837.9529984,
+    "DXY|4H:top": 1794133443.105211,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794132837.6533349,
+    "EUR/USD|4H:bot": 1794133442.8026328,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794132837.501716,
+    "GBP/USD|4H:bot": 1794133442.6423259,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794132828.9036305,
-  "last_news": 1794132836.561994,
+  "last_analysis": 1794133434.6159399,
+  "last_news": 1794133441.7350404,
   "seen_news": [
-    "Food, fuel and taxes \u2013 can the Democrats actually make life cheaper?",
-    "Wars May Spur Faster Electrification",
-    "UBS sees euro-Norwegian krone pullback as stretched",
-    "Equity close: Decent rebound or a dead-cat bounce",
-    "V\u00ec sao ng\u01b0\u1eddi Vi\u1ec7t Nam g\u1ecdi ung th\u01b0 l\u00e0 b\u1ec7nh K?",
-    "CII: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - CII - VietstockFinance",
     "What A10 Networks (ATEN) Said on Its Q3 Earnings Call - TradingView",
     "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new make",
     "The grads ditching the UK for a fresh start abroad",
@@ -459,6 +453,12 @@
     "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "What Leon's Furniture (LNF) Said on Its Q3 Earnings Call - TradingView",
     "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more th",
-    "'An annoying buzz': The search for stealthier drones"
+    "'An annoying buzz': The search for stealthier drones",
+    "The Indian workers filming their work to train AI",
+    "America\u2019s Nuclear Revival Is Running Into a Fuel Supply Wall",
+    "Dollar sees best day since June after stellar jobs report, set for weekly gain",
+    "H\u00e0 N\u1ed9i: H\u01a1n 130 c\u0103n h\u1ed9, nh\u00e0 th\u1ea5p t\u1ea7ng \u1edf CT6 Ki\u1ebfn H\u01b0ng n\u1eb1m trong di\u1ec7n di d\u1eddi",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "US Adds 165,000 Jobs in October: Why Bitcoin Traders Are Watching the Fed - Trad"
   ]
 }
