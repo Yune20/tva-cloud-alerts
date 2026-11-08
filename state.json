@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794134160.971679,
+  "last_signals": 1794134767.3997881,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794134162.493823,
+    "DXY|4H:top": 1794134768.8039942,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794134162.1393013,
+    "EUR/USD|4H:bot": 1794134768.5058012,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794134161.951716,
+    "GBP/USD|4H:bot": 1794134768.3500097,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794134151.2479284,
-  "last_news": 1794134160.97083,
+  "last_analysis": 1794134758.8887045,
+  "last_news": 1794134767.398875,
   "seen_news": [
-    "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
-    "Chinese firms\u2019 profit margins trail global peers as domestic demand stays weak",
-    "Lo\u1ea1i rau l\u00e0 \u201ckho b\u00e1u\u201d ch\u1ea5t ch\u1ed1ng oxy h\u00f3a, \u0111\u00e3 ngon mi\u1ec7ng l\u1ea1i c\u00f2n b\u1ed5 d\u01b0\u1ee1ng",
-    "R\u1ee6I RO H\u1ea0 NHI\u1ec6T, TH\u1eca TR\u01af\u1edcNG CH\u1edc \u0110\u1ed8NG L\u1ef0C - VietstockFinance",
-    "Stocks tumble as AI panic sweeps markets, bonds draw haven demand - TradingView",
-    "World\u2019s No. 1 restaurant crowned as contest comes under increasing scrutiny",
     "How to invest in AI amid AI spending worries?",
     "C\u00e1ch l\u1ea5y l\u1ea1i 15GB dung l\u01b0\u1ee3ng tr\u00ean iPhone",
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 - VietstockFinance",
@@ -459,6 +453,12 @@
     "The grads ditching the UK for a fresh start abroad",
     "America\u2019s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
     "UBS sees euro-Norwegian krone pullback as stretched",
-    "Equity close: Decent rebound or a dead-cat bounce"
+    "Equity close: Decent rebound or a dead-cat bounce",
+    "What A10 Networks (ATEN) Said on Its Q3 Earnings Call - TradingView",
+    "Many workers lose unused FSA money \u2014 but could still come out ahead. Here's how",
+    "Why are more roofs not made of solar tiles?",
+    "India stocks lower at close of trade; Nifty 50 down 0.18%",
+    "Trump: We are talking to Iran, we are doing very well with Iran",
+    "N\u00f3i l\u1eddi sau c\u00f9ng, Mr Pips xin \u0111\u01b0\u1ee3c k\u1ebft h\u00f4n trong t\u00f9"
   ]
 }
