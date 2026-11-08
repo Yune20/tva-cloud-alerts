@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794159178.747726,
+  "last_signals": 1794159795.0755367,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794159179.9878697,
+    "DXY|4H:top": 1794159796.5744417,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794159179.716971,
+    "EUR/USD|4H:bot": 1794159796.290411,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794159179.5875106,
+    "GBP/USD|4H:bot": 1794159796.1417997,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794159172.7171297,
-  "last_news": 1794159178.7469647,
+  "last_analysis": 1794159785.1030822,
+  "last_news": 1794159795.0748227,
   "seen_news": [
-    "Turkey\u2019s coal dependence faces scrutiny as COP31 climate summit begins",
-    "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
-    "L\u00e0o Cai thu h\u01a1n 45.000 t\u1ef7 \u0111\u1ed3ng t\u1eeb du l\u1ecbch trong 10 th\u00e1ng \u0111\u1ea7u n\u0103m 2026",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "MetLife Q3 Earnings Call Highlights - TradingView",
-    "Mark Cuban says he doesn\u2019t \u2018give a f---' about growing his net worth\u2014a healthy m",
     "Gi\u00e1m \u0111\u1ecbnh 4.370 t\u1edd ti\u1ec1n trong th\u00f9ng x\u1ed1p chuy\u1ec3n qua bi\u00ean gi\u1edbi",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "DTE Energy Gas Unit Reports $176 Million Nine-Month Net Income - TradingView",
@@ -459,6 +453,12 @@
     "Eurozone retail sales fall 0.7% in September, signalling weakening consumer dema",
     "L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed, Vi\u1ec7t Nam x\u00e2y th\u00e0nh c\u00f4ng c\u1ea7u c\u00f3 tr\u1ee5 th\u00e1p cao 145 m ng",
     "VSC: CTCP Container Vi\u1ec7t Nam - Viconship - VietstockFinance",
-    "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exi"
+    "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exi",
+    "The market is telling the hyperscalers it's happy about a slower data center bui",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng sinh n\u0103m 1970 qu\u00ea Qu\u1ea3ng Ng\u00e3i, g\u00e1c l\u1ea1i gi\u1ea5c m\u01a1 h\u1ecdc \u0111\u1ea1i h\u1ecdc, nay n\u1eafm",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "Arrowhead reports lower pancreatitis rates, early cholesterol drug results - Tra",
+    "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,00",
+    "In pictures: France protests draw 146,000 as clashes erupt for fourth straight w"
   ]
 }
