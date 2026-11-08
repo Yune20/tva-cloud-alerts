@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794176778.1331754,
+  "last_signals": 1794177433.655987,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794176779.5039978,
+    "DXY|4H:top": 1794177435.2360222,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794176779.2321713,
+    "EUR/USD|4H:bot": 1794177434.9303324,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794176779.0502725,
+    "GBP/USD|4H:bot": 1794177434.766762,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794176769.9366162,
-  "last_news": 1794176778.1275496,
+  "last_analysis": 1794177380.7754273,
+  "last_news": 1794177433.6551125,
   "seen_news": [
-    "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-che",
-    "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
-    "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "Energy Aspects Slashes Forecast of China\u2019s November Diesel Exports",
-    "Judge orders ethics probe into Trump\u2019s Washington golf course project",
-    "Broader US stock indices bounce higher but still has work to do to give buyers m",
     "Iran 'm\u1edf kho\u00e1' t\u1ea7m b\u1eafn t\u00ean l\u1eeda \u0111\u1ea1n \u0111\u1ea1o gi\u1eefa l\u00fac c\u0103ng th\u1eb3ng v\u1edbi M\u1ef9 leo thang",
     "Vietnam economic report - VietstockFinance",
     "Earnings to watch: RadNet (RDNT) reports Q3 results tomorrow - TradingView",
@@ -459,6 +453,12 @@
     "Why Gen Z are planning for life without a state pension",
     "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hike",
     "Suspected Iranian drone strike halts Iraq gas field, cuts two thirds of Kurdista",
-    "Shark B\u00ecnh mu\u1ed1n s\u1edbm \u0111\u01b0\u1ee3c ch\u1ea5p h\u00e0nh \u00e1n"
+    "Shark B\u00ecnh mu\u1ed1n s\u1edbm \u0111\u01b0\u1ee3c ch\u1ea5p h\u00e0nh \u00e1n",
+    "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jett",
+    "Welsh aviation firm AerFin bought in \u00a3475m deal",
+    "Could HBF be the solution to the Memory bottleneck?",
+    "Weekend: Trump says new Iran strikes \u2018highly unlikely\u2019 five times (but three car",
+    "2 lo\u1ea1i c\u00e2y \"h\u00fat\" v\u01b0\u1ee3ng kh\u00ed v\u00e0 may m\u1eafn, r\u1ea5t n\u00ean tr\u1ed3ng tr\u01b0\u1edbc c\u1eeda nh\u00e0",
+    "Stocks are moving in sync again for the first time in a while. There\u2019s just one "
   ]
 }
