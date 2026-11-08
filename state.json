@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794174894.5097313,
+  "last_signals": 1794175505.5623982,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794027736.115773,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,9 +126,9 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794174897.057482,
+    "DXY|4H:top": 1794175507.2468913,
     "Bitcoin|4H:bot": 1793988055.449488,
-    "EUR/USD|4H:bot": 1794174896.433971,
+    "EUR/USD|4H:bot": 1794175506.8873985,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794174896.1408372,
+    "GBP/USD|4H:bot": 1794175506.7852905,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794174885.7648838,
-  "last_news": 1794174894.5085404,
+  "last_analysis": 1794175496.524185,
+  "last_news": 1794175505.5614684,
   "seen_news": [
-    "Tr\u00ean h\u00e0nh tinh n\u00e0y duy nh\u1ea5t Nga h\u1ecdc \u0111\u01b0\u1ee3c c\u00e1ch l\u00e0m: C\u1ed7 m\u00e1y \"c\u1ee9 d\u00f9ng h\u1ebft l\u1ea1i \u0111\u1ea7y\" ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
-    "Iron Mountain Q3 Earnings Call Highlights - TradingView",
-    "Trump offers UFC chief Dana White press secretary job",
-    "My hometown shows that high streets have to change or die",
-    "Iran responds positively to latest mediator proposal - report",
     "X\u1eed ph\u1ea1t 2 doanh nghi\u1ec7p do vi ph\u1ea1m c\u00f4ng b\u1ed1 th\u00f4ng tin",
     "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost",
     "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
@@ -459,6 +453,12 @@
     "Graduates are managing AI - but are they learning much else?",
     "Dollar little changed as oil prices bounce, payrolls eyed",
     "What are the main events for today?",
-    "\u0102n tr\u1ee9ng ki\u1ec3u n\u00e0y, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng su\u00fdt ho\u1ea1i t\u1eed ru\u1ed9t"
+    "\u0102n tr\u1ee9ng ki\u1ec3u n\u00e0y, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng su\u00fdt ho\u1ea1i t\u1eed ru\u1ed9t",
+    "Winter support for residents facing cost pressures",
+    "Democratic Win Set to Reshuffle U.S. Energy Policy",
+    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+    "NZD firms in early Asia as New Zealand faces weeks of political limbo",
+    "Nam ngh\u1ec7 s\u0129 SN 1955 l\u00e0 \"vua h\u1ec1 \u0111\u1ea5t Nam\" r\u1eddi M\u1ef9 v\u1ec1 n\u01b0\u1edbc, U75 s\u1ed1ng vi\u00ean m\u00e3n b\u00ean v\u1ee3",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn"
   ]
 }
