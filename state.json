@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794206997.2020726,
+  "last_signals": 1794207603.3226664,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -61,10 +61,10 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794206986.972218,
-  "last_news": 1794206997.2006032,
+  "last_analysis": 1794207595.1956854,
+  "last_news": 1794207603.3218653,
   "seen_news": [
-    "Australian lender ANZ reports 31% rise in full-year cash profit",
-    "Broader US stock indices bounce higher but still has work to do to give buyers m",
-    "TP H\u1ed3 Ch\u00ed Minh s\u1eb5n s\u00e0ng kh\u1edfi c\u00f4ng 5 tuy\u1ebfn metro cu\u1ed1i n\u0103m 2026",
-    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
-    "Avery Dennison Director Sold Shares Worth Over $775K - TradingView",
-    "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-che",
     "Brands are sponsoring IRL communities. Some experts say that could spell their e",
     "Ipswich Town's new club shop 'here to stay'",
     "RBA\u2019s Hunter says AI has yet to deliver productivity boost, trigger job losses",
@@ -455,6 +449,12 @@
     "Weekend: Trump says new Iran strikes \u2018highly unlikely\u2019 five times (but three car",
     "\u0110\u1ea5t thu\u00ea tr\u1ea3 ti\u1ec1n h\u1eb1ng n\u0103m c\u00f3 \u0111\u01b0\u1ee3c chuy\u1ec3n cho con ch\u00e1u?",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: Q3 sales and EBITDA growth and takeover offer rejected - TradingVi"
+    "Weekly Recap: Q3 sales and EBITDA growth and takeover offer rejected - TradingVi",
+    "'M\u1ef9 nh\u00e2n \u0111\u1eb9p nh\u1ea5t phim Ch\u00e2u Tinh Tr\u00ec' gi\u1ea3i ngh\u1ec7 \u1edf tu\u1ed5i 28 gi\u1edd ra sao?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Weekly Recap: Malaysia gas stakes and Jiangsu LNG supply deal - TradingView",
+    "Trump offers UFC chief Dana White press secretary job",
+    "Welsh aviation firm AerFin bought in \u00a3475m deal",
+    "Dollar holds gains after strong U.S. jobs data; China CPI in focus"
   ]
 }
