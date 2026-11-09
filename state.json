@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794173956.1531556,
-  "last_bot4": 1794182040.5431252,
+  "last_bot4": 1794182709.7977297,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794181356.4209175
+    "Gold": 1794182709.7976604
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794182040.5435889,
+  "last_signals": 1794182709.7985783,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794181673.8571854,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -67,7 +67,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -82,15 +82,15 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
-    "USD/JPY|1D": false,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
+    "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": true,
-    "JPY Index|1H": false,
-    "JPY Index|4H": false,
-    "JPY Index|1D": false
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1794182968,
   "menu_prices": {
@@ -147,7 +147,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794182043.195396,
+    "GBP/USD|4H:bot": 1794182711.989387,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1793873292.584942,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794182345.560504,
-  "last_news": 1794182040.5422833,
+  "last_analysis": 1794182698.012181,
+  "last_news": 1794182707.019428,
   "seen_news": [
-    "What James Hardie Industries (JHX) Said on Its Q2 Earnings Call - TradingView",
-    "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just ",
-    "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "IEA Sees 4,800 GW of New Renewables by 2031",
-    "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
     "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
     "Doximity Q2 Earnings Call Highlights - TradingView",
     "Second-guessing my adviser: Is an annuity the right move in this market?",
@@ -458,6 +452,12 @@
     "How much in Roth conversions can you do in 2027 with the new tax brackets?",
     "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
     "Three ways the interest rate rise could affect you",
-    "BOJ chief Ueda sees \u2019some upside risks\u2019 to inflation"
+    "BOJ chief Ueda sees \u2019some upside risks\u2019 to inflation",
+    "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
+    "How video game remakes tap the power of nostalgia",
+    "Iraq\u2019s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+    "Trump eyes Xi, Putin meeting at APEC on Iran war, says he\u2019d \u2018certainly take\u2019 Hua",
+    "Th\u00f3i quen bu\u1ed5i s\u00e1ng c\u00f3 th\u1ec3 l\u00e0m t\u0103ng nguy c\u01a1 s\u1ecfi th\u1eadn",
+    "R\u1ee6I RO H\u1ea0 NHI\u1ec6T, TH\u1eca TR\u01af\u1edcNG CH\u1edc \u0110\u1ed8NG L\u1ef0C - VietstockFinance"
   ]
 }
