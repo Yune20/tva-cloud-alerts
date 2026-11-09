@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794229572.5251281,
+  "last_signals": 1794230174.7102983,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794229573.4874284,
+    "Bitcoin|1D:bot": 1794230175.320051,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -154,14 +154,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794229878.555932,
-  "last_news": 1794229572.52154,
+  "last_news": 1794230174.7095437,
   "seen_news": [
-    "US dollar holds onto payrolls gains, NZ dollar rises after election - TradingVie",
-    "What the Democratic midterms sweep changes for U.S.-China relations",
-    "Rainmakers: The drones used to seed clouds",
-    "Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus",
-    "Trump: We are talking to Iran, we are doing very well with Iran",
-    "\u0102n n\u1eafm rau n\u00e0y gi\u00e0u \u0111\u1ea1m ch\u1eb3ng k\u00e9m th\u1ecbt, ch\u1ee3 Vi\u1ec7t b\u00e1n v\u00f4 s\u1ed1 m\u00e0 nhi\u1ec1u ng\u01b0\u1eddi kh\u00f4ng ",
     "Taiwan shares rally 6% as short-sale curbs and NT$500 bln fund lift sentiment",
     "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil stea",
     "B\u00e0i to\u00e1n chuy\u1ec3n giao t\u00e0i s\u1ea3n khi ng\u01b0\u1eddi th\u1eeba k\u1ebf kh\u00f4ng mu\u1ed1n \u0111i\u1ec1u h\u00e0nh",
@@ -455,6 +449,12 @@
     "Weekly Recap: Q3 revenue below expectations and Rosenblatt downgrade - TradingVi",
     "These states are offering extra ACA premium subsidies in 2027",
     "Living with a stink? Technology might help",
-    "The Global Race to Harness Solar Power From Space"
+    "The Global Race to Harness Solar Power From Space",
+    "Weekly Recap: Lenacapavir HIV prevention and Livdelzi ALP normalization - Tradin",
+    "Until AI sentiment improves, it\u2019s better to sit out the global tech trade, Citi ",
+    "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new make",
+    "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
+    "investingLive European news wrap: Markets await fresh US-Iran developments, US C"
   ]
 }
