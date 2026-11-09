@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794205410.1439593,
+  "last_signals": 1794206023.4223757,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -64,8 +64,8 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794205402.419572,
-  "last_news": 1794205410.1424692,
+  "last_analysis": 1794206015.3969572,
+  "last_news": 1794206023.4215803,
   "seen_news": [
-    "Stanley Black & Decker Q3 Earnings Call Highlights - TradingView",
-    "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why ",
-    "Why Gen Z are planning for life without a state pension",
-    "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hike",
-    "Suspected Iranian drone strike halts Iraq gas field, cuts two thirds of Kurdista",
-    "Shark B\u00ecnh mu\u1ed1n s\u1edbm \u0111\u01b0\u1ee3c ch\u1ea5p h\u00e0nh \u00e1n",
     "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jett",
     "Welsh aviation firm AerFin bought in \u00a3475m deal",
     "Could HBF be the solution to the Memory bottleneck?",
@@ -455,6 +449,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
     "India bonds could rally some more as fundamentals favour bulls - TradingView",
     "How Democrats will try to end Trump's tariffs",
-    "How you can get council's \u00a3250 cost of living help"
+    "How you can get council's \u00a3250 cost of living help",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-11-09 \u2014 cnbctv:d3dc38c2d094b:0 - TradingV",
+    "Using miles to fly for Thanksgiving? These are the most expensive and cheapest r",
+    "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+    "Democratic Win Set to Reshuffle U.S. Energy Policy",
+    "Why is Stockland stock sliding today?"
   ]
 }
