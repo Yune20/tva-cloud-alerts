@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794245442.4147952,
+  "last_signals": 1794246035.4798934,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -68,7 +68,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794245443.6445973,
+    "Bitcoin|1D:bot": 1794246036.4461665,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -154,14 +154,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794245745.6183257,
-  "last_news": 1794245442.4137692,
+  "last_news": 1794246035.4792743,
   "seen_news": [
-    "Why is SAP stock rallying today?",
-    "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
-    "'Soi' c\u00f4ng tr\u01b0\u1eddng tuy\u1ebfn \u0111\u01b0\u1eddng s\u1eaft nh\u1eb9 9.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam d\u1ef1 ki\u1ebf",
-    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "SharkNinja Q3 Earnings Call Highlights - TradingView",
-    "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Hu",
     "\u0110\u1ec1 xu\u1ea5t ga Gia L\u00e2m l\u00e0 \u0111\u1ea7u m\u1ed1i k\u1ebft n\u1ed1i tr\u1ef1c ti\u1ebfp t\u1edbi s\u00e2n bay Gia B\u00ecnh",
     "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
     "AS Tallinna Sadam Q3 2026 Earnings Call Is Live - TradingView",
@@ -455,6 +449,12 @@
     "Morgan Stanley says buy the AI dip, sees $3.4 trillion in hyperscaler spending t",
     "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng t\u1eebng \u0111\u1ea1p xe h\u01a1n 15 km \u0111i b\u00e1n tr\u00e0, c\u00e0 ph\u00ea kh\u1eafp S\u00e0i G\u00f2n, nay g\u00e2y d\u1ef1n",
     "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
-    "Micron's 26 SCAs: Can Take-or-Pay Deals Boost Earnings Stability? - TradingView"
+    "Micron's 26 SCAs: Can Take-or-Pay Deals Boost Earnings Stability? - TradingView",
+    "NY Fed October survey shows 1, 3 and 5 year inflation expectations unchanged",
+    "Khoan th\u0103m d\u00f2 v\u00e0o t\u1ea7ng \u0111\u1ecba ch\u1ea5t, ph\u00e1t hi\u1ec7n m\u1ecf ch\u1ee9a 75 tri\u1ec7u m\u00b3 kh\u00ed \u0111\u1ed1t \u1edf \u0111\u1ed9 s\u00e2u ",
+    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
+    "Gilead Highlights Strong Trial Results in HIV Prevention and Liver Disease - Tra",
+    "There is no one at Nvidia who would be ready to replace Jensen Huang",
+    "We're adding a consumer stock to diversify beyond the volatile AI trade"
   ]
 }
