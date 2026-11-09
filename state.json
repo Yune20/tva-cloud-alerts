@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794256951.95697,
-  "last_bot4": 1794263707.4544082,
+  "last_bot4": 1794264386.0865815,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794264024.3497667,
+  "last_signals": 1794264386.0872877,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794264024.874831,
+    "Bitcoin|1D:bot": 1794264386.8681304,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794264017.2233913,
-  "last_news": 1794264024.34892,
+  "last_analysis": 1794264380.2491279,
+  "last_news": 1794264386.0832336,
   "seen_news": [
-    "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "UBS turns cautious on Schott Pharma as glass syringe demand risks mount",
-    "Solana remains skewed to the downside amid negative macro backdrop as US CPI loo",
-    "C\u00f4ng an x\u00e1c \u0111\u1ecbnh 3 ng\u01b0\u1eddi \u0111\u0103ng tin ch\u01b0a ki\u1ec3m ch\u1ee9ng v\u1ec1 Tr\u01b0\u1eddng Giang",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Weekly Recap: Barclays cuts price target and Q3 revenue declines - TradingView",
     "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkis",
     "Khu chung c\u01b0 \u0110\u1ea1i Thanh (M\u01b0\u1eddng Thanh): C\u00f3 s\u1ed5 h\u1ed3ng v\u1eabn lo m\u1ea5t nh\u00e0",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -455,6 +449,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Procore Technologies Q3 Earnings Call Highlights - TradingView",
     "3 unexpected reasons the October jobs report was so strong",
-    "How video game remakes tap the power of nostalgia"
+    "How video game remakes tap the power of nostalgia",
+    "HLV Kim Sang-sik \u0111\u1ed1i m\u1eb7t hai b\u00e0i to\u00e1n kh\u00f3: \u0110\u1ed9i tuy\u1ec3n s\u1ee9t m\u1ebb l\u1ef1c l\u01b0\u1ee3ng, t\u01b0\u01a1ng lai",
+    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
+    "Inflation is expected to remain stubborn in CPI's October reading - TradingView",
+    "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese in",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Dollar slips, taking a breather after last week\u2019s advance a day ahead of CPI tes"
   ]
 }
