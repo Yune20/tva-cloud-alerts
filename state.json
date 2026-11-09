@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794187975.5967817,
+  "last_signals": 1794188583.867594,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -82,13 +82,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794188847,
   "menu_prices": {
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794187357.7752173,
+    "Bitcoin|4H:bot": 1794188584.6723733,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794187966.2780554,
-  "last_news": 1794187975.595534,
+  "last_analysis": 1794188575.968963,
+  "last_news": 1794188583.8665202,
   "seen_news": [
-    "'I was asked if I was a crier': Your worst job interviews revealed",
-    "China energy investment to hit $940 billion in 2026 as grid spending rises",
-    "Fed's Daly: Jobs report is good news",
-    "\u1ea4n \u0110\u1ed9 kh\u00f3 ch\u1ecbu v\u00ec M\u1ef9 \u2018ti\u00eau chu\u1ea9n k\u00e9p\u2019 v\u1edbi Iran v\u00e0 Pakistan",
-    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Roku directors including Anthony Wood and Jeffrey Blackburn resign in merger - T",
     "How long will humans be needed for translation?",
     "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
     "Eurozone retail sales fall 0.7% in September, signalling weakening consumer dema",
@@ -456,6 +450,12 @@
     "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
     "Vietcombank, VietinBank, BIDV, Agribank, Techcombank, MB, ACB,... s\u1ebd t\u1ef1 \u0111\u1ed9ng \u0111\u00f3n",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
-    "USANA Health Sciences Q3 Earnings Call Highlights - TradingView"
+    "USANA Health Sciences Q3 Earnings Call Highlights - TradingView",
+    "The engine parts that 'fight the laws of the universe'",
+    "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+    "US dollar holds onto payrolls gains, NZ dollar rises after election",
+    "Markets price three more BoE hikes, but analysts see a shallower path after move",
+    "Hai \u0111o\u00e0n t\u00e0u \u0111\u00e2m nhau \u1edf Ai C\u1eadp: H\u01a1n 90 ng\u01b0\u1eddi th\u01b0\u01a1ng vong",
+    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance"
   ]
 }
