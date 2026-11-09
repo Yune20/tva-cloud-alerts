@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794218041.8023112,
+  "last_signals": 1794218658.7012935,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794218032.173696,
-  "last_news": 1794218041.8013747,
+  "last_analysis": 1794218650.0871906,
+  "last_news": 1794218658.7003975,
   "seen_news": [
-    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: Q2 earnings beat and H1 orders total Rs 75 billion - TradingView",
-    "Funeral homes are finding new life hosting weddings and golf outings, as the tra",
-    "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
-    "'I was asked if I was a crier': Your worst job interviews revealed",
-    "Wall St futures mixed amid AI spending concerns; inflation data awaited",
     "HA Sustainable Infrastructure Capital Q3 Earnings Call Highlights - TradingView",
     "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
     "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
@@ -455,6 +449,12 @@
     "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
     "Inside the card-grading empire shaping the price of Pok\u00e9mon cards",
     "Why the US midterms sparked an AI stock selloff",
-    "Deutsche Bank reports equity positioning drops to underweight"
+    "Deutsche Bank reports equity positioning drops to underweight",
+    "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 mil",
+    "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data cent",
+    "Pound rises to its highest level since the Brexit referendum",
+    "Dollar retreats from post-jobs spike as traders brace for U.S. CPI test",
+    "Eurozone Sentix investor confidence weakens further in November as global growth",
+    "S\u1ef1 c\u1ed1 \"l\u1ea1 \u0111\u1eddi\" ng\u00e0nh h\u00e0ng kh\u00f4ng: Ng\u1ee7 qu\u00ean tr\u00ean m\u00e1y bay, n\u1eef h\u00e0nh kh\u00e1ch t\u1ec9nh d\u1eady v"
   ]
 }
