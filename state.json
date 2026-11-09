@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794191133.3092005,
+  "last_signals": 1794191755.71859,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -82,13 +82,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794192008,
   "menu_prices": {
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794191133.7177072,
+    "Bitcoin|4H:bot": 1794191756.210474,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794180450.2288628,
+    "Bitcoin|1D:bot": 1794191756.2104905,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794191123.6746027,
-  "last_news": 1794191133.3082469,
+  "last_analysis": 1794191746.9294765,
+  "last_news": 1794191755.71775,
   "seen_news": [
-    "MetLife Q3 Earnings Call Highlights - TradingView",
-    "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported Ch",
-    "Elon Musk appears to signal the end of the road for Cybertruck",
-    "EU, UK near post-Brexit carbon market linkage deal - Bloomberg",
-    "US Q3 productivity +3.6% vs +2.8% expected",
-    "Ng\u00e0y 9/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 9 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacomb",
     "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "News by CNBC TV18 on TradingView, 2026-11-08 \u2014 cnbctv:ea473a8d7094b:0 - TradingV",
     "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more th",
@@ -456,6 +450,12 @@
     "Weekly Recap: EBITDA up 56% and \u20b935,000\u201340,000 crore capex planned - TradingView",
     "Mark Cuban says he doesn\u2019t \u2018give a f---' about growing his net worth\u2014a healthy m",
     "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    "How Big Oil Became the AI Industry's Favorite Customer"
+    "How Big Oil Became the AI Industry's Favorite Customer",
+    "Greenfire Resources Ltd. (GFR) Q3 Production Doubles to 27,166 bbl/d - TradingVi",
+    "China wholesale inflation hits highest in more than four years as consumer measu",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Wall Street\u2019s \u201cEnergy Transition\u201d Funds Are Packed With Natural Gas",
+    "US Treasury sanctions Canadian money services firms over Iran-related transactio",
+    "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkis"
   ]
 }
