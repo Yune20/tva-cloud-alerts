@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1794239605.5568454,
-  "last_bot4": 1794247296.354423,
+  "last_news_report": 1794256951.95697,
+  "last_bot4": 1794256954.9246068,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794246659.5715444
+    "Gold": 1794256954.9243765
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794247588.4056551,
+  "last_signals": 1794256954.926036,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -58,9 +58,9 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
-    "Gold|1D": true,
+    "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
@@ -70,7 +70,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794247589.7591398,
+    "Bitcoin|1D:bot": 1794256955.4135342,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794247296.3530405,
-  "last_news": 1794247588.404822,
+  "last_analysis": 1794256937.4966187,
+  "last_news": 1794256945.6117609,
   "seen_news": [
-    "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 mil",
-    "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data cent",
-    "Pound rises to its highest level since the Brexit referendum",
-    "Dollar retreats from post-jobs spike as traders brace for U.S. CPI test",
-    "Eurozone Sentix investor confidence weakens further in November as global growth",
-    "S\u1ef1 c\u1ed1 \"l\u1ea1 \u0111\u1eddi\" ng\u00e0nh h\u00e0ng kh\u00f4ng: Ng\u1ee7 qu\u00ean tr\u00ean m\u00e1y bay, n\u1eef h\u00e0nh kh\u00e1ch t\u1ec9nh d\u1eady v",
     "'I was asked if I was a crier': Your worst job interviews revealed",
     "Sterling today: Pound firms as dollar retreats from Friday rally",
     "Market outlook for the week of 9th - 13th November",
@@ -455,6 +449,12 @@
     "This Canadian energy stock trades at a steep discount to peers, Scotiabank says",
     "Trump eyes Xi, Putin meeting at APEC on Iran war, says he\u2019d \u2018certainly take\u2019 Hua",
     "Ng\u00e0y 10/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 15 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Saco",
-    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance"
+    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
+    "Stock markets hit fresh highs on Iran headlines",
+    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01a1n 9999 s\u00e1ng 10/11",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
+    "Apple Makes Major AI Pricing Move as New Revenue Opportunity Emerges - TradingVi",
+    "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still",
+    "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the"
   ]
 }
