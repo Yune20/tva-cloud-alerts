@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794210664.1677544,
+  "last_signals": 1794211274.9561524,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
-    "5575146754|Gold|4H|range_in": 1793928903.8100035,
+    "5575146754|Gold|4H|range_in": 1794211274.9561524,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -59,7 +59,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794210656.0177193,
-  "last_news": 1794210664.166827,
+  "last_analysis": 1794211265.5131679,
+  "last_news": 1794211274.9554124,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb N\u1eaeM GI\u1eee v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 35,100 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinanc",
-    "Brookfield Asset Management Q3 Earnings Call Highlights - TradingView",
-    "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
-    "Three ways the interest rate rise could affect you",
-    "BOJ chief Ueda sees \u2019some upside risks\u2019 to inflation",
     "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
     "How video game remakes tap the power of nostalgia",
     "Iraq\u2019s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
@@ -455,6 +449,12 @@
     "You follow the rules for smart stock trading. But are they the right rules?",
     "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Rep",
     "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Explainer-What we know about Nvidia\u2019s probe into CEO Jensen Huang"
+    "Explainer-What we know about Nvidia\u2019s probe into CEO Jensen Huang",
+    "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
+    "Is NVDA stock a buy or sell? Spy alert?",
+    "Sau m\u1ed9t n\u0103m kh\u1edfi c\u00f4ng, si\u00eau c\u00f4ng tr\u00ecnh 4.030 ch\u1ed7 ng\u1ed3i, l\u1edbn h\u01a1n c\u1ea3 n\u01a1i trao gi\u1ea3i ",
+    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
+    "EcoSynthetix Q3 Earnings Call Highlights - TradingView",
+    "Stock market after midterm elections: What S&P 500 history shows"
   ]
 }
