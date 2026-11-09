@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794264995.4150202,
+  "last_signals": 1794265613.7751765,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -64,10 +64,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794264996.3258896,
+    "Bitcoin|1D:bot": 1794265614.3159378,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794264984.4664457,
-  "last_news": 1794264995.4142015,
+  "last_analysis": 1794265603.37788,
+  "last_news": 1794265613.7741504,
   "seen_news": [
-    "Ch\u00e1y d\u1eef d\u1ed9i nh\u00e0 h\u00e0ng tr\u00ean \u0111\u01b0\u1eddng bao bi\u1ec3n Qu\u1ea3ng Ninh",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
-    "Amundi lifts Strategy stake 43.7% with $72.3 million share purchase - TradingVie",
-    "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
-    "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows g",
-    "PM tells firms to publish salaries in job adverts ahead of new law",
     "Claritev beats Q3 revenue estimates, raises forecast - TradingView",
     "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
     "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit",
@@ -455,6 +449,12 @@
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111i h\u00e1t karaoke ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a c\u00f4ng an v\u1ec1 m\u1ee9c ph\u1ea1t",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "General Dynamics Chairman, CEO Sold Shares Worth Over $16M - TradingView",
-    "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark"
+    "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
+    "AST SpaceMobile Q3 2026 Earnings Call Is Live - TradingView",
+    "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
+    "This beaten-down data center stock could be worth a look, says Mike Khouw",
+    "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%"
   ]
 }
