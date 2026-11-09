@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794201321.0341642,
+  "last_signals": 1794201931.3838868,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -61,14 +61,14 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794202192,
   "menu_prices": {
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794201312.8584123,
-  "last_news": 1794201321.0334394,
+  "last_analysis": 1794201922.0559487,
+  "last_news": 1794201931.383184,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
-    "What Vermilion Energy (VET) Said on Its Q3 Earnings Call - TradingView",
-    "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
-    "Why the UK is dithering over what to do about e-scooters",
-    "Nvidia CEO Jensen Huang admits to affair, apologises to employees",
-    "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs ",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "What National Fuel Gas (NFG) Said on Its Q4 Earnings Call - TradingView",
     "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
@@ -455,6 +449,12 @@
     "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting pe",
     "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
     "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
-    "Trump chief of staff Susie Wiles to be replaced by Stephen Miller"
+    "Trump chief of staff Susie Wiles to be replaced by Stephen Miller",
+    "Anthropic IPO to move forward despite tech selloff: FT - TradingView",
+    "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+    "Why is Mitsui Chemicals stock tumbling today?",
+    "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capa",
+    "CEO Jensen Huang c\u1ee7a Nvidia gi\u00e0u th\u1ee9 m\u1ea5y th\u1ebf gi\u1edbi?"
   ]
 }
