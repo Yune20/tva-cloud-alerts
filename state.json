@@ -29,12 +29,11 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794200715.5561297,
+  "last_signals": 1794201321.0341642,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
-    "5575146754|Gold|1D|dn": 1793596081.9416704,
     "5575146754|Gold|1D|trap_dn": 1793662246.15978,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1793854837.1009996,
@@ -62,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -82,13 +81,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1794201587,
   "menu_prices": {
@@ -154,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794200705.5160923,
-  "last_news": 1794200715.555126,
+  "last_analysis": 1794201312.8584123,
+  "last_news": 1794201321.0334394,
   "seen_news": [
-    "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate ",
-    "C\u1ef1u sinh vi\u00ean \u0111\u1ea1i h\u1ecdc B\u00e1ch khoa x\u00e2y d\u1ef1ng 2 th\u01b0\u01a1ng hi\u1ec7u ti\u00eau d\u00f9ng v\u1ea1n ng\u01b0\u1eddi m\u00ea, l",
-    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Ingersoll Rand Officer Sold Shares Worth Over $831K - TradingView",
-    "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
     "What Vermilion Energy (VET) Said on Its Q3 Earnings Call - TradingView",
     "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
@@ -456,6 +449,12 @@
     "B\u00e0i to\u00e1n chuy\u1ec3n giao t\u00e0i s\u1ea3n khi ng\u01b0\u1eddi th\u1eeba k\u1ebf kh\u00f4ng mu\u1ed1n \u0111i\u1ec1u h\u00e0nh",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "Teleflex Q3 Earnings Call Highlights - TradingView",
-    "From supermarket fridges to passenger flights, a wave of threats is testing Euro"
+    "From supermarket fridges to passenger flights, a wave of threats is testing Euro",
+    "What Southwest Gas (SWX) Said on Its Q3 Earnings Call - TradingView",
+    "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting pe",
+    "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
+    "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
+    "Trump chief of staff Susie Wiles to be replaced by Stephen Miller"
   ]
 }
