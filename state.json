@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794215551.8436701,
+  "last_signals": 1794216178.127597,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -61,11 +61,11 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -123,7 +123,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794215552.3005176,
+    "Bitcoin|4H:bot": 1794216178.56229,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -135,7 +135,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794215552.4538305,
+    "Ethereum|4H:bot": 1794216178.7501783,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794215543.8575914,
-  "last_news": 1794215551.8429077,
+  "last_analysis": 1794216169.1806805,
+  "last_news": 1794216178.0696177,
   "seen_news": [
-    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
-    "What Walker & Dunlop (WD) Said on Its Q3 Earnings Call - TradingView",
-    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
-    "Inside the card-grading empire shaping the price of Pok\u00e9mon cards",
-    "Pound rises to its highest level since the Brexit referendum",
-    "Brazil\u2019s Lula, worried about high interest rates, pledges budget discipline",
     "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "SpaceX has had limited impact on stock indexes, Goldman Sachs says - TradingView",
     "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
@@ -455,6 +449,12 @@
     "Why is Banco BPM stock surging today?",
     "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran a",
     "Fed c\u00f3 th\u1ec3 ti\u1ebfp t\u1ee5c t\u0103ng l\u00e3i su\u1ea5t trong th\u00e1ng 12, th\u1ecb tr\u01b0\u1eddng n\u00e2ng x\u00e1c su\u1ea5t l\u00ean 8",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Why is SAP stock rallying today?",
+    "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
+    "'Soi' c\u00f4ng tr\u01b0\u1eddng tuy\u1ebfn \u0111\u01b0\u1eddng s\u1eaft nh\u1eb9 9.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam d\u1ef1 ki\u1ebf",
+    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "SharkNinja Q3 Earnings Call Highlights - TradingView",
+    "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Hu"
   ]
 }
