@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794216178.127597,
+  "last_signals": 1794216805.6637845,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -75,7 +75,7 @@
     "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
-    "GBP/USD|1D": true,
+    "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
@@ -123,7 +123,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794216178.56229,
+    "Bitcoin|4H:bot": 1794216806.6044347,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -135,7 +135,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794216178.7501783,
+    "Ethereum|4H:bot": 1794216806.942508,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794216169.1806805,
-  "last_news": 1794216178.0696177,
+  "last_analysis": 1794216797.4840128,
+  "last_news": 1794216805.6628542,
   "seen_news": [
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "SpaceX has had limited impact on stock indexes, Goldman Sachs says - TradingView",
-    "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
-    "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midter",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Energy Reliability Is Becoming More Important Than Energy Politics",
     "Why the US midterms sparked an AI stock selloff",
     "Berkshire Hathaway speeds up stock buybacks, though profit falls",
     "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
@@ -455,6 +449,12 @@
     "'Soi' c\u00f4ng tr\u01b0\u1eddng tuy\u1ebfn \u0111\u01b0\u1eddng s\u1eaft nh\u1eb9 9.000 t\u1ef7 \u0111\u1ed3ng \u0111\u1ea7u ti\u00ean c\u1ee7a Vi\u1ec7t Nam d\u1ef1 ki\u1ebf",
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "SharkNinja Q3 Earnings Call Highlights - TradingView",
-    "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Hu"
+    "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Hu",
+    "\u0110\u1ec1 xu\u1ea5t ga Gia L\u00e2m l\u00e0 \u0111\u1ea7u m\u1ed1i k\u1ebft n\u1ed1i tr\u1ef1c ti\u1ebfp t\u1edbi s\u00e2n bay Gia B\u00ecnh",
+    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
+    "AS Tallinna Sadam Q3 2026 Earnings Call Is Live - TradingView",
+    "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
+    "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alle",
+    "Nvidia launches investigation into CEO's affair with suspected Chinese spy"
   ]
 }
