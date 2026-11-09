@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794221114.6920614,
+  "last_signals": 1794221732.7174187,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794221104.7714047,
-  "last_news": 1794221114.6909463,
+  "last_analysis": 1794221722.6583114,
+  "last_news": 1794221732.7164981,
   "seen_news": [
-    "Greenfire Resources Ltd. (GFR) Q3 Production Doubles to 27,166 bbl/d - TradingVi",
-    "China wholesale inflation hits highest in more than four years as consumer measu",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Wall Street\u2019s \u201cEnergy Transition\u201d Funds Are Packed With Natural Gas",
-    "US Treasury sanctions Canadian money services firms over Iran-related transactio",
-    "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkis",
     "Mitsui Chemicals to buy chip materials maker JSR for $11 bln",
     "PBOC sets USD/ CNY reference rate for today at 6.7188 (vs. estimate at 6.6799)",
     "Ph\u1ed1 H\u00e0 N\u1ed9i \u00f9n t\u1eafc k\u00e9o d\u00e0i s\u00e1ng \u0111\u1ea7u tu\u1ea7n m\u01b0a l\u1ea1nh",
@@ -455,6 +449,12 @@
     "US dollar holds onto payrolls gains, NZ dollar rises after election",
     "Ethereum remains vulnerable to further downside as traders brace for US CPI and ",
     "XSMT 9/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Trung h\u00f4m nay ng\u00e0y 9 th\u00e1ng 11",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+    "Di\u1ec5n bi\u1ebfn m\u01b0a l\u1edbn \u1edf mi\u1ec1n B\u1eafc, mi\u1ec1n Trung nh\u1eefng ng\u00e0y t\u1edbi",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "thyssenkrupp AG (TKA) Receives Goldman Sachs Voting Rights Notification - Tradin",
+    "The biggest takeaway from Berkshire Hathaway\u2019s latest quarter isn\u2019t the $357 bil",
+    "Cathie Wood 'always feels better when the market is worried' \u2014 here's why"
   ]
 }
