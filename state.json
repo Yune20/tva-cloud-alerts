@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794187357.3569043,
+  "last_signals": 1794187975.5967817,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794187349.8841913,
-  "last_news": 1794187357.3562732,
+  "last_analysis": 1794187966.2780554,
+  "last_news": 1794187975.595534,
   "seen_news": [
-    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
-    "Elliptic Traces $124M in Bitcoin Swaps From Binance Hack Funds - TradingView",
-    "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
-    "The engine parts that 'fight the laws of the universe'",
-    "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-    "China AI bust threatens Xi\u2019s \u2019Wall Street East\u2019 ambitions",
     "'I was asked if I was a crier': Your worst job interviews revealed",
     "China energy investment to hit $940 billion in 2026 as grid spending rises",
     "Fed's Daly: Jobs report is good news",
@@ -456,6 +450,12 @@
     "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
     "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midter",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Energy Reliability Is Becoming More Important Than Energy Politics"
+    "Energy Reliability Is Becoming More Important Than Energy Politics",
+    "Why the US midterms sparked an AI stock selloff",
+    "Berkshire Hathaway speeds up stock buybacks, though profit falls",
+    "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
+    "Vietcombank, VietinBank, BIDV, Agribank, Techcombank, MB, ACB,... s\u1ebd t\u1ef1 \u0111\u1ed9ng \u0111\u00f3n",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
+    "USANA Health Sciences Q3 Earnings Call Highlights - TradingView"
   ]
 }
