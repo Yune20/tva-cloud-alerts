@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794203150.7842183,
+  "last_signals": 1794203773.420884,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794203142.2432754,
-  "last_news": 1794203150.7834663,
+  "last_analysis": 1794203761.5600014,
+  "last_news": 1794203773.4201465,
   "seen_news": [
-    "Ban \u0111\u1ea1i di\u1ec7n ph\u1ee5 huynh v\u1eadn \u0111\u1ed9ng g\u00f3p ti\u1ec1n t\u1ed5 ch\u1ee9c ti\u1ec7c 20/11, x\u00e3 y\u00eau c\u1ea7u ho\u00e0n tr\u1ea3",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Trump\u2019s $1.5T defense plan faces roadblock after midterm losses - TradingView",
-    "Nvidia\u2019s board will probe CEO Jensen Huang\u2019s relationship with an alleged spy. H",
-    "Trump says renewed Iran strikes \u2018highly unlikely\u2019 if talks progress but warns he",
-    "AI stocks climb after trillions wiped from market values",
     "News by CNBC TV18 on TradingView, 2026-11-08 \u2014 cnbctv:ea542d4aa094b:0 - TradingV",
     "How Democrats will try to end Trump's tariffs",
     "Graduates are managing AI - but are they learning much else?",
@@ -455,6 +449,12 @@
     "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Gold rises over 1% as softer oil prices ease inflation worries - TradingView",
     "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
-    "Traders 'priced out' of \u00a312,000 Christmas market pitches"
+    "Traders 'priced out' of \u00a312,000 Christmas market pitches",
+    "Weekly Recap: BPCE takes 7% stake and Sabadell repurchases 4.35m shares - Tradin",
+    "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
+    "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightes",
+    "Oil Prices Fall as Trump Signals No New Attacks on Iran",
+    "Why is Seegene stock plunging today?",
+    "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected"
   ]
 }
