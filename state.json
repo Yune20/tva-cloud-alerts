@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794211889.1945214,
+  "last_signals": 1794212500.7308373,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -59,7 +59,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
     "USOIL|4H": true,
@@ -123,7 +123,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794192984.7088382,
+    "Bitcoin|4H:bot": 1794212501.2030344,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794211876.7517166,
-  "last_news": 1794211889.1936333,
+  "last_analysis": 1794212492.15881,
+  "last_news": 1794212500.7299252,
   "seen_news": [
-    "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
-    "Recap - BOJ\u2019s Ueda sees inflation near 2% but flags upside risks as energy costs",
-    "Ho\u00e0ng h\u1eadu 42 tu\u1ed5i \u0111\u1eb9p tr\u00e0n m\u00e0n \u1ea3nh H\u00e0n: Nhan s\u1eafc l\u1eabn style ngo\u00e0i \u0111\u1eddi c\u1ef1c cu\u1ed1n",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
-    "Evolution AB (publ) (EVO) Continues Buyback With \u20ac675.3M Remaining - TradingView",
-    "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
     "China steps up market stabilisation push: three short-term priorities for equiti",
     "B\u1eafc B\u1ed9 m\u01b0a to, tr\u1eddi chuy\u1ec3n r\u00e9t",
     "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
@@ -455,6 +449,12 @@
     "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
     "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
     "China Cuts LNG Imports as Cheap Domestic Gas Undercuts Global Prices",
-    "Argenx to acquire biotech firm Unnatural Products for $1.15 billion"
+    "Argenx to acquire biotech firm Unnatural Products for $1.15 billion",
+    "FX option expiries for 9 November 10am New York cut",
+    "Chuy\u00ean gia: V\u00f4 t\u00ecnh ti\u1ebfp nh\u1eadn d\u00f2ng ti\u1ec1n sau, t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u1ee7a nh\u00e0 \u0111\u1ea7u t\u01b0 ",
+    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
+    "Weekly Recap: Sustainability-linked financing and Bitop Japan distribution - Tra",
+    "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
+    "Interest rates hiked to 4% in first increase in over three years"
   ]
 }
