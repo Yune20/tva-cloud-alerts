@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794209433.3660831,
+  "last_signals": 1794210045.2515974,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -73,11 +73,11 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794209426.3402622,
-  "last_news": 1794209433.3651614,
+  "last_analysis": 1794210035.3172562,
+  "last_news": 1794210045.250195,
   "seen_news": [
-    "U.S. military disables cargo vessel attempting to breach Iran blockade",
-    "Is NVDA stock a buy or sell? Spy alert?",
-    "Kho\u1ea3n n\u1ee3 c\u1ee7a \u00f4ng Nguy\u1ec5n H\u1ed3 Nam s\u1ebd \u0111\u01b0\u1ee3c \u0111\u1ea5u gi\u00e1 v\u00e0o ng\u00e0y 23/11, t\u00e0i s\u1ea3n b\u1ea3o \u0111\u1ea3m l",
-    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
-    "SIQ: Record customer growth underpins $92\u201394m CY2026 NPATA guidance - TradingVie",
-    "You follow the rules for smart stock trading. But are they the right rules?",
     "5 th\u00f3i quen \u0103n u\u1ed1ng \u0111ang \"m\u1eddi g\u1ecdi\" ung th\u01b0 th\u1ef1c qu\u1ea3n, ph\u1ed5 bi\u1ebfn nh\u1ea5t l\u00e0 c\u00e1i \u0111\u1ea7u t",
     "Vietnam economic report - VietstockFinance",
     "Banco De Chile Q3 Earnings Call Highlights - TradingView",
@@ -455,6 +449,12 @@
     "He spent $50,000 on Labubus but now the craze is dying",
     "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
     "Japan stocks higher at close of trade; Nikkei 225 up 2.51%",
-    "Weekend: Houthis hit Riyadh\u2019s Aramco Tower and target oil storage as Saudi suppl"
+    "Weekend: Houthis hit Riyadh\u2019s Aramco Tower and target oil storage as Saudi suppl",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Mkango Magnetic Materials Ltd. (MKA) Opens Fundraising Window; TSX-V Trading Hal",
+    "Brands are sponsoring IRL communities. Some experts say that could spell their e",
+    "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "Airbus kicks off \u20ac5 bln buyback with first \u20ac800 mln tranche",
+    "RBA\u2019s Hunter warns AI could trigger sharp asset repricing as boom adds to inflat"
   ]
 }
