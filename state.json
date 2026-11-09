@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794186766.6177042,
+  "last_signals": 1794187357.3569043,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -82,13 +82,13 @@
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "USD/JPY|1D": true,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1794187621,
   "menu_prices": {
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794186767.1355386,
+    "Bitcoin|4H:bot": 1794187357.7752173,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794186744.9641888,
-  "last_news": 1794186766.6169374,
+  "last_analysis": 1794187349.8841913,
+  "last_news": 1794187357.3562732,
   "seen_news": [
-    "Iran reviewing proposals to curb nuclear program - report",
-    "Ti\u1ebft l\u1ed9 v\u1ec1 Song Hye Kyo c\u1ee7a nam th\u1ea7n Gong Yoo",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
-    "Materion Q3 Earnings Call Highlights - TradingView",
-    "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
-    "Why the US midterms sparked an AI stock selloff",
     "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
     "Elliptic Traces $124M in Bitcoin Swaps From Binance Hack Funds - TradingView",
     "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
@@ -456,6 +450,12 @@
     "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
     "Inside the card-grading empire shaping the price of Pok\u00e9mon cards",
     "Pound rises to its highest level since the Brexit referendum",
-    "Brazil\u2019s Lula, worried about high interest rates, pledges budget discipline"
+    "Brazil\u2019s Lula, worried about high interest rates, pledges budget discipline",
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "SpaceX has had limited impact on stock indexes, Goldman Sachs says - TradingView",
+    "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
+    "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midter",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Energy Reliability Is Becoming More Important Than Energy Politics"
   ]
 }
