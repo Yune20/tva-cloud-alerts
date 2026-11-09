@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794226401.33383,
+  "last_signals": 1794227011.1459877,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794226402.128479,
+    "Bitcoin|1D:bot": 1794227011.6147814,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794226392.3465228,
-  "last_news": 1794226401.3329415,
+  "last_analysis": 1794227005.5193393,
+  "last_news": 1794227011.1450202,
   "seen_news": [
-    "Chatbot AI n\u00e0o ph\u00e1t th\u1ea3i l\u1edbn nh\u1ea5t?",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
-    "Kingsway Financial Services Q3 Earnings Call Highlights - TradingView",
-    "Berkshire shares surge as Wall Street swoons amid AI fears",
-    "PM tells firms to publish salaries in job adverts ahead of new law",
-    "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
     "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
     "Badger Infrastructure Solutions Q3 Earnings Call Highlights - TradingView",
     "Will this week's blue wave election usher in a Democratic president in 2028?",
@@ -455,6 +449,12 @@
     "Solana remains skewed to the downside amid negative macro backdrop as US CPI loo",
     "C\u00f4ng an x\u00e1c \u0111\u1ecbnh 3 ng\u01b0\u1eddi \u0111\u0103ng tin ch\u01b0a ki\u1ec3m ch\u1ee9ng v\u1ec1 Tr\u01b0\u1eddng Giang",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Weekly Recap: Barclays cuts price target and Q3 revenue declines - TradingView"
+    "Weekly Recap: Barclays cuts price target and Q3 revenue declines - TradingView",
+    "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkis",
+    "Khu chung c\u01b0 \u0110\u1ea1i Thanh (M\u01b0\u1eddng Thanh): C\u00f3 s\u1ed5 h\u1ed3ng v\u1eabn lo m\u1ea5t nh\u00e0",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "What's next for Nvidia's Jensen Huang as internal inquiry begins? - TradingView",
+    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
+    "Restaurant chains refocus on food quality to bring back diners"
   ]
 }
