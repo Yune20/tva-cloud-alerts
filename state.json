@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794190521.4968266,
+  "last_signals": 1794191133.3092005,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -41,7 +41,7 @@
     "5575146754|Gold|4H|ttop": 1793809932.1998694,
     "5575146754|Gold|4H|dtop": 1793834513.1100059,
     "5575146754|Gold|1H|momo_dn": 1793692238.529144,
-    "5575146754|Gold|1H|momo_up": 1793856660.7425723,
+    "5575146754|Gold|1H|momo_up": 1794191133.3092005,
     "5575146754|Gold|4H|up": 1793859452.0785139,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793864738.0150247,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -88,7 +88,7 @@
     "DXY|1D": true,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1794191394,
   "menu_prices": {
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794190522.3604035,
+    "Bitcoin|4H:bot": 1794191133.7177072,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794190511.7047172,
-  "last_news": 1794190521.4959865,
+  "last_analysis": 1794191123.6746027,
+  "last_news": 1794191133.3082469,
   "seen_news": [
-    "Wall Street\u2019s \u201cEnergy Transition\u201d Funds Are Packed With Natural Gas",
-    "US Treasury sanctions Canadian money services firms over Iran-related transactio",
-    "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn 9999 h\u00f4m nay ng\u00e0y 9/11",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "South Korea selects Sikorsky for presidential helicopter program - TradingView",
     "MetLife Q3 Earnings Call Highlights - TradingView",
     "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported Ch",
     "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -456,6 +450,12 @@
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Weekly Recap: Order book up 28% and \u20b91,000\u20132,500 crore project wins - TradingVie",
     "China wholesale inflation hits over four-year high as consumer measure slows",
-    "How does it affect me if share prices fall?"
+    "How does it affect me if share prices fall?",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 \u00f4 t\u00f4, xe m\u00e1y tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd \u0111\u1ec1 xu\u1ea5t quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t t\u1eeb",
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "Weekly Recap: EBITDA up 56% and \u20b935,000\u201340,000 crore capex planned - TradingView",
+    "Mark Cuban says he doesn\u2019t \u2018give a f---' about growing his net worth\u2014a healthy m",
+    "Why smoky bacon crisps threaten to reignite rows over EU rules",
+    "How Big Oil Became the AI Industry's Favorite Customer"
   ]
 }
