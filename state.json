@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794246369.9926915,
+  "last_signals": 1794246992.0349054,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -68,7 +68,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794246371.2391684,
+    "Bitcoin|1D:bot": 1794246992.9849195,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794246358.904411,
-  "last_news": 1794246369.9764223,
+  "last_analysis": 1794246979.0146132,
+  "last_news": 1794246992.033663,
   "seen_news": [
-    "Onodrim Industries Secures $300 Million Series A At $1.3 Billion Valuation - Tra",
-    "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I s",
-    "World\u2019s No. 1 restaurant crowned as contest comes under increasing scrutiny",
-    "Faisal Islam: How high will interest rates go?",
-    "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-    "Why is NVIDIA stock sliding today?",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
     "China inflation misses estimates as food prices extend decline - TradingView",
     "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
@@ -455,6 +449,12 @@
     "Westwing Group SE (WEW) Bought Back 103,601 Shares Under Program - TradingView",
     "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
     "Doing these things now will help you save money at Christmas",
-    "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz"
+    "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
+    "Why Nvidia (NVDA) shares are trading lower today - TradingView",
+    "Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+    "Boeing to cut 5% of commercial airplane workforce as production increase is slow",
+    "Action on energy costs is my overriding aim, says Fahnbulleh",
+    "Canadian 10-yr bond yield dips as global debt markets navigate shifting sentimen",
+    "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran a"
   ]
 }
