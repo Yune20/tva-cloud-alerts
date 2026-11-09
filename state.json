@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794195728.9468324,
-  "last_bot4": 1794204061.2410414,
+  "last_bot4": 1794204745.292418,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794203443.4153209
+    "Gold": 1794204745.2923229
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794204383.498653,
+  "last_signals": 1794204745.293195,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -67,14 +67,14 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": true,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794204375.4190905,
-  "last_news": 1794204383.4977582,
+  "last_analysis": 1794204734.0364673,
+  "last_news": 1794204742.2254033,
   "seen_news": [
-    "Winter support for residents facing cost pressures",
-    "Democratic Win Set to Reshuffle U.S. Energy Policy",
-    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "NZD firms in early Asia as New Zealand faces weeks of political limbo",
-    "Nam ngh\u1ec7 s\u0129 SN 1955 l\u00e0 \"vua h\u1ec1 \u0111\u1ea5t Nam\" r\u1eddi M\u1ef9 v\u1ec1 n\u01b0\u1edbc, U75 s\u1ed1ng vi\u00ean m\u00e3n b\u00ean v\u1ee3",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
     "M\u1ef9 n\u00e2ng c\u1ea5p t\u00ean l\u1eeda h\u1ea1t nh\u00e2n li\u00ean l\u1ee5c \u0111\u1ecba Sentinel b\u1eb1ng \u0111\u1ea7u \u0111\u1ea1n Mk 21A c\u1ef1c m\u1ea1nh",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
     "Pewdiepie Odysseus AI Predicts a Parabolic PEPE Memecoin Rally - TradingView",
@@ -455,6 +449,12 @@
     "Chinese robotics stock surge on Apple robotics research",
     "Iran responds positively to latest mediator proposal - report",
     "M\u1ef9 nh\u00e2n mi\u1ec1n T\u00e2y SN 1995 t\u1eebng \u0111\u01b0\u1ee3c ch\u1ed3ng t\u1eb7ng bi\u1ec7t th\u1ef1 10 t\u1ef7 \u0111\u1ed3ng, nay rao b\u00e1n b",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
+    "Graduates are managing AI - but are they learning much else?",
+    "Nvidia, Rebellions and SK Telecom partner on Korea AI systems",
+    "US October non-farm payrolls +165K vs +65K expected",
+    "\u0110\u1eaft h\u01a1n s\u1ea7u ri\u00eang, m\u1ed9t lo\u1ea1i n\u00f4ng s\u1ea3n \u0111ang li\u00ean t\u1ee5c l\u00ean c\u01a1n s\u1ed1t, Vi\u1ec7t Nam \u0111ang th",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Trump\u2019s $1.5T defense plan faces roadblock after midterm losses - TradingView"
   ]
 }
