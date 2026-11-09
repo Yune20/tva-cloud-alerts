@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794256951.95697,
+  "last_news_report": 1794268067.1483192,
   "last_bot4": 1794267738.7006352,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794267447.9934676,
+  "last_signals": 1794268067.1492884,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -59,7 +59,7 @@
     "US 10Y": true,
     "Gold|1H": false,
     "Gold|4H": false,
-    "Gold|1D": false,
+    "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794266224.703999,
+    "Gold|4H:top": 1794268067.5847619,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -138,7 +138,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794267448.944618,
+    "Bitcoin|1D:bot": 1794268067.8582258,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794267438.7931962,
-  "last_news": 1794267447.992409,
+  "last_analysis": 1794268054.574386,
+  "last_news": 1794268061.473343,
   "seen_news": [
-    "Weekly Recap: Lenacapavir HIV prevention and Livdelzi ALP normalization - Tradin",
-    "Until AI sentiment improves, it\u2019s better to sit out the global tech trade, Citi ",
-    "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new make",
-    "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
-    "investingLive European news wrap: Markets await fresh US-Iran developments, US C",
     "WSJ: Japan spent a record $50 billion in one day to defend the yen, data confirm",
     "Messi \u0111i v\u00e0o l\u1ecbch s\u1eed MLS",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
@@ -454,6 +448,12 @@
     "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a MC Quy\u1ec1n Linh v\u00e0 v\u1ee3 doanh nh\u00e2n",
     "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Weekly Recap: Profit outlook lifts shares and returns, investment - TradingView",
-    "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to"
+    "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
+    "White House nominates Palantir\u2019s\u00a0LoSapio to lead Homeland Security\u2019s cyber agenc",
+    "Asset managers stay constructive on stocks after AI rout, urge investors to dive",
+    "G\u1ea7n 2 t\u1ef7 \u0111\u1ed3ng li\u00ean quan \u0111\u1ebfn Quang H\u00f9ng MasterD",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
+    "Avis Budget Director Sold Shares Worth Over $3.4M - TradingView",
+    "Trump administration proposes stricter work-search rules for unemployment benefi"
   ]
 }
