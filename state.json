@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794193598.210235,
+  "last_signals": 1794194214.6393557,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -62,14 +62,14 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
-    "Ethereum|4H": false,
+    "Ethereum|1H": true,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794193590.8266706,
-  "last_news": 1794193598.2093594,
+  "last_analysis": 1794194205.972751,
+  "last_news": 1794194214.638384,
   "seen_news": [
-    "Trung Qu\u1ed1c m\u1ea5t g\u1ea7n 15 n\u0103m, H\u00e0 Lan m\u1ea5t g\u1ea7n 20 n\u0103m \u0111\u1ec3 t\u1ea1o ra m\u1ed9t \u2018m\u1ecf v\u00e0ng\u2019 100 t\u1ef7 ",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Key facts: McGlone sees $10K; JPMorgan 10%; Schiff urges sales - TradingView",
-    "Democrats amp up Trump investigation threats, Blanche counters he may probe lawm",
-    "The grads ditching the UK for a fresh start abroad",
-    "America\u2019s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
     "Trump: We are talking to Iran, we are doing very well with Iran",
     "Ch\u1ee9ng kho\u00e1n ph\u00e1t t\u00edn hi\u1ec7u m\u1edbi, chuy\u00ean gia ti\u1ebft l\u1ed9 th\u1eddi \u0111i\u1ec3m n\u00ean m\u1ea1nh tay xu\u1ed1ng t",
     "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -456,6 +450,12 @@
     "Weekly Recap: Overcharging dues and 12% quarterly sales growth - TradingView",
     "In pictures: France protests draw 146,000 as clashes erupt for fourth straight w",
     "Elon Musk appears to signal the end of the road for Cybertruck",
-    "Wars May Spur Faster Electrification"
+    "Wars May Spur Faster Electrification",
+    "Procore Technologies Q3 Earnings Call Highlights - TradingView",
+    "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new make",
+    "'An annoying buzz': The search for stealthier drones",
+    "America\u2019s Nuclear Revival Is Running Into a Fuel Supply Wall",
+    "UBS sees euro-Norwegian krone pullback as stretched",
+    "China extends suspension of 24% tariffs on US goods, keeps 10% levy ahead of APE"
   ]
 }
