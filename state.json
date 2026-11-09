@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794186120.8359604,
+  "last_signals": 1794186766.6177042,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794184280.480691,
     "5575146754|Gold|4H|range_in": 1793928903.8100035,
@@ -74,10 +74,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": true,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794186121.831565,
+    "Bitcoin|4H:bot": 1794186767.1355386,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1793941567.0572085,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794186110.2825532,
-  "last_news": 1794186120.835016,
+  "last_analysis": 1794186744.9641888,
+  "last_news": 1794186766.6169374,
   "seen_news": [
-    "Energy Reliability Is Becoming More Important Than Energy Politics",
-    "How sustainable is the AI investment boom after Thursday\u2019s selloff?",
-    "European stocks fall into the weekend as Wall Street rebounds",
-    "Mu\u1ed1n con l\u1edbn l\u00ean v\u1eefng v\u00e0ng, b\u1ed1 m\u1eb9 h\u00e3y nh\u00ecn l\u1ea1i 5 vi\u1ec7c m\u00ecnh v\u1eabn l\u00e0m \u1edf nh\u00e0 m\u1ed7i ng\u00e0",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "USANA Health Sciences Q3 Earnings Call Highlights - TradingView",
     "Iran reviewing proposals to curb nuclear program - report",
     "Ti\u1ebft l\u1ed9 v\u1ec1 Song Hye Kyo c\u1ee7a nam th\u1ea7n Gong Yoo",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
@@ -456,6 +450,12 @@
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Beetaloo Energy Granted Retention Licence for Carpentaria Shale Gas Fairway - Tr",
     "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
-    "World\u2019s No. 1 restaurant crowned as contest comes under increasing scrutiny"
+    "World\u2019s No. 1 restaurant crowned as contest comes under increasing scrutiny",
+    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
+    "What Walker & Dunlop (WD) Said on Its Q3 Earnings Call - TradingView",
+    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
+    "Inside the card-grading empire shaping the price of Pok\u00e9mon cards",
+    "Pound rises to its highest level since the Brexit referendum",
+    "Brazil\u2019s Lula, worried about high interest rates, pledges budget discipline"
   ]
 }
