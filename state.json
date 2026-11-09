@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794232447.4740593,
+  "last_signals": 1794233053.0952184,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794208210.5974598,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -139,7 +139,7 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794232448.6926422,
+    "Bitcoin|1D:bot": 1794233053.7367527,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794229573.1535897,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794232437.9668772,
-  "last_news": 1794232447.472867,
+  "last_analysis": 1794233045.8103607,
+  "last_news": 1794233053.0944295,
   "seen_news": [
-    "Iran reviewing proposals to curb nuclear program - report",
-    "C\u00f3 doanh nghi\u1ec7p tr\u1ea3 70 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng \u0111\u1ec3 h\u00fat th\u1ee3 x\u00e2y, nh\u00e0 th\u1ea7u kh\u00e1c b\u1ea5t l\u1ef1c nh",
-    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Gold rises over 1% as softer oil prices ease inflation worries - TradingView",
-    "10-year Treasury yield slides as traders mull over Democrats' midterm victories,",
-    "Traders 'priced out' of \u00a312,000 Christmas market pitches",
     "Weekly Recap: BPCE takes 7% stake and Sabadell repurchases 4.35m shares - Tradin",
     "Blackstone president calls for more equity to fund AI buildout as debt risks mou",
     "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightes",
@@ -455,6 +449,12 @@
     "Retirement is now part of the affordability crisis. Politicians should pay atten",
     "China wholesale inflation hits highest in more than four years as consumer measu",
     "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting pe",
-    "U.S. Treasuries fall as blowout payrolls lift yields across the curve"
+    "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
+    "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Hua",
+    "Home listings pile up in October, but sellers won't slash prices",
+    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+    "Why is Barrick Mining stock rallying today?",
+    "Morning Kickstart. Stock futures climb as Bitcoin nears its 200-day moving avera",
+    "Hoa h\u1eadu qu\u00ea Kh\u00e1nh Ho\u00e0 v\u1eeba t\u1ed1t nghi\u1ec7p th\u1ea1c s\u0129 \u1edf tu\u1ed5i 30: T\u1eebng tr\u01b0\u1ee3t \u0111\u1ea1i h\u1ecdc, l\u00e0m "
   ]
 }
