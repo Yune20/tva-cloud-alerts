@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794338100.1819935,
+  "last_signals": 1794338713.5111902,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -72,7 +72,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794338100.3813064,
+    "Gold|4H:bot": 1794338713.6622543,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794335303.8841283,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794338090.8171787,
-  "last_news": 1794338100.1808655,
+  "last_analysis": 1794338706.2763271,
+  "last_news": 1794338713.5103664,
   "seen_news": [
-    "U.S. Military Coordinates With Saudi Oil Tankers on Risky Hormuz Crossings",
-    "Exclusive-Microsoft presses Trump to scuttle expected ban on Chinese data center",
-    "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospec",
-    "H\u00e0 N\u1ed9i kh\u00f4 r\u00e1o, r\u00e9t v\u1ec1 \u0111\u00eam v\u00e0 s\u00e1ng s\u1edbm",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Indonesia vice president expresses intention to resign, presidential official sa",
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "REG - Gamma Communications - Rule 2.9 Announcement - TradingView",
     "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
@@ -457,6 +451,12 @@
     "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
     "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "Cryptocurrencies slide to two-month lows after US midterms"
+    "Cryptocurrencies slide to two-month lows after US midterms",
+    "Trump's 2028 successors are already fighting over who to blame for GOP midterm w",
+    "Government's EV targets expected to be reduced this week",
+    "Franco-Nevada, Vesta Wind Systems, CGI Group and more set to report Wednesday",
+    "Bank of Canada minutes: Governing Council sees possible need to hike rates furth",
+    "Ung th\u01b0 d\u1ea1 d\u00e0y kh\u00f4ng g\u00e2y \u0111au \u0111\u1edbn? B\u00e1c s\u0129 c\u1ea3nh b\u00e1o: Sau khi \u0103n xu\u1ea5t hi\u1ec7n 4 bi\u1ec3u h",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
