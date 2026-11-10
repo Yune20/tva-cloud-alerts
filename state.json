@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794280234.3871608,
+  "last_signals": 1794280856.3671384,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794280227.0882394,
-  "last_news": 1794280234.386344,
+  "last_analysis": 1794280848.1415403,
+  "last_news": 1794280856.3662753,
   "seen_news": [
-    "Harmony Gold Reports Q1 Group Gold Production Of 342,758 OZ - TradingView",
-    "Why renters are obsessed with these $300 \u2018boneless couches\u2019",
-    "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jett",
-    "Civil servant who secretly held five jobs found guilty of fraud",
-    "After Midterm Failure, Trump\u2019s Foreign Strategy May Be Even More Dangerous",
-    "Nasdaq up nearly 3% as Wall Street rebounds after AI rout, but Nvidia excluded",
     "Stock market climbs despite pressure from Nvidia drop - TradingView",
     "Using miles to fly for Thanksgiving? These are the most expensive and cheapest r",
     "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
@@ -454,6 +448,12 @@
     "China October exports beat forecasts, imports surge 41.6% as trade surplus narro",
     "Ph\u00e1t hi\u1ec7n nam thanh ni\u00ean ngh\u1ec9 h\u01b0u \u1edf tu\u1ed5i 30, thu nh\u1eadp h\u00e0ng n\u0103m l\u00ean t\u1edbi h\u01a1n 800 t",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Asian stocks climb as sliding oil prices buoy sentiment - TradingView"
+    "Asian stocks climb as sliding oil prices buoy sentiment - TradingView",
+    "FedEx adds four weekly China-US freighter flights as AI hardware demand keeps ca",
+    "C\u00f4ng an v\u1eeba ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 kh\u00f3a t\u00e0i kho\u1ea3n \u0111\u1ecbnh danh \u0111i\u1ec7n t\u1eed tr\u00ean V",
+    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
+    "Lindian Resources Limited (LIN) Secures Binding Offtake for 30,000 Tonnes - Trad",
+    "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+    "As Christmas rush looms, how do China-made toys find their way to the US?"
   ]
 }
