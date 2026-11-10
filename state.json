@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794300668.8985732,
-  "last_bot4": 1794305654.5128157,
+  "last_bot4": 1794306275.4493163,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794305654.5135574,
+  "last_signals": 1794306275.4508567,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -63,7 +63,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -151,15 +151,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794305954.0822372,
-  "last_news": 1794305651.425043,
+  "last_analysis": 1794306268.4165711,
+  "last_news": 1794306275.4484048,
   "seen_news": [
-    "Russia Targets Ukraine's Power Grid Ahead of Crucial Abu Dhabi Peace Talks",
-    "DOJ sues Lyft for $53m over alleged disability bias",
-    "Anthropic lines up $26 billion from Nvidia, Google, others as IPO priced at $70 ",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n l\u1eafp camera ch\u00fa \u00fd m\u1ee9c ph\u1ea1t \u0111\u1ebfn 50 tri\u1ec7u \u0111\u1ed3ng \u0111\u00e3 \u00e1p d\u1ee5ng",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Gulf stocks gain on Trump's signal against renewed Iran strikes - TradingView",
     "Australian consumer sentiment sinks to four-year low as rates and living costs b",
     "B\u1ed9 tr\u01b0\u1edfng Chi\u1ebfn tranh M\u1ef9 Pete Hegseth \u0111\u1ed1i m\u1eb7t 8 \u0111i\u1ec1u kho\u1ea3n lu\u1eadn t\u1ed9i",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -453,6 +447,12 @@
     "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Original-Research: DN Group AG (von GBC AG): BUY - TradingView",
     "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to",
-    "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair w"
+    "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair w",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
+    "What CECO Environmental (CECO) Said on Its Q3 Earnings Call - TradingView",
+    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
+    "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia",
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "Brent Crude Falls Below $90 for First Time Since August"
   ]
 }
