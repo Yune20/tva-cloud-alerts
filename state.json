@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794273924.4828646,
+  "last_signals": 1794274526.9102247,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794271413.0359142,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794273924.7909274,
+    "Gold|4H:top": 1794274527.3405719,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -153,14 +153,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794274232.6634321,
-  "last_news": 1794273924.4819872,
+  "last_news": 1794274526.9093814,
   "seen_news": [
-    "The Goodyear Tire & Rubber Company Names Roger Wood Interim CEO - TradingView",
-    "\u2018She can always change her mind\u2019: Should a widow leave the family home to her st",
-    "Eli Lilly\u2019s Foundayo obesity pill eases sleep apnea in late-stage trial, paving ",
-    "AI stocks climb after trillions wiped from market values",
-    "Why is Zura Bio stock collapsing today?",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6799 \u2013 Reuters estimate",
     "Nvidia stock falls 6% as scrutiny turns to Jensen Huang\u2019s relationship with alle",
     "Graduates are managing AI - but are they learning much else?",
     "Wall Street surges at the open, but Nvidia slides on probe of CEO Huang",
@@ -454,6 +448,12 @@
     "Nvidia faces increased chip export controls amid Huang scandal- The Information",
     "The view from China: CITIC sees Iran war risk \u2018bounded\u2019 as blockade outlasts US ",
     "V\u00ec sao 11/11 l\u00e0 'ng\u00e0y v\u00e0ng' mua s\u1eafm?",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina"
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
+    "Why is JBS stock sliding today?",
+    "UK retail sales rise 1.5%, best since June, but fuel costs and Budget caution we",
+    "Grab gi\u1ea3m ph\u00ed, b\u1ed3i ho\u00e0n t\u00e0i x\u1ebf",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Prices rise on colder weather, supply risks - TradingView",
+    "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Hua"
   ]
 }
