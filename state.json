@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794351734.306254,
+  "last_signals": 1794352345.754235,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794351736.7174551,
-    "JPY Index|4H:top": 1794351737.2535286,
+    "USD/JPY|4H:top": 1794352347.1868112,
+    "JPY Index|4H:top": 1794352347.4721303,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794351722.6119854,
-  "last_news": 1794351734.3054056,
+  "last_analysis": 1794352336.8036945,
+  "last_news": 1794352345.7533937,
   "seen_news": [
-    "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
-    "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker ",
-    "New regulation for heating oil market, but no price controls",
-    "US Treasury sanctions Canadian money services firms over Iran-related transactio",
-    "Australia business conditions hit six-year low as forward orders slide: NAB",
-    "\"\u00d4ng ho\u00e0ng \u00e2m nh\u1ea1c\" c\u01b0\u1edbi v\u1ee3 h\u01a1n 14 tu\u1ed5i, s\u1ed1ng trong bi\u1ec7t th\u1ef1 8 t\u1ea7ng xa hoa: C\u00f3 s",
     "B\u1ed9 GD&\u0110T: Kh\u00f4ng ph\u1ea3i t\u1ea5t c\u1ea3 tr\u01b0\u1eddng chuy\u00ean \u0111\u1ed5i c\u00e1ch tuy\u1ec3n sinh t\u1eeb n\u0103m 2027",
     "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 10/2026 - VietstockFinance",
     "CPI tops forecasts, stocks slide, yields rise - TradingView",
@@ -457,6 +451,12 @@
     "Zoned Properties Declares $0.41-Per-Share Special Dividend - TradingView",
     "One reason the Children\u2019s Place is going bankrupt? Not enough children.",
     "House begins voting on Hegseth impeachment measure",
-    "Nvidia hires major US law firm to investigate alleged Chinese spy affair"
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "U.S. GoldMining 3Q 2026: EPS ($0.58) \u2014 10-Q Summary - TradingView",
+    "One reason Children\u2019s Place is going bankrupt? Not enough children.",
+    "Hegseth impeachment effort torpedoed in House",
+    "I took Vinted to court to get my money back",
+    "Midterm Results Could Trip Trump\u2019s Energy Independence Plans",
+    "US dollar holds onto payrolls gains, NZ dollar rises after election"
   ]
 }
