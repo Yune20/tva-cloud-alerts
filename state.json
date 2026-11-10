@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794310327.3848426,
+  "last_signals": 1794310926.617348,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -42,7 +42,8 @@
     "5575146754|Gold|4H|up": 1793859452.0785139,
     "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793864738.0150247,
-    "5575146754|Gold|1H|up": 1793854837.1009996
+    "5575146754|Gold|1H|up": 1793854837.1009996,
+    "5575146754|Gold|1H|momo_dn": 1794310926.617348
   },
   "sig_range": {
     "Gold": true,
@@ -63,7 +64,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -144,7 +145,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794310327.9838927,
+    "USOIL|4H:bot": 1794310926.94576,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -152,14 +153,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794310629.5656726,
-  "last_news": 1794310327.3838098,
+  "last_news": 1794310926.6165662,
   "seen_news": [
-    "After Midterm Failure, Trump\u2019s Foreign Strategy May Be Even More Dangerous",
-    "US sues Lyft, alleges discrimination against disabled riders",
-    "Anthropic retracts IPO pricing details sent to bankers, says figures were inaccu",
-    "Ph\u00e1t hi\u1ec7n 89 kh\u1ed1i b\u00ea t\u00f4ng, m\u1ed7i kh\u1ed1i n\u1eb7ng 73.500 t\u1ea5n \u0111\u01b0\u1ee3c \u0111\u00e1nh ch\u00ecm xu\u1ed1ng \u0111\u00e1y bi\u1ec3",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "Coffee Prices Undercut by Rising Brazil Coffee Exports - TradingView",
     "US September wholesale inventories +0.7% vs +0.6% expected",
     "Nga s\u1ea3n xu\u1ea5t h\u00e0ng lo\u1ea1t Oreshnik, Ukraine th\u1eed nghi\u1ec7m \u0111\u00e1nh ch\u1eb7n t\u00ean l\u1eeda si\u00eau v\u01b0\u1ee3t ",
     "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -453,6 +448,12 @@
     "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospec",
     "H\u00e0 N\u1ed9i kh\u00f4 r\u00e1o, r\u00e9t v\u1ec1 \u0111\u00eam v\u00e0 s\u00e1ng s\u1edbm",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Indonesia vice president expresses intention to resign, presidential official sa"
+    "Indonesia vice president expresses intention to resign, presidential official sa",
+    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
+    "REG - Gamma Communications - Rule 2.9 Announcement - TradingView",
+    "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+    "Living with a stink? Technology might help",
+    "Amazon receives UK approval to expand drone delivery service",
+    "China October exports beat forecasts, imports surge 41.6% as trade surplus narro"
   ]
 }
