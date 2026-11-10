@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794277355.066364,
+  "last_signals": 1794277979.5437071,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794277346.0394888,
-  "last_news": 1794277355.0284057,
+  "last_analysis": 1794277970.443799,
+  "last_news": 1794277979.542739,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Immuneering Appoints Accomplished Commercial Leader Grant Bogle To Board Of Dire",
-    "How SpaceX was able to avert one of the market\u2019s biggest fears about its stock",
-    "Weekend trading of Nvidia scandal shines light on new financial products",
-    "Welsh aviation firm AerFin bought in \u00a3475m deal",
-    "COP31 Opens in Antalya With a UN Push for Faster Climate Action",
     "B\u1ed9 Y t\u1ebf y\u00eau c\u1ea7u \u0111i\u1ec1u tra v\u1ee5 nh\u1eadp vi\u1ec7n, h\u00f4n m\u00ea s\u00e2u nghi ng\u1ed9 \u0111\u1ed9c c\u00e1 n\u00f3c",
     "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
     "Goldman Sachs Delivers Surprising Take on SpaceX Stock - TradingView",
@@ -454,6 +448,12 @@
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Soybeans Fading Back from Early Strength on Monday - TradingView",
     "A failed trial for a heart drug casts shadow over rivals developing similar ther",
-    "Goldman CEO Solomon says AI financing remains strong despite market jitters"
+    "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "Trump questions midterm election results, revives voting-machine conspiracy",
+    "Government's EV targets expected to be reduced this week",
+    "Why is WuXi AppTec stock rallying today?",
+    "PBOC sets USD/ CNY central rate at 6.7167 (vs. estimate at 6.6655)",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 h\u1ed9 chi\u1ebfu ch\u00fa \u00fd th\u00f4ng tin \u1edf trang 48 theo h\u01b0\u1edbng d\u1eabn c\u1ee7a c\u00f4ng ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance"
   ]
 }
