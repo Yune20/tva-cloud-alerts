@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794311908.7847552,
+  "last_signals": 1794312518.1814554,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -72,7 +72,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -145,22 +145,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794311909.3133938,
+    "USOIL|4H:bot": 1794312518.476913,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794311900.1827843,
-  "last_news": 1794311908.7838974,
+  "last_analysis": 1794312509.731708,
+  "last_news": 1794312518.180676,
   "seen_news": [
-    "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
-    "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
-    "The 75-Year Army Deal That Could Reshape America's Rare Earth Supply",
-    "Billionaire tax measure on California ballot defeated",
-    "What are the main events for today?",
-    "C\u00fa b\u1eaft tay v\u1edbi Nga t\u1ea1o n\u00ean k\u1ef3 t\u00edch: Qu\u1ed1c gia l\u00e1ng gi\u1ec1ng thu 70 t\u1ef7 kWh \u0111i\u1ec7n s\u1ea1ch ",
     "Global LNG Markets Face a Winter of Extreme Uncertainty",
     "Asia stocks rally as Korean chips surge and oil retreat lifts sentiment",
     "Australia to mandate AI breach reporting, set up regulator after OpenAI agent br",
@@ -454,6 +448,12 @@
     "Anthropic retracts IPO pricing details sent to bankers, says figures were inaccu",
     "B\u00e1c s\u0129 tr\u1ebb ban ng\u00e0y th\u1ef1c h\u00e0nh \u1edf vi\u1ec7n, t\u1ed1i ch\u1ea1y xe \u00f4m c\u00f4ng ngh\u1ec7",
     "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "thyssenkrupp AG (TKA) Receives Goldman Sachs Voting Rights Notification - Tradin"
+    "thyssenkrupp AG (TKA) Receives Goldman Sachs Voting Rights Notification - Tradin",
+    "Zcash remains stuck in a range as macro headwinds continue to limit the upside. ",
+    "Ph\u00e1t hi\u1ec7n t\u00e0u Nga d\u00e0i h\u01a1n 173 m\u00e9t, di chuy\u1ec3n li\u00ean t\u1ee5c 365 ng\u00e0y kh\u00f4ng c\u1ea7n ti\u1ebfp nh",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
+    "ZEAL Network SE (TIMA) Manager Pledges 280,000 Shares for a Loan - TradingView",
+    "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s Chin",
+    "Poundland unable to buy new stock as fears over collapse grow"
   ]
 }
