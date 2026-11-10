@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794333126.165408,
+  "last_signals": 1794333744.1622562,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794333126.93486,
+    "USOIL|1D:bot": 1794333744.560019,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794333115.2302716,
-  "last_news": 1794333126.1644857,
+  "last_analysis": 1794333734.862934,
+  "last_news": 1794333744.1613305,
   "seen_news": [
-    "While pharma peers stumble, AbbVie defeated the patent cliff",
-    "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spe",
-    "VN-Index \u0111\u1ea3o chi\u1ec1u t\u0103ng g\u1ea7n 30 \u0111i\u1ec3m",
-    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Shandong Longda Meishi Under Probe By Securities Regulator - TradingView",
-    "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
     "Fed's Waller says a half-point rate hike in December may be needed if Core CPI c",
     "C\u0103n h\u1ed9 34m\u00b2 c\u1ee7a c\u00f4 g\u00e1i \u0111\u1ed9c th\u00e2n g\u00e2y s\u1ed1t: Kh\u00f4ng ph\u00f2ng kh\u00e1ch ri\u00eang, kh\u00f4ng ban c\u00f4ng",
     "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -457,6 +451,12 @@
     "Wall Street\u2019s only Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mis",
     "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and o",
     "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound"
+    "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound",
+    "Polymarket says annualized revenue has topped $1.8 billion",
+    "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan",
+    "ON Holding earnings analysis: questions answered and next catalysts",
+    "Gold holds near recent highs as markets await US CPI and Iran breakthrough",
+    "M\u1ed9t d\u1eef li\u1ec7u t\u1eeb Vingroup, Petrolimex, Ho\u00e0 Ph\u00e1t, Th\u1ebf Gi\u1edbi Di \u0110\u1ed9ng...h\u00e9 l\u1ed9 \u0111\u1ed9ng l\u1ef1c"
   ]
 }
