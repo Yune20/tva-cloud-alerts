@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794270836.8245332,
+  "last_signals": 1794271413.0359142,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794243595.0484881,
+    "5575146754|Gold|1H|range_in": 1794271413.0359142,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -57,7 +57,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794270837.1584287,
+    "Gold|4H:top": 1794271413.1953259,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794270788.3180408,
-  "last_news": 1794270836.8236055,
+  "last_analysis": 1794271405.2392364,
+  "last_news": 1794271413.0351076,
   "seen_news": [
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Gold's short-term volatility contrasts with long-term bullishness: Russell - Tra",
-    "Retirement is now part of the affordability crisis. Politicians should pay atten",
-    "China wholesale inflation hits highest in more than four years as consumer measu",
-    "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting pe",
-    "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
     "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Hua",
     "Home listings pile up in October, but sellers won't slash prices",
     "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
@@ -454,6 +448,12 @@
     "Vi\u1ec7t Nam - Nh\u1eadt B\u1ea3n k\u00fd k\u1ebft 11 v\u0103n ki\u1ec7n h\u1ee3p t\u00e1c v\u1ec1 n\u0103ng l\u01b0\u1ee3ng, gi\u00e1o d\u1ee5c, khoa h\u1ecdc",
     "Anthropic releases first frontier models since Amodei's call for slowdown as IPO",
     "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-    "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs"
+    "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs",
+    "LASE Corp. (LASE) Appoints CFO and Quantum Technology President to Board - Tradi",
+    "These states are offering extra ACA premium subsidies in 2027",
+    "'An annoying buzz': The search for stealthier drones",
+    "Companies risk fines of 6% global turnover for unfair digital trade practices, E",
+    "BlackRock: an AI spending slowdown in 2027 would hurt markets but could also low",
+    "D\u1ef1 b\u00e1o th\u1eddi ti\u1ebft 10/11: B\u1eafc B\u1ed9 c\u00f3 n\u01a1i r\u00e9t \u0111\u1eadm d\u01b0\u1edbi 12\u00b0C, Trung B\u1ed9 m\u01b0a l\u1edbn"
   ]
 }
