@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794304685.5941203,
+  "last_signals": 1794305282.228793,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794276120.021894,
+    "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -56,13 +56,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -152,14 +152,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794304991.1155968,
-  "last_news": 1794304685.593327,
+  "last_news": 1794305282.2281113,
   "seen_news": [
-    "AST SpaceMobile Stock Slides After Posting Q3 Double-Miss - TradingView",
-    "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
-    "AI stocks climb after trillions wiped from market values",
-    "Australia\u2019s Qantas to axe 850 jobs in offshoring deal with Accenture",
-    "Australia business conditions hit six-year low as forward orders slide: NAB",
-    "Nga b\u00e1o tin b\u1ea5t ng\u1edd v\u1ec1 300 t\u1ef7 USD t\u00e0i s\u1ea3n b\u1ecb \u0111\u00f3ng b\u0103ng: '\u0110\u00e3 l\u1ea5y l\u1ea1i m\u1ed9t ph\u1ea7n \u0111\u00e1n",
     "Graduates are managing AI - but are they learning much else?",
     "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
     "PBOC is expected to set the USD/CNY reference rate at 6.6655 \u2013 Reuters estimate",
@@ -453,6 +447,12 @@
     "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
     "Nearly 20,000 households eligible for \u00a3250 to help with heating bills",
     "Euro yields linger  at 1-month lows as sinking oil calms inflation jitters",
-    "Macro pulse: Wall Street's relief rally is looking good but what happens next?"
+    "Macro pulse: Wall Street's relief rally is looking good but what happens next?",
+    "While pharma peers stumble, AbbVie defeated the patent cliff",
+    "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spe",
+    "VN-Index \u0111\u1ea3o chi\u1ec1u t\u0103ng g\u1ea7n 30 \u0111i\u1ec3m",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Shandong Longda Meishi Under Probe By Securities Regulator - TradingView",
+    "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million"
   ]
 }
