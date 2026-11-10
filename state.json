@@ -29,11 +29,11 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794327786.2626903,
+  "last_signals": 1794328388.923668,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
-    "5575146754|Gold|1H|trap_dn": 1794318415.6700542,
+    "5575146754|Gold|1H|trap_dn": 1794328388.923668,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794257486.7702186,
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
@@ -62,8 +62,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -151,18 +151,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794289814.6048255,
+    "USOIL|1D:bot": 1794328389.5293248,
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794328094.709165,
-  "last_news": 1794327786.2609103,
+  "last_news": 1794328388.923137,
   "seen_news": [
-    "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to",
-    "Rainmakers: The drones used to seed clouds",
-    "Honda raises full-year outlook despite second-quarter profit slump",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n l\u1eafp camera ch\u00fa \u00fd m\u1ee9c ph\u1ea1t t\u1eeb 10 tri\u1ec7u \u0111\u1ed3ng \u0111\u1ebfn 20 tri\u1ec7u \u0111\u1ed3ng \u0111\u00e3",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
-    "PEL 82 - QatarEnergy to Acquire 25% Participating Interest from Chevron - Tradin",
     "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese in",
     "What we know so far about Jensen Huang's affair with suspected Chinese spy",
     "China to Spend $940B on Energy Transition in 2026",
@@ -456,6 +450,12 @@
     "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "GE HealthCare to establish neuroscience research network - TradingView",
     "Children\u2019s Place files for bankruptcy protection, seeks buyer",
-    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "Why stocks are falling and 10-year yields are back near 5% after Tuesday\u2019s infla",
+    "Here's the inflation breakdown for October 2026 \u2014 in one chart",
+    "How video game remakes tap the power of nostalgia",
+    "Average U.S. Gasoline Price Dips below $4 for First Time since July",
+    "JPMorgan reaffirms its top mid-cap pick in telecom",
+    "US 2-year yields surge as the market realizes the US has an inflation problem"
   ]
 }
