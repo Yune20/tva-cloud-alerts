@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794302245.3228831,
+  "last_signals": 1794302852.761895,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -77,13 +77,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -151,15 +151,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794302237.2620182,
-  "last_news": 1794302245.3219185,
+  "last_analysis": 1794302845.274607,
+  "last_news": 1794302852.7612805,
   "seen_news": [
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
-    "KBR's Masiello and Etta to leave board in Trinzic spin-off - TradingView",
-    "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megas",
-    "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-    "Trump\u2019s close ties to Nvidia\u2019s Huang scrutinized after foreign intelligence conc",
     "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street reb",
     "The Indian workers filming their work to train AI",
     "Nvidia faces increased chip export controls amid Huang scandal- The Information",
@@ -453,6 +447,12 @@
     "Original-Research: q.beyond AG (von NuWays AG): BUY - TradingView",
     "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into a",
     "'An annoying buzz': The search for stealthier drones",
-    "U.S. Treasuries fall as blowout payrolls lift yields across the curve"
+    "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
+    "U.S. Traders Weigh the Cost of Taking Trump\u2019s Russian Diesel",
+    "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
+    "Gold holds near recent highs as markets await US CPI and Iran breakthrough",
+    "Jesen Huang m\u1ea5t g\u1ea7n 7 t\u1ef7 USD trong 1 ng\u00e0y v\u00ec b\u00ea b\u1ed1i ngo\u1ea1i t\u00ecnh: S\u1ed1 ti\u1ec1n \u1ea5y mua \u0111",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
