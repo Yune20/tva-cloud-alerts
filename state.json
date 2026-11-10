@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794315954.3475273,
+  "last_signals": 1794316579.3085089,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -60,11 +60,11 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -134,7 +134,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794315954.8910894,
+    "Ethereum|4H:bot": 1794316580.446539,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794315947.000558,
-  "last_news": 1794315954.3466702,
+  "last_analysis": 1794316570.3935516,
+  "last_news": 1794316579.307688,
   "seen_news": [
-    "US CPI takes centre stage as markets look to steady the ship after the midterm s",
-    "BYD b\u1ecb ki\u1ec7n nh\u00e1i thi\u1ebft k\u1ebf, JLR nghi h\u00e3ng Trung Qu\u1ed1c th\u00e1o tung c\u1ea3 chi\u1ebfc Defender ",
-    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
-    "WhiteHorse Finance declares $0.25 dividend - TradingView",
-    "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
-    "Faisal Islam: How high will interest rates go?",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
     "Weekly Recap: 2028 equipment supply deals and Morgan Stanley lowers target - Tra",
     "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the",
@@ -454,6 +448,12 @@
     "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in De",
     "Emerald Bao Vinh khai tr\u01b0\u01a1ng v\u0103n ph\u00f2ng b\u00e1n h\u00e0ng, c\u00f4ng b\u1ed1 ch\u00ednh th\u1ee9c nh\u1eadn booking",
     "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
-    "Binance warns iOS flaw could expose crypto wallet keys - TradingView"
+    "Binance warns iOS flaw could expose crypto wallet keys - TradingView",
+    "Nikkei, KOSPI extend rebound as AI and chip stocks surge, recouping Friday\u2019s rou",
+    "Nga v\u1eeba ch\u1ea1m tay v\u00e0o b\u00ed m\u1eadt \"ch\u01b0a t\u1eebng bi\u1ebft \u0111\u1ebfn\" t\u1ea1i B\u1eafc C\u1ef1c",
+    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Metso Announces Voluntary Tender Offers, Intention To Issue New Notes - TradingV",
+    "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, s",
+    "Doing these things now will help you save money at Christmas"
   ]
 }
