@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794308735.6172924,
+  "last_signals": 1794309342.5103445,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -63,7 +63,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -133,7 +133,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794218042.470571,
+    "Ethereum|4H:bot": 1794309343.2016146,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -144,22 +144,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794308735.9141383,
+    "USOIL|4H:bot": 1794309342.8590763,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794308728.4662876,
-  "last_news": 1794308735.6164448,
+  "last_analysis": 1794309335.9466362,
+  "last_news": 1794309342.509485,
   "seen_news": [
-    "Why is Monadelphous stock surging today?",
-    "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil stea",
-    "Do\u00e3n H\u1ea3i My - v\u1ee3 V\u0103n H\u1eadu l\u00e0m ngh\u1ec1 g\u00ec?",
-    "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controve",
-    "He spent $50,000 on Labubus but now the craze is dying",
-    "Anthropic retracts IPO details after sending filing to bankers - Reuters",
     "Living with a stink? Technology might help",
     "WuXi AppTec shares gain after U.S. removes company from military list",
     "China October exports beat forecasts, imports surge 41.6% as trade surplus narro",
@@ -453,6 +447,12 @@
     "Avis Budget Insiders Sold Shares Worth Over $4.1M - TradingView",
     "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were f",
     "Senate advances Trump-backed bipartisan bill to speed critical infrastructure pr",
-    "Government's EV targets expected to be reduced this week"
+    "Government's EV targets expected to be reduced this week",
+    "Stocks extend recovery from Thursday's sell-off. Plus, new trial data from Lilly",
+    "The grads ditching the UK for a fresh start abroad",
+    "Cryptocurrencies slide to two-month lows after US midterms",
+    "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthroug",
+    "M\u1ed1i quan h\u1ec7 gi\u1eefa B\u00edch Ph\u01b0\u01a1ng v\u00e0 \u201cb\u00e1c tr\u01b0\u1edfng\u201d nh\u00e0 T\u0103ng Duy T\u00e2n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance"
   ]
 }
