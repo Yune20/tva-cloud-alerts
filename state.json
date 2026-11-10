@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794336247.7276134,
+  "last_signals": 1794336855.338915,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -63,8 +63,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794336249.4127007,
+    "DXY|4H:top": 1794336857.2773523,
     "Bitcoin|4H:bot": 1794324662.158309,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794336248.8352587,
+    "GBP/USD|4H:bot": 1794336856.4555311,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794335303.8841283,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794336238.351235,
-  "last_news": 1794336247.7268372,
+  "last_analysis": 1794336847.8570378,
+  "last_news": 1794336855.3379045,
   "seen_news": [
-    "M\u00e2m c\u01a1m nh\u00e0 H\u01b0\u01a1ng Li\u00ean v\u00e0 ch\u1ed3ng thi\u1ebfu gia t\u1eadp \u0111o\u00e0n",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Avis Budget Insiders Sold Shares Worth Over $4.1M - TradingView",
-    "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were f",
-    "Senate advances Trump-backed bipartisan bill to speed critical infrastructure pr",
-    "Government's EV targets expected to be reduced this week",
     "Stocks extend recovery from Thursday's sell-off. Plus, new trial data from Lilly",
     "The grads ditching the UK for a fresh start abroad",
     "Cryptocurrencies slide to two-month lows after US midterms",
@@ -457,6 +451,12 @@
     "PepsiCo to cut about 1,000 jobs as North American business struggles",
     "Graduates are managing AI - but are they learning much else?",
     "Brent Crude Falls Below $90 for First Time Since August",
-    "Boeing safety chief says factory floor contact key as output rises"
+    "Boeing safety chief says factory floor contact key as output rises",
+    "Trump\u2019s C-SPAN call marks latest surprise post-midterm appearance",
+    "The Indian workers filming their work to train AI",
+    "Hims & Hers to offer an unapproved peptide after US eases curbs",
+    "Fed's Waller says a half-point rate hike in December may be needed if Core CPI c",
+    "M\u1ed9t CTCK d\u1ef1 b\u00e1o VN-Index c\u00f3 th\u1ec3 v\u01b0\u1ee3t 2.000 \u0111i\u1ec3m v\u00e0o cu\u1ed1i n\u0103m",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance"
   ]
 }
