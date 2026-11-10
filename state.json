@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794300668.8985732,
-  "last_bot4": 1794304991.1167119,
+  "last_bot4": 1794305654.5128157,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794304365.3095002
+    "Gold": 1794305654.5127115
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794305282.228793,
+  "last_signals": 1794305654.5135574,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -56,7 +56,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -151,15 +151,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794304991.1155968,
-  "last_news": 1794305282.2281113,
+  "last_analysis": 1794305643.6784284,
+  "last_news": 1794305651.425043,
   "seen_news": [
-    "Graduates are managing AI - but are they learning much else?",
-    "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6655 \u2013 Reuters estimate",
-    "Doanh thu c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 s\u1ed1 Vi\u1ec7t Nam \u0111\u1ea1t h\u01a1n 250 t\u1ef7 USD",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
-    "Anthropic aims to raise up to $69.3 billion in blockbuster IPO - TradingView",
     "Russia Targets Ukraine's Power Grid Ahead of Crucial Abu Dhabi Peace Talks",
     "DOJ sues Lyft for $53m over alleged disability bias",
     "Anthropic lines up $26 billion from Nvidia, Google, others as IPO priced at $70 ",
@@ -453,6 +447,12 @@
     "VN-Index \u0111\u1ea3o chi\u1ec1u t\u0103ng g\u1ea7n 30 \u0111i\u1ec3m",
     "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Shandong Longda Meishi Under Probe By Securities Regulator - TradingView",
-    "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million"
+    "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
+    "Fed's Waller says a half-point rate hike in December may be needed if Core CPI c",
+    "C\u0103n h\u1ed9 34m\u00b2 c\u1ee7a c\u00f4 g\u00e1i \u0111\u1ed9c th\u00e2n g\u00e2y s\u1ed1t: Kh\u00f4ng ph\u00f2ng kh\u00e1ch ri\u00eang, kh\u00f4ng ban c\u00f4ng",
+    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Original-Research: DN Group AG (von GBC AG): BUY - TradingView",
+    "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to",
+    "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair w"
   ]
 }
