@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794315344.0687454,
+  "last_signals": 1794315954.3475273,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -60,7 +60,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -75,7 +75,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
@@ -134,7 +134,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794315345.2197342,
+    "Ethereum|4H:bot": 1794315954.8910894,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794315335.9749107,
-  "last_news": 1794315344.0674036,
+  "last_analysis": 1794315947.000558,
+  "last_news": 1794315954.3466702,
   "seen_news": [
-    "Exclusive-Anthropic\u2019s nearly $70 billion IPO plan briefly circulated to banks, t",
-    "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
-    "Th\u00f4ng tin v\u1ec1 2 ng\u00e0y l\u1ea1nh nh\u1ea5t trong \u0111\u1ee3t r\u00e9t \u0111\u1ea7u ti\u00ean",
-    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "What RB Global (RBA) Said on Its Q3 Earnings Call - TradingView",
-    "China\u2019s monthly imports grow at fastest pace in five years as surplus crosses $1",
     "US CPI takes centre stage as markets look to steady the ship after the midterm s",
     "BYD b\u1ecb ki\u1ec7n nh\u00e1i thi\u1ebft k\u1ebf, JLR nghi h\u00e3ng Trung Qu\u1ed1c th\u00e1o tung c\u1ea3 chi\u1ebfc Defender ",
     "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
@@ -454,6 +448,12 @@
     "V\u00ec sao H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng lo\u00e0i c\u00e2y \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn di s\u1ea3n, c\u1ed5 th\u1ee5 h\u01a1n 350 tu\u1ed5i l\u00e0 \"",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "INDP Q3'26 Earnings: EPS estimate is (1.46) USD - TradingView",
-    "Anthropic officially sets the stage for an IPO valuing the company north of $1 t"
+    "Anthropic officially sets the stage for an IPO valuing the company north of $1 t",
+    "Anthropic to raise $64bn in major stock market listing",
+    "Alibaba advances Hong Kong IPO plans for chip subsidiary T-Head",
+    "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in De",
+    "Emerald Bao Vinh khai tr\u01b0\u01a1ng v\u0103n ph\u00f2ng b\u00e1n h\u00e0ng, c\u00f4ng b\u1ed1 ch\u00ednh th\u1ee9c nh\u1eadn booking",
+    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
+    "Binance warns iOS flaw could expose crypto wallet keys - TradingView"
   ]
 }
