@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794279665.105122,
+  "last_signals": 1794280234.3871608,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794279612.8882055,
-  "last_news": 1794279665.103141,
+  "last_analysis": 1794280227.0882394,
+  "last_news": 1794280234.386344,
   "seen_news": [
-    "Exclusive-UniCredit to win unconditional EU nod for Commerzbank deal, sources sa",
-    "Fed's Goolsbee: Starting to see inflation kicking up in services",
-    "\u0110\u00ecnh ch\u1ec9 45 ng\u00e0y ph\u00f3 hi\u1ec7u tr\u01b0\u1edfng d\u00f9ng th\u01b0\u1edbc \u0111\u00e1nh v\u00e0o \u0111\u1ea7u h\u1ecdc sinh \u1edf \u0110\u1eafk L\u1eafk",
-    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
-    "Dollar dips as easing AI and Mideast worries limit its appeal - TradingView",
-    "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
     "Harmony Gold Reports Q1 Group Gold Production Of 342,758 OZ - TradingView",
     "Why renters are obsessed with these $300 \u2018boneless couches\u2019",
     "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jett",
@@ -454,6 +448,12 @@
     "Do\u00e3n H\u1ea3i My - v\u1ee3 V\u0103n H\u1eadu l\u00e0m ngh\u1ec1 g\u00ec?",
     "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controve",
     "He spent $50,000 on Labubus but now the craze is dying",
-    "Anthropic retracts IPO details after sending filing to bankers - Reuters"
+    "Anthropic retracts IPO details after sending filing to bankers - Reuters",
+    "Living with a stink? Technology might help",
+    "WuXi AppTec shares gain after U.S. removes company from military list",
+    "China October exports beat forecasts, imports surge 41.6% as trade surplus narro",
+    "Ph\u00e1t hi\u1ec7n nam thanh ni\u00ean ngh\u1ec9 h\u01b0u \u1edf tu\u1ed5i 30, thu nh\u1eadp h\u00e0ng n\u0103m l\u00ean t\u1edbi h\u01a1n 800 t",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Asian stocks climb as sliding oil prices buoy sentiment - TradingView"
   ]
 }
