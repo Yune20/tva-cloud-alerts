@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794314360.2102005,
+  "last_signals": 1794314973.5965478,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -60,11 +60,11 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -134,7 +134,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794311909.8673775,
+    "Ethereum|4H:bot": 1794314974.7193835,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -153,14 +153,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794314672.9435036,
-  "last_news": 1794314360.2094042,
+  "last_news": 1794314973.5957355,
   "seen_news": [
-    "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
-    "How long will humans be needed for translation?",
-    "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
-    "Asia FX subdued, dollar holds losses ahead of U.S. inflation data",
-    "NY Fed October survey shows 1, 3 and 5 year inflation expectations unchanged",
-    "B\u1ed9 GD&\u0110T g\u1eedi y\u00eau c\u1ea7u quan tr\u1ecdng t\u1edbi 8 t\u1ec9nh th\u00e0nh c\u00f3 m\u01b0a l\u1edbn",
     "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered",
     "Doing these things now will help you save money at Christmas",
     "Why is Nippon Carbide Industries stock surging today?",
@@ -454,6 +448,12 @@
     "Nvidia couldn\u2019t derail the stock market\u2019s rally. Hot inflation might.",
     "A massive trade in Nvidia just went off \u2013 here are the details",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "China Is Buying Oil Again After Months of Living Off Its Stockpiles"
+    "China Is Buying Oil Again After Months of Living Off Its Stockpiles",
+    "This beaten-down data center stock could be worth a look, says Mike Khouw",
+    "Holiday hunger bill to face final Stormont hurdle",
+    "Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall",
+    "What are the main events for today?",
+    "C\u1eb7p v\u1ee3 ch\u1ed3ng \u00c1 h\u1eadu - di\u1ec5n vi\u00ean tuy\u1ec3n gi\u00fap vi\u1ec7c: L\u01b0\u01a1ng 27 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, \u0111\u00f3ng ",
+    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance"
   ]
 }
