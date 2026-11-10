@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794336855.338915,
+  "last_signals": 1794337475.0762997,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -64,9 +64,9 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -79,7 +79,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1793757390.9517138,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794336857.2773523,
+    "DXY|4H:top": 1794337476.62562,
     "Bitcoin|4H:bot": 1794324662.158309,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794335303.8841283,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794336847.8570378,
-  "last_news": 1794336855.3379045,
+  "last_analysis": 1794337465.7772465,
+  "last_news": 1794337475.0754266,
   "seen_news": [
-    "Stocks extend recovery from Thursday's sell-off. Plus, new trial data from Lilly",
-    "The grads ditching the UK for a fresh start abroad",
-    "Cryptocurrencies slide to two-month lows after US midterms",
-    "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthroug",
-    "M\u1ed1i quan h\u1ec7 gi\u1eefa B\u00edch Ph\u01b0\u01a1ng v\u00e0 \u201cb\u00e1c tr\u01b0\u1edfng\u201d nh\u00e0 T\u0103ng Duy T\u00e2n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
     "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
     "Trump's 2028 successors are already fighting over who to blame for GOP midterm w",
     "The tech helping crack decades-old cold cases",
@@ -457,6 +451,12 @@
     "Hims & Hers to offer an unapproved peptide after US eases curbs",
     "Fed's Waller says a half-point rate hike in December may be needed if Core CPI c",
     "M\u1ed9t CTCK d\u1ef1 b\u00e1o VN-Index c\u00f3 th\u1ec3 v\u01b0\u1ee3t 2.000 \u0111i\u1ec3m v\u00e0o cu\u1ed1i n\u0103m",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets",
+    "Beauty firm Coty to restructure its business in France",
+    "Fed's Schmid: Some concerning trends in prices, underneath the whole energy stor",
+    "\u0110i\u1ec7n M\u00e1y Xanh ch\u1ed1t ng\u00e0y chia h\u01a1n 2.500 t\u1ef7 \u0111\u1ed3ng c\u1ed5 t\u1ee9c, m\u1ed9t \"\u0111\u1ea1i gia\" s\u1eafp nh\u1eadn v\u1ec1",
+    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
+    "DA Davidson downgrades Trex Co to Neutral from Buy - TradingView"
   ]
 }
