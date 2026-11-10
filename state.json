@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794319643.4515889,
+  "last_signals": 1794320271.6080554,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -145,22 +145,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794319644.7973816,
+    "USOIL|4H:bot": 1794320272.3045292,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794319634.6534803,
-  "last_news": 1794319643.450798,
+  "last_analysis": 1794320261.1835253,
+  "last_news": 1794320271.607136,
   "seen_news": [
-    "Europe\u2019s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
-    "LEM half-year operating profit more than doubles on data-centre demand",
-    "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
-    "Vi ph\u1ea1m v\u1ec1 b\u1ea3o v\u1ec7 quy\u1ec1n l\u1ee3i ng\u01b0\u1eddi ti\u00eau d\u00f9ng, Be Group b\u1ecb ph\u1ea1t 625 tri\u1ec7u \u0111\u1ed3ng",
-    "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
-    "BTCUSD: Bitcoin Slips Below $74,000 as Sentiment Sours, Liquidations Add Pressur",
     "Heads up: Any US CPI fireworks may fizzle out as Veterans Day holiday looms",
     "\u0110\u00e0 N\u1eb5ng sau m\u1ed9t \u0111\u00eam gi\u00f3 l\u1edbn: Bi\u1ec3n hi\u1ec7u \u0111\u1ed5 r\u1ea1p, m\u00e1i che tan t\u00e1c",
     "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
@@ -454,6 +448,12 @@
     "Here\u2019s what Nvidia investors should be focusing on now. Hint: It\u2019s not Jensen Hu",
     "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia s",
     "US inflation higher than expected in October - here's what is happening with pri",
-    "Why Sudan's Civil War Is Becoming a U.S. National Security Threat"
+    "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+    "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
+    "US October core CPI +0.3% vs +0.2% expected",
+    "C\u1eb7p \u0111\u00f4i showbiz g\u00e2y s\u1ed1c tuy\u00ean b\u1ed1 ly h\u00f4n sau 3 ng\u00e0y c\u01b0\u1edbi do ng\u01b0\u1eddi ch\u1ed3ng ngo\u1ea1i t\u00ecn",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Envoy Medical, Inc. (COCH) Regains Nasdaq Bid-Price Compliance - TradingView",
+    "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with "
   ]
 }
