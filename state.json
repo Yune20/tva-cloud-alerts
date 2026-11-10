@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794317189.9187245,
+  "last_signals": 1794317804.0188746,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -63,10 +63,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -74,19 +74,19 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
-    "GBP/USD|1D": false,
+    "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
-    "USD/JPY|1D": true,
+    "USD/JPY|4H": false,
+    "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
-    "JPY Index|1D": true
+    "JPY Index|4H": false,
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794318067,
   "menu_prices": {
@@ -122,7 +122,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794221115.651947,
+    "Bitcoin|4H:bot": 1794317804.882697,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794317184.0287144,
-  "last_news": 1794317189.9176917,
+  "last_analysis": 1794317796.9744,
+  "last_news": 1794317804.0180128,
   "seen_news": [
-    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
-    "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
-    "Why is Towa stock surging today?",
-    "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions ",
-    "Ai l\u00e0 ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c kh\u1eafc t\u00ean tr\u00ean bia ti\u1ebfn s\u0129 \u1edf V\u0103n Mi\u1ebfu - Qu\u1ed1c T\u1eed Gi\u00e1m?",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Gedeon Richter upgrades 2026 guidance on strong delivery",
     "Anthropic unveils Fable 5.2 and Mythos 5.2 models ahead of IPO",
     "V\u1ee3 ch\u1ed3ng t\u00f4i ch\u1ecdn mua nh\u00e0 c\u00e1ch trung t\u00e2m 20km v\u00ec gi\u00e1 r\u1ebb h\u01a1n 300 tri\u1ec7u, \u0111\u1ebfn khi c",
@@ -454,6 +448,12 @@
     "Pete Hegseth decries impeachment push, defends Iran war handling",
     "How long will humans be needed for translation?",
     "Former ISS executive Guerra and partners launch Niscaya Governance",
-    "US CPI takes centre stage as markets look to steady the ship after the midterm s"
+    "US CPI takes centre stage as markets look to steady the ship after the midterm s",
+    "Consumer prices rose 0.4% in October, more than expected",
+    "Why are more roofs not made of solar tiles?",
+    "Tribunal Hearings Begin in UK-Argentina Row Over Falklands Oil Project",
+    "U.S stock futures move sharply lower after hotter-than-expected CPI data",
+    "investingLive Asia-Pacific market news: AI rebound rolls on, oil slips",
+    "Nam NS\u01afT l\u00e0 \u0111\u1ea1o di\u1ec5n g\u1ea1o c\u1ed9i, l\u01b0\u01a1ng h\u01b0u 10 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, s\u1ed1ng c\u00f9ng v\u1ee3 NSND k"
   ]
 }
