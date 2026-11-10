@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794273249.140355,
+  "last_signals": 1794273924.4828646,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794271413.0359142,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794257486.7702186,
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
-    "5575146754|Gold|4H|dtop": 1794270184.0431204,
+    "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_dn": 1793692238.529144,
     "5575146754|Gold|1H|momo_up": 1794191133.3092005,
     "5575146754|Gold|4H|up": 1793859452.0785139,
@@ -63,7 +63,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794273249.3032339,
+    "Gold|4H:top": 1794273924.7909274,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794273556.3662562,
-  "last_news": 1794273249.1394708,
+  "last_analysis": 1794273916.5131238,
+  "last_news": 1794273924.4819872,
   "seen_news": [
-    "Iran Moves to Control Oil Terminals in China, Leak Shows",
-    "European shares jump as Tech rebounds; Nvidia probe weighs",
-    "PBOC sets USD/ CNY reference rate for today at 6.7188 (vs. estimate at 6.6799)",
-    "H\u00e0 N\u1ed9i c\u00f2n h\u01a1n 5.800 ch\u1ed7 \u1edf sinh vi\u00ean ch\u01b0a c\u00f3 ng\u01b0\u1eddi thu\u00ea",
-    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "XRP Drops to $1.08: Can It Bounce Back From Oversold Conditions? - TradingView",
     "The Goodyear Tire & Rubber Company Names Roger Wood Interim CEO - TradingView",
     "\u2018She can always change her mind\u2019: Should a widow leave the family home to her st",
     "Eli Lilly\u2019s Foundayo obesity pill eases sleep apnea in late-stage trial, paving ",
@@ -454,6 +448,12 @@
     "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megas",
     "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
     "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-    "Trump\u2019s close ties to Nvidia\u2019s Huang scrutinized after foreign intelligence conc"
+    "Trump\u2019s close ties to Nvidia\u2019s Huang scrutinized after foreign intelligence conc",
+    "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street reb",
+    "The Indian workers filming their work to train AI",
+    "Nvidia faces increased chip export controls amid Huang scandal- The Information",
+    "The view from China: CITIC sees Iran war risk \u2018bounded\u2019 as blockade outlasts US ",
+    "V\u00ec sao 11/11 l\u00e0 'ng\u00e0y v\u00e0ng' mua s\u1eafm?",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina"
   ]
 }
