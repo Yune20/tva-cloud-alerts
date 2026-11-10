@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794271413.0359142,
+  "last_signals": 1794272021.542751,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794271413.0359142,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794271413.1953259,
+    "Gold|4H:top": 1794272021.7074232,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794271405.2392364,
-  "last_news": 1794271413.0351076,
+  "last_analysis": 1794272013.4614065,
+  "last_news": 1794272021.5418174,
   "seen_news": [
-    "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Hua",
-    "Home listings pile up in October, but sellers won't slash prices",
-    "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-    "Why is Barrick Mining stock rallying today?",
-    "Morning Kickstart. Stock futures climb as Bitcoin nears its 200-day moving avera",
-    "Hoa h\u1eadu qu\u00ea Kh\u00e1nh Ho\u00e0 v\u1eeba t\u1ed1t nghi\u1ec7p th\u1ea1c s\u0129 \u1edf tu\u1ed5i 30: T\u1eebng tr\u01b0\u1ee3t \u0111\u1ea1i h\u1ecdc, l\u00e0m ",
     "Why are more roofs not made of solar tiles?",
     "Deflating the AI bubble: Why a tech reset is exactly what markets need",
     "Oil falls further on report that Trump asked Iraqi PM to bring Iran proposals to",
@@ -454,6 +448,12 @@
     "'An annoying buzz': The search for stealthier drones",
     "Companies risk fines of 6% global turnover for unfair digital trade practices, E",
     "BlackRock: an AI spending slowdown in 2027 would hurt markets but could also low",
-    "D\u1ef1 b\u00e1o th\u1eddi ti\u1ebft 10/11: B\u1eafc B\u1ed9 c\u00f3 n\u01a1i r\u00e9t \u0111\u1eadm d\u01b0\u1edbi 12\u00b0C, Trung B\u1ed9 m\u01b0a l\u1edbn"
+    "D\u1ef1 b\u00e1o th\u1eddi ti\u1ebft 10/11: B\u1eafc B\u1ed9 c\u00f3 n\u01a1i r\u00e9t \u0111\u1eadm d\u01b0\u1edbi 12\u00b0C, Trung B\u1ed9 m\u01b0a l\u1edbn",
+    "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting pe",
+    "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
+    "investingLive European news wrap: Markets await fresh US-Iran developments, US C",
+    "Nam danh ca SN 1937 t\u1eeb M\u1ef9 v\u1ec1 di\u1ec5n l\u1ea7n cu\u1ed1i ph\u1ea3i ng\u1ed3i xe l\u0103n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Plug Power Q3 Highlights: Revenue Beat, Cash Usage Improves - TradingView"
   ]
 }
