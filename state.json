@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794302852.761895,
+  "last_signals": 1794303463.1986513,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -76,14 +76,14 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "EUR/USD|1D": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -151,15 +151,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794302845.274607,
-  "last_news": 1794302852.7612805,
+  "last_analysis": 1794303455.5857534,
+  "last_news": 1794303463.197702,
   "seen_news": [
-    "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street reb",
-    "The Indian workers filming their work to train AI",
-    "Nvidia faces increased chip export controls amid Huang scandal- The Information",
-    "The view from China: CITIC sees Iran war risk \u2018bounded\u2019 as blockade outlasts US ",
-    "V\u00ec sao 11/11 l\u00e0 'ng\u00e0y v\u00e0ng' mua s\u1eafm?",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "Why is JBS stock sliding today?",
     "UK retail sales rise 1.5%, best since June, but fuel costs and Budget caution we",
     "Grab gi\u1ea3m ph\u00ed, b\u1ed3i ho\u00e0n t\u00e0i x\u1ebf",
@@ -453,6 +447,12 @@
     "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
     "Gold holds near recent highs as markets await US CPI and Iran breakthrough",
     "Jesen Huang m\u1ea5t g\u1ea7n 7 t\u1ef7 USD trong 1 ng\u00e0y v\u00ec b\u00ea b\u1ed1i ngo\u1ea1i t\u00ecnh: S\u1ed1 ti\u1ec1n \u1ea5y mua \u0111",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
+    "Constellation Software Q3 Earnings Call Highlights - TradingView",
+    "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megas",
+    "Nvidia stock edges higher as pressure mounts following alleged China spy links",
+    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound"
   ]
 }
