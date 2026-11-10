@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794341476.577773,
+  "last_signals": 1794342088.8598495,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1H|up": 1793854837.1009996,
     "5575146754|Gold|1H|momo_dn": 1794310926.617348,
     "5575146754|Gold|4H|tbot": 1794323420.3140717,
-    "5575146754|Gold|4H|dbot": 1794338100.1819935,
+    "5575146754|Gold|4H|dbot": 1794342088.8598495,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393
   },
   "sig_range": {
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794341476.7240238,
+    "Gold|4H:bot": 1794342088.9942546,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794341476.9050364,
+    "USOIL|1D:bot": 1794342089.1437643,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794341466.28467,
-  "last_news": 1794341476.5769858,
+  "last_analysis": 1794342080.6785772,
+  "last_news": 1794342088.8589823,
   "seen_news": [
-    "\u0110ang gi\u00fap d\u00ec d\u1ecdn t\u1ee7, ng\u01b0\u1eddi ph\u1ee5 n\u1eef ph\u00e1t hi\u1ec7n m\u00f3n \u0111\u1ed3 b\u1ecb gi\u1ea5u g\u1ea7n 40 n\u0103m, chuy\u00ean gi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
-    "COSM Q3'26 Earnings: revenue estimate is 17.34M USD - TradingView",
-    "Bilt bets on local businesses, hospitality and major sports franchises, expandin",
-    "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
-    "The 75-Year Army Deal That Could Reshape America's Rare Earth Supply",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "AS Q3'26 Earnings: revenue estimate is 2.14B USD - TradingView",
     "Nvidia couldn\u2019t derail the stock market\u2019s rally. Hot inflation might.",
@@ -457,6 +451,12 @@
     "Anthropic looks to be pricing its IPO for success",
     "Tr\u1ea5n Th\u00e0nh - Hari Won c\u00e3i l\u1ed9n c\u0103ng th\u1eb3ng v\u1edbi Tr\u1ecbnh Th\u0103ng B\u00ecnh tr\u00ean xe, chuy\u1ec7n g\u00ec",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
-    "Evercore Holdings, Inc. (EVHO) Completes Home Chief Acquisition - TradingView"
+    "Evercore Holdings, Inc. (EVHO) Completes Home Chief Acquisition - TradingView",
+    "Zcash remains stuck in a range as macro headwinds continue to limit the upside. ",
+    "Si\u00eau du thuy\u1ec1n xa hoa d\u00e0i 200 m b\u1ea5t ng\u1edd b\u1ecb b\u1eaft gi\u1eef t\u1ea1i Singapore: Kh\u00e1ch t\u1eebng chi",
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "Lindian Resources Limited (LIN) Secures Binding Offtake for 30,000 Tonnes - Trad",
+    "Corporate America is making a trillion-dollar mistake about retirement",
+    "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s Chin"
   ]
 }
