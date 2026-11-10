@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794304071.8006995,
+  "last_signals": 1794304685.5941203,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -62,7 +62,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -151,15 +151,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794304064.1234074,
-  "last_news": 1794304071.7998712,
+  "last_analysis": 1794304677.1133454,
+  "last_news": 1794304685.593327,
   "seen_news": [
-    "Nam ngh\u1ec7 s\u0129 \u0111\u00ecnh \u0111\u00e1m: \"10 n\u0103m l\u00e0m nh\u00e2n vi\u00ean, \u0103n ng\u1ee7 c\u00f9ng ch\u1ee7 t\u1ecbch ...v\u1eabn kh\u00f4ng t",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 79,761 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Hegseth impeachment push gains traction in House after election losses - Trading",
-    "Boeing to cut 5% of commercial airplane workers as production increase takes lon",
-    "Qantas to outsource 850 local jobs with most roles moving to India",
-    "Qantas to cut 850 jobs in Australia with Accenture deal",
     "AST SpaceMobile Stock Slides After Posting Q3 Double-Miss - TradingView",
     "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
     "AI stocks climb after trillions wiped from market values",
@@ -453,6 +447,12 @@
     "Berentzen-Gruppe Aktiengesellschaft (BEZ) Reports Voting Rights Threshold Crossi",
     "Fed\u2019s Waller puts half-point rate hike into the mix for December",
     "Fed Governor Waller sees December hike likely, opens door to possible half-point",
-    "The Indian workers filming their work to train AI"
+    "The Indian workers filming their work to train AI",
+    "BKW Q3 2026 Earnings Call Is Live - TradingView",
+    "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Hua",
+    "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+    "Nearly 20,000 households eligible for \u00a3250 to help with heating bills",
+    "Euro yields linger  at 1-month lows as sinking oil calms inflation jitters",
+    "Macro pulse: Wall Street's relief rally is looking good but what happens next?"
   ]
 }
