@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794278593.2965808,
+  "last_signals": 1794279260.6403754,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794278584.998137,
-  "last_news": 1794278593.2956905,
+  "last_analysis": 1794279250.1220868,
+  "last_news": 1794279260.6395226,
   "seen_news": [
-    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef tr\u1ea3 gi\u00e1 \u0111\u1ea5t n\u00f4ng th\u00f4n g\u1ea7n 1,5 t\u1ef7 \u0111\u1ed3ng/m\u00b2 \u1edf Ninh B\u00ecnh n\u00f3i g\u00ec?",
-    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
-    "How Democrats will try to end Trump's tariffs",
-    "He spent $50,000 on Labubus but now the craze is dying",
-    "Israel stocks higher at close of trade; TA 35 up 1.84%",
-    "Equity close: Decent rebound or a dead-cat bounce",
     "Moody\u2019s and S&P downgrade Akamai on debt-fueled AI infrastructure buildout",
     "US stocks rebound even as Nvidia slides 4%. What next technically",
     "M\u00e1y bay A320 v\u1edbi ph\u1ea7n m\u0169i c\u1ee7a ti\u00eam k\u00edch Eurofighter g\u00e2y ng\u1ea1c nhi\u00ean l\u1edbn",
@@ -454,6 +448,12 @@
     "COP31 Opens in Antalya With a UN Push for Faster Climate Action",
     "Exclusive-Anthropic sends out, then retracts details of IPO filing, emails show",
     "Finance Magnates Awards 2026: Forex Brokers and Prop Firm Winners",
-    "B\u1ea5t ng\u1edd t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long, Shark Ph\u00fa, Ch\u1ee7 t\u1ecbch Sacombank v\u00e0 lo\u1ea1t CEO l\u1edbn c\u00f9n"
+    "B\u1ea5t ng\u1edd t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long, Shark Ph\u00fa, Ch\u1ee7 t\u1ecbch Sacombank v\u00e0 lo\u1ea1t CEO l\u1edbn c\u00f9n",
+    "M\u1ef9 nh\u00e2n SN 2002 l\u00e0m d\u00e2u c\u1ef1u Ch\u1ee7 t\u1ecbch c\u00f3 tin vui?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Weekly Recap: Third-quarter results and EMEA packaging sale review - TradingView",
+    "China exports, imports soar past expectations in October \u2014 surplus narrows sharp",
+    "The tech helping crack decades-old cold cases",
+    "Cryptocurrencies slide to two-month lows after US midterms"
   ]
 }
