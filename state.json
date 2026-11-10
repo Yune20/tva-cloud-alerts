@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794269635.8541062,
+  "last_signals": 1794270184.0431204,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794257486.7702186,
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
-    "5575146754|Gold|4H|dtop": 1794266224.5263355,
+    "5575146754|Gold|4H|dtop": 1794270184.0431204,
     "5575146754|Gold|1H|momo_dn": 1793692238.529144,
     "5575146754|Gold|1H|momo_up": 1794191133.3092005,
     "5575146754|Gold|4H|up": 1793859452.0785139,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794269636.00253,
+    "Gold|4H:top": 1794270184.23818,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794269624.237248,
-  "last_news": 1794269632.7524085,
+  "last_analysis": 1794270176.4160268,
+  "last_news": 1794270184.042191,
   "seen_news": [
-    "My 93-year-old father changed his will at the 11th hour, leaving my brother his ",
-    "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom",
-    "How long will humans be needed for translation?",
-    "Oil Sinks to $94 as Iran\u2019s $8 Billion Hormuz Deal Heads to Trump",
-    "Citigroup downgrades US equities to \u2019neutral\u2019 on AI concerns",
-    "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil stea",
     "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
     "\u0110\u00eam nay v\u00e0 ng\u00e0y mai l\u00e0 cao \u0111i\u1ec3m r\u00e9t nh\u1ea5t \u0111\u1ee3t kh\u00f4ng kh\u00ed l\u1ea1nh, nhi\u1ec7t \u0111\u1ed9 mi\u1ec1n B\u1eafc x",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
@@ -454,6 +448,12 @@
     "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
     "BoJ opinions back faster hikes, one sees neutral rate \u2018considerably above 1%\u2019",
     "7 t\u1ec9nh, th\u00e0nh m\u01b0a l\u1edbn nh\u01b0 tr\u00fat h\u00f4m nay",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Japan household spending plunges 6.8%, 10th straight drop, as BoJ weighs Decembe",
+    "Tr\u1eddi l\u1ea1nh d\u1ec5 g\u1eb7p v\u1ea5n \u0111\u1ec1 h\u00f4 h\u1ea5p: 5 th\u1ef1c ph\u1ea9m n\u00ean b\u1ed5 sung \u0111\u1ec3 ch\u0103m s\u00f3c l\u00e1 ph\u1ed5i",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Badger Infrastructure Solutions Q3 Earnings Call Highlights - TradingView",
+    "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+    "Elizabeth Warren set to take over the Senate banking committee. Here's what she "
   ]
 }
