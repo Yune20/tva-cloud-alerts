@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794274899.0376546,
+  "last_signals": 1794275507.9713454,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794271413.0359142,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -63,11 +63,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794274899.3006525,
+    "Gold|4H:top": 1794275508.2166026,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794274886.2530727,
-  "last_news": 1794274896.0803273,
+  "last_analysis": 1794275496.308778,
+  "last_news": 1794275507.96743,
   "seen_news": [
-    "GLUE: NEK7, VAV1 and oncology programs advance across clinical studies - Trading",
-    "As AI trade falters, Goldman Sachs says this lagging region is now positioned to",
-    "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
-    "Rainmakers: The drones used to seed clouds",
-    "Democratic Win Set to Reshuffle U.S. Energy Policy",
-    "Nvidia CEO Huang admits to affair; shares drop as board launches investigation",
     "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s affair with alleged Ch",
     "The AI telling farmers when to harvest",
     "Russia Targets Ukraine's Power Grid Ahead of Crucial Abu Dhabi Peace Talks",
@@ -454,6 +448,12 @@
     "Hegseth impeachment push gains traction in House after election losses - Trading",
     "Boeing to cut 5% of commercial airplane workers as production increase takes lon",
     "Qantas to outsource 850 local jobs with most roles moving to India",
-    "Qantas to cut 850 jobs in Australia with Accenture deal"
+    "Qantas to cut 850 jobs in Australia with Accenture deal",
+    "AST SpaceMobile Stock Slides After Posting Q3 Double-Miss - TradingView",
+    "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+    "AI stocks climb after trillions wiped from market values",
+    "Australia\u2019s Qantas to axe 850 jobs in offshoring deal with Accenture",
+    "Australia business conditions hit six-year low as forward orders slide: NAB",
+    "Nga b\u00e1o tin b\u1ea5t ng\u1edd v\u1ec1 300 t\u1ef7 USD t\u00e0i s\u1ea3n b\u1ecb \u0111\u00f3ng b\u0103ng: '\u0110\u00e3 l\u1ea5y l\u1ea1i m\u1ed9t ph\u1ea7n \u0111\u00e1n"
   ]
 }
