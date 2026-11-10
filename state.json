@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794301630.0008209,
+  "last_signals": 1794302245.3228831,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -74,15 +74,15 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
-    "EUR/USD|4H": false,
+    "EUR/USD|1H": true,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": true
@@ -151,15 +151,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794301621.7633624,
-  "last_news": 1794301629.999883,
+  "last_analysis": 1794302237.2620182,
+  "last_news": 1794302245.3219185,
   "seen_news": [
-    "U.S. Traders Weigh the Cost of Taking Trump\u2019s Russian Diesel",
-    "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy",
-    "Eurozone Sentix investor confidence weakens further in November as global growth",
-    "Kh\u00f4ng kh\u00ed l\u1ea1nh t\u0103ng c\u01b0\u1eddng, B\u1eafc B\u1ed9 r\u00e9t 14 \u0111\u1ed9 C, Trung B\u1ed9 m\u01b0a r\u1ea5t to",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "UnitedHealth Group appoints Madeline Bell as independent director - TradingView",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
     "KBR's Masiello and Etta to leave board in Trinzic spin-off - TradingView",
     "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megas",
@@ -453,6 +447,12 @@
     "H\u1ed3 n\u01b0\u1edbc nh\u00e2n t\u1ea1o l\u1edbn nh\u1ea5t Vi\u1ec7t Nam d\u00e0i 230km, c\u00f3 nh\u00e0 m\u00e1y th\u1ee7y \u0111i\u1ec7n l\u1edbn nh\u1ea5t \u0110\u00f4ng",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
     "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions - TradingV",
-    "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share de"
+    "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share de",
+    "B\u1ea5t ng\u1edd danh t\u00ednh nh\u00f3m ng\u01b0\u1eddi \u0111\u1ee9ng sau phim AI 12 t\u1ef7 l\u01b0\u1ee3t xem \u1edf Trung Qu\u1ed1c",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Original-Research: q.beyond AG (von NuWays AG): BUY - TradingView",
+    "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into a",
+    "'An annoying buzz': The search for stealthier drones",
+    "U.S. Treasuries fall as blowout payrolls lift yields across the curve"
   ]
 }
