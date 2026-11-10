@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794295104.3606405,
+  "last_signals": 1794295711.4214537,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
-    "5575146754|Gold|4H|range_in": 1794278593.2965808,
+    "5575146754|Gold|4H|range_in": 1794295711.4214537,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794257486.7702186,
@@ -58,7 +58,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -76,7 +76,7 @@
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
@@ -145,7 +145,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794295105.0121298,
+    "USOIL|4H:bot": 1794295711.6783166,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -153,14 +153,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794295409.3791687,
-  "last_news": 1794295104.3598082,
+  "last_news": 1794295711.4207857,
   "seen_news": [
-    "UBS sees euro-Norwegian krone pullback as stretched",
-    "Solana remains skewed to the downside amid negative macro backdrop as US CPI loo",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111i h\u00e1t karaoke ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a c\u00f4ng an v\u1ec1 m\u1ee9c ph\u1ea1t",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "General Dynamics Chairman, CEO Sold Shares Worth Over $16M - TradingView",
-    "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
     "AST SpaceMobile Q3 2026 Earnings Call Is Live - TradingView",
     "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
@@ -454,6 +448,12 @@
     "investingLive Americas market news wrap: Iran optimism and tech rebound leads to",
     "1 th\u01b0\u01a1ng hi\u1ec7u \u00f4 t\u00f4 Trung Qu\u1ed1c chu\u1ea9n b\u1ecb gia nh\u1eadp Vi\u1ec7t Nam, cho \u0111\u1eb7t xe online t\u1eeb n",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
-    "BitPay Brings Apple Pay and Google Pay Checkout to Crypto Purchases - TradingVie"
+    "BitPay Brings Apple Pay and Google Pay Checkout to Crypto Purchases - TradingVie",
+    "KT Q3 2026 Earnings Call Is Live - TradingView",
+    "3 unexpected reasons the October jobs report was so strong",
+    "Californians reject wealth tax for billionaires",
+    "Dollar slips, taking a breather after last week\u2019s advance a day ahead of CPI tes",
+    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh \u0111ang s\u1eed d\u1ee5ng v\u00e1ch ng\u0103n nh\u00e0 t\u1eafm b\u1eb1ng k\u00ednh c\u01b0\u1eddng l\u1ef1c",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto"
   ]
 }
