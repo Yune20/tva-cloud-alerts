@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794339940.0701292,
+  "last_signals": 1794340556.9893456,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794339940.2325044,
+    "Gold|4H:bot": 1794340557.1703303,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794339940.3956923,
+    "USOIL|1D:bot": 1794340557.331053,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794339929.996468,
-  "last_news": 1794339940.0691855,
+  "last_analysis": 1794340543.9149182,
+  "last_news": 1794340556.9884145,
   "seen_news": [
-    "Civil servant who secretly held five jobs found guilty of fraud",
-    "Why is H Lundbeck stock surging today?",
-    "Anthropic retracts IPO pricing details sent to bankers, says figures were inaccu",
-    "B\u00e1c s\u0129 tr\u1ebb ban ng\u00e0y th\u1ef1c h\u00e0nh \u1edf vi\u1ec7n, t\u1ed1i ch\u1ea1y xe \u00f4m c\u00f4ng ngh\u1ec7",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "thyssenkrupp AG (TKA) Receives Goldman Sachs Voting Rights Notification - Tradin",
     "Zcash remains stuck in a range as macro headwinds continue to limit the upside. ",
     "Ph\u00e1t hi\u1ec7n t\u00e0u Nga d\u00e0i h\u01a1n 173 m\u00e9t, di chuy\u1ec3n li\u00ean t\u1ee5c 365 ng\u00e0y kh\u00f4ng c\u1ea7n ti\u1ebfp nh",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
@@ -457,6 +451,12 @@
     "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthroug",
     "M\u1ed9t c\u1ed5 phi\u1ebfu t\u00e0i ch\u00ednh b\u1ea5t ng\u1edd b\u00f9ng n\u1ed5 giao d\u1ecbch g\u1ea7n 40 tri\u1ec7u \u0111\u01a1n v\u1ecb, gi\u00e1 t\u0103ng h",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Bandwidth Unveils Network-Level SI Innovations at Reverb - TradingView"
+    "Bandwidth Unveils Network-Level SI Innovations at Reverb - TradingView",
+    "ELEKTROS Inc. (ELEK) Evaluates Prototype Path for Patented EV Charger - TradingV",
+    "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
+    "Traders bet on a pop for Anthropic's historic IPO",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "Google agrees to additional privacy protections in Spirit Airlines data sale",
+    "Chart of the day: Nasdaq comeback looks to have the breadth but does it have the"
   ]
 }
