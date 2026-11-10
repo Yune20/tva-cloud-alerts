@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794300668.8985732,
-  "last_bot4": 1794309022.0351744,
+  "last_bot4": 1794309706.9551358,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794308410.3082132
+    "Gold": 1794309706.9550674
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794309342.5103445,
+  "last_signals": 1794309706.9561272,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -63,7 +63,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -133,7 +133,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794309343.2016146,
+    "Ethereum|4H:bot": 1794309707.6688118,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -144,22 +144,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794309342.8590763,
+    "USOIL|4H:bot": 1794309707.3292067,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794309335.9466362,
-  "last_news": 1794309342.509485,
+  "last_analysis": 1794309695.7119882,
+  "last_news": 1794309704.4093676,
   "seen_news": [
-    "Living with a stink? Technology might help",
-    "WuXi AppTec shares gain after U.S. removes company from military list",
-    "China October exports beat forecasts, imports surge 41.6% as trade surplus narro",
-    "Ph\u00e1t hi\u1ec7n nam thanh ni\u00ean ngh\u1ec9 h\u01b0u \u1edf tu\u1ed5i 30, thu nh\u1eadp h\u00e0ng n\u0103m l\u00ean t\u1edbi h\u01a1n 800 t",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Asian stocks climb as sliding oil prices buoy sentiment - TradingView",
     "FedEx adds four weekly China-US freighter flights as AI hardware demand keeps ca",
     "C\u00f4ng an v\u1eeba ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 kh\u00f3a t\u00e0i kho\u1ea3n \u0111\u1ecbnh danh \u0111i\u1ec7n t\u1eed tr\u00ean V",
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
@@ -453,6 +447,12 @@
     "Cryptocurrencies slide to two-month lows after US midterms",
     "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthroug",
     "M\u1ed1i quan h\u1ec7 gi\u1eefa B\u00edch Ph\u01b0\u01a1ng v\u00e0 \u201cb\u00e1c tr\u01b0\u1edfng\u201d nh\u00e0 T\u0103ng Duy T\u00e2n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
+    "Trump's 2028 successors are already fighting over who to blame for GOP midterm w",
+    "The tech helping crack decades-old cold cases",
+    "Analysis-Nvidia\u2019s clubby board faces a sticky \u2019honey pot\u2019 test",
+    "Chart of the day: Nasdaq comeback looks to have the breadth but does it have the",
+    "\u0110\u00e3 \u0111\u1ebfn s\u00e2n bay N\u1ed9i B\u00e0i nh\u01b0ng kh\u00f4ng \u0111\u01b0\u1ee3c xu\u1ea5t c\u1ea3nh do li\u00ean quan \u0111\u1ebfn kho\u1ea3n n\u1ee3 thu\u1ebf"
   ]
 }
