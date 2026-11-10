@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794323420.3140717,
+  "last_signals": 1794324046.117439,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -44,7 +44,8 @@
     "5575146754|Gold|4H|trap_up": 1793864738.0150247,
     "5575146754|Gold|1H|up": 1793854837.1009996,
     "5575146754|Gold|1H|momo_dn": 1794310926.617348,
-    "5575146754|Gold|4H|tbot": 1794323420.3140717
+    "5575146754|Gold|4H|tbot": 1794323420.3140717,
+    "5575146754|Gold|4H|dbot": 1794324046.117439
   },
   "sig_range": {
     "Gold": true,
@@ -123,14 +124,14 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794179230.7239013,
-    "Bitcoin|4H:bot": 1794323421.1227891,
+    "Bitcoin|4H:bot": 1794324046.9828572,
     "EUR/USD|4H:bot": 1794182043.577107,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794323420.58504,
+    "Gold|4H:bot": 1794324046.3725953,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -139,29 +140,23 @@
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794323421.1228018,
+    "Bitcoin|1D:bot": 1794324046.9828742,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794323420.8546538,
+    "USOIL|4H:bot": 1794324046.6303613,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794323412.7201378,
-  "last_news": 1794323420.313424,
+  "last_analysis": 1794324035.5604014,
+  "last_news": 1794324046.1166031,
   "seen_news": [
-    "TAG Immobilien AG (TEG) Raises 2026 FFO I Guidance After 12% Nine-Month Growth -",
-    "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-    "Dollar holds losses ahead of U.S. inflation data",
-    "FX option expiries for 10 November 10am New York cut",
-    "Th\u1ebf gi\u1edbi \u0111\u1ea3o \u0111i\u00ean: Android ch\u1ea1y iOS c\u00f2n iPhone l\u1ea1i ch\u1ea1y Android",
     "The superpower battle over energy \u2013 and what it means for your bills",
     "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
     "investingLive Americas market news wrap: Iran optimism and tech rebound leads to",
@@ -455,6 +450,12 @@
     "US dollar holds onto payrolls gains, NZ dollar rises after election",
     "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
     "N\u1eef MC n\u1ed5i ti\u1ebfng l\u1ea5y \u0111\u1ea1i gia c\u00f4ng ngh\u1ec7, gi\u1ea5u k\u00edn con g\u00e1i h\u01a1n 20 n\u0103m v\u00ec 1 l\u00fd do qu",
-    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "VHC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 69,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
+    "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker ",
+    "New regulation for heating oil market, but no price controls",
+    "US Treasury sanctions Canadian money services firms over Iran-related transactio",
+    "Australia business conditions hit six-year low as forward orders slide: NAB",
+    "\"\u00d4ng ho\u00e0ng \u00e2m nh\u1ea1c\" c\u01b0\u1edbi v\u1ee3 h\u01a1n 14 tu\u1ed5i, s\u1ed1ng trong bi\u1ec7t th\u1ef1 8 t\u1ea7ng xa hoa: C\u00f3 s"
   ]
 }
