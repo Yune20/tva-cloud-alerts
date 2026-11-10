@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794289814.0707815,
-  "last_bot4": 1794293827.4456916,
+  "last_bot4": 1794294495.1074877,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794293195.6253414
+    "Gold": 1794294495.107398
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794294121.4102452,
+  "last_signals": 1794294495.1082237,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -145,22 +145,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794261235.9886177,
+    "USOIL|4H:bot": 1794294495.4029627,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794293827.4443054,
-  "last_news": 1794294121.4095435,
+  "last_analysis": 1794294482.1617362,
+  "last_news": 1794294492.0397685,
   "seen_news": [
-    "investingLive Americas market news wrap: Iran optimism and tech rebound leads to",
-    "Trung Qu\u1ed1c mang 'qu\u00e1i v\u1eadt' c\u00f4ng ngh\u1ec7 n\u00e2ng 1.300 t\u1ea5n sang Vi\u1ec7t Nam, ph\u1ee5c v\u1ee5 \u0111\u1ea1i c",
-    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Procore Technologies Q3 Earnings Call Highlights - TradingView",
-    "3 unexpected reasons the October jobs report was so strong",
-    "How video game remakes tap the power of nostalgia",
     "HLV Kim Sang-sik \u0111\u1ed1i m\u1eb7t hai b\u00e0i to\u00e1n kh\u00f3: \u0110\u1ed9i tuy\u1ec3n s\u1ee9t m\u1ebb l\u1ef1c l\u01b0\u1ee3ng, t\u01b0\u01a1ng lai",
     "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
     "Inflation is expected to remain stubborn in CPI's October reading - TradingView",
@@ -454,6 +448,12 @@
     "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u1eca TR\u01af\u1edcNG - VietstockFinance",
     "Sentia ASA (SNTIA) Q3 Revenue Rose 12.9% to NOK 3,217M - TradingView",
     "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-    "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs "
+    "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs ",
+    "TAG Immobilien AG (TEG) Raises 2026 FFO I Guidance After 12% Nine-Month Growth -",
+    "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "Dollar holds losses ahead of U.S. inflation data",
+    "FX option expiries for 10 November 10am New York cut",
+    "Th\u1ebf gi\u1edbi \u0111\u1ea3o \u0111i\u00ean: Android ch\u1ea1y iOS c\u00f2n iPhone l\u1ea1i ch\u1ea1y Android"
   ]
 }
