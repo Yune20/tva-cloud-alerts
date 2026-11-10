@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794311583.146592,
-  "last_bot4": 1794314676.9030795,
+  "last_bot4": 1794315344.0681493,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794314973.5965478,
+  "last_signals": 1794315344.0687454,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -60,7 +60,7 @@
     "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -134,7 +134,7 @@
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
-    "Ethereum|4H:bot": 1794314974.7193835,
+    "Ethereum|4H:bot": 1794315345.2197342,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794314672.9435036,
-  "last_news": 1794314973.5957355,
+  "last_analysis": 1794315335.9749107,
+  "last_news": 1794315344.0674036,
   "seen_news": [
-    "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered",
-    "Doing these things now will help you save money at Christmas",
-    "Why is Nippon Carbide Industries stock surging today?",
-    "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
-    "T\u1ea1i sao ng\u00e0y c\u00e0ng nhi\u1ec1u gia \u0111\u00ecnh kh\u00f4ng c\u00f2n l\u1ee3p m\u00e1i b\u1eb1ng ng\u00f3i \u0111\u1ecf? 2 v\u1eadt li\u1ec7u thay",
-    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
     "Exclusive-Anthropic\u2019s nearly $70 billion IPO plan briefly circulated to banks, t",
     "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
     "Th\u00f4ng tin v\u1ec1 2 ng\u00e0y l\u1ea1nh nh\u1ea5t trong \u0111\u1ee3t r\u00e9t \u0111\u1ea7u ti\u00ean",
@@ -454,6 +448,12 @@
     "Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall",
     "What are the main events for today?",
     "C\u1eb7p v\u1ee3 ch\u1ed3ng \u00c1 h\u1eadu - di\u1ec5n vi\u00ean tuy\u1ec3n gi\u00fap vi\u1ec7c: L\u01b0\u01a1ng 27 tri\u1ec7u \u0111\u1ed3ng/th\u00e1ng, \u0111\u00f3ng ",
-    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance"
+    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
+    "Goldman turns less bearish on Pluxee as Brazil earnings hit is priced in",
+    "Australia to mandate AI breach reporting, set up regulator after OpenAI agent br",
+    "V\u00ec sao H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng lo\u00e0i c\u00e2y \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn di s\u1ea3n, c\u1ed5 th\u1ee5 h\u01a1n 350 tu\u1ed5i l\u00e0 \"",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "INDP Q3'26 Earnings: EPS estimate is (1.46) USD - TradingView",
+    "Anthropic officially sets the stage for an IPO valuing the company north of $1 t"
   ]
 }
