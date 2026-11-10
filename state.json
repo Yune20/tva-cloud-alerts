@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794294495.1082237,
+  "last_signals": 1794295104.3606405,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -77,7 +77,7 @@
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
@@ -145,22 +145,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794294495.4029627,
+    "USOIL|4H:bot": 1794295105.0121298,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794294482.1617362,
-  "last_news": 1794294492.0397685,
+  "last_analysis": 1794295095.2868104,
+  "last_news": 1794295104.3598082,
   "seen_news": [
-    "HLV Kim Sang-sik \u0111\u1ed1i m\u1eb7t hai b\u00e0i to\u00e1n kh\u00f3: \u0110\u1ed9i tuy\u1ec3n s\u1ee9t m\u1ebb l\u1ef1c l\u01b0\u1ee3ng, t\u01b0\u01a1ng lai",
-    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
-    "Inflation is expected to remain stubborn in CPI's October reading - TradingView",
-    "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese in",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Dollar slips, taking a breather after last week\u2019s advance a day ahead of CPI tes",
     "UBS sees euro-Norwegian krone pullback as stretched",
     "Solana remains skewed to the downside amid negative macro backdrop as US CPI loo",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111i h\u00e1t karaoke ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t c\u1ee7a c\u00f4ng an v\u1ec1 m\u1ee9c ph\u1ea1t",
@@ -454,6 +448,12 @@
     "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
     "Dollar holds losses ahead of U.S. inflation data",
     "FX option expiries for 10 November 10am New York cut",
-    "Th\u1ebf gi\u1edbi \u0111\u1ea3o \u0111i\u00ean: Android ch\u1ea1y iOS c\u00f2n iPhone l\u1ea1i ch\u1ea1y Android"
+    "Th\u1ebf gi\u1edbi \u0111\u1ea3o \u0111i\u00ean: Android ch\u1ea1y iOS c\u00f2n iPhone l\u1ea1i ch\u1ea1y Android",
+    "The superpower battle over energy \u2013 and what it means for your bills",
+    "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
+    "investingLive Americas market news wrap: Iran optimism and tech rebound leads to",
+    "1 th\u01b0\u01a1ng hi\u1ec7u \u00f4 t\u00f4 Trung Qu\u1ed1c chu\u1ea9n b\u1ecb gia nh\u1eadp Vi\u1ec7t Nam, cho \u0111\u1eb7t xe online t\u1eeb n",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
+    "BitPay Brings Apple Pay and Google Pay Checkout to Crypto Purchases - TradingVie"
   ]
 }
