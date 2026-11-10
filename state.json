@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794270184.0431204,
+  "last_signals": 1794270836.8245332,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794243595.0484881,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -63,11 +63,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794270184.23818,
+    "Gold|4H:top": 1794270837.1584287,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794270176.4160268,
-  "last_news": 1794270184.042191,
+  "last_analysis": 1794270788.3180408,
+  "last_news": 1794270836.8236055,
   "seen_news": [
-    "Gold ticks higher on softer oil, but Fed\u2019s 80% December hike odds cap gain",
-    "\u0110\u00eam nay v\u00e0 ng\u00e0y mai l\u00e0 cao \u0111i\u1ec3m r\u00e9t nh\u1ea5t \u0111\u1ee3t kh\u00f4ng kh\u00ed l\u1ea1nh, nhi\u1ec7t \u0111\u1ed9 mi\u1ec1n B\u1eafc x",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "CKX Lands Announces $1 Billion Investment Led by Brad Jacobs - TradingView",
-    "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expecta",
-    "From supermarket fridges to passenger flights, a wave of threats is testing Euro",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Gold's short-term volatility contrasts with long-term bullishness: Russell - Tra",
     "Retirement is now part of the affordability crisis. Politicians should pay atten",
@@ -454,6 +448,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "Badger Infrastructure Solutions Q3 Earnings Call Highlights - TradingView",
     "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
-    "Elizabeth Warren set to take over the Senate banking committee. Here's what she "
+    "Elizabeth Warren set to take over the Senate banking committee. Here's what she ",
+    "U.S. stock futures steady after tech-led rebound; CPI in focus",
+    "US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace s",
+    "Vi\u1ec7t Nam - Nh\u1eadt B\u1ea3n k\u00fd k\u1ebft 11 v\u0103n ki\u1ec7n h\u1ee3p t\u00e1c v\u1ec1 n\u0103ng l\u01b0\u1ee3ng, gi\u00e1o d\u1ee5c, khoa h\u1ecdc",
+    "Anthropic releases first frontier models since Amodei's call for slowdown as IPO",
+    "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+    "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs"
   ]
 }
