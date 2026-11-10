@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794288580.058559,
+  "last_signals": 1794289195.1376314,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -58,7 +58,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -67,7 +67,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794288572.9852104,
-  "last_news": 1794288580.057496,
+  "last_analysis": 1794289187.2468112,
+  "last_news": 1794289195.136349,
   "seen_news": [
-    "Why the US midterms sparked an AI stock selloff",
-    "Europe\u2019s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
-    "Sterling today: Pound firms as dollar retreats from Friday rally",
-    "NZDUSD buyers are starting to take back control after reaching the lowest level ",
-    "Vi\u1ec7t Nam c\u00f3 t\u00f2a nh\u00e0 16 t\u1ea7ng, thu\u1ed9c d\u1ef1 \u00e1n v\u1ed1n 1.100 t\u1ef7 \u0111\u1ed3ng, d\u1ef1 ki\u1ebfn ph\u1ee5c v\u1ee5 \u0111\u01b0\u1ee3c",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Wall Street rebounds strongly after AI rout, but Nvidia excluded from rally",
     "Fed's Barkin: Jobs report was 'healthy' but firms still see low-hire, low-fire e",
     "Ph\u00e1t hi\u1ec7n 1 c\u1ef1u sinh vi\u00ean \u0110HQGHN t\u1eebng kinh doanh v\u00e0ng b\u1ea1c, nay l\u00e0 Ch\u1ee7 t\u1ecbch t\u1eadp \u0111",
@@ -454,6 +448,12 @@
     "Why is Towa stock surging today?",
     "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions ",
     "Ai l\u00e0 ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c kh\u1eafc t\u00ean tr\u00ean bia ti\u1ebfn s\u0129 \u1edf V\u0103n Mi\u1ebfu - Qu\u1ed1c T\u1eed Gi\u00e1m?",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Gedeon Richter upgrades 2026 guidance on strong delivery",
+    "Anthropic unveils Fable 5.2 and Mythos 5.2 models ahead of IPO",
+    "V\u1ee3 ch\u1ed3ng t\u00f4i ch\u1ecdn mua nh\u00e0 c\u00e1ch trung t\u00e2m 20km v\u00ec gi\u00e1 r\u1ebb h\u01a1n 300 tri\u1ec7u, \u0111\u1ebfn khi c",
+    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 41,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "ZAWYA: Egypt moves to deepen local manufacturing, expand investment incentives -",
+    "The stock-market rally keeps spreading beyond Big Tech. October inflation data c"
   ]
 }
