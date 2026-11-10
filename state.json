@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794343353.0738997,
+  "last_signals": 1794343949.0969508,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -72,7 +72,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794343354.3975747,
+    "Gold|4H:bot": 1794343949.4222796,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794343355.7096226,
+    "USOIL|1D:bot": 1794343949.6387732,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794343336.616679,
-  "last_news": 1794343353.0730176,
+  "last_analysis": 1794343940.5125296,
+  "last_news": 1794343949.0961428,
   "seen_news": [
-    "Goldman turns less bearish on Pluxee as Brazil earnings hit is priced in",
-    "Australia to mandate AI breach reporting, set up regulator after OpenAI agent br",
-    "V\u00ec sao H\u00e0 N\u1ed9i c\u1ea5m tr\u1ed3ng lo\u00e0i c\u00e2y \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn di s\u1ea3n, c\u1ed5 th\u1ee5 h\u01a1n 350 tu\u1ed5i l\u00e0 \"",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "INDP Q3'26 Earnings: EPS estimate is (1.46) USD - TradingView",
-    "Anthropic officially sets the stage for an IPO valuing the company north of $1 t",
     "Anthropic to raise $64bn in major stock market listing",
     "Alibaba advances Hong Kong IPO plans for chip subsidiary T-Head",
     "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in De",
@@ -457,6 +451,12 @@
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Endeavour Silver Q3 2026 Earnings Call Is Live - TradingView",
     "Nvidia could soon face tougher export rules, making it harder to sell chips to C",
-    "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York F"
+    "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York F",
+    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
+    "Tech sector extends historic lag as Nvidia hits fresh lows - TradingView",
+    "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting ",
+    "White House vows to press ahead with tariffs despite midterm backlash over risin",
+    "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
+    "China Is Buying Oil Again After Months of Living Off Its Stockpiles"
   ]
 }
