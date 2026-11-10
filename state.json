@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794319029.9987197,
+  "last_signals": 1794319643.4515889,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -66,7 +66,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -145,22 +145,16 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794185504.6604068,
     "Gold|1H:bot": 1793505207.9811332,
-    "USOIL|4H:bot": 1794319030.289439,
+    "USOIL|4H:bot": 1794319644.7973816,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794289814.6048255,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794319022.1071634,
-  "last_news": 1794319029.997795,
+  "last_analysis": 1794319634.6534803,
+  "last_news": 1794319643.450798,
   "seen_news": [
-    "TSMC's October sales jump as global chip boom rolls on",
-    "Why the US midterms sparked an AI stock selloff",
-    "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
-    "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chip",
-    "Trump eyes Xi, Putin meeting at APEC on Iran war, says he\u2019d \u2018certainly take\u2019 Hua",
-    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam \u0110\u00e0o H\u1ed3ng Th\u00e1i SN 1981 \u0111\u1ec3 \u0111i\u1ec1u tra v\u1ec1 s\u1ed1 ti\u1ec1n 11 t\u1ef7 \u0111\u1ed3",
     "Europe\u2019s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
     "LEM half-year operating profit more than doubles on data-centre demand",
     "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
@@ -454,6 +448,12 @@
     "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inf",
     "Anthropic heads for $1.3 trillion valuation in major stock market listing",
     "GoodRx stock rises on Google Cloud healthcare AI partnership",
-    "UK retail sales rise 1.5%, best since June, but fuel costs and Budget caution we"
+    "UK retail sales rise 1.5%, best since June, but fuel costs and Budget caution we",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Cantor Fitzgerald initiates coverage of Dick's Sporting Goods at Neutral, sets p",
+    "Here\u2019s what Nvidia investors should be focusing on now. Hint: It\u2019s not Jensen Hu",
+    "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia s",
+    "US inflation higher than expected in October - here's what is happening with pri",
+    "Why Sudan's Civil War Is Becoming a U.S. National Security Threat"
   ]
 }
