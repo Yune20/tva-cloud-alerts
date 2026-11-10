@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794342088.8598495,
+  "last_signals": 1794342706.7500813,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -67,12 +67,12 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794342088.9942546,
+    "Gold|4H:bot": 1794342707.068397,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794342089.1437643,
+    "USOIL|1D:bot": 1794342707.4406562,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794342080.6785772,
-  "last_news": 1794342088.8589823,
+  "last_analysis": 1794342698.5580113,
+  "last_news": 1794342706.7491903,
   "seen_news": [
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "AS Q3'26 Earnings: revenue estimate is 2.14B USD - TradingView",
-    "Nvidia couldn\u2019t derail the stock market\u2019s rally. Hot inflation might.",
-    "A massive trade in Nvidia just went off \u2013 here are the details",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "China Is Buying Oil Again After Months of Living Off Its Stockpiles",
     "This beaten-down data center stock could be worth a look, says Mike Khouw",
     "Holiday hunger bill to face final Stormont hurdle",
     "Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall",
@@ -457,6 +451,12 @@
     "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
     "Lindian Resources Limited (LIN) Secures Binding Offtake for 30,000 Tonnes - Trad",
     "Corporate America is making a trillion-dollar mistake about retirement",
-    "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s Chin"
+    "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s Chin",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
+    "flatexDEGIRO SE (FTK) Receives Morgan Stanley Voting Rights Filing - TradingView",
+    "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 202",
+    "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national s",
+    "Poundland unable to buy new stock as fears over collapse grow",
+    "Dollar jumps as hot CPI and Waller comments bring supersized Fed hike into play"
   ]
 }
