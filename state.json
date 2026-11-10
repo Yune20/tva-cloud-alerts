@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794277979.5437071,
+  "last_signals": 1794278593.2965808,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
-    "5575146754|Gold|4H|range_in": 1794211274.9561524,
+    "5575146754|Gold|4H|range_in": 1794278593.2965808,
     "5575146754|Gold|1H|trap_dn": 1793945288.142568,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794257486.7702186,
@@ -58,7 +58,7 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794277970.443799,
-  "last_news": 1794277979.542739,
+  "last_analysis": 1794278584.998137,
+  "last_news": 1794278593.2956905,
   "seen_news": [
-    "B\u1ed9 Y t\u1ebf y\u00eau c\u1ea7u \u0111i\u1ec1u tra v\u1ee5 nh\u1eadp vi\u1ec7n, h\u00f4n m\u00ea s\u00e2u nghi ng\u1ed9 \u0111\u1ed9c c\u00e1 n\u00f3c",
-    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
-    "Goldman Sachs Delivers Surprising Take on SpaceX Stock - TradingView",
-    "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "Rising cost of living tests UK's net zero ambitions",
-    "Cryptocurrencies slide to two-month lows after US midterms",
     "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef tr\u1ea3 gi\u00e1 \u0111\u1ea5t n\u00f4ng th\u00f4n g\u1ea7n 1,5 t\u1ef7 \u0111\u1ed3ng/m\u00b2 \u1edf Ninh B\u00ecnh n\u00f3i g\u00ec?",
     "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
     "How Democrats will try to end Trump's tariffs",
@@ -454,6 +448,12 @@
     "Why is WuXi AppTec stock rallying today?",
     "PBOC sets USD/ CNY central rate at 6.7167 (vs. estimate at 6.6655)",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 h\u1ed9 chi\u1ebfu ch\u00fa \u00fd th\u00f4ng tin \u1edf trang 48 theo h\u01b0\u1edbng d\u1eabn c\u1ee7a c\u00f4ng ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "Many workers lose unused FSA money \u2014 but could still come out ahead. Here's how",
+    "The grads ditching the UK for a fresh start abroad",
+    "COP31 Opens in Antalya With a UN Push for Faster Climate Action",
+    "Exclusive-Anthropic sends out, then retracts details of IPO filing, emails show",
+    "Finance Magnates Awards 2026: Forex Brokers and Prop Firm Winners",
+    "B\u1ea5t ng\u1edd t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long, Shark Ph\u00fa, Ch\u1ee7 t\u1ecbch Sacombank v\u00e0 lo\u1ea1t CEO l\u1edbn c\u00f9n"
   ]
 }
