@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794344243.5358808,
-  "last_bot4": 1794347978.112333,
+  "last_bot4": 1794348601.1901033,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794347978.1130762,
+  "last_signals": 1794348601.190786,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -79,7 +79,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1793757390.4262822,
-    "JPY Index|4H:top": 1793757390.9517138,
+    "USD/JPY|4H:top": 1794348602.9346051,
+    "JPY Index|4H:top": 1794348603.3158054,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794347978.761371,
+    "USOIL|1D:bot": 1794348601.5969353,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794348278.3148692,
-  "last_news": 1794347975.3151777,
+  "last_analysis": 1794348591.96897,
+  "last_news": 1794348601.1892931,
   "seen_news": [
-    "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
-    "US October core CPI +0.3% vs +0.2% expected",
-    "C\u1eb7p \u0111\u00f4i showbiz g\u00e2y s\u1ed1c tuy\u00ean b\u1ed1 ly h\u00f4n sau 3 ng\u00e0y c\u01b0\u1edbi do ng\u01b0\u1eddi ch\u1ed3ng ngo\u1ea1i t\u00ecn",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Envoy Medical, Inc. (COCH) Regains Nasdaq Bid-Price Compliance - TradingView",
-    "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with ",
     "C\u00f4ng vi\u1ec7c hi\u1ec7n t\u1ea1i c\u1ee7a Ph\u01b0\u01a1ng Oanh",
     "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
     "BTCUSD: Bitcoin Slips Below $74,000 as Sentiment Sours, Liquidations Add Pressur",
@@ -457,6 +451,12 @@
     "Five US states join FTC suit over alleged Hims & Hers unlawful practices",
     "Fed's Bowman: Persistent inflation, firming labor conditions suggest 'work to do",
     "Trong c\u00f9ng 1 ng\u00e0y, 5 c\u1ed5 phi\u1ebfu l\u1eadp \u0111\u1ec9nh l\u1ecbch s\u1eed: C\u00f3 m\u00e3 t\u0103ng l\u00ean g\u1ea5p 11,5 l\u1ea7n tron",
-    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "BofA downgrades Wix to underperform as AI coding tools threaten core growth",
+    "More from Fed\u2019s Bowman: Shifts focus to inflation, wants AI and Middle East risk",
+    "Tuy\u1ec3n Vi\u1ec7t Nam th\u1eafng \u0111\u1eadm Th\u00e1i Lan, m\u00e0n ph\u1ee5c h\u1eadn ng\u1ecdt ng\u00e0o t\u1ea1i Gia Lai",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "KVH Industries Stock Dips Post Q3 Earnings Despite Revenue, LEO Growth - Trading",
+    "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scan"
   ]
 }
