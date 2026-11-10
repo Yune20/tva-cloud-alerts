@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794272021.542751,
+  "last_signals": 1794272641.7692175,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794271413.0359142,
     "5575146754|Gold|4H|range_in": 1794211274.9561524,
@@ -60,14 +60,14 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": true,
@@ -115,7 +115,7 @@
   },
   "sig_touch": {
     "Ethereum|4H:top": 1793836359.7262256,
-    "Gold|4H:top": 1794272021.7074232,
+    "Gold|4H:top": 1794272641.9249165,
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1793757390.4262822,
     "JPY Index|4H:top": 1793757390.9517138,
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794243595.5789022,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794272013.4614065,
-  "last_news": 1794272021.5418174,
+  "last_analysis": 1794272631.3113964,
+  "last_news": 1794272641.7683136,
   "seen_news": [
-    "Why are more roofs not made of solar tiles?",
-    "Deflating the AI bubble: Why a tech reset is exactly what markets need",
-    "Oil falls further on report that Trump asked Iraqi PM to bring Iran proposals to",
-    "\u0110BQH \u0111\u1ec1 xu\u1ea5t c\u1ea5m b\u00e1n v\u00e0 s\u1eed d\u1ee5ng thu\u1ed1c l\u00e1 \u0111\u1ed1i v\u1edbi ng\u01b0\u1eddi sinh n\u0103m 2010 tr\u1edf v\u1ec1 sau,",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
-    "Mutares To Sell Magirus Firefighter Business Unit - TradingView",
     "Why tech workers are flocking to NYC",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "Oil Prices Fall as Trump Signals No New Attacks on Iran",
@@ -454,6 +448,12 @@
     "investingLive European news wrap: Markets await fresh US-Iran developments, US C",
     "Nam danh ca SN 1937 t\u1eeb M\u1ef9 v\u1ec1 di\u1ec5n l\u1ea7n cu\u1ed1i ph\u1ea3i ng\u1ed3i xe l\u0103n",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Plug Power Q3 Highlights: Revenue Beat, Cash Usage Improves - TradingView"
+    "Plug Power Q3 Highlights: Revenue Beat, Cash Usage Improves - TradingView",
+    "U.S. Traders Weigh the Cost of Taking Trump\u2019s Russian Diesel",
+    "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy",
+    "Eurozone Sentix investor confidence weakens further in November as global growth",
+    "Kh\u00f4ng kh\u00ed l\u1ea1nh t\u0103ng c\u01b0\u1eddng, B\u1eafc B\u1ed9 r\u00e9t 14 \u0111\u1ed9 C, Trung B\u1ed9 m\u01b0a r\u1ea5t to",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "UnitedHealth Group appoints Madeline Bell as independent director - TradingView"
   ]
 }
