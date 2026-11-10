@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794278888.6323888,
-  "last_bot4": 1794278893.426668,
+  "last_bot4": 1794279665.1042593,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794279260.6403754,
+  "last_signals": 1794279665.105122,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794276120.021894,
     "5575146754|Gold|4H|range_in": 1794278593.2965808,
@@ -78,13 +78,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": true,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": true,
     "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": true,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": true
   },
@@ -152,15 +152,9 @@
     "USOIL|1D:bot": 1794277355.784147,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794279250.1220868,
-  "last_news": 1794279260.6395226,
+  "last_analysis": 1794279612.8882055,
+  "last_news": 1794279665.103141,
   "seen_news": [
-    "Moody\u2019s and S&P downgrade Akamai on debt-fueled AI infrastructure buildout",
-    "US stocks rebound even as Nvidia slides 4%. What next technically",
-    "M\u00e1y bay A320 v\u1edbi ph\u1ea7n m\u0169i c\u1ee7a ti\u00eam k\u00edch Eurofighter g\u00e2y ng\u1ea1c nhi\u00ean l\u1edbn",
-    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Zura Bio's skin disease drug fails mid-stage trial - TradingView",
-    "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is o",
     "Exclusive-UniCredit to win unconditional EU nod for Commerzbank deal, sources sa",
     "Fed's Goolsbee: Starting to see inflation kicking up in services",
     "\u0110\u00ecnh ch\u1ec9 45 ng\u00e0y ph\u00f3 hi\u1ec7u tr\u01b0\u1edfng d\u00f9ng th\u01b0\u1edbc \u0111\u00e1nh v\u00e0o \u0111\u1ea7u h\u1ecdc sinh \u1edf \u0110\u1eafk L\u1eafk",
@@ -454,6 +448,12 @@
     "Weekly Recap: Third-quarter results and EMEA packaging sale review - TradingView",
     "China exports, imports soar past expectations in October \u2014 surplus narrows sharp",
     "The tech helping crack decades-old cold cases",
-    "Cryptocurrencies slide to two-month lows after US midterms"
+    "Cryptocurrencies slide to two-month lows after US midterms",
+    "Why is Monadelphous stock surging today?",
+    "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil stea",
+    "Do\u00e3n H\u1ea3i My - v\u1ee3 V\u0103n H\u1eadu l\u00e0m ngh\u1ec1 g\u00ec?",
+    "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controve",
+    "He spent $50,000 on Labubus but now the craze is dying",
+    "Anthropic retracts IPO details after sending filing to bankers - Reuters"
   ]
 }
