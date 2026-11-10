@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794341154.1483245,
+  "last_signals": 1794341476.577773,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794341154.4085827,
+    "Gold|4H:bot": 1794341476.7240238,
     "USD/JPY|1D:top": 1792014451.125386,
     "JPY Index|1D:top": 1792014451.5254805,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -152,18 +152,12 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1794341154.6294613,
+    "USOIL|1D:bot": 1794341476.9050364,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794340861.1836195,
-  "last_news": 1794341154.147424,
+  "last_analysis": 1794341466.28467,
+  "last_news": 1794341476.5769858,
   "seen_news": [
-    "Anthropic\u2019s IPO: A close look at AI frontrunner\u2019s rapid growth, spiraling costs",
-    "PrimeXBT Insights: NVIDIA Earnings Preview & Key Price Drivers",
-    "V\u1ee5 tr\u1ea3 gi\u00e1 g\u1ea7n 1,5 t\u1ef7 \u0111\u1ed3ng/m\u00b2 \u0111\u1ea5t n\u00f4ng th\u00f4n \u1edf Ninh B\u00ecnh: C\u1ea7n l\u00e0m r\u00f5 d\u1ea5u hi\u1ec7u th\u00f4",
-    "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Italian prosecutors target Amazon over sale of Chinese goods - TradingView",
-    "Trump sees opening for Ukraine peace deal, but key questions remain ahead of Abu",
     "\u0110ang gi\u00fap d\u00ec d\u1ecdn t\u1ee7, ng\u01b0\u1eddi ph\u1ee5 n\u1eef ph\u00e1t hi\u1ec7n m\u00f3n \u0111\u1ed3 b\u1ecb gi\u1ea5u g\u1ea7n 40 n\u0103m, chuy\u00ean gi",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
     "COSM Q3'26 Earnings: revenue estimate is 17.34M USD - TradingView",
@@ -457,6 +451,12 @@
     "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
     "Jim Jordan elected House GOP leader",
     "Civil servant who secretly held five jobs found guilty of fraud",
-    "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation"
+    "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
+    "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+    "S&P raises GEO Group rating to \u2019BB+\u2019 on debt reduction and 1x leverage goal",
+    "Anthropic looks to be pricing its IPO for success",
+    "Tr\u1ea5n Th\u00e0nh - Hari Won c\u00e3i l\u1ed9n c\u0103ng th\u1eb3ng v\u1edbi Tr\u1ecbnh Th\u0103ng B\u00ecnh tr\u00ean xe, chuy\u1ec7n g\u00ec",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
+    "Evercore Holdings, Inc. (EVHO) Completes Home Chief Acquisition - TradingView"
   ]
 }
