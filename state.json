@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794365695.6484394,
+  "last_signals": 1794366364.0681593,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794365066.3150375,
     "5575146754|Gold|4H|range_in": 1794361978.2413075,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794365686.2008598,
-  "last_news": 1794365695.6475139,
+  "last_analysis": 1794366354.7991848,
+  "last_news": 1794366364.066861,
   "seen_news": [
-    "AstraZeneca acquires preclinical biotech Omniose - TradingView",
-    "Americans are more concerned about retirement than ever. Politicians should pay ",
-    "PepsiCo to cut about 1,000 jobs as North American business struggles",
-    "Graduates are managing AI - but are they learning much else?",
-    "Brent Crude Falls Below $90 for First Time Since August",
-    "Boeing safety chief says factory floor contact key as output rises",
     "Trump\u2019s C-SPAN call marks latest surprise post-midterm appearance",
     "The Indian workers filming their work to train AI",
     "Hims & Hers to offer an unapproved peptide after US eases curbs",
@@ -457,6 +451,12 @@
     "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
     "Some pupils 'struggling just to get a hot meal'",
     "Russia shoots down 92 drones over Leningrad region",
-    "SoftBank shares down after swings to $7 billion Q2 loss on $3.7 billion US data "
+    "SoftBank shares down after swings to $7 billion Q2 loss on $3.7 billion US data ",
+    "Nghi\u00ean c\u1ee9u ph\u00e2n b\u1ea3ng ch\u1ee9ng kho\u00e1n gi\u00fap nh\u00e0 \u0111\u1ea7u t\u01b0 nh\u1eadn di\u1ec7n r\u1ee7i ro",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
+    "Russia retreats from China's yuan as U.S. sanctions bolster dollar - TradingView",
+    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
+    "Singapore wants a bigger slice of the global gold market. Is it too late to the ",
+    "Qantas to outsource 850 local jobs with most roles moving to India"
   ]
 }
