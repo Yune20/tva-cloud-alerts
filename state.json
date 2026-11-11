@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794374953.4139268,
+  "last_signals": 1794375562.0699193,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -79,7 +79,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794374945.790313,
-  "last_news": 1794374953.413033,
+  "last_analysis": 1794375553.5776856,
+  "last_news": 1794375562.0690784,
   "seen_news": [
-    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
-    "Will Medifast's Metabolic Health Institute Strengthen Its Edge? - TradingView",
-    "Anthropic officially sets the stage for an IPO valuing the company north of $1 t",
-    "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
-    "Living with a stink? Technology might help",
-    "Nvidia selloff deepens, adding to\u00a0AI jitters",
     "Retirees should be big beneficiaries of the midterms: \u2018Democrats will hold every",
     "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, s",
     "Doing these things now will help you save money at Christmas",
@@ -457,6 +451,12 @@
     "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
     "Three reasons Goldman has added another Fed rate hike to its forecast, higher an",
     "Di\u1ec5n vi\u00ean Vi\u1ec7t chi h\u01a1n 1 t\u1ef7 c\u1ea3i t\u1ea1o nh\u00e0 \u0111\u1eb9p nh\u01b0 tranh",
-    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance"
+    "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
+    "Why is Suzuki Motor stock sliding today?",
+    "US October core CPI +0.3% vs +0.2% expected",
+    "T\u01b0\u1edfng ch\u1ec9 l\u00e0 t\u00ecnh ti\u1ebft trong phim, ki\u1ebfn th\u1ee9c t\u1eeb Conan b\u1ea5t ng\u1edd c\u1ee9u m\u1ea1ng ng\u01b0\u1eddi \u0111\u00e0n",
+    "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
+    "Gold rebounds after sharp selloff though Fed hike bets weigh - TradingView",
+    "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting "
   ]
 }
