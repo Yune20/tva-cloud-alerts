@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794356107.4850755,
+  "last_signals": 1794356724.6824148,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794354878.3754628,
-    "JPY Index|4H:top": 1794354878.7204463,
+    "USD/JPY|4H:top": 1794356726.5354967,
+    "JPY Index|4H:top": 1794356726.932505,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794356100.0478594,
-  "last_news": 1794356107.4841442,
+  "last_analysis": 1794356713.721662,
+  "last_news": 1794356724.6811805,
   "seen_news": [
-    "Stocks rebounding despite higher-than-expected CPI",
-    "Hoa h\u1eadu Vi\u1ec7t Nam \u0111\u1ea7u ti\u00ean gi\u1edd ra sao?",
-    "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "GE HealthCare to establish neuroscience research network - TradingView",
-    "Children\u2019s Place files for bankruptcy protection, seeks buyer",
-    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "Why stocks are falling and 10-year yields are back near 5% after Tuesday\u2019s infla",
     "Here's the inflation breakdown for October 2026 \u2014 in one chart",
     "How video game remakes tap the power of nostalgia",
@@ -457,6 +451,12 @@
     "Trung Qu\u1ed1c xu\u1ea5t hi\u1ec7n \u1ee9ng d\u1ee5ng h\u1eb9n h\u00f2 k\u1ef3 l\u1ea1: 3 n\u0103m sau v\u1eabn \u1ebf s\u1ebd \u0111\u01b0\u1ee3c ho\u00e0n l\u1ea1i 7,6",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
     "Emerson Electric Prices \u20ac750.0 Million Of 4.000% Notes Due 2032 - TradingView",
-    "How much you can make in 2027 and still pay 0% capital gains tax"
+    "How much you can make in 2027 and still pay 0% capital gains tax",
+    "L\u01b0\u01a1ng 20 tri\u1ec7u, nh\u00e0 ch\u01b0a c\u00f3, ch\u1ed3ng v\u1eabn \u0111\u00f2i mua \u00f4 t\u00f4 800 tri\u1ec7u: C\u1ed9ng \u0111\u1ed3ng m\u1ea1ng ch",
+    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Marchex Appoints Travis Fairchild As President Effective November 9, 2026 - Trad",
+    "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+    "Stickers and building sets help drive toy sales ahead of Christmas rush",
+    "Petrobras Q3 profit rises 34% but misses expectations"
   ]
 }
