@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794394732.7462628,
+  "last_signals": 1794395401.5716667,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794392906.63391,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
     "Bitcoin|4H:bot": 1794324662.158309,
-    "EUR/USD|4H:bot": 1794394734.986681,
+    "EUR/USD|4H:bot": 1794395402.8357036,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794395035.3881276,
-  "last_news": 1794394732.745429,
+  "last_analysis": 1794395393.6450758,
+  "last_news": 1794395401.5707333,
   "seen_news": [
-    "Polymarket says annualized revenue has topped $1.8 billion",
-    "Law on 'holiday hunger' passed by Stormont assembly",
-    "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
-    "Why is SoftBank Group stock tumbling today?",
-    "Three drivers setting gold\u2019s tone as December Fed hike bets build, according to ",
-    "Ra l\u1ec7nh b\u1eaft t\u1ea1m giam \u0110inh Ho\u00e0ng H\u1ea3i SN 2009",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
     "Consolidated Water Q3 2026 Earnings Call Is Live - TradingView",
     "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
@@ -457,6 +451,12 @@
     "8 gi\u00e2y \u201c\u0111\u1eb7c s\u1eafc\u201d trong \u00f4 t\u00f4 c\u1ee7a Hoa h\u1eadu l\u00e0m v\u1ee3 ti\u1ebfn s\u0129 kinh t\u1ebf",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
     "E.ON Q3 2026 Earnings Call Is Live - TradingView",
-    "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast"
+    "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+    "Nhi\u1ec1u SUV gi\u1ea3m gi\u00e1: Xe Nh\u1eadt \u01b0u \u0111\u00e3i tr\u0103m tri\u1ec7u \u0111\u1ed3ng",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Zacks Industry Outlook Highlights Patterson-UTI, Nabors and Helmerich & Payne - ",
+    "Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings",
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
+    "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan"
   ]
 }
