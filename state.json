@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794395401.5716667,
+  "last_signals": 1794396009.6965952,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794392906.63391,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -86,7 +86,7 @@
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
     "Bitcoin|4H:bot": 1794324662.158309,
-    "EUR/USD|4H:bot": 1794395402.8357036,
+    "EUR/USD|4H:bot": 1794396010.786127,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794395393.6450758,
-  "last_news": 1794395401.5707333,
+  "last_analysis": 1794396000.9878054,
+  "last_news": 1794396009.6957357,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
-    "Consolidated Water Q3 2026 Earnings Call Is Live - TradingView",
-    "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-    "Some pupils 'struggling just to get a hot meal'",
-    "Russia shoots down 92 drones over Leningrad region",
-    "SoftBank shares down after swings to $7 billion Q2 loss on $3.7 billion US data ",
     "Nghi\u00ean c\u1ee9u ph\u00e2n b\u1ea3ng ch\u1ee9ng kho\u00e1n gi\u00fap nh\u00e0 \u0111\u1ea7u t\u01b0 nh\u1eadn di\u1ec7n r\u1ee7i ro",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
     "Russia retreats from China's yuan as U.S. sanctions bolster dollar - TradingView",
@@ -457,6 +451,12 @@
     "Zacks Industry Outlook Highlights Patterson-UTI, Nabors and Helmerich & Payne - ",
     "Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings",
     "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
-    "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan"
+    "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan",
+    "How Democrats could snarl Trump administration stakes in private-sector companie",
+    "How video game remakes tap the power of nostalgia",
+    "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
+    "Citi sees yen strengthening risk if Japanese stocks correct further",
+    "Crude oil rebounds as expectations for an imminent deal fade amid the lack of US",
+    "C\u00f4ng an th\u00f4ng b\u00e1o: Ng\u01b0\u1eddi d\u00e2n c\u00f3 th\u1ec3 ch\u1ee7 \u0111\u1ed9ng kh\u00f3a kh\u1ea9n c\u1ea5p t\u00e0i kho\u1ea3n VNeID khi c"
   ]
 }
