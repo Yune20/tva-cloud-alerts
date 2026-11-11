@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794432779.1924813,
-  "last_bot4": 1794438685.2353761,
+  "last_bot4": 1794439351.8002229,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794438011.8504453
+    "Gold": 1794439351.8001254
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794438685.236167,
+  "last_signals": 1794439351.801135,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -40,7 +40,6 @@
     "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_up": 1794191133.3092005,
     "5575146754|Gold|4H|up": 1793859452.0785139,
-    "5575146754|Gold|4H|momo_up": 1793834513.1100059,
     "5575146754|Gold|4H|trap_up": 1793864738.0150247,
     "5575146754|Gold|1H|up": 1793854837.1009996,
     "5575146754|Gold|1H|momo_dn": 1794420246.2177808,
@@ -48,7 +47,7 @@
     "5575146754|Gold|4H|dbot": 1794342088.8598495,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393,
     "5575146754|Gold|4H|dn": 1794427647.990476,
-    "5575146754|Gold|4H|trap_dn": 1794435183.370044
+    "5575146754|Gold|4H|trap_dn": 1794439351.801135
   },
   "sig_range": {
     "Gold": true,
@@ -69,7 +68,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -83,13 +82,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -126,7 +125,7 @@
     "JPY Index|4H:top": 1794389846.265248,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794438686.9382262,
+    "DXY|4H:top": 1794439353.436321,
     "Bitcoin|4H:bot": 1794324662.158309,
     "EUR/USD|4H:bot": 1794396010.786127,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -148,7 +147,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794438686.3348796,
+    "GBP/USD|4H:bot": 1794439352.9243617,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794438983.628369,
-  "last_news": 1794438685.234137,
+  "last_analysis": 1794439339.318753,
+  "last_news": 1794439349.269631,
   "seen_news": [
-    "SXTP Q3'26 Earnings: EPS estimate is (0.61) USD - TradingView",
-    "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
-    "How Democrats could snarl Trump administration stakes in private sector companie",
-    "Poundland unable to buy new stock as fears over collapse grow",
-    "Why is Nayax stock surging today?",
-    "Three reasons Goldman has added another Fed rate hike to its forecast, higher an",
     "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight bac",
     "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
     "Torus raises $500 million for AI data center product - Bloomberg",
@@ -459,6 +452,12 @@
     "JetBlue unveils new first-class seats to bring back profits",
     "How video game remakes tap the power of nostalgia",
     "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
-    "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears"
+    "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
+    "Vylor, Inc. (VYLR) Reaffirms 2026 EBITDA and EPS Guidance - TradingView",
+    "Costco is giving shareholders a big, early holiday gift. How to make sure you ge",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "BofA: Retail yen selling rises but offset by foreign inflows",
+    "Strategy (MSTR) is to be removed from MSCI Global Investable Market Indexes foll",
+    "T\u1ed5ng t\u00e0i s\u1ea3n h\u1ec7 th\u1ed1ng ng\u00e2n h\u00e0ng t\u0103ng h\u01a1n 10%, v\u1ed1n \u0111i\u1ec1u l\u1ec7 \u0111\u1ea1t 1,37 tri\u1ec7u t\u1ef7 \u0111\u1ed3ng"
   ]
 }
