@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794359163.3063529,
+  "last_signals": 1794359782.4251392,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -75,11 +75,11 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794359154.8207073,
-  "last_news": 1794359163.3055184,
+  "last_analysis": 1794359773.9974349,
+  "last_news": 1794359782.424106,
   "seen_news": [
-    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Office Properties Income Trust Q3 2026 Earnings Call Is Live - TradingView",
-    "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
-    "10-year Treasury yield races back to 5% as inflation data, Waller comments drive",
-    "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "China to Spend $940B on Energy Transition in 2026",
     "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.54%",
     "As yields run higher so does the US dollar. What next technically for the major ",
     "Gi\u00e1 v\u00e0ng th\u1ebf gi\u1edbi lao d\u1ed1c h\u01a1n 104 USD/ounce sau d\u1eef li\u1ec7u l\u1ea1m ph\u00e1t M\u1ef9",
@@ -457,6 +451,12 @@
     "Freehold Royalties Q3 2026 Earnings Call Is Live - TradingView",
     "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
     "The engine parts that 'fight the laws of the universe'",
-    "Middle East Oil Flows Far from Normal Despite Signs of Oversupply"
+    "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+    "C\u00f4ng an b\u1eaft gi\u1eef Phan Anh Thi\u00ean SN 1982 trong v\u1ee5 thu\u00ea xe t\u1ef1 l\u00e1i \u0111em c\u1ea7m c\u1ed1 chi\u1ebfm ",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Release according to Article 40, Section 1 of the WpHG - TradingView",
+    "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
+    "U.S. gas prices fall below $4 for the first time since July",
+    "How video game remakes tap the power of nostalgia"
   ]
 }
