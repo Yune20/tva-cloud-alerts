@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794388607.3482506,
+  "last_signals": 1794389226.9852052,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,8 +63,8 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794388598.510841,
-  "last_news": 1794388607.3473632,
+  "last_analysis": 1794389219.491089,
+  "last_news": 1794389226.984498,
   "seen_news": [
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n ch\u00fa \u00fd quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t v\u1ec1 \u0111\u0103ng k\u00fd th\u01b0\u1eddng tr\u00fa, t\u1ea1m tr\u00fa",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
-    "Freehold Royalties Q3 2026 Earnings Call Is Live - TradingView",
-    "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
-    "The engine parts that 'fight the laws of the universe'",
-    "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
     "C\u00f4ng an b\u1eaft gi\u1eef Phan Anh Thi\u00ean SN 1982 trong v\u1ee5 thu\u00ea xe t\u1ef1 l\u00e1i \u0111em c\u1ea7m c\u1ed1 chi\u1ebfm ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "Release according to Article 40, Section 1 of the WpHG - TradingView",
@@ -457,6 +451,12 @@
     "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
     "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "Global bonds fall as hot U.S. CPI and Fed Rhetoric stoke fears of 50-bps hike",
-    "European stock market open: European stocks keep the good times rolling this wee"
+    "European stock market open: European stocks keep the good times rolling this wee",
+    "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns",
+    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "Nomura weighs rebuilding Hong Kong equity capital markets business - Reuters",
+    "Chart of the day: Is EUR/USD heading for another breakdown or a surprise comebac",
+    "D\u1ef1 \u00e1n \u0111\u01b0\u1eddng Tam Trinh t\u0103ng v\u1ed1n 314 t\u1ef7 \u0111\u1ed3ng, l\u00f9i ti\u1ebfn \u0111\u1ed9 \u0111\u1ebfn n\u0103m 2027",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su"
   ]
 }
