@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794377080.3176146,
-  "last_bot4": 1794377084.237278,
+  "last_bot4": 1794377807.4678764,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794377436.6626668,
+  "last_signals": 1794377807.4684308,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794377428.6148493,
-  "last_news": 1794377436.6618133,
+  "last_analysis": 1794377797.5592237,
+  "last_news": 1794377807.4669855,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - R\u1ee7i ro h\u1ea1 nhi\u1ec7t, th\u1ecb tr\u01b0\u1eddng ch\u1edd \u0111\u1ed9ng l\u1ef1c - V",
-    "GROV: Profitability improved as revenue and customer activity continued to contr",
-    "How the stock market has performed after Veterans Day over the past decade",
-    "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-    "Why are more roofs not made of solar tiles?",
-    "Lawmakers vow aggressive oversight of FCC chair after Democrats take over",
     "How oil-rich Alberta's economy might fare if it broke away from Canada",
     "API Shows Sharp Drop in US Crude Oil, Distillate Inventories",
     "Five US states join FTC suit over alleged Hims & Hers unlawful practices",
@@ -457,6 +451,12 @@
     "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
     "News by CNBC TV18 on TradingView, 2026-11-11 \u2014 cnbctv:cf6dae6b4094b:0 - TradingV",
     "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
-    "Living with a stink? Technology might help"
+    "Living with a stink? Technology might help",
+    "China optical stocks rally as Microsoft challenges proposed U.S. import curbs",
+    "Euro bears haven't been this aggressive since the Covid pandemic, but is the tra",
+    "\"Tuy\u1ec7t chi\u00eau\" c\u1ee7a Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Inovio Pharmaceuticals Q3 2026 Earnings Call Is Live - TradingView",
+    "Stocks fall as the 10-year Treasury yield nears 5% mark"
   ]
 }
