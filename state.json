@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794370660.0807881,
+  "last_signals": 1794371274.8886259,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794367587.6657038,
@@ -61,13 +61,13 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794370662.2422585,
-    "JPY Index|4H:top": 1794370662.8766308,
+    "USD/JPY|4H:top": 1794371277.365783,
+    "JPY Index|4H:top": 1794371277.9329686,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794370651.1416442,
-  "last_news": 1794370660.080104,
+  "last_analysis": 1794371265.790526,
+  "last_news": 1794371274.887714,
   "seen_news": [
-    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
-    "Urbana Corporation (URB) Filed Unaudited Nine-Month Financial Statements - Tradi",
-    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
-    "Jim Jordan elected House GOP leader",
-    "Civil servant who secretly held five jobs found guilty of fraud",
-    "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
     "Nvidia hires major New York law firm to investigate Jensen Huang affair",
     "S&P raises GEO Group rating to \u2019BB+\u2019 on debt reduction and 1x leverage goal",
     "Anthropic looks to be pricing its IPO for success",
@@ -457,6 +451,12 @@
     "T\u1ea1m d\u1eebng 82 b\u1ebfn, 74 ph\u01b0\u01a1ng ti\u1ec7n thu\u1ef7 sau v\u1ee5 l\u1eadt ca n\u00f4 l\u00e0m 15 kh\u00e1ch t\u1eed vong t\u1ea1i P",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
     "Coffee Prices Slide as the Brazilian Real Weakens and Supplies Build - TradingVi",
-    "Bessent reportedly moved to military base over Iranian threats on his life"
+    "Bessent reportedly moved to military base over Iranian threats on his life",
+    "S\u00e0n t\u00e0i s\u1ea3n m\u00e3 h\u00f3a TCEX ch\u00ednh th\u1ee9c t\u0103ng v\u1ed1n l\u00ean 10.000 t\u1ef7 \u0111\u1ed3ng",
+    "TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU 10/2026 - VietstockFinance",
+    "Guardant Health (GH) Gets Taiwan Approval for Guardant360 Tissue - TradingView",
+    "Traders bet on a pop for Anthropic's historic IPO",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts"
   ]
 }
