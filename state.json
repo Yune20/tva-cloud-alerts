@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1794399089.091626,
-  "last_bot4": 1794409101.4355965,
+  "last_news_report": 1794410057.219659,
+  "last_bot4": 1794410059.8064332,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794409101.4355066
+    "Gold": 1794410059.8063145
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794409700.059865,
+  "last_signals": 1794410059.807196,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794409687.546866,
-  "last_news": 1794409700.0590172,
+  "last_analysis": 1794410044.2330582,
+  "last_news": 1794410052.553205,
   "seen_news": [
-    "US inflation higher than expected in October - here's what is happening with pri",
-    "A \u2018Geologic Freak\u2019 in Arkansas Is Big Oil\u2019s New Lithium Bet",
-    "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
-    "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
-    "M\u00f3n \u0103n Vi\u1ec7t Nam khi\u1ebfn t\u1ef7 ph\u00fa Jensen Huang m\u00ea m\u1ea9n",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
     "FX option expiries for 11 November 10am New York cut",
     "H\u1ecfi 10.000 ng\u01b0\u1eddi tr\u1ebb: \"B\u1ed1 m\u1eb9 l\u00fd t\u01b0\u1edfng l\u00e0 nh\u01b0 th\u1ebf n\u00e0o?\", c\u00e2u tr\u1ea3 l\u1eddi \u0111\u01b0\u1ee3c \u0111\u1ed3ng t\u00ec",
@@ -457,6 +451,12 @@
     "Iran War Breathes New Life Into Turkmenistan\u2019s $10 Billion Pipeline Dream",
     "Why is Delek US stock rallying today?",
     "Crude oil faces a geopolitical test as Russia signals progress toward peace",
-    "Ti\u1ebft l\u1ed9 n\u00f3ng: Alice Huang t\u1eebng c\u00e1 c\u01b0\u1ee3c - \"T\u00f4i ch\u1ec9 c\u1ea7n g\u1ecdi l\u00e0 Jensen Huang \u0111\u1ebfn ng"
+    "Ti\u1ebft l\u1ed9 n\u00f3ng: Alice Huang t\u1eebng c\u00e1 c\u01b0\u1ee3c - \"T\u00f4i ch\u1ec9 c\u1ea7n g\u1ecdi l\u00e0 Jensen Huang \u0111\u1ebfn ng",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Chinese university on US blacklist bought Nvidia H200 AI chips: report - Trading",
+    "From living in his car to a 756 credit score: How one veteran rebuilt his financ",
+    "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
+    "The tech helping crack decades-old cold cases",
+    "Delek US rises as Freedom Broker upgrades to Buy on refining strength"
   ]
 }
