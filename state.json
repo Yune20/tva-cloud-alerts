@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794408108.4501982,
+  "last_signals": 1794408718.3218424,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -60,14 +60,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -156,14 +156,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794408423.7134397,
-  "last_news": 1794408108.449367,
+  "last_news": 1794408718.3210702,
   "seen_news": [
-    "Announcing the BICO 2030 Strategy and changes in Executive Management - TradingV",
-    "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Taiwan stocks higher at close of trade; Taiwan Weighted up 3.11%",
-    "What is the distribution of forecasts for the US CPI?",
-    "H\u00ecnh \u1ea3nh kh\u00f3 tin c\u1ee7a NSND C\u00f4ng L\u00fd",
     "How long will humans be needed for translation?",
     "China\u2019s Singles Day shopping festival puts AI selling power to the test",
     "What are the main events for today?",
@@ -457,6 +451,12 @@
     "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
     "LightPath Technologies Q1 Earnings Call Highlights - TradingView",
     "My friend hates her job but shuts down when I give her advice. How can I help he",
-    "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns"
+    "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+    "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
+    "Amgen slips after late-stage trial data for Sj\u00f6gren's disease therapy - TradingV",
+    "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
+    "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+    "Doing these things now will help you save money at Christmas",
+    "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West"
   ]
 }
