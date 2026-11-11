@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794357334.665579,
+  "last_signals": 1794357939.9307885,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794357327.1784968,
-  "last_news": 1794357334.664672,
+  "last_analysis": 1794357930.8806195,
+  "last_news": 1794357939.9297183,
   "seen_news": [
-    "U.S. gas prices fall below $4 for the first time since July",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
-    "NY Fed finds troubled debt levels ticked up in third quarter",
-    "Learn technical analysis without being a professor: This repeating pattern is su",
-    "C\u1ef1u ph\u00f3 ph\u00f2ng S\u1edf Y t\u1ebf H\u00e0 N\u1ed9i nh\u1eadn h\u1ed1i l\u1ed9 g\u1ea7n 1,3 t\u1ef7 \u0111\u1ed3ng b\u1ecb \u0111\u1ec1 ngh\u1ecb 7-8 n\u0103m t\u00f9",
     "Oil Falls to Lowest Level Since August",
     "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
     "NY Fed October survey shows 1, 3 and 5 year inflation expectations unchanged",
@@ -457,6 +451,12 @@
     "Robot vessels take on the dangerous work of mine hunting",
     "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ re",
     "Mizuho\u2019s Klein calls Nvidia \u2018silly cheap\u2019 below 10x earnings despite Huang uncer",
-    "H\u00e0 N\u1ed9i m\u1edf b\u00e1n c\u00f9ng l\u00fac 2 d\u1ef1 \u00e1n nh\u00e0 x\u00e3 h\u1ed9i, gi\u00e1 t\u1eeb 16,6 tri\u1ec7u \u0111\u1ed3ng/m2"
+    "H\u00e0 N\u1ed9i m\u1edf b\u00e1n c\u00f9ng l\u00fac 2 d\u1ef1 \u00e1n nh\u00e0 x\u00e3 h\u1ed9i, gi\u00e1 t\u1eeb 16,6 tri\u1ec7u \u0111\u1ed3ng/m2",
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "Average U.S. Gasoline Price Dips below $4 for First Time since July",
+    "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+    "Anthropic reserves up to 20% of its $64 billion IPO for retail investors",
+    "ACB & Sun Life: Khi \u201ctin v\u00e0o \u0111i\u1ec1u m\u00ecnh ch\u1ecdn\", \u0111i\u1ec1u g\u00ec gi\u00fap ch\u00fang ta \u0111i \u0111\u1ebfn c\u00f9ng?",
+    "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan"
   ]
 }
