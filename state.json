@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794411334.1507115,
+  "last_signals": 1794411948.9179125,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794411326.1159773,
-  "last_news": 1794411334.1499436,
+  "last_analysis": 1794411941.8500164,
+  "last_news": 1794411948.9172378,
   "seen_news": [
-    "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York F",
-    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
-    "Sterling today: Pound firms as dollar retreats from Friday rally",
-    "investingLive Americas FX news wrap 10 Nov: It\u2019s a Wrap. Hot US CPI puts a bigge",
-    "Ph\u00e1t hi\u1ec7n 53 c\u1ecdc th\u00e9p n\u1eb7ng 75.691 t\u1ea5n \u0111\u01b0\u1ee3c nh\u1ea5n ch\u00ecm xu\u1ed1ng \u0111\u00e1y bi\u1ec3n, 1 tri\u1ec7u h\u1ed9 ",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
     "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
     "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
     "Poland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal",
@@ -457,6 +451,12 @@
     "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI",
     "JetBlue's CEO has pushed back on creditor fears and is betting on premium to ret",
     "US inflation higher than expected in October - here's what is happening with pri",
-    "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production"
+    "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production",
+    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh th\u01b0\u1eddng xuy\u00ean u\u1ed1ng n\u01b0\u1edbc \u0111un s\u00f4i \u0111\u1ec3 ngu\u1ed9i",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Barclays maintains Dauch at Equal-Weight, lowers price target to $6 from $8 - Tr",
+    "CFTC investigates if Kalshi improperly self-certified event contracts",
+    "How a civil servant got away with juggling five jobs for so long",
+    "A \u2018Geologic Freak\u2019 in Arkansas Is Big Oil\u2019s New Lithium Bet"
   ]
 }
