@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794361978.2413075,
+  "last_signals": 1794362597.7981107,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794361978.2413075,
     "5575146754|Gold|4H|range_in": 1794361978.2413075,
@@ -61,13 +61,13 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794361969.6133993,
-  "last_news": 1794361978.2405095,
+  "last_analysis": 1794362590.1104,
+  "last_news": 1794362597.7971094,
   "seen_news": [
-    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: Lenacapavir HIV prevention and Livdelzi ALP normalization - Tradin",
-    "Wall Street\u2019s only Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mis",
-    "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and o",
-    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound",
     "Polymarket says annualized revenue has topped $1.8 billion",
     "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
     "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan",
@@ -457,6 +451,12 @@
     "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
     "PBOC is expected to set the USD/CNY reference rate at 6.6855 \u2013 Reuters estimate",
     "N\u1eef di\u1ec5n vi\u00ean SN 1972 l\u00e0m m\u1eb9 \u0111\u01a1n th\u00e2n: \"T\u00f4i t\u1ef1 tr\u00e1ch \u0111\u1eddi m\u00ecnh sao kh\u1ed5 qu\u00e1\"",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Five US states join FTC suit against Hims & Hers over privacy practices",
+    "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027",
+    "H\u1ed7 tr\u1ee3 kh\u00e1ch mua nh\u00e0, c\u00e1c ch\u1ee7 \u0111\u1ea7u t\u01b0 l\u00e0m g\u00ec \u0111\u1ec3 gi\u1ea3m \u00e1p l\u1ef1c t\u00e0i ch\u00ednh?",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
+    "UnitedHealth Group appoints Madeline Bell as independent director - TradingView",
+    "CoreWeave earnings put debt-fueled AI build-out under scrutiny"
   ]
 }
