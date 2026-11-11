@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794363209.8554854,
+  "last_signals": 1794363823.470145,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794361978.2413075,
     "5575146754|Gold|4H|range_in": 1794361978.2413075,
@@ -60,13 +60,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794363200.5019014,
-  "last_news": 1794363209.8547568,
+  "last_analysis": 1794363814.6934595,
+  "last_news": 1794363823.4693851,
   "seen_news": [
-    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
-    "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
-    "Why is Akamai Technologies stock rallying today?",
-    "ECB\u2019s Lane says the bar for directional rate guidance is high",
-    "D\u1ea7u th\u00f4 \u0111\u1eaft \u0111\u1ecf, m\u1ed9t m\u1eb7t h\u00e0ng b\u1ea5t ng\u1edd \u0111\u01b0\u1ee3c c\u1ea3 th\u1ebf gi\u1edbi s\u0103n \u0111\u00f3n: Vi\u1ec7t Nam t\u1eadn d\u1ee5ng",
-    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Nasdaq slides over 1% as hot CPI, Waller drive up odds for supersized Fed hike",
     "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
     "Ch\u1ee9ng kho\u00e1n b\u1ea5t ng\u1edd b\u00f9ng n\u1ed5 sau th\u00f4ng tin quan tr\u1ecdng, chuy\u00ean gia h\u00e9 l\u1ed9 3 nh\u00f3m c\u1ed5",
@@ -457,6 +451,12 @@
     "QIAGEN N.V. (QIA) UBS Reports 5.46% Capital Interest and Voting Rights - Trading",
     "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia s",
     "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "What could drive India\u2019s Nifty higher? BofA outlines key risks"
+    "What could drive India\u2019s Nifty higher? BofA outlines key risks",
+    "Morgans\u2019 Stickley: S&P 500 up after every midterm since 1950 as Nvidia looks che",
+    "Ngh\u1ecb s\u0129 D\u00e2n ch\u1ee7 b\u1ea5t ng\u1edd ra \u0111\u00f2n, nh\u1eafm v\u00e0o \u00f4ng Trump",
+    "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
+    "Hagerty, Inc. (HGTY) Selling Stockholder Prices 10M Shares at $14.85 Each - Trad",
+    "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepboun",
+    "The AI telling farmers when to harvest"
   ]
 }
