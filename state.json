@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794427028.5654356,
+  "last_signals": 1794427647.990476,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -47,7 +47,7 @@
     "5575146754|Gold|4H|tbot": 1794323420.3140717,
     "5575146754|Gold|4H|dbot": 1794342088.8598495,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393,
-    "5575146754|Gold|4H|dn": 1794423942.6332655
+    "5575146754|Gold|4H|dn": 1794427647.990476
   },
   "sig_range": {
     "Gold": true,
@@ -67,7 +67,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794427019.606363,
-  "last_news": 1794427028.5646243,
+  "last_analysis": 1794427638.8328083,
+  "last_news": 1794427647.9895828,
   "seen_news": [
-    "Qantas to outsource 850 local jobs with most roles moving to India",
-    "INR/USD hits 6-month high on strong inflows",
-    "CoreWeave stock jumps nearly 13% after earnings. Buy the rally or sell into resi",
-    "XSMB 11/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 11/11/2026",
-    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Key facts: Energy Vault Q3 Loss; Backlog, Texas, Sardinia Advances - TradingView",
     "Three forecasts that show why BofA thinks the memory chip boom can avoid a 2028 ",
     "S\u1ef1 ki\u1ec7n \u00e2m nh\u1ea1c qu\u1ed1c t\u1ebf v\u1edbi quy m\u00f4 70.000 kh\u00e1n gi\u1ea3 s\u1eafp di\u1ec5n ra t\u1ea1i H\u00e0 N\u1ed9i, MB \u0111\u00f3",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
@@ -458,6 +452,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
     "BTIG maintains Alto Neuroscience at Buy, keeps price target at $37 - TradingView",
     "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extr",
-    "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 vot"
+    "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 vot",
+    "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+    "Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero",
+    "Majority of JetBlue lenders sign cooperation deal, Bloomberg News reports",
+    "Vance considers face-to-face talks with top Iranian security official \u2014 WSJ",
+    "Doanh s\u1ed1 \u00f4 t\u00f4 Vi\u1ec7t Nam - Th\u00e1i Lan: Nh\u1eefng con s\u1ed1 t\u01b0\u1edfng gi\u1ed1ng nhau l\u1ea1i h\u00e9 l\u1ed9 2 c\u00e2u",
+    "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
