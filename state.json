@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794391065.302411,
+  "last_signals": 1794391677.1922958,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -86,7 +86,7 @@
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": false,
+    "DXY|1D": true,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
     "Bitcoin|4H:bot": 1794324662.158309,
-    "EUR/USD|4H:bot": 1794182043.577107,
+    "EUR/USD|4H:bot": 1794391678.3927402,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794391067.4391532,
+    "GBP/USD|4H:bot": 1794391678.2124424,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794391056.246535,
-  "last_news": 1794391065.301571,
+  "last_analysis": 1794391669.8802946,
+  "last_news": 1794391677.1913636,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Information And Communication Networks Posts Q3 Net Profit 34.83 Million Baht - ",
-    "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-    "'An annoying buzz': The search for stealthier drones",
-    "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
-    "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bi",
     "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned",
     "Rainmakers: The drones used to seed clouds",
     "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
@@ -457,6 +451,12 @@
     "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
     "Australian consumer sentiment sinks to four-year low as rates and living costs b",
     "\u0110\u1ec9nh th\u1ebf gi\u1edbi l\u1ea1i x\u00e1o tr\u1ed9n: Nvidia r\u01a1i kh\u1ecfi top 2, c\u00f4ng ty Bill Gates s\u00e1ng l\u1eadp b",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Global bonds fall as hot U.S. CPI and Fed rhetoric stoke fears of 50-bps hike",
+    "US futures rally as AI dip buyers return but the bond market has unfinished busi",
+    "S\u1ea1p rau c\u1ee7 b\u00e1n rong ng\u0103n n\u1eafp 'nh\u01b0 \u0111\u01b0\u1ee3c x\u1ebfp b\u1eb1ng AI' g\u00e2y s\u1ed1t m\u1ea1ng",
+    "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "Original-Research: Cantourage Group SE (von NuWays AG): BUY - TradingView",
+    "Tiger Woods has another private, 18-hole golf destination in the works \u2014 this on"
   ]
 }
