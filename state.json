@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794407487.2781284,
+  "last_signals": 1794408108.4501982,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -67,12 +67,12 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794407479.881518,
-  "last_news": 1794407487.2772822,
+  "last_analysis": 1794408098.7350411,
+  "last_news": 1794408108.449367,
   "seen_news": [
-    "China optical stocks rally as Microsoft challenges proposed U.S. import curbs",
-    "Euro bears haven't been this aggressive since the Covid pandemic, but is the tra",
-    "\"Tuy\u1ec7t chi\u00eau\" c\u1ee7a Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Inovio Pharmaceuticals Q3 2026 Earnings Call Is Live - TradingView",
-    "Stocks fall as the 10-year Treasury yield nears 5% mark",
     "Announcing the BICO 2030 Strategy and changes in Executive Management - TradingV",
     "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
@@ -457,6 +451,12 @@
     "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in De",
     "H\u00e3ng xe c\u1ee7a t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng l\u1eadp k\u1ef7 l\u1ee5c m\u1edbi",
     "Ch\u1ee9ng quy\u1ec1n STB/MSVN/7M/0326 HOSE: CSTB2632 - VietstockFinance",
-    "Memory stocks jump as CoreWeave results lift AI sentiment - TradingView"
+    "Memory stocks jump as CoreWeave results lift AI sentiment - TradingView",
+    "Nasdaq Today says: \"Fold that short.\"",
+    "V\u00ec sao gi\u1eef l\u1ea1i bi\u1ec7t th\u1ef1 c\u1ed5 gi\u1eefa Qu\u1ea3ng tr\u01b0\u1eddng \u2013 C\u00f4ng vi\u00ean ph\u00eda \u0110\u00f4ng h\u1ed3 Ho\u00e0n Ki\u1ebfm?",
+    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
+    "LightPath Technologies Q1 Earnings Call Highlights - TradingView",
+    "My friend hates her job but shuts down when I give her advice. How can I help he",
+    "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns"
   ]
 }
