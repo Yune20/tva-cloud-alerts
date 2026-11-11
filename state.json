@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794370048.0036983,
+  "last_signals": 1794370660.0807881,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794367587.6657038,
@@ -61,13 +61,13 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794370049.5636659,
-    "JPY Index|4H:top": 1794370049.9326882,
+    "USD/JPY|4H:top": 1794370662.2422585,
+    "JPY Index|4H:top": 1794370662.8766308,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794370039.9656281,
-  "last_news": 1794370048.0024784,
+  "last_analysis": 1794370651.1416442,
+  "last_news": 1794370660.080104,
   "seen_news": [
-    "ELEKTROS Inc. (ELEK) Evaluates Prototype Path for Patented EV Charger - TradingV",
-    "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
-    "Traders bet on a pop for Anthropic's historic IPO",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "Google agrees to additional privacy protections in Spirit Airlines data sale",
-    "Chart of the day: Nasdaq comeback looks to have the breadth but does it have the",
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "Urbana Corporation (URB) Filed Unaudited Nine-Month Financial Statements - Tradi",
     "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
@@ -457,6 +451,12 @@
     "The grads ditching the UK for a fresh start abroad",
     "Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low",
     "Asia midday: Nikkei up for third day, KOSDAQ jumps 5% as AI stocks rebound",
-    "Khoan h\u01a1n 2.200 m\u00e9t xu\u1ed1ng \u0111\u00e1y bi\u1ec3n, ph\u00e1t hi\u1ec7n m\u1ecf d\u1ea7u kh\u00ed si\u00eau s\u00e2u t\u1ea1i v\u00f9ng n\u01b0\u1edbc "
+    "Khoan h\u01a1n 2.200 m\u00e9t xu\u1ed1ng \u0111\u00e1y bi\u1ec3n, ph\u00e1t hi\u1ec7n m\u1ecf d\u1ea7u kh\u00ed si\u00eau s\u00e2u t\u1ea1i v\u00f9ng n\u01b0\u1edbc ",
+    "Asian stocks mixed as CoreWeave lifts chipmakers; hot U.S. inflation weighs",
+    "Morgan Stanley\u2019s Wilson: correction in final phase, three reasons oil can fall i",
+    "T\u1ea1m d\u1eebng 82 b\u1ebfn, 74 ph\u01b0\u01a1ng ti\u1ec7n thu\u1ef7 sau v\u1ee5 l\u1eadt ca n\u00f4 l\u00e0m 15 kh\u00e1ch t\u1eed vong t\u1ea1i P",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Coffee Prices Slide as the Brazilian Real Weakens and Supplies Build - TradingVi",
+    "Bessent reportedly moved to military base over Iranian threats on his life"
   ]
 }
