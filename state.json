@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794355168.3730793,
-  "last_bot4": 1794360702.043588,
+  "last_bot4": 1794361361.3362393,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794360992.2223098,
+  "last_signals": 1794361361.3368957,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794360699.1250172,
-  "last_news": 1794360992.2216146,
+  "last_analysis": 1794361351.0330377,
+  "last_news": 1794361361.3352883,
   "seen_news": [
-    "U.S. Traders Weigh the Cost of Taking Trump\u2019s Russian Diesel",
-    "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
-    "Bitcoin tests its 200 day moving average after hotter US CPI data",
-    "C\u1eb7p v\u1ee3 ch\u1ed3ng 33 tu\u1ed5i mua nh\u00e0 7,6 t\u1ef7 \u0111\u1ed3ng, kh\u00f4ng c\u1ea7n vay ng\u00e2n h\u00e0ng",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Greystone Housing Impact Investors LP Q3 2026 Earnings Call Is Live - TradingVie",
     "European stock market open: Stocks rally across the board as market optimism gro",
     "Ph\u00e1t hi\u1ec7n 'h\u00e0ng x\u00f3m' Vi\u1ec7t Nam \u0111\u1ed1t 940 t\u1ef7 USD cho ng\u00e0nh \u0111\u01b0\u1ee3c coi l\u00e0 'h\u1ea1 t\u1ea7ng c\u1ee7a ",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
@@ -457,6 +451,12 @@
     "QUBT Q3 Earnings Call Focuses on Commercial Growth & Scaling - TradingView",
     "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker ",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "SoftBank shares tumble after $7 bln quarterly loss"
+    "SoftBank shares tumble after $7 bln quarterly loss",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Information And Communication Networks Posts Q3 Net Profit 34.83 Million Baht - ",
+    "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+    "'An annoying buzz': The search for stealthier drones",
+    "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
+    "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bi"
   ]
 }
