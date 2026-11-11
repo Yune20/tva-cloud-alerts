@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794380875.5552871,
+  "last_signals": 1794381490.0144248,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794380867.596928,
-  "last_news": 1794380875.5546293,
+  "last_analysis": 1794381481.3241045,
+  "last_news": 1794381490.013559,
   "seen_news": [
-    "Sterling today: Pound firms as dollar retreats from Friday rally",
-    "Costco declares $30 special dividend worth $13.3 billion, renews $4 billion buyb",
-    "CEO Novaland v\u1eeba b\u00e1n xong h\u01a1n 10,6 tri\u1ec7u c\u1ed5 phi\u1ebfu NVL",
-    "Macro Brief: Kinh t\u1ebf Vi\u1ec7t Nam th\u00e1ng 9/2026 - VietstockFinance",
-    "Silicon Labs Adds SiWx917 Support to TuyaOpen - TradingView",
-    "Looking to buy the dip in chip stocks? Here\u2019s how to avoid buying too soon.",
     "Th\u1ed1ng \u0111\u1ed1c Fed: L\u00e3i su\u1ea5t c\u00f3 th\u1ec3 t\u0103ng th\u00eam 0,5% v\u00e0o th\u00e1ng 12",
     "CTG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 50,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Zoned Properties Declares $0.41-Per-Share Special Dividend - TradingView",
@@ -457,6 +451,12 @@
     "H\u1ecfi 10.000 ng\u01b0\u1eddi tr\u1ebb: \"B\u1ed1 m\u1eb9 l\u00fd t\u01b0\u1edfng l\u00e0 nh\u01b0 th\u1ebf n\u00e0o?\", c\u00e2u tr\u1ea3 l\u1eddi \u0111\u01b0\u1ee3c \u0111\u1ed3ng t\u00ec",
     "B\u00e1o c\u00e1o ng\u00e0nh Ng\u00e2n h\u00e0ng (Qu\u1ed1c doanh): Q3/2026 v\u00e0 9T/2026 \u2013 Nhi\u1ec1u ng\u00e2n h\u00e0ng t\u0103ng ",
     "Financial News & Top Stories \u2014 Market Analysis - TradingView",
-    "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scan"
+    "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scan",
+    "Soybeans Rally as USDA Trims US Stocks - TradingView",
+    "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, s",
+    "How a civil servant got away with juggling five jobs for so long",
+    "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
+    "Japan stocks higher at close of trade; Nikkei 225 up 1.42%",
+    "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangov"
   ]
 }
