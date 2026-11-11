@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794435802.3705208,
+  "last_signals": 1794436414.1271212,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,7 +126,7 @@
     "JPY Index|4H:top": 1794389846.265248,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794435803.9718592,
+    "DXY|4H:top": 1794436416.662075,
     "Bitcoin|4H:bot": 1794324662.158309,
     "EUR/USD|4H:bot": 1794396010.786127,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794435803.4232478,
+    "GBP/USD|4H:bot": 1794436415.8657513,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794435794.1983695,
-  "last_news": 1794435802.3695667,
+  "last_analysis": 1794436406.2876503,
+  "last_news": 1794436414.1265755,
   "seen_news": [
-    "investingLive European session wrap: Stocks rally, dollar climbs as bond market ",
-    "Doanh nghi\u1ec7p \u0111\u1ea5u gi\u00e1 3.790 c\u0103n h\u1ed9 Th\u1ee7 Thi\u00eam ph\u1ea3i c\u00f3 \u00edt nh\u1ea5t 8.000 t\u1ef7 \u0111\u1ed3ng",
-    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
-    "Office Properties Income Trust Q3 2026 Earnings Call Is Live - TradingView",
-    "22 stocks of companies with tremendous sales growth",
-    "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal ",
     "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank we",
     "Civil servant who secretly held five jobs found guilty of fraud",
     "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
@@ -459,6 +453,12 @@
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
     "Uncalled US House races could send more crypto allies to Congress - TradingView",
     "Opening trading-card packs has become a $2 billion market. New apps are trying t",
-    "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China"
+    "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
+    "NLST Q3 Earnings Call Maps Out Licensing and AI Memory Plans - TradingView",
+    "Bloom Energy\u2019s stock is rallying as data-center jitters subside",
+    "Measles is surging in the U.S. \u2014 and outbreaks can cost millions",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "Dollar extends surge on raised Fed rate hike expectations, hits over 19-month hi"
   ]
 }
