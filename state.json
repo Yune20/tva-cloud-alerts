@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794386774.3900423,
+  "last_signals": 1794387382.5120249,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": true,
+    "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794386775.4911323,
-    "JPY Index|4H:top": 1794386775.7398887,
+    "USD/JPY|4H:top": 1794387383.8099678,
+    "JPY Index|4H:top": 1794387384.0991542,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794386775.2326615,
+    "GBP/USD|4H:bot": 1794387383.5179822,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794386766.099426,
-  "last_news": 1794386774.3893497,
+  "last_analysis": 1794387375.0050962,
+  "last_news": 1794387382.5111449,
   "seen_news": [
-    "Annaly Capital Management, Inc. PFD SER G declares $0.5436 dividend - TradingVie",
-    "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018fai",
-    "Robot vessels take on the dangerous work of mine hunting",
-    "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ re",
-    "Mizuho\u2019s Klein calls Nvidia \u2018silly cheap\u2019 below 10x earnings despite Huang uncer",
-    "H\u00e0 N\u1ed9i m\u1edf b\u00e1n c\u00f9ng l\u00fac 2 d\u1ef1 \u00e1n nh\u00e0 x\u00e3 h\u1ed9i, gi\u00e1 t\u1eeb 16,6 tri\u1ec7u \u0111\u1ed3ng/m2",
     "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "Average U.S. Gasoline Price Dips below $4 for First Time since July",
     "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
@@ -457,6 +451,12 @@
     "Why is Vestas Wind stock sliding today?",
     "Fed\u2019s Paulson backs further gradual rate hikes, names three triggers for faster ",
     "T\u1ed5ng Gi\u00e1m \u0111\u1ed1c Novaland b\u00e1n th\u00e0nh c\u00f4ng h\u01a1n 10 tri\u1ec7u c\u1ed5 phi\u1ebfu NVL",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
+    "The superpower battle over energy \u2013 and what it means for your bills",
+    "Why is Brenntag stock sliding today?",
+    "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions ",
+    "Ph\u1ea3n \u1ee9ng c\u1ee7a Midu tr\u01b0\u1edbc nghi v\u1ea5n mang thai con \u0111\u1ea7u l\u00f2ng",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Key facts: ASTS Unveils Blacklift; Satellite Plans; Target Cuts - TradingView"
   ]
 }
