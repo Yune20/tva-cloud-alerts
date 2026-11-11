@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794360395.5643635,
+  "last_signals": 1794360992.2223098,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794305282.228793,
     "5575146754|Gold|4H|range_in": 1794295711.4214537,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -156,14 +156,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794360699.1250172,
-  "last_news": 1794360395.5635507,
+  "last_news": 1794360992.2216146,
   "seen_news": [
-    "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-    "'An annoying buzz': The search for stealthier drones",
-    "European shares climb on oil relief, shaking off hot U.S. CPI print",
-    "Iran's Rezaei: No negotiations currently taking place between Tehran and Washing",
-    "Vi\u1ec7t Nam s\u1eafp x\u00e2y tuy\u1ebfn \u0111\u01b0\u1eddng v\u01b0\u1ee3t bi\u1ec3n \"n\u1eeda n\u1ed5i, n\u1eeda ch\u00ecm\" tr\u1ecb gi\u00e1 h\u01a1n 93.000 t\u1ef7",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "U.S. Traders Weigh the Cost of Taking Trump\u2019s Russian Diesel",
     "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
     "Bitcoin tests its 200 day moving average after hotter US CPI data",
@@ -457,6 +451,12 @@
     "10-year Treasury yield races back to 5% as inflation data, Waller comments drive",
     "What we know so far about Jensen Huang's affair with suspected Chinese spy",
     "Oil Falls to Lowest Level Since August",
-    "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms"
+    "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
+    "D\u00e2n t\u00ecnh b\u00f3c gi\u00e1 \u0111\u1ed3 hi\u1ec7u c\u1ee7a Jensen Huang v\u00e0 ng\u01b0\u1eddi ph\u1ee5 n\u1eef v\u01b0\u1edbng tin \u0111\u1ed3n t\u00ecnh \u00e1i:",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "QUBT Q3 Earnings Call Focuses on Commercial Growth & Scaling - TradingView",
+    "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker ",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "SoftBank shares tumble after $7 bln quarterly loss"
   ]
 }
