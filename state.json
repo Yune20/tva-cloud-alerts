@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794387995.5470097,
+  "last_signals": 1794388607.3482506,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,8 +63,8 @@
     "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794387997.0190938,
-    "JPY Index|4H:top": 1794387997.3778265,
+    "USD/JPY|4H:top": 1794388609.5244076,
+    "JPY Index|4H:top": 1794388610.0373225,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794387982.096103,
-  "last_news": 1794387991.120912,
+  "last_analysis": 1794388598.510841,
+  "last_news": 1794388607.3473632,
   "seen_news": [
-    "Reuters Tankan: Japan manufacturer mood hits +27, highest in over five years on ",
-    "G\u1ee1 \u201c\u0111i\u1ec3m ngh\u1ebdn\u201d c\u01a1 ch\u1ebf, t\u0103ng t\u1ed1c ph\u00e1t tri\u1ec3n \u0111\u01b0\u1eddng s\u1eaft \u0111\u00f4 th\u1ecb",
-    "IDC: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 43,900 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "GPK: Pricing recovery, URB growth and productivity underpin the deleveraging pla",
-    "Here's the inflation breakdown for October 2026 \u2014 in one chart",
-    "Californians reject wealth tax for billionaires",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n ch\u00fa \u00fd quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t v\u1ec1 \u0111\u0103ng k\u00fd th\u01b0\u1eddng tr\u00fa, t\u1ea1m tr\u00fa",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
     "Freehold Royalties Q3 2026 Earnings Call Is Live - TradingView",
@@ -457,6 +451,12 @@
     "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Endeavour Silver Q3 Earnings Call Highlights - TradingView",
     "American soldier arrested on suspicion of spying for Russia",
-    "Robot vessels take on the dangerous work of mine hunting"
+    "Robot vessels take on the dangerous work of mine hunting",
+    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
+    "SPX: Stronger H2 momentum supports full-year growth and margin guidance - Tradin",
+    "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "Global bonds fall as hot U.S. CPI and Fed Rhetoric stoke fears of 50-bps hike",
+    "European stock market open: European stocks keep the good times rolling this wee"
   ]
 }
