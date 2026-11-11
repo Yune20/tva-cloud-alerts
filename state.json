@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794364436.061496,
+  "last_signals": 1794365066.3150375,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794361978.2413075,
+    "5575146754|Gold|1H|range_in": 1794365066.3150375,
     "5575146754|Gold|4H|range_in": 1794361978.2413075,
     "5575146754|Gold|1H|trap_dn": 1794330310.7419698,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -60,14 +60,14 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794364428.6145144,
-  "last_news": 1794364436.0604618,
+  "last_analysis": 1794365056.3051565,
+  "last_news": 1794365066.314136,
   "seen_news": [
-    "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spe",
-    "C\u1ef1u sinh vi\u00ean B\u00e1ch Khoa SN 1993 l\u00e0 Ph\u00f3 Gi\u00e1m \u0111\u1ed1c, v\u1eeba tr\u1edf th\u00e0nh nh\u00e2n s\u1ef1 duy nh\u1ea5t ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
-    "Microsoft Stocks Move Lower Despite $1 Billion Anthropic Placement Commitment - ",
-    "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of",
-    "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
     "L\u1ed9 di\u1ec7n nh\u00f3m ng\u00e0nh \u0111\u01b0\u1ee3c d\u1ef1 b\u00e1o t\u0103ng tr\u01b0\u1edfng l\u1ee3i nhu\u1eadn g\u1ea7n 50% trong qu\u00fd 4",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
     "Archer Aviation Q3 Earnings Call Highlights - TradingView",
@@ -457,6 +451,12 @@
     "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and o",
     "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
     "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan",
-    "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses"
+    "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
+    "Polymarket says annualized revenue has topped $1.8 billion",
+    "Law on 'holiday hunger' passed by Stormont assembly",
+    "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
+    "Why is SoftBank Group stock tumbling today?",
+    "Three drivers setting gold\u2019s tone as December Fed hike bets build, according to ",
+    "Ra l\u1ec7nh b\u1eaft t\u1ea1m giam \u0110inh Ho\u00e0ng H\u1ea3i SN 2009"
   ]
 }
