@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794432779.1924813,
-  "last_bot4": 1794438011.8505192,
+  "last_bot4": 1794438685.2353761,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794438011.8510969,
+  "last_signals": 1794438685.236167,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -83,13 +83,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -126,7 +126,7 @@
     "JPY Index|4H:top": 1794389846.265248,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794438013.6512163,
+    "DXY|4H:top": 1794438686.9382262,
     "Bitcoin|4H:bot": 1794324662.158309,
     "EUR/USD|4H:bot": 1794396010.786127,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794438012.8817456,
+    "GBP/USD|4H:bot": 1794438686.3348796,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -157,15 +157,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794438002.7847433,
-  "last_news": 1794438010.21559,
+  "last_analysis": 1794438669.5447762,
+  "last_news": 1794438685.234137,
   "seen_news": [
-    "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts",
-    "Dollar jumps as hot CPI and Waller comments bring supersized Fed hike into play",
-    "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, o",
-    "B\u00e9 trai \u0111\u1ea1p xe h\u00e0ng tr\u0103m km trong 2 ng\u00e0y v\u1ec1 qu\u00ea ngo\u1ea1i, s\u1ef1 th\u1eadt ph\u00eda sau khi\u1ebfn nh",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
-    "Palantir stock falls 19% as Wall Street spots a warning - TradingView",
     "SXTP Q3'26 Earnings: EPS estimate is (0.61) USD - TradingView",
     "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
     "How Democrats could snarl Trump administration stakes in private sector companie",
@@ -459,6 +453,12 @@
     "Office Properties Income Trust Q3 2026 Earnings Call Is Live - TradingView",
     "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
     "Nvidia prepares to oust Jensen Huang, WSJ reports \u2014 stock sinks",
-    "Graduates are managing AI - but are they learning much else?"
+    "Graduates are managing AI - but are they learning much else?",
+    "CRCL Expands Partnerships Globally: Can it Strengthen Growth? - TradingView",
+    "The trillion-dollar mistake corporate America is making about retirement",
+    "JetBlue unveils new first-class seats to bring back profits",
+    "How video game remakes tap the power of nostalgia",
+    "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+    "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears"
   ]
 }
