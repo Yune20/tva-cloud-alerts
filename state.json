@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794399089.091626,
-  "last_bot4": 1794405897.6421845,
+  "last_bot4": 1794406868.9739327,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794405265.280808
+    "Gold": 1794406868.973837
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794406196.0560048,
+  "last_signals": 1794406868.974735,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794406498.8629074,
-  "last_news": 1794406196.0552118,
+  "last_analysis": 1794406858.7264845,
+  "last_news": 1794406866.0461106,
   "seen_news": [
-    "Pacific Biosciences Launches $100 Million At-The-Market Stock Offering - Trading",
-    "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
-    "Doing these things now will help you save money at Christmas",
-    "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
-    "RWE and KKR develop 2.8 GW offshore wind project in Britain",
-    "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in De",
     "Nasdaq Today says: \"Fold that short.\"",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 \u00f4 t\u00f4 tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd quy \u0111\u1ecbnh m\u1edbi quan tr\u1ecdng nh\u1ea5t t\u1eeb th\u00e1n",
     "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "Torus raises $500 million for AI data center product - Bloomberg",
     "Morning Kickstart: AI stocks rebound as USD after hot CPI. Thank you Veterans fo",
     "To\u00e0n c\u1ea3nh d\u1ef1 \u00e1n khi\u1ebfn hai Ph\u00f3 Gi\u00e1m \u0111\u1ed1c b\u1ecb k\u1ef7 lu\u1eadt",
-    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance"
+    "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
+    "White House vows to press ahead with tariffs despite midterm backlash over risin",
+    "The Indian workers filming their work to train AI",
+    "Oil Prices Rise as Iran Peace Optimism Fades",
+    "Thomson Reuters unveils $500 million share buyback plan",
+    "US October core CPI +0.3% vs +0.2% expected",
+    "M\u1ef9 ch\u1ec9 r\u00f5 nguy\u00ean nh\u00e2n th\u1ea5t b\u1ea1i c\u1ee7a xe t\u0103ng M10 Booker v\u00e0 tr\u1ef1c th\u0103ng FARA"
   ]
 }
