@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794386164.6998098,
+  "last_signals": 1794386774.3900423,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,7 +80,7 @@
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
-    "EUR/USD|1D": false,
+    "EUR/USD|1D": true,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794386166.1656141,
-    "JPY Index|4H:top": 1794386166.5025482,
+    "USD/JPY|4H:top": 1794386775.4911323,
+    "JPY Index|4H:top": 1794386775.7398887,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794386165.8037548,
+    "GBP/USD|4H:bot": 1794386775.2326615,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794386155.0819733,
-  "last_news": 1794386162.1995044,
+  "last_analysis": 1794386766.099426,
+  "last_news": 1794386774.3893497,
   "seen_news": [
-    "L\u01b0\u01a1ng 20 tri\u1ec7u, nh\u00e0 ch\u01b0a c\u00f3, ch\u1ed3ng v\u1eabn \u0111\u00f2i mua \u00f4 t\u00f4 800 tri\u1ec7u: C\u1ed9ng \u0111\u1ed3ng m\u1ea1ng ch",
-    "MWG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Marchex Appoints Travis Fairchild As President Effective November 9, 2026 - Trad",
-    "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-    "Stickers and building sets help drive toy sales ahead of Christmas rush",
-    "Petrobras Q3 profit rises 34% but misses expectations",
     "Annaly Capital Management, Inc. PFD SER G declares $0.5436 dividend - TradingVie",
     "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018fai",
     "Robot vessels take on the dangerous work of mine hunting",
@@ -457,6 +451,12 @@
     "Poundland hopeful for last-minute rescue deal to stave off collapse",
     "South Sudan Courts Oil Investors as Sudan\u2019s Warring Forces Take Their Share",
     "Dollar slips, taking a breather after last week\u2019s advance a day ahead of CPI tes",
-    "Fed\u2019s Goolsbee calls CPI \u2018borderline disturbing\u2019, flags three inflation worries"
+    "Fed\u2019s Goolsbee calls CPI \u2018borderline disturbing\u2019, flags three inflation worries",
+    "Christmas toy rush being driven by squishies and building sets",
+    "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal",
+    "Why is Vestas Wind stock sliding today?",
+    "Fed\u2019s Paulson backs further gradual rate hikes, names three triggers for faster ",
+    "T\u1ed5ng Gi\u00e1m \u0111\u1ed1c Novaland b\u00e1n th\u00e0nh c\u00f4ng h\u01a1n 10 tri\u1ec7u c\u1ed5 phi\u1ebfu NVL",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto"
   ]
 }
