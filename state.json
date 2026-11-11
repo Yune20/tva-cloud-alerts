@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794371274.8886259,
+  "last_signals": 1794371888.7607772,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794367587.6657038,
@@ -70,7 +70,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794371277.365783,
-    "JPY Index|4H:top": 1794371277.9329686,
+    "USD/JPY|4H:top": 1794371891.067171,
+    "JPY Index|4H:top": 1794371891.5797088,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794337476.62562,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794371265.790526,
-  "last_news": 1794371274.887714,
+  "last_analysis": 1794371880.3430789,
+  "last_news": 1794371888.7599058,
   "seen_news": [
-    "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-    "S&P raises GEO Group rating to \u2019BB+\u2019 on debt reduction and 1x leverage goal",
-    "Anthropic looks to be pricing its IPO for success",
-    "Tr\u1ea5n Th\u00e0nh - Hari Won c\u00e3i l\u1ed9n c\u0103ng th\u1eb3ng v\u1edbi Tr\u1ecbnh Th\u0103ng B\u00ecnh tr\u00ean xe, chuy\u1ec7n g\u00ec",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
-    "Evercore Holdings, Inc. (EVHO) Completes Home Chief Acquisition - TradingView",
     "Zcash remains stuck in a range as macro headwinds continue to limit the upside. ",
     "Si\u00eau du thuy\u1ec1n xa hoa d\u00e0i 200 m b\u1ea5t ng\u1edd b\u1ecb b\u1eaft gi\u1eef t\u1ea1i Singapore: Kh\u00e1ch t\u1eebng chi",
     "B\u00e1o c\u00e1o ng\u00e0nh B\u0110S KCN: Q3/2026 & 9T/2026 \u2013 Q3 ph\u1ee5c h\u1ed3i nh\u1edd b\u00e0n giao \u0111\u1ea5t - Vietst",
@@ -457,6 +451,12 @@
     "Guardant Health (GH) Gets Taiwan Approval for Guardant360 Tissue - TradingView",
     "Traders bet on a pop for Anthropic's historic IPO",
     "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts"
+    "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts",
+    "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
+    "Civil servant who secretly held five jobs found guilty of fraud",
+    "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
+    "Why is Mitsui Kinzoku stock falling today?",
+    "CoreWeave Q3 beats on seven key metrics, lifts full-year revenue and run-rate gu",
+    "Ng\u00e0y mai 12/11, lo\u1ea1t \u201c\u0111\u1ea1i b\u00e0ng\u201d H\u00e0n Qu\u1ed1c \u0111\u1ed5 b\u1ed9 Vi\u1ec7t Nam, cu\u1ed9c \u0111ua 1.000 t\u1ef7 USD n"
   ]
 }
