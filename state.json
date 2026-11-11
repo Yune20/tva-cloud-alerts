@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794391677.1922958,
+  "last_signals": 1794392288.230486,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794391678.2124424,
+    "GBP/USD|4H:bot": 1794392290.3704035,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794391669.8802946,
-  "last_news": 1794391677.1913636,
+  "last_analysis": 1794392279.5575767,
+  "last_news": 1794392288.2294672,
   "seen_news": [
-    "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned",
-    "Rainmakers: The drones used to seed clouds",
-    "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6855 \u2013 Reuters estimate",
-    "N\u1eef di\u1ec5n vi\u00ean SN 1972 l\u00e0m m\u1eb9 \u0111\u01a1n th\u00e2n: \"T\u00f4i t\u1ef1 tr\u00e1ch \u0111\u1eddi m\u00ecnh sao kh\u1ed5 qu\u00e1\"",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Five US states join FTC suit against Hims & Hers over privacy practices",
     "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027",
     "H\u1ed7 tr\u1ee3 kh\u00e1ch mua nh\u00e0, c\u00e1c ch\u1ee7 \u0111\u1ea7u t\u01b0 l\u00e0m g\u00ec \u0111\u1ec3 gi\u1ea3m \u00e1p l\u1ef1c t\u00e0i ch\u00ednh?",
@@ -457,6 +451,12 @@
     "S\u1ea1p rau c\u1ee7 b\u00e1n rong ng\u0103n n\u1eafp 'nh\u01b0 \u0111\u01b0\u1ee3c x\u1ebfp b\u1eb1ng AI' g\u00e2y s\u1ed1t m\u1ea1ng",
     "HSG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 14,250 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Original-Research: Cantourage Group SE (von NuWays AG): BUY - TradingView",
-    "Tiger Woods has another private, 18-hole golf destination in the works \u2014 this on"
+    "Tiger Woods has another private, 18-hole golf destination in the works \u2014 this on",
+    "\u0110\u1ecbch L\u1ec7 Nhi\u1ec7t Ba l\u1ecdt top 1 t\u00ecm ki\u1ebfm v\u00ec l\u1ed1i s\u1ed1ng \u0111\u1eb7c bi\u1ec7t",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Swiss Life Q3 2026 Earnings Call Is Live - TradingView",
+    "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious ",
+    "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+    "Poundland set for more time to secure a rescue deal as emergency talks continue"
   ]
 }
