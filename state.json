@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794363823.470145,
+  "last_signals": 1794364436.061496,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794361978.2413075,
     "5575146754|Gold|4H|range_in": 1794361978.2413075,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794363814.6934595,
-  "last_news": 1794363823.4693851,
+  "last_analysis": 1794364428.6145144,
+  "last_news": 1794364436.0604618,
   "seen_news": [
-    "Nasdaq slides over 1% as hot CPI, Waller drive up odds for supersized Fed hike",
-    "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
-    "Ch\u1ee9ng kho\u00e1n b\u1ea5t ng\u1edd b\u00f9ng n\u1ed5 sau th\u00f4ng tin quan tr\u1ecdng, chuy\u00ean gia h\u00e9 l\u1ed9 3 nh\u00f3m c\u1ed5",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Nh\u1eefng nh\u1ecbp gi\u1ea3m m\u1ea1nh l\u00e0 c\u01a1 h\u1ed9i t\u00edch l\u0169y c\u1ed5 p",
-    "Consolidated Water Q3 2026 Earnings Call Is Live - TradingView",
-    "Even Wall Street\u2019s lone Nvidia bear says forcing out CEO Jensen Huang \u2018would be ",
     "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spe",
     "C\u1ef1u sinh vi\u00ean B\u00e1ch Khoa SN 1993 l\u00e0 Ph\u00f3 Gi\u00e1m \u0111\u1ed1c, v\u1eeba tr\u1edf th\u00e0nh nh\u00e2n s\u1ef1 duy nh\u1ea5t ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
@@ -457,6 +451,12 @@
     "B\u00e1o c\u00e1o t\u1ed5ng k\u1ebft th\u1ecb tr\u01b0\u1eddng: VNTh\u00e1ng 10/2026 - VN-Index gi\u1ea3m th\u00e1ng th\u1ee9 hai li\u00ean ",
     "Hagerty, Inc. (HGTY) Selling Stockholder Prices 10M Shares at $14.85 Each - Trad",
     "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepboun",
-    "The AI telling farmers when to harvest"
+    "The AI telling farmers when to harvest",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Public Service Company of New Mexico Declares Preferred Dividend - TradingView",
+    "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and o",
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
+    "The Truth Behind Iraq\u2019s Oil Rebound And The Secret Red Sea Plan",
+    "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses"
   ]
 }
