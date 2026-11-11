@@ -29,10 +29,10 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794361361.3368957,
+  "last_signals": 1794361978.2413075,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794305282.228793,
-    "5575146754|Gold|4H|range_in": 1794295711.4214537,
+    "5575146754|Gold|1H|range_in": 1794361978.2413075,
+    "5575146754|Gold|4H|range_in": 1794361978.2413075,
     "5575146754|Gold|1H|trap_dn": 1794330310.7419698,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794257486.7702186,
@@ -60,8 +60,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": false,
+    "Gold|1H": true,
+    "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": false,
     "USOIL|4H": true,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794361351.0330377,
-  "last_news": 1794361361.3352883,
+  "last_analysis": 1794361969.6133993,
+  "last_news": 1794361978.2405095,
   "seen_news": [
-    "European stock market open: Stocks rally across the board as market optimism gro",
-    "Ph\u00e1t hi\u1ec7n 'h\u00e0ng x\u00f3m' Vi\u1ec7t Nam \u0111\u1ed1t 940 t\u1ef7 USD cho ng\u00e0nh \u0111\u01b0\u1ee3c coi l\u00e0 'h\u1ea1 t\u1ea7ng c\u1ee7a ",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
-    "Weekly Recap: Profit outlook lifts shares and returns, investment - TradingView",
-    "Stocks fall as the 10-year Treasury yield reclaims 5%",
-    "Our Nvidia downgrade \u2014 plus, Cramer is looking to add to this position",
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Weekly Recap: Lenacapavir HIV prevention and Livdelzi ALP normalization - Tradin",
     "Wall Street\u2019s only Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mis",
@@ -457,6 +451,12 @@
     "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
     "'An annoying buzz': The search for stealthier drones",
     "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
-    "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bi"
+    "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bi",
+    "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned",
+    "Rainmakers: The drones used to seed clouds",
+    "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6855 \u2013 Reuters estimate",
+    "N\u1eef di\u1ec5n vi\u00ean SN 1972 l\u00e0m m\u1eb9 \u0111\u01a1n th\u00e2n: \"T\u00f4i t\u1ef1 tr\u00e1ch \u0111\u1eddi m\u00ecnh sao kh\u1ed5 qu\u00e1\"",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
