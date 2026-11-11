@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794389843.9251182,
+  "last_signals": 1794390457.1248193,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -67,7 +67,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": false,
@@ -86,7 +86,7 @@
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
-    "DXY|1D": true,
+    "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794389835.7941213,
-  "last_news": 1794389843.9243362,
+  "last_analysis": 1794390449.0919344,
+  "last_news": 1794390457.1240354,
   "seen_news": [
-    "EBR Systems Q3 2026 Earnings Call Is Live - TradingView",
-    "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
-    "10-year Treasury yield races back to 5% as inflation data, Waller comments drive",
-    "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "Oil Falls to Lowest Level Since August",
-    "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
     "D\u00e2n t\u00ecnh b\u00f3c gi\u00e1 \u0111\u1ed3 hi\u1ec7u c\u1ee7a Jensen Huang v\u00e0 ng\u01b0\u1eddi ph\u1ee5 n\u1eef v\u01b0\u1edbng tin \u0111\u1ed3n t\u00ecnh \u00e1i:",
     "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "QUBT Q3 Earnings Call Focuses on Commercial Growth & Scaling - TradingView",
@@ -457,6 +451,12 @@
     "15 gi\u00e2y \u0111\u1eb3ng c\u1ea5p c\u1ee7a C\u1ee5c tr\u01b0\u1edfng Xu\u00e2n B\u1eafc khi \u1ee9ng x\u1eed v\u1edbi Hoa h\u1eadu \u0110\u1ed7 M\u1ef9 Linh",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
     "Eimskipaf\u00e9lag \u00cdslands Q3 2026 Earnings Call Is Live - TradingView",
-    "Here's the inflation breakdown for October 2026 \u2014 in one chart"
+    "Here's the inflation breakdown for October 2026 \u2014 in one chart",
+    "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
+    "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+    "Californians reject wealth tax for billionaires",
+    "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+    "Deutsche Bank launches digital asset custody for clients",
+    "China October exports beat forecasts, imports surge 41.6% as trade surplus narro"
   ]
 }
