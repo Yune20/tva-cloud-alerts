@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794397243.1891718,
+  "last_signals": 1794397858.3087873,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794392906.63391,
+    "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794330310.7419698,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": true,
     "USOIL|1H": true,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794397234.0125382,
-  "last_news": 1794397243.188187,
+  "last_analysis": 1794397849.0229096,
+  "last_news": 1794397858.3079734,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
-    "Aviat Networks Q1 Earnings Call Highlights - TradingView",
-    "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
-    "The Indian workers filming their work to train AI",
-    "Fed rate hike odds in December at 88% after hot CPI- CME Fedwatch",
-    "Three forecasts that show why BofA thinks the memory chip boom can avoid a 2028 ",
     "Republicans block effort to impeach Defense Secretary Hegseth",
     "PBOC sets USD/ CNY mid-point today at 6.7191 (vs. estimate at 6.6855)",
     "Hyundai Creta th\u1ebf h\u1ec7 m\u1edbi l\u1ed9 n\u1ed9i th\u1ea5t: C\u00f3 trang b\u1ecb nh\u01b0 xe sang, k\u00edch th\u01b0\u1edbc t\u0103ng m",
@@ -457,6 +451,12 @@
     "TNG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 23,229 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Seer Q3 Earnings Call Highlights - TradingView",
     "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
-    "Singapore wants a bigger slice of the global gold market. Is it too late to the "
+    "Singapore wants a bigger slice of the global gold market. Is it too late to the ",
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "INR/USD hits 6-month high on strong inflows",
+    "CoreWeave stock jumps nearly 13% after earnings. Buy the rally or sell into resi",
+    "XSMB 11/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 11/11/2026",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "Key facts: Energy Vault Q3 Loss; Backlog, Texas, Sardinia Advances - TradingView"
   ]
 }
