@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794367587.6657038,
+  "last_signals": 1794368200.9124963,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794367587.6657038,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": true,
     "EUR/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794367579.9441547,
-  "last_news": 1794367587.6649559,
+  "last_analysis": 1794368192.2018218,
+  "last_news": 1794368200.9117932,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Jupiter Launches the \"Aggregate Everything\" Release with 4 New Products - Tradin",
-    "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500",
-    "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "Cryptocurrencies slide to two-month lows after US midterms",
     "Trump's 2028 successors are already fighting over who to blame for GOP midterm w",
     "Government's EV targets expected to be reduced this week",
     "Franco-Nevada, Vesta Wind Systems, CGI Group and more set to report Wednesday",
@@ -457,6 +451,12 @@
     "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
     "The Indian workers filming their work to train AI",
     "Fed rate hike odds in December at 88% after hot CPI- CME Fedwatch",
-    "Three forecasts that show why BofA thinks the memory chip boom can avoid a 2028 "
+    "Three forecasts that show why BofA thinks the memory chip boom can avoid a 2028 ",
+    "Republicans block effort to impeach Defense Secretary Hegseth",
+    "PBOC sets USD/ CNY mid-point today at 6.7191 (vs. estimate at 6.6855)",
+    "Hyundai Creta th\u1ebf h\u1ec7 m\u1edbi l\u1ed9 n\u1ed9i th\u1ea5t: C\u00f3 trang b\u1ecb nh\u01b0 xe sang, k\u00edch th\u01b0\u1edbc t\u0103ng m",
+    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
+    "ZEAL Network SE (TIMA) Manager Pledges 280,000 Shares - TradingView",
+    "Fed Governor Waller sees December hike likely, opens door to possible half-point"
   ]
 }
