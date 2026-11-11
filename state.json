@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794366364.0681593,
+  "last_signals": 1794366971.3869414,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794365066.3150375,
+    "5575146754|Gold|1H|range_in": 1794366971.3869414,
     "5575146754|Gold|4H|range_in": 1794361978.2413075,
     "5575146754|Gold|1H|trap_dn": 1794330310.7419698,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794366354.7991848,
-  "last_news": 1794366364.066861,
+  "last_analysis": 1794366962.8162634,
+  "last_news": 1794366971.3861442,
   "seen_news": [
-    "Trump\u2019s C-SPAN call marks latest surprise post-midterm appearance",
-    "The Indian workers filming their work to train AI",
-    "Hims & Hers to offer an unapproved peptide after US eases curbs",
-    "Fed's Waller says a half-point rate hike in December may be needed if Core CPI c",
-    "M\u1ed9t CTCK d\u1ef1 b\u00e1o VN-Index c\u00f3 th\u1ec3 v\u01b0\u1ee3t 2.000 \u0111i\u1ec3m v\u00e0o cu\u1ed1i n\u0103m",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
     "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets",
     "Beauty firm Coty to restructure its business in France",
     "Fed's Schmid: Some concerning trends in prices, underneath the whole energy stor",
@@ -457,6 +451,12 @@
     "Russia retreats from China's yuan as U.S. sanctions bolster dollar - TradingView",
     "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
     "Singapore wants a bigger slice of the global gold market. Is it too late to the ",
-    "Qantas to outsource 850 local jobs with most roles moving to India"
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "CoreWeave stock jumps nearly 13% after earnings. Buy the rally or sell into resi",
+    "B\u00ea b\u1ed1i c\u1ee7a CEO Nvidia Jensen Huang lan r\u1ed9ng: V\u1ed1n h\u00f3a 'b\u1ed1c h\u01a1i' 430 t\u1ef7 USD sau 2 ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
+    "Tesla Cybertruck is EV pickup market's latest casualty - TradingView",
+    "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "Graduates are managing AI - but are they learning much else?"
   ]
 }
