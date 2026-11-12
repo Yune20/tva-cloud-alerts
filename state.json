@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794467584.833413,
+  "last_signals": 1794468249.251557,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1794444944.0419254,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794467588.3449829,
+    "DXY|4H:top": 1794468252.4901843,
     "Bitcoin|4H:bot": 1794324662.158309,
-    "EUR/USD|4H:bot": 1794467587.6175933,
+    "EUR/USD|4H:bot": 1794468251.8090765,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794467587.22682,
+    "GBP/USD|4H:bot": 1794468251.4715865,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794467884.8267484,
-  "last_news": 1794467584.8322883,
+  "last_analysis": 1794468240.3257754,
+  "last_news": 1794468249.2505434,
   "seen_news": [
-    "L\u00e3i t\u0103ng b\u1eb1ng l\u1ea7n, h\u00e0ng ch\u1ee5c c\u1ed5 phi\u1ebfu v\u1eabn \"ng\u1ee5p l\u1eb7n\" c\u00e1ch xa \u0111\u1ec9nh gi\u00e1 m\u1ed9t n\u0103m",
-    "GEX: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 26,050 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Office Properties Income Trust Q3 2026 Earnings Call Is Live - TradingView",
-    "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-    "Nvidia prepares to oust Jensen Huang, WSJ reports \u2014 stock sinks",
-    "Graduates are managing AI - but are they learning much else?",
     "CRCL Expands Partnerships Globally: Can it Strengthen Growth? - TradingView",
     "The trillion-dollar mistake corporate America is making about retirement",
     "JetBlue unveils new first-class seats to bring back profits",
@@ -456,6 +450,12 @@
     "Chuy\u1ec3n c\u01a1 quan c\u00f4ng an g\u1ea7n 600 h\u1ed3 s\u01a1 c\u00f3 d\u1ea5u hi\u1ec7u vi ph\u1ea1m v\u1ec1 h\u00f3a \u0111\u01a1n",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
     "Matas Group Reports Executive Share Transactions - TradingView",
-    "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli"
+    "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decli",
+    "Cu\u1ed9c s\u1ed1ng gi\u1ea3n d\u1ecb \u1edf tu\u1ed5i 90 c\u1ee7a 'Dung ma ma \u00e1c nh\u1ea5t m\u00e0n \u1ea3nh'",
+    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
+    "MidChains and Standard Chartered establish strategic banking partnership - Tradi",
+    "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
+    "UK economy grows at fastest rate for more than two years",
+    "Megaspeed\u2019s links to rural Australian store raise fresh questions in Nvidia scan"
   ]
 }
