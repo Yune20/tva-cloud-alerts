@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794476603.724162,
-  "last_bot4": 1794482478.6972816,
+  "last_bot4": 1794483161.146171,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794481864.7421184
+    "Gold": 1794483161.1460705
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794482794.1270494,
+  "last_signals": 1794483161.1469676,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794481571.3381424,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794482788.4012852,
-  "last_news": 1794482794.126585,
+  "last_analysis": 1794483148.7023313,
+  "last_news": 1794483158.6064708,
   "seen_news": [
-    "European Gas Prices Rebound on Iran War Uncertainty",
-    "Alphabet sets initial price guidance for Hong Kong, Singapore bond sales, term s",
-    "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
-    "Chi\u1ebfc \u00f4 t\u00f4 khi\u1ebfn CEO Nvidia th\u1ea5y h\u1ed1i ti\u1ebfc nh\u1ea5t trong \u0111\u1eddi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "Cogeco Communications Inc. (CCA) Launches welo Internet Service in Greater Miami",
     "What we know so far about Nvidia partner Megaspeed\u2019s Asia footprint",
     "The superpower battle over energy \u2013 and what it means for your bills",
     "Why is Pls stock sliding today?",
@@ -455,6 +449,12 @@
     "Metro Bank opens sale process despite no buyer approaches",
     "Crude oil is caught between hopes of de-escalation and concerns of further escal",
     "L\u00e3i su\u1ea5t cao n\u00ean ph\u00e2n b\u1ed5 \u0111\u1ea7u t\u01b0 ra sao?",
-    "Untitled - VietstockFinance"
+    "Untitled - VietstockFinance",
+    "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
+    "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
+    "Chart of the day: USD/JPY nears 160.00 as technical warning signs raise Japan in",
+    "XSMB 12/11 - K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n B\u1eafc h\u00f4m nay 12/11/2026",
+    "B\u00c1O C\u00c1O V\u0128 M\u00d4 TH\u00c1NG 10/2026 - VietstockFinance",
+    "OncoZenge (Q3 Review): Concrete partnering interest, but recruitment slower than"
   ]
 }
