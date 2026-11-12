@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794524147.4023857,
+  "last_signals": 1794524773.2682161,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
-    "Bitcoin|4H:bot": 1794521069.5266442,
+    "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794477540.4083784,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794524136.7675495,
-  "last_news": 1794524147.4015014,
+  "last_analysis": 1794524762.425206,
+  "last_news": 1794524773.2675283,
   "seen_news": [
-    "Public funds ploughing cash into AI will \u2019own\u2019 megatrends shaping economy",
-    "Why markets sometimes ignore economic data",
-    "Gi\u00e1 heo s\u1ee5t gi\u1ea3m, lo\u1ea1t \"\u00f4ng l\u1edbn\" ch\u0103n nu\u00f4i b\u00e1o l\u1ee3i nhu\u1eadn \"\u0111i l\u00f9i\"",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Zenta Group Company Limited Announces Receipt Of Nasdaq Notice - TradingView",
-    "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outl",
     "Analysis: Jensen Huang\u2019s exit tests Nvidia\u2019s role as the \u2018central bank of AI\u2019",
     "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
     "Ukraine Peace Talks Yield Prisoner Deal but No Path to Peace",
@@ -456,6 +450,12 @@
     "Ph\u00e1t hi\u1ec7n 10 kh\u1ed1i b\u00ea t\u00f4ng, m\u1ed7i kh\u1ed1i n\u1eb7ng 46.000 t\u1ea5n \u0111\u01b0\u1ee3c \u0111\u00e1nh ch\u00ecm xu\u1ed1ng n\u01b0\u1edbc, p",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
     "Bank of America Revamps AMD Stock Price Target for 2027 - TradingView",
-    "Opening trading-card packs has become a $2 billion market"
+    "Opening trading-card packs has become a $2 billion market",
+    "UBS sees no RBA cuts until late 2027 as AI boom fuels inflation, growth slowing ",
+    "D\u00e0n NSND, NS\u01afT h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam mi\u1ec7t m\u00e0i t\u1eadp luy\u1ec7n cho \u0111\u00eam nh\u1ea1c 70 n\u0103m c\u1ee7a m\u1ed9t ",
+    "Vertex Resource Group Ltd. (VTX) Expects Positive Momentum Through 2026 - Tradin",
+    "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI c",
+    "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft ",
+    "The Indian workers filming their work to train AI"
   ]
 }
