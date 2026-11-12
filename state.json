@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794441191.0294278,
+  "last_signals": 1794441801.6301644,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794397858.3087873,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -70,7 +70,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -78,7 +78,7 @@
     "US30|1D": true,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
-    "GBP/USD|1D": true,
+    "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
@@ -125,7 +125,7 @@
     "JPY Index|4H:top": 1794389846.265248,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794441193.38141,
+    "DXY|4H:top": 1794441805.7162936,
     "Bitcoin|4H:bot": 1794324662.158309,
     "EUR/USD|4H:bot": 1794396010.786127,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794441182.091251,
-  "last_news": 1794441191.0286913,
+  "last_analysis": 1794441794.1048105,
+  "last_news": 1794441801.629157,
   "seen_news": [
-    "Nasdaq Today says: \"Fold that short.\"",
-    "V\u00ec sao gi\u1eef l\u1ea1i bi\u1ec7t th\u1ef1 c\u1ed5 gi\u1eefa Qu\u1ea3ng tr\u01b0\u1eddng \u2013 C\u00f4ng vi\u00ean ph\u00eda \u0110\u00f4ng h\u1ed3 Ho\u00e0n Ki\u1ebfm?",
-    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
-    "LightPath Technologies Q1 Earnings Call Highlights - TradingView",
-    "My friend hates her job but shuts down when I give her advice. How can I help he",
-    "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
     "Ch\u1ee9ng quy\u1ec1n VPB/MSVN/10M/0326 HOSE: CVPB2634 - VietstockFinance",
     "Amgen slips after late-stage trial data for Sj\u00f6gren's disease therapy - TradingV",
     "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
@@ -458,6 +452,12 @@
     "How Democrats could snarl Trump administration stakes in private sector companie",
     "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
     "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-    "Morning Kickstart: AI stocks rebound as USD after hot CPI. Thank you Veterans fo"
+    "Morning Kickstart: AI stocks rebound as USD after hot CPI. Thank you Veterans fo",
+    "Bloom Energy\u2019s stock rallies as data-center jitters subside",
+    "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal ",
+    "'An annoying buzz': The search for stealthier drones",
+    "Global Power Grid Expansion Surges 50% to Record High",
+    "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+    "investingLive European session wrap: Stocks rally, dollar climbs as bond market "
   ]
 }
