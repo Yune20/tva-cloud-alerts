@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794462256.8879173,
+  "last_signals": 1794462869.9450026,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794462246.940359,
-  "last_news": 1794462256.88698,
+  "last_analysis": 1794462861.7554402,
+  "last_news": 1794462869.944125,
   "seen_news": [
-    "Chuy\u00ean gia: Th\u1ecb tr\u01b0\u1eddng ch\u1ee9ng kho\u00e1n ho\u00e0n to\u00e0n c\u00f3 th\u1ec3 h\u1ed3i ph\u1ee5c t\u1eeb nay \u0111\u1ebfn cu\u1ed1i n\u0103m",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
-    "Dollar advances as markets price in December Fed rate hike - TradingView",
-    "Why this \u2018big idea\u2019 to fix Social Security relies on a massive stock-market gamb",
-    "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 repo",
-    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
     "Berkshire posts biggest monthly edge over the S&P 500 since 2010 - TradingView",
     "Sandisk\u2019s stock just staged a big gain. Here\u2019s how it could march even higher.",
     "Feds arrest top official of healthcare company, alleging illegal drug importatio",
@@ -457,6 +451,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
     "Nexteer Automotive Group Ltd. Approves Buyback of Up to $60M - TradingView",
     "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extr",
-    "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 vot"
+    "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 vot",
+    "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Manhattan Associates Inc. (MANH) WMS Supports Faster Peak-Season Fulfilment at P",
+    "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. i",
+    "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+    "Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero",
+    "INR/USD hits 6-month high on strong inflows"
   ]
 }
