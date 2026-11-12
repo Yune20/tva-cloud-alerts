@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794476932.5691135,
+  "last_signals": 1794477539.2551706,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -118,13 +118,13 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794476934.1310856,
-    "JPY Index|4H:top": 1794476934.452474,
+    "USD/JPY|4H:top": 1794477540.5539205,
+    "JPY Index|4H:top": 1794477540.8560555,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794476934.3003001,
+    "DXY|4H:top": 1794477540.7068307,
     "Bitcoin|4H:bot": 1794324662.158309,
-    "EUR/USD|4H:bot": 1794476933.7767768,
+    "EUR/USD|4H:bot": 1794477540.4083784,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794476924.190174,
-  "last_news": 1794476932.5682187,
+  "last_analysis": 1794477531.481908,
+  "last_news": 1794477539.2543366,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now? - TradingView",
-    "White House vows to press ahead with tariffs despite midterm backlash over risin",
-    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
-    "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6797 \u2013 Reuters estimate",
     "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
     "The tech helping crack decades-old cold cases",
     "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
@@ -455,6 +449,12 @@
     "US inflation higher than expected in October - here's what is happening with pri",
     "Who Will Buy Sable\u2019s Oil if California Keeps Closing Refineries?",
     "Eurozone yields hold near 1-week highs; Investors weigh hawkish Fed bets",
-    "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite"
+    "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite",
+    "User Local - Announces Decision To Buy And Cancel Treasury Shares - TradingView",
+    "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI",
+    "How Democrats could snarl Trump administration stakes in private sector companie",
+    "How a civil servant got away with juggling five jobs for so long",
+    "Why is Endeavour Mining stock sliding today?",
+    "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bi"
   ]
 }
