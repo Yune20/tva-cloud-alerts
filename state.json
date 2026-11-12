@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794498938.4645984,
+  "last_signals": 1794499580.3484719,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794493490.165827,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1794494154.1441681,
-    "Ethereum|4H:bot": 1794317190.616205,
+    "Ethereum|4H:bot": 1794499581.750789,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794498928.7202578,
-  "last_news": 1794498938.4637988,
+  "last_analysis": 1794499569.0049622,
+  "last_news": 1794499580.3475368,
   "seen_news": [
-    "Vestel Elektronik Says Its Eurobond Holders Supported Consent Solicitation - Tra",
-    "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-    "Treasury yields edge higher as investors await fresh inflation and housing data",
-    "The engine parts that 'fight the laws of the universe'",
-    "Dollar hits 19-mth high on Fed hike bets; yen nears 160",
-    "BOJ policymaker Asada urges caution on further rate hikes even as December move ",
     "SciBase: Interim report - TradingView",
     "Costco is giving shareholders a big, early holiday gift. How to make sure you ge",
     "Poundland unable to buy new stock as fears over collapse grow",
@@ -456,6 +450,12 @@
     "Why is Super Micro Computer stock sliding today?",
     "FX option expiries for 12 November 10am New York cut",
     "To\u00e0n v\u0103n th\u00f4ng b\u00e1o ch\u00ednh th\u1ee9c c\u1ee7a Nvidia v\u1ec1 vi\u1ec7c Jensen Huang t\u1eeb ch\u1ee9c CEO, c\u00f4ng ",
-    "B\u00e1o c\u00e1o kinh t\u1ebf v\u0129 m\u00f4 th\u00e1ng 10 v\u00e0 m\u01b0\u1eddi th\u00e1ng \u0111\u1ea7u n\u0103m 2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o kinh t\u1ebf v\u0129 m\u00f4 th\u00e1ng 10 v\u00e0 m\u01b0\u1eddi th\u00e1ng \u0111\u1ea7u n\u0103m 2026 - VietstockFinance",
+    "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
+    "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid f",
+    "V\u00ec sao h\u1ed9i con nh\u00e0 gi\u00e0u m\u00ea golf \u0111\u1ebfn th\u1ebf? C\u00f3 \u00e1i n\u1eef m\u1edbi 2 tu\u1ed5i \u0111\u00e3 \u0111\u01b0\u1ee3c c\u1ea7m g\u1eady, h\u00f3",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "Jensen Huang Resigns: NVDA Crashes, Sending Shockwaves to The Crypto Market - Tr",
+    "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers."
   ]
 }
