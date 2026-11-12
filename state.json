@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794497100.6757731,
+  "last_signals": 1794497712.7012377,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -71,7 +71,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794497091.2673984,
-  "last_news": 1794497100.673817,
+  "last_analysis": 1794497701.5317361,
+  "last_news": 1794497712.7000241,
   "seen_news": [
-    "Cu\u1ed9c s\u1ed1ng gi\u1ea3n d\u1ecb \u1edf tu\u1ed5i 90 c\u1ee7a 'Dung ma ma \u00e1c nh\u1ea5t m\u00e0n \u1ea3nh'",
-    "Ch\u1ee9ng quy\u1ec1n FPT/MSVN/10M/0326 HOSE: CFPT2640 - VietstockFinance",
-    "MidChains and Standard Chartered establish strategic banking partnership - Tradi",
-    "Americans are on a 'treadmill of high inflation' and more rate hikes are likely,",
-    "UK economy grows at fastest rate for more than two years",
-    "Megaspeed\u2019s links to rural Australian store raise fresh questions in Nvidia scan",
     "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom i",
     "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
     "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
@@ -456,6 +450,12 @@
     "\u00d4ng Zelensky v\u1eeba tuy\u00ean b\u1ed1: T\u00f4i kh\u00f4ng c\u00f3 nhi\u1ec7m v\u1ee5 l\u00e0m \u00f4ng Trump vui",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
     "XRP Whales Accumulate Despite 30% Price Drop: What's Going On? - TradingView",
-    "These home buyers bought their first house with help from their employer. \u2018Why n"
+    "These home buyers bought their first house with help from their employer. \u2018Why n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
+    "Uber\u2019s UK banking partner Griffin raises $20M for stablecoin services - TradingV",
+    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-ye",
+    "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huan",
+    "Poundland gets more time to secure a rescue deal as emergency talks continue",
+    "EU Imports of Russian LNG Top 2025 Value Ahead of January Ban"
   ]
 }
