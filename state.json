@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794494763.683905,
+  "last_signals": 1794495389.4085383,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -39,7 +39,7 @@
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
     "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_up": 1794191133.3092005,
-    "5575146754|Gold|1H|momo_dn": 1794475073.791658,
+    "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
     "5575146754|Gold|4H|tbot": 1794446162.61961,
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794492554.145604,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794494756.5855122,
-  "last_news": 1794494763.6830075,
+  "last_analysis": 1794495379.0657184,
+  "last_news": 1794495389.4075804,
   "seen_news": [
-    "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new make",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
-    "China chip stocks rally as U.S. weighs curbs on remote AI access",
-    "Lutnick stalls Trump\u2019s third Nvidia chip diversion crackdown this year, Axios sa",
-    "B\u1ed9 tr\u01b0\u1edfng n\u00eau l\u00fd do h\u01a1n 10.000 t\u1ef7 \u0111\u1ed3ng thu\u1ebf VAT ch\u01b0a \u0111\u01b0\u1ee3c ho\u00e0n cho doanh nghi\u1ec7p",
     "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China",
     "Qantas to outsource 850 local jobs with most roles moving to India",
     "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks in Shenzhen",
@@ -456,6 +450,12 @@
     "Occidental Petroleum Q3 Earnings Beat Estimates on Strong Oil Prices - TradingVi",
     "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extr",
     "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
-    "Nvidia's CEO was the rock star of AI before his dramatic unravelling"
+    "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+    "Public funds ploughing cash into AI will \u2019own\u2019 megatrends shaping economy",
+    "Why markets sometimes ignore economic data",
+    "Gi\u00e1 heo s\u1ee5t gi\u1ea3m, lo\u1ea1t \"\u00f4ng l\u1edbn\" ch\u0103n nu\u00f4i b\u00e1o l\u1ee3i nhu\u1eadn \"\u0111i l\u00f9i\"",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Zenta Group Company Limited Announces Receipt Of Nasdaq Notice - TradingView",
+    "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outl"
   ]
 }
