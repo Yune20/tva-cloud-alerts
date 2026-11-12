@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794446774.3249412,
+  "last_signals": 1794447395.9205601,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -82,13 +82,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -133,7 +133,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794446774.5980392,
+    "Gold|4H:bot": 1794447396.1274173,
     "USD/JPY|1D:top": 1794446776.6868725,
     "JPY Index|1D:top": 1794446777.2186866,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794446765.787148,
-  "last_news": 1794446774.3236556,
+  "last_analysis": 1794447386.1427248,
+  "last_news": 1794447395.919656,
   "seen_news": [
-    "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
-    "The broader stock indices are showing signs of life but with work to do. What ne",
-    "Trong khi Jensen Huang m\u1ea5t g\u1ea7n 16 t\u1ef7 USD, \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng v\u1eeba c\u00f3 th\u00eam 9.900 ",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
-    "What's Going On With Sandisk Stock Wednesday? - TradingView",
-    "Anthropic\u2019s IPO roadshow kicks off \u2014 and the big money is already lining up",
     "Why is Ciena stock surging today?",
     "The USD is making a break for it. What do you need to watch technically?",
     "Mang v\u00e0ng \u0111i b\u00e1n, hai m\u1eb9 con hoang b\u00e1o b\u1ecb ng\u01b0\u1eddi l\u1ea1 \u2018b\u1ecf b\u00f9a\u2019 l\u1ea5y h\u1ebft n\u1eef trang",
@@ -458,6 +452,12 @@
     "CFTC investigates if Kalshi improperly self-certified event contracts",
     "How a civil servant got away with juggling five jobs for so long",
     "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production",
-    "Instant View: Nvidia board meets to decide CEO Huang\u2019s future, source says"
+    "Instant View: Nvidia board meets to decide CEO Huang\u2019s future, source says",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now? - TradingView",
+    "White House vows to press ahead with tariffs despite midterm backlash over risin",
+    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
+    "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6797 \u2013 Reuters estimate"
   ]
 }
