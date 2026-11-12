@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794512353.8710241,
+  "last_signals": 1794512678.2625105,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794512059.6030078,
-  "last_news": 1794512353.8701787,
+  "last_analysis": 1794512668.8277571,
+  "last_news": 1794512678.261636,
   "seen_news": [
-    "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
-    "H\u00e0 N\u1ed9i: X\u00e2y d\u1ef1ng h\u1ea1 t\u1ea7ng giao th\u00f4ng \u0111\u1ed3ng b\u1ed9, th\u00fac \u0111\u1ea9y kinh t\u1ebf n\u00f4ng th\u00f4n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "InfraCom (Q3 Review): Another turnaround, little visibility - TradingView",
-    "Tech stocks may soon enjoy a \u2018violent bounce\u2019 \u2014 but one strategist warns investo",
-    "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant",
     "Ch\u00ednh ph\u1ee7 v\u1eeba ph\u00ea duy\u1ec7t ch\u00ednh s\u00e1ch quan tr\u1ecdng li\u00ean quan \u0111\u1ebfn m\u1ed9t nh\u00f3m tr\u1ebb em Vi\u1ec7t",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "BIKE: Record Q3 revenue and broad growth offset persistent margin pressure - Tra",
@@ -456,6 +450,12 @@
     "\u0110\u00fang ng\u00e0y mai 14/11, Vi\u1ec7t Nam ch\u00ednh th\u1ee9c x\u00e2y d\u1ef1ng \u2018ng\u00e2n h\u00e0ng n\u0103ng l\u01b0\u1ee3ng\u2019 kh\u1ed5ng l",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
     "\u00cdslandsbanki hf.: Conclusion of covered bond offering - TradingView",
-    "The bond market now has an even bigger fear than AI fallout"
+    "The bond market now has an even bigger fear than AI fallout",
+    "Christmas toy rush being driven by squishies and building sets",
+    "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
+    "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
+    "Crude oil is caught between hopes of de-escalation and concerns of further escal",
+    "Chuy\u00ean gia \u0110\u00e0o Ph\u00fac T\u01b0\u1eddng n\u00f3i v\u1ec1 c\u01a1 h\u1ed9i \"\u0111\u1ed5i \u0111\u1eddi\" tr\u00ean s\u00e0n ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
