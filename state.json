@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794456730.4685557,
+  "last_signals": 1794457335.329913,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -67,10 +67,10 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794456720.6862507,
-  "last_news": 1794456730.467681,
+  "last_analysis": 1794457326.66891,
+  "last_news": 1794457335.3288906,
   "seen_news": [
-    "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-    "Siemens Energy More Than Triples Dividend After Record Year",
-    "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
-    "investingLive Americas FX news wrap 10 Nov: It\u2019s a Wrap. Hot US CPI puts a bigge",
-    "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng c\u1ea7n tuy\u1ec3n g\u1ea7n 6.000 nh\u00e2n s\u1ef1 t\u1ea1i H\u00e0 T\u0129nh: Vincons tr\u1ea3 l\u01b0\u01a1n",
-    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "iHeartMedia shares jump on report of podcast unit sale exploration",
     "BOE\u2019s Greene: Appropriate to proactively tighten policy against wage risks",
     "C\u1ed5 phi\u1ebfu c\u00f4ng ty thu\u1ed9c h\u1ec7 sinh th\u00e1i Petrolimex t\u0103ng g\u1ea7n 50% sau 6 phi\u00ean, kinh do",
@@ -458,6 +452,12 @@
     "Bernstein halves Nvidia target to $200, the 3rd broker in 2 days to step back ov",
     "Chi h\u00e0ng t\u1ef7 USD mua nhi\u00ean li\u1ec7u t\u1eeb Moscow, m\u1ed9t n\u01b0\u1edbc EU tuy\u00ean b\u1ed1 kh\u00ed \u0111\u1ed1t Nga th\u1ef1c ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "BTIG maintains Terreno Realty at Buy, keeps price target at $80 - TradingView"
+    "BTIG maintains Terreno Realty at Buy, keeps price target at $80 - TradingView",
+    "CBA\u2019s Chambers sees room for higher US 10-year yields despite the slide in oil p",
+    "M\u1ed9t doanh nghi\u1ec7p Vi\u1ec7t Nam cho 29 nh\u00e2n vi\u00ean \u0111i kh\u1eafp n\u01a1i tr\u00ean th\u1ebf gi\u1edbi \u0111\u1ec3 's\u1ebfp' \u0111\u01b0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Suspected Spy in Nvidia Scandal Returns to Beijing - TradingView",
+    "The world's super-rich are piling into alternative investments. Here's why",
+    "Poundland set for more time to secure a rescue deal as emergency talks continue"
   ]
 }
