@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794447395.9205601,
+  "last_signals": 1794448004.144539,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -61,11 +61,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794447386.1427248,
-  "last_news": 1794447395.919656,
+  "last_analysis": 1794447996.9545434,
+  "last_news": 1794448004.1436465,
   "seen_news": [
-    "Why is Ciena stock surging today?",
-    "The USD is making a break for it. What do you need to watch technically?",
-    "Mang v\u00e0ng \u0111i b\u00e1n, hai m\u1eb9 con hoang b\u00e1o b\u1ecb ng\u01b0\u1eddi l\u1ea1 \u2018b\u1ecf b\u00f9a\u2019 l\u1ea5y h\u1ebft n\u1eef trang",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
-    "Grupo Aval Acciones y Valores Q3 2026 Earnings Call Is Live - TradingView",
-    "CoreWeave soars 23% as CEO reaffirms AI compute demand after strong Q3 report",
     "\u00c1 h\u1eadu Giang Thanh mu\u1ed1n d\u1ef1ng th\u01b0 vi\u1ec7n cho tr\u1ebb v\u00f9ng s\u00e2u: \"Qu\u00ea h\u01b0\u01a1ng lu\u00f4n l\u00e0 n\u01a1i t\u00f4",
     "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "CoreWeave CEO says he's cancelled his 10b5-1 plan - CNBC - TradingView",
@@ -458,6 +452,12 @@
     "White House vows to press ahead with tariffs despite midterm backlash over risin",
     "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
     "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6797 \u2013 Reuters estimate"
+    "PBOC is expected to set the USD/CNY reference rate at 6.6797 \u2013 Reuters estimate",
+    "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
+    "The tech helping crack decades-old cold cases",
+    "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
+    "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160",
+    "D\u1ef1 \u00e1n nhi\u1ec7t \u0111i\u1ec7n t\u1ef7 USD dang d\u1edf 16 n\u0103m t\u1ea1i C\u1ea7n Th\u01a1: V\u1eeba k\u00fd h\u1ee3p \u0111\u1ed3ng m\u1edbi v\u1edbi nh\u00e0 ",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance"
   ]
 }
