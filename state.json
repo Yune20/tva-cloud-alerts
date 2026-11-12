@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794509566.9266775,
+  "last_signals": 1794510180.4887908,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794509555.6714747,
-  "last_news": 1794509562.369982,
+  "last_analysis": 1794510170.4995744,
+  "last_news": 1794510180.4878848,
   "seen_news": [
-    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Weekly Edge Case \u2013 Vertiseit - TradingView",
-    "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
-    "I took Vinted to court to get my money back",
-    "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level",
-    "Google TPUs could gain share from Nvidia turmoil, Bloomberg Intelligence says, e",
     "Huy \u0111\u1ed9ng m\u00e1y \u0111\u00e0o h\u1ea7m d\u00e0i 98m, n\u1eb7ng 1.500 t\u1ea5n t\u1eeb T\u00e2y Ban Nha, thi c\u00f4ng tuy\u1ebfn metr",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
     "Equiti Clients Can Now Trade Directly From TradingView Charts - TradingView",
@@ -456,6 +450,12 @@
     "The US dollar moves higher as Treasury yields extend their gains",
     "Ng\u00e0y 13/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 6 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
-    "Mandatory notification of trades - Primary insider - TradingView"
+    "Mandatory notification of trades - Primary insider - TradingView",
+    "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
+    "Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share de",
+    "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the cry",
+    "Huy \u0111\u1ed9ng \"qu\u00e1i v\u1eadt\" s\u1ee9c n\u00e2ng 900 t\u1ea5n x\u00e2y \u0111\u01b0\u1eddng s\u1eaft 350 km/h \u1edf Vi\u1ec7t Nam: D\u1ef1 ki\u1ebfn ",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
+    "Yields rise after Trump comments raise concerns of Iran escalation - TradingView"
   ]
 }
