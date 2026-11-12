@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794502129.2577298,
+  "last_signals": 1794502455.9185994,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794502130.9476838,
-    "JPY Index|4H:top": 1794502131.3535976,
+    "USD/JPY|4H:top": 1794502457.5636764,
+    "JPY Index|4H:top": 1794502457.9548154,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794493490.165827,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1794494154.1441681,
-    "Ethereum|4H:bot": 1794502130.0531018,
+    "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794501833.9532678,
-  "last_news": 1794502129.256822,
+  "last_analysis": 1794502448.082227,
+  "last_news": 1794502455.917725,
   "seen_news": [
-    "How video game remakes tap the power of nostalgia",
-    "Global Power Grid Expansion Surges 50% to Record High",
-    "B&M European Value Retail reports revenue growth in H1",
-    "Economic and event calendar in Asia Thursday, November 12, 2026 - low impact",
-    "H\u00e3ng h\u00e0ng kh\u00f4ng \u1edf qu\u1ed1c gia l\u00e1ng gi\u1ec1ng Vi\u1ec7t Nam mang gi\u01b0\u1eddng \u0111\u00f4i l\u00ean m\u00e1y bay",
-    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
     "Umicore plans \u20ac450m refining expansion in Belgium",
     "investingLive European session wrap: Stocks rally, dollar climbs as bond market ",
     "Gi\u00e1 x\u0103ng d\u1ea7u ti\u1ebfp t\u1ee5c gi\u1ea3m m\u1ea1nh, x\u0103ng v\u1ec1 d\u01b0\u1edbi 20.000 \u0111\u1ed3ng/l\u00edt",
@@ -456,6 +450,12 @@
     "SpaceX to invest over $74 billion in supercompute facilities in Texas, Arizona",
     "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle infl",
     "6 b\u00ed m\u1eadt \u0111\u1eb1ng sau t\u00ean c\u00e1c nh\u00e2n v\u1eadt trong Doraemon",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
+    "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
+    "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.55%",
+    "UK September GDP beats expectations as resilient growth keeps BOE December rate ",
+    "20 n\u1eef di\u1ec5n vi\u00ean \u0111\u1eb9p nh\u1ea5t H\u00e0n Qu\u1ed1c 2026: Suzy \u00e1t v\u00eda Song Hye Kyo l\u1eabn Kim Ji Won,",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
+    "Bitcoin mining difficulty set for largest cut since June - TradingView"
   ]
 }
