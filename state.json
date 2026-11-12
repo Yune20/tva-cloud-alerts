@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794522924.5817497,
+  "last_signals": 1794523536.9714787,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794522915.5216997,
-  "last_news": 1794522924.580889,
+  "last_analysis": 1794523528.2395444,
+  "last_news": 1794523536.9705675,
   "seen_news": [
-    "European shares lose steam as rising yields and Nvidia slump stifle rally",
-    "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
-    "M\u1ed1i quan h\u1ec7 gi\u1eefa \u0110\u00ecnh B\u1eafc v\u00e0 \u00c1 h\u1eadu Ch\u00e2u Anh",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
-    "Southern Company plans $1.75B equity units offering and notes repurchases - Trad",
-    "How the U.S. government\u2019s ownership of companies has surged during Trump\u2019s secon",
     "CEO Nvidia Jensen Huang ch\u00ednh th\u1ee9c t\u1eeb ch\u1ee9c",
     "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Occidental Petroleum Q3 Earnings Beat Estimates on Strong Oil Prices - TradingVi",
@@ -456,6 +450,12 @@
     "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal ",
     "Robot vessels take on the dangerous work of mine hunting",
     "Why is Jefferson Capital stock gaining in after-hours trading today?",
-    "Applied Materials beats on Q4 and guides above forecasts as chip equipment deman"
+    "Applied Materials beats on Q4 and guides above forecasts as chip equipment deman",
+    "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' m",
+    "'An annoying buzz': The search for stealthier drones",
+    "Why is Lifeway Foods stock sliding today?",
+    "Cisco beats and lifts FY27 view as AI revenue from hyperscalers set to more than",
+    "L\u1eddi khuy\u00ean cho nh\u1eefng ai th\u01b0\u1eddng xuy\u00ean ho v\u1ec1 \u0111\u00eam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su"
   ]
 }
