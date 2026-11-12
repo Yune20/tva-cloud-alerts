@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794497712.7012377,
+  "last_signals": 1794498323.3805635,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794497701.5317361,
-  "last_news": 1794497712.7000241,
+  "last_analysis": 1794498314.5408273,
+  "last_news": 1794498323.3797264,
   "seen_news": [
-    "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom i",
-    "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
-    "JPMorgan Names Top 3 Picks Among Auto Parts Stocks",
-    "FX option expiries for 12 November 10am New York cut",
     "Civil servant who secretly held five jobs found guilty of fraud",
     "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
     "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
@@ -456,6 +450,12 @@
     "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-ye",
     "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huan",
     "Poundland gets more time to secure a rescue deal as emergency talks continue",
-    "EU Imports of Russian LNG Top 2025 Value Ahead of January Ban"
+    "EU Imports of Russian LNG Top 2025 Value Ahead of January Ban",
+    "What really happens during Medicare counseling",
+    "\u2018It had to happen\u2019 \u2014 Jim Cramer on Jensen Huang\u2019s resignation and future for Nvi",
+    "UK economy grows at fastest rate for more than two years",
+    "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
+    "Dollar extends surge on raised Fed rate hike expectations, hits over 19-month hi",
+    "Trump: We don\u2019t need a deal with Iran"
   ]
 }
