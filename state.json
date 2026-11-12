@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794486023.2068207,
+  "last_signals": 1794486641.0615273,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794483823.9130485,
+    "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794474463.7425635,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794486014.0571797,
-  "last_news": 1794486023.2061176,
+  "last_analysis": 1794486631.7655091,
+  "last_news": 1794486641.0605607,
   "seen_news": [
-    "Vitol\u2019s Venezuela Oil Windfall Traced to Trader\u2019s Ties to JD Vance",
-    "Asia FX holds losses as dollar hits 19-mth high; yen nears 160",
-    "Bernstein halves Nvidia target to $200, the 3rd broker in 2 days to step back ov",
-    "Chi h\u00e0ng t\u1ef7 USD mua nhi\u00ean li\u1ec7u t\u1eeb Moscow, m\u1ed9t n\u01b0\u1edbc EU tuy\u00ean b\u1ed1 kh\u00ed \u0111\u1ed1t Nga th\u1ef1c ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "BTIG maintains Terreno Realty at Buy, keeps price target at $80 - TradingView",
     "CBA\u2019s Chambers sees room for higher US 10-year yields despite the slide in oil p",
     "M\u1ed9t doanh nghi\u1ec7p Vi\u1ec7t Nam cho 29 nh\u00e2n vi\u00ean \u0111i kh\u1eafp n\u01a1i tr\u00ean th\u1ebf gi\u1edbi \u0111\u1ec3 's\u1ebfp' \u0111\u01b0",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
@@ -455,6 +449,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
     "Titan Mining Q3 revenue rises; lifts output guidance - TradingView",
     "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
-    "Nvidia stock falls 8% as investors await Jensen Huang\u2019s fate"
+    "Nvidia stock falls 8% as investors await Jensen Huang\u2019s fate",
+    "B\u00c1O C\u00c1O TR\u00c1I PHI \u1ebeU - VietstockFinance",
+    "Allot Ltd. (ALLT) Raises 2026 Revenue Guidance Midpoint; Q3 Revenue Rises 16% - ",
+    "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China e",
+    "Some under-25s should get fewer benefits, Milburn review to say",
+    "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month",
+    "Why is Broadcom stock rallying today?"
   ]
 }
