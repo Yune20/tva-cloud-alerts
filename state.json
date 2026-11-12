@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794516739.125995,
+  "last_signals": 1794517363.811622,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
-    "Bitcoin|4H:bot": 1794486024.36312,
+    "Bitcoin|4H:bot": 1794517364.3131354,
     "EUR/USD|4H:bot": 1794477540.4083784,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794516730.1362765,
-  "last_news": 1794516739.1250575,
+  "last_analysis": 1794517354.868201,
+  "last_news": 1794517363.810856,
   "seen_news": [
-    "Bernstein halves Nvidia target to $200, the 3rd broker in 2 days to step back ov",
-    "T\u1ef7 ph\u00fa Tr\u1ea7n B\u00e1 D\u01b0\u01a1ng \u0111\u00e3 b\u00e1n 35.000 container chu\u1ed1i sang Trung Qu\u1ed1c v\u00e0 Trung \u00c1 ch",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Bernstein downgrades Devon Energy to Market Perform from Outperform, lowers pric",
-    "The \u2018bank of Nvidia\u2019 is in jeopardy, threatening the entire AI boom",
-    "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "Silverco Mining Ltd. (SICO) Advances La Negra Mill Restart Investments - Trading",
     "Wendy\u2019s rejects a takeover offer, scales back breakfast and still sees its stock",
@@ -456,6 +450,12 @@
     "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remain",
     "FPT Telecom s\u1eafp chi g\u1ea7n 1.500 t\u1ef7 \u0111\u1ed3ng tr\u1ea3 c\u1ed5 t\u1ee9c, B\u1ed9 C\u00f4ng an nh\u1eadn h\u01a1n 741 t\u1ef7 \u0111\u1ed3n",
     "Untitled - VietstockFinance",
-    "DTCC Plans Solana Expansion as Wallet Rules Limit Access - TradingView"
+    "DTCC Plans Solana Expansion as Wallet Rules Limit Access - TradingView",
+    "Trump: I would consider a week-long campaign against Cuba",
+    "M\u1ea5t g\u1ea7n 50.000 t\u1ef7 v\u1ed1n h\u00f3a, '\u0111\u1ea1i gia' h\u00e0ng ti\u00eau d\u00f9ng l\u1edbn nh\u1ea5t s\u00e0n ch\u1ee9ng kho\u00e1n xu\u1ed1",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Costco reveals 60% AI productivity gain in major expansion - TradingView",
+    "Microsoft outage hits Outlook. AWS and Google users also report issues",
+    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond"
   ]
 }
