@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794464106.9871757,
+  "last_signals": 1794464717.2552226,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -39,7 +39,6 @@
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
     "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_up": 1794191133.3092005,
-    "5575146754|Gold|4H|up": 1793859452.0785139,
     "5575146754|Gold|4H|trap_up": 1793864738.0150247,
     "5575146754|Gold|1H|momo_dn": 1794420246.2177808,
     "5575146754|Gold|4H|tbot": 1794446162.61961,
@@ -63,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": true,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -132,7 +131,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794464107.297247,
+    "Gold|4H:bot": 1794464717.4057515,
     "USD/JPY|1D:top": 1794446776.6868725,
     "JPY Index|1D:top": 1794446777.2186866,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -155,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794464099.1257384,
-  "last_news": 1794464106.9861245,
+  "last_analysis": 1794464710.0741115,
+  "last_news": 1794464717.2543159,
   "seen_news": [
-    "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
-    "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48%",
-    "investingLive Americas FX news wrap 11 Nov. It\u2019s a Wrap: Dollar climbs as stocks",
-    "30 n\u0103m ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam v\u00e0 h\u00e0nh tr\u00ecnh bi\u1ebfn ni\u1ec1m tin th\u00e0nh d\u00f2ng v\u1ed1n t\u1ef7 USD",
-    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Nvidia Bull Case Depends on Huang Weathering China Spy Investigation - TradingVi",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
     "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationsh",
     "Lutnick stalls Trump\u2019s third Nvidia chip diversion crackdown this year, Axios sa",
@@ -457,6 +450,12 @@
     "C\u00f4ng an r\u00e0 so\u00e1t, x\u00e1c minh giao d\u1ecbch chuy\u1ec3n kho\u1ea3n 69,8 tri\u1ec7u \u0111\u1ed3ng c\u1ee7a Nguy\u1ec5n Th\u1ecb ",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
     "BRIEF-Vox Royalty Q3 Dividend USD 0.015 - TradingView",
-    "Feds arrest top official of healthcare company, alleging illegal drug importatio"
+    "Feds arrest top official of healthcare company, alleging illegal drug importatio",
+    "Heads up: UK September GDP in focus but will weak growth really stop the BOE fro",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 60 tu\u1ed5i b\u1ecb t\u1ed5n th\u01b0\u01a1ng th\u1eadn c\u1ea5p v\u00ec 1 th\u00f3i quen u\u1ed1ng tr\u00e0 k\u00e9o d\u00e0i nhi",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
+    "Key facts: Santander profit rises 16%; buybacks retire 18.8% of shares - Trading",
+    "Falling oil prices are no longer enough to bring down borrowing costs in the wor",
+    "Social Security could pay full benefits until 2059 if taxable payroll kept pace "
   ]
 }
