@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794508017.9458952,
+  "last_signals": 1794508580.0489032,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794508019.4083743,
-    "JPY Index|4H:top": 1794508019.7216861,
+    "USD/JPY|4H:top": 1794508582.5549142,
+    "JPY Index|4H:top": 1794508583.1582515,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794508005.828111,
-  "last_news": 1794508017.9449677,
+  "last_analysis": 1794508570.3904023,
+  "last_news": 1794508580.048063,
   "seen_news": [
-    "D\u1ef1 \u00e1n c\u1ea3i t\u1ea1o, m\u1edf r\u1ed9ng ng\u00f5 323 ph\u1ed1 Xu\u00e2n \u0110\u1ec9nh: C\u1ea7n s\u1edbm \u0111\u1ea9y nhanh ti\u1ebfn \u0111\u1ed9 thi c\u00f4ng",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
-    "Key facts: IHG buyback; Adani hotel deal; Morgan Stanley EPS outlook - TradingVi",
-    "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
     "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
     "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
     "Reuters Tankan: Japan manufacturer mood hits +27, highest in over five years on ",
@@ -456,6 +450,12 @@
     "Economists Say Kast\u2019s Chile Government Lacks Debt-Control Ambition - TradingView",
     "The 2027 401(k) limits are here. See how much more you can save next year.",
     "Bain Capital\u2019s head of real estate uses this strategy to counter the economy\u2019s \u2018",
-    "How a civil servant got away with juggling five jobs for so long"
+    "How a civil servant got away with juggling five jobs for so long",
+    "Can Gilead Sciences' HIV Business Fuel Sustainable Long-Term Growth? - TradingVi",
+    "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
+    "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
+    "Why is Alphabet stock rallying today?",
+    "Fed's Goolsbee: Inflation has been well-above target"
   ]
 }
