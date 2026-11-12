@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794462869.9450026,
+  "last_signals": 1794463481.307607,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -46,7 +46,7 @@
     "5575146754|Gold|4H|dbot": 1794446774.3249412,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393,
     "5575146754|Gold|4H|dn": 1794461020.3057134,
-    "5575146754|Gold|4H|trap_dn": 1794449647.2022352
+    "5575146754|Gold|4H|trap_dn": 1794463481.307607
   },
   "sig_range": {
     "Gold": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794462861.7554402,
-  "last_news": 1794462869.944125,
+  "last_analysis": 1794463473.3982575,
+  "last_news": 1794463481.3067303,
   "seen_news": [
-    "Berkshire posts biggest monthly edge over the S&P 500 since 2010 - TradingView",
-    "Sandisk\u2019s stock just staged a big gain. Here\u2019s how it could march even higher.",
-    "Feds arrest top official of healthcare company, alleging illegal drug importatio",
-    "Qantas to outsource 850 local jobs with most roles moving to India",
-    "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks in Shenzhen",
-    "Russia stocks higher at close of trade; MOEX Russia Index up 1.84%",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
     "Huntsman Corporation (HUN) Declares $0.0875 Per-Share Dividend - TradingView",
     "Falling oil prices are no longer enough to bring down borrowing costs in the wor",
@@ -457,6 +451,12 @@
     "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. i",
     "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
     "Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero",
-    "INR/USD hits 6-month high on strong inflows"
+    "INR/USD hits 6-month high on strong inflows",
+    "Australia stocks lower at close of trade; S&P/ASX 200 down 0.07%",
+    "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid f",
+    "Ph\u00e1t hi\u1ec7n 5 m\u00e1y bay \u0111i\u1ec7n kh\u00f4ng ng\u01b0\u1eddi l\u00e1i c\u1ea5t c\u00e1nh ngay t\u1ea1i l\u00e1ng gi\u1ec1ng Vi\u1ec7t Nam, ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "Why Is Digi International (DGII) Stock Trending After Hours? - TradingView",
+    "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 repo"
   ]
 }
