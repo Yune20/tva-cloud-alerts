@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794509566.9257784,
-  "last_bot4": 1794510466.492839,
+  "last_bot4": 1794511145.280753,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794509853.9840312
+    "Gold": 1794511145.280669
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794510777.4494925,
+  "last_signals": 1794511145.2814534,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -44,7 +44,7 @@
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794498938.4645984,
-    "5575146754|Gold|4H|trap_dn": 1794507398.9645767,
+    "5575146754|Gold|4H|trap_dn": 1794511145.2814534,
     "5575146754|Gold|1D|tbot": 1794494153.9436958
   },
   "sig_range": {
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794510769.525935,
-  "last_news": 1794510777.4485166,
+  "last_analysis": 1794511131.5663033,
+  "last_news": 1794511142.4916186,
   "seen_news": [
-    "European shares hit record highs as defensive appeal offsets Nvidia shock",
-    "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
-    "G\u1ea7n 200 c\u1ed5 phi\u1ebfu gi\u1ea3m gi\u00e1, kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng \u0111\u1ed9t bi\u1ebfn",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Key facts: BCIC Sets $0.09 Payouts; Non-Accruals at 2.8% - TradingView",
-    "CFTC investigates if Kalshi improperly self-certified event contracts",
     "WNBA Finals MVP Gabby Williams: 'Our existence is political'",
     "Christmas toy rush being driven by squishies and building sets",
     "Metro Bank opens sale process despite no buyer approaches",
@@ -456,6 +450,12 @@
     "Nvidia\u2019s stock is on sale after Jensen Huang\u2019s exit. But is the selloff just beg",
     "Unions helped Democrats win big in 2026. Now they want action",
     "I took Vinted to court to get my money back",
-    "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level"
+    "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level",
+    "Gold Stocks Dip: What's Going On? - TradingView",
+    "Nvidia\u2019s stock selloff may be just beginning, even after shedding 30% from its p",
+    "Donald Trump Jr. exits advisory role at Kalshi prediction market",
+    "The engine parts that 'fight the laws of the universe'",
+    "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resign",
+    "Fed's Daly: How much tightening and when is no a decision for right now"
   ]
 }
