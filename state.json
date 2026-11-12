@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794487549.1362708,
-  "last_bot4": 1794493488.7139497,
+  "last_bot4": 1794494153.9430075,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794493488.71454,
+  "last_signals": 1794494153.9436958,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -44,7 +44,8 @@
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794492554.145604,
     "5575146754|Gold|4H|dn": 1794490946.677492,
-    "5575146754|Gold|4H|trap_dn": 1794486023.2068207
+    "5575146754|Gold|4H|trap_dn": 1794486023.2068207,
+    "5575146754|Gold|1D|tbot": 1794494153.9436958
   },
   "sig_range": {
     "Gold": true,
@@ -67,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -76,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -134,7 +135,7 @@
     "USD/JPY|1D:top": 1794493489.8893182,
     "JPY Index|1D:top": 1794493490.165827,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1793340173.3858144,
+    "Gold|1D:bot": 1794494154.1441681,
     "Ethereum|4H:bot": 1794317190.616205,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -144,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794493489.604439,
+    "GBP/USD|4H:bot": 1794494155.2019444,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -153,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794493789.7001905,
-  "last_news": 1794493485.804555,
+  "last_analysis": 1794494146.1922598,
+  "last_news": 1794494153.9420276,
   "seen_news": [
-    "Heads up: UK September GDP in focus but will weak growth really stop the BOE fro",
-    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 60 tu\u1ed5i b\u1ecb t\u1ed5n th\u01b0\u01a1ng th\u1eadn c\u1ea5p v\u00ec 1 th\u00f3i quen u\u1ed1ng tr\u00e0 k\u00e9o d\u00e0i nhi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Key facts: Santander profit rises 16%; buybacks retire 18.8% of shares - Trading",
-    "Falling oil prices are no longer enough to bring down borrowing costs in the wor",
-    "Social Security could pay full benefits until 2059 if taxable payroll kept pace ",
     "Frontera Announces Third Quarter 2026 Results - TradingView",
     "Goldman CEO Solomon says AI financing remains strong despite market jitters",
     "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
@@ -455,6 +450,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
     "KALA BIO, Inc. (KALA) Sets 1-for-30 Reverse Split - TradingView",
     "Opening trading-card packs has become a $2 billion market",
-    "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'"
+    "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+    "European shares lose steam as rising yields and Nvidia slump stifle rally",
+    "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
+    "M\u1ed1i quan h\u1ec7 gi\u1eefa \u0110\u00ecnh B\u1eafc v\u00e0 \u00c1 h\u1eadu Ch\u00e2u Anh",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
+    "Southern Company plans $1.75B equity units offering and notes repurchases - Trad",
+    "How the U.S. government\u2019s ownership of companies has surged during Trump\u2019s secon"
   ]
 }
