@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794479387.523422,
+  "last_signals": 1794479984.357324,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -131,8 +131,8 @@
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794465692.7822976,
-    "USD/JPY|1D:top": 1794478769.270072,
-    "JPY Index|1D:top": 1794478769.5325694,
+    "USD/JPY|1D:top": 1794479985.440465,
+    "JPY Index|1D:top": 1794479985.7036607,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1794317190.616205,
@@ -154,14 +154,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794479693.6914954,
-  "last_news": 1794479387.5225585,
+  "last_news": 1794479984.356701,
   "seen_news": [
-    "Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington",
-    "Trump\u2019s ties to Nvidia CEO Jensen Huang in the spotlight",
-    "BoJ\u2019s Asada, who opposed 2 hikes this year, urges caution on pace as rates near ",
-    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 29 tu\u1ed5i t\u1eed vong v\u00ec ti\u1ec3u \u0111\u01b0\u1eddng, b\u00e1c s\u0129 ch\u1ec9 ra \"th\u1ee7 ph\u1ea1m\" l\u00e0 3 ki\u1ec3u ",
-    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Phoenix Energy One Q3 2026 Earnings Call Is Live - TradingView",
     "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank we",
     "I took Vinted to court to get my money back",
     "South Korea\u2019s Lee says Samsung chip packaging expansion to spur $30 billion addi",
@@ -455,6 +449,12 @@
     "Key facts: IHG buyback; Adani hotel deal; Morgan Stanley EPS outlook - TradingVi",
     "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "China Targets Global Gas Turbine Market as AI Power Demand Explodes"
+    "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
+    "Reuters Tankan: Japan manufacturer mood hits +27, highest in over five years on ",
+    "S\u1ebfp n\u1eef xin t\u1eeb nhi\u1ec7m do kh\u00f4ng c\u00f3 th\u1eddi gian l\u00e0m vi\u1ec7c",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "REG - iShares II CRP ESG \u00a3 - Dividend Declaration - TradingView"
   ]
 }
