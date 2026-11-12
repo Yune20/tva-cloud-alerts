@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794454550.9224591,
-  "last_bot4": 1794454220.0075305,
+  "last_bot4": 1794454898.5956285,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794453604.9422688
+    "Gold": 1794454898.5955446
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794454550.9234874,
+  "last_signals": 1794454898.5962446,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -67,7 +67,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794454535.7069464,
-  "last_news": 1794454544.055629,
+  "last_analysis": 1794454885.7804592,
+  "last_news": 1794454895.8040268,
   "seen_news": [
-    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-    "Wachtell, Nvidia\u2019s pick for Huang probe, built reputation in boardroom battles",
-    "Stocks move to new session highs as buyers reclaim key technical levels",
-    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01a1n 9999 h\u00f4m nay ng\u00e0y 12/11",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
-    "Stocks gain as CoreWeave eases worries; dollar strengthens - TradingView",
     "Chart of the day: Is EUR/USD heading for another breakdown or a surprise comebac",
     "Vietcombank ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng v\u1ec1 giao d\u1ecbch r\u00fat ti\u1ec1n, chuy\u1ec3n ti\u1ec1n, thanh ",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
@@ -458,6 +452,12 @@
     "B\u1ed9 tr\u01b0\u1edfng T\u00e0i ch\u00ednh: \u0110\u00e3 chuy\u1ec3n c\u01a1 quan c\u00f4ng an g\u1ea7n 600 h\u1ed3 s\u01a1 c\u00f3 d\u1ea5u hi\u1ec7u vi ph\u1ea1m",
     "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
     "Grupo Clarin Announces Nine Months and Third Quarter 2026 Results - TradingView",
-    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc"
+    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
+    "Kobelco\u2019s $1 billion CNH deal could redraw India\u2019s construction equipment landsc",
+    "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
+    "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%",
+    "Sterling today: Pound edges lower as Fed hike bets, hot CPI buoy dollar"
   ]
 }
