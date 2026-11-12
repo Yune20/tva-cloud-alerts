@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794501528.637207,
+  "last_signals": 1794502129.2577298,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -42,7 +42,7 @@
     "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
     "5575146754|Gold|4H|tbot": 1794446162.61961,
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
-    "5575146754|Gold|4H|momo_dn": 1794492554.145604,
+    "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794498938.4645984,
     "5575146754|Gold|4H|trap_dn": 1794486023.2068207,
     "5575146754|Gold|1D|tbot": 1794494153.9436958
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794477540.5539205,
-    "JPY Index|4H:top": 1794477540.8560555,
+    "USD/JPY|4H:top": 1794502130.9476838,
+    "JPY Index|4H:top": 1794502131.3535976,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794493490.165827,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1794494154.1441681,
-    "Ethereum|4H:bot": 1794501529.285142,
+    "Ethereum|4H:bot": 1794502130.0531018,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,14 +155,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794501833.9532678,
-  "last_news": 1794501528.6364818,
+  "last_news": 1794502129.256822,
   "seen_news": [
-    "Finning International Q3 2026 Earnings Call Is Live - TradingView",
-    "JetBlue unveils new first-class seats to bring back profits",
-    "Graduates are managing AI - but are they learning much else?",
-    "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
-    "Why is Rolls-Royce stock rallying today?",
-    "Nvidia stock plunges after hours as New York Times reports new Jensen Huang rela",
     "How video game remakes tap the power of nostalgia",
     "Global Power Grid Expansion Surges 50% to Record High",
     "B&M European Value Retail reports revenue growth in H1",
@@ -456,6 +450,12 @@
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
     "UK Vows Global Climate Leadership as PM Doubles Down on Net Zero",
     "Poland stocks higher at close of trade; WIG30 up 1.83%",
-    "As market digest the Nvidia fallout, what has the fallout meant for the Nasdaq c"
+    "As market digest the Nvidia fallout, what has the fallout meant for the Nasdaq c",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+    "SpaceX to invest over $74 billion in supercompute facilities in Texas, Arizona",
+    "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle infl",
+    "6 b\u00ed m\u1eadt \u0111\u1eb1ng sau t\u00ean c\u00e1c nh\u00e2n v\u1eadt trong Doraemon",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto"
   ]
 }
