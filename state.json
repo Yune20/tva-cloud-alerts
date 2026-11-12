@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794511145.2814534,
+  "last_signals": 1794511754.1907532,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794511131.5663033,
-  "last_news": 1794511142.4916186,
+  "last_analysis": 1794511744.1115198,
+  "last_news": 1794511754.1898568,
   "seen_news": [
-    "WNBA Finals MVP Gabby Williams: 'Our existence is political'",
-    "Christmas toy rush being driven by squishies and building sets",
-    "Metro Bank opens sale process despite no buyer approaches",
-    "Crude oil is caught between hopes of de-escalation and concerns of further escal",
-    "L\u00e3i su\u1ea5t cao n\u00ean ph\u00e2n b\u1ed5 \u0111\u1ea7u t\u01b0 ra sao?",
-    "Untitled - VietstockFinance",
     "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
     "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
     "Chart of the day: USD/JPY nears 160.00 as technical warning signs raise Japan in",
@@ -456,6 +450,12 @@
     "Donald Trump Jr. exits advisory role at Kalshi prediction market",
     "The engine parts that 'fight the laws of the universe'",
     "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resign",
-    "Fed's Daly: How much tightening and when is no a decision for right now"
+    "Fed's Daly: How much tightening and when is no a decision for right now",
+    "As credit card balances hit a record high, medical bills can become 'shadow debt",
+    "Graduates are managing AI - but are they learning much else?",
+    "Nvidia and Alibaba among market cap stock movers on Thursday",
+    "US 30-year bond auction tails as demand disappoints for second straight day",
+    "Ph\u00e1t hi\u1ec7n 2 ng\u01b0\u1eddi ph\u1ee5 n\u1eef Vi\u1ec7t Nam c\u00f9ng c\u00f3 111 ngh\u00ecn t\u1ef7",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
   ]
 }
