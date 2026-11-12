@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794446162.61961,
+  "last_signals": 1794446774.3249412,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1H|up": 1793854837.1009996,
     "5575146754|Gold|1H|momo_dn": 1794420246.2177808,
     "5575146754|Gold|4H|tbot": 1794446162.61961,
-    "5575146754|Gold|4H|dbot": 1794342088.8598495,
+    "5575146754|Gold|4H|dbot": 1794446774.3249412,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393,
     "5575146754|Gold|4H|dn": 1794443040.47094,
     "5575146754|Gold|4H|trap_dn": 1794444940.9367297
@@ -67,7 +67,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -133,9 +133,9 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794446163.010494,
-    "USD/JPY|1D:top": 1794446165.929279,
-    "JPY Index|1D:top": 1794446166.7926388,
+    "Gold|4H:bot": 1794446774.5980392,
+    "USD/JPY|1D:top": 1794446776.6868725,
+    "JPY Index|1D:top": 1794446777.2186866,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1793340173.3858144,
     "Ethereum|4H:bot": 1794317190.616205,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794446153.7539074,
-  "last_news": 1794446162.6188278,
+  "last_analysis": 1794446765.787148,
+  "last_news": 1794446774.3236556,
   "seen_news": [
-    "Gold sheds gains as hot inflation figures, higher dollar weigh - TradingView",
-    "Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes",
-    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
-    "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
-    "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
-    "What are the main events for today?",
     "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
     "The broader stock indices are showing signs of life but with work to do. What ne",
     "Trong khi Jensen Huang m\u1ea5t g\u1ea7n 16 t\u1ef7 USD, \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng v\u1eeba c\u00f3 th\u00eam 9.900 ",
@@ -458,6 +452,12 @@
     "Franco-Nevada Corporation (FNV) Q3 Revenue Rose 13%; Guidance Tracks Toward Mid-",
     "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huan",
     "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-    "US inflation higher than expected in October - here's what is happening with pri"
+    "US inflation higher than expected in October - here's what is happening with pri",
+    "Michael Burry\u2019s Portfolio: What the \u2018Big Short\u2019 Investor Owns Now - TradingView",
+    "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI",
+    "CFTC investigates if Kalshi improperly self-certified event contracts",
+    "How a civil servant got away with juggling five jobs for so long",
+    "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production",
+    "Instant View: Nvidia board meets to decide CEO Huang\u2019s future, source says"
   ]
 }
