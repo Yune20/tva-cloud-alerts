@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794482191.8152184,
+  "last_signals": 1794482794.1270494,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794481571.3381424,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -58,11 +58,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -76,7 +76,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794482182.374538,
-  "last_news": 1794482191.8144517,
+  "last_analysis": 1794482788.4012852,
+  "last_news": 1794482794.126585,
   "seen_news": [
-    "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
-    "European stocks close higher. AI rebound sends Nasdaq indices sharply higher.",
-    "Ph\u00e1t hi\u1ec7n 71 kh\u1ed1i b\u00ea t\u00f4ng n\u1eb7ng 355.000 t\u1ea5n b\u1ecb \u0111\u00e1nh ch\u00ecm xu\u1ed1ng \u0111\u00e1y bi\u1ec3n, m\u1edf \u0111\u01b0\u1eddng",
-    "B\u00c1O C\u00c1O CHI\u1ebeN L\u01af\u1ee2C TH\u00c1NG 11/2026 - VietstockFinance",
-    "Faraday Copper (FDY) Reports $94.0M Cash at Quarter-End, Up From $37.9M - Tradin",
-    "Polymarket says annualized revenue has topped $1.8 billion",
     "European Gas Prices Rebound on Iran War Uncertainty",
     "Alphabet sets initial price guidance for Hong Kong, Singapore bond sales, term s",
     "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
@@ -455,6 +449,12 @@
     "G\u1ea7n 200 c\u1ed5 phi\u1ebfu gi\u1ea3m gi\u00e1, kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng \u0111\u1ed9t bi\u1ebfn",
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Key facts: BCIC Sets $0.09 Payouts; Non-Accruals at 2.8% - TradingView",
-    "CFTC investigates if Kalshi improperly self-certified event contracts"
+    "CFTC investigates if Kalshi improperly self-certified event contracts",
+    "WNBA Finals MVP Gabby Williams: 'Our existence is political'",
+    "Christmas toy rush being driven by squishies and building sets",
+    "Metro Bank opens sale process despite no buyer approaches",
+    "Crude oil is caught between hopes of de-escalation and concerns of further escal",
+    "L\u00e3i su\u1ea5t cao n\u00ean ph\u00e2n b\u1ed5 \u0111\u1ea7u t\u01b0 ra sao?",
+    "Untitled - VietstockFinance"
   ]
 }
