@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794443710.7004285,
-  "last_bot4": 1794448979.6263952,
+  "last_bot4": 1794449647.2011476,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794448295.1735013
+    "Gold": 1794449647.2010372
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794448979.627202,
+  "last_signals": 1794449647.2022352,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -47,7 +47,7 @@
     "5575146754|Gold|4H|dbot": 1794446774.3249412,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393,
     "5575146754|Gold|4H|dn": 1794443040.47094,
-    "5575146754|Gold|4H|trap_dn": 1794444940.9367297
+    "5575146754|Gold|4H|trap_dn": 1794449647.2022352
   },
   "sig_range": {
     "Gold": true,
@@ -65,12 +65,12 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -156,15 +156,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794448970.6746826,
-  "last_news": 1794448979.6255386,
+  "last_analysis": 1794449636.1616914,
+  "last_news": 1794449644.7638042,
   "seen_news": [
-    "Poland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal",
-    "ArcelorMittal\u2019s $900 million Brazil expansion plan trudges along as imports weig",
-    "Germany October inflation slows, but winter energy risks keep ECB rate hike bets",
-    "T\u1eebng l\u1eadp k\u1ef7 l\u1ee5c Guiness, c\u1ee5 \u00f4ng 91 tu\u1ed5i quy\u1ebft t\u00e2m th\u1eed s\u1ee9c v\u1edbi Phantom Blade Zero",
-    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "TSX opens higher as strong CoreWeave results revive AI trade - TradingView",
     "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.33%",
     "FX option expiries for 11 November 10am New York cut",
     "N\u1eef di\u1ec5n vi\u00ean nh\u1eadn l\u01b0\u01a1ng h\u01b0u 8,5 tri\u1ec7u/th\u00e1ng, \u1edf nh\u00e0 300m2 gi\u1eefa H\u00e0 N\u1ed9i, \u0111\u01b0\u1ee3c c\u1ea3 n\u01b0",
@@ -458,6 +452,12 @@
     "How a Super El Ni\u00f1o Could Reshape Global Coal Markets",
     "JetBlue president says airlines should follow customers\u2019 lead on AI booking agen",
     "Japan wholesale inflation speeds up to 7.1%, beating forecasts and firming BoJ h",
-    "Chu k\u1ef3 m\u1edbi b\u1ea5t \u0111\u1ed9ng s\u1ea3n 2026: R\u1eddi xa \"s\u00f3ng\" \u0111\u1ea7u c\u01a1, nhu c\u1ea7u \u1edf th\u1ef1c l\u00ean ng\u00f4i"
+    "Chu k\u1ef3 m\u1edbi b\u1ea5t \u0111\u1ed9ng s\u1ea3n 2026: R\u1eddi xa \"s\u00f3ng\" \u0111\u1ea7u c\u01a1, nhu c\u1ea7u \u1edf th\u1ef1c l\u00ean ng\u00f4i",
+    "Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington",
+    "Trump\u2019s ties to Nvidia CEO Jensen Huang in the spotlight",
+    "BoJ\u2019s Asada, who opposed 2 hikes this year, urges caution on pace as rates near ",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 29 tu\u1ed5i t\u1eed vong v\u00ec ti\u1ec3u \u0111\u01b0\u1eddng, b\u00e1c s\u0129 ch\u1ec9 ra \"th\u1ee7 ph\u1ea1m\" l\u00e0 3 ki\u1ec3u ",
+    "BSR: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 34,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Phoenix Energy One Q3 2026 Earnings Call Is Live - TradingView"
   ]
 }
