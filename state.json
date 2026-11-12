@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794498614.8529186,
-  "last_bot4": 1794508300.2114966,
+  "last_bot4": 1794508948.5211112,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794507692.185845
+    "Gold": 1794508948.5209796
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794508580.0489032,
+  "last_signals": 1794508948.5219305,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794508582.5549142,
-    "JPY Index|4H:top": 1794508583.1582515,
+    "USD/JPY|4H:top": 1794508950.0948663,
+    "JPY Index|4H:top": 1794508950.4380188,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794508570.3904023,
-  "last_news": 1794508580.048063,
+  "last_analysis": 1794508937.7304652,
+  "last_news": 1794508946.037624,
   "seen_news": [
-    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
-    "Reuters Tankan: Japan manufacturer mood hits +27, highest in over five years on ",
-    "S\u1ebfp n\u1eef xin t\u1eeb nhi\u1ec7m do kh\u00f4ng c\u00f3 th\u1eddi gian l\u00e0m vi\u1ec7c",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "REG - iShares II CRP ESG \u00a3 - Dividend Declaration - TradingView",
     "BoJ\u2019s Asada, who opposed 2 hikes this year, urges caution on pace as rates near ",
     "4 c\u1ed7 m\u00e1y \"nh\u00ecn xuy\u00ean \u0111\u1ea5t\" nh\u1eadp kh\u1ea9u t\u1eeb Italy v\u1eeba \u0111\u01b0\u1ee3c giao nhi\u1ec7m v\u1ee5 thi\u00eang li\u00eang",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
@@ -456,6 +450,12 @@
     "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
     "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
     "Why is Alphabet stock rallying today?",
-    "Fed's Goolsbee: Inflation has been well-above target"
+    "Fed's Goolsbee: Inflation has been well-above target",
+    "Angi Reports Inducement Grants Under Nasdaq Listing Rule 5635(C)(4) - TradingVie",
+    "U.S. inflation is already bad enough. It might get worse.",
+    "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part o",
+    "Doing these things now will help you save money at Christmas",
+    "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
+    "Why is Arista Networks stock rallying today?"
   ]
 }
