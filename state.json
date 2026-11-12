@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794503070.255537,
+  "last_signals": 1794503696.3932233,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -44,7 +44,7 @@
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794498938.4645984,
-    "5575146754|Gold|4H|trap_dn": 1794486023.2068207,
+    "5575146754|Gold|4H|trap_dn": 1794503696.3932233,
     "5575146754|Gold|1D|tbot": 1794494153.9436958
   },
   "sig_range": {
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794503072.744882,
-    "JPY Index|4H:top": 1794503073.267362,
+    "USD/JPY|4H:top": 1794503697.5611582,
+    "JPY Index|4H:top": 1794503697.8464558,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794503062.3927968,
-  "last_news": 1794503070.254701,
+  "last_analysis": 1794503684.107372,
+  "last_news": 1794503696.3926148,
   "seen_news": [
-    "M\u1ed9t c\u1ed5 phi\u1ebfu v\u1eeba l\u00ean UPCoM \u0111\u00e3 t\u0103ng tr\u1ea7n 4 phi\u00ean li\u00ean ti\u1ebfp, v\u1ed1n h\u00f3a t\u0103ng g\u1ea5p \u0111\u00f4i ",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-12 \u2014 cnbctv:ae0c820c7094b:0 - TradingV",
-    "Nvidia stock falls 7% as investors await Jensen Huang\u2019s fate",
-    "From Paris to DC - why offices are being turned into apartments",
-    "Why is Technoprobe stock sliding today?",
     "WS WeSports Group Q3 2026 Earnings Call Is Live - TradingView",
     "Ukrainian defense tech startup hits $6 billion valuation as investors bet on bat",
     "Doing these things now will help you save money at Christmas",
@@ -456,6 +450,12 @@
     "Fed's Hammack signals support for gradual rate-hike path - TradingView",
     "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
     "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central ",
-    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati"
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
+    "Irish Residential Properties REIT plc (IRES) Files Major Holdings Notification -",
+    "The bond market now has an even bigger fear than the AI fallout",
+    "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan",
+    "Civil servant who secretly held five jobs found guilty of fraud",
+    "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
+    "US to fund new research into psychedelic drug ibogaine for veterans with PTSD"
   ]
 }
