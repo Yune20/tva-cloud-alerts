@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794463481.307607,
+  "last_signals": 1794464106.9871757,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -43,7 +43,7 @@
     "5575146754|Gold|4H|trap_up": 1793864738.0150247,
     "5575146754|Gold|1H|momo_dn": 1794420246.2177808,
     "5575146754|Gold|4H|tbot": 1794446162.61961,
-    "5575146754|Gold|4H|dbot": 1794446774.3249412,
+    "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794329312.889393,
     "5575146754|Gold|4H|dn": 1794461020.3057134,
     "5575146754|Gold|4H|trap_dn": 1794463481.307607
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": true,
     "USOIL|1H": false,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1793310728.0347733,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794447396.1274173,
+    "Gold|4H:bot": 1794464107.297247,
     "USD/JPY|1D:top": 1794446776.6868725,
     "JPY Index|1D:top": 1794446777.2186866,
     "GBP/USD|1D:bot": 1792014450.7137802,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794463473.3982575,
-  "last_news": 1794463481.3067303,
+  "last_analysis": 1794464099.1257384,
+  "last_news": 1794464106.9861245,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u1eadp nh\u1eadt kinh t\u1ebf v\u0129 m\u00f4 10 th\u00e1ng n\u0103m 2026 - VietstockFinance",
-    "Huntsman Corporation (HUN) Declares $0.0875 Per-Share Dividend - TradingView",
-    "Falling oil prices are no longer enough to bring down borrowing costs in the wor",
-    "Social Security could pay full benefits until 2059 if taxable payroll kept pace ",
-    "The engine parts that 'fight the laws of the universe'",
-    "Warburg Pincus targets $5 billion for second Capital Solutions fund - Bloomberg",
     "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
     "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48%",
     "investingLive Americas FX news wrap 11 Nov. It\u2019s a Wrap: Dollar climbs as stocks",
@@ -457,6 +451,12 @@
     "Ph\u00e1t hi\u1ec7n 5 m\u00e1y bay \u0111i\u1ec7n kh\u00f4ng ng\u01b0\u1eddi l\u00e1i c\u1ea5t c\u00e1nh ngay t\u1ea1i l\u00e1ng gi\u1ec1ng Vi\u1ec7t Nam, ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
     "Why Is Digi International (DGII) Stock Trending After Hours? - TradingView",
-    "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 repo"
+    "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 repo",
+    "Why is Xero stock surging today?",
+    "Nvidia stock plunges 8.6%, but AMD and Broadcom rally. Which chip stocks are wor",
+    "C\u00f4ng an r\u00e0 so\u00e1t, x\u00e1c minh giao d\u1ecbch chuy\u1ec3n kho\u1ea3n 69,8 tri\u1ec7u \u0111\u1ed3ng c\u1ee7a Nguy\u1ec5n Th\u1ecb ",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 125,700 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFina",
+    "BRIEF-Vox Royalty Q3 Dividend USD 0.015 - TradingView",
+    "Feds arrest top official of healthcare company, alleging illegal drug importatio"
   ]
 }
