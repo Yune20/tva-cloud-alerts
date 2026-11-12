@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794491326.1678045,
+  "last_signals": 1794491940.9906638,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -144,7 +144,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794491327.1493173,
+    "GBP/USD|4H:bot": 1794491942.70525,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794491318.8934948,
-  "last_news": 1794491326.1667001,
+  "last_analysis": 1794491931.1803544,
+  "last_news": 1794491940.9898279,
   "seen_news": [
-    "Vance considers face-to-face talks with top Iranian security official \u2014 WSJ",
-    "B\u00e1c s\u0129 M\u1ef9 b\u1ecf k\u1ebf ho\u1ea1ch m\u1edf ph\u00f2ng kh\u00e1m \u1edf Trung Qu\u1ed1c ch\u1ec9 sau 3 gi\u1edd \u0111\u1ebfn Vi\u1ec7t Nam: 20 ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: \u0110\u00e1nh gi\u00e1 \u0111\u1ed9ng l\u1ef1c t\u0103ng tr\u01b0\u1edfng v\u00e0 c\u1eadp nh\u1eadt k\u1ef3 v\u1ecdng \u0111\u1ecbnh h\u01b0\u1edbng ch\u00edn",
-    "Nexteer Automotive Group Ltd. Approves Buyback of Up to $60M - TradingView",
-    "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extr",
-    "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 vot",
     "CEO: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 11,750 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Manhattan Associates Inc. (MANH) WMS Supports Faster Peak-Season Fulfilment at P",
     "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. i",
@@ -455,6 +449,12 @@
     "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
     "C\u1eed tri ph\u01b0\u1eddng C\u1ea7u Gi\u1ea5y, Ngh\u0129a \u0110\u00f4, Y\u00ean H\u00f2a ki\u1ebfn ngh\u1ecb gi\u1ea3i quy\u1ebft \u201c\u0111i\u1ec3m ngh\u1ebdn\u201d v\u1ec1 h",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Mobile Telecommunications Company Q3 2026 Earnings Call Is Live - TradingView"
+    "Mobile Telecommunications Company Q3 2026 Earnings Call Is Live - TradingView",
+    "Clarivate Plc (CLVT) Will Purchase $533.0M of Tendered Notes - TradingView",
+    "It\u2019s not \u2018Medicare for All,\u2019 but \u2018Medicare for More.\u2019 What this could mean for w",
+    "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
+    "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+    "Nasdaq 100 futures slump over 1% as Nvidia slides on report of possible CEO oust",
+    "CBA\u2019s Chambers sees room for higher US 10-year yields despite the slide in oil p"
   ]
 }
