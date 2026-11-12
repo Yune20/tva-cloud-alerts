@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794514534.8961668,
+  "last_signals": 1794515149.2756495,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -44,7 +44,7 @@
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794498938.4645984,
-    "5575146754|Gold|4H|trap_dn": 1794511145.2814534,
+    "5575146754|Gold|4H|trap_dn": 1794515149.2756495,
     "5575146754|Gold|1D|tbot": 1794494153.9436958
   },
   "sig_range": {
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794514526.0324774,
-  "last_news": 1794514534.8950565,
+  "last_analysis": 1794515140.2810674,
+  "last_news": 1794515149.274738,
   "seen_news": [
-    "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remain",
-    "M\u1edf t\u1ee7 l\u1ea1nh c\u1ee7a m\u1ed9t b\u00e0 n\u1ed9i tr\u1ee3 Nh\u1eadt B\u1ea3n, t\u00f4i m\u1edbi hi\u1ec3u v\u00ec sao nh\u00e0 m\u00ecnh l\u00fac n\u00e0o c\u0169n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
-    "Titan Mining Q3 revenue rises; lifts output guidance - TradingView",
-    "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations",
-    "Nvidia stock falls 8% as investors await Jensen Huang\u2019s fate",
     "B\u00c1O C\u00c1O TR\u00c1I PHI \u1ebeU - VietstockFinance",
     "Allot Ltd. (ALLT) Raises 2026 Revenue Guidance Midpoint; Q3 Revenue Rises 16% - ",
     "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China e",
@@ -456,6 +450,12 @@
     "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01a1n s\u00e1ng 13/11 t\u1ea1i SJC, DOJI, PNJ, B\u1ea3o T\u00edn Minh Ch\u00e2u",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
     "Evotec SE (EVT) Reports Goldman Sachs Major Holdings Notification - TradingView",
-    "The trillion-dollar mistake corporate America is making about retirement"
+    "The trillion-dollar mistake corporate America is making about retirement",
+    "Ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam \u0111i xu\u1ed1ng sau n\u00e2ng h\u1ea1ng, Ch\u1ee7 t\u1ecbch VSDC ch\u1ec9 ra \u0111i\u1ec1u c\u00f2n thi\u1ebfu",
+    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
+    "Germany's CTS Eventim 9-month revenue rises on increased ticket sales - TradingV",
+    "I\u2019m 17 and will be a first-generation college student. Is law school worth being",
+    "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
   ]
 }
