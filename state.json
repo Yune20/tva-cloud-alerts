@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794489103.901555,
+  "last_signals": 1794489727.5818238,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -144,7 +144,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794473835.3787053,
+    "GBP/USD|4H:bot": 1794489729.230187,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794489093.193872,
-  "last_news": 1794489103.8992138,
+  "last_analysis": 1794489719.2258406,
+  "last_news": 1794489727.5810444,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
-    "'S\u0103n sale' tr\u00ean s\u00e0n th\u01b0\u01a1ng m\u1ea1i \u0111i\u1ec7n t\u1eed, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng mua \u0111\u01b0\u1ee3c c\u0103n chung c\u01b0 2 ph",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
-    "Cummins Inc. Stock 12\u2011Month Price Target Cut to $621.48, Implies 34% Upside - Tr",
-    "American soldier arrested on suspicion of spying for Russia",
-    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
     "Spotify Technology S.A. Stock 12\u2011Month Price Target Raised to $643.08, Implies 6",
     "Fed Governor Waller sees December hike likely, opens door to possible half-point",
@@ -455,6 +449,12 @@
     "Wendy\u2019s rejects a takeover offer, scales back breakfast and still sees its stock",
     "The world's super-rich are piling into alternative investments. Here's why",
     "Californians reject wealth tax for billionaires",
-    "Treasury yields hold near 2-week highs as traders await next signal"
+    "Treasury yields hold near 2-week highs as traders await next signal",
+    "The world\u2019s most sophisticated drug companies are putting billions into vaccines",
+    "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+    "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "Indonesian rupiah hits record low amid MSCI downgrade concerns",
+    "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia dra",
+    "Ng\u00e0nh x\u00e2y d\u1ef1ng TP.HCM thi\u1ebfu lao \u0111\u1ed9ng c\u1ee5c b\u1ed9"
   ]
 }
