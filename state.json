@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794476313.0410078,
+  "last_signals": 1794476932.5691135,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794446162.61961,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -43,7 +43,7 @@
     "5575146754|Gold|4H|tbot": 1794446162.61961,
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794476313.0410078,
-    "5575146754|Gold|4H|dn": 1794473218.9556925,
+    "5575146754|Gold|4H|dn": 1794476932.5691135,
     "5575146754|Gold|4H|trap_dn": 1794463481.307607
   },
   "sig_range": {
@@ -76,7 +76,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -118,13 +118,13 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794476314.332558,
-    "JPY Index|4H:top": 1794476314.6714253,
+    "USD/JPY|4H:top": 1794476934.1310856,
+    "JPY Index|4H:top": 1794476934.452474,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794476314.4731476,
+    "DXY|4H:top": 1794476934.3003001,
     "Bitcoin|4H:bot": 1794324662.158309,
-    "EUR/USD|4H:bot": 1794476314.1595383,
+    "EUR/USD|4H:bot": 1794476933.7767768,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1793310728.0347733,
@@ -153,15 +153,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794476303.5411994,
-  "last_news": 1794476313.0400531,
+  "last_analysis": 1794476924.190174,
+  "last_news": 1794476932.5682187,
   "seen_news": [
-    "Michael Burry\u2019s Portfolio: What the \u2018Big Short\u2019 Investor Owns Now - TradingView",
-    "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI",
-    "CFTC investigates if Kalshi improperly self-certified event contracts",
-    "How a civil servant got away with juggling five jobs for so long",
-    "Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production",
-    "Instant View: Nvidia board meets to decide CEO Huang\u2019s future, source says",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now? - TradingView",
     "White House vows to press ahead with tariffs despite midterm backlash over risin",
@@ -455,6 +449,12 @@
     "TS. C\u1ea5n V\u0103n L\u1ef1c: N\u1ebfu gi\u1ea3m m\u1ea1nh l\u00e3i su\u1ea5t huy \u0111\u1ed9ng, li\u1ec7u d\u00f2ng ti\u1ec1n c\u00f3 ti\u1ebfp t\u1ee5c ch\u1ea3",
     "Ch\u1ee9ng quy\u1ec1n ACB/MSVN/7M/0126 HOSE: CACB2625 - VietstockFinance",
     "REG - iShares II $ Flt RtE - Dividend Declaration - TradingView",
-    "Nvidia stock falls 6% as investors await Jensen Huang\u2019s fate"
+    "Nvidia stock falls 6% as investors await Jensen Huang\u2019s fate",
+    "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huan",
+    "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be oust",
+    "US inflation higher than expected in October - here's what is happening with pri",
+    "Who Will Buy Sable\u2019s Oil if California Keeps Closing Refineries?",
+    "Eurozone yields hold near 1-week highs; Investors weigh hawkish Fed bets",
+    "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite"
   ]
 }
