@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794503696.3932233,
+  "last_signals": 1794504298.8447804,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -62,13 +62,13 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794503697.5611582,
-    "JPY Index|4H:top": 1794503697.8464558,
+    "USD/JPY|4H:top": 1794504300.2754514,
+    "JPY Index|4H:top": 1794504300.613105,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794503684.107372,
-  "last_news": 1794503696.3926148,
+  "last_analysis": 1794504288.569372,
+  "last_news": 1794504298.8438792,
   "seen_news": [
-    "WS WeSports Group Q3 2026 Earnings Call Is Live - TradingView",
-    "Ukrainian defense tech startup hits $6 billion valuation as investors bet on bat",
-    "Doing these things now will help you save money at Christmas",
-    "Alphabet\u2019s debut Hong Kong, Singapore bond sales draw over $7 billion in orders",
-    "Gold erases post-midterms gains as higher real yields and US dollar hurt. What's",
-    "Th\u1ee7 t\u01b0\u1edbng L\u00ea Minh H\u01b0ng tr\u1ef1c ti\u1ebfp tr\u1ea3 l\u1eddi ch\u1ea5t v\u1ea5n t\u1ea1i Qu\u1ed1c h\u1ed9i",
     "Office buildings emptied out but are filling up again - as homes",
     "Nvidia customer\u00a0Megaspeed says it cooperated with US inspections, takes export c",
     "European stock market open: DAX pushes to fresh record highs as Europe defies Wa",
@@ -456,6 +450,12 @@
     "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan",
     "Civil servant who secretly held five jobs found guilty of fraud",
     "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
-    "US to fund new research into psychedelic drug ibogaine for veterans with PTSD"
+    "US to fund new research into psychedelic drug ibogaine for veterans with PTSD",
+    "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote ",
+    "Poundland unable to buy new stock as fears over collapse grow",
+    "Global Power Grid Expansion Surges 50% to Record High",
+    "FTSE 100 today: Stocks edge higher on strong GDP, upbeat company earnings",
+    "Crude oil futures trying to keep a technical ceiling in place.",
+    "T\u1ef7 ph\u00fa xu\u1ea5t th\u00e2n t\u1eeb qu\u00ea l\u00faa: Sau 16 n\u0103m gh\u00e9p gan v\u1eabn quy\u1ebft t\u00e1i thi\u1ebft ng\u00e2n h\u00e0ng, "
   ]
 }
