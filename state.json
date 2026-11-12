@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794498614.8529186,
+  "last_news_report": 1794509566.9257784,
   "last_bot4": 1794508948.5211112,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794508948.5219305,
+  "last_signals": 1794509566.9266775,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -71,7 +71,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794508950.0948663,
-    "JPY Index|4H:top": 1794508950.4380188,
+    "USD/JPY|4H:top": 1794509568.4887843,
+    "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794508937.7304652,
-  "last_news": 1794508946.037624,
+  "last_analysis": 1794509555.6714747,
+  "last_news": 1794509562.369982,
   "seen_news": [
-    "BoJ\u2019s Asada, who opposed 2 hikes this year, urges caution on pace as rates near ",
-    "4 c\u1ed7 m\u00e1y \"nh\u00ecn xuy\u00ean \u0111\u1ea5t\" nh\u1eadp kh\u1ea9u t\u1eeb Italy v\u1eeba \u0111\u01b0\u1ee3c giao nhi\u1ec7m v\u1ee5 thi\u00eang li\u00eang",
-    "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "REG - Ampeak Energy Ltd. - Company Update and Bond Update - TradingView",
-    "Analysis: Is Nvidia too big to fail?\u00a0Its AI financing web raises the stakes",
-    "Who could replace Jensen Huang as Nvidia's chief executive?",
     "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Weekly Edge Case \u2013 Vertiseit - TradingView",
     "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
@@ -456,6 +450,12 @@
     "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part o",
     "Doing these things now will help you save money at Christmas",
     "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
-    "Why is Arista Networks stock rallying today?"
+    "Why is Arista Networks stock rallying today?",
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
+    "The US dollar moves higher as Treasury yields extend their gains",
+    "Ng\u00e0y 13/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 6 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "Mandatory notification of trades - Primary insider - TradingView"
   ]
 }
