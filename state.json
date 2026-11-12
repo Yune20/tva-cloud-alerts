@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794522313.9616344,
+  "last_signals": 1794522924.5817497,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794522307.41749,
-  "last_news": 1794522313.961026,
+  "last_analysis": 1794522915.5216997,
+  "last_news": 1794522924.580889,
   "seen_news": [
-    "Fed's Hammack: We need to move to restrictive mon pol to lower inflation",
-    "Kh\u1edfi t\u1ed1 ng\u01b0\u1eddi \u0111i xe m\u00e1y V\u0169 Th\u1ecb V\u0103n C\u00fac SN 2006",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
-    "KALA BIO, Inc. (KALA) Sets 1-for-30 Reverse Split - TradingView",
-    "Opening trading-card packs has become a $2 billion market",
-    "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
     "European shares lose steam as rising yields and Nvidia slump stifle rally",
     "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
     "M\u1ed1i quan h\u1ec7 gi\u1eefa \u0110\u00ecnh B\u1eafc v\u00e0 \u00c1 h\u1eadu Ch\u00e2u Anh",
@@ -456,6 +450,12 @@
     "Exyn Technologies CFO Ricardo Sotelo Resigns; Benjamin Williams Takes Finance Ro",
     "Bond yields just saw their biggest surge since 2022 as expectations grow for mor",
     "Widespread Microsoft outage takes down Outlook and other 365 services",
-    "Australia considers criminal penalties for rogue AI in wake of OpenAI hack"
+    "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "FRMO Corp. Announces Fiscal 2027 First Quarter Results and Conference Call - Tra",
+    "Am I overpaying for health insurance? How to answer the key question this open-e",
+    "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal ",
+    "Robot vessels take on the dangerous work of mine hunting",
+    "Why is Jefferson Capital stock gaining in after-hours trading today?",
+    "Applied Materials beats on Q4 and guides above forecasts as chip equipment deman"
   ]
 }
