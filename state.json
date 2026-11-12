@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794500244.0793917,
+  "last_signals": 1794500862.1098702,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794493490.165827,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1794494154.1441681,
-    "Ethereum|4H:bot": 1794500245.0057104,
+    "Ethereum|4H:bot": 1794500863.874629,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794500236.7414258,
-  "last_news": 1794500244.0784647,
+  "last_analysis": 1794500849.8054504,
+  "last_news": 1794500862.1077814,
   "seen_news": [
-    "Persimmon trading in line with market expectations",
-    "UK September GDP beats expectations as resilient growth keeps BOE December rate ",
-    "D\u1ef1 \u00e1n h\u01a1n 6.300 t\u1ef7 \u0111\u1ed3ng t\u1ea1i Ph\u00fa Th\u1ecd t\u1eebng li\u00ean quan \u0111\u1ebfn T\u1eadp \u0111o\u00e0n FLC nay c\u00f3 di\u1ec5n ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
-    "Office Properties Income Trust Q3 2026 Earnings Call Is Live - TradingView",
-    "Your holiday credit-card bills are going up. What you can do to ease the pain.",
     "AUD/USD faces a make-or-break test as dollar bulls turn up the heat",
     "V\u01b0\u01a1ng phi Kate di\u1ec7n suit g\u1ea7n 50 tri\u1ec7u \u0111\u1ed3ng, ph\u1ed1i m\u00e0u c\u1ef1c kh\u00e9o khi\u1ebfn ai nh\u00ecn c\u0169ng",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
@@ -456,6 +450,12 @@
     "After Nvidia, what's next for Jensen Huang? Prediction markets weigh in - Tradin",
     "Nvidia is spending more than ever on Washington lobbying. It may not stop Congre",
     "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand"
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
+    "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-tim",
+    "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "Who is Really Paying for the Data Center Boom?",
+    "BofA: Retail yen selling rises but offset by foreign inflows"
   ]
 }
