@@ -29,11 +29,11 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794490353.2319944,
+  "last_signals": 1794490946.677492,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
-    "5575146754|Gold|1H|trap_dn": 1794474463.7425635,
+    "5575146754|Gold|1H|trap_dn": 1794490946.677492,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
@@ -43,7 +43,7 @@
     "5575146754|Gold|4H|tbot": 1794446162.61961,
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794476313.0410078,
-    "5575146754|Gold|4H|dn": 1794476932.5691135,
+    "5575146754|Gold|4H|dn": 1794490946.677492,
     "5575146754|Gold|4H|trap_dn": 1794486023.2068207
   },
   "sig_range": {
@@ -61,7 +61,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -144,7 +144,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794490355.1265633,
+    "GBP/USD|4H:bot": 1794490949.11526,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -154,14 +154,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794490655.199602,
-  "last_news": 1794490353.2308853,
+  "last_news": 1794490946.676848,
   "seen_news": [
-    "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-    "Robot vessels take on the dangerous work of mine hunting",
-    "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
-    "Citi sees yen strengthening risk if Japanese stocks correct further",
-    "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangov",
-    "\u00d4ng L\u00ea Qu\u1ed1c Phong l\u00e0m Ch\u1ee7 t\u1ecbch UBND TP.HCM",
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share de",
     "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, o",
@@ -455,6 +449,12 @@
     "Faisal Islam: Why the UK economy is surprisingly resilient",
     "Turkey Agrees to Record $1.6 Billion Climate Policy Funding Deal",
     "Global AI stocks sink as Nvidia crisis deepens sector selloff",
-    "How IPOs work: The process of bringing a company to the stock market"
+    "How IPOs work: The process of bringing a company to the stock market",
+    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade",
+    "AMD to invest in PsiQuantum to advance quantum computing infrastructure",
+    "What are the main events for today?",
+    "Nam NS\u01afT l\u00e0 \"\u00f4ng ho\u00e0ng nh\u1ea1c \u0111\u1ecf\", U60 ly h\u00f4n v\u1ee3 k\u00e9m 18 tu\u1ed5i, s\u1ed1ng nh\u01b0 n\u00f4ng d\u00e2n tr",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? "
   ]
 }
