@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794517363.811622,
+  "last_signals": 1794517973.8190315,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
-    "Bitcoin|4H:bot": 1794517364.3131354,
+    "Bitcoin|4H:bot": 1794517974.7923558,
     "EUR/USD|4H:bot": 1794477540.4083784,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -155,14 +155,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794517674.4370923,
-  "last_news": 1794517363.810856,
+  "last_news": 1794517973.818239,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Silverco Mining Ltd. (SICO) Advances La Negra Mill Restart Investments - Trading",
-    "Wendy\u2019s rejects a takeover offer, scales back breakfast and still sees its stock",
-    "The world's super-rich are piling into alternative investments. Here's why",
-    "Californians reject wealth tax for billionaires",
-    "Treasury yields hold near 2-week highs as traders await next signal",
     "The world\u2019s most sophisticated drug companies are putting billions into vaccines",
     "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
     "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
@@ -456,6 +450,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "Costco reveals 60% AI productivity gain in major expansion - TradingView",
     "Microsoft outage hits Outlook. AWS and Google users also report issues",
-    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond"
+    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
+    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
+    "Heads up: UK September GDP in focus but will weak growth really stop the BOE fro",
+    "Sang n\u0103n 2027, m\u1ee9c \u0111\u00f3ng BHXH t\u1ef1 nguy\u1ec7n c\u00f3 thay \u0111\u1ed5i quan tr\u1ecdng: To\u00e0n b\u1ed9 ng\u01b0\u1eddi d\u00e2n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance"
   ]
 }
