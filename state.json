@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794509566.9257784,
+  "last_news_report": 1794520453.288585,
   "last_bot4": 1794520116.9514825,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794519832.266371,
+  "last_signals": 1794520453.2896202,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -86,7 +86,7 @@
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
-    "Bitcoin|4H:bot": 1794519832.8951836,
+    "Bitcoin|4H:bot": 1794520453.8406763,
     "EUR/USD|4H:bot": 1794477540.4083784,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794519824.6406112,
-  "last_news": 1794519832.2654116,
+  "last_analysis": 1794520440.7412326,
+  "last_news": 1794520448.1695719,
   "seen_news": [
-    "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
-    "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
-    "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
-    "C\u1eed tri ph\u01b0\u1eddng C\u1ea7u Gi\u1ea5y, Ngh\u0129a \u0110\u00f4, Y\u00ean H\u00f2a ki\u1ebfn ngh\u1ecb gi\u1ea3i quy\u1ebft \u201c\u0111i\u1ec3m ngh\u1ebdn\u201d v\u1ec1 h",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Mobile Telecommunications Company Q3 2026 Earnings Call Is Live - TradingView",
     "Clarivate Plc (CLVT) Will Purchase $533.0M of Tendered Notes - TradingView",
     "It\u2019s not \u2018Medicare for All,\u2019 but \u2018Medicare for More.\u2019 What this could mean for w",
     "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -456,6 +450,12 @@
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
     "What Is Going on With Micron Stock on Thursday? - TradingView",
     "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
-    "Faisal Islam: Why the UK economy is surprisingly resilient"
+    "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft ",
+    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "Turkey Agrees to Record $1.6 Billion Climate Policy Funding Deal",
+    "Cerebras lifts annual sales forecast on strong AI-linked demand, shares surge",
+    "What are the main events for today?",
+    "V\u00ec sao n\u00ean r\u1eafc mu\u1ed1i v\u00e0o b\u1ed3n c\u1ea7u bu\u1ed5i t\u1ed1i? S\u00e1ng h\u00f4m sau s\u1ebd th\u1ea5y c\u00f4ng d\u1ee5ng b\u1ea5t ng\u1edd"
   ]
 }
