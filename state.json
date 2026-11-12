@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794524773.2682161,
+  "last_signals": 1794525385.6115253,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794524762.425206,
-  "last_news": 1794524773.2675283,
+  "last_analysis": 1794525376.2022197,
+  "last_news": 1794525385.6099584,
   "seen_news": [
-    "Analysis: Jensen Huang\u2019s exit tests Nvidia\u2019s role as the \u2018central bank of AI\u2019",
-    "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
-    "Ukraine Peace Talks Yield Prisoner Deal but No Path to Peace",
-    "Is dollar finally ready to break out? BCA weighs in",
-    "US October existing home sales 3.75m vs 3.85m expected",
-    "'\u0110\u00e1t K\u1ef7 \u0111\u1eb9p nh\u1ea5t': T\u1eeb 'n\u00e0ng th\u01a1' c\u1ee7a Ch\u00e2u Ki\u1ec7t Lu\u00e2n \u0111\u1ebfn d\u00e2u t\u01b0\u01a1ng lai nh\u00e0 t\u1ef7 ph\u00fa",
     "Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen H",
     "Angola Looks to Diversify from Crude with Windfall Oil Revenues",
     "Costco eyes broader India tech footprint as AI bets grow",
@@ -456,6 +450,12 @@
     "Vertex Resource Group Ltd. (VTX) Expects Positive Momentum Through 2026 - Tradin",
     "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI c",
     "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft ",
-    "The Indian workers filming their work to train AI"
+    "The Indian workers filming their work to train AI",
+    "The 10 best stocks for a year-end momentum trade",
+    "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't ",
+    "The grads ditching the UK for a fresh start abroad",
+    "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
+    "Public funds ploughing cash into AI will \u2019own\u2019 megatrends shaping economy",
+    "Anthropic IPO targets around $1 trillion valuation, half the $2 trillion once wh"
   ]
 }
