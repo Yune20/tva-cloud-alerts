@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794499580.3484719,
+  "last_signals": 1794500244.0793917,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794493490.165827,
     "GBP/USD|1D:bot": 1792014450.7137802,
     "Gold|1D:bot": 1794494154.1441681,
-    "Ethereum|4H:bot": 1794499581.750789,
+    "Ethereum|4H:bot": 1794500245.0057104,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794499881.4303796,
-  "last_news": 1794499580.3475368,
+  "last_analysis": 1794500236.7414258,
+  "last_news": 1794500244.0784647,
   "seen_news": [
-    "SciBase: Interim report - TradingView",
-    "Costco is giving shareholders a big, early holiday gift. How to make sure you ge",
-    "Poundland unable to buy new stock as fears over collapse grow",
-    "BofA: Retail yen selling rises but offset by foreign inflows",
-    "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle infl",
-    "The Wall Street Journal: Nvidia chu\u1ea9n b\u1ecb mi\u1ec5n nhi\u1ec7m CEO Jensen Huang",
     "Persimmon trading in line with market expectations",
     "UK September GDP beats expectations as resilient growth keeps BOE December rate ",
     "D\u1ef1 \u00e1n h\u01a1n 6.300 t\u1ef7 \u0111\u1ed3ng t\u1ea1i Ph\u00fa Th\u1ecd t\u1eebng li\u00ean quan \u0111\u1ebfn T\u1eadp \u0111o\u00e0n FLC nay c\u00f3 di\u1ec5n ",
@@ -456,6 +450,12 @@
     "V\u00ec sao h\u1ed9i con nh\u00e0 gi\u00e0u m\u00ea golf \u0111\u1ebfn th\u1ebf? C\u00f3 \u00e1i n\u1eef m\u1edbi 2 tu\u1ed5i \u0111\u00e3 \u0111\u01b0\u1ee3c c\u1ea7m g\u1eady, h\u00f3",
     "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Jensen Huang Resigns: NVDA Crashes, Sending Shockwaves to The Crypto Market - Tr",
-    "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers."
+    "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers.",
+    "Ph\u00e1t hi\u1ec7n c\u00f4ng ty Vi\u1ec7t Nam ch\u1ebf t\u1ea1o c\u1ed7 m\u00e1y kh\u1ed5ng l\u1ed3 n\u1eb7ng 435 t\u1ea5n cho t\u1eadp \u0111o\u00e0n th\u00e9",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
+    "After Nvidia, what's next for Jensen Huang? Prediction markets weigh in - Tradin",
+    "Nvidia is spending more than ever on Washington lobbying. It may not stop Congre",
+    "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand"
   ]
 }
