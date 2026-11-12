@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794519213.1989357,
+  "last_signals": 1794519832.266371,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794486641.0615273,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,7 +80,7 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
-    "Bitcoin|4H:bot": 1794519213.6941793,
+    "Bitcoin|4H:bot": 1794519832.8951836,
     "EUR/USD|4H:bot": 1794477540.4083784,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794519204.1703742,
-  "last_news": 1794519213.19811,
+  "last_analysis": 1794519824.6406112,
+  "last_news": 1794519832.2654116,
   "seen_news": [
-    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade",
-    "AMD to invest in PsiQuantum to advance quantum computing infrastructure",
-    "What are the main events for today?",
-    "Nam NS\u01afT l\u00e0 \"\u00f4ng ho\u00e0ng nh\u1ea1c \u0111\u1ecf\", U60 ly h\u00f4n v\u1ee3 k\u00e9m 18 tu\u1ed5i, s\u1ed1ng nh\u01b0 n\u00f4ng d\u00e2n tr",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
     "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
     "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
     "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
@@ -456,6 +450,12 @@
     "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia dra",
     "M\u1ed9t container s\u1ea7u ri\u00eang \u0111i qua nh\u1eefng kh\u00e2u n\u00e0o \u0111\u1ec3 sang Trung Qu\u1ed1c?",
     "B\u00c1O C\u00c1O TR\u00c1I PHI \u1ebeU - VietstockFinance",
-    "Rigetti's Q3 Earnings: Hold or Fold the Stock Amid Rising Losses? - TradingView"
+    "Rigetti's Q3 Earnings: Hold or Fold the Stock Amid Rising Losses? - TradingView",
+    "How IPOs work: The process of bringing a company to the stock market",
+    "Jollibee x\u00e1c nh\u1eadn th\u01b0\u01a1ng v\u1ee5 b\u00e1n 11% Highlands Coffee gi\u00e1 2.300 t\u1ef7 \u0111\u1ed3ng v\u1eabn ch\u01b0a ",
+    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
+    "What Is Going on With Micron Stock on Thursday? - TradingView",
+    "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+    "Faisal Islam: Why the UK economy is surprisingly resilient"
   ]
 }
