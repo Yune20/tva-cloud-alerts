@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794529510.9905264,
+  "last_signals": 1794530064.226054,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794529510.9905264,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794529512.0344317,
+    "EUR/USD|4H:bot": 1794530065.3345096,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794529498.53397,
-  "last_news": 1794529507.959582,
+  "last_analysis": 1794530054.7539876,
+  "last_news": 1794530064.2252219,
   "seen_news": [
-    "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
-    "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-tim",
-    "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
-    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-    "Who is Really Paying for the Data Center Boom?",
-    "BofA: Retail yen selling rises but offset by foreign inflows",
     "Here's Why You Should Add AURA Stock to Your Portfolio Now - TradingView",
     "Yankees President Randy Levine pushes college sports bill, discusses MLB labor n",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
@@ -456,6 +450,12 @@
     "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
     "US October existing home sales 3.75m vs 3.85m expected",
-    "Ng\u01b0\u1eddi d\u00e2n th\u00eam l\u1ef1a ch\u1ecdn di chuy\u1ec3n khi kh\u00f4ng b\u1eaft bu\u1ed9c chuy\u1ec3n sang xe thu\u1ea7n \u0111i\u1ec7n"
+    "Ng\u01b0\u1eddi d\u00e2n th\u00eam l\u1ef1a ch\u1ecdn di chuy\u1ec3n khi kh\u00f4ng b\u1eaft bu\u1ed9c chuy\u1ec3n sang xe thu\u1ea7n \u0111i\u1ec7n",
+    "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+    "Microsoft users report outages amid tech giant 'connectivity issues'",
+    "U.S. stock futures rise after Nvidia CEO exit spooks Wall St",
+    "Now that all the Nvidia/Jensen Huang news is out, what next for traders in Nvidi",
+    "ACB v\u01b0\u1ee3t m\u1ed1c th\u01b0\u01a1ng hi\u1ec7u 1,4 t\u1ef7 USD, v\u00e0o Top 3 ng\u00e2n h\u00e0ng t\u01b0 nh\u00e2n gi\u00e1 tr\u1ecb nh\u1ea5t Vi",
+    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan"
   ]
 }
