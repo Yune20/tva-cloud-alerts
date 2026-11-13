@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794574075.7008893,
+  "last_signals": 1794574678.7438471,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -156,14 +156,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794574382.2049499,
-  "last_news": 1794574075.7003956,
+  "last_news": 1794574678.743235,
   "seen_news": [
-    "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
-    "H\u00e0ng lo\u1ea1t th\u01b0\u01a1ng v\u1ee5 IPO \u0111\u01b0\u1ee3c k\u1ef3 v\u1ecdng \u2018bom t\u1ea5n\u2019 l\u00ean s\u00e0n l\u1ea1i khi\u1ebfn nh\u00e0 \u0111\u1ea7u t\u01b0 thua",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
-    "Kardigan 3Q 2026: EPS ($0.64) \u2014 10-Q Summary - TradingView",
-    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
-    "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "What Altimmune (ALT) Said on Its Q3 Earnings Call - TradingView",
     "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to in",
@@ -457,6 +451,12 @@
     "How a sex scandal at Nvidia is putting pressure on the White House",
     "Iran Says Gas Tanker Hit Mine in Strait of Hormuz",
     "Germany warns of security flaws in Danfoss cooling systems",
-    "Bitcoin dipped under $70K, first time since August"
+    "Bitcoin dipped under $70K, first time since August",
+    "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signa",
+    "Anthropic IPO six times oversubscribed: what retail investors can realistically ",
+    "Lo\u1ea1i h\u1ea1t \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"ng\u1ecdc tr\u1eddi ban\" \u0111ang v\u00e0o m\u00f9a, g\u1eafn v\u1edbi c\u00f4ng d\u1ee5ng d\u01b0\u1ee1ng t\u00e2m, ",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "AF Gruppen Q3 2026 Earnings Call Is Live - TradingView",
+    "What's ahead for AI financing after Nvidia CEO Jensen Huang departs"
   ]
 }
