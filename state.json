@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794568734.3379529,
+  "last_signals": 1794569345.9345305,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794565353.640865,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794538436.9144,
+    "EUR/USD|4H:bot": 1794569347.5200007,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794560368.5743625,
+    "GBP/USD|4H:bot": 1794569347.2946677,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794568725.4072886,
-  "last_news": 1794568734.3373132,
+  "last_analysis": 1794569335.6542423,
+  "last_news": 1794569345.9336812,
   "seen_news": [
-    "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-    "Qantas to outsource 850 local jobs with most roles moving to India",
-    "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
-    "Japanese yen tests 160 again, drawing intervention threats",
-    "Anthropic IPO six times oversubscribed: what retail investors can realistically ",
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t m\u00e1y bay l\u1ea1 h\u1ea1 c\u00e1nh s\u00e2n bay T\u00e2n S\u01a1n Nh\u1ea5t, r\u1eddi \u0111i ngay sau h\u01a1n 1 gi\u1edd",
     "I took Vinted to court to get my money back",
     "Singapore charges fifth person in Nvidia chip probe, Straits Times reports",
     "Airlines face higher fuel bills as pre-war hedges expire and jet fuel holds near",
@@ -457,6 +451,12 @@
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "REG - Legal & General Grp - Directorate change - TradingView",
     "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
-    "How long will humans be needed for translation?"
+    "How long will humans be needed for translation?",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "ANTA Group Commits $1.5M and 1.2M Items in UNHCR Partnership - TradingView",
+    "From Jell-O to Philadelphia cream cheese, Kraft Heinz is putting a new spin on o",
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
+    "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook"
   ]
 }
