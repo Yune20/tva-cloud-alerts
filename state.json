@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794564413.6484857,
-  "last_bot4": 1794565029.33271,
+  "last_bot4": 1794565718.3630004,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794565352.3207765,
+  "last_signals": 1794565718.3636174,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794565352.6294096,
+    "USOIL|4H:top": 1794565718.7076602,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794565353.640865,
     "Bitcoin|4H:bot": 1794524773.7309785,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794565341.899134,
-  "last_news": 1794565352.319941,
+  "last_analysis": 1794565709.5922306,
+  "last_news": 1794565718.3621259,
   "seen_news": [
-    "Gold set for $3.3bn of index fund buying in January as rebalancing flips in its ",
-    "S\u1edf h\u1eefu \u0111\u1ee7 v\u00e0ng, \u0111\u1ea5t, ch\u1ee9ng kho\u00e1n: Nh\u00e0 \u0111\u1ea7u t\u01b0 Vi\u1ec7t \u0111\u00e3 ph\u00e2n b\u1ed5 danh m\u1ee5c h\u1ee3p l\u00fd?",
-    "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
-    "JPMorgan\u2019s Kelsey Berro: December Fed Rate Hike Is Priced In - TradingView",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on",
-    "US inflation higher than expected in October - here's what is happening with pri",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - VietstockFinance",
     "Teva Insiders Sold Shares Worth Over $4.6M - TradingView",
     "Yankees President Randy Levine pushes college sports bill, discusses MLB labor n",
@@ -457,6 +451,12 @@
     "\u2018She has a history of financial mismanagement\u2019: My brother cut my sister out of ",
     "The Fed expected rate cuts this year. Now it\u2019s bracing for another inflation fig",
     "Civil servant who secretly held five jobs found guilty of fraud",
-    "India Seeks Private Investors for $910 Million Oil Reserve"
+    "India Seeks Private Investors for $910 Million Oil Reserve",
+    "SouthGobi Resources Ltd. (SGQ) Q3 Revenue Rose 60% to $238.2M - TradingView",
+    "Earnings growth is set to peter out \u2014 but not the bull market, says Goldman Sach",
+    "Nscale updates IPO prospectus that shows widening loss",
+    "Living with a stink? Technology might help",
+    "EIA Data Shows Builds in Crude, Gasoline and Distillates",
+    "South Korea says Nvidia will keep GPU pledges after Huang\u2019s resignation"
   ]
 }
