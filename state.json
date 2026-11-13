@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794564737.9779658,
+  "last_signals": 1794565352.3207765,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -122,9 +122,9 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794564738.395008,
+    "USOIL|4H:top": 1794565352.6294096,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794564739.9679832,
+    "DXY|4H:top": 1794565353.640865,
     "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794538436.9144,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794564728.4025629,
-  "last_news": 1794564737.9768398,
+  "last_analysis": 1794565341.899134,
+  "last_news": 1794565352.319941,
   "seen_news": [
-    "EIA Data Shows Builds in Crude, Gasoline and Distillates",
-    "Why is Modine Manufacturing stock surging after-hours today?",
-    "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip up",
-    "\u0110\u0129a c\u01a1m 40.000 \u0111\u1ed3ng, th\u00eam 10.000 \u0111\u1ed3ng 'c\u00f2': C\u00f4ng an v\u00e0o cu\u1ed9c, tr\u00edch xu\u1ea5t camera ",
-    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
-    "John Williams: US Inflation Is \u2018Far Too High,\u2019 More Action Needed - TradingView",
     "Gold set for $3.3bn of index fund buying in January as rebalancing flips in its ",
     "S\u1edf h\u1eefu \u0111\u1ee7 v\u00e0ng, \u0111\u1ea5t, ch\u1ee9ng kho\u00e1n: Nh\u00e0 \u0111\u1ea7u t\u01b0 Vi\u1ec7t \u0111\u00e3 ph\u00e2n b\u1ed5 danh m\u1ee5c h\u1ee3p l\u00fd?",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
@@ -457,6 +451,12 @@
     "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
     "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't ",
     "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
-    "Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on "
+    "Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on ",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Tecnicas Reunidas Q3 2026 Earnings Call Is Live - TradingView",
+    "\u2018She has a history of financial mismanagement\u2019: My brother cut my sister out of ",
+    "The Fed expected rate cuts this year. Now it\u2019s bracing for another inflation fig",
+    "Civil servant who secretly held five jobs found guilty of fraud",
+    "India Seeks Private Investors for $910 Million Oil Reserve"
   ]
 }
