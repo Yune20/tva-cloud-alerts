@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794544293.307733,
+  "last_signals": 1794544904.2305117,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794544285.3068395,
-  "last_news": 1794544293.30679,
+  "last_analysis": 1794544896.2366388,
+  "last_news": 1794544904.2296073,
   "seen_news": [
-    "Ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam \u0111i xu\u1ed1ng sau n\u00e2ng h\u1ea1ng, Ch\u1ee7 t\u1ecbch VSDC ch\u1ec9 ra \u0111i\u1ec1u c\u00f2n thi\u1ebfu",
-    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
-    "Germany's CTS Eventim 9-month revenue rises on increased ticket sales - TradingV",
-    "I\u2019m 17 and will be a first-generation college student. Is law school worth being",
-    "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
-    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "Why is HIVE Digital stock sliding today?",
     "US October federal budget deficit sets a record",
     "PNJ thua l\u1ed7, gi\u00e1 gi\u1ea3m s\u00e0n, t\u1ea1i sao v\u1eabn l\u1ecdt r\u1ed5 ch\u1ec9 s\u1ed1 quan tr\u1ecdng c\u1ee7a MSCI?",
@@ -457,6 +451,12 @@
     "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
     "Christmas toy rush being driven by squishies and building sets",
     "Central Asia\u2019s B20 Message to Washington: Let\u2019s Make Deals",
-    "Why is Terumo stock sliding today?"
+    "Why is Terumo stock sliding today?",
+    "The superpower battle over energy \u2013 and what it means for your bills",
+    "Why is Amada stock surging today?",
+    "Oil prices rise after Iran reports strikes",
+    "Ch\u1ee7 t\u1ecbch T\u00e2n Ho\u00e0ng Minh \u0110\u1ed7 Anh D\u0169ng b\u1ecb t\u1ea1m ho\u00e3n xu\u1ea5t c\u1ea3nh v\u00ec c\u00f4ng ty n\u1ee3 thu\u1ebf h\u01a1n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
+    "Bitcoin plunges below $70,000 as liquidations reach $622M - TradingView"
   ]
 }
