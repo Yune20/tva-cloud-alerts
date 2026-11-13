@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794545525.356799,
+  "last_signals": 1794546135.2585661,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794539051.0414703,
+    "DXY|4H:top": 1794546136.8645165,
     "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794538436.9144,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794545515.543971,
-  "last_news": 1794545525.3559692,
+  "last_analysis": 1794546128.2104208,
+  "last_news": 1794546135.2576761,
   "seen_news": [
-    "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to in",
-    "Some under-25s should get fewer benefits, Milburn review to say",
-    "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
-    "Why is ADI Global Distribution stock crashing today?",
-    "How could Japan shake up the global markets?",
-    "C\u1ed5 phi\u1ebfu b\u1ea5t \u0111\u1ed9ng s\u1ea3n c\u1ee7a Ti\u1ebfn s\u0129 qu\u1ea3n tr\u1ecb kinh doanh T\u00f4 Nh\u01b0 To\u00e0n l\u1eadp \u0111\u1ec9nh m\u1edbi, ",
     "Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal",
     "Tim Cook for Nvidia CEO? Trump and the world ponder who\u2019s next",
     "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remain",
@@ -457,6 +451,12 @@
     "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle infl",
     "N\u1eef ca s\u0129 SN 1971 n\u00f3i v\u1ec1 cu\u1ed9c s\u1ed1ng c\u1ea3 \u1edf M\u1ef9 v\u00e0 Vi\u1ec7t Nam",
     "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
-    "Magnite Insiders Sold Shares Worth Over $2.1M - TradingView"
+    "Magnite Insiders Sold Shares Worth Over $2.1M - TradingView",
+    "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
+    "H\u00e0ng lo\u1ea1t th\u01b0\u01a1ng v\u1ee5 IPO \u0111\u01b0\u1ee3c k\u1ef3 v\u1ecdng \u2018bom t\u1ea5n\u2019 l\u00ean s\u00e0n l\u1ea1i khi\u1ebfn nh\u00e0 \u0111\u1ea7u t\u01b0 thua",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
+    "Kardigan 3Q 2026: EPS ($0.64) \u2014 10-Q Summary - TradingView",
+    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
+    "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor"
   ]
 }
