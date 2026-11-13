@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794571942.0880766,
+  "last_signals": 1794572510.9666255,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,19 +75,19 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -156,14 +156,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794572211.5716352,
-  "last_news": 1794571942.0873406,
+  "last_news": 1794572510.9659572,
   "seen_news": [
-    "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
-    "Ph\u00f2ng golf gi\u1ea3 l\u1eadp trong c\u0103n nh\u00e0 680 t\u1ef7 c\u1ee7a Harry Kane",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "Bank of America Sees Up to 95% Upside in 2 Stocks - TradingView",
-    "The bond market now has an even bigger fear than AI fallout",
-    "As Nvidia reels from Huang's affairs, who stands to gain?",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Nebius stock crashes 20% as $45 billion AI gamble raises fears - TradingView",
     "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
@@ -457,6 +451,12 @@
     "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions",
     "Ph\u00e1t minh m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i m\u1edbi l\u00e0m rung chuy\u1ec3n ng\u00e0nh v\u1eadn t\u1ea3i: Ch\u1ea1y ho\u00e0n t",
     "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
-    "Cider makers fear future for orchards as costs grow"
+    "Cider makers fear future for orchards as costs grow",
+    "Asian stocks steady as Nikkei gains 1.4%, Hang Seng slips on Nvidia leadership f",
+    "Th\u1ecb tr\u01b0\u1eddng M&A th\u00e1ng 10 g\u1ea7n 1 t\u1ef7 USD: Doanh nghi\u1ec7p c\u1ee7a 2 t\u1ef7 ph\u00fa Tr\u1ea7n \u0110\u00ecnh Long v",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Copper heads for weekly loss amid AI rout, strong dollar - TradingView",
+    "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
+    "Outlook outage continues as Microsoft flags 'encouraging recovery progress'"
   ]
 }
