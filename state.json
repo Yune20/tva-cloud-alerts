@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794532269.0005548,
+  "last_signals": 1794532874.0466077,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794531656.596223,
+    "DXY|4H:top": 1794532875.370388,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794532270.4001846,
+    "EUR/USD|4H:bot": 1794532875.1019025,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794532259.5204287,
-  "last_news": 1794532268.9998164,
+  "last_analysis": 1794532866.4202337,
+  "last_news": 1794532874.045783,
   "seen_news": [
-    "Irish Residential Properties REIT plc (IRES) Files Major Holdings Notification -",
-    "The bond market now has an even bigger fear than the AI fallout",
-    "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan",
-    "Civil servant who secretly held five jobs found guilty of fraud",
-    "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
-    "US to fund new research into psychedelic drug ibogaine for veterans with PTSD",
     "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote ",
     "Poundland unable to buy new stock as fears over collapse grow",
     "Global Power Grid Expansion Surges 50% to Record High",
@@ -456,6 +450,12 @@
     "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade de",
     "Microsoft struggling to restore service as global outage affects Outlook and Tea",
     "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
-    "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify"
+    "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify",
+    "Barclays sees oil risks skewed higher with Middle East flows still 15% below pre",
+    "6 d\u1ea5u hi\u1ec7u \u1edf b\u00e0n tay \u00e1m ch\u1ec9 m\u00e1u \u0111\u00e3 \"ng\u1eadp \u0111\u01b0\u1eddng\": Ti\u1ebfc l\u00e0 hi\u1ebfm ai \u0111\u1ec3 \u00fd!",
+    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
+    "GEMI Q3'26 Earnings: EPS estimate is (0.58) USD - TradingView",
+    "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central ",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch"
   ]
 }
