@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794534725.454078,
+  "last_signals": 1794535341.5827663,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794534726.9088607,
+    "DXY|4H:top": 1794535342.9727411,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794534726.6074173,
+    "EUR/USD|4H:bot": 1794535342.6723526,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794503072.744894,
     "JPY Index|1D:top": 1794503073.2673745,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1794534725.6212976,
+    "Gold|1D:bot": 1794535341.7385645,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794534717.6000497,
-  "last_news": 1794534725.4531708,
+  "last_analysis": 1794535333.7619889,
+  "last_news": 1794535341.5819983,
   "seen_news": [
-    "Endeavour Mining plunges after issuing production warning for Mana mine - Tradin",
-    "The S&P 500 is shrugging off Nvidia\u2019s selloff. Here\u2019s what\u2019s keeping the rest of",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on",
-    "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-    "EIA Data Shows Builds in Crude, Gasoline and Distillates",
-    "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
     "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
     "US inflation higher than expected in October - here's what is happening with pri",
     "Argentina Could Overtake Chile as South America\u2019s Top Lithium Producer by 2035",
@@ -457,6 +451,12 @@
     "Th\u00e0nh ph\u1ed1 l\u1edbn nh\u1ea5t Vi\u1ec7t Nam th\u00f4ng qua ch\u00ednh s\u00e1ch ch\u01b0a t\u1eebng c\u00f3, 73.000 ng\u01b0\u1eddi \u0111\u01b0\u1ee3c",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
-    "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan"
+    "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan",
+    "BLUEMARQ Group: 23 n\u0103m ki\u1ebfn t\u1ea1o v\u1ecb th\u1ebf - V\u01b0\u01a1n t\u1ea7m th\u1ebf gi\u1edbi",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Japan's finance minister vows action as yen breaches 160 threshold - TradingView",
+    "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means",
+    "Civil servant who secretly held five jobs found guilty of fraud",
+    "ByteDance plans $6bn buyback at $400 bln valuation- The Information"
   ]
 }
