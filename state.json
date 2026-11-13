@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794589312.8394804,
+  "last_signals": 1794589984.9503007,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794587713.858145,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -69,10 +69,10 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794589313.1741633,
+    "USOIL|4H:top": 1794589985.3835702,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
     "Bitcoin|4H:bot": 1794524773.7309785,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794589615.3263688,
-  "last_news": 1794589312.8385906,
+  "last_analysis": 1794589976.402482,
+  "last_news": 1794589984.9495628,
   "seen_news": [
-    "Barclays sees oil risks skewed higher with Middle East flows still 15% below pre",
-    "Sao n\u1eef Vbiz ai c\u0169ng bi\u1ebft m\u1eb7t t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi ch\u1ec9 50 kh\u00e1ch, c\u00f4 d\u00e2u xu\u1ea5t hi\u1ec7n c\u00f9ng",
-    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
-    "REG - Brown Advisory US - Portfolio Update - TradingView",
-    "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-    "Heat pumps: How much heat does your home really need?",
     "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
     "Key facts: Revenue up 31%; Token Factory launch; two patents allowed - TradingVi",
     "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep",
@@ -457,6 +451,12 @@
     "REG - Workspace Grp PLC - Holding(s) in Company - TradingView",
     "SpaceX is about to attempt the \u2018holy grail\u2019 of rocketry",
     "Microsoft says email delivery and service availability 'improving' across more i",
-    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?"
+    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "Form 8.3 - The Vanguard Group, Inc.: Vesuvius plc - TradingView",
+    "How low does Nvidia\u2019s stock need to go before it\u2019s a screaming bargain?",
+    "Why the data center slowdown concern is overblown. Two stocks to buy amid the fe",
+    "How video game remakes tap the power of nostalgia",
+    "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+    "Sterling today: Pound steady as hawkish Fed keeps dollar bid"
   ]
 }
