@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794543061.866608,
+  "last_signals": 1794543676.7115486,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,13 +78,13 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794543050.3325465,
-  "last_news": 1794543058.8584058,
+  "last_analysis": 1794543666.6933663,
+  "last_news": 1794543676.7106977,
   "seen_news": [
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Sygnum Launches ETH Alpha Fund Targeting 8%-10% Annual Returns - TradingView",
-    "The prostate-cancer screening rules just changed. Here\u2019s when men should get tes",
-    "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smit",
-    "The superpower battle over energy \u2013 and what it means for your bills",
-    "Central Asia\u2019s B20 Message to Washington: Let\u2019s Make Deals",
     "Why is Air Canada stock sliding today?",
     "Oil prices rise after Iran reports strikes",
     "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn tr\u01a1n s\u00e1ng 13/11 t\u1ea1i SJC, DOJI, PNJ, B\u1ea3o T\u00edn Minh Ch\u00e2u",
@@ -457,6 +451,12 @@
     "Bitcoin dipped under $70K, first time since August",
     "\u0110o l\u01b0\u1eddng ch\u00ednh x\u00e1c \u0111\u1ec3 d\u00e2n tr\u1ea3 \u0111\u00fang ti\u1ec1n \u0111i\u1ec7n, n\u01b0\u1edbc, x\u0103ng, d\u1ea7u \u0111\u00e3 s\u1eed d\u1ee5ng",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
-    "US oil to retest resistance at $89.33 - TradingView"
+    "US oil to retest resistance at $89.33 - TradingView",
+    "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
+    "Ph\u00f2ng golf gi\u1ea3 l\u1eadp trong c\u0103n nh\u00e0 680 t\u1ef7 c\u1ee7a Harry Kane",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
+    "Bank of America Sees Up to 95% Upside in 2 Stocks - TradingView",
+    "The bond market now has an even bigger fear than AI fallout",
+    "As Nvidia reels from Huang's affairs, who stands to gain?"
   ]
 }
