@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794594153.897283,
+  "last_signals": 1794594766.351502,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794590346.9266686,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794595027,
@@ -133,10 +133,10 @@
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794465692.7822976,
-    "USD/JPY|1D:top": 1794594155.1747622,
-    "JPY Index|1D:top": 1794594155.4708273,
+    "USD/JPY|1D:top": 1794594767.6058939,
+    "JPY Index|1D:top": 1794594767.8787732,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794594154.086776,
+    "Gold|1D:bot": 1794594766.5189054,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794594145.3034163,
-  "last_news": 1794594153.8964329,
+  "last_analysis": 1794594756.1395905,
+  "last_news": 1794594766.3506794,
   "seen_news": [
-    "LUMO PRO Plus Hai Yen Eye Care: B\u01b0\u1edbc ti\u1ebfn c\u00f4ng ngh\u1ec7 trong ph\u1eabu thu\u1eadt x\u00f3a c\u1eadn hi\u1ec7",
-    "STB: Ng\u00e2n h\u00e0ng TMCP S\u00e0i G\u00f2n T\u00e0i L\u1ed9c - SACOMBANK - VietstockFinance",
-    "Interactive Brokers gives European clients access to Anthropic IPO - TradingView",
-    "Investors are underestimating AI. But the real challenge is diversification, thi",
-    "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to tes",
-    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
     "Crude oil jumps as escalation risks increase after Trump says the US doesn't nee",
     "C\u00f4ng an \u0111i\u1ec1u tra lo\u1ea1t giao d\u1ecbch chuy\u1ec3n ti\u1ec1n 5.000.000 - 10.000.000 \u0111\u1ed3ng v\u1edbi n\u1ed9i ",
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
@@ -457,6 +451,12 @@
     "Nvidia approached Arm CEO Haas to succeed Huang, FT reports - TradingView",
     "The common theme driving stocks lower \u2014 plus, 3 trades and another we want to ma",
     "US inflation higher than expected in October - here's what is happening with pri",
-    "Nvidia-led tech sell-off drags Wall Street lower despite inflation relief"
+    "Nvidia-led tech sell-off drags Wall Street lower despite inflation relief",
+    "Dragon Capital: Ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam ch\u01b0a ph\u1ea3n \u00e1nh \u0111\u1ea7y \u0111\u1ee7 tri\u1ec3n v\u1ecdng \u0111\u1ea3o chi\u1ec1u l",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "AstraZeneca Reportedly Eliminates 600 US Sales Positions To Fund Pipeline - Trad",
+    "The epic $29 trillion battle for Social Security has begun",
+    "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal ",
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati"
   ]
 }
