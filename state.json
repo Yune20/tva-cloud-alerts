@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794609165.878015,
+  "last_signals": 1794609772.0133774,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -46,7 +46,7 @@
     "5575146754|Gold|4H|dn": 1794498938.4645984,
     "5575146754|Gold|4H|trap_dn": 1794515149.2756495,
     "5575146754|Gold|1D|tbot": 1794586758.6549637,
-    "5575146754|Gold|1D|dbot": 1794587713.858145
+    "5575146754|Gold|1D|dbot": 1794609772.0133774
   },
   "sig_range": {
     "Gold": true,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -133,10 +133,10 @@
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794465692.7822976,
-    "USD/JPY|1D:top": 1794609169.6230497,
-    "JPY Index|1D:top": 1794609170.4220276,
+    "USD/JPY|1D:top": 1794609774.4146528,
+    "JPY Index|1D:top": 1794609774.9668798,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794609166.4159007,
+    "Gold|1D:bot": 1794609772.3053734,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -156,14 +156,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794609474.8082652,
-  "last_news": 1794609165.8759294,
+  "last_news": 1794609772.0125322,
   "seen_news": [
-    "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of",
-    "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases ",
-    "Why is the Microsoft outage lasting so long?",
-    "Why is Owlet stock plummeting today?",
-    "Xlence prepares for Anthropic\u2019s anticipated IPO",
-    "C\u00f4 g\u00e1i ch\u1ec9 cao h\u01a1n 1m5 nh\u01b0ng \u0111\u1eb9p nh\u1ea5t n\u01b0\u1edbc, c\u01b0\u1edbi CEO t\u1eadp \u0111o\u00e0n t\u00e0i ch\u00ednh h\u00e0ng \u0111\u1ea7u",
     "Trading Sphere eyes Anthropic IPO with plans for day-one CFD trading",
     "Kh\u1edfi t\u1ed1 di\u1ec5n vi\u00ean T\u1ea5n Bo, Ho\u00e0ng M\u00e8o c\u00f9ng nhi\u1ec1u ng\u01b0\u1eddi trong v\u1ee5 Hi\u1ec7p '\u0111en'",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
@@ -457,6 +451,12 @@
     "Hackers stole $6.3 billion from Binance\u20142 habits that take 'a few seconds' can h",
     "Burnham says 'win-win' deal can be agreed between UK and EU",
     "Exclusive-Investors flock to Anthropic IPO but question durability of AI lead",
-    "Germany October wholesale price index +0.4% vs +1.9% m/m prior"
+    "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
+    "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled",
+    "FAA grounds departing flights nationwide, citing air traffic communication syste",
+    "The tech helping crack decades-old cold cases",
+    "Exclusive-Brookfield, CPPIB consortium enters next round in Uniper sales process",
+    "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariff",
+    "V\u00ec sao n\u00ean \u0111\u1eb7t 1 chi\u1ebfc th\u00eca inox tr\u00ean b\u1ec7 c\u1eeda s\u1ed5 v\u00e0o m\u00f9a \u0111\u00f4ng? L\u00fd do \u00edt ai ng\u1edd t\u1edb"
   ]
 }
