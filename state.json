@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794540277.32984,
+  "last_signals": 1794540890.7208407,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794540269.6175761,
-  "last_news": 1794540277.3290658,
+  "last_analysis": 1794540882.2821972,
+  "last_news": 1794540890.7199638,
   "seen_news": [
-    "Gold Stocks Dip: What's Going On? - TradingView",
-    "Nvidia\u2019s stock selloff may be just beginning, even after shedding 30% from its p",
-    "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-    "The engine parts that 'fight the laws of the universe'",
-    "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resign",
-    "Fed's Daly: How much tightening and when is no a decision for right now",
     "As credit card balances hit a record high, medical bills can become 'shadow debt",
     "Graduates are managing AI - but are they learning much else?",
     "Nvidia and Alibaba among market cap stock movers on Thursday",
@@ -457,6 +451,12 @@
     "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
     "Japanese yen tests 160 again, drawing intervention threats",
     "Anthropic IPO six times oversubscribed: what retail investors can realistically ",
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t m\u00e1y bay l\u1ea1 h\u1ea1 c\u00e1nh s\u00e2n bay T\u00e2n S\u01a1n Nh\u1ea5t, r\u1eddi \u0111i ngay sau h\u01a1n 1 gi\u1edd"
+    "Ph\u00e1t hi\u1ec7n m\u1ed9t m\u00e1y bay l\u1ea1 h\u1ea1 c\u00e1nh s\u00e2n bay T\u00e2n S\u01a1n Nh\u1ea5t, r\u1eddi \u0111i ngay sau h\u01a1n 1 gi\u1edd",
+    "I took Vinted to court to get my money back",
+    "Singapore charges fifth person in Nvidia chip probe, Straits Times reports",
+    "Airlines face higher fuel bills as pre-war hedges expire and jet fuel holds near",
+    "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng b\u1ecf ti\u1ec1n l\u00e0m m\u1ed9t vi\u1ec7c \u0111\u1eb7c bi\u1ec7t \u00fd ngh\u0129a v\u1edbi \u0110\u1ea1i h\u1ecdc B\u00e1ch kh",
+    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "ALLR Q3'26 Earnings: EPS estimate is (0.21) USD - TradingView"
   ]
 }
