@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794575354.9926326,
-  "last_bot4": 1794577602.4998982,
+  "last_bot4": 1794578232.463479,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794577896.1654346,
+  "last_signals": 1794578232.464412,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794577287.9375644,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794568143.9804816,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794577897.8235986,
+    "DXY|4H:top": 1794578234.3583078,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794577897.5020406,
+    "EUR/USD|4H:bot": 1794578233.9786756,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794577897.329767,
+    "GBP/USD|4H:bot": 1794578233.7888741,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794577599.4958496,
-  "last_news": 1794577896.164583,
+  "last_analysis": 1794578222.6818266,
+  "last_news": 1794578232.4622214,
   "seen_news": [
-    "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "Adaspace Begins Trading at HK$24.90 IPO Price - TradingView",
-    "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "Dollar near 19-mth high on rate hike bets; yen back on intervention watch",
-    "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts wit",
     "Why Singapore keeps turning up in the fight over Nvidia chips and China",
     "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
     "Treasury yields hold near 2-week highs as traders await next signal",
@@ -457,6 +451,12 @@
     "B\u00e9 g\u00e1i 13 tu\u1ed5i ph\u00e1t hi\u1ec7n ung th\u01b0 d\u1ea1 d\u00e0y di c\u0103n nhi\u1ec1u n\u01a1i, b\u00e1c s\u0129 tr\u00e1ch ba m\u1eb9: \"T",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "Enblue hands over 2-MW energy storage facility to NAMIJU - TradingView",
-    "Midterm elections provided the hyperscalers with the excuse they needed to cut b"
+    "Midterm elections provided the hyperscalers with the excuse they needed to cut b",
+    "Airlines face higher fuel bills as pre-war hedges expire and jet fuel holds near",
+    "BIDV v\u1eeba gi\u1ea3m l\u00e3i su\u1ea5t ti\u1ebft ki\u1ec7m: K\u1ef3 h\u1ea1n n\u00e0o c\u00f3 l\u00e3i su\u1ea5t cao nh\u1ea5t?",
+    "S\u1ee9c m\u1ea1nh gi\u00e1 RRG - T\u00ecm m\u00e3 c\u1ed5 phi\u1ebfu, ng\u00e0nh v\u01b0\u1ee3t tr\u1ed9i - VietstockFinance",
+    "Northern Graphite Corporation (NGC) Settles $23.6M Debt With 12.5M Shares - Trad",
+    "Microsoft Outlook outage stretches into a second day. What to know.",
+    "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest "
   ]
 }
