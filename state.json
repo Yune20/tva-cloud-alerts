@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794564413.6484857,
-  "last_bot4": 1794570276.7763412,
+  "last_bot4": 1794570900.6727324,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794570570.5460737,
+  "last_signals": 1794570900.6734886,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794565353.640865,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794570571.6593168,
+    "EUR/USD|4H:bot": 1794570901.7709525,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794570571.5162802,
+    "GBP/USD|4H:bot": 1794570901.6059813,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794570273.7636838,
-  "last_news": 1794570570.5454137,
+  "last_analysis": 1794570890.235868,
+  "last_news": 1794570900.6718047,
   "seen_news": [
-    "Wacker Neuson Q3 Earnings Call Highlights - TradingView",
-    "Unions helped Democrats win big in 2026. Now they want action",
-    "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
-    "Asia FX: yen intervention in focus as rate hike bets put dollar near 19-mth high",
-    "US 30-year bond auction tails as demand disappoints for second straight day",
-    "3 con gi\u00e1p nh\u1eadn tin vui trong ng\u00e0y th\u1ee9 S\u00e1u, 13/11/2026",
     "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affai",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "Why is Samsonite stock surging today?",
@@ -457,6 +451,12 @@
     "Chainstack Traces Customer Data Breach to Exposed Admin Tools - TradingView",
     "Profit surprises are normalizing \u2014 and that may signal a healthier stock market,",
     "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-    "I took Vinted to court to get my money back"
+    "I took Vinted to court to get my money back",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
+    "Hudson Pacific Properties Director Purchased Shares Worth Over $680K - TradingVi",
+    "Donald Trump Jr. exits advisory role at Kalshi prediction market",
+    "Why are more roofs not made of solar tiles?",
+    "Asian Refiners Turn Back to Gulf Oil Despite War Risks",
+    "Premarket movers: Modine surges; Cerebras jumps on Microsoft deal"
   ]
 }
