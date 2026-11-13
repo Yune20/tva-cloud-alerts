@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794575354.9926326,
-  "last_bot4": 1794575059.1683283,
+  "last_bot4": 1794575732.409093,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794574385.2961628
+    "Gold": 1794575732.4090016
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794575059.168892,
+  "last_signals": 1794575732.4099405,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,14 +63,14 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -78,13 +78,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794568143.9804816,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794565353.640865,
+    "DXY|4H:top": 1794575733.7125635,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794573455.0246496,
+    "EUR/USD|4H:bot": 1794575733.4431212,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794575060.3190398,
+    "GBP/USD|4H:bot": 1794575733.270675,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794575051.8824215,
-  "last_news": 1794575059.16745,
+  "last_analysis": 1794575721.0483878,
+  "last_news": 1794575728.7167094,
   "seen_news": [
-    "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying d",
-    "The engine parts that 'fight the laws of the universe'",
-    "Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal",
-    "Why is Semiconductor Manufacturing International stock surging today?",
-    "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
-    "Kh\u00f4ng ghi n\u1ed9i dung chuy\u1ec3n kho\u1ea3n v\u1eabn kh\u00f4ng th\u1ec3 qua m\u1eaft c\u01a1 quan thu\u1ebf, c\u1ed1 t\u00ecnh gi\u1ea5u",
     "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra, ph\u1ed1i h\u1ee3p d\u1eebng giao d\u1ecbch chuy\u1ec3n kho\u1ea3n c\u1ee7a ng\u01b0\u1eddi d\u00e2n trong tr",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "Gold rises on bargain hunting but heads for weekly decline - TradingView",
@@ -457,6 +451,12 @@
     "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
     "EmbedIT v\u00e0 VNFITE: Chu\u1ea9n h\u00f3a n\u0103ng l\u1ef1c v\u1eadn h\u00e0nh l\u00e0m n\u1ec1n t\u1ea3ng t\u0103ng tr\u01b0\u1edfng d\u00e0i h\u1ea1n",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
-    "Kardigan 3Q 2026: EPS ($0.64) \u2014 10-Q Summary - TradingView"
+    "Kardigan 3Q 2026: EPS ($0.64) \u2014 10-Q Summary - TradingView",
+    "V\u00ec sao nhi\u1ec1u gia \u0111\u00ecnh quay l\u1ea1i d\u00f9ng m\u1ee1 l\u1ee3n? H\u00f3a ra c\u00f3 5 l\u00fd do \u0111\u00e1ng \u0111\u1ec3 c\u00e2n nh\u1eafc",
+    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
+    "Nasdaq futures subdued as Nvidia upheaval roils AI trade - TradingView",
+    "The science of vaccines is rapidly advancing \u2014 despite the anti-vax movement",
+    "Outlook outage continues as Microsoft flags 'encouraging recovery signals'",
+    "Some under-25s should get fewer benefits, Milburn review to say"
   ]
 }
