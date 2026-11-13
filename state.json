@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794538434.8099499,
+  "last_signals": 1794539048.661669,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,10 +75,10 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794538437.4636407,
+    "DXY|4H:top": 1794539051.0414703,
     "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794538436.9144,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794538426.3472307,
-  "last_news": 1794538434.8090408,
+  "last_analysis": 1794539040.810324,
+  "last_news": 1794539048.660892,
   "seen_news": [
-    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
-    "The US dollar moves higher as Treasury yields extend their gains",
-    "Ng\u00e0y 13/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 6 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacom",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
-    "Mandatory notification of trades - Primary insider - TradingView",
     "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
     "Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share de",
     "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the cry",
@@ -457,6 +451,12 @@
     "PBOC sets USD/ CNY reference rate for today at 6.7152 (vs. estimate at 6.6756)",
     "Gi\u00e1 v\u00e0ng lao d\u1ed1c 2,9%, th\u1ee7ng m\u1ed1c 3.900 USD/ounce, ch\u1ea1m \u0111\u00e1y h\u01a1n 1 n\u0103m khi th\u1ecb tr\u01b0",
     "VHC: CTCP V\u0129nh Ho\u00e0n - VINHHOAN CORP - VietstockFinance",
-    "Renegade Gold launches private placement offering - TradingView"
+    "Renegade Gold launches private placement offering - TradingView",
+    "Iran\u2019s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil tr",
+    "CEO Nvidia Jensen Huang m\u1ea5t bao nhi\u00eau ti\u1ec1n sau b\u00ea b\u1ed1i ngo\u1ea1i t\u00ecnh?",
+    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
+    "Keurig Dr Pepper Announces Pricing of Public Offering of Common Stock - TradingV",
+    "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
+    "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'"
   ]
 }
