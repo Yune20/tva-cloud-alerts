@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794534105.0344567,
+  "last_signals": 1794534725.454078,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794534107.662106,
+    "DXY|4H:top": 1794534726.9088607,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794534107.0682728,
+    "EUR/USD|4H:bot": 1794534726.6074173,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794503072.744894,
     "JPY Index|1D:top": 1794503073.2673745,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1794534105.3004625,
+    "Gold|1D:bot": 1794534725.6212976,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794534096.740593,
-  "last_news": 1794534105.0335674,
+  "last_analysis": 1794534717.6000497,
+  "last_news": 1794534725.4531708,
   "seen_news": [
-    "Doanh nghi\u1ec7p v\u1eeba thay d\u00e0n l\u00e3nh \u0111\u1ea1o c\u1ea5p cao, c\u1ed5 phi\u1ebfu b\u1ea5t ng\u1edd \u201cc\u00f3 bi\u1ebfn\u201d",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Financial News & Top Stories \u2014 Market Analysis - TradingView",
-    "The scandal at Nvidia is exactly what\u2019s wrong with the S&P 500",
-    "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means",
-    "Qantas to outsource 850 local jobs with most roles moving to India",
     "Endeavour Mining plunges after issuing production warning for Mana mine - Tradin",
     "The S&P 500 is shrugging off Nvidia\u2019s selloff. Here\u2019s what\u2019s keeping the rest of",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on",
@@ -457,6 +451,12 @@
     "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche say",
     "PBOC is expected to set the USD/CNY reference rate at 6.6756 \u2013 Reuters estimate",
     "Ng\u01b0\u1eddi d\u00e2n c\u00f3 VNeID ch\u00fa \u00fd  th\u00f4ng  b\u00e1o t\u1eeb c\u00f4ng an",
-    "EIB: Ng\u00e2n h\u00e0ng TMCP Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam - EXIMBANK - VietstockFinance"
+    "EIB: Ng\u00e2n h\u00e0ng TMCP Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam - EXIMBANK - VietstockFinance",
+    "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+    "Crude oil futures trying to keep a technical ceiling in place.",
+    "Th\u00e0nh ph\u1ed1 l\u1edbn nh\u1ea5t Vi\u1ec7t Nam th\u00f4ng qua ch\u00ednh s\u00e1ch ch\u01b0a t\u1eebng c\u00f3, 73.000 ng\u01b0\u1eddi \u0111\u01b0\u1ee3c",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
+    "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan"
   ]
 }
