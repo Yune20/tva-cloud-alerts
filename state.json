@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794564413.6484857,
-  "last_bot4": 1794570900.6727324,
+  "last_bot4": 1794571534.4300132,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794570276.7762077
+    "Gold": 1794571534.4298937
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794570900.6734886,
+  "last_signals": 1794571534.430764,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794565353.640865,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794570901.7709525,
+    "EUR/USD|4H:bot": 1794571535.5141475,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794570901.6059813,
+    "GBP/USD|4H:bot": 1794571535.3697014,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794571206.0209668,
-  "last_news": 1794570900.6718047,
+  "last_analysis": 1794571521.465785,
+  "last_news": 1794571530.3861063,
   "seen_news": [
-    "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affai",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "Why is Samsonite stock surging today?",
-    "Asian stocks steady as Nikkei gains 1.4%, Hang Seng slips on Nvidia leadership f",
-    "Binance th\u00f4ng b\u00e1o ho\u00e0n t\u1ea5t b\u00f9 \u0111\u1eafp h\u01a1n 6 t\u1ef7 USD b\u1ecb \u0111\u00e1nh c\u1eafp",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
     "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
     "Bitcoin dipped under $70K, first time since August",
@@ -457,6 +451,12 @@
     "Donald Trump Jr. exits advisory role at Kalshi prediction market",
     "Why are more roofs not made of solar tiles?",
     "Asian Refiners Turn Back to Gulf Oil Despite War Risks",
-    "Premarket movers: Modine surges; Cerebras jumps on Microsoft deal"
+    "Premarket movers: Modine surges; Cerebras jumps on Microsoft deal",
+    "Politicians back focus on cost of living",
+    "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
+    "Why is Floor & Decor stock sliding today?",
+    "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tig",
+    "Ph\u00e1t hi\u1ec7n 3 s\u1ed5 ti\u1ebft ki\u1ec7m 3 t\u1ef7 \u0111\u1ed3ng, 1 mi\u1ebfng v\u00e0ng PNJ... b\u1ecf l\u1ea1i tr\u00ean chuy\u1ebfn t\u00e0u t",
+    "B\u00e1o c\u00e1o kinh t\u1ebf v\u0129 m\u00f4 th\u00e1ng 10 v\u00e0 m\u01b0\u1eddi th\u00e1ng \u0111\u1ea7u n\u0103m 2026 - VietstockFinance"
   ]
 }
