@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794592929.631743,
+  "last_signals": 1794593535.2065024,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794590346.9266686,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -133,10 +133,10 @@
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794465692.7822976,
-    "USD/JPY|1D:top": 1794583603.5868835,
-    "JPY Index|1D:top": 1794583604.223653,
+    "USD/JPY|1D:top": 1794593536.6665876,
+    "JPY Index|1D:top": 1794593537.0933993,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794592929.8815842,
+    "Gold|1D:bot": 1794593535.350274,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794592918.6204963,
-  "last_news": 1794592929.6298192,
+  "last_analysis": 1794593525.567887,
+  "last_news": 1794593535.201675,
   "seen_news": [
-    "US inflation higher than expected in October - here's what is happening with pri",
-    "Argentina Could Overtake Chile as South America\u2019s Top Lithium Producer by 2035",
-    "Dollar bulls stampede to best week Since Sept; Yen teeters near 160",
-    "The macro backdrop remains negative for Ethereum as Trump's Iran remarks fuel re",
-    "Mua 2 t\u1edd v\u00e9 s\u1ed1 355.000 \u0111\u1ed3ng, c\u1eb7p v\u1ee3 ch\u1ed3ng tr\u00fang 2 gi\u1ea3i \u0111\u1ed9c \u0111\u1eafc 35,5 t\u1ef7 \u0111\u1ed3ng",
-    "VJC: CTCP H\u00e0ng kh\u00f4ng Vietjet - VIETJET., JSC - VietstockFinance",
     "BTCUSD: Bitcoin Sinks to $67,500, Breaks Rising Channel as Liquidations Surge - ",
     "Widespread Microsoft outage continues, taking down Outlook and other 365 service",
     "How a civil servant got away with juggling five jobs for so long",
@@ -457,6 +451,12 @@
     "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
     "Morgan Stanley MUFG upgrades Japan Focus List with AI and insurance plays",
     "US October federal budget deficit sets a record",
-    "Vi\u1ec7t Nam s\u1eafp c\u00f3 si\u00eau d\u1ef1 \u00e1n cao t\u1ed1c h\u01a1n 63.000 t\u1ef7 \u0111\u1ed3ng: D\u00e0i g\u1ea7n 180 km, ph\u1ea3i v\u01b0\u1ee3t"
+    "Vi\u1ec7t Nam s\u1eafp c\u00f3 si\u00eau d\u1ef1 \u00e1n cao t\u1ed1c h\u01a1n 63.000 t\u1ef7 \u0111\u1ed3ng: D\u00e0i g\u1ea7n 180 km, ph\u1ea3i v\u01b0\u1ee3t",
+    "U.S. Oil Rigs Hold at 463 as Crude Output Hits Another Record",
+    "Wall St slides as Nvidia overhang weighs on tech",
+    "Fed's Daly: In all likelihood, we need to raise rates",
+    "Th\u1ebf gi\u1edbi loay hoay ki\u1ebfm x\u0103ng d\u1ea7u sau xung \u0111\u1ed9t Trung \u0110\u00f4ng, Vi\u1ec7t Nam gi\u1ea3i b\u00e0i to\u00e1n",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "StoneX sees attractive risk-reward in Deckers, starts at buy - TradingView"
   ]
 }
