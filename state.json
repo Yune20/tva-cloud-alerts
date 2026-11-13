@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794549217.4159815,
+  "last_signals": 1794549832.0520864,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -120,8 +120,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794549218.6118898,
-    "JPY Index|4H:top": 1794549218.8879855,
+    "USD/JPY|4H:top": 1794549835.0863762,
+    "JPY Index|4H:top": 1794549835.7946644,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794546136.8645165,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794494766.0964973,
+    "GBP/USD|4H:bot": 1794549834.3809376,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794549210.4985847,
-  "last_news": 1794549217.4152446,
+  "last_analysis": 1794549823.8519607,
+  "last_news": 1794549832.0512583,
   "seen_news": [
-    "How IPOs work: The process of bringing a company to the stock market",
-    "Jollibee x\u00e1c nh\u1eadn th\u01b0\u01a1ng v\u1ee5 b\u00e1n 11% Highlands Coffee gi\u00e1 2.300 t\u1ef7 \u0111\u1ed3ng v\u1eabn ch\u01b0a ",
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
-    "What Is Going on With Micron Stock on Thursday? - TradingView",
-    "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
     "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft ",
     "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
     "Turkey Agrees to Record $1.6 Billion Climate Policy Funding Deal",
@@ -457,6 +451,12 @@
     "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping t",
     "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank we",
     "How video game remakes tap the power of nostalgia",
-    "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks"
+    "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
+    "Nvidia on track for longest weekly losing streak since 2012 as market value sink",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
+    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
+    "US October federal budget deficit sets a record",
+    "Vi\u1ec7t Nam \u0111\u00f3n m\u1ed9t tin c\u1ef1c vui t\u1eeb M\u1ef9"
   ]
 }
