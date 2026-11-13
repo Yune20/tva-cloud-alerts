@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794520453.288585,
-  "last_bot4": 1794528840.3573947,
+  "last_bot4": 1794529510.948969,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794528177.3990273
+    "Gold": 1794529510.9488816
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794528840.3580935,
+  "last_signals": 1794529510.9905264,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794486641.0615273,
+    "5575146754|Gold|1H|range_in": 1794529510.9905264,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794496067.3385115,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794478160.5279949,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794477540.4083784,
+    "EUR/USD|4H:bot": 1794529512.0344317,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -154,15 +154,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794528831.6739476,
-  "last_news": 1794528840.3565204,
+  "last_analysis": 1794529498.53397,
+  "last_news": 1794529507.959582,
   "seen_news": [
-    "Ph\u00e1t hi\u1ec7n c\u00f4ng ty Vi\u1ec7t Nam ch\u1ebf t\u1ea1o c\u1ed7 m\u00e1y kh\u1ed5ng l\u1ed3 n\u1eb7ng 435 t\u1ea5n cho t\u1eadp \u0111o\u00e0n th\u00e9",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
-    "After Nvidia, what's next for Jensen Huang? Prediction markets weigh in - Tradin",
-    "Nvidia is spending more than ever on Washington lobbying. It may not stop Congre",
-    "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
     "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-tim",
     "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
@@ -456,6 +450,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - T\u0103ng tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c kh\u1edfi s\u1eafc v\u00e0o giai \u0111o\u1ea1n cu\u1ed1i ",
     "What Siemens Aktiengesellschaft (SIE) Said on Its Q4 Earnings Call - TradingView",
     "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huan",
-    "Living with a stink? Technology might help"
+    "Living with a stink? Technology might help",
+    "Lument Finance Trust Reports Third Quarter 2026 Results - TradingView",
+    "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes thi",
+    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
+    "US October existing home sales 3.75m vs 3.85m expected",
+    "Ng\u01b0\u1eddi d\u00e2n th\u00eam l\u1ef1a ch\u1ecdn di chuy\u1ec3n khi kh\u00f4ng b\u1eaft bu\u1ed9c chuy\u1ec3n sang xe thu\u1ea7n \u0111i\u1ec7n"
   ]
 }
