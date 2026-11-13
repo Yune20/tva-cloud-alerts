@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794590346.9266686,
+  "last_signals": 1794590697.3452163,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794590346.9266686,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -72,7 +72,7 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794590347.2313793,
+    "USOIL|4H:top": 1794590697.7493615,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
     "Bitcoin|4H:bot": 1794524773.7309785,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794583603.5868835,
     "JPY Index|1D:top": 1794583604.223653,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794590347.0823097,
+    "Gold|1D:bot": 1794590697.5203393,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794590332.9376595,
-  "last_news": 1794590346.9251285,
+  "last_analysis": 1794590685.5071867,
+  "last_news": 1794590697.3440917,
   "seen_news": [
-    "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote ",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
-    "Barclays backs Euronext on bond growth, turns cautious on Deutsche Boerse",
-    "Fed\u2019s Williams says inflation stubbornly high and Fed still has work to do on po",
-    "T\u1ef1 doanh CTCK mua r\u00f2ng h\u00e0ng tr\u0103m t\u1ef7 phi\u00ean cu\u1ed1i tu\u1ea7n, c\u1ed5 phi\u1ebfu n\u00e0o \u0111\u01b0\u1ee3c \"gom\" m\u1ea1n",
     "B\u00ea b\u1ed1i ch\u01b0a ngu\u1ed9i, v\u00e1y h\u1ed3ng c\u1ee7a Alice Huang \u0111\u00e3 l\u00ean \u201chot trend\u201d Taobao: \u201cKinh t\u1ebf ",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
@@ -457,6 +451,12 @@
     "Women are taking pay cuts and 'white-knuckling it' to manage menopause and work:",
     "Why is Microsoft's outage lasting so long and will emails be lost?",
     "Arm\u2019s Haas approached by Nvidia board as part of CEO search, FT reports",
-    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer me"
+    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer me",
+    "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep",
+    "Heat pumps: How much heat does your home really need?",
+    "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
+    "US FTC sues to block Cencora\u2019s $3.5 billion sale of veterinary unit to Covetrus",
+    "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal ",
+    "Vi\u1ec7t Nam c\u00f3 ng\u00f4i l\u00e0ng g\u1ea7n 1.000 n\u0103m tu\u1ed5i v\u1eeba \u0111\u01b0\u1ee3c th\u1ebf gi\u1edbi c\u00f4ng nh\u1eadn: T\u1ecda l\u1ea1c t\u1ea1"
   ]
 }
