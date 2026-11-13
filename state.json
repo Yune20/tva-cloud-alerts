@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794564413.6484857,
-  "last_bot4": 1794574385.296267,
+  "last_bot4": 1794575059.1683283,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794574678.7438471,
+  "last_signals": 1794575059.168892,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -75,7 +75,7 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794573454.800141,
+    "GBP/USD|4H:bot": 1794575060.3190398,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794574382.2049499,
-  "last_news": 1794574678.743235,
+  "last_analysis": 1794575051.8824215,
+  "last_news": 1794575059.16745,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "What Altimmune (ALT) Said on Its Q3 Earnings Call - TradingView",
-    "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to in",
-    "Some under-25s should get fewer benefits, Milburn review to say",
-    "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
-    "Singapore says US offered limited help in its probe of AI chip deals",
     "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying d",
     "The engine parts that 'fight the laws of the universe'",
     "Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal",
@@ -457,6 +451,12 @@
     "Lo\u1ea1i h\u1ea1t \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"ng\u1ecdc tr\u1eddi ban\" \u0111ang v\u00e0o m\u00f9a, g\u1eafn v\u1edbi c\u00f4ng d\u1ee5ng d\u01b0\u1ee1ng t\u00e2m, ",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "AF Gruppen Q3 2026 Earnings Call Is Live - TradingView",
-    "What's ahead for AI financing after Nvidia CEO Jensen Huang departs"
+    "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+    "Why Falling Oil Prices Won't Save America From Inflation",
+    "Why is Vir Biotechnology stock tumbling today?",
+    "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
+    "EmbedIT v\u00e0 VNFITE: Chu\u1ea9n h\u00f3a n\u0103ng l\u1ef1c v\u1eadn h\u00e0nh l\u00e0m n\u1ec1n t\u1ea3ng t\u0103ng tr\u01b0\u1edfng d\u00e0i h\u1ea1n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Ho\u1ea1t \u0111\u1ed9ng c\u1ed5 ph\u1ea7n h\u00f3a tho\u00e1i v\u1ed1n doanh nghi\u1ec7p Nh\u00e0 n\u01b0\u1edbc giai \u0111o\u1ea1n 2",
+    "Kardigan 3Q 2026: EPS ($0.64) \u2014 10-Q Summary - TradingView"
   ]
 }
