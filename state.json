@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794585199.8004606,
+  "last_signals": 1794585803.229449,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794580087.1984932,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -72,7 +72,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -156,14 +156,8 @@
     "US30|1D:bot": 1793994574.9259112
   },
   "last_analysis": 1794585505.0429904,
-  "last_news": 1794585197.3562522,
+  "last_news": 1794585803.2287836,
   "seen_news": [
-    "REG - Auction Technology - Publication of Circular - TradingView",
-    "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft ",
-    "UK economy grows at fastest rate for more than two years",
-    "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-    "Dollar extends surge on raised Fed rate hike expectations, hits over 19-month hi",
-    "What are the main events for today?",
     "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidi",
     "The grads ditching the UK for a fresh start abroad",
     "FTSE 100 today: Stocks edge lower as Iran, Ukraine uncertainty weigh",
@@ -457,6 +451,12 @@
     "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
     "Public funds ploughing cash into AI will \u2019own\u2019 megatrends shaping economy",
     "France October inflation accelerates as energy prices surge, keeping ECB rate hi",
-    "Jensen Huang r\u1eddi Nvidia: Ng\u01b0\u1eddi c\u0169 lo kh\u00f4ng ai thay \u0111\u01b0\u1ee3c, ng\u01b0\u1eddi \u1edf l\u1ea1i n\u00f3i l\u1eddi c\u1ea3m"
+    "Jensen Huang r\u1eddi Nvidia: Ng\u01b0\u1eddi c\u0169 lo kh\u00f4ng ai thay \u0111\u01b0\u1ee3c, ng\u01b0\u1eddi \u1edf l\u1ea1i n\u00f3i l\u1eddi c\u1ea3m",
+    "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were f",
+    "NHL\u2019s next TV deal will test the league\u2019s strength while media companies prepare",
+    "Poundland gets more time to secure a rescue deal as emergency talks continue",
+    "Anthropic IPO shuts out Chinese investors amid US-China tensions",
+    "FX option expiries for 13 November 10am New York cut",
+    "Ba c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng b\u1ee9t t\u1ed1c tr\u00ean c\u00f4ng tr\u01b0\u1eddng"
   ]
 }
