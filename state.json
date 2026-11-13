@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794533488.9918494,
+  "last_signals": 1794534105.0344567,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -45,7 +45,8 @@
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794498938.4645984,
     "5575146754|Gold|4H|trap_dn": 1794515149.2756495,
-    "5575146754|Gold|1D|tbot": 1794533488.9918494
+    "5575146754|Gold|1D|tbot": 1794533488.9918494,
+    "5575146754|Gold|1D|dbot": 1794534105.0344567
   },
   "sig_range": {
     "Gold": true,
@@ -80,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -123,9 +124,9 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794533492.287691,
+    "DXY|4H:top": 1794534107.662106,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794533491.6226673,
+    "EUR/USD|4H:bot": 1794534107.0682728,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -135,7 +136,7 @@
     "USD/JPY|1D:top": 1794503072.744894,
     "JPY Index|1D:top": 1794503073.2673745,
     "GBP/USD|1D:bot": 1792014450.7137802,
-    "Gold|1D:bot": 1794533489.3089695,
+    "Gold|1D:bot": 1794534105.3004625,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -154,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794533480.7245119,
-  "last_news": 1794533488.9907405,
+  "last_analysis": 1794534096.740593,
+  "last_news": 1794534105.0335674,
   "seen_news": [
-    "Wall St recovers as energy shares climb; Nvidia woes deepen",
-    "Euro falls to the lowest since April 2025",
-    "Vi\u1ec7t Nam s\u1eafp c\u00f3 c\u1eeda h\u00e0ng \u0111\u1ea7u ti\u00ean c\u1ee7a th\u01b0\u01a1ng hi\u1ec7u \u0111\u1ed3 \u0103n n\u1ed5i ti\u1ebfng, \u0111\u01b0\u1ee3c vinh dan",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Oil Price is Still High: Boon for ExxonMobil's Upstream Business? - TradingView",
-    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
     "Doanh nghi\u1ec7p v\u1eeba thay d\u00e0n l\u00e3nh \u0111\u1ea1o c\u1ea5p cao, c\u1ed5 phi\u1ebfu b\u1ea5t ng\u1edd \u201cc\u00f3 bi\u1ebfn\u201d",
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Financial News & Top Stories \u2014 Market Analysis - TradingView",
@@ -456,6 +451,12 @@
     "Fed\u2019s Williams says inflation stubbornly high and Fed still has work to do on po",
     "Qu\u1ed1c h\u1ed9i xem x\u00e9t, quy\u1ebft \u0111\u1ecbnh c\u00f4ng t\u00e1c nh\u00e2n s\u1ef1",
     "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
-    "Ligand Pharmaceuticals Director Sold Shares Worth Over $960K - TradingView"
+    "Ligand Pharmaceuticals Director Sold Shares Worth Over $960K - TradingView",
+    "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote ",
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
+    "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche say",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6756 \u2013 Reuters estimate",
+    "Ng\u01b0\u1eddi d\u00e2n c\u00f3 VNeID ch\u00fa \u00fd  th\u00f4ng  b\u00e1o t\u1eeb c\u00f4ng an",
+    "EIB: Ng\u00e2n h\u00e0ng TMCP Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam - EXIMBANK - VietstockFinance"
   ]
 }
