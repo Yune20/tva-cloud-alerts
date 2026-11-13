@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794597305.2172153,
+  "last_news_report": 1794608191.937066,
   "last_bot4": 1794607864.2270973,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794607559.7829745,
+  "last_signals": 1794608191.938052,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794596933.8993657,
+    "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794496067.3385115,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -133,10 +133,10 @@
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794465692.7822976,
-    "USD/JPY|1D:top": 1794607561.4614909,
-    "JPY Index|1D:top": 1794607561.8599565,
+    "USD/JPY|1D:top": 1794608194.415165,
+    "JPY Index|1D:top": 1794608194.9947555,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794607560.0009313,
+    "Gold|1D:bot": 1794608192.2269964,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794607864.2261548,
-  "last_news": 1794607559.7821312,
+  "last_analysis": 1794608178.230263,
+  "last_news": 1794608187.3856914,
   "seen_news": [
-    "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
-    "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
-    "Oil prices rise after Iran reports strikes",
-    "V\u00ec sao r\u1eafn b\u00f2 v\u00e0o nh\u00e0?",
-    "Untitled - VietstockFinance",
-    "Robinhood vs. Tradeweb: Which Fintech Stock is a Smarter Buy? - TradingView",
     "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
     "Th\u00f4ng tin nh\u1eefng ai \u0111ang mu\u1ed1n mua iPhone 17 Pro Max n\u00ean bi\u1ebft",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
@@ -457,6 +451,12 @@
     "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
     "Trump: I would consider a week-long campaign against Cuba",
     "Doanh nghi\u1ec7p b\u1ea5t \u0111\u1ed9ng s\u1ea3n 1 n\u0103m tu\u1ed5i huy \u0111\u1ed9ng 180 t\u1ef7 \u0111\u1ed3ng tr\u00e1i phi\u1ebfu v\u1edbi l\u00e3i su\u1ea5",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "FAA orders nationwide U.S. flight ground stop over air traffic control issues",
+    "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 mo",
+    "Chuy\u1ec3n h\u01a1n 40 km\u00b2 \u0111\u1ea5t Ph\u00fa Th\u1ecd v\u1ec1 H\u00e0 N\u1ed9i, ng\u01b0\u1eddi d\u00e2n kh\u00f4ng b\u1eaft bu\u1ed9c ph\u1ea3i di d\u1eddi",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "Coca-Cola Executive Vice President Sold Shares Worth Over $1.4M - TradingView",
+    "FAA declares rare, nationwide ground stop on flights, citing \u2018extraordinary circ"
   ]
 }
