@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794564122.9559112,
+  "last_signals": 1794564737.9779658,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -122,9 +122,9 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794564123.4721262,
+    "USOIL|4H:top": 1794564738.395008,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794564125.4996948,
+    "DXY|4H:top": 1794564739.9679832,
     "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794538436.9144,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794564115.1009402,
-  "last_news": 1794564122.9550824,
+  "last_analysis": 1794564728.4025629,
+  "last_news": 1794564737.9768398,
   "seen_news": [
-    "BLUEMARQ Group: 23 n\u0103m ki\u1ebfn t\u1ea1o v\u1ecb th\u1ebf - V\u01b0\u01a1n t\u1ea7m th\u1ebf gi\u1edbi",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Japan's finance minister vows action as yen breaches 160 threshold - TradingView",
-    "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means",
-    "Civil servant who secretly held five jobs found guilty of fraud",
-    "ByteDance plans $6bn buyback at $400 bln valuation- The Information",
     "EIA Data Shows Builds in Crude, Gasoline and Distillates",
     "Why is Modine Manufacturing stock surging after-hours today?",
     "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip up",
@@ -457,6 +451,12 @@
     "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
     "Barclays backs Euronext on bond growth, turns cautious on Deutsche Boerse",
     "Fed\u2019s Williams says inflation stubbornly high and Fed still has work to do on po",
-    "T\u1ef1 doanh CTCK mua r\u00f2ng h\u00e0ng tr\u0103m t\u1ef7 phi\u00ean cu\u1ed1i tu\u1ea7n, c\u1ed5 phi\u1ebfu n\u00e0o \u0111\u01b0\u1ee3c \"gom\" m\u1ea1n"
+    "T\u1ef1 doanh CTCK mua r\u00f2ng h\u00e0ng tr\u0103m t\u1ef7 phi\u00ean cu\u1ed1i tu\u1ea7n, c\u1ed5 phi\u1ebfu n\u00e0o \u0111\u01b0\u1ee3c \"gom\" m\u1ea1n",
+    "B\u00ea b\u1ed1i ch\u01b0a ngu\u1ed9i, v\u00e1y h\u1ed3ng c\u1ee7a Alice Huang \u0111\u00e3 l\u00ean \u201chot trend\u201d Taobao: \u201cKinh t\u1ebf ",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
+    "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't ",
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and nati",
+    "Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on "
   ]
 }
