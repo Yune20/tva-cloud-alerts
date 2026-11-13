@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794564413.6484857,
-  "last_bot4": 1794572211.572868,
+  "last_bot4": 1794572839.6886978,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794571534.4298937
+    "Gold": 1794572839.688552
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794572510.9666255,
+  "last_signals": 1794572839.6895177,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794572211.5716352,
-  "last_news": 1794572510.9659572,
+  "last_analysis": 1794572828.7597373,
+  "last_news": 1794572837.039274,
   "seen_news": [
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Nebius stock crashes 20% as $45 billion AI gamble raises fears - TradingView",
-    "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-    "Christmas toy rush being driven by squishies and building sets",
-    "Central Asia\u2019s B20 Message to Washington: Let\u2019s Make Deals",
-    "Why is Terumo stock sliding today?",
     "The superpower battle over energy \u2013 and what it means for your bills",
     "Why is Amada stock surging today?",
     "Oil prices rise after Iran reports strikes",
@@ -457,6 +451,12 @@
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Copper heads for weekly loss amid AI rout, strong dollar - TradingView",
     "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
-    "Outlook outage continues as Microsoft flags 'encouraging recovery progress'"
+    "Outlook outage continues as Microsoft flags 'encouraging recovery progress'",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u1edf B\u1eafc Ninh chuy\u1ec3n kho\u1ea3n 90.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n \u1edf n\u01b0\u1edbc ngo\u00e0i",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Needham maintains Nu Holdings at Buy, keeps price target at $19 - TradingView",
+    "Nvidia has shed nearly $500 billion in market value this week. It\u2019s still a $4 t",
+    "Russian crude production rebounds after Trump diesel deal, IEA says as oil marke",
+    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with"
   ]
 }
