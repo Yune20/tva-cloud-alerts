@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794563504.8110209,
+  "last_signals": 1794564122.9559112,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,10 +75,10 @@
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -122,9 +122,9 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794563505.4941423,
+    "USOIL|4H:top": 1794564123.4721262,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794560699.5100782,
+    "DXY|4H:top": 1794564125.4996948,
     "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794538436.9144,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794563495.0270205,
-  "last_news": 1794563504.810206,
+  "last_analysis": 1794564115.1009402,
+  "last_news": 1794564122.9550824,
   "seen_news": [
-    "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
-    "Crude oil futures trying to keep a technical ceiling in place.",
-    "Th\u00e0nh ph\u1ed1 l\u1edbn nh\u1ea5t Vi\u1ec7t Nam th\u00f4ng qua ch\u00ednh s\u00e1ch ch\u01b0a t\u1eebng c\u00f3, 73.000 ng\u01b0\u1eddi \u0111\u01b0\u1ee3c",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "NVDA: Nvidia Boss Jensen Huang Steps Down, Stock Drops Over 15% - TradingView",
-    "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI finan",
     "BLUEMARQ Group: 23 n\u0103m ki\u1ebfn t\u1ea1o v\u1ecb th\u1ebf - V\u01b0\u01a1n t\u1ea7m th\u1ebf gi\u1edbi",
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Japan's finance minister vows action as yen breaches 160 threshold - TradingView",
@@ -457,6 +451,12 @@
     "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
     "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
-    "Keurig Dr Pepper stock slips on pricing of its share offering"
+    "Keurig Dr Pepper stock slips on pricing of its share offering",
+    "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote ",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
+    "Barclays backs Euronext on bond growth, turns cautious on Deutsche Boerse",
+    "Fed\u2019s Williams says inflation stubbornly high and Fed still has work to do on po",
+    "T\u1ef1 doanh CTCK mua r\u00f2ng h\u00e0ng tr\u0103m t\u1ef7 phi\u00ean cu\u1ed1i tu\u1ea7n, c\u1ed5 phi\u1ebfu n\u00e0o \u0111\u01b0\u1ee3c \"gom\" m\u1ea1n"
   ]
 }
