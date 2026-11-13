@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794536574.191348,
+  "last_signals": 1794537186.186636,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -69,13 +69,13 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794509568.8510773,
     "USOIL|4H:top": 1793505208.2943761,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794536577.50902,
+    "DXY|4H:top": 1794537189.6536841,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794536576.8084893,
+    "EUR/USD|4H:bot": 1794537188.8839595,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794536565.9669716,
-  "last_news": 1794536574.1905618,
+  "last_analysis": 1794537178.8953714,
+  "last_news": 1794537186.1857305,
   "seen_news": [
-    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra c\u00e1c t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng th\u1ef1c hi\u1ec7n v\u00e0 x\u00e1c th\u1ef1c giao d\u1ecbch nh\u1eadn",
-    "B\u00c1O C\u00c1O TH\u1eca TR\u01af\u1edcNG TR\u00c1I PHI\u1ebeU TH\u00c1NG 10/2026 - VietstockFinance",
-    "Economists Say Kast\u2019s Chile Government Lacks Debt-Control Ambition - TradingView",
-    "The 2027 401(k) limits are here. See how much more you can save next year.",
-    "Bain Capital\u2019s head of real estate uses this strategy to counter the economy\u2019s \u2018",
-    "How a civil servant got away with juggling five jobs for so long",
     "Can Gilead Sciences' HIV Business Fuel Sustainable Long-Term Growth? - TradingVi",
     "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
     "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -457,6 +451,12 @@
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
     "JPMorgan\u2019s Kelsey Berro: December Fed Rate Hike Is Priced In - TradingView",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on",
-    "US inflation higher than expected in October - here's what is happening with pri"
+    "US inflation higher than expected in October - here's what is happening with pri",
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - VietstockFinance",
+    "Teva Insiders Sold Shares Worth Over $4.6M - TradingView",
+    "Yankees President Randy Levine pushes college sports bill, discusses MLB labor n",
+    "Poundland unable to buy new stock as fears over collapse grow",
+    "Argentina Could Overtake Chile as South America\u2019s Top Lithium Producer by 2035",
+    "Colette Kress, the CFO who challenged Huang\u2019s bets, is Nvidia\u2019s interim CEO"
   ]
 }
