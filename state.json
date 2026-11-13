@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794586758.6549637,
+  "last_signals": 1794587363.7175202,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794580087.1984932,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,13 +66,13 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794586758.9634867,
+    "USOIL|4H:top": 1794587364.0507743,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
     "Bitcoin|4H:bot": 1794524773.7309785,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794586751.7686305,
-  "last_news": 1794586758.654325,
+  "last_analysis": 1794587351.8122132,
+  "last_news": 1794587363.7164557,
   "seen_news": [
-    "Exclusive-Huang exit and US scrutiny imperil $3 billion in Chinese AI projects r",
-    "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
-    "Thu 40 t\u1ef7 \u0111\u1ed3ng t\u1eeb phim M\u00f9i Ph\u1edf, c\u00f4ng ty c\u1ee7a Shark Minh Beta ti\u1ebfp t\u1ee5c tuy\u1ec3n \u0111\u1ea1o d",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - \u00c1p l\u1ef1c l\u1ea1m ph\u00e1t dai d\u1eb3ng - VietstockFinance",
-    "Three stocks that pass the value investing test - TradingView",
-    "Treasury yields rise as traders strengthen Fed rate hike bets",
     "My wife has dementia and may outlive me. How do we prepare for long-term memory ",
     "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
@@ -457,6 +451,12 @@
     "Portman Ridge Finance Q3 Earnings Call Highlights - TradingView",
     "From living in his car to a 756 credit score: How one veteran rebuilt his financ",
     "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
-    "UK economy grows at fastest rate for more than two years"
+    "UK economy grows at fastest rate for more than two years",
+    "Dividend ETF (VIG) Hits a New 52-Week High - TradingView",
+    "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+    "We're making 3 trades to adjust our consumer exposure after an analyst downgrade",
+    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "Germany Is Dismantling a Nord Stream Power Plant for Ukraine",
+    "Democratic US senator probes CoreCivic sale of ICE facility in Minnesota"
   ]
 }
