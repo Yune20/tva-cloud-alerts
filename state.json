@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794575354.9926326,
-  "last_bot4": 1794575732.409093,
+  "last_bot4": 1794576670.0042896,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794575732.4090016
+    "Gold": 1794576670.0041246
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794576337.3915308,
+  "last_signals": 1794576670.0050788,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -70,12 +70,12 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794575733.7125635,
     "Bitcoin|4H:bot": 1794524773.7309785,
-    "EUR/USD|4H:bot": 1794576339.936381,
+    "EUR/USD|4H:bot": 1794576671.2714915,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794576339.642792,
+    "GBP/USD|4H:bot": 1794576671.1170053,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794576038.5877523,
-  "last_news": 1794576337.3909,
+  "last_analysis": 1794576659.7805586,
+  "last_news": 1794576667.2655709,
   "seen_news": [
-    "Trump: I would consider a week-long campaign against Cuba",
-    "Vi\u1ec7t Nam c\u00f3 r\u1ea1n san h\u00f4 r\u1ed9ng g\u1ea7n b\u1eb1ng 18 s\u00e2n b\u00f3ng \u0111\u00e1 m\u1ed7i th\u00e1ng ch\u1ec9 n\u1ed5i l\u00ean m\u1eb7t n\u01b0",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "What EZCORP (EZPW) Said on Its Q4 Earnings Call - TradingView",
-    "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ir",
-    "Graduates are managing AI - but are they learning much else?",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "Sugar Prices Tumble with the Brazilian Real - TradingView",
     "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping t",
@@ -457,6 +451,12 @@
     "Analysis-How US tech pain is European stock markets\u2019 gain",
     "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, U",
     "Ca s\u0129 U40 v\u1eeba \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi: Ng\u1ed3i v\u00e0i ph\u00fat \u0111\u00fat t\u00fai c\u1ea3 t\u1ef7 \u0111\u1ed3ng, \u0111\u01b0",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
+    "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
+    "Why is HawkEye 360 stock surging today?",
+    "investingLive European session wrap: Wall Street eyes a rebound but rising Treas",
+    "29 tu\u1ed5i suy th\u1eadn giai \u0111o\u1ea1n cu\u1ed1i: C\u00f3 d\u1ea5u hi\u1ec7u c\u1ea3nh b\u00e1o nh\u01b0ng t\u01b0\u1edfng l\u00e0 t\u0103ng c\u00e2n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Morgan Stanley downgrades Netskope to Equal-Weight from Overweight, raises price"
   ]
 }
