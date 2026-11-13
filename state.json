@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794542433.9286945,
-  "last_bot4": 1794542433.9297016,
+  "last_bot4": 1794543061.8658957,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794541787.9292479
+    "Gold": 1794543061.8657663
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794542726.1585429,
+  "last_signals": 1794543061.866608,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794542426.501365,
-  "last_news": 1794542726.1577296,
+  "last_analysis": 1794543050.3325465,
+  "last_news": 1794543058.8584058,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "Why CoreWeave stock is falling today - TradingView",
-    "Trump administration is hiring debt collectors to go after defaulted student-loa",
-    "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant",
-    "How video game remakes tap the power of nostalgia",
-    "Exclusive-Former Nvidia CEO Huang had a relationship with a second employee, sou",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Sygnum Launches ETH Alpha Fund Targeting 8%-10% Annual Returns - TradingView",
     "The prostate-cancer screening rules just changed. Here\u2019s when men should get tes",
@@ -457,6 +451,12 @@
     "Why is Samsonite stock surging today?",
     "Asian stocks steady as Nikkei gains 1.4%, Hang Seng slips on Nvidia leadership f",
     "Binance th\u00f4ng b\u00e1o ho\u00e0n t\u1ea5t b\u00f9 \u0111\u1eafp h\u01a1n 6 t\u1ef7 USD b\u1ecb \u0111\u00e1nh c\u1eafp",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
+    "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
+    "Bitcoin dipped under $70K, first time since August",
+    "\u0110o l\u01b0\u1eddng ch\u00ednh x\u00e1c \u0111\u1ec3 d\u00e2n tr\u1ea3 \u0111\u00fang ti\u1ec1n \u0111i\u1ec7n, n\u01b0\u1edbc, x\u0103ng, d\u1ea7u \u0111\u00e3 s\u1eed d\u1ee5ng",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
+    "US oil to retest resistance at $89.33 - TradingView"
   ]
 }
