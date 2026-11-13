@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794553553.28905,
-  "last_bot4": 1794560697.8280957,
+  "last_bot4": 1794561328.831783,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794560697.8288548,
+  "last_signals": 1794561328.832549,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794557256.377574,
+    "USOIL|4H:top": 1794561329.2768729,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794560699.5100782,
     "Bitcoin|4H:bot": 1794524773.7309785,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794560998.8911405,
-  "last_news": 1794560695.2017276,
+  "last_analysis": 1794561320.8513627,
+  "last_news": 1794561328.8308685,
   "seen_news": [
-    "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US ",
-    "Vi\u1ec7t Nam x\u1ebfp th\u1ee9 37 th\u1ebf gi\u1edbi v\u1ec1 n\u0103ng l\u1ef1c c\u1ea1nh tranh s\u1ed1 v\u00e0 tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
-    "Equities little changed, Nvidia drop offsets lift in energy shares - TradingView",
-    "The world's super-rich are piling into alternative investments. Here's why",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
     "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
     "Digimarc Q3 2026 Earnings Call Is Live - TradingView",
     "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade de",
@@ -457,6 +451,12 @@
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Asian Airlines Face a $148-a-Barrel Fuel Gamble",
     "Indonesia\u2019s reluctant vice president was symbol of powerful alliance",
-    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations "
+    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations ",
+    "Asmodee Group Q2 2027 Earnings Call Is Live - TradingView",
+    "Nvidia stock inches higher as investors continue to weigh Jensen Huang\u2019s departu",
+    "The tech helping crack decades-old cold cases",
+    "UK Vows Global Climate Leadership as PM Doubles Down on Net Zero",
+    "Euro yields hit multi-week highs as hawkish Fed shatters global bond rally",
+    "European stock market open: Stocks ease slightly as the rally takes a breather"
   ]
 }
