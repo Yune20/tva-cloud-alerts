@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794571534.430764,
+  "last_signals": 1794571942.0880766,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794571535.3697014,
+    "GBP/USD|4H:bot": 1794571942.955054,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794571521.465785,
-  "last_news": 1794571530.3861063,
+  "last_analysis": 1794571895.233381,
+  "last_news": 1794571942.0873406,
   "seen_news": [
-    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
-    "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
-    "Bitcoin dipped under $70K, first time since August",
-    "\u0110o l\u01b0\u1eddng ch\u00ednh x\u00e1c \u0111\u1ec3 d\u00e2n tr\u1ea3 \u0111\u00fang ti\u1ec1n \u0111i\u1ec7n, n\u01b0\u1edbc, x\u0103ng, d\u1ea7u \u0111\u00e3 s\u1eed d\u1ee5ng",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
-    "US oil to retest resistance at $89.33 - TradingView",
     "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
     "Ph\u00f2ng golf gi\u1ea3 l\u1eadp trong c\u0103n nh\u00e0 680 t\u1ef7 c\u1ee7a Harry Kane",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
@@ -457,6 +451,12 @@
     "Why is Floor & Decor stock sliding today?",
     "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tig",
     "Ph\u00e1t hi\u1ec7n 3 s\u1ed5 ti\u1ebft ki\u1ec7m 3 t\u1ef7 \u0111\u1ed3ng, 1 mi\u1ebfng v\u00e0ng PNJ... b\u1ecf l\u1ea1i tr\u00ean chuy\u1ebfn t\u00e0u t",
-    "B\u00e1o c\u00e1o kinh t\u1ebf v\u0129 m\u00f4 th\u00e1ng 10 v\u00e0 m\u01b0\u1eddi th\u00e1ng \u0111\u1ea7u n\u0103m 2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o kinh t\u1ebf v\u0129 m\u00f4 th\u00e1ng 10 v\u00e0 m\u01b0\u1eddi th\u00e1ng \u0111\u1ea7u n\u0103m 2026 - VietstockFinance",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "Cerebras shares surge as profit surprise, forecast raise ease AI spending worrie",
+    "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions",
+    "Ph\u00e1t minh m\u00e1y bay kh\u00f4ng ng\u01b0\u1eddi l\u00e1i m\u1edbi l\u00e0m rung chuy\u1ec3n ng\u00e0nh v\u1eadn t\u1ea3i: Ch\u1ea1y ho\u00e0n t",
+    "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
+    "Cider makers fear future for orchards as costs grow"
   ]
 }
