@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794553553.28905,
-  "last_bot4": 1794558796.9991748,
+  "last_bot4": 1794559774.2177324,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794558796.9991055
+    "Gold": 1794559774.2176309
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794559409.249429,
+  "last_signals": 1794559774.2184725,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794531654.2760386,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -120,11 +120,11 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1794559410.7232435,
-    "JPY Index|4H:top": 1794559411.0455377,
+    "USD/JPY|4H:top": 1794559776.7222042,
+    "JPY Index|4H:top": 1794559777.2903078,
     "USOIL|4H:top": 1794557256.377574,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794559410.88597,
+    "DXY|4H:top": 1794559776.970739,
     "Bitcoin|4H:bot": 1794524773.7309785,
     "EUR/USD|4H:bot": 1794538436.9144,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794559410.3826902,
+    "GBP/USD|4H:bot": 1794559776.1992445,
     "Gold|1H:bot": 1793505207.9811332,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794559402.1454985,
-  "last_news": 1794559409.248614,
+  "last_analysis": 1794559763.8395534,
+  "last_news": 1794559771.2939634,
   "seen_news": [
-    "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-    "Microsoft users report outages amid tech giant 'connectivity issues'",
-    "U.S. stock futures rise after Nvidia CEO exit spooks Wall St",
-    "Now that all the Nvidia/Jensen Huang news is out, what next for traders in Nvidi",
-    "ACB v\u01b0\u1ee3t m\u1ed1c th\u01b0\u01a1ng hi\u1ec7u 1,4 t\u1ef7 USD, v\u00e0o Top 3 ng\u00e2n h\u00e0ng t\u01b0 nh\u00e2n gi\u00e1 tr\u1ecb nh\u1ea5t Vi",
-    "BSR: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 30,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outl",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Who is Really Paying for the Data Center Boom?",
@@ -457,6 +451,12 @@
     "FTSE 100 today: Stocks edge lower as Iran, Ukraine uncertainty weigh",
     "US Treasury bought yen in July, its first intervention since 1998, as yen nears ",
     "TPHCM: C\u1ee9 100 c\u0103n bi\u1ec7t th\u1ef1, nh\u00e0 ph\u1ed1 \u0111\u01b0\u1ee3c b\u00e1n ra th\u00ec c\u00f3 t\u1edbi 95 c\u0103n kh\u00f4ng b\u00e1n \u0111\u01b0\u1ee3c",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance"
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "Mets\u00e4 Wood starts review of UK operations",
+    "BlackRock sees gold support intact despite near 30% drop from record, expects mi",
+    "C\u1eadn c\u1ea3nh nh\u00e0 h\u00e0ng l\u1ea5n chi\u1ebfm kho\u1ea3ng 800m\u00b2 \u0111\u1ea5t t\u1ea1i danh th\u1eafng qu\u1ed1c gia H\u1ed3 L\u1eafk",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "Key facts: EVO756 Continues; AD Halted; EVO570 Licensed, $30M Raised - TradingVi"
   ]
 }
