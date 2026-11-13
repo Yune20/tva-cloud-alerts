@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794586145.8425326,
+  "last_signals": 1794586758.6549637,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794580087.1984932,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -45,7 +45,7 @@
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794498938.4645984,
     "5575146754|Gold|4H|trap_dn": 1794515149.2756495,
-    "5575146754|Gold|1D|tbot": 1794533488.9918494,
+    "5575146754|Gold|1D|tbot": 1794586758.6549637,
     "5575146754|Gold|1D|dbot": 1794534105.0344567
   },
   "sig_range": {
@@ -66,13 +66,13 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794585200.1379142,
+    "USOIL|4H:top": 1794586758.9634867,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
     "Bitcoin|4H:bot": 1794524773.7309785,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794583603.5868835,
     "JPY Index|1D:top": 1794583604.223653,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794535341.7385645,
+    "Gold|1D:bot": 1794586758.7984273,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794586132.482195,
-  "last_news": 1794586142.9825375,
+  "last_analysis": 1794586751.7686305,
+  "last_news": 1794586758.654325,
   "seen_news": [
-    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-    "Mets\u00e4 Wood starts review of UK operations",
-    "BlackRock sees gold support intact despite near 30% drop from record, expects mi",
-    "C\u1eadn c\u1ea3nh nh\u00e0 h\u00e0ng l\u1ea5n chi\u1ebfm kho\u1ea3ng 800m\u00b2 \u0111\u1ea5t t\u1ea1i danh th\u1eafng qu\u1ed1c gia H\u1ed3 L\u1eafk",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "Key facts: EVO756 Continues; AD Halted; EVO570 Licensed, $30M Raised - TradingVi",
     "Exclusive-Huang exit and US scrutiny imperil $3 billion in Chinese AI projects r",
     "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
     "Thu 40 t\u1ef7 \u0111\u1ed3ng t\u1eeb phim M\u00f9i Ph\u1edf, c\u00f4ng ty c\u1ee7a Shark Minh Beta ti\u1ebfp t\u1ee5c tuy\u1ec3n \u0111\u1ea1o d",
@@ -457,6 +451,12 @@
     "Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng g\u1ea7n ngh\u00ecn t\u1ef7 trong tu\u1ea7n 9/13/11, m\u1ed9t c\u1ed5 phi\u1ebfu b\u1ecb \"x\u1ea3\" g\u1ea7n 90",
     "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Financial News & Top Stories \u2014 Market Analysis - TradingView",
-    "14 dividend stocks selected for long-term growth"
+    "14 dividend stocks selected for long-term growth",
+    "Ho\u00e0ng M\u00e8o b\u1eadt kh\u00f3c, T\u1ea5n Bo h\u1ed1i h\u1eadn v\u00ec tham gia phim \u2018Huy B\u1ebfn xe\u2019",
+    "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Portman Ridge Finance Q3 Earnings Call Highlights - TradingView",
+    "From living in his car to a 756 credit score: How one veteran rebuilt his financ",
+    "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
+    "UK economy grows at fastest rate for more than two years"
   ]
 }
