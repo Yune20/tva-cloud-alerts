@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794575354.9926326,
-  "last_bot4": 1794585199.7997098,
+  "last_bot4": 1794586145.8417296,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794585199.7996106
+    "Gold": 1794586145.841621
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794585803.229449,
+  "last_signals": 1794586145.8425326,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794580087.1984932,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -72,7 +72,7 @@
     "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": false,
+    "US30|1H": true,
     "US30|4H": true,
     "US30|1D": true,
     "GBP/USD|1H": false,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794585505.0429904,
-  "last_news": 1794585803.2287836,
+  "last_analysis": 1794586132.482195,
+  "last_news": 1794586142.9825375,
   "seen_news": [
-    "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidi",
-    "The grads ditching the UK for a fresh start abroad",
-    "FTSE 100 today: Stocks edge lower as Iran, Ukraine uncertainty weigh",
-    "US Treasury bought yen in July, its first intervention since 1998, as yen nears ",
-    "TPHCM: C\u1ee9 100 c\u0103n bi\u1ec7t th\u1ef1, nh\u00e0 ph\u1ed1 \u0111\u01b0\u1ee3c b\u00e1n ra th\u00ec c\u00f3 t\u1edbi 95 c\u0103n kh\u00f4ng b\u00e1n \u0111\u01b0\u1ee3c",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
     "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "Mets\u00e4 Wood starts review of UK operations",
     "BlackRock sees gold support intact despite near 30% drop from record, expects mi",
@@ -457,6 +451,12 @@
     "Poundland gets more time to secure a rescue deal as emergency talks continue",
     "Anthropic IPO shuts out Chinese investors amid US-China tensions",
     "FX option expiries for 13 November 10am New York cut",
-    "Ba c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng b\u1ee9t t\u1ed1c tr\u00ean c\u00f4ng tr\u01b0\u1eddng"
+    "Ba c\u00e2y c\u1ea7u v\u01b0\u1ee3t s\u00f4ng H\u1ed3ng b\u1ee9t t\u1ed1c tr\u00ean c\u00f4ng tr\u01b0\u1eddng",
+    "Greece stocks lower at close of trade; Athens General Composite down 0.16%",
+    "Fed's Collins: I would think some additional policy tightening is warranted soon",
+    "Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng g\u1ea7n ngh\u00ecn t\u1ef7 trong tu\u1ea7n 9/13/11, m\u1ed9t c\u1ed5 phi\u1ebfu b\u1ecb \"x\u1ea3\" g\u1ea7n 90",
+    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "Financial News & Top Stories \u2014 Market Analysis - TradingView",
+    "14 dividend stocks selected for long-term growth"
   ]
 }
