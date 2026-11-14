@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794608191.937066,
-  "last_bot4": 1794617205.7039227,
+  "last_bot4": 1794617886.7402964,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794616576.2857096
+    "Gold": 1794617886.7402272
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794617523.1846724,
+  "last_signals": 1794617886.7410133,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -125,7 +125,7 @@
     "USOIL|4H:top": 1794592930.1060834,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
-    "Bitcoin|4H:bot": 1794617523.7804015,
+    "Bitcoin|4H:bot": 1794617887.564309,
     "EUR/USD|4H:bot": 1794582654.8451416,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794617523.3952265,
+    "Gold|1D:bot": 1794617886.9973814,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794617515.12692,
-  "last_news": 1794617523.1839705,
+  "last_analysis": 1794617876.0040429,
+  "last_news": 1794617884.952104,
   "seen_news": [
-    "These 3 stocks stand to benefit from the Jensen Huang saga - TradingView",
-    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
-    "Women are taking pay cuts and 'white-knuckling it' to manage menopause and work:",
-    "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "Arm\u2019s Haas approached by Nvidia board as part of CEO search, FT reports",
-    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer me",
     "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep",
     "Heat pumps: How much heat does your home really need?",
     "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
@@ -457,6 +451,12 @@
     "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Free speech nonprofit says US to end efforts to curb Facebook group and app repo",
-    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations "
+    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations ",
+    "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
+    "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia dra",
+    "Ph\u01b0\u1eddng Ho\u00e0n Ki\u1ebfm s\u1ebd t\u1ed5 ch\u1ee9c c\u01b0\u1ee1ng ch\u1ebf thu h\u1ed3i nh\u00e0 s\u1ed1 7 \u0110\u1ed3ng Xu\u00e2n",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "Wirtek Q3 2026 Earnings Call Is Live - TradingView",
+    "SpaceX launches Starship in key test flight of massive rocket"
   ]
 }
