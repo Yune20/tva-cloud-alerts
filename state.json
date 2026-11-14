@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794640543.223027,
+  "last_signals": 1794640868.4912357,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794640543.5574913,
+    "Gold|1D:bot": 1794640868.8772957,
     "Ethereum|4H:bot": 1794635648.9621058,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794640543.55746,
+    "Gold|1H:bot": 1794640868.8772628,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794640545.7886546
+    "DXY|1H:top": 1794640871.5240784
   },
-  "last_analysis": 1794640253.687568,
-  "last_news": 1794640543.222355,
+  "last_analysis": 1794640860.0239284,
+  "last_news": 1794640868.4900615,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
-    "Pennsylvania reports seventh measles-linked death as cases rise - TradingView",
-    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year",
-    "Goldman Sachs looks to cash in on big IPOs twice. Anthropic\u2019s historic deal is i",
-    "Californians reject wealth tax for billionaires",
-    "Iran Braces for a Budget Without Oil Revenue",
     "FAA declares rare nationwide ground stop on flights, with more than 10,000 delay",
     "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on infl",
     "Robot vessels take on the dangerous work of mine hunting",
@@ -460,6 +454,12 @@
     "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases ",
     "The grads ditching the UK for a fresh start abroad",
     "Canada, US make progress on trade deal, Carney says",
-    "Xlence prepares for Anthropic\u2019s anticipated IPO"
+    "Xlence prepares for Anthropic\u2019s anticipated IPO",
+    "4 expert tips for signing up for Medicare",
+    "Hackers stole $6.3 billion from Binance\u20142 habits that take 'a few seconds' can h",
+    "The tech helping crack decades-old cold cases",
+    "Iran says four tankers hit mines in Hormuz as shipping crisis deepens",
+    "Trading Sphere eyes Anthropic IPO with plans for day-one CFD trading",
+    "\u0110\u1ebfn \u0110\u00e0 L\u1ea1t m\u00e0 ch\u01b0a gh\u00e9 nh\u00e0 m\u00e1y s\u1eefa n\u00e0y l\u00e0 d\u1edf r\u1ed3i: V\u00e0o c\u1eeda mi\u1ec5n ph\u00ed, g\u1ed1c g\u00e1c t\u1eeb \u0111"
   ]
 }
