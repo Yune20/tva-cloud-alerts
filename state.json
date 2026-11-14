@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794639948.6359403,
+  "last_signals": 1794640543.223027,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -48,7 +48,7 @@
     "5575146754|Gold|1D|tbot": 1794586758.6549637,
     "5575146754|Gold|1D|dbot": 1794631962.1648328,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
-    "5575146754|Gold|1H|dbot": 1794638716.0444894
+    "5575146754|Gold|1H|dbot": 1794640543.223027
   },
   "sig_range": {
     "Gold": true,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794639948.9648585,
+    "Gold|1D:bot": 1794640543.5574913,
     "Ethereum|4H:bot": 1794635648.9621058,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794639948.9648263,
+    "Gold|1H:bot": 1794640543.55746,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794639951.9131103
+    "DXY|1H:top": 1794640545.7886546
   },
   "last_analysis": 1794640253.687568,
-  "last_news": 1794639948.635084,
+  "last_news": 1794640543.222355,
   "seen_news": [
-    "FAA grounds flights nationwide after air traffic control communications outage",
-    "Trading Sphere eyes Anthropic IPO with plans for day-one CFD trading",
-    "Trung Qu\u1ed1c \u0111\u01b0a 'qu\u00e1i v\u1eadt' c\u00f4ng ngh\u1ec7 d\u00e0i 222m, n\u00e2ng 1.250 t\u1ea5n sang Vi\u1ec7t Nam, ph\u1ee5c",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
-    "Isucal Technology Expects HY Profit Of At Least HK$8.5 MLN - TradingView",
-    "4 expert tips for signing up for Medicare",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a b\u1ea7u c\u1eed gi\u1eefa k\u1ef3 M\u1ef9 t\u1edbi Vi\u1ec7t Nam - VietstockFinance",
     "Pennsylvania reports seventh measles-linked death as cases rise - TradingView",
     "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year",
@@ -460,6 +454,12 @@
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Jensen Huang Allegedly Hid Affair With Alice Huang From Nvidia Executives - Trad",
     "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest ",
-    "Burnham says 'win-win' deal can be agreed between UK and EU"
+    "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
+    "Coca-Cola Executive Vice President Sold Shares Worth Over $1.4M - TradingView",
+    "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases ",
+    "The grads ditching the UK for a fresh start abroad",
+    "Canada, US make progress on trade deal, Carney says",
+    "Xlence prepares for Anthropic\u2019s anticipated IPO"
   ]
 }
