@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794664189.5956776,
+  "last_signals": 1794664802.2678688,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -48,7 +48,7 @@
     "5575146754|Gold|1D|tbot": 1794586758.6549637,
     "5575146754|Gold|1D|dbot": 1794653661.6416042,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
-    "5575146754|Gold|1H|dbot": 1794662638.103072
+    "5575146754|Gold|1H|dbot": 1794664802.2678688
   },
   "sig_range": {
     "Gold": true,
@@ -127,7 +127,7 @@
     "USOIL|4H:top": 1794592930.1060834,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
-    "Bitcoin|4H:bot": 1794664190.1881464,
+    "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794582654.8451416,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -138,8 +138,8 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794664189.8247478,
-    "Ethereum|4H:bot": 1794664190.3655343,
+    "Gold|1D:bot": 1794664802.475024,
+    "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794664189.8247156,
+    "Gold|1H:bot": 1794664802.4749813,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794664191.260815
+    "DXY|1H:top": 1794664803.8809485
   },
-  "last_analysis": 1794664183.2091703,
-  "last_news": 1794664189.5948124,
+  "last_analysis": 1794664796.8992777,
+  "last_news": 1794664802.2668433,
   "seen_news": [
-    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
-    "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
-    "C\u00f4 g\u00e1i \"\u0111\u1ee9ng h\u00ecnh\" khi ph\u00e1t hi\u1ec7n c\u1ea3nh t\u01b0\u1ee3ng b\u1ea5t ng\u1edd tr\u00ean n\u00f3c \u00f4 t\u00f4 c\u1ee7a m\u00ecnh",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Franklin XRP ETF 3Q 2026 \u2014 10-Q Summary - TradingView",
-    "Trump says he wants to \u2018get Cuba done\u2019 before leaving office, would consider mil",
     "Bitcoin is now below $69,000 and could fall even further if investors cash out t",
     "Nvidia stock suffers longest weekly losing streak since 2012 as market value sin",
     "Faisal Islam: Why the UK economy is surprisingly resilient",
@@ -460,6 +454,12 @@
     "CMP Mining Inc. (CMP) Consolidates Shares 1-for-5 - TradingView",
     "Washington can start delivering on affordability by rejecting Trump\u2019s tariffs",
     "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ir",
-    "The superpower battle over energy \u2013 and what it means for your bills"
+    "The superpower battle over energy \u2013 and what it means for your bills",
+    "Brookfield, CPPIB consortium enters next round in Uniper sales process, sources ",
+    "investingLive European session wrap: Wall Street eyes a rebound but rising Treas",
+    "Ca s\u0129 SN 1989 qu\u00ea H\u00e0 N\u1ed9i th\u00e0nh th\u1ea1o 3 th\u1ee9 ti\u1ebfng: T\u1ed1t nghi\u1ec7p \u0111\u1ea1i h\u1ecdc \u1edf Ph\u00e1p, v\u1eeba ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Bitwise Solana Staking ETF 3Q 2026 \u2014 10-Q Summary - TradingView",
+    "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
   ]
 }
