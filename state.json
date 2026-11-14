@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794615680.5667846,
+  "last_signals": 1794616289.2571332,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -125,7 +125,7 @@
     "USOIL|4H:top": 1794592930.1060834,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794584234.6386726,
-    "Bitcoin|4H:bot": 1794615681.0104089,
+    "Bitcoin|4H:bot": 1794616289.7102244,
     "EUR/USD|4H:bot": 1794582654.8451416,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794615680.7184923,
+    "Gold|1D:bot": 1794616289.4128873,
     "Ethereum|4H:bot": 1794502456.7537627,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794615672.4455957,
-  "last_news": 1794615680.5660741,
+  "last_analysis": 1794616282.0148232,
+  "last_news": 1794616289.2563047,
   "seen_news": [
-    "Uber says US drivers\u2019 license data stolen in data breach",
-    "European stock market open: Stocks ease slightly as the rally takes a breather",
-    "M\u1ed9t \u0111\u00eam X\u00e2y: Cu\u1ed9c h\u1ed9i ng\u1ed9 c\u1ee7a nh\u1eefng th\u1ebf h\u1ec7 t\u1eebng tr\u01b0\u1edfng th\u00e0nh t\u1eeb \u0110\u1ea1i h\u1ecdc X\u00e2y d\u1ef1ng",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "Do Options Traders Know Something About Strive Stock We Don't? - TradingView",
-    "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
     "K\u00edn b\u01b0ng \u0111\u1eddi t\u01b0 nh\u01b0ng nh\u00ecn nh\u1eefng chi ti\u1ebft n\u00e0y v\u1eabn th\u1ea5y \u0111\u01b0\u1ee3c, ng\u01b0\u1eddi ph\u1ee5 n\u1eef v\u1eeba th",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
     "REG - Workspace Grp PLC - Holding(s) in Company - TradingView",
@@ -457,6 +451,12 @@
     "Gi\u00e1 v\u00e0ng li\u00ean t\u1ee5c lao d\u1ed1c, ng\u01b0\u1eddi mua l\u1ed7 bao nhi\u00eau trong 1 tu\u1ea7n?",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
     "Costco Executive Vice President Sold Shares Worth Over $828K - TradingView",
-    "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?"
+    "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+    "HDC: CTCP Ph\u00e1t tri\u1ec3n Nh\u00e0 B\u00e0 R\u1ecba - V\u0169ng T\u00e0u - HODECO - VietstockFinance",
+    "ESS Tech ceases operations, files for Chapter 7 bankruptcy - TradingView",
+    "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legisla",
+    "UK economy grows at fastest rate for more than two years",
+    "India's Road Fuel Demand Won't Peak Until 2034",
+    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi"
   ]
 }
