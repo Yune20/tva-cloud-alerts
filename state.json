@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794646845.6419666,
+  "last_signals": 1794647454.4812648,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794646845.8906097,
+    "Gold|1D:bot": 1794647454.7541463,
     "Ethereum|4H:bot": 1794635648.9621058,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794646845.8905776,
+    "Gold|1H:bot": 1794647454.7541213,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794646848.0211554
+    "DXY|1H:top": 1794647456.6931305
   },
-  "last_analysis": 1794646838.1394327,
-  "last_news": 1794646845.6410928,
+  "last_analysis": 1794647445.880334,
+  "last_news": 1794647454.4725428,
   "seen_news": [
-    "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
-    "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia dra",
-    "Ph\u01b0\u1eddng Ho\u00e0n Ki\u1ebfm s\u1ebd t\u1ed5 ch\u1ee9c c\u01b0\u1ee1ng ch\u1ebf thu h\u1ed3i nh\u00e0 s\u1ed1 7 \u0110\u1ed3ng Xu\u00e2n",
-    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
-    "Wirtek Q3 2026 Earnings Call Is Live - TradingView",
-    "SpaceX launches Starship in key test flight of massive rocket",
     "Ch\u1ee9ng kho\u00e1n Vietcap mang tr\u1ea3i nghi\u1ec7m \"m\u1edf chu\u00f4ng nh\u1eadn qu\u00e0\" l\u00ean \u1ee9ng d\u1ee5ng, m\u1eebng sin",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "Strategy Sends Crucial Message on Bitcoin's Quantum Security - TradingView",
@@ -460,6 +454,12 @@
     "Untitled - VietstockFinance",
     "ESS Tech ceases operations, files for Chapter 7 bankruptcy - TradingView",
     "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
-    "Alibaba announces plans to list T-Head, its Nvidia chip rival"
+    "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "Binance targets full reopening of withdrawals by next week",
+    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations ",
+    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh \u0111ang c\u00f3 b\u1ec3 c\u00e1 trong nh\u00e0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto"
   ]
 }
