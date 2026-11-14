@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794677344.521805,
+  "last_signals": 1794677948.9927595,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794677344.7918904,
+    "Gold|1D:bot": 1794677949.1507308,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794677344.7918668,
+    "Gold|1H:bot": 1794677949.1506915,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794677346.9058867
+    "DXY|1H:top": 1794677950.572449
   },
-  "last_analysis": 1794677337.413909,
-  "last_news": 1794677344.5210195,
+  "last_analysis": 1794677940.736282,
+  "last_news": 1794677948.991613,
   "seen_news": [
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
-    "Strategy Sends Crucial Message on Bitcoin's Quantum Security - TradingView",
-    "U.S. flights resume after FAA ground stop, but travel chaos continues",
-    "Heat pumps: How much heat does your home really need?",
-    "Tesla invites select customers to buy Cybercab for personal use",
-    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer me",
     "Why the data center slowdown concern is overblown. Two stocks to buy amid the fe",
     "UK economy grows at fastest rate for more than two years",
     "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
@@ -460,6 +454,12 @@
     "Oil prices rise after Iran reports strikes",
     "M\u1ed9t b\u1ec7nh vi\u1ec7n d\u1ef1 ki\u1ebfn \u0111\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 g\u1ea7n 1.600 t\u1ef7 \u0111\u1ed3ng x\u00e2y c\u01a1 s\u1edf m\u1edbi, quy m\u00f4 9 t\u1ea7ng",
     "T\u1ed5ng quan Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu Doanh nghi\u1ec7p: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Advanced Micro Devices Director Sold Shares Worth Over $5M - TradingView"
+    "Advanced Micro Devices Director Sold Shares Worth Over $5M - TradingView",
+    "US weekly initial jobless claims 200K vs 195K expected",
+    "\u0110\u1ea1i gia H\u00e0n Qu\u1ed1c v\u1eeba k\u00fd d\u1ef1 \u00e1n 2 t\u1ef7 USD v\u1edbi B\u1ed9 C\u00f4ng th\u01b0\u01a1ng: C\u00f3 t\u1edbi 56.200 nh\u00e2n vi",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: T\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00ednh s\u00e1ch NHNN ho\u00e1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 182 ng\u00e0y - Vietsto",
+    "Bitdeer Sells 256.1 BTC This Week, Maintains Zero Bitcoin Holdings - TradingView",
+    "SpaceX launches Starship in key test flight of massive rocket",
+    "Why is Microsoft's outage lasting so long and will emails be lost?"
   ]
 }
