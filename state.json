@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794624198.9968789,
+  "last_signals": 1794624810.9976068,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -69,7 +69,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -136,8 +136,8 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794624199.161491,
-    "Ethereum|4H:bot": 1794502456.7537627,
+    "Gold|1D:bot": 1794624811.3771124,
+    "Ethereum|4H:bot": 1794624812.6260772,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112
   },
-  "last_analysis": 1794624191.0614245,
-  "last_news": 1794624198.9952533,
+  "last_analysis": 1794624799.5489626,
+  "last_news": 1794624810.9968424,
   "seen_news": [
-    "Japanese yen tests 160 again, drawing intervention threats",
-    "The US consumer may be hitting a wall. A look at eight indicators",
-    "Ng\u00e0y 14/11, g\u1eedi d\u01b0\u1edbi 1 t\u1ef7 \u0111\u1ed3ng k\u1ef3 h\u1ea1n 18 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Saco",
-    "VJC: CTCP H\u00e0ng kh\u00f4ng Vietjet - VIETJET., JSC - VietstockFinance",
-    "SA analyst upgrades/downgrades: NVDA, AAPL, SMCI, TSLA - TradingView",
-    "\u2018Strangely calming and unnerving\u2019: How Microsoft\u2019s massive outage upended the co",
     "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
     "L\u00e3i v\u01b0\u1ee3t k\u1ebf ho\u1ea1ch n\u0103m, n\u1eafm \"n\u00fai ti\u1ec1n\" g\u1ea7n 50.000 t\u1ef7 \u0111\u1ed3ng, m\u1ed9t \u00f4ng l\u1edbn s\u1eafp \u0111\u00f3n c\u00fa",
     "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "How a civil servant got away with juggling five jobs for so long",
     "Democratic US senators order Musk to preserve records on Ukraine Starlink access",
     "Crude oil jumps as escalation risks increase after Trump says the US doesn't nee",
-    "C\u00f4ng an ki\u1ec3m tra 513 c\u00e1n b\u1ed9, c\u00f4ng nh\u00e2n t\u1ea1i c\u00f4ng ty, x\u00ed nghi\u1ec7p"
+    "C\u00f4ng an ki\u1ec3m tra 513 c\u00e1n b\u1ed9, c\u00f4ng nh\u00e2n t\u1ea1i c\u00f4ng ty, x\u00ed nghi\u1ec7p",
+    "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "FAA lifts nationwide ground stop after outage disrupts thousands of flights",
+    "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
+    "H\u00e0 N\u1ed9i: Thuy\u1ebft ph\u1ee5c \u0111\u1ed1i t\u01b0\u1ee3ng l\u1eeba \u0111\u1ea3o ti\u1ec1n \u0111\u1ed5i ngo\u1ea1i t\u1ec7 ra \u0111\u1ea7u th\u00fa",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree -"
   ]
 }
