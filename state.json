@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794631962.1648328,
+  "last_signals": 1794632581.2173889,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -46,7 +46,8 @@
     "5575146754|Gold|4H|dn": 1794498938.4645984,
     "5575146754|Gold|4H|trap_dn": 1794515149.2756495,
     "5575146754|Gold|1D|tbot": 1794586758.6549637,
-    "5575146754|Gold|1D|dbot": 1794631962.1648328
+    "5575146754|Gold|1D|dbot": 1794631962.1648328,
+    "5575146754|Gold|1H|tbot": 1794632581.2173889
   },
   "sig_range": {
     "Gold": true,
@@ -136,8 +137,8 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794631962.3378997,
-    "Ethereum|4H:bot": 1794625488.5514421,
+    "Gold|1D:bot": 1794632581.6021376,
+    "Ethereum|4H:bot": 1794632582.8047984,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -147,23 +148,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1793505207.9811332,
+    "Gold|1H:bot": 1794632581.6020966,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
-    "US30|1D:bot": 1793994574.9259112
+    "US30|1D:bot": 1793994574.9259112,
+    "DXY|1H:top": 1794632584.8443902
   },
-  "last_analysis": 1794631954.986103,
-  "last_news": 1794631962.1638896,
+  "last_analysis": 1794632571.8228173,
+  "last_news": 1794632581.212529,
   "seen_news": [
-    "Hudson Pacific Properties Director Purchased Shares Worth Over $680K - TradingVi",
-    "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
-    "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who els",
-    "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-    "Why Falling Oil Prices Won't Save America From Inflation",
-    "U.S. dollar surges to biggest weekly gains since September on Fed hike certainty",
     "FAA issues nationwide ground stop",
     "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
@@ -457,6 +453,12 @@
     "US 30-year bond auction tails as demand disappoints for second straight day",
     "C\u1ed5 phi\u1ebfu gi\u00e1 1.000 \u0111\u1ed3ng b\u1ea5t ng\u1edd t\u0103ng tr\u1ea7n: C\u00f4ng ty th\u1eeba nh\u1eadn th\u00f4ng tin g\u1ea7n 7 n\u0103m",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "TaMo PV Posts 5,531-crore Q2 Loss, Revenue Rises 34% - TradingView"
+    "TaMo PV Posts 5,531-crore Q2 Loss, Revenue Rises 34% - TradingView",
+    "US October existing home sales 3.75m vs 3.85m expected",
+    "N\u1eef ngh\u1ec7 s\u0129 \u0111\u00ecnh \u0111\u00e1m r\u1eddi M\u1ef9 v\u1ec1 Vi\u1ec7t Nam s\u1ed1ng, nu\u00f4i 6 con ri\u00eang c\u1ee7a ch\u1ed3ng, t\u1ef1 lo t",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
+    "CloudDepots, Technology-Enabled Logistics Services, Files for Nasdaq/NYSE IPO - ",
+    "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+    "Some under-25s should get fewer benefits, Milburn review to say"
   ]
 }
