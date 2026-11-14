@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794679160.3410268,
+  "last_signals": 1794679772.0725248,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794679160.6478908,
+    "Gold|1D:bot": 1794679772.2262735,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794679160.6478515,
+    "Gold|1H:bot": 1794679772.2262402,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794679162.2007778
+    "DXY|1H:top": 1794679773.589458
   },
-  "last_analysis": 1794679151.3930178,
-  "last_news": 1794679160.3401475,
+  "last_analysis": 1794679762.8169308,
+  "last_news": 1794679772.0715668,
   "seen_news": [
-    "Microsoft apologizes for massive outage that took down Outlook and other 365 ser",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "Iraq\u2019s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-    "Is China\u2019s uranium procurement strategy a long-term geopolitical game?",
-    "Trump: We don\u2019t need a deal with Iran",
-    "C\u1ea3nh s\u00e1t 141 xuy\u00ean \u0111\u00eam ng\u0103n ch\u1eb7n 'qu\u00e1i x\u1ebf'",
     "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia dra",
     "C\u1ea7u v\u01b0\u1ee3t Ph\u00fa \u0110\u00f4 \u0111\u01b0\u1ee3c s\u1eeda ch\u1eefa sau 14 n\u0103m khai th\u00e1c, x\u1eed l\u00fd nhi\u1ec1u v\u1ecb tr\u00ed n\u1ee9t d\u1ea7m",
     "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER - VietstockFinance",
@@ -460,6 +454,12 @@
     "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest ",
     "UK economy grows at fastest rate for more than two years",
     "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
-    "U.S. midterms: Citi breaks down implications for economy and markets"
+    "U.S. midterms: Citi breaks down implications for economy and markets",
+    "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication",
+    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
+    "Singapore Makes a $65 Billion Bet on the Future of Gold",
+    "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
+    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer me",
+    "VPBank - Techcombank v\u00e0 s\u1ef1 h\u00ecnh th\u00e0nh m\u1ed9t \"\u0111\u1eb3ng c\u1ea5p\" m\u1edbi trong kh\u1ed1i ng\u00e2n h\u00e0ng t\u01b0"
   ]
 }
