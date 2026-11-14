@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794641160.807411,
-  "last_bot4": 1794649270.329418,
+  "last_bot4": 1794649958.9884186,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794649587.6168978,
+  "last_signals": 1794649958.98885,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794649587.7686498,
+    "Gold|1D:bot": 1794649959.1277037,
     "Ethereum|4H:bot": 1794635648.9621058,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794649587.768619,
+    "Gold|1H:bot": 1794649959.1276777,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794649588.9653552
+    "DXY|1H:top": 1794649960.2750688
   },
-  "last_analysis": 1794649581.495677,
-  "last_news": 1794649587.616082,
+  "last_analysis": 1794649952.941121,
+  "last_news": 1794649958.9876823,
   "seen_news": [
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n l\u01b0u \u00fd quy \u0111\u1ecbnh v\u1ec1 m\u1ee9c ph\u1ea1t l\u00ean t\u1edbi 140 tri\u1ec7u \u0111\u1ed3ng s\u1eafp \u0111\u01b0\u1ee3c \u00e1p d",
-    "AST: CTCP D\u1ecbch v\u1ee5 H\u00e0ng kh\u00f4ng Taseco - TASECO AIRS - VietstockFinance",
-    "Sugar Prices Push Higher on Global Deficit Forecasts - TradingView",
-    "Microsoft apologizes for massive outage that took down Outlook and other 365 ser",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "Iraq\u2019s Oil Production Soars to 2019 High as Hormuz Flows Surge",
     "L\u1eddi khai c\u1ee7a di\u1ec5n vi\u00ean T\u1ea5n Bo, Ho\u00e0ng M\u00e8o",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Japan's Watami considers management buyout to delist - TradingView",
@@ -460,6 +454,12 @@
     "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
     "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal ",
     "B\u1ed1n ti\u1ebfng n\u01b0\u1edbc M\u1ef9 n\u00e1o lo\u1ea1n v\u00ec l\u1ec7nh c\u1ea5m c\u1ea5t c\u00e1nh, 16.700 chuy\u1ebfn bay b\u1ecb \u1ea3nh h\u01b0\u1edfng",
-    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance"
+    "MWG: T\u00f3m t\u1eaft cu\u1ed9c g\u1eb7p nh\u00e0 \u0111\u1ea7u t\u01b0 06/11/2026 - VietstockFinance",
+    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
+    "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+    "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US ",
+    "G\u1ea7n 8.000m\u00b2 \u0111\u1ea5t di t\u00edch cho thu\u00ea tr\u00e1i ph\u00e9p \u1edf Gia Lai v\u1eabn ch\u01b0a th\u1ec3 thu h\u1ed3i",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Cohen & Steers Announces Changes to Realty Indexes - TradingView"
   ]
 }
