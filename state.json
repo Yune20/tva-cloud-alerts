@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794687150.2402189,
+  "last_signals": 1794687750.696301,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -48,7 +48,7 @@
     "5575146754|Gold|1D|tbot": 1794586758.6549637,
     "5575146754|Gold|1D|dbot": 1794675511.870404,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
-    "5575146754|Gold|1H|dbot": 1794685923.2940328
+    "5575146754|Gold|1H|dbot": 1794687750.696301
   },
   "sig_range": {
     "Gold": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794687150.4001296,
+    "Gold|1D:bot": 1794687750.836027,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794687150.4000878,
+    "Gold|1H:bot": 1794687750.8360019,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794687151.8058677
+    "DXY|1H:top": 1794687752.1269376
   },
   "last_analysis": 1794687453.2222452,
-  "last_news": 1794687150.239442,
+  "last_news": 1794687750.6956534,
   "seen_news": [
-    "The macro backdrop remains negative for Ethereum as Trump's Iran remarks fuel re",
-    "David Beckham b\u1ea3nh bao xu\u1ea5t hi\u1ec7n c\u00f9ng Messi",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Navient Holdings director Frederick Arnold retires from board - TradingView",
-    "Meet the seven co-founders of Anthropic",
-    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
     "Hassett denies report he's leaving White House: 'Not true'",
     "Christmas toy rush being driven by squishies and building sets",
     "Nvidia fallout throws spotlight on Southeast Asia\u2019s AI boom",
@@ -460,6 +454,12 @@
     "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tig",
     "B\u1ea5t ng\u1edd c\u1ed5 phi\u1ebfu t\u0103ng v\u1ecdt g\u1ea5p 15 l\u1ea7n t\u1eeb \u0111\u1ea7u n\u0103m",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
-    "Enhanced 3Q 2026: Revenue $3.31M, EPS ($1.01) \u2014 10-Q Summary - TradingView"
+    "Enhanced 3Q 2026: Revenue $3.31M, EPS ($1.01) \u2014 10-Q Summary - TradingView",
+    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese",
+    "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
+    "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions",
+    "Phong t\u1ecfa t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng, ch\u1eb7n giao d\u1ecbch khi chuy\u1ec3n ti\u1ec1n/ nh\u1eadn ti\u1ec1n \u0111\u1ed1i v\u1edbi",
+    "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER - VietstockFinance",
+    "U.S. Treasuries Close Mixed as Yield Curve Steepens - TradingView"
   ]
 }
