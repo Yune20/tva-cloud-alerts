@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794711330.263498,
+  "last_signals": 1794711962.5873477,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -72,7 +72,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
     "US30|4H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794711330.423128,
+    "Gold|1D:bot": 1794711962.733487,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -149,24 +149,18 @@
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794582033.074165,
-    "Gold|1H:bot": 1794711330.423087,
+    "Gold|1H:bot": 1794711962.733456,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
     "USOIL|1D:bot": 1794351734.9886107,
     "US30|1D:bot": 1793994574.9259112,
-    "DXY|1H:top": 1794711331.7069426
+    "DXY|1H:top": 1794711963.9599867
   },
-  "last_analysis": 1794711633.6033905,
-  "last_news": 1794711330.2626908,
+  "last_analysis": 1794711956.1668062,
+  "last_news": 1794711962.5867004,
   "seen_news": [
-    "Graduates are managing AI - but are they learning much else?",
-    "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-    "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US ",
-    "T\u1eadp \u0111o\u00e0n Trung Qu\u1ed1c \u0111\u1ed5 ti\u1ec1n x\u00e2y nh\u00e0 m\u00e1y c\u00f4ng ngh\u1ec7 cao 10.000 m\u00b2 t\u1ea1i TP.HCM: C\u00f4ng",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "TeraGo Q3 Earnings Call Highlights - TradingView",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
     "Sienna Senior Living Q3 Earnings Call Highlights - TradingView",
     "The trillion-dollar mistake corporate America is making about retirement",
@@ -460,6 +454,12 @@
     "Vi\u1ec7t H\u01b0\u01a1ng n\u00f3i v\u1ec1 m\u1eb9 ch\u1ed3ng",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Cavco President, Manufactured Housing Sold Shares Worth Over $1.5M - TradingView",
-    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year"
+    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year",
+    "\u0110o\u00e0n kh\u00e1ch qu\u1ed1c t\u1ebf s\u1eafp gh\u00e9 qua c\u1ea3ng bi\u1ec3n l\u1edbn nh\u1ea5t \u0110\u1ed3ng Nai",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Cohen & Steers Announces Changes to Realty Indexes - TradingView",
+    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
+    "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Ex",
+    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI"
   ]
 }
