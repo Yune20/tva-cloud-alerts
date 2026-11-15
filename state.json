@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794769907.2172766,
+  "last_signals": 1794770518.9626918,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,7 +68,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794769907.3878393,
+    "Gold|1D:bot": 1794770519.137059,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794769897.5838187,
-  "last_news": 1794769907.2165856,
+  "last_analysis": 1794770511.801824,
+  "last_news": 1794770518.9619095,
   "seen_news": [
-    "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our ",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "Analysis-Trump\u2019s minerals push has yet to loosen China\u2019s grip ahead of Xi talks",
-    "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US ",
-    "V\u1ee5 \u0111\u1eafp n\u1ec1n khu t\u00e1i \u0111\u1ecbnh c\u01b0 b\u1eb1ng \u0111\u00e1 h\u1ed9c, r\u1ec5 c\u00e2y: Lo\u1ea1i b\u1ecf g\u1ea7n 150 m3 \u0111\u00e1 kh\u00f4ng \u0111\u1ea3m ",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "US inflation higher than expected in October - here's what is happening with pri",
     "U.S. diesel prices fall below $6 a gallon to two-month low",
     "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
@@ -460,6 +454,12 @@
     "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
     "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Ex",
     "UK economy grows at fastest rate for more than two years",
-    "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate"
+    "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+    "B\u1ea5t ng\u1edd t\u00ecm th\u1ea5y chi\u1ebfc nh\u1eabn k\u1ef7 ni\u1ec7m th\u1ea5t l\u1ea1c d\u01b0\u1edbi bi\u1ec3n su\u1ed1t 47 n\u0103m",
+    "POW: T\u1ed5ng C\u00f4ng ty \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Vi\u1ec7t Nam - CTCP - PV POWER - VietstockFinance",
+    "Firmus pursues $3B private funding after shelving IPO - TradingView",
+    "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
+    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
+    "Kansas City Fed\u2019s Schmid says central bank has work to do on inflation"
   ]
 }
