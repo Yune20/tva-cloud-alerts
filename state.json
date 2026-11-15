@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794784522.7698915,
+  "last_signals": 1794785133.413392,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -65,8 +65,8 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794784523.1415823,
+    "Gold|1D:bot": 1794785133.6641939,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794784513.541991,
-  "last_news": 1794784522.769108,
+  "last_analysis": 1794785125.8367023,
+  "last_news": 1794785133.4125555,
   "seen_news": [
-    "Juice your growth and save on taxes in this workplace investment account",
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "Treasury yields hold near 2-week highs as traders await next signal",
-    "How have interest rate expectations changed after this week's events?",
-    "3 lo\u1ea1i rau r\u1ea5t ngon l\u1ea1i b\u1ed5, c\u00f3 th\u1ec3 c\u1ea5p \u0111\u00f4ng t\u1edbi 1 n\u0103m: Ti\u1ebft l\u1ed9 m\u1eb9o d\u1ef1 tr\u1eef nhi\u1ec1u ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
     "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
     "Megaspeed ch\u00ednh th\u1ee9c l\u00ean ti\u1ebfng v\u1ec1 Alice Huang sau \u1ed3n \u00e0o t\u00ecnh \u00e1i v\u1edbi c\u1ef1u CEO NVID",
     "China\u2019s hottest stocks these days have one thing in common: names that sound lik",
@@ -460,6 +454,12 @@
     "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
     "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
-    "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US"
+    "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US",
+    "I'm a psychologist who studies couples\u20145 signs you've fallen into a common rut: ",
+    "Minister backs legal right to job support for young people",
+    "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
+    "Sunday Fed talk: Schmid says inflation would still be near 3% without energy, Fe",
+    "B\u00ean trong ch\u1ee3 \u0110\u1ed3ng Xu\u00e2n h\u01a1n 100 tu\u1ed5i \u1edf H\u00e0 N\u1ed9i c\u00f3 g\u00ec khi\u1ebfn gi\u1edbi tr\u1ebb th\u00edch th\u00fa?",
+    "VHM: CTCP Vinhomes - Vinhomes.,JSC - VietstockFinance"
   ]
 }
