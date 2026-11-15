@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794750907.143222,
-  "last_bot4": 1794760498.3688035,
+  "last_bot4": 1794761119.8590896,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794760795.3804169,
+  "last_signals": 1794761119.8596992,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794760795.5230482,
+    "Gold|1D:bot": 1794761120.253261,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794760496.1843493,
-  "last_news": 1794760795.379699,
+  "last_analysis": 1794761111.593717,
+  "last_news": 1794761119.8581383,
   "seen_news": [
-    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
-    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "France October inflation accelerates as energy prices surge, keeping ECB rate hi",
-    "Khu \u0111\u00f4 th\u1ecb AIC h\u01a1n 13.000 t\u1ef7 \u0111\u1ed3ng '\u0111\u1eafp chi\u1ebfu' c\u1ea3 th\u1eadp k\u1ef7 b\u1ea5t ng\u1edd 'thay t\u00ean, \u0111\u1ed5i ",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Binance targets full reopening of withdrawals by next week - TradingView",
     "Ecuador wants to monetize its biodiversity \u2014 while still drilling for oil",
     "Microsoft says services fully restored after day-long global outage",
     "Trump: I would consider a week-long campaign against Cuba",
@@ -460,6 +454,12 @@
     "'An annoying buzz': The search for stealthier drones",
     "Electrifying Ambitions Meet Tough Reality in Europe",
     "Is dollar finally ready to break out? BCA weighs in",
-    "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI"
+    "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+    "The Indian workers filming their work to train AI",
+    "America\u2019s Offshore Wind Industry Is Growing Despite Trump\u2019s Crackdown",
+    "Bessent says Nvidia must \u2019go outside the company\u2019 to find new CEO",
+    "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 mo",
+    "B\u1ee9c \u1ea3nh khi\u1ebfn nhi\u1ec1u ng\u01b0\u1eddi b\u1eadt kh\u00f3c khi bi\u1ebft c\u00e2u chuy\u1ec7n ph\u00eda sau!",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan"
   ]
 }
