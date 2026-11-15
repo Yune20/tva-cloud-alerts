@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794769236.8206773,
+  "last_signals": 1794769907.2172766,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -68,8 +68,8 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794769237.1777158,
+    "Gold|1D:bot": 1794769907.3878393,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794769534.958313,
-  "last_news": 1794769236.8197973,
+  "last_analysis": 1794769897.5838187,
+  "last_news": 1794769907.2165856,
   "seen_news": [
-    "David Cameron Sees Promise in Alzheimer\u2019s Research - TradingView",
-    "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "U.S. flight cancellations top 6,400 as FAA warns of disruptions up to late Sunda",
-    "Fed's Daly: In all likelihood, we need to raise rates",
-    "Xu\u00e2n Tr\u01b0\u1eddng v\u00e0 v\u1ee3 gi\u00e1m \u0111\u1ed1c SN 1993 th\u00edch n\u00fai r\u1eebng",
     "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our ",
     "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
     "Analysis-Trump\u2019s minerals push has yet to loosen China\u2019s grip ahead of Xi talks",
@@ -460,6 +454,12 @@
     "Fed \u2019has some work to do on inflation,\u2019 KC Fed chief says",
     "US weekly initial jobless claims 200K vs 195K expected",
     "N\u1eef di\u1ec5n vi\u00ean n\u1ed5i ti\u1ebfng l\u00f4i th\u00f4i, l\u00fac n\u00e0o tr\u00f4ng c\u0169ng \"k\u1ec7 \u0111\u1eddi\", nh\u00ecn c\u00e1ch b\u1ed1 m\u1eb9 nu",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Advanced Micro Devices Director Sold Shares Worth Over $5M - TradingView",
+    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac",
+    "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Ex",
+    "UK economy grows at fastest rate for more than two years",
+    "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate"
   ]
 }
