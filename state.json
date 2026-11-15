@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794785133.413392,
+  "last_signals": 1794785749.1720378,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -46,7 +46,7 @@
     "5575146754|Gold|4H|dn": 1794498938.4645984,
     "5575146754|Gold|4H|trap_dn": 1794515149.2756495,
     "5575146754|Gold|1D|tbot": 1794586758.6549637,
-    "5575146754|Gold|1D|dbot": 1794763880.547818,
+    "5575146754|Gold|1D|dbot": 1794785749.1720378,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762
   },
@@ -62,11 +62,11 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794785133.6641939,
+    "Gold|1D:bot": 1794785749.3195157,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794785125.8367023,
-  "last_news": 1794785133.4125555,
+  "last_analysis": 1794785741.9858396,
+  "last_news": 1794785749.1712453,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
-    "Megaspeed ch\u00ednh th\u1ee9c l\u00ean ti\u1ebfng v\u1ec1 Alice Huang sau \u1ed3n \u00e0o t\u00ecnh \u00e1i v\u1edbi c\u1ef1u CEO NVID",
-    "China\u2019s hottest stocks these days have one thing in common: names that sound lik",
-    "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid ti",
-    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "US October existing home sales 3.75m vs 3.85m expected",
     "3 big things we're watching in the stock market in the week ahead",
     "How video game remakes tap the power of nostalgia",
     "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
@@ -460,6 +454,12 @@
     "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
     "Sunday Fed talk: Schmid says inflation would still be near 3% without energy, Fe",
     "B\u00ean trong ch\u1ee3 \u0110\u1ed3ng Xu\u00e2n h\u01a1n 100 tu\u1ed5i \u1edf H\u00e0 N\u1ed9i c\u00f3 g\u00ec khi\u1ebfn gi\u1edbi tr\u1ebb th\u00edch th\u00fa?",
-    "VHM: CTCP Vinhomes - Vinhomes.,JSC - VietstockFinance"
+    "VHM: CTCP Vinhomes - Vinhomes.,JSC - VietstockFinance",
+    "Treasury yields hold near 2-week highs as traders await next signal",
+    "Jensen Huang weighs Nvidia comeback days after quitting over scandal, FT reports",
+    "Th\u00f4ng \u0111i\u1ec7p v\u0169 tr\u1ee5 g\u1eedi cho 12 con gi\u00e1p trong tu\u1ea7n m\u1edbi (16/11-22/11)",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "FleetPartners Group H2 2026 Earnings Call Is Live - TradingView",
+    "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in"
   ]
 }
