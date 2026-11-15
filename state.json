@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794785749.1720378,
+  "last_signals": 1794786381.8815129,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794608191.938052,
+    "5575146754|Gold|1H|range_in": 1794786381.8815129,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794496067.3385115,
     "5575146754|Gold|1H|trap_up": 1794189208.8440979,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794785749.3195157,
+    "Gold|1D:bot": 1794786382.1847174,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794786052.4957492,
-  "last_news": 1794785749.1712453,
+  "last_analysis": 1794786373.2045171,
+  "last_news": 1794786381.8805466,
   "seen_news": [
-    "3 big things we're watching in the stock market in the week ahead",
-    "How video game remakes tap the power of nostalgia",
-    "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
-    "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
-    "G\u1ea7n 160.000 l\u01b0\u1ee3t kh\u00e1ch trong 3 ng\u00e0y, AEON MALL H\u1ea1 Long c\u00f3 g\u00ec h\u00fat kh\u00e1ch?",
-    "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' M",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
     "Bitdeer Sells 256.1 BTC This Week, Maintains Zero Bitcoin Holdings - TradingView",
     "$180 million Van Gogh tests the art market and collector confidence",
@@ -460,6 +454,12 @@
     "Th\u00f4ng \u0111i\u1ec7p v\u0169 tr\u1ee5 g\u1eedi cho 12 con gi\u00e1p trong tu\u1ea7n m\u1edbi (16/11-22/11)",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
     "FleetPartners Group H2 2026 Earnings Call Is Live - TradingView",
-    "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in"
+    "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in",
+    "N\u1eef di\u1ec5n vi\u00ean SN 1989 qu\u00ea Qu\u1ea3ng Tr\u1ecb, t\u1eebng h\u1ecdc ng\u00e0nh B\u1ea3o h\u1ed9 lao \u0111\u1ed9ng, \u0111\u00f3ng nhi\u1ec1u p",
+    "SSI: CTCP Ch\u1ee9ng kho\u00e1n SSI - SSI - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "Jensen Huang Discusses Comeback As Nvidia CEO With Allies - FT - TradingView",
+    "China\u2019s hottest stocks these days have one thing in common: names that sound lik",
+    "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid ti",
+    "Faisal Islam: Why the UK economy is surprisingly resilient"
   ]
 }
