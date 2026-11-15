@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794739942.3205159,
-  "last_bot4": 1794743391.2948024,
+  "last_bot4": 1794744072.7269711,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794742501.0254526
+    "Gold": 1794744072.7269003
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794743711.6426153,
+  "last_signals": 1794744072.7280333,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794743711.805347,
+    "Gold|1D:bot": 1794744072.882641,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794743704.4489417,
-  "last_news": 1794743711.6417592,
+  "last_analysis": 1794744063.974196,
+  "last_news": 1794744070.598574,
   "seen_news": [
-    "S\u1edf X\u00e2y d\u1ef1ng H\u00e0 N\u1ed9i: C\u00f3 th\u1ec3 xem x\u00e9t \u0111i\u1ec1u chuy\u1ec3n m\u1ed9t s\u1ed1 tuy\u1ebfn \u0111ang ho\u1ea1t \u0111\u1ed9ng t\u1ea1i b",
-    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-14 \u2014 cnbctv:ceaf9a739094b:0 - TradingV",
-    "In a policy switch, the Fed says its October 2027 meeting will not see a vote on",
-    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "Japanese yen tests 160 again, drawing intervention threats",
     "Tantalus Systems Q3 Earnings Call Highlights - TradingView",
     "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank we",
     "How a civil servant got away with juggling five jobs for so long",
@@ -460,6 +454,12 @@
     "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest ",
     "Graduates are managing AI - but are they learning much else?",
     "Germany Eyes \u20ac4 Billion Buyout of RWE and E.ON\u2019s Urenco Stake",
-    "Megaspeed says exec tied to ex-Nvidia CEO left in 2025 amid U.S. chip scrutiny"
+    "Megaspeed says exec tied to ex-Nvidia CEO left in 2025 amid U.S. chip scrutiny",
+    "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on infl",
+    "Living with a stink? Technology might help",
+    "Trump\u2019s minerals push has yet to loosen China\u2019s grip ahead of Xi talks",
+    "The US consumer may be hitting a wall. A look at eight indicators",
+    "L\u1ed9 th\u00eam b\u1eb1ng ch\u1ee9ng \"ngo\u1ea1i t\u00ecnh\" c\u1ee7a c\u1ef1u CEO Nvidia Jensen Huang v\u00e0 Alice Huang",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance"
   ]
 }
