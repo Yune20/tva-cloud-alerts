@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794779859.3550239,
+  "last_signals": 1794780473.0365696,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794608191.938052,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -71,7 +71,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794779859.4878378,
+    "Gold|1D:bot": 1794780473.1945636,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794779852.6798496,
-  "last_news": 1794779857.8865614,
+  "last_analysis": 1794780466.079727,
+  "last_news": 1794780473.035843,
   "seen_news": [
-    "Hassett denies report he's leaving White House: 'Not true'",
-    "Football kit giveaway aims to boost participation",
-    "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
-    "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
-    "11h tr\u01b0a ng\u00e0y 15/11, h\u00e0ng tr\u0103m ng\u01b0\u1eddi \u0111\u1ed9i m\u01b0a \u1edf TP.HCM \u0111\u1ec3 d\u1ef1 ti\u1ec7c \u0111\u1ea7y th\u00e1ng c\u1ee7a 3",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
     "LataMed AI 3Q 2026: Revenue $0, EPS ($0.00) \u2014 10-Q Summary - TradingView",
     "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi sc",
     "SpaceX catches upper stage of Starship rocket in historic first",
@@ -460,6 +454,12 @@
     "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
     "Trump: We don\u2019t need a deal with Iran",
     "Phim Trung t\u1eebng \u0111\u01b0\u1ee3c \u0110H S\u01b0 Ph\u1ea1m H\u00e0 N\u1ed9i \u0111\u01b0a v\u00e0o nghi\u00ean c\u1ee9u, l\u1ed7i h\u1eb9n v\u1edbi kh\u00e1n gi\u1ea3 ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance"
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Why falling AI token prices aren\u2019t the negative for AI providers one might assum",
+    "Iran says supertanker with 2 million barrels sank after Hormuz mine strike, unco",
+    "\u0110\u1ec7 nh\u1ea5t danh h\u00e0i mi\u1ec1n Nam c\u00f3 9 ch\u00e1u n\u1ed9i, 3 ch\u00e1u c\u1ed1, nh\u00e0 v\u1ee3 g\u1ea7n 100 ng\u01b0\u1eddi \u1edf M\u1ef9",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Gabriel Announces Dismissal of ICSID Annulment Application - TradingView",
+    "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year"
   ]
 }
