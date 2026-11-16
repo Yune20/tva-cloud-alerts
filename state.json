@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794817812.2695282,
+  "last_signals": 1794818418.2265415,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794817812.4969525,
+    "USOIL|4H:top": 1794818418.4602654,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794815961.0097733,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794817806.8113456,
-  "last_news": 1794817812.2689168,
+  "last_analysis": 1794818410.5490696,
+  "last_news": 1794818418.2257967,
   "seen_news": [
-    "The Indian workers filming their work to train AI",
-    "America\u2019s Offshore Wind Industry Is Growing Despite Trump\u2019s Crackdown",
-    "Thousands of US\u00a0flights canceled, delayed for third day in a row",
-    "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
-    "Gi\u00e1 v\u00e0ng mi\u1ebfng, v\u00e0ng nh\u1eabn 9999 s\u00e1ng 16/11 t\u1ea1i SJC, DOJI, PNJ, B\u1ea3o T\u00edn Minh Ch\u00e2u,",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Ti\u1ec1n t\u1ec7: M\u1eb7t b\u1eb1ng l\u00e3i su\u1ea5t huy \u0111\u1ed9ng h\u1ea1 nhi\u1ec7t - VietstockFinan",
     "Black Friday and tax return scams  - don't fall for these",
     "IDP Education rejects Blackstone\u2019s $564.5 million takeover bid for third time",
     "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariff",
@@ -458,6 +452,12 @@
     "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
     "Ch\u00e1y l\u1edbn kho ph\u1ebf li\u1ec7u, kh\u00f3i \u0111en cu\u1ed3n cu\u1ed9n",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Key facts: Bitcoin ETF outflows hit $1.44 billion; dollar firms - TradingView"
+    "Key facts: Bitcoin ETF outflows hit $1.44 billion; dollar firms - TradingView",
+    "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
+    "Tin ch\u1ecdn nh\u00e0 th\u1ea7u Trung Qu\u1ed1c, \u0111\u01b0\u1eddng s\u1eaft 20.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a Vi\u1ec7t Nam ho\u00e0n th\u00e0nh s",
+    "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
+    "Elevate Campuses Q2 2027 Earnings Call Is Live - TradingView",
+    "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
+    "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs"
   ]
 }
