@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794823988.9221387,
+  "last_signals": 1794824604.906333,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -64,10 +64,10 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
     "Ethereum|4H": true,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794823989.3532388,
+    "USOIL|4H:top": 1794824605.4971025,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794821833.599541,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794823979.8855057,
-  "last_news": 1794823988.9214761,
+  "last_analysis": 1794824592.2229304,
+  "last_news": 1794824604.9055254,
   "seen_news": [
-    "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
-    "Peru\u2019s Economy Cooled Unexpectedly in September as Mining and Farming Slumped - ",
-    "'We slept here': Flight delays linger but schedule is back on track for Monday",
-    "The engine parts that 'fight the laws of the universe'",
-    "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-    "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top",
     "What I know and respect about Colette Kress, the person now leading Nvidia",
     "Heat pumps: How much heat does your home really need?",
     "After days of flight disruptions, officials see system back to normal by Monday",
@@ -458,6 +452,12 @@
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
     "Weekly Recap: Biomethane sale exclusivity and 4% interim dividend hike - Trading",
     "Former NFL star Chris Simms sells his 300-year-old Greenwich, Conn., home for $5",
-    "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting"
+    "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
+    "Weekly Recap: Profit growth and Barclays price target cut - TradingView",
+    "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
+    "Trump breaks silence about FAA nationwide ground stop, blames Biden administrati",
+    "Intel sued by investors after PC sales slump hits share price",
+    "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz"
   ]
 }
