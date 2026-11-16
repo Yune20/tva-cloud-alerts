@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794831495.3657997,
+  "last_signals": 1794832109.6965683,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794821833.599541,
+    "DXY|4H:top": 1794832111.898619,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794831497.1727514,
+    "EUR/USD|4H:bot": 1794832111.4356766,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794831487.7486873,
-  "last_news": 1794831495.365073,
+  "last_analysis": 1794832100.2344828,
+  "last_news": 1794832109.6958477,
   "seen_news": [
-    "Records show $12bn Nvidia chips to China, US drafts licence rules on Nvidia chip",
-    "Ngay th\u00e1ng sau, \u0111\u1ea1i gia g\u1ed1c Thanh H\u00f3a t\u1eebng thi c\u00f4ng m\u00e1i v\u00f2m th\u00e9p l\u1edbn nh\u1ea5t h\u00e0nh t",
-    "CII: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - CII - VietstockFinance",
-    "Firmus pursues $3B private funding after shelving IPO - TradingView",
-    "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on infl",
-    "US inflation higher than expected in October - here's what is happening with pri",
     "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Sam Altman ChatGPT AI Predicts a Super Bullish Reversal for BTC - TradingView",
     "How the Jensen Huang affair changes the outlook for U.S.-China relations",
@@ -458,6 +452,12 @@
     "Morgan Stanley goes max overweight global stocks, sees 15% S&P 500 upside on AI ",
     "C\u1ea3nh b\u00e1o th\u1ee7 \u0111o\u1ea1n gi\u1ea3 danh nh\u00e2n vi\u00ean thu\u1ebf, chi\u1ebfm \u0111o\u1ea1t ti\u1ec1n trong t\u00e0i kho\u1ea3n ng\u00e2n ",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "Rocket failure wipes out dozens of Amazon Leo satellites - TradingView"
+    "Rocket failure wipes out dozens of Amazon Leo satellites - TradingView",
+    "\u0102n t\u00f4m c\u00e0ng xanh c\u00f3 l\u1ee3i g\u00ec, ai n\u00ean th\u1eadn tr\u1ecdng?",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "Weekly Recap: Net outflows and board appointment and trustee resignation - Tradi",
+    "Three questions for anyone considering the Nvidia CEO job",
+    "Big-ticket holiday items may be harder to find as shipping costs rise",
+    "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss"
   ]
 }
