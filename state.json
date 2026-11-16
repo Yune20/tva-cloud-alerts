@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794805364.7554631,
-  "last_bot4": 1794810643.7888668,
+  "last_bot4": 1794811306.3779025,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794810643.7896209,
+  "last_signals": 1794811306.378571,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794810322.3131073,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -60,10 +60,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794810634.3044112,
-  "last_news": 1794810641.337412,
+  "last_analysis": 1794811300.1903844,
+  "last_news": 1794811306.3772008,
   "seen_news": [
-    "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
-    "U.S. diesel prices fall below $6 a gallon to two-month low",
-    "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger De",
-    "\u0110\u1eaft h\u01a1n s\u1ea7u ri\u00eang, m\u1ed9t lo\u1ea1i qu\u1ea3 t\u1eeb M\u1ef9 \u1ed3 \u1ea1t \u0111\u1ed5 b\u1ed9 Vi\u1ec7t Nam: Nh\u1eadp kh\u1ea9u t\u0103ng 160%, ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Microsoft outage, flight disruptions expose infrastructure risks - TradingView",
     "Social Security and the blue wave: What could happen to payroll taxes and senior",
     "How long will humans be needed for translation?",
     "UBS says emerging markets are \u2018more agile than fragile,\u2019 forecasts 2027 gains",
@@ -458,6 +452,12 @@
     "SpaceX catches upper stage of Starship rocket in historic first",
     "Cut National Insurance for under-25s to create jobs, Milburn report to say",
     "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
-    "Asia stocks tumble as chipmakers slide and weak China data adds pressure"
+    "Asia stocks tumble as chipmakers slide and weak China data adds pressure",
+    "Retailers are turning to entertainment to win shoppers\u2019 attention",
+    "Some under-25s should get fewer benefits, Milburn review to say",
+    "Trump Extends Jones Act Waiver For Another 90 Days",
+    "Dollar holds near 19-mth high; yen steady after weak GDP",
+    "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of gro",
+    "Ch\u00ednh th\u1ee9c t\u1eeb h\u00f4m nay (16/11), m\u1ed9t ng\u00e2n h\u00e0ng ng\u1eebng tr\u1ea3 l\u00e3i cho kh\u00e1ch h\u00e0ng g\u1eedi ti"
   ]
 }
