@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794844748.2341876,
+  "last_signals": 1794845410.3808126,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,10 +75,10 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794843470.1735072,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794842501.8628364,
+    "EUR/USD|4H:bot": 1794845411.7615578,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794843469.7689905,
+    "GBP/USD|4H:bot": 1794845411.5926836,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794844740.1399796,
-  "last_news": 1794844748.233535,
+  "last_analysis": 1794845401.0530572,
+  "last_news": 1794845410.3801231,
   "seen_news": [
-    "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in",
-    "I'm a psychologist who studies couples\u20145 signs you've fallen into a common rut: ",
-    "How long will humans be needed for translation?",
-    "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
-    "Uniper nears first data centre deal on idle power plant site - report",
-    "Weekend - Blackstone\u2019s QTS cuts AI data center debt sale 60% as investors push b",
     "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US",
     "Ki\u1ebfm 2 t\u1ef7 \u0111\u1ed3ng m\u1ed7i th\u00e1ng n\u0103m 16 tu\u1ed5i, streamer Trung Qu\u1ed1c b\u1ecb ch\u00ednh m\u1eb9 ru\u1ed9t l\u1eeba v",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
@@ -458,6 +452,12 @@
     "Why is Texas Instruments stock sliding today?",
     "What are the main events for today?",
     "N\u1eef ca s\u0129 SN 1987 g\u1eb7p tai n\u1ea1n tr\u00ean \u0111\u01b0\u1eddng cao t\u1ed1c: Xe n\u00e1t h\u1ebft, l\u0103n v\u00e0i v\u00f2ng",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
+    "Forget the petro-dollar, introducing the chip-dollar",
+    "4 chuy\u1ec7n d\u00f9 kh\u00f3 ch\u1ecbu \u0111\u1ebfn m\u1ea5y c\u0169ng \u0111\u1eebng n\u00f3i v\u1edbi con, nhi\u1ec1u m\u1eb9 v\u1eabn n\u00f3i m\u00e0 ch\u1eb3ng bi",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
+    "US Tightens Restrictions On Remote Access To Advanced AI Computing Power - Tradi",
+    "SpaceX widens its lead in the space race, even as a tech selloff weighs on its s",
+    "U.S. crude oil declines to $87 a barrel on recovering Middle East exports"
   ]
 }
