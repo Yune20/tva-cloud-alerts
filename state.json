@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794859673.1368494,
+  "last_signals": 1794860301.9362786,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794859676.9037993,
+    "DXY|4H:top": 1794860303.576327,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794858453.3736765,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794859675.5939913,
+    "GBP/USD|4H:bot": 1794860302.9841616,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794859974.7508523,
-  "last_news": 1794859673.1361086,
+  "last_analysis": 1794860292.947343,
+  "last_news": 1794860301.9355567,
   "seen_news": [
-    "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' M",
-    "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "New North Sea Gas Supply Comes Online Amid Growing Political Backlash",
-    "Analysis-AI selloff has investors scrambling to measure their true exposure",
-    "FX option expiries for 16 November 10am New York cut",
-    "Kh\u00e1n gi\u1ea3 qu\u1ed1c t\u1ebf c\u00f4ng nh\u1eadn b\u1ea3n l\u0129nh c\u1ee7a T\u00f3c Ti\u00ean",
     "What I know and respect about Colette Kress, the person now leading Nvidia",
     "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
     "US opens probe into more than 1 million Honda vehicles over auto stop-start fail",
@@ -458,6 +452,12 @@
     "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband",
     "Jim Cramer says J&J is a 'metaphor for what's working' in the stock market",
     "Beauty advent calendars can cost hundreds but are they value for money?",
-    "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting"
+    "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting",
+    "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
+    "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
+    "3 ki\u1ec3u gia \u0111\u00ecnh \u0111\u1ed9c h\u1ea1i khi\u1ebfn con c\u00e1i c\u00e0ng l\u1edbn c\u00e0ng mu\u1ed1n xa c\u00e1ch",
+    "QNS: CTCP \u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i - QNS - VietstockFinance",
+    "Why Nokia shares are trading lower today - TradingView",
+    "Rare-earth stocks sinks deeper into the red. Here\u2019s the latest catalyst."
   ]
 }
