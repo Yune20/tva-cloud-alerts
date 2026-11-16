@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794839073.1181805,
-  "last_bot4": 1794845716.328475,
+  "last_bot4": 1794846677.2951288,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794845716.3284094
+    "Gold": 1794846677.2950308
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794846008.2339706,
+  "last_signals": 1794846677.2959514,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794846307.763693,
-  "last_news": 1794846008.2332542,
+  "last_analysis": 1794846665.1489563,
+  "last_news": 1794846674.2925494,
   "seen_news": [
-    "3 big things we're watching in the stock market in the week ahead",
-    "Gas starts flowing from Jackdaw after government green light",
-    "India\u2019s Mphasis says clients boost cybersecurity spending as AI-driven threats r",
-    "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
-    "Tr\u00fang 340 t\u1ef7 \u0111\u1ed3ng t\u1eeb Jack Ma 8 n\u0103m tr\u01b0\u1edbc, c\u00f4 g\u00e1i \u0103n ch\u01a1i x\u1ea3 l\u00e1ng su\u1ed1t 1 n\u0103m: Cu\u1ed9",
-    "KDH: CTCP \u0110\u1ea7u t\u01b0 v\u00e0 Kinh doanh Nh\u00e0 Khang \u0110i\u1ec1n - KHADIHOUSE JSC - VietstockFinanc",
     "Burnham says 'win-win' deal can be agreed between UK and EU",
     "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
     "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers ",
@@ -458,6 +452,12 @@
     "These 13 S&P 500 stocks can rise up to 70% over the next year, according to anal",
     "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao",
     "Minister backs legal right to job support for young people",
-    "Houthi Advance Puts Saudi Crude Exports at Risk"
+    "Houthi Advance Puts Saudi Crude Exports at Risk",
+    "I am turning 18 next month and want to start investing. What do I do first?",
+    "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60%",
+    "The engine parts that 'fight the laws of the universe'",
+    "Europe Has Already Drained 10% of Its Summer Gas Injections",
+    "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
+    "Nvidia earnings could test a fragile market. Five stocks are already offering cl"
   ]
 }
