@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794850574.3989146,
+  "last_signals": 1794851180.2801313,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794850575.8381834,
+    "DXY|4H:top": 1794851181.5832965,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794850051.6954746,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794850575.3521585,
+    "GBP/USD|4H:bot": 1794851181.1600094,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794850567.7080548,
-  "last_news": 1794850574.3982809,
+  "last_analysis": 1794851174.0847733,
+  "last_news": 1794851180.2794256,
   "seen_news": [
-    "Goldman Sachs Warns of Massive Oil Glut in 2027",
-    "Morgan Stanley upgrades Japan equities to overweight, sees 22% TOPIX upside",
-    "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
-    "Ch\u00e1y l\u1edbn kho ph\u1ebf li\u1ec7u, kh\u00f3i \u0111en cu\u1ed3n cu\u1ed9n",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Key facts: Bitcoin ETF outflows hit $1.44 billion; dollar firms - TradingView",
     "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
     "Tin ch\u1ecdn nh\u00e0 th\u1ea7u Trung Qu\u1ed1c, \u0111\u01b0\u1eddng s\u1eaft 20.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a Vi\u1ec7t Nam ho\u00e0n th\u00e0nh s",
     "DXG: CTCP Bluemarq Group - BLUEMARQ GROUP - VietstockFinance",
@@ -458,6 +452,12 @@
     "S\u1ebfp IMF c\u1ea3nh b\u00e1o: Kinh t\u1ebf to\u00e0n c\u1ea7u \"\u0111ang \u0111\u1ee9ng tr\u00ean 1 ch\u00e2n\"",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Hercules Metals Corp. (BIG) Closes C$5.78M Barrick Placement - TradingView",
-    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year"
+    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year",
+    "ACB: M\u1ed9t c\u1ed5 \u0111\u00f4ng \u0111\u00e3 b\u00e1n s\u1ea1ch g\u1ea7n 51,5 tri\u1ec7u c\u1ed5 phi\u1ebfu",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
+    "Injective to Hold a Community Buyback in November - TradingView",
+    "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in",
+    "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national s",
+    "Burnham says 'win-win' deal can be agreed between UK and EU"
   ]
 }
