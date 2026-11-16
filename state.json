@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794803819.8398046,
+  "last_signals": 1794804430.311067,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794803819.8398046,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794803809.9397638,
-  "last_news": 1794803819.839019,
+  "last_analysis": 1794804422.0224771,
+  "last_news": 1794804430.3102772,
   "seen_news": [
-    "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tig",
-    "T\u01b0\u01a1ng lai c\u1ee7a HLV Kim Sang-sik",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
-    "Nvidia faces potential uninsured costs from shareholder lawsuits: FT - TradingVi",
-    "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank we",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Crypto Selloff Tests Traders\u2019 Resolve as Prices Approach Yearly Lows - TradingVi",
     "Alibaba announces plans to list T-Head, its Nvidia chip rival",
@@ -458,6 +452,12 @@
     "I took Vinted to court to get my money back",
     "Iran War Accelerates Southeast Asia\u2019s Renewable Energy Push",
     "Why is New World Development stock collapsing today?",
-    "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema"
+    "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema",
+    "Graduates are managing AI - but are they learning much else?",
+    "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
+    "Trump administration to name Nvidia, other AI firms as US \u2019national champions\u2019, ",
+    "The US consumer may be hitting a wall. A look at eight indicators",
+    "T\u00ean l\u1eeda c\u1ee7a hai \u2018\u00f4ng l\u1edbn\u2019 M\u1ef9 n\u1ed5 tung gi\u1eefa kh\u00f4ng trung, ph\u00e1 hu\u1ef7 40 v\u1ec7 tinh",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance"
   ]
 }
