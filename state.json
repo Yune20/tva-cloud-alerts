@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794855291.1171834,
+  "last_signals": 1794855660.0893805,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794851181.1600094,
+    "GBP/USD|4H:bot": 1794855661.9081144,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794855264.8631234,
-  "last_news": 1794855288.1205359,
+  "last_analysis": 1794855635.2939382,
+  "last_news": 1794855660.0886536,
   "seen_news": [
-    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
-    "PBOC is expected to set the USD/CNY reference rate at 6.6771 \u2013 Reuters estimate",
-    "B\u00e1c s\u0129 TPHCM mang m\u00e1y ECMO \u0111i L\u00e2m \u0110\u1ed3ng c\u1ee9u ng\u01b0\u1eddi nguy k\u1ecbch",
-    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
-    "Key facts: Interim CEO; House testimony; Singapore sales scrutiny - TradingView",
-    "NATO member Estonia to close Russia border after attempted 'sabotage' of drone m",
     "Shark B\u00ecnh l\u0129nh 10 n\u0103m t\u00f9 v\u00ec r\u1eeda ti\u1ec1n cho Mr Pips",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
     "BTCUSD: Bitcoin Sinks to $62,000 in Weekend Dump, Bulls Rush In to Buy the Dip -",
@@ -458,6 +452,12 @@
     "Microsoft says services fully restored after day-long global outage",
     "Yen steady against euro and dollar after soft Japanese GDP data",
     "Global broker Elev8 introduces AI access to help clients see more of their tradi",
-    "Ph\u00e1t hi\u1ec7n 12.000 m\u00b3 b\u00ea t\u00f4ng c\u00f9ng 1.800 t\u1ea5n th\u00e9p \u0111\u01b0\u1ee3c c\u1eafm s\u00e2u 40m xu\u1ed1ng l\u00f2ng \u0111\u1ea5t,"
+    "Ph\u00e1t hi\u1ec7n 12.000 m\u00b3 b\u00ea t\u00f4ng c\u00f9ng 1.800 t\u1ea5n th\u00e9p \u0111\u01b0\u1ee3c c\u1eafm s\u00e2u 40m xu\u1ed1ng l\u00f2ng \u0111\u1ea5t,",
+    "Turkmenistan Races to Complete Key TAPI Pipeline Section by Year-End",
+    "Apple adds facial recognition unlock to iPhone Duo",
+    "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers ",
+    "B\u1ea1n \u0111ang \"u\u1ed1ng\" bao nhi\u00eau ch\u1ec9 v\u00e0ng/n\u0103m? T\u1eeb ly n\u01b0\u1edbc v\u00e0i ch\u1ee5c ng\u00e0n th\u00e0nh c\u00e2u tr\u1ea3 l",
+    "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
+    "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact - TradingV"
   ]
 }
