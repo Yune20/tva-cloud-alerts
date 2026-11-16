@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1794839073.1181805,
-  "last_bot4": 1794847576.1325746,
+  "last_news_report": 1794850046.5114076,
+  "last_bot4": 1794850049.2268414,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794846677.2950308
+    "Gold": 1794850049.2267587
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794847286.2996933,
+  "last_signals": 1794850049.228086,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794846012.4248624,
+    "DXY|4H:top": 1794850052.363266,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794847288.5656772,
+    "EUR/USD|4H:bot": 1794850051.6954746,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794845411.5926836,
+    "GBP/USD|4H:bot": 1794850051.3725631,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794847278.9745064,
-  "last_news": 1794847286.2991269,
+  "last_analysis": 1794850030.1434777,
+  "last_news": 1794850039.904077,
   "seen_news": [
-    "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affai",
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "Why is Elders stock surging today?",
-    "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 ",
-    "Black Friday b\u00e2y gi\u1edd kh\u00f4ng ch\u1ec9 \u0111\u01a1n thu\u1ea7n c\u1ea1nh tranh v\u1ec1 gi\u00e1, chuy\u00ean gia ch\u1ec9 ra cu",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "European shares flat as Nvidia turmoil lingers and markets brace for AI mega-tes",
     "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fis",
     "TP.HCM k\u00edch ho\u1ea1t si\u00eau \"l\u00e1 ch\u1eafn\" 10.000 t\u1ef7 t\u1eeb 30/11, b\u1ea3o v\u1ec7 tr\u1ef1c ti\u1ebfp 6,5 tri\u1ec7u n",
@@ -458,6 +452,12 @@
     "Aclaris stock falls after atopic dermatitis trial fails",
     "BOJ\u2019s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top es",
     "N\u1eef ngh\u1ec7 s\u0129 t\u1eeb M\u1ef9 v\u1ec1 t\u00ecm t\u1edbi t\u1eadn nh\u00e0 NSND L\u1ec7 Th\u1ee7y \u0111\u1ec3 \"m\u1eafng v\u1ed1n\"",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+    "Venezuela\u2019s Oil Comeback Faces a New Threat From Washington",
+    "Dollar rally gathers pace as Japan\u2019s economic slump puts yen under pressure",
+    "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema",
+    "Vi\u1ec7t Nam c\u00f3 gia \u0111\u00ecnh tr\u00ed th\u1ee9c \u0111\u1eb7c bi\u1ec7t v\u1edbi 5 ng\u01b0\u1eddi con: Cha l\u00e0 Gi\u00e1o s\u01b0, m\u1eb9 qu\u1ed1c ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? "
   ]
 }
