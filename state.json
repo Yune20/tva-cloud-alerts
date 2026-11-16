@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794843469.0102863,
+  "last_signals": 1794844075.7562575,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794843459.4808333,
-  "last_news": 1794843469.0085588,
+  "last_analysis": 1794844067.5749736,
+  "last_news": 1794844075.7555993,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "Weekly Recap: Premium growth and record major claims - TradingView",
-    "Could Budapest be the next digital nomad hotspot?",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
-    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
     "Minister backs legal right to job support for young people",
     "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
     "Nvidia earnings could test a fragile market. Five stocks are already offering cl",
@@ -458,6 +452,12 @@
     "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
     "We're booking huge profits on a tech winner and making a chip stock swap",
     "Some under-25s should get fewer benefits, Milburn review to say",
-    "China\u2019s Coal Power Generation Slumps as Wind and Solar Surge"
+    "China\u2019s Coal Power Generation Slumps as Wind and Solar Surge",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng Zalo c\u1ea7n c\u1ea3nh gi\u00e1c v\u1edbi th\u1ee7 \u0111o\u1ea1n m\u1edbi n\u00e0y",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Canamex Gold Corp. (CSQ) Grants 3.1M Options at C$0.05 - TradingView",
+    "Parents told us what it\u2019s like to help their kids battle sports-gambling addicti",
+    "Social Security and the blue wave: What could happen to payroll taxes and senior",
+    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?"
   ]
 }
