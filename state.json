@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794857220.983666,
+  "last_signals": 1794857843.9735794,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794851181.5832965,
+    "DXY|4H:top": 1794857845.9707768,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794850051.6954746,
+    "EUR/USD|4H:bot": 1794857845.6067436,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794857223.2904408,
+    "GBP/USD|4H:bot": 1794857845.418018,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794857523.0363533,
-  "last_news": 1794857220.982951,
+  "last_analysis": 1794857836.1435597,
+  "last_news": 1794857843.9728894,
   "seen_news": [
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
-    "Weekly Recap: Profit growth and Barclays price target cut - TradingView",
-    "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
-    "Trump breaks silence about FAA nationwide ground stop, blames Biden administrati",
-    "Intel sued by investors after PC sales slump hits share price",
-    "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "Weekly Recap: Cambay control loss and Rs. 379 crore impairment - TradingView",
     "Here\u2019s how much the stock market could crumble if AI is a bubble that bursts, ac",
@@ -458,6 +452,12 @@
     "The Indian workers filming their work to train AI",
     "Retail sales and oil inventories among economic data due Tuesday",
     "Trade Tech Solutions adds perpetuals to its prop firm technology following predi",
-    "C\u1ef1u c\u00e1n b\u1ed9 n\u00f4ng nghi\u1ec7p kh\u1edfi nghi\u1ec7p b\u00e1n thu\u1ed1c th\u00fa y, sau 30 n\u0103m g\u00e2y d\u1ef1ng doanh ng"
+    "C\u1ef1u c\u00e1n b\u1ed9 n\u00f4ng nghi\u1ec7p kh\u1edfi nghi\u1ec7p b\u00e1n thu\u1ed1c th\u00fa y, sau 30 n\u0103m g\u00e2y d\u1ef1ng doanh ng",
+    "Visa, Mastercard urge approval of $38 billion swipe fee settlement",
+    "What Does Big Tech\u2019s AI Spending Tell Us About Nvidia\u2019s  Sales?",
+    "N\u00f3ng: 17 c\u1ed5 phi\u1ebfu B\u0110S, b\u00e1n l\u1ebb, b\u1ea3o hi\u1ec3m r\u01a1i v\u1ec1 \u0111\u00e1y nhi\u1ec1u n\u0103m trong c\u00f9ng 1 ng\u00e0y, ",
+    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
+    "Pre-Markets Lower as Puzzle Pieces Sorted - TradingView",
+    "Bond-market volatility is exploding higher. It could be the new normal for inves"
   ]
 }
