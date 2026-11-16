@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794860913.253776,
-  "last_bot4": 1794863695.7374718,
+  "last_bot4": 1794864325.436896,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794863027.7917955
+    "Gold": 1794864325.4368286
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794863695.7379131,
+  "last_signals": 1794864325.4374387,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794863687.9743104,
-  "last_news": 1794863695.7368677,
+  "last_analysis": 1794864314.8249214,
+  "last_news": 1794864322.0474243,
   "seen_news": [
-    "The $130 Billion Oil Boom Fueled by the Iran War",
-    "Nvidia set to deliver first life-after-Huang briefing",
-    "Morgan Stanley goes max overweight global stocks, sees 15% S&P 500 upside on AI ",
-    "C\u1ea3nh b\u00e1o th\u1ee7 \u0111o\u1ea1n gi\u1ea3 danh nh\u00e2n vi\u00ean thu\u1ebf, chi\u1ebfm \u0111o\u1ea1t ti\u1ec1n trong t\u00e0i kho\u1ea3n ng\u00e2n ",
-    "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "Rocket failure wipes out dozens of Amazon Leo satellites - TradingView",
     "\u0102n t\u00f4m c\u00e0ng xanh c\u00f3 l\u1ee3i g\u00ec, ai n\u00ean th\u1eadn tr\u1ecdng?",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
     "Weekly Recap: Net outflows and board appointment and trustee resignation - Tradi",
@@ -458,6 +452,12 @@
     "Nvidia investors will be clamoring for these answers during a historic earnings ",
     "Nvidia's Colette Kress confronts key questions in first earnings report since Je",
     "The tech helping crack decades-old cold cases",
-    "Chevron closes in on $5 billion Beacon deal, FT reports"
+    "Chevron closes in on $5 billion Beacon deal, FT reports",
+    "Kalshi plans to launch stock trading soon",
+    "Heat pumps: How much heat does your home really need?",
+    "California sues\u00a0OpenAI over AI models\u2019 cyberattacks on Hugging Face, other compa",
+    "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
+    "Nh\u00e2n vi\u00ean ng\u00e2n h\u00e0ng gi\u00e0nh gi\u1ea3i th\u01b0\u1edfng 5,2 t\u1ef7 \u0111\u1ed3ng nh\u1edd m\u1ed9t b\u1ee9c \u1ea3nh",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
