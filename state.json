@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794845410.3808126,
+  "last_signals": 1794846008.2339706,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,16 +75,16 @@
     "US30|1H": false,
     "US30|4H": true,
     "US30|1D": true,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794843470.1735072,
+    "DXY|4H:top": 1794846012.4248624,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794845411.7615578,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794845713.8697915,
-  "last_news": 1794845410.3801231,
+  "last_news": 1794846008.2332542,
   "seen_news": [
-    "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US",
-    "Ki\u1ebfm 2 t\u1ef7 \u0111\u1ed3ng m\u1ed7i th\u00e1ng n\u0103m 16 tu\u1ed5i, streamer Trung Qu\u1ed1c b\u1ecb ch\u00ednh m\u1eb9 ru\u1ed9t l\u1eeba v",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Jensen Huang Discusses Comeback As Nvidia CEO With Allies - FT - TradingView",
-    "China\u2019s hottest stocks these days have one thing in common: names that sound lik",
-    "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid ti",
     "3 big things we're watching in the stock market in the week ahead",
     "Gas starts flowing from Jackdaw after government green light",
     "India\u2019s Mphasis says clients boost cybersecurity spending as AI-driven threats r",
@@ -458,6 +452,12 @@
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
     "US Tightens Restrictions On Remote Access To Advanced AI Computing Power - Tradi",
     "SpaceX widens its lead in the space race, even as a tech selloff weighs on its s",
-    "U.S. crude oil declines to $87 a barrel on recovering Middle East exports"
+    "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
+    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
+    "Bitcoin sinks to under $65K, pulling down crypto names - TradingView",
+    "These 13 S&P 500 stocks can rise up to 70% over the next year, according to anal",
+    "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao",
+    "Minister backs legal right to job support for young people",
+    "Houthi Advance Puts Saudi Crude Exports at Risk"
   ]
 }
