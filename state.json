@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794815959.747058,
+  "last_signals": 1794816571.3509827,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794815960.0303247,
+    "USOIL|4H:top": 1794816571.8413982,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794815961.0097733,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794815946.5520377,
-  "last_news": 1794815956.257567,
+  "last_analysis": 1794816563.6984143,
+  "last_news": 1794816571.3499002,
   "seen_news": [
-    "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fis",
-    "TPHCM: H\u01a1n 4.340 t\u1ef7 \u0111\u1ed3ng 'l\u00ean \u0111\u1eddi' r\u1ea1ch \u00d4ng L\u1edbn",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
-    "Key facts: MSCI to Drop MSTR; CEO Sees Low Impact; $6.8B Bitcoin Loss - TradingV",
-    "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to",
-    "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs",
     "'M\u1eaft th\u1ea7n\u2019 AI kh\u00f4ng ch\u1ec9 \u0111\u1ec3 ph\u1ea1t ngu\u1ed9i",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Key facts: Bitcoin ETF outflows hit $1.44 billion; dollar firms - TradingView",
@@ -458,6 +452,12 @@
     "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers ",
     "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef g\u1ed1c \u00c1 l\u00e0 \u201cn\u1eef ho\u00e0ng g\u00f5 b\u00faa\u201d c\u1ee7a nh\u00e0 \u0111\u1ea5u gi\u00e1 l\u1eebng danh th\u1ebf gi\u1edbi: M\u1ed9t ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
-    "MegaETH parent cuts 20% of staff amid restructuring, AI push - TradingView"
+    "MegaETH parent cuts 20% of staff amid restructuring, AI push - TradingView",
+    "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affai",
+    "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "Why is Elders stock surging today?",
+    "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 ",
+    "Black Friday b\u00e2y gi\u1edd kh\u00f4ng ch\u1ec9 \u0111\u01a1n thu\u1ea7n c\u1ea1nh tranh v\u1ec1 gi\u00e1, chuy\u00ean gia ch\u1ec9 ra cu",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan"
   ]
 }
