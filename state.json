@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794817179.1977615,
+  "last_signals": 1794817812.2695282,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794817179.4309185,
+    "USOIL|4H:top": 1794817812.4969525,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794815961.0097733,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794817171.6410139,
-  "last_news": 1794817179.1972063,
+  "last_analysis": 1794817806.8113456,
+  "last_news": 1794817812.2689168,
   "seen_news": [
-    "Key facts: SSi Mantra FDA response, EU work; new technologies planned - TradingV",
-    "They train people to avoid 'honeypot' scams\u2014here are the common red flags they s",
-    "'An annoying buzz': The search for stealthier drones",
-    "Electrifying Ambitions Meet Tough Reality in Europe",
-    "Is dollar finally ready to break out? BCA weighs in",
-    "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
     "The Indian workers filming their work to train AI",
     "America\u2019s Offshore Wind Industry Is Growing Despite Trump\u2019s Crackdown",
     "Thousands of US\u00a0flights canceled, delayed for third day in a row",
@@ -458,6 +452,12 @@
     "TP.HCM k\u00edch ho\u1ea1t si\u00eau \"l\u00e1 ch\u1eafn\" 10.000 t\u1ef7 t\u1eeb 30/11, b\u1ea3o v\u1ec7 tr\u1ef1c ti\u1ebfp 6,5 tri\u1ec7u n",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
     "Pony.ai, Toyota roll out fully driverless robotaxis in Guangzhou - TradingView",
-    "Why this 40-year market veteran is making a lonely bet on a 40% stock-market cra"
+    "Why this 40-year market veteran is making a lonely bet on a 40% stock-market cra",
+    "Goldman Sachs Warns of Massive Oil Glut in 2027",
+    "Morgan Stanley upgrades Japan equities to overweight, sees 22% TOPIX upside",
+    "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
+    "Ch\u00e1y l\u1edbn kho ph\u1ebf li\u1ec7u, kh\u00f3i \u0111en cu\u1ed3n cu\u1ed9n",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Key facts: Bitcoin ETF outflows hit $1.44 billion; dollar firms - TradingView"
   ]
 }
