@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794805971.3210337,
+  "last_signals": 1794806645.4859087,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794803819.8398046,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794796351.5026052,
+    "GBP/USD|4H:bot": 1794806647.2921402,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794805962.0599272,
-  "last_news": 1794805971.320351,
+  "last_analysis": 1794806635.600914,
+  "last_news": 1794806645.4851508,
   "seen_news": [
-    "The macro backdrop remains negative for Ethereum as Trump's Iran remarks fuel re",
-    "Kh\u1edfi t\u1ed1 3 v\u1ee5 \u00e1n v\u1edbi 4 b\u1ecb can v\u1ec1 h\u00e0nh vi kinh doanh trang s\u1ee9c gi\u1ea3 nh\u00e3n hi\u1ec7u n\u1ed5i t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
-    "Budget airlines are going upscale with first-class seats and faster wifi",
-    "Meet the seven co-founders of Anthropic",
     "Globalstar VP, Finance & Operations Sold Shares Worth Over $11M - TradingView",
     "U.S. gas prices fall below $4 for the first time since July",
     "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -458,6 +452,12 @@
     "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Kaynes Technology India Q2 2027 Earnings Call Is Live - TradingView",
     "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal sup",
-    "Christmas toy rush being driven by squishies and building sets"
+    "Christmas toy rush being driven by squishies and building sets",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Key facts: Tesla merger talks; Cybercab preorders; FSD up, income down - Trading",
+    "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $",
+    "Living with a stink? Technology might help",
+    "U.S. plans to name Nvidia among AI \u2018national champions\u2019, WSJ reports",
+    "BOJ\u2019s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top es"
   ]
 }
