@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794839073.1190407,
+  "last_signals": 1794839681.5767033,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794834439.6381726,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794832111.4356766,
+    "EUR/USD|4H:bot": 1794839684.0193017,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794839060.6352673,
-  "last_news": 1794839069.0901334,
+  "last_analysis": 1794839672.3886743,
+  "last_news": 1794839681.5760403,
   "seen_news": [
-    "V\u00ec sao Jaian \u0111\u00e1nh Nobita nh\u01b0 c\u01a1m b\u1eefa nh\u01b0ng g\u1ea7n nh\u01b0 ch\u01b0a bao gi\u1edd \u0111\u1ed9ng tay v\u1edbi Shi",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Weekly Recap: FY27 profit guidance and 5.9% France sales growth - TradingView",
-    "Top Wall Street analysts are bullish on these 3 stocks for the long term",
-    "How a sex scandal at Nvidia is putting pressure on the White House",
-    "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signa",
     "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
     "In a policy switch, the Fed says its October 2027 meeting will not see a vote on",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
@@ -458,6 +452,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
     "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch"
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "Nablus Surgical Center Q3 Profit JOD 111,808 - TradingView",
+    "International student enrollment drops sharply, putting more U.S. colleges in fi",
+    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "European Gas Slumps on Milder Weather and Record U.S. LNG Flows",
+    "How will Fed rate hikes impact markets?"
   ]
 }
