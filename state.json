@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794840914.7804308,
+  "last_signals": 1794841518.5395088,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -44,7 +44,7 @@
     "5575146754|Gold|4H|dn": 1794809087.0715718,
     "5575146754|Gold|4H|trap_dn": 1794817179.1977615,
     "5575146754|Gold|1D|tbot": 1794840914.7804308,
-    "5575146754|Gold|1D|dbot": 1794785749.1720378,
+    "5575146754|Gold|1D|dbot": 1794841518.5395088,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762
   },
@@ -60,16 +60,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -136,7 +136,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794840915.1838455,
+    "Gold|1D:bot": 1794841518.7858548,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794841221.8684025,
-  "last_news": 1794840914.7797837,
+  "last_news": 1794841518.5388112,
   "seen_news": [
-    "D\u00f9ng chi\u00eau cho vay \u0111\u00e1o h\u1ea1n ng\u00e2n h\u00e0ng, l\u1eeba ng\u01b0\u1eddi y\u00eau h\u01a1n 1,4 t\u1ef7 \u0111\u1ed3ng",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Key facts: XRP ETFs\u2019 Assets Fall to $1.16B; $0.75 Marks Key Support - TradingVie",
-    "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear",
-    "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-    "Asia Is Building 73% of the World's New Nuclear Capacity",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
     "Weekly Recap: Board chair proposal and Sodexo Live! CEO appointment - TradingVie",
     "SpaceX catches upper stage of Starship rocket in historic first",
@@ -458,6 +452,12 @@
     "Jim Cramer's top 10 things to watch in the stock market Monday",
     "How a sex scandal at Nvidia is putting pressure on the White House",
     "Oil Prices Fall as Fears of a Global Supply Glut Return",
-    "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signa"
+    "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signa",
+    "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "Ukraine Braces for Pivotal Week of Defense Talks Amid Fresh Russian Attacks",
+    "Nasdaq falls 1% at open as Nvidia woes\u00a0weigh on sentiment ahead of earnings",
+    "Trump says he wouldn\u2019t mind seeing Huang reinstated as Nvidia CEO",
+    "V\u00ec sao ng\u01b0\u1eddi Vi\u1ec7t n\u00f3i \"m\u1ed9t n\u1eafng hai s\u01b0\u01a1ng\" m\u00e0 kh\u00f4ng ph\u1ea3i \"hai n\u1eafng m\u1ed9t s\u01b0\u01a1ng\"?"
   ]
 }
