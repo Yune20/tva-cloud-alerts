@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794807263.8391142,
+  "last_signals": 1794807872.2018895,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794807263.8391142,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -124,9 +124,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794592930.1060834,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794788916.2286413,
+    "DXY|4H:top": 1794807875.3163707,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794807265.4357626,
+    "EUR/USD|4H:bot": 1794807874.6185539,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794807265.1937597,
+    "GBP/USD|4H:bot": 1794807874.280209,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794807255.4009104,
-  "last_news": 1794807263.8382258,
+  "last_analysis": 1794807864.329688,
+  "last_news": 1794807872.2011867,
   "seen_news": [
-    "Top Wall Street analysts are bullish on these 3 stocks for the long term",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-    "Trump: We don\u2019t need a deal with Iran",
-    "Phim Trung t\u1eebng \u0111\u01b0\u1ee3c \u0110H S\u01b0 Ph\u1ea1m H\u00e0 N\u1ed9i \u0111\u01b0a v\u00e0o nghi\u00ean c\u1ee9u, l\u1ed7i h\u1eb9n v\u1edbi kh\u00e1n gi\u1ea3 ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Why falling AI token prices aren\u2019t the negative for AI providers one might assum",
     "Iran says supertanker with 2 million barrels sank after Hormuz mine strike, unco",
     "\u0110\u1ec7 nh\u1ea5t danh h\u00e0i mi\u1ec1n Nam c\u00f3 9 ch\u00e1u n\u1ed9i, 3 ch\u00e1u c\u1ed1, nh\u00e0 v\u1ee3 g\u1ea7n 100 ng\u01b0\u1eddi \u1edf M\u1ef9",
@@ -458,6 +452,12 @@
     "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
     "C\u00e1ch ch\u1ed1ng r\u00e9t xa x\u1ec9 c\u1ee7a c\u00e1c ho\u00e0ng \u0111\u1ebf Trung Qu\u1ed1c th\u1eddi c\u1ed5 \u0111\u1ea1i",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView"
+    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
+    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations ",
+    "Kh\u00f4ng ph\u1ea3i c\u00e1 di\u1ebfc hay c\u00e1 ch\u00e9p, \u0111\u00e2y m\u1edbi l\u00e0 3 lo\u1ea1i c\u00e1 n\u00ean \u0103n 2 l\u1ea7n m\u1ed7i tu\u1ea7n: R\u1ea5t ",
+    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
+    "Insider trades: Microsoft, Netflix, Boeing among notable names - TradingView",
+    "Budget airlines are going upscale with first-class seats and faster wifi",
+    "Meet the seven co-founders of Anthropic"
   ]
 }
