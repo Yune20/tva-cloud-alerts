@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794850049.228086,
+  "last_signals": 1794850574.3989146,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794850052.363266,
+    "DXY|4H:top": 1794850575.8381834,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794850051.6954746,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794850051.3725631,
+    "GBP/USD|4H:bot": 1794850575.3521585,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794850030.1434777,
-  "last_news": 1794850039.904077,
+  "last_analysis": 1794850567.7080548,
+  "last_news": 1794850574.3982809,
   "seen_news": [
-    "European shares flat as Nvidia turmoil lingers and markets brace for AI mega-tes",
-    "ECB bond market intervention warning from Governor Knot. Can\u2019t replace sound fis",
-    "TP.HCM k\u00edch ho\u1ea1t si\u00eau \"l\u00e1 ch\u1eafn\" 10.000 t\u1ef7 t\u1eeb 30/11, b\u1ea3o v\u1ec7 tr\u1ef1c ti\u1ebfp 6,5 tri\u1ec7u n",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
-    "Pony.ai, Toyota roll out fully driverless robotaxis in Guangzhou - TradingView",
-    "Why this 40-year market veteran is making a lonely bet on a 40% stock-market cra",
     "Goldman Sachs Warns of Massive Oil Glut in 2027",
     "Morgan Stanley upgrades Japan equities to overweight, sees 22% TOPIX upside",
     "US bond market cracks resurface as higher for longer fears return to haunt Wall ",
@@ -458,6 +452,12 @@
     "Dollar rally gathers pace as Japan\u2019s economic slump puts yen under pressure",
     "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema",
     "Vi\u1ec7t Nam c\u00f3 gia \u0111\u00ecnh tr\u00ed th\u1ee9c \u0111\u1eb7c bi\u1ec7t v\u1edbi 5 ng\u01b0\u1eddi con: Cha l\u00e0 Gi\u00e1o s\u01b0, m\u1eb9 qu\u1ed1c ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? "
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
+    "China house prices continue their downward spiral",
+    "S\u1ebfp IMF c\u1ea3nh b\u00e1o: Kinh t\u1ebf to\u00e0n c\u1ea7u \"\u0111ang \u0111\u1ee9ng tr\u00ean 1 ch\u00e2n\"",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "Hercules Metals Corp. (BIG) Closes C$5.78M Barrick Placement - TradingView",
+    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year"
   ]
 }
