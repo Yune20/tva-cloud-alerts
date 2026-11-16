@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794783637.003227,
+  "last_news_report": 1794794537.0076127,
   "last_bot4": 1794793921.4485896,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,12 +29,11 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794793921.4490736,
+  "last_signals": 1794794537.0085618,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794786381.8815129,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794496067.3385115,
-    "5575146754|Gold|1H|trap_up": 1794189208.8440979,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
     "5575146754|Gold|4H|dtop": 1794273924.4828646,
@@ -65,8 +64,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
-    "USOIL|4H": true,
+    "USOIL|1H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -84,13 +83,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794794795,
@@ -148,7 +147,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794793922.3776042,
+    "GBP/USD|4H:bot": 1794794538.68123,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +157,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794793912.1365008,
-  "last_news": 1794793919.1763804,
+  "last_analysis": 1794794523.348829,
+  "last_news": 1794794532.8651967,
   "seen_news": [
-    "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-    "Beauty advent calendars can cost hundreds but are they value for money?",
-    "India's Road Fuel Demand Won't Peak Until 2034",
-    "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
-    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations ",
-    "Ng\u00e0y 16/11, g\u1eedi 100 tri\u1ec7u t\u1ea1i MB, VPBank, Techcombank, Sacombank, SHB, HDBank v\u00e0",
     "T\u1eeb HH Linh \u0110\u00e0m \u0111\u1ebfn Thanh H\u00e0: B\u00e0i to\u00e1n an c\u01b0 sau nh\u1eefng sai ph\u1ea1m x\u00e2y d\u1ef1ng",
     "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affai",
     "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -460,6 +453,12 @@
     "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
     "Robot vessels take on the dangerous work of mine hunting",
     "UK PM Burnham to call for reset of Britain\u2019s EU relationship- Sky News",
-    "Nvida stock analysis before its earnings"
+    "Nvida stock analysis before its earnings",
+    "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "Why is IDP Education stock sliding today?",
+    "Gold futures rose Friday, but the rally failed. What I\u2019m watching next week",
+    "T\u1ed5ng B\u00ed th\u01b0, Ch\u1ee7 t\u1ecbch n\u01b0\u1edbc T\u00f4 L\u00e2m c\u00f9ng l\u00e3nh \u0111\u1ea1o Ph\u00e1p, Campuchia th\u0103m gian h\u00e0ng V",
+    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock"
   ]
 }
