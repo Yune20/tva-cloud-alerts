@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794828062.163856,
+  "last_news_report": 1794839073.1181805,
   "last_bot4": 1794838707.6466355,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794838398.5687823,
+  "last_signals": 1794839073.1190407,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794838704.618223,
-  "last_news": 1794838398.5680234,
+  "last_analysis": 1794839060.6352673,
+  "last_news": 1794839069.0901334,
   "seen_news": [
-    "Spain inflation remains stubborn in October, keeping ECB rate hike expectations ",
-    "Kh\u00f4ng ph\u1ea3i c\u00e1 di\u1ebfc hay c\u00e1 ch\u00e9p, \u0111\u00e2y m\u1edbi l\u00e0 3 lo\u1ea1i c\u00e1 n\u00ean \u0103n 2 l\u1ea7n m\u1ed7i tu\u1ea7n: R\u1ea5t ",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
-    "Insider trades: Microsoft, Netflix, Boeing among notable names - TradingView",
-    "Budget airlines are going upscale with first-class seats and faster wifi",
-    "Meet the seven co-founders of Anthropic",
     "V\u00ec sao Jaian \u0111\u00e1nh Nobita nh\u01b0 c\u01a1m b\u1eefa nh\u01b0ng g\u1ea7n nh\u01b0 ch\u01b0a bao gi\u1edd \u0111\u1ed9ng tay v\u1edbi Shi",
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Weekly Recap: FY27 profit guidance and 5.9% France sales growth - TradingView",
@@ -458,6 +452,12 @@
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
     "Silicon Valley leaders back call for Jensen Huang\u2019s return to Nvidia",
     "Canada October CPI 3.1% vs +3.2% expected",
-    "Khoe s\u1ed1ng ti\u1ebft ki\u1ec7m nh\u01b0ng \u0103n tr\u01b0a h\u1ebft 150.000 \u0111\u1ed3ng, c\u00f4 v\u1ee3 g\u00e2y tranh c\u00e3i"
+    "Khoe s\u1ed1ng ti\u1ebft ki\u1ec7m nh\u01b0ng \u0103n tr\u01b0a h\u1ebft 150.000 \u0111\u1ed3ng, c\u00f4 v\u1ee3 g\u00e2y tranh c\u00e3i",
+    "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+    "Th\u00f4ng b\u00e1o quan tr\u1ecdng t\u1eeb EVN \u0111\u1ebfn ng\u01b0\u1eddi nh\u1eadn \u0111\u01b0\u1ee3c cu\u1ed9c g\u1ecdi, tin nh\u1eafn sau",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
+    "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $",
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch"
   ]
 }
