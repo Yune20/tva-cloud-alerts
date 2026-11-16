@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794794537.0076127,
-  "last_bot4": 1794802600.2192898,
+  "last_bot4": 1794803494.9568908,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794802896.6763084,
+  "last_signals": 1794803494.9574752,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794800111.876167,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794803200.535245,
-  "last_news": 1794802896.6754165,
+  "last_news": 1794803494.9561875,
   "seen_news": [
-    "Shoals Technologies Group, Inc. Stock 12\u2011Month Price Target Raised to $11.62, Im",
-    "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright s",
-    "I took Vinted to court to get my money back",
-    "Iran War Accelerates Southeast Asia\u2019s Renewable Energy Push",
-    "US rocket fails after launch, payload of Amazon internet satellites destroyed",
-    "Bitcoin lao d\u1ed1c xu\u1ed1ng m\u1ee9c th\u1ea5p nh\u1ea5t trong 3 th\u00e1ng",
     "How a civil servant got away with juggling five jobs for so long",
     "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
     "Labour lawmakers challenge Burnham on Rosebank oil drilling - report",
@@ -458,6 +452,12 @@
     "CII: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - CII - VietstockFinance",
     "Firmus pursues $3B private funding after shelving IPO - TradingView",
     "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on infl",
-    "US inflation higher than expected in October - here's what is happening with pri"
+    "US inflation higher than expected in October - here's what is happening with pri",
+    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Sam Altman ChatGPT AI Predicts a Super Bullish Reversal for BTC - TradingView",
+    "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "Germany Eyes \u20ac4 Billion Buyout of RWE and E.ON\u2019s Urenco Stake",
+    "Japanese yen tests 160 again, drawing intervention threats"
   ]
 }
