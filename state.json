@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794861518.1617603,
+  "last_signals": 1794862130.9172654,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794861507.7681682,
-  "last_news": 1794861518.1610847,
+  "last_analysis": 1794862120.5394228,
+  "last_news": 1794862130.916475,
   "seen_news": [
-    "M\u00e2m c\u01a1m nh\u00e0 c\u1ee7a Kh\u1ea3 Ng\u00e2n v\u00e0 Nhan Ph\u00fac Vinh",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
-    "ESG 3Q 2026: Revenue $4.6K, EPS ($0.00) \u2014 10-Q Summary - TradingView",
-    "A big chunk of your 401(k) is likely invested in Nvidia",
-    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
-    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "China\u2019s slowdown deepens in October as industrial output, retail sales, investme",
     "Jensen Huang allies campaign to reinstate the former Nvidia boss",
     "Deutsche Bank warns markets may be underestimating rate hike risks",
@@ -458,6 +452,12 @@
     "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
     "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
     "Xpeng earnings analysis: questions answered and next catalysts",
-    "Crude oil remains supported amid the prolonged US-Iran standoff and risks of mil"
+    "Crude oil remains supported amid the prolonged US-Iran standoff and risks of mil",
+    "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+    "The grads ditching the UK for a fresh start abroad",
+    "Chevron to buy Blackstone-backed oil producer for $5 billion, FT reports",
+    "Market outlook for the week of 16th - 20th November",
+    "Agribank khuy\u1ebfn c\u00e1o t\u1ea5t c\u1ea3 kh\u00e1ch h\u00e0ng h\u1ea1n ch\u1ebf d\u00f9ng Wi-Fi c\u00f4ng c\u1ed9ng",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
