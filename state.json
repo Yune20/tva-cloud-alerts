@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794794537.0076127,
-  "last_bot4": 1794799206.5788302,
+  "last_bot4": 1794800111.8752942,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794799206.5787368
+    "Gold": 1794800111.8752186
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794799512.8036761,
+  "last_signals": 1794800111.876167,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794795194.66728,
+    "5575146754|Gold|1H|range_in": 1794800111.876167,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794496067.3385115,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794799810.5563197,
-  "last_news": 1794799512.8027017,
+  "last_news": 1794800107.3523266,
   "seen_news": [
-    "US inflation higher than expected in October - here's what is happening with pri",
-    "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-    "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US ",
-    "Nhan Ph\u00fac Vinh - Kh\u1ea3 Ng\u00e2n tung tr\u1ecdn b\u1ed9 \u1ea3nh t\u00ecnh c\u1ea3m, khoe s\u1eafp l\u00ean ch\u1ee9c b\u1ed1 m\u1eb9 b\u1ec9m",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "6% Corporate Bond Yields Attract Interest After Nvidia Turmoil - TradingView",
     "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
     "Ph\u00e1t hi\u1ec7n c\u1ef1u gi\u00e1m \u0111\u1ed1c ng\u00e2n h\u00e0ng l\u00e0m shipper \u1edf tu\u1ed5i 51, ki\u1ebfm h\u01a1n 38 tri\u1ec7u \u0111\u1ed3ng/t",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
@@ -458,6 +452,12 @@
     "Asian chip stocks slide ahead of Nvidia earnings",
     "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits hou",
     "Ch\u00ednh th\u1ee9c t\u1eeb 1/12, c\u00e1c ng\u00e2n h\u00e0ng \u00e1p d\u1ee5ng quy \u0111\u1ecbnh m\u1edbi v\u1ec1 gi\u00e1m s\u00e1t giao d\u1ecbch chu",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Japan\u2019s economy unexpectedly shrinks as inflation squeezes households",
+    "China\u2019s October data shows the economy losing momentum on retail sales and indus",
+    "Ph\u00e1t hi\u1ec7n 49 kh\u1ed1i b\u00ea t\u00f4ng, m\u1ed7i kh\u1ed1i n\u1eb7ng 3.700 t\u1ea5n \u0111\u01b0\u1ee3c \u0111\u00e1nh ch\u00ecm xu\u1ed1ng bi\u1ec3n, m\u1edf",
+    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-11-15 \u2014 cnbctv:3f2ef139e094b:0 - TradingV",
+    "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contac"
   ]
 }
