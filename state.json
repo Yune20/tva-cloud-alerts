@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794820266.8792493,
+  "last_signals": 1794820594.1660519,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -122,11 +122,11 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794820267.6209764,
+    "USOIL|4H:top": 1794820594.4278605,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794820270.143183,
+    "DXY|4H:top": 1794820595.33751,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794820269.4091725,
+    "EUR/USD|4H:bot": 1794820595.1007311,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794819972.2251256,
-  "last_news": 1794820266.8786483,
+  "last_analysis": 1794820587.324143,
+  "last_news": 1794820594.1653466,
   "seen_news": [
-    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
-    "Poundland gets more time to secure a rescue deal as emergency talks continue",
-    "Yen steady against euro and dollar after soft Japanese GDP data",
-    "Weekend: Bessent urges Nvidia to hire an outsider CEO, pouring cold water on a H",
-    "BIDV Private Banking k\u1ebft n\u1ed1i ngh\u1ec7 thu\u1eadt v\u1edbi chi\u1ebfn l\u01b0\u1ee3c qu\u1ea3n tr\u1ecb gia s\u1ea3n",
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
     "Jio Platforms begins talks with Indian firms for satellite launch- Mint",
     "PBOC is expected to set the USD/CNY reference rate at 6.6771 \u2013 Reuters estimate",
     "T\u1eeb n\u0103m 2026, ng\u01b0\u1eddi t\u1eeb \u0111\u1ee7 75 tu\u1ed5i \u0111ang nh\u1eadn tr\u1ee3 c\u1ea5p v\u1eabn c\u00f3 th\u1ec3 nh\u1eadn th\u00eam 540.000 ",
@@ -458,6 +452,12 @@
     "They train people to avoid 'honeypot' scams\u2014here are the common red flags they s",
     "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "America\u2019s Offshore Wind Industry Is Growing Despite Trump\u2019s Crackdown",
-    "Uniper targets 2027 core earnings of up to \u20ac1.5 bln, \u20ac300 mln dividend"
+    "Uniper targets 2027 core earnings of up to \u20ac1.5 bln, \u20ac300 mln dividend",
+    "Iran Braces for a Budget Without Oil Revenue",
+    "Eurozone yields stall after volatile week as traders brace for AI mega-tests",
+    "Global broker Elev8 introduces AI access to help clients see more of their tradi",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 \u00f4 t\u00f4 tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t t\u1eeb c\u00f4ng an",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Consolidated Edison, Inc. Stock 12\u2011Month Price Target Raised to $111, Implies 8%"
   ]
 }
