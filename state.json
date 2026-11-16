@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794783637.003227,
-  "last_bot4": 1794791068.2191017,
+  "last_bot4": 1794791735.3105457,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794791390.9859765,
+  "last_signals": 1794791735.3109906,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794786381.8815129,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -62,7 +62,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794791384.2833579,
-  "last_news": 1794791390.9851146,
+  "last_analysis": 1794791726.7850335,
+  "last_news": 1794791735.309764,
   "seen_news": [
-    "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were f",
-    "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-    "Poundland gets more time to secure a rescue deal as emergency talks continue",
-    "U.S. flight disruptions enter third day, FAA eyes Monday return to normal",
-    "Nvida stock analysis before its earnings",
-    "Danh t\u00ednh m\u1ed9t c\u1ef1u sinh vi\u00ean Khoa V\u1eadt l\u00fd Tr\u01b0\u1eddng \u0110H T\u1ed5ng h\u1ee3p H\u00e0 N\u1ed9i v\u1eeba v\u1ec1 tr\u01b0\u1eddng ",
     "Analysis: Companies love a \u2018rockstar\u2019 CEO. Until they depend on one",
     "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "Gold futures rose Friday, but the rally failed. What I\u2019m watching next week",
@@ -460,6 +454,12 @@
     "Zai Lab Limited Adds 2 Drugs to China's NRDL - TradingView",
     "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
     "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "Iran Braces for a Budget Without Oil Revenue"
+    "Iran Braces for a Budget Without Oil Revenue",
+    "Canaccord Genuity Group Inc. (CF) Agrees to Go-Private Deal at \u00a34.15 Plus $7.45 ",
+    "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c",
+    "Trump breaks silence about FAA nationwide ground stop, blames Biden administrati",
+    "Microsoft says services fully restored after day-long global outage",
+    "SK Hynix to spend $1 billion over five years to support chip suppliers",
+    "ICYMI: Fed\u2019s Jefferson says inflation is the key signal for rates, with PCE stil"
   ]
 }
