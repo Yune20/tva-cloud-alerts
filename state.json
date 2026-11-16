@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794806645.4859087,
+  "last_signals": 1794807263.8391142,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794803819.8398046,
+    "5575146754|Gold|1H|range_in": 1794807263.8391142,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794496067.3385115,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794788916.2286413,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794787945.6083324,
+    "EUR/USD|4H:bot": 1794807265.4357626,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794806647.2921402,
+    "GBP/USD|4H:bot": 1794807265.1937597,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794806635.600914,
-  "last_news": 1794806645.4851508,
+  "last_analysis": 1794807255.4009104,
+  "last_news": 1794807263.8382258,
   "seen_news": [
-    "Globalstar VP, Finance & Operations Sold Shares Worth Over $11M - TradingView",
-    "U.S. gas prices fall below $4 for the first time since July",
-    "How a sex scandal at Nvidia is putting pressure on the White House",
-    "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signa",
-    "US October federal budget deficit sets a record",
-    "\u0110\u00e2u m\u1edbi l\u00e0 Nh\u00e3 Ph\u01b0\u01a1ng?",
     "Top Wall Street analysts are bullish on these 3 stocks for the long term",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -458,6 +452,12 @@
     "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $",
     "Living with a stink? Technology might help",
     "U.S. plans to name Nvidia among AI \u2018national champions\u2019, WSJ reports",
-    "BOJ\u2019s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top es"
+    "BOJ\u2019s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top es",
+    "Oil Prices Fall as Fears of a Global Supply Glut Return",
+    "New World shares plunge 47% to record low on $3.2 billion rights issue",
+    "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
+    "C\u00e1ch ch\u1ed1ng r\u00e9t xa x\u1ec9 c\u1ee7a c\u00e1c ho\u00e0ng \u0111\u1ebf Trung Qu\u1ed1c th\u1eddi c\u1ed5 \u0111\u1ea1i",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView"
   ]
 }
