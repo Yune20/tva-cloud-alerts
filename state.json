@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794864931.115548,
+  "last_signals": 1794865252.9602387,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794864932.864973,
+    "DXY|4H:top": 1794865254.8602796,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794858453.3736765,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794864636.0259871,
-  "last_news": 1794864645.5657814,
+  "last_analysis": 1794865242.0326586,
+  "last_news": 1794865252.9595082,
   "seen_news": [
-    "Nasdaq, S&P futures decline with Nvidia earnings, Anthropic debut looming",
-    "investingLive European news wrap: Risk sentiment remains negative",
-    "\u0110\u00fang 5 ng\u00e0y n\u1eefa, khu du l\u1ecbch 6.000 t\u1ef7 \u0111\u1ed3ng c\u1ee7a v\u1ee3 ch\u1ed3ng b\u00e0 Nguy\u1ec5n Ph\u01b0\u01a1ng H\u1eb1ng di",
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
-    "Domino's Pizza Inc. (DPZ) Launches Sweet Heat Smokehouse Pizza Nationwide - Trad",
-    "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs",
     "H\u00e0 N\u1ed9i \u01b0u ti\u00ean 14 v\u1ecb tr\u00ed b\u00e3i \u0111\u1ed7 xe, quy m\u00f4 h\u01a1n 3.700 ch\u1ed7",
     "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "REG - Amundi SA Rotork PLC - Form 8.3 - Rotork plc - TradingView",
@@ -458,6 +452,12 @@
     "China\u2019s October data shows the economy losing momentum on retail sales and indus",
     "\u0110\u00f3ng c\u1ecdc d\u00e0i t\u1edbi 70 m xuy\u00ean l\u1edbp b\u00f9n s\u00e9t, h\u00fat ch\u00e2n kh\u00f4ng cho \u0111\u1ea5t c\u1ed1 k\u1ebft: C\u1ea3ng n\u01b0\u1edb",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "Tiger Global Management Cuts Share Stake In Take-Two Interactive Software - Trad"
+    "Tiger Global Management Cuts Share Stake In Take-Two Interactive Software - Trad",
+    "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of gro",
+    "VN-Index c\u00f3 th\u1ec3 h\u01b0\u1edbng t\u1edbi 1.870 \u0111i\u1ec3m, CTCK \u201cch\u1ecdn m\u1eb7t g\u1eedi v\u00e0ng\u201d lo\u1ea1t c\u1ed5 phi\u1ebfu ng\u00e2",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "Canaccord Genuity maintains Belite Bio at Buy, raises price target to $314 from ",
+    "Rare-earth stocks sink deeper into the red. Here\u2019s the latest catalyst.",
+    "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving l"
   ]
 }
