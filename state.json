@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794805364.7554631,
-  "last_bot4": 1794809993.8980823,
+  "last_bot4": 1794810643.7888668,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794809378.6979637
+    "Gold": 1794810643.7887752
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794810322.3131073,
+  "last_signals": 1794810643.7896209,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794810322.3131073,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|ttop": 1794261235.5788524,
     "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
-    "5575146754|Gold|4H|tbot": 1794446162.61961,
+    "5575146754|Gold|4H|tbot": 1794810643.7896209,
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794809087.0715718,
@@ -67,7 +67,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -132,7 +132,7 @@
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794465692.7822976,
+    "Gold|4H:bot": 1794810643.870523,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794810316.427829,
-  "last_news": 1794810322.312357,
+  "last_analysis": 1794810634.3044112,
+  "last_news": 1794810641.337412,
   "seen_news": [
-    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "Trump Extends Jones Act Waiver For Another 90 Days",
-    "Megaspeed says ex-Nvidia CEO-linked executive left in 2025 amid U.S. scrutiny",
-    "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of gro",
-    "Nh\u1eefng ng\u01b0\u1eddi \u0111ang mu\u1ed1n mua v\u00e0ng \u0111\u1eebng b\u1ecf qua \u0111i\u1ec1u n\u00e0y",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
     "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
     "U.S. diesel prices fall below $6 a gallon to two-month low",
     "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger De",
@@ -458,6 +452,12 @@
     "Key facts: XRP ETFs\u2019 Assets Fall to $1.16B; $0.75 Marks Key Support - TradingVie",
     "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear",
     "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-    "Asia Is Building 73% of the World's New Nuclear Capacity"
+    "Asia Is Building 73% of the World's New Nuclear Capacity",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
+    "Weekly Recap: Board chair proposal and Sodexo Live! CEO appointment - TradingVie",
+    "SpaceX catches upper stage of Starship rocket in historic first",
+    "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+    "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
+    "Asia stocks tumble as chipmakers slide and weak China data adds pressure"
   ]
 }
