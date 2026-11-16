@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794807872.2018895,
+  "last_signals": 1794808483.6655083,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794807263.8391142,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,8 +66,8 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794592930.1060834,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794807875.3163707,
+    "DXY|4H:top": 1794808485.1283548,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794807874.6185539,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794807864.329688,
-  "last_news": 1794807872.2011867,
+  "last_analysis": 1794808474.7721238,
+  "last_news": 1794808483.6647944,
   "seen_news": [
-    "Why falling AI token prices aren\u2019t the negative for AI providers one might assum",
-    "Iran says supertanker with 2 million barrels sank after Hormuz mine strike, unco",
-    "\u0110\u1ec7 nh\u1ea5t danh h\u00e0i mi\u1ec1n Nam c\u00f3 9 ch\u00e1u n\u1ed9i, 3 ch\u00e1u c\u1ed1, nh\u00e0 v\u1ee3 g\u1ea7n 100 ng\u01b0\u1eddi \u1edf M\u1ef9",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Gabriel Announces Dismissal of ICSID Annulment Application - TradingView",
-    "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 year",
     "B\u1ea7u Hi\u1ec3n ti\u1ebft l\u1ed9 3 th\u1ee9 \u0111\u1ec3 t\u1eeb m\u1ed9t c\u1ef1u sinh vi\u00ean V\u1eadt l\u00fd th\u00e0nh c\u00f4ng x\u00e2y d\u1ef1ng h\u1ec7 sin",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
     "Nic Carter says most Bitcoin treasury firms offer little beyond ETF exposure - T",
@@ -458,6 +452,12 @@
     "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
     "Insider trades: Microsoft, Netflix, Boeing among notable names - TradingView",
     "Budget airlines are going upscale with first-class seats and faster wifi",
-    "Meet the seven co-founders of Anthropic"
+    "Meet the seven co-founders of Anthropic",
+    "V\u00ec sao Jaian \u0111\u00e1nh Nobita nh\u01b0 c\u01a1m b\u1eefa nh\u01b0ng g\u1ea7n nh\u01b0 ch\u01b0a bao gi\u1edd \u0111\u1ed9ng tay v\u1edbi Shi",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Weekly Recap: FY27 profit guidance and 5.9% France sales growth - TradingView",
+    "Top Wall Street analysts are bullish on these 3 stocks for the long term",
+    "How a sex scandal at Nvidia is putting pressure on the White House",
+    "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signa"
   ]
 }
