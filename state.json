@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794823666.9244552,
+  "last_signals": 1794823988.9221387,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -64,7 +64,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794823667.1787164,
+    "USOIL|4H:top": 1794823989.3532388,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794821833.599541,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794823366.549873,
-  "last_news": 1794823666.9237769,
+  "last_analysis": 1794823979.8855057,
+  "last_news": 1794823988.9214761,
   "seen_news": [
-    "T\u00edn hi\u1ec7u t\u1eeb s\u1ef1 s\u1ee5p \u0111\u1ed5 c\u1ee7a t\u1ef7 ph\u00fa Jensen Huang",
-    "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
-    "Stock market outlook, November 16-20: Nifty logs 3-week winning streak, first si",
-    "China\u2019s slowdown deepens in October as industrial output, retail sales, investme",
-    "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "+24%, +16%, +14%: our AI called these stocks and they surged in just two weeks",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
     "Peru\u2019s Economy Cooled Unexpectedly in September as Mining and Farming Slumped - ",
     "'We slept here': Flight delays linger but schedule is back on track for Monday",
@@ -458,6 +452,12 @@
     "X\u00f4n xao tin \u0111\u1ed3n iPhone t\u1ef1 \u0111\u1ed9ng b\u1eadt tr\u1ea1ng th\u00e1i 'Hi\u1ebfn t\u1ea1ng'",
     "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Weekly Recap: Oelkers exit, Ekholm chair proposal and analyst target hikes - Tra",
-    "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A. estate"
+    "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A. estate",
+    "What Does Big Tech\u2019s AI Spending Tell Us About Nvidia\u2019s  Sales?",
+    "C\u01a1m nh\u00e0 Angela Ph\u01b0\u01a1ng Trinh",
+    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
+    "Weekly Recap: Biomethane sale exclusivity and 4% interim dividend hike - Trading",
+    "Former NFL star Chris Simms sells his 300-year-old Greenwich, Conn., home for $5",
+    "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting"
   ]
 }
