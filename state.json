@@ -29,13 +29,12 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794865874.6621885,
+  "last_signals": 1794866483.443975,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794809087.0715718,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
-    "5575146754|Gold|4H|ttop": 1794261235.5788524,
     "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
     "5575146754|Gold|4H|tbot": 1794810643.7896209,
@@ -75,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -124,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794865876.9038298,
+    "DXY|4H:top": 1794866484.7271698,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794858453.3736765,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794860914.6815608,
+    "GBP/USD|4H:bot": 1794866484.3533518,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794865863.2620757,
-  "last_news": 1794865874.661472,
+  "last_analysis": 1794866472.9993021,
+  "last_news": 1794866483.4432774,
   "seen_news": [
-    "Aramark\u2019s Q3 CY2026 earnings results: Revenue in line with expectations - Tradin",
-    "Anthropic\u2019s IPO is forcing investors to assess uninsurable risks they\u2019ve never e",
-    "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
-    "UK economy grows at fastest rate for more than two years",
-    "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens",
-    "Why is CG Oncology stock surging today?",
     "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, a",
     "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
     "Poundland gets more time to secure a rescue deal as emergency talks continue",
@@ -458,6 +451,12 @@
     "As Christmas rush looms, how do China-made toys find their way to the US?",
     "Neighborhood Intelligence stock rises on $25M buyback plan",
     "investingLive European news wrap: Risk sentiment remains negative",
-    "L\u00e3nh \u0111\u1ea1o VinaCapital: Ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam c\u1ea7n tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn d\u00e0i h\u1ea1n, thay "
+    "L\u00e3nh \u0111\u1ea1o VinaCapital: Ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam c\u1ea7n tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn d\u00e0i h\u1ea1n, thay ",
+    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "Can Underwater Data Centers Escape the Land-Based Backlash?",
+    "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.41%",
+    "New Zealand food prices fall 0.4% in October as RBNZ flags 3 rising global risks",
+    "Ng\u00e0y 17/11, g\u1eedi 200 tri\u1ec7u t\u1ea1i Techcombank, Sacombank, SHB, HDBank, MB, VPBank v\u00e0",
+    "Nvidia\u2019s stock extends decline following harsh words from the U.S. government"
   ]
 }
