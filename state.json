@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794811306.378571,
+  "last_signals": 1794811926.9025602,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794810322.3131073,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794811300.1903844,
-  "last_news": 1794811306.3772008,
+  "last_analysis": 1794811917.7342114,
+  "last_news": 1794811926.9017656,
   "seen_news": [
-    "Social Security and the blue wave: What could happen to payroll taxes and senior",
-    "How long will humans be needed for translation?",
-    "UBS says emerging markets are \u2018more agile than fragile,\u2019 forecasts 2027 gains",
-    "Weekend - Blackstone\u2019s QTS cuts AI data center debt sale 60% as investors push b",
-    "T\u00e0i li\u1ec7u m\u1eadt c\u1ee7a Nga khi\u1ebfn ch\u00e2u \u00c2u \"\u0111\u1ee9ng ng\u1ed3i kh\u00f4ng y\u00ean\": \u00d4ng Putin kh\u00f4ng nh\u01b0\u1ee3ng",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "XRP Slips Below $1: Is Its Top-Five Ranking in Jeopardy? - TradingView",
     "Could Budapest be the next digital nomad hotspot?",
     "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -458,6 +452,12 @@
     "Trump Extends Jones Act Waiver For Another 90 Days",
     "Dollar holds near 19-mth high; yen steady after weak GDP",
     "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of gro",
-    "Ch\u00ednh th\u1ee9c t\u1eeb h\u00f4m nay (16/11), m\u1ed9t ng\u00e2n h\u00e0ng ng\u1eebng tr\u1ea3 l\u00e3i cho kh\u00e1ch h\u00e0ng g\u1eedi ti"
+    "Ch\u00ednh th\u1ee9c t\u1eeb h\u00f4m nay (16/11), m\u1ed9t ng\u00e2n h\u00e0ng ng\u1eebng tr\u1ea3 l\u00e3i cho kh\u00e1ch h\u00e0ng g\u1eedi ti",
+    "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
+    "Apache North Sea workers stage third strike round, Unite says production halted",
+    "What are the main events for today?",
+    "V\u1ecb Ch\u1ee7 t\u1ecbch H\u1ed9i \u0111\u1ed3ng tr\u01b0\u1eddng \u0111eo k\u00ednh \u0111en nh\u1ea3y c\u00f9ng sinh vi\u00ean, \"ng\u1ea7u\" nh\u1ea5t MXH m\u1ea5",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Weekly Recap: Merger proposal lifts shares and golden-power review risk - Tradin"
   ]
 }
