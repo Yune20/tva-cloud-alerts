@@ -29,7 +29,7 @@
     "bot1": 488112751,
     "bot3": 959191732
   },
-  "last_signals": 1794790774.021268,
+  "last_signals": 1794791390.9859765,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794786381.8815129,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -65,8 +65,8 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -138,7 +138,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794790774.3567777,
+    "Gold|1D:bot": 1794791391.1451151,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1793933837.9711447,
     "JPY Index|4H:bot": 1793933838.7519007,
@@ -148,7 +148,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794790776.264615,
+    "GBP/USD|4H:bot": 1794791391.9070623,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -158,15 +158,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794790765.7004263,
-  "last_news": 1794790774.0203974,
+  "last_analysis": 1794791384.2833579,
+  "last_news": 1794791390.9851146,
   "seen_news": [
-    "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
-    "Jensen Huang Allegedly Hid Affair With Alice Huang From Nvidia Executives - Trad",
-    "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c",
-    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
-    "Microsoft says services fully restored after day-long global outage",
-    "US air travel disruptions continue into third day",
     "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were f",
     "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
     "Poundland gets more time to secure a rescue deal as emergency talks continue",
@@ -460,6 +454,12 @@
     "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariff",
     "C\u1eb7p \u0111\u00f4i trai t\u00e0i g\u00e1i s\u1eafc t\u00e1i h\u1ee3p sau 10 n\u0103m, t\u01b0\u01a1ng t\u00e1c ng\u1ecdt ng\u00e0o g\u00e2y s\u1ed1t",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact - TradingV"
+    "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact - TradingV",
+    "Nh\u1eadt B\u1ea3n mang 'b\u00e1u v\u1eadt c\u00f4ng ngh\u1ec7 ch\u1ec9 4 n\u01b0\u1edbc c\u00f3' sang Vi\u1ec7t Nam, ph\u1ee5c v\u1ee5 \u0111\u1ea1i c\u00f4ng ",
+    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Zai Lab Limited Adds 2 Drugs to China's NRDL - TradingView",
+    "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
+    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "Iran Braces for a Budget Without Oil Revenue"
   ]
 }
