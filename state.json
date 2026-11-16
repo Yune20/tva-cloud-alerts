@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794819711.5883627,
+  "last_signals": 1794820266.8792493,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -122,11 +122,11 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794819711.8352242,
+    "USOIL|4H:top": 1794820267.6209764,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794819712.771742,
+    "DXY|4H:top": 1794820270.143183,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794819712.5038633,
+    "EUR/USD|4H:bot": 1794820269.4091725,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794819972.2251256,
-  "last_news": 1794819711.58779,
+  "last_news": 1794820266.8786483,
   "seen_news": [
-    "Canaccord Genuity Group Inc. (CF) Agrees to Go-Private Deal at \u00a34.15 Plus $7.45 ",
-    "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c",
-    "Trump breaks silence about FAA nationwide ground stop, blames Biden administrati",
-    "Microsoft says services fully restored after day-long global outage",
-    "SK Hynix to spend $1 billion over five years to support chip suppliers",
-    "ICYMI: Fed\u2019s Jefferson says inflation is the key signal for rates, with PCE stil",
     "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
     "Poundland gets more time to secure a rescue deal as emergency talks continue",
     "Yen steady against euro and dollar after soft Japanese GDP data",
@@ -458,6 +452,12 @@
     "Electrifying Ambitions Meet Tough Reality in Europe",
     "Deutsche Bank upgrades Croda to \"buy\", raises price target to 4,100p",
     "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
-    "Nam danh ca SN 1937 t\u1eeb M\u1ef9 v\u1ec1 h\u00e1t l\u1ea7n cu\u1ed1i, g\u1eb7p n\u1eef \u0111\u1ed3ng nghi\u1ec7p 80 tu\u1ed5i kh\u00f4ng c\u00f2n "
+    "Nam danh ca SN 1937 t\u1eeb M\u1ef9 v\u1ec1 h\u00e1t l\u1ea7n cu\u1ed1i, g\u1eb7p n\u1eef \u0111\u1ed3ng nghi\u1ec7p 80 tu\u1ed5i kh\u00f4ng c\u00f2n ",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact - TradingV",
+    "They train people to avoid 'honeypot' scams\u2014here are the common red flags they s",
+    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "America\u2019s Offshore Wind Industry Is Growing Despite Trump\u2019s Crackdown",
+    "Uniper targets 2027 core earnings of up to \u20ac1.5 bln, \u20ac300 mln dividend"
   ]
 }
