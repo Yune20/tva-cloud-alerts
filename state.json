@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794869031.711516,
+  "last_signals": 1794869641.4791868,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794869034.0039396,
+    "DXY|4H:top": 1794869643.3684666,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794858453.3736765,
+    "EUR/USD|4H:bot": 1794869642.9850976,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794869033.2719705,
+    "GBP/USD|4H:bot": 1794869642.7980194,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794869021.282571,
-  "last_news": 1794869031.710728,
+  "last_analysis": 1794869633.3600917,
+  "last_news": 1794869641.4781694,
   "seen_news": [
-    "Intel faces major lawsuit after $140 billion stock wipeout - TradingView",
-    "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesso",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
-    "Silicon Valley leaders back call for Jensen Huang\u2019s return to Nvidia",
-    "Canada October CPI 3.1% vs +3.2% expected",
-    "Khoe s\u1ed1ng ti\u1ebft ki\u1ec7m nh\u01b0ng \u0103n tr\u01b0a h\u1ebft 150.000 \u0111\u1ed3ng, c\u00f4 v\u1ee3 g\u00e2y tranh c\u00e3i",
     "US November Empire Manufacturing index +7.80 vs +18.00 expected",
     "Th\u00f4ng b\u00e1o quan tr\u1ecdng t\u1eeb EVN \u0111\u1ebfn ng\u01b0\u1eddi nh\u1eadn \u0111\u01b0\u1ee3c cu\u1ed9c g\u1ecdi, tin nh\u1eafn sau",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
@@ -457,6 +451,12 @@
     "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
     "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
     "investingLive Americas market news wrap: Chip stocks dump again",
-    "Kh\u00f4ng kh\u00ed l\u1ea1nh s\u1eafp t\u0103ng c\u01b0\u1eddng, mi\u1ec1n B\u1eafc c\u00f3 n\u01a1i r\u00e9t d\u01b0\u1edbi 10 \u0111\u1ed9 C: H\u00e0 N\u1ed9i s\u1eafp \u0111\u00f3n "
+    "Kh\u00f4ng kh\u00ed l\u1ea1nh s\u1eafp t\u0103ng c\u01b0\u1eddng, mi\u1ec1n B\u1eafc c\u00f3 n\u01a1i r\u00e9t d\u01b0\u1edbi 10 \u0111\u1ed9 C: H\u00e0 N\u1ed9i s\u1eafp \u0111\u00f3n ",
+    "Poundland gets more time to secure a rescue deal as emergency talks continue",
+    "Treasury yields pause near 1-month highs as traders brace for Fed signals",
+    "Economic and event calendar in Asia Tuesday, November 17, 2026: RBA minutes, plu",
+    "C\u00e0 Mau r\u00e0 so\u00e1t n\u1ed9i dung video khuy\u00ean \u0111\u1eebng \u0103n cua tr\u00ean m\u1ea1ng x\u00e3 h\u1ed9i Facebook",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
+    "Global Aircraft Leasing Co., Ltd. Launches $950M-Financed Note Tender Offer - Tr"
   ]
 }
