@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794856605.9817226,
+  "last_signals": 1794857220.983666,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -75,10 +75,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794856606.8887112,
+    "GBP/USD|4H:bot": 1794857223.2904408,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794856596.8053336,
-  "last_news": 1794856605.981154,
+  "last_analysis": 1794857211.7671509,
+  "last_news": 1794857220.982951,
   "seen_news": [
-    "What Does Big Tech\u2019s AI Spending Tell Us About Nvidia\u2019s  Sales?",
-    "C\u01a1m nh\u00e0 Angela Ph\u01b0\u01a1ng Trinh",
-    "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
-    "Weekly Recap: Biomethane sale exclusivity and 4% interim dividend hike - Trading",
-    "Former NFL star Chris Simms sells his 300-year-old Greenwich, Conn., home for $5",
-    "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
     "Weekly Recap: Profit growth and Barclays price target cut - TradingView",
     "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
@@ -458,6 +452,12 @@
     "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
     "Create more jobs for under-25s by cutting National Insurance, key report urges",
     "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
-    "US banking websites are having problems"
+    "US banking websites are having problems",
+    "Bitcoin falls around 5.3% to $64,734 - TradingView",
+    "Market's Nvidia obsession obscuring an opportunity in this name",
+    "The Indian workers filming their work to train AI",
+    "Retail sales and oil inventories among economic data due Tuesday",
+    "Trade Tech Solutions adds perpetuals to its prop firm technology following predi",
+    "C\u1ef1u c\u00e1n b\u1ed9 n\u00f4ng nghi\u1ec7p kh\u1edfi nghi\u1ec7p b\u00e1n thu\u1ed1c th\u00fa y, sau 30 n\u0103m g\u00e2y d\u1ef1ng doanh ng"
   ]
 }
