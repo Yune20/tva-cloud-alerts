@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794811926.9025602,
+  "last_signals": 1794812531.9247997,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794810322.3131073,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794592930.1060834,
+    "USOIL|4H:top": 1794812532.5816402,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794810323.6471183,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794811917.7342114,
-  "last_news": 1794811926.9017656,
+  "last_analysis": 1794812523.5298982,
+  "last_news": 1794812531.9241703,
   "seen_news": [
-    "XRP Slips Below $1: Is Its Top-Five Ranking in Jeopardy? - TradingView",
-    "Could Budapest be the next digital nomad hotspot?",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
-    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
-    "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US",
     "I'm a psychologist who studies couples\u20145 signs you've fallen into a common rut: ",
     "Minister backs legal right to job support for young people",
     "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
@@ -458,6 +452,12 @@
     "What are the main events for today?",
     "V\u1ecb Ch\u1ee7 t\u1ecbch H\u1ed9i \u0111\u1ed3ng tr\u01b0\u1eddng \u0111eo k\u00ednh \u0111en nh\u1ea3y c\u00f9ng sinh vi\u00ean, \"ng\u1ea7u\" nh\u1ea5t MXH m\u1ea5",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Weekly Recap: Merger proposal lifts shares and golden-power review risk - Tradin"
+    "Weekly Recap: Merger proposal lifts shares and golden-power review risk - Tradin",
+    "N\u1eef m\u00f4i gi\u1edbi B\u0110S c\u00f3 th\u00e1ng ch\u1ed1t 26 c\u0103n nh\u00e0, doanh s\u1ed1 350 t\u1ef7 \u0111\u1ed3ng: B\u00e1n h\u00e0ng kh\u00f4ng b",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "E I D Parry India Q2 2027 Earnings Call Is Live - TradingView",
+    "Social Security and the blue wave: What could happen to payroll taxes and senior",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Why is Tata Motors Passenger Vehicles stock plunging today?"
   ]
 }
