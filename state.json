@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794839073.1181805,
-  "last_bot4": 1794842789.7405493,
+  "last_bot4": 1794843469.009297,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794843114.8080354,
+  "last_signals": 1794843469.0102863,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,10 +66,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -124,7 +124,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794843117.525647,
+    "DXY|4H:top": 1794843470.1735072,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794842501.8628364,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794842501.618816,
+    "GBP/USD|4H:bot": 1794843469.7689905,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794843106.059314,
-  "last_news": 1794843114.8071866,
+  "last_analysis": 1794843459.4808333,
+  "last_news": 1794843469.0085588,
   "seen_news": [
-    "N\u1eef m\u00f4i gi\u1edbi B\u0110S c\u00f3 th\u00e1ng ch\u1ed1t 26 c\u0103n nh\u00e0, doanh s\u1ed1 350 t\u1ef7 \u0111\u1ed3ng: B\u00e1n h\u00e0ng kh\u00f4ng b",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
-    "E I D Parry India Q2 2027 Earnings Call Is Live - TradingView",
-    "Social Security and the blue wave: What could happen to payroll taxes and senior",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Why is Tata Motors Passenger Vehicles stock plunging today?",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
     "Weekly Recap: Premium growth and record major claims - TradingView",
     "Could Budapest be the next digital nomad hotspot?",
@@ -458,6 +452,12 @@
     "First post-Huang earnings call: What will Nvidia say? - TradingView",
     "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
     "Nvidia fallout: Commerce targets loophole for China's data center use",
-    "Trump says he wouldn't mind seeing Huang return to Nvidia"
+    "Trump says he wouldn't mind seeing Huang return to Nvidia",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Weekly Recap: Board chair proposal and Sodexo Live! CEO appointment - TradingVie",
+    "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
+    "We're booking huge profits on a tech winner and making a chip stock swap",
+    "Some under-25s should get fewer benefits, Milburn review to say",
+    "China\u2019s Coal Power Generation Slumps as Wind and Solar Surge"
   ]
 }
