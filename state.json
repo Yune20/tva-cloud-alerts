@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794835949.314608,
+  "last_signals": 1794836550.9439387,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -66,7 +66,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794835937.970475,
-  "last_news": 1794835946.390157,
+  "last_analysis": 1794836545.1784184,
+  "last_news": 1794836550.9432266,
   "seen_news": [
-    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
-    "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
-    "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
-    "Tri\u1ec7u t\u1eadp 86 ng\u01b0\u1eddi li\u00ean quan h\u1ec7 th\u1ed1ng BIT99: Nhi\u1ec1u ng\u01b0\u1eddi tr\u1ebb, sinh vi\u00ean t\u00ecm vi\u1ec7c",
-    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Moolenaar Says Jensen Huang Agreed to Testify, With No Date Set - TradingView",
     "AI: Daily quotas come to DeepSeek, a visible sign of China\u2019s AI chip crunch",
     "C\u00f4 g\u00e1i ph\u00e1t bi\u1ec3u t\u1ea1i L\u1ec5 k\u1ef7 ni\u1ec7m 950 n\u0103m Qu\u1ed1c T\u1eed Gi\u00e1m l\u00e0 ai?",
     "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -458,6 +452,12 @@
     "Poundland gets more time to secure a rescue deal as emergency talks continue",
     "COP31 Electrification Pledge Stalls as Developing Nations Push Back",
     "FTSE 100 today: Stocks rise as defence shares lead; oil falls",
-    "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term up"
+    "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term up",
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "Iran War Accelerates Southeast Asia\u2019s Renewable Energy Push",
+    "Why is GXO Logistics stock climbing today?",
+    "Records show $12bn Nvidia chips to China, US drafts licence rules on Nvidia chip",
+    "S\u00e1ng t\u1ecf tin c\u1eb7p \u0111\u00f4i ngh\u00ecn t\u1ef7 showbiz h\u1ee7y h\u00f4n",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance"
   ]
 }
