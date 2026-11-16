@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794871831.4414442,
+  "last_signals": 1794872493.2022598,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794870612.3981895,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794871832.8702836,
+    "EUR/USD|4H:bot": 1794872494.2458925,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794871832.6369143,
+    "GBP/USD|4H:bot": 1794872494.0876682,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794872128.0376866,
-  "last_news": 1794871825.8389168,
+  "last_analysis": 1794872483.1963465,
+  "last_news": 1794872493.2014818,
   "seen_news": [
-    "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "Ukraine Braces for Pivotal Week of Defense Talks Amid Fresh Russian Attacks",
-    "Nasdaq falls 1% at open as Nvidia woes\u00a0weigh on sentiment ahead of earnings",
-    "Trump says he wouldn\u2019t mind seeing Huang reinstated as Nvidia CEO",
-    "V\u00ec sao ng\u01b0\u1eddi Vi\u1ec7t n\u00f3i \"m\u1ed9t n\u1eafng hai s\u01b0\u01a1ng\" m\u00e0 kh\u00f4ng ph\u1ea3i \"hai n\u1eafng m\u1ed9t s\u01b0\u01a1ng\"?",
     "UK will have 'voice' but no vote on EU food rules in Brexit reset",
     "Asia Is Building 73% of the World's New Nuclear Capacity",
     "US air travel largely returns to normal as funding flight brews",
@@ -457,6 +451,12 @@
     "Iran says 4th tanker hit in 24 hours as UKMTO reports Hormuz attack near Oman",
     "Vay 2,5 t\u1ef7 mua chung c\u01b0, gia \u0111\u00ecnh \u1edf TP.HCM ch\u1eadt v\u1eadt tr\u1ea3 g\u1ea7n 30 tri\u1ec7u ti\u1ec1n l\u00e3i m\u1ed7",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Lexeo cardiomyopathy asset data prompts Street price target increases - TradingV"
+    "Lexeo cardiomyopathy asset data prompts Street price target increases - TradingV",
+    "Intel slides 7% as investors sue over PC slump disclosures, extends losses after",
+    "Ng\u01b0\u1eddi Vi\u1ec7t t\u01b0\u1edfng Ajinomoto ch\u1ec9 l\u00e0m m\u00ec ch\u00ednh, \u00edt ai bi\u1ebft th\u01b0\u01a1ng hi\u1ec7u n\u00e0y \u0111ang n\u1eafm",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "Weekly Recap: RYONCIL sales and FDA filing path in heart failure - TradingView",
+    "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Pala",
+    "United Airlines resolves system outage that affected departing flights"
   ]
 }
