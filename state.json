@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794853026.8128905,
+  "last_signals": 1794853692.6585085,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794841885.9467869,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794853333.046044,
-  "last_news": 1794853026.8121994,
+  "last_analysis": 1794853683.9595912,
+  "last_news": 1794853692.6578217,
   "seen_news": [
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact - TradingV",
-    "They train people to avoid 'honeypot' scams\u2014here are the common red flags they s",
-    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "America\u2019s Offshore Wind Industry Is Growing Despite Trump\u2019s Crackdown",
-    "Uniper targets 2027 core earnings of up to \u20ac1.5 bln, \u20ac300 mln dividend",
     "Iran Braces for a Budget Without Oil Revenue",
     "Eurozone yields stall after volatile week as traders brace for AI mega-tests",
     "Global broker Elev8 introduces AI access to help clients see more of their tradi",
@@ -458,6 +452,12 @@
     "Fed\u2019s Warsh doesn\u2019t talk about monetary policy in a speech on AI",
     "Th\u00f4ng b\u00e1o m\u1edbi t\u1eeb c\u01a1 quan Thu\u1ebf: T\u1ea5t c\u1ea3 c\u00e1 nh\u00e2n c\u00f3 t\u00ean d\u01b0\u1edbi \u0111\u00e2y ch\u00ednh th\u1ee9c b\u1ecb t\u1ea1m ",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Sequoia Log\u00edstica e Transportes Q3 2026 Earnings Call Is Live - TradingView"
+    "Sequoia Log\u00edstica e Transportes Q3 2026 Earnings Call Is Live - TradingView",
+    "Vi\u1ec7t Nam \u0111ang ph\u00e1t tri\u1ec3n t\u1ed5 h\u1ee3p \u0111i\u1ec7n h\u01a1n 82.000 t\u1ef7 \u0111\u1ed3ng t\u1ea1i t\u1ec9nh c\u00f3 di\u1ec7n t\u00edch l\u1edb",
+    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Venu Q3 2026 Earnings Call Is Live - TradingView",
+    "What\u2019s the most tax-efficient way to donate to charity?",
+    "OpenAI inks agreements with four independent evaluators to boost company's safet",
+    "How video game remakes tap the power of nostalgia"
   ]
 }
