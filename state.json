@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794850046.5114076,
-  "last_bot4": 1794854592.2731452,
+  "last_bot4": 1794855291.1160922,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794853980.5909092
+    "Gold": 1794855291.1160161
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794854916.1462588,
+  "last_signals": 1794855291.1171834,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794854908.6544921,
-  "last_news": 1794854916.1455727,
+  "last_analysis": 1794855264.8631234,
+  "last_news": 1794855288.1205359,
   "seen_news": [
-    "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
-    "Weekend: Bessent urges Nvidia to hire an outsider CEO, pouring cold water on a H",
-    "C\u1eb7p \u0111\u00f4i VTV l\u1ed9 1001 hint h\u1eb9n h\u00f2: Nh\u00e0 g\u00e1i 2k5 thi Hoa h\u1eadu Vi\u1ec7t Nam, nh\u00e0 trai l\u00e0 c",
-    "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
-    "\u00cdslandsbanki hf. Repurchased 2.56M Shares for ISK 358.7M - TradingView",
-    "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c",
     "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
     "PBOC is expected to set the USD/CNY reference rate at 6.6771 \u2013 Reuters estimate",
     "B\u00e1c s\u0129 TPHCM mang m\u00e1y ECMO \u0111i L\u00e2m \u0110\u1ed3ng c\u1ee9u ng\u01b0\u1eddi nguy k\u1ecbch",
@@ -458,6 +452,12 @@
     "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "Nvidia board not discussing Jensen Huang\u2019s return as CEO, CNBC reports",
-    "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?"
+    "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+    "Powerfleet elects Eddie Capel and John Strosahl to its board - TradingView",
+    "California sues OpenAI over Hugging Face, other AI model loss of control",
+    "Microsoft says services fully restored after day-long global outage",
+    "Yen steady against euro and dollar after soft Japanese GDP data",
+    "Global broker Elev8 introduces AI access to help clients see more of their tradi",
+    "Ph\u00e1t hi\u1ec7n 12.000 m\u00b3 b\u00ea t\u00f4ng c\u00f9ng 1.800 t\u1ea5n th\u00e9p \u0111\u01b0\u1ee3c c\u1eafm s\u00e2u 40m xu\u1ed1ng l\u00f2ng \u0111\u1ea5t,"
   ]
 }
