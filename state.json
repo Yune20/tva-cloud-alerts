@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794828062.163856,
-  "last_bot4": 1794835283.7297611,
+  "last_bot4": 1794835949.3138885,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794834435.2122252
+    "Gold": 1794835949.3138
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794835577.1057088,
+  "last_signals": 1794835949.314608,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,13 +63,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794835283.7287917,
-  "last_news": 1794835577.1051083,
+  "last_analysis": 1794835937.970475,
+  "last_news": 1794835946.390157,
   "seen_news": [
-    "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright s",
-    "The tech helping crack decades-old cold cases",
-    "Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP",
-    "investingLive European session wrap: Wall Street eyes a rebound but rising Treas",
-    "Ph\u00e1t hi\u1ec7n m\u1ed9t c\u00f4ng ty robot Vi\u1ec7t Nam b\u00e1n h\u01a1n 100 c\u1ed7 m\u00e1y cho Samsung, Ford, FedEx",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
     "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
     "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
     "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
@@ -458,6 +452,12 @@
     "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
     "UK economy grows at fastest rate for more than two years",
     "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens",
-    "Why is CG Oncology stock surging today?"
+    "Why is CG Oncology stock surging today?",
+    "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, a",
+    "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    "Poundland gets more time to secure a rescue deal as emergency talks continue",
+    "COP31 Electrification Pledge Stalls as Developing Nations Push Back",
+    "FTSE 100 today: Stocks rise as defence shares lead; oil falls",
+    "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term up"
   ]
 }
