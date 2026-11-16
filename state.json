@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794860913.253776,
-  "last_bot4": 1794869927.3209865,
+  "last_bot4": 1794870610.5752838,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794869320.1866782
+    "Gold": 1794870610.5752008
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794870244.6193466,
+  "last_signals": 1794870610.5759366,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794870246.4678369,
+    "DXY|4H:top": 1794870612.3981895,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794870245.9986715,
+    "EUR/USD|4H:bot": 1794870612.0152092,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794870245.8168344,
+    "GBP/USD|4H:bot": 1794870611.8063507,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794870237.017306,
-  "last_news": 1794870244.6184232,
+  "last_analysis": 1794870598.0439508,
+  "last_news": 1794870608.0112212,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "Nablus Surgical Center Q3 Profit JOD 111,808 - TradingView",
-    "International student enrollment drops sharply, putting more U.S. colleges in fi",
-    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "European Gas Slumps on Milder Weather and Record U.S. LNG Flows",
-    "How will Fed rate hikes impact markets?",
     "Why the AI trade is a macro trade: the risks to the US economy",
     "V\u1eeba r\u1ebb v\u1eeba d\u1ec5 t\u00ecm, lo\u1ea1i rau \u0111\u01b0\u1ee3c v\u00ed l\u00e0 \u201cth\u1ea7n d\u01b0\u1ee3c b\u1ed5 th\u1eadn\u201d c\u00f2n c\u00f3 l\u1ee3i cho m\u1eaft v\u00e0",
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -457,6 +451,12 @@
     "Kyntra Bio Q3 2026 Earnings Call Is Live - TradingView",
     "U.S. dollar\u2019s AI-driven breakout could become a stock-market wrecking ball",
     "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesso",
-    "Christmas toy rush being driven by squishies and building sets"
+    "Christmas toy rush being driven by squishies and building sets",
+    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
+    "Do Amazon\u2019s Black Friday deals really save you money? A new report claims they d",
+    "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
+    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
+    "Berkshire trims Bank of America, Capital One stakes, adds to Delta investment"
   ]
 }
