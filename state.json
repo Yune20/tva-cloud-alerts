@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794824604.906333,
+  "last_signals": 1794825220.3666546,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -64,9 +64,9 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794824605.4971025,
+    "USOIL|4H:top": 1794825220.8450584,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794821833.599541,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794824592.2229304,
-  "last_news": 1794824604.9055254,
+  "last_analysis": 1794825210.1898873,
+  "last_news": 1794825220.3658738,
   "seen_news": [
-    "What I know and respect about Colette Kress, the person now leading Nvidia",
-    "Heat pumps: How much heat does your home really need?",
-    "After days of flight disruptions, officials see system back to normal by Monday",
-    "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter p",
-    "N\u1ec1n kinh t\u1ebf l\u1edbn th\u1ee9 4 th\u1ebf gi\u1edbi b\u1ea5t ng\u1edd gi\u1ea3m",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
     "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
     "Singapore Makes a $65 Billion Bet on the Future of Gold",
     "Megaspeed says Alice Huang left the company in August 2025",
@@ -458,6 +452,12 @@
     "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
     "Trump breaks silence about FAA nationwide ground stop, blames Biden administrati",
     "Intel sued by investors after PC sales slump hits share price",
-    "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz"
+    "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
+    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
+    "Weekly Recap: Cambay control loss and Rs. 379 crore impairment - TradingView",
+    "Here\u2019s how much the stock market could crumble if AI is a bubble that bursts, ac",
+    "'We slept here': Flight delays linger but schedule is back on track for Monday",
+    "Avoid this Black Friday scam - how to check it's a real deal",
+    "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets"
   ]
 }
