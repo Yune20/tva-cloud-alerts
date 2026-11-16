@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794868426.2873294,
+  "last_signals": 1794869031.711516,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794868427.718994,
+    "DXY|4H:top": 1794869034.0039396,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794858453.3736765,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794868427.2335768,
+    "GBP/USD|4H:bot": 1794869033.2719705,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794868416.758999,
-  "last_news": 1794868426.28662,
+  "last_analysis": 1794869021.282571,
+  "last_news": 1794869031.710728,
   "seen_news": [
-    "Ch\u1ee9ng kho\u00e1n t\u0103ng nh\u1eb9, d\u00f2ng ti\u1ec1n v\u1eabn m\u1ea5t h\u00fat",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
-    "Lexeo Therapeutics Q3 2026 Earnings Call Is Live - TradingView",
-    "Nvidia fallout: Commerce cracks down on third-country loophole that allowed Chin",
-    "Christmas toy rush being driven by squishies and building sets",
-    "Treasury yields pause near 1-month highs as traders brace for Fed signals",
     "Intel faces major lawsuit after $140 billion stock wipeout - TradingView",
     "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesso",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI",
@@ -457,6 +451,12 @@
     "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs. ",
     "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimm",
     "UK economy grows at fastest rate for more than two years",
-    "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens"
+    "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens",
+    "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on t",
+    "'We slept here': Flight delays linger as airlines recover from ground stop, but ",
+    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
+    "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
+    "investingLive Americas market news wrap: Chip stocks dump again",
+    "Kh\u00f4ng kh\u00ed l\u1ea1nh s\u1eafp t\u0103ng c\u01b0\u1eddng, mi\u1ec1n B\u1eafc c\u00f3 n\u01a1i r\u00e9t d\u01b0\u1edbi 10 \u0111\u1ed9 C: H\u00e0 N\u1ed9i s\u1eafp \u0111\u00f3n "
   ]
 }
