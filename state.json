@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794805364.7554631,
-  "last_bot4": 1794812837.099628,
+  "last_bot4": 1794813760.6325629,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794812212.5642452
+    "Gold": 1794813760.6324656
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794813128.3014083,
+  "last_signals": 1794813760.63327,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794810322.3131073,
+    "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794809087.0715718,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794813128.6621034,
+    "USOIL|4H:top": 1794813760.897544,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794810323.6471183,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794813437.8911095,
-  "last_news": 1794813128.3007317,
+  "last_analysis": 1794813751.0669386,
+  "last_news": 1794813757.5583704,
   "seen_news": [
-    "Treasury yields hold near 2-week highs as traders await next signal",
-    "Jensen Huang weighs Nvidia comeback days after quitting over scandal, FT reports",
-    "Th\u00f4ng \u0111i\u1ec7p v\u0169 tr\u1ee5 g\u1eedi cho 12 con gi\u00e1p trong tu\u1ea7n m\u1edbi (16/11-22/11)",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "FleetPartners Group H2 2026 Earnings Call Is Live - TradingView",
-    "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in",
     "N\u1eef di\u1ec5n vi\u00ean SN 1989 qu\u00ea Qu\u1ea3ng Tr\u1ecb, t\u1eebng h\u1ecdc ng\u00e0nh B\u1ea3o h\u1ed9 lao \u0111\u1ed9ng, \u0111\u00f3ng nhi\u1ec1u p",
     "SSI: CTCP Ch\u1ee9ng kho\u00e1n SSI - SSI - Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "Jensen Huang Discusses Comeback As Nvidia CEO With Allies - FT - TradingView",
@@ -458,6 +452,12 @@
     "Could Budapest be the next digital nomad hotspot?",
     "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
-    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September"
+    "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
+    "Minister backs legal right to job support for young people",
+    "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
+    "Nvidia earnings could test a fragile market. Five stocks are already offering cl",
+    "L\u1eddi khuy\u00ean cho c\u00e1c gia \u0111\u00ecnh \u0111ang nu\u00f4i th\u00fa c\u01b0ng trong nh\u00e0",
+    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
+    "Weekly Recap: Bumerangue sale talks and Namibian license acquisition - TradingVi"
   ]
 }
