@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794825220.3666546,
+  "last_signals": 1794825833.7971756,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -64,12 +64,12 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794825220.8450584,
+    "USOIL|4H:top": 1794825834.3409472,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794821833.599541,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794825210.1898873,
-  "last_news": 1794825220.3658738,
+  "last_analysis": 1794825825.8266184,
+  "last_news": 1794825833.7962995,
   "seen_news": [
-    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
-    "Singapore Makes a $65 Billion Bet on the Future of Gold",
-    "Megaspeed says Alice Huang left the company in August 2025",
-    "China house prices continue their downward spiral",
-    "T\u00e2y Ban Nha b\u1ecb tuy\u1ec3n Anh ng\u1eaft m\u1ea1ch b\u1ea5t b\u1ea1i k\u1ef7 l\u1ee5c: 'Qu\u00e3ng ngh\u1ec9' c\u1ea7n thi\u1ebft",
-    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "Boeing-Lockheed rocket fails after liftoff, destroys 40 Amazon satellites",
     "PBOC sets USD/ CNY reference rate for today at 6.7141 (vs. estimate at 6.7152)",
     "UAV Iran lao xu\u1ed1ng khi\u1ebfn 6 l\u00ednh M\u1ef9 thi\u1ec7t m\u1ea1ng, m\u1ed9t thi\u1ebfu t\u00e1 ki\u1ec7n L\u1ea7u N\u0103m G\u00f3c",
@@ -458,6 +452,12 @@
     "Here\u2019s how much the stock market could crumble if AI is a bubble that bursts, ac",
     "'We slept here': Flight delays linger but schedule is back on track for Monday",
     "Avoid this Black Friday scam - how to check it's a real deal",
-    "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets"
+    "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
+    "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband",
+    "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
+    "Beauty advent calendars can cost hundreds but are they value for money?",
+    "Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone",
+    "Market outlook for the week of 16th - 20th November",
+    "\u0110\u00e2u l\u00e0 \u2018t\u00e0i s\u1ea3n an to\u00e0n\u2019 khi th\u1ecb tr\u01b0\u1eddng t\u00e0i ch\u00ednh to\u00e0n c\u1ea7u bi\u1ebfn \u0111\u1ed9ng?"
   ]
 }
