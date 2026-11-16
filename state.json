@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794855984.560101,
+  "last_signals": 1794856605.9817226,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -73,8 +73,8 @@
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
-    "US30|4H": true,
-    "US30|1D": true,
+    "US30|4H": false,
+    "US30|1D": false,
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
@@ -146,7 +146,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1794855661.9081144,
+    "GBP/USD|4H:bot": 1794856606.8887112,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794327148.3444297,
     "DXY|1D:bot": 1793822783.600698,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794855976.58143,
-  "last_news": 1794855984.5575418,
+  "last_analysis": 1794856596.8053336,
+  "last_news": 1794856605.981154,
   "seen_news": [
-    "Britain eyes welfare cuts to tackle surge in youth unemployment",
-    "Trade Tech Solutions adds perpetuals to its prop firm technology following predi",
-    "X\u00f4n xao tin \u0111\u1ed3n iPhone t\u1ef1 \u0111\u1ed9ng b\u1eadt tr\u1ea1ng th\u00e1i 'Hi\u1ebfn t\u1ea1ng'",
-    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Weekly Recap: Oelkers exit, Ekholm chair proposal and analyst target hikes - Tra",
-    "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A. estate",
     "What Does Big Tech\u2019s AI Spending Tell Us About Nvidia\u2019s  Sales?",
     "C\u01a1m nh\u00e0 Angela Ph\u01b0\u01a1ng Trinh",
     "PNJ: CTCP V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn - PNJ - VietstockFinance",
@@ -458,6 +452,12 @@
     "Viromed Medical AG Restructures Management Board For Its Next Growth Phase - Tra",
     "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c",
     "Cramer: Take some profits in these 2 stocks if you have big gains and do this wi",
-    "'An annoying buzz': The search for stealthier drones"
+    "'An annoying buzz': The search for stealthier drones",
+    "Data Storage Q3 2026 Earnings Call Is Live - TradingView",
+    "Micron, AMD and other AI stocks fall as the chip sector\u2019s selloff intensifies",
+    "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+    "Create more jobs for under-25s by cutting National Insurance, key report urges",
+    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
+    "US banking websites are having problems"
   ]
 }
