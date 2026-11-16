@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794830167.3526726,
+  "last_signals": 1794830777.2237008,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,13 +63,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|1H": false,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794830468.4622571,
-  "last_news": 1794830167.3518097,
+  "last_news": 1794830777.2229834,
   "seen_news": [
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "U.S.-China-Russia trilateral summit to take place in Shenzhen on Nov. 19- Xinhua",
-    "Earnings week ahead: Nvidia without Jensen, Anthropic\u2019s IPO, and the consumer me",
-    "M\u00e1y lau s\u00e0n h\u01a1i n\u01b0\u1edbc n\u00f3ng 230\u00b0C v\u1eeba ra m\u1eaft t\u1ea1i Vi\u1ec7t Nam, gi\u00e1 m\u1edf b\u00e1n gi\u1ea3m t\u1edbi g\u1ea7n",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "News by CNBC TV18 on TradingView, 2026-11-15 \u2014 cnbctv:426e2c588094b:0 - TradingV",
     "The $130 Billion Oil Boom Fueled by the Iran War",
     "Why is Southern Cross Electrical Engineering stock climbing today?",
     "US October PPI +6.5% vs +6.6% expected",
@@ -458,6 +452,12 @@
     "Deutsche Bank warns markets may be underestimating rate hike risks",
     "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits hou",
     "B\u1ea3o qu\u1ea3n th\u1ecbt trong t\u1ee7 \u0111\u00f4ng \u0111\u01b0\u1ee3c bao l\u00e2u?",
-    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance"
+    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
+    "UniCredit wins EU and US approval for Commerzbank acquisition",
+    "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
+    "K\u1ef9 s\u01b0 Nga n\u1ed9p ph\u00e1t minh \"kh\u00f4ng t\u01b0\u1edfng\" v\u1ec1 tr\u1ef1c th\u0103ng, \u0111\u01b0\u1ee3c C\u1ee5c S\u1edf h\u1eefu Tr\u00ed tu\u1ec7 l\u00e0m",
+    "CEO: CTCP T\u1eadp \u0111o\u00e0n C.E.O - CEO Group., Jsc - VietstockFinance",
+    "TOYO Co., Ltd (TOYO) Reports 9M Revenue Growth of 42.0% - TradingView",
+    "Nvidia's Colette Kress confronts key questions in first earnings report since Je"
   ]
 }
