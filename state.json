@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794821831.6403675,
+  "last_signals": 1794822445.2113178,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794813760.63327,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -63,7 +63,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -122,7 +122,7 @@
     "Bitcoin|4H:top": 1793299861.0619802,
     "USD/JPY|4H:top": 1794560368.889506,
     "JPY Index|4H:top": 1794560369.1786976,
-    "USOIL|4H:top": 1794821831.9997916,
+    "USOIL|4H:top": 1794822445.527123,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794821833.599541,
     "Bitcoin|4H:bot": 1794664802.864167,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794821821.1875424,
-  "last_news": 1794821831.6396418,
+  "last_analysis": 1794822435.9827533,
+  "last_news": 1794822445.2105258,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
-    "Jeff Schmid: Fed Has More Work to Curb Inflation - TradingView",
-    "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-    "Robot vessels take on the dangerous work of mine hunting",
-    "UK PM Burnham to call for reset of Britain\u2019s EU relationship- Sky News",
-    "Nvida stock analysis before its earnings",
     "Tech world's calls for Jensen Huang to return to Nvidia are growing",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Why is IDP Education stock sliding today?",
@@ -458,6 +452,12 @@
     "C\u1eb7p \u0111\u00f4i VTV l\u1ed9 1001 hint h\u1eb9n h\u00f2: Nh\u00e0 g\u00e1i 2k5 thi Hoa h\u1eadu Vi\u1ec7t Nam, nh\u00e0 trai l\u00e0 c",
     "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
     "\u00cdslandsbanki hf. Repurchased 2.56M Shares for ISK 358.7M - TradingView",
-    "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c"
+    "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a c",
+    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6771 \u2013 Reuters estimate",
+    "B\u00e1c s\u0129 TPHCM mang m\u00e1y ECMO \u0111i L\u00e2m \u0110\u1ed3ng c\u1ee9u ng\u01b0\u1eddi nguy k\u1ecbch",
+    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
+    "Key facts: Interim CEO; House testimony; Singapore sales scrutiny - TradingView",
+    "NATO member Estonia to close Russia border after attempted 'sabotage' of drone m"
   ]
 }
