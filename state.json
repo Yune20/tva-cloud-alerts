@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794942060.0848396,
+  "last_signals": 1794942674.9612744,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,14 +126,14 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794942062.8200173,
+    "DXY|1D:top": 1794942678.087839,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794942061.7741241,
+    "GBP/USD|1D:bot": 1794942677.1060815,
     "Gold|1D:bot": 1794941443.576679,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794942049.7552323,
-  "last_news": 1794942060.0840201,
+  "last_analysis": 1794942664.305429,
+  "last_news": 1794942674.9606073,
   "seen_news": [
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "JD Logistics Q3 2026 Earnings Call Is Live - TradingView",
-    "Ukraine damages Putin\u2019s prized Crimea bridge as Russia strikes vital Kyiv crossi",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "Diamondback to Buy Double Eagle\u2019s Midland Stake for $5 Billion",
-    "US stock futures slip ahead of Nvidia results; Fed speakers in focus",
     "Ukraine damages Putin\u2019s prized Crimea bridge as Zelenskyy lauds \u2018unprecedented o",
     "Microsoft says services fully restored after day-long global outage",
     "India Gives Green Light to Commercial Sustainable Jet Fuel Production",
@@ -456,6 +450,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
     "Vertiv expands new power system for AI compute pods, data centers - TradingView",
     "7 smart reasons to sell a stock\u2014and my \u2018golden rule\u2019 for offloading shares, says",
-    "Burnham says 'win-win' deal can be agreed between UK and EU"
+    "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
+    "Tilray Brands in downtrend: Bearish signals defy Wall Street's 'Buy' call - Trad",
+    "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "Are Resource Limits Fueling the World's Growing Conflicts?",
+    "Rising vet bills drive more Americans to pet insurance"
   ]
 }
