@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794904703.558458,
-  "last_bot4": 1794908414.9562063,
+  "last_bot4": 1794909100.3112173,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794908735.0710552,
+  "last_signals": 1794909100.313035,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -74,7 +74,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
@@ -83,7 +83,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794887500.786393,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794908736.4534554,
+    "DXY|1D:top": 1794909101.390733,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794908735.2162626,
+    "Gold|1D:bot": 1794909100.4345946,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794901970.3842292,
     "JPY Index|4H:bot": 1794901970.679947,
@@ -146,7 +146,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794887500.6535351,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1794908735.3627992,
+    "USOIL|4H:bot": 1794909100.5458417,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794908728.464532,
-  "last_news": 1794908735.0703225,
+  "last_analysis": 1794909091.866082,
+  "last_news": 1794909100.3104532,
   "seen_news": [
-    "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
-    "Forget the petro-dollar, introducing the chip-dollar",
-    "C\u1ea3nh t\u01b0\u1ee3ng t\u1ea1i qu\u00e1n c\u00e0 ph\u00ea m\u1edbi khai tr\u01b0\u01a1ng c\u1ee7a \u00f4ng \u0110\u1eb7ng L\u00ea Nguy\u00ean V\u0169 \u1edf M\u1ef9",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "IMPACT Therapeutics Says EC Approves Senaparib For Advanced Ovarian Cancer Treat",
-    "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year",
     "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national s",
     "Burnham says 'win-win' deal can be agreed between UK and EU",
     "The Army Just Did Something Extraordinary To Break China\u2019s Rare Earth Monopoly",
@@ -456,6 +450,12 @@
     "Financial News & Top Stories \u2014 Market Analysis - TradingView",
     "Here\u2019s how much of Deutsche Bank\u2019s market cap has been wiped away after reports ",
     "South Korea will suspend all aircraft operation for 35 minutes and markets will ",
-    "Minister backs legal right to job support for young people"
+    "Minister backs legal right to job support for young people",
+    "XSMN 17/11- X\u1ed5 s\u1ed1 mi\u1ec1n Nam h\u00f4m nay 17/11/2026 - KQXSMN ng\u00e0y 17 th\u00e1ng 11",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "Key facts: Oracle FY2028 FCF Outlook; $20B Raise, Appaloosa Stake - TradingView",
+    "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax l",
+    "Gas starts flowing from Jackdaw after government green light",
+    "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6"
   ]
 }
