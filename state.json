@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794915620.1728716,
-  "last_bot4": 1794924084.8173141,
+  "last_bot4": 1794924739.3621845,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794923466.4317508
+    "Gold": 1794924739.362172
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794924084.8181145,
+  "last_signals": 1794924739.3627248,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794900705.829303,
+    "5575146754|Gold|1H|range_in": 1794924739.3627248,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1794809087.0715718,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -124,13 +124,13 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794888434.5382001,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794920525.1670551,
+    "EUR/USD|4H:bot": 1794924740.685627,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794909714.1726208,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794924085.1293952,
+    "Gold|4H:bot": 1794924739.5280983,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794924393.3939795,
-  "last_news": 1794924084.8166354,
+  "last_analysis": 1794924730.0204587,
+  "last_news": 1794924737.6355877,
   "seen_news": [
-    "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker stru",
-    "The tech helping crack decades-old cold cases",
-    "Popular websites subverted in bid to steal crypto, target iPhone users",
-    "Gold Holds Firm as US Indices Gain Ground in Q3, easyMarkets Reports",
-    "L\u00e0m nh\u00e0 m\u00e1y h\u01a1n 1.500 t\u1ef7 \u0111\u1ed3ng t\u1ea1i T\u00e2y Ninh, m\u1ed9t c\u00f4ng ty mu\u1ed1n l\u00e0m 35.000 t\u1ea5n th\u1ecbt",
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
     "Can Underwater Data Centers Escape the Land-Based Backlash?",
     "Citi\u2019s software stock picks: AI upside and a new contender enters the spotlight",
     "New Zealand food prices fall 0.4% in October as RBNZ flags 3 rising global risks",
@@ -456,6 +450,12 @@
     "Can Economic Populism Survive an Age of Scarcity?",
     "Home Depot names insider McPhail CEO, bets on sustained sales recovery",
     "US Import prices 1.1% vs 0.7% est. Export prices 1.1% vs 0.5% est.",
-    "Sao n\u1eef h\u1ea1ng A 45 tu\u1ed5i m\u1edbi l\u1ea5y ch\u1ed3ng, con trai 3 tu\u1ed5i \u0111\u00e3 \u0111\u1eb7t m\u1ee5c ti\u00eau l\u00e0m \u201csinh v"
+    "Sao n\u1eef h\u1ea1ng A 45 tu\u1ed5i m\u1edbi l\u1ea5y ch\u1ed3ng, con trai 3 tu\u1ed5i \u0111\u00e3 \u0111\u1eb7t m\u1ee5c ti\u00eau l\u00e0m \u201csinh v",
+    "Beauty advent calendars can cost hundreds but are they value for money?",
+    "Top insider buys and sells disclosed for Monday",
+    "US October advance retail sales +0.2% vs +0.2% expected",
+    "Ch\u1ecb \u0110\u1eb9p Vbiz 14 tu\u1ed5i gi\u00e0nh HCV v\u00f4 \u0111\u1ecbch th\u1ebf gi\u1edbi, \u0111\u00f3ng phim tranh gi\u1ea3i Oscar",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "U.S. OCT RETAIL SALES: EX GAS +0.1% Y/Y - TradingView"
   ]
 }
