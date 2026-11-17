@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794942674.9612744,
+  "last_signals": 1794943293.7930832,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,14 +126,14 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794942678.087839,
+    "DXY|1D:top": 1794943297.961247,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794942677.1060815,
+    "GBP/USD|1D:bot": 1794943296.5024648,
     "Gold|1D:bot": 1794941443.576679,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794942664.305429,
-  "last_news": 1794942674.9606073,
+  "last_analysis": 1794943283.2659166,
+  "last_news": 1794943293.7920702,
   "seen_news": [
-    "Ukraine damages Putin\u2019s prized Crimea bridge as Zelenskyy lauds \u2018unprecedented o",
-    "Microsoft says services fully restored after day-long global outage",
-    "India Gives Green Light to Commercial Sustainable Jet Fuel Production",
-    "Yen steady against euro and dollar after soft Japanese GDP data",
-    "S&P 500 analysis before Nvidia's earnings tonight",
-    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra khi ph\u00e1t hi\u1ec7n c\u00e1c giao d\u1ecbch r\u00fat ti\u1ec1n nh\u01b0 sau",
     "Turkmenistan Races to Complete Key TAPI Pipeline Section by Year-End",
     "Nvidia\u2019s first post-Huang earnings loom large. Here\u2019s what it could mean for AI.",
     "Howitz, Champions! HFM Brings the Premier League Trophy to Cape Town",
@@ -456,6 +450,12 @@
     "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
     "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "Are Resource Limits Fueling the World's Growing Conflicts?",
-    "Rising vet bills drive more Americans to pet insurance"
+    "Rising vet bills drive more Americans to pet insurance",
+    "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
+    "We\u2019re watching Cramer\u2019s favorite market indicator for a signal to buy stocks",
+    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "IBM, Microsoft among market cap stock movers on Tuesday",
+    "Why Warren Buffet and Berkshire Hathaway keep going back to airlines",
+    "Ph\u00e1t hi\u1ec7n m\u1ed9t c\u1ecdc b\u00ea t\u00f4ng ch\u1ecbu l\u1ef1c 2.107 t\u1ea5n \u0111\u01b0\u1ee3c c\u1eafm xu\u1ed1ng l\u00f2ng \u0111\u1ea5t, thi c\u00f4ng t"
   ]
 }
