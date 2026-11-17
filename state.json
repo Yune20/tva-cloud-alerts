@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794909711.9422708,
+  "last_signals": 1794910334.3682039,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -82,8 +82,8 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
-    "DXY|4H": true,
+    "DXY|1H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794909712.1835501,
+    "Gold|1D:bot": 1794910334.501842,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794901970.3842292,
     "JPY Index|4H:bot": 1794901970.679947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794909703.1586673,
-  "last_news": 1794909711.941458,
+  "last_analysis": 1794910326.894535,
+  "last_news": 1794910334.3674457,
   "seen_news": [
-    "Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites",
-    "Panama to begin talks on possible First Quantum mine reopening",
-    "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
-    "Khoan th\u0103m d\u00f2 h\u01a1n 6.000 m ch\u1ec9 trong 12 ng\u00e0y, ph\u00e1t hi\u1ec7n g\u1ea7n 11 t\u1ef7 t\u1ea5n d\u1ea7u, x\u00e1c l\u1ead",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
-    "Investors cooled on data-center stocks in third quarter, filings show - TradingV",
     "Wall Street futures muted as Nvidia earnings loom amid AI jitters",
     "Japan delays its first 2-year floating-rate JGB: what it says about BOJ bets",
     "Di\u1ec5n vi\u00ean SN 1981 qu\u00ea Ninh B\u00ecnh b\u00e1n ch\u00e2n g\u00e0 chu c\u1ea5p ti\u1ec1n nu\u00f4i con, chi 400 tri\u1ec7u",
@@ -456,6 +450,12 @@
     "Project to support underprivileged students completed, Elev8 broker reports",
     "'Tr\u00e1i tim th\u00e9p' c\u1ee7a ng\u00e0nh h\u00e0ng kh\u00f4ng Nga: L\u1ef1c \u0111\u1ea9y 8 t\u1ea5n, ph\u00e1 th\u1ebf 'g\u1ecdng k\u00ecm' t\u1eeb p",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Circle Expands Disparte and Walia Roles as Stablecoin Operations Scale - Trading"
+    "Circle Expands Disparte and Walia Roles as Stablecoin Operations Scale - Trading",
+    "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
+    "Ng\u01b0\u1eddi Vi\u1ec7t Nam \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c gi\u1eef l\u00e0m tr\u1ee3 gi\u1ea3ng: B\u1eaft h\u1ecdc tr\u00f2 g\u1ecdi b\u1eb1ng anh, t\u1eeb b\u1ecf ",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
+    "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
+    "\u2018Breaking Bad\u2019 star Dean Norris is selling 11-acre California estate for $3.2 mi",
+    "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao"
   ]
 }
