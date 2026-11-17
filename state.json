@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794937449.4010947,
+  "last_signals": 1794938054.2784724,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794937450.801026,
-    "EUR/USD|1D:bot": 1794480353.615819,
+    "DXY|1D:top": 1794938056.0060694,
+    "EUR/USD|1D:bot": 1794938055.6439161,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794937450.3847365,
-    "Gold|1D:bot": 1794937449.5303617,
+    "GBP/USD|1D:bot": 1794938055.478882,
+    "Gold|1D:bot": 1794938054.4674125,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794937758.8233652,
-  "last_news": 1794937445.0772958,
+  "last_news": 1794938054.2780058,
   "seen_news": [
-    "XSMN 17/11- X\u1ed5 s\u1ed1 mi\u1ec1n Nam h\u00f4m nay 17/11/2026 - KQXSMN ng\u00e0y 17 th\u00e1ng 11",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
-    "Key facts: Oracle FY2028 FCF Outlook; $20B Raise, Appaloosa Stake - TradingView",
-    "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax l",
-    "Gas starts flowing from Jackdaw after government green light",
-    "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6",
     "Iran and Oman Hold Talks on Strait of Hormuz Security as Tanker Attacks Surge",
     "Why is Casino Guichard Perrachon stock rallying today?",
     "Project to support underprivileged students completed, Elev8 broker reports",
@@ -456,6 +450,12 @@
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Stock of the Day: Is Pepsi About to Break Out? - TradingView",
     "As stocks struggle, bonds are finally helping investors play defense again. Ther",
-    "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White Hous"
+    "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White Hous",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Target Q3 earnings on deck: What to expect - TradingView",
+    "Why Salesforce\u2019s stock is leading S&P 500 decliners amid tech jitters",
+    "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
+    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "Alphabet\u2019s Google acquires AI scheduling startup Howie to bolster agent lineup"
   ]
 }
