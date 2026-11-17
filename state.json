@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794943906.776235,
+  "last_signals": 1794944505.7864301,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -126,14 +126,14 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794943909.1252646,
+    "DXY|1D:top": 1794944507.1628103,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794943908.4015265,
+    "GBP/USD|1D:bot": 1794944506.7018204,
     "Gold|1D:bot": 1794943907.0287259,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794944209.5906153,
-  "last_news": 1794943906.7755444,
+  "last_news": 1794944505.7858393,
   "seen_news": [
-    "Ethereum's bearish trend could extend further without a dovish Fed pivot or a US",
-    "BIDV ghi d\u1ea5u \u1ea5n trong l\u0129nh v\u1ef1c t\u00e0i ch\u00ednh ph\u00e1i sinh",
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
-    "XAUUSD: Gold Hits $3,830 for Fresh One-Year Low After Double Bottom Fails - Trad",
-    "\u2018It is heartbreaking, exhausting and downright dirty\u2019: My brother took over our ",
-    "Disney beats fourth-quarter estimates, targets $3 billion in savings through cos",
     "U.S. companies from Nvidia to Apple face a growing China dilemma",
     "Where has the most jobs for 18-24 year-olds? Use our look-up to find out",
     "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
@@ -456,6 +450,12 @@
     "Microsoft says services fully restored after day-long global outage",
     "India Gives Green Light to Commercial Sustainable Jet Fuel Production",
     "Yen steady against euro and dollar after soft Japanese GDP data",
-    "Nvidia earnings after the close. The price is testing a key downside target. Wha"
+    "Nvidia earnings after the close. The price is testing a key downside target. Wha",
+    "S&P 500 analysis before Nvidia's earnings tonight",
+    "Lo\u1ea1i nh\u00f3m Vingroup, \u0111\u1ecbnh gi\u00e1 ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam th\u1ea5p ngang th\u1eddi k\u1ef3 \u201cth\u1ea3m ho\u1ea1\u201d",
+    "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
+    "AXT Faces Supplier Switch Risk if US-China Tensions Flare - TradingView",
+    "Want to know what bitcoin is really worth? Check this chart.",
+    "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CN"
   ]
 }
