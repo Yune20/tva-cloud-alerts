@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794882502.2221663,
+  "last_signals": 1794883112.112554,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794879735.6446166,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -122,9 +122,9 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794882503.5233567,
+    "DXY|4H:top": 1794883113.4349945,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794882503.2630424,
+    "EUR/USD|4H:bot": 1794883113.1244545,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794882502.3570385,
+    "Gold|1D:bot": 1794883112.2781794,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794881880.1138687,
     "JPY Index|4H:bot": 1794881880.425184,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794882494.57618,
-  "last_news": 1794882502.2213361,
+  "last_analysis": 1794883104.6012383,
+  "last_news": 1794883112.1118395,
   "seen_news": [
-    "Can Howmet Maintain Margin Momentum Amid Cost Pressures? - TradingView",
-    "Robert Pattinson cast as next James Bond",
-    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "Diamondback to Buy Double Eagle\u2019s Midland Stake for $5 Billion",
-    "Nvidia faces extraordinary push to restore Huang days after his exit",
-    "Tiff Macklem should have been fired, not celebrated",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Key Figures 15.11.2026 - TradingView",
     "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could",
@@ -456,6 +450,12 @@
     "Why Is NBIS Down Nearly 5% Overnight? - TradingView",
     "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the ",
     "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "The Hidden Cost Holding Back Europe\u2019s Energy Innovators"
+    "The Hidden Cost Holding Back Europe\u2019s Energy Innovators",
+    "Weekly Recap: Nine-month revenue growth and 2027 debt financing - TradingView",
+    "OpenAI inks agreements with four independent evaluators to boost company's safet",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "Venezuela\u2019s Oil Comeback Faces a New Threat From Washington",
+    "Baidu shares hit over five-year low as ad slump overshadows AI growth",
+    "WSJ: US imposes chip export licenses on 5 countries to close China\u2019s data center"
   ]
 }
