@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794957251.4701235,
+  "last_signals": 1794957846.94921,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794957553.0914364,
-  "last_news": 1794957251.469361,
+  "last_news": 1794957846.9486074,
   "seen_news": [
-    "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate",
-    "Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks",
-    "Why is CVS Health stock sliding today?",
-    "Bitcoin is continuing the consolidation but sellers remain in control",
-    "Cu\u1ed9c s\u1ed1ng ngh\u1ec9 h\u01b0u c\u1ee7a ng\u01b0\u1eddi ta khi\u1ebfn h\u1ed9i \u0111i l\u00e0m ch\u1ec9 bi\u1ebft \u01b0\u1edbc: S\u00e1ng ch\u1ea1y b\u1ed9 ng\u1eafm",
-    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance",
     "Treasury yields pause near 1-month highs as traders brace for Fed signals",
     "US October industrial production -0.4% vs +0.1% expected",
     "Ga H\u00e0 N\u1ed9i chuy\u1ec3n v\u1ec1 Ph\u00fa Xuy\u00ean, khu '\u0111\u1ea5t v\u00e0ng' n\u1ed9i \u0111\u00f4 d\u00f9ng l\u00e0m g\u00ec?",
@@ -456,6 +450,12 @@
     "Republicans outspent Democrats for first time in over a decade in record 2026 mi",
     "Government backs welfare shake-up to prevent 'lost generation'",
     "Cuba\u2019s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
-    "S&P downgrades Wendy\u2019s to \u2018B\u2019 on elevated leverage and persistent sales declines"
+    "S&P downgrades Wendy\u2019s to \u2018B\u2019 on elevated leverage and persistent sales declines",
+    "Homebuilder sentiment plunges to 14-year low, leading more builders to drop pric",
+    "How new US chip restrictions on South East Asia will hit China",
+    "U.S. Opens New Front in Campaign to Cut Off Iran\u2019s Supply Routes",
+    "Costco sees demand lift from outage-driven stockpiling, Mizuho says",
+    "Nvidia sees 75% revenue growth next year as Kress points to $2.5 trillion backlo",
+    "V\u1ee5 th\u1ecbt b\u1edf, nh\u0169n trong b\u1ebfp \u0103n tr\u01b0\u1eddng m\u1ea7m non nghi \"do l\u1ee3n b\u1ecb stress\u201d: \u0110\u00e3 c\u00f3 k\u1ebft "
   ]
 }
