@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794926571.3209214,
-  "last_bot4": 1794930948.4360614,
+  "last_bot4": 1794931881.9621217,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794930322.1383185
+    "Gold": 1794931881.9620526
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794931551.9614518,
+  "last_signals": 1794931881.9631543,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794924739.3627248,
+    "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1794809087.0715718,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -83,7 +83,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794931553.7856228,
+    "DXY|1D:top": 1794931883.789711,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794931553.1704278,
-    "Gold|1D:bot": 1794931552.2112727,
+    "GBP/USD|1D:bot": 1794931883.0592177,
+    "Gold|1D:bot": 1794931882.1490734,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794931253.9396496,
-  "last_news": 1794931551.9607615,
+  "last_analysis": 1794931869.8279111,
+  "last_news": 1794931879.2964017,
   "seen_news": [
-    "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
-    "Mabingwa wamefika! HFM Brings the Premier League Trophy to Nairobi",
-    "Viettel tung ch\u01b0\u01a1ng tr\u00ecnh h\u1ed7 tr\u1ee3 t\u1edbi 370 t\u1ef7 \u0111\u1ed3ng t\u1ea1i TP.HCM: T\u1eeb h\u1ed9 kinh doanh \u0111\u1ebf",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "United Airlines resolves system outage that delayed flights Monday",
-    "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $",
     "Paratus Energy Services Ltd. (PLSV) CFO and Interim CEO Resigns - TradingView",
     "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
     "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesso",
@@ -456,6 +450,12 @@
     "H\u00e0 N\u1ed9i s\u1eafp m\u1edf b\u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i gi\u00e1 g\u1ea7n 30 tri\u1ec7u \u0111\u1ed3ng/m\u00b2",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "Wockhardt turns to scientific publications to accelerate Zaynich adoption in US ",
-    "Nearly half of home builders are cutting prices and offering lower mortgage rate"
+    "Nearly half of home builders are cutting prices and offering lower mortgage rate",
+    "It's getting tough to believe all these internet outages are a coincidence",
+    "S\u1ed1 ph\u1eadn n\u1eef di\u1ec5n vi\u00ean phim gi\u1edd v\u00e0ng c\u00f3 ch\u1ed3ng \u0111\u1ea1i gia \u0111i t\u00f9, b\u1ecb t\u1ecbch thu 151 th\u1ecfi ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "YZY: Team allocation unlocks 29.17M tokens - 12 Feb 2027 - TradingView",
+    "Nvidia investors will be clamoring for these answers during today\u2019s historic ear",
+    "Nvidia shares try to rebound ahead of earnings as company reels from Huang resig"
   ]
 }
