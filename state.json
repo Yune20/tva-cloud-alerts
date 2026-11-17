@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794918948.247569,
+  "last_signals": 1794919563.554805,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -73,10 +73,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -124,7 +124,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794888434.5382001,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794918949.2027504,
+    "EUR/USD|4H:bot": 1794919564.4342477,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794909714.1726208,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794918937.5391557,
-  "last_news": 1794918948.2460313,
+  "last_analysis": 1794919553.3094852,
+  "last_news": 1794919563.554003,
   "seen_news": [
-    "B\u1eaft m\u1ed9t nh\u00e2n vi\u00ean c\u00f4ng ty b\u1ea5t \u0111\u1ed9ng s\u1ea3n chi\u1ebfm \u0111o\u1ea1t ti\u1ec1n t\u1ef7 c\u1ee7a kh\u00e1ch \u0111\u1ec3 \u0111\u1ea7u t\u01b0 ti",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "BSR REIT Announces November 2026 Cash Distribution - TradingView",
-    "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
-    "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "Northern Dynasty Minerals Ltd. (NDM) Will Not Renominate Director Balakrishnan -",
     "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
@@ -456,6 +450,12 @@
     "Fund managers just slashed their tech bets at the fastest pace in two decades \u2014 ",
     "Jim Cramer says Costco's hefty special dividend signals \u2018more gains ahead\u2019",
     "Intel sued by investors after PC sales slump hits share price",
-    "UK Pushes for Global Levies on Polluting Industries"
+    "UK Pushes for Global Levies on Polluting Industries",
+    "Can Nvidia sell investors on a future without Jensen Huang?",
+    "California sues OpenAI over Hugging Face, other AI model loss of control",
+    "Speed camera fault may have allowed drivers to escape fines",
+    "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting",
+    "UK designates BlackRock, Bloomberg as critical third parties",
+    "NZ 1-year inflation expectations jump to 2.9%, but the 2-year anchor barely move"
   ]
 }
