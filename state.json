@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794933469.1446717,
+  "last_signals": 1794934065.3689702,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794933471.0761113,
+    "DXY|1D:top": 1794934066.6339538,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794933470.4859753,
-    "Gold|1D:bot": 1794933469.3481636,
+    "GBP/USD|1D:bot": 1794934066.1930518,
+    "Gold|1D:bot": 1794934065.5132892,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794933771.446625,
-  "last_news": 1794933465.702596,
+  "last_news": 1794934065.368313,
   "seen_news": [
-    "T\u00ecnh hu\u1ed1ng hy h\u1eefu: B\u1ed1 m\u1eb9 b\u1ecf qu\u00ean con trai 7 tu\u1ed5i tr\u00ean m\u00e1y bay",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Embracer Group AB (EMBRAC_B) Repurchased 173,300 B Shares in Week 46 - TradingVi",
-    "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Indonesia stocks higher at close of trade; IDX Composite Index up 0.23%",
     "Japan Proposes an 'Asian IEA' to Protect Oil Supplies",
     "Why is IQE stock rallying today?",
     "China resumes crude stockpiling, leaving room for fuel exports at 3 times prewar",
@@ -456,6 +450,12 @@
     "Huang says he's willing to return as Nvidia boss in first remarks since resignat",
     "Reliance Bets $1.6 Billion on India's Biogas Boom",
     "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 1.85%",
-    "US Sept business inventories +0.5% vs +0.4% prior"
+    "US Sept business inventories +0.5% vs +0.4% prior",
+    "Airlines Face Fuel Crisis as Price Hedges Expire",
+    "Wall Street falls, Nasdaq down over 1% as caution prevails ahead of Nvidia resul",
+    "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt fligh",
+    "\u00d4ng Trump c\u1ea3nh b\u00e1o Iran 'tr\u1ea3 gi\u00e1 kh\u1ee7ng khi\u1ebfp ch\u01b0a t\u1eebng th\u1ea5y' n\u1ebfu \u0111i\u1ec1u n\u00e0y x\u1ea3y ra",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Deutsche Bank stock slides after reports of links to Epstein, Russia - TradingVi"
   ]
 }
