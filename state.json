@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794926571.3209214,
-  "last_bot4": 1794929347.731463,
+  "last_bot4": 1794930322.1384087,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794928715.4529128
+    "Gold": 1794930322.1383185
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794929650.4205298,
+  "last_signals": 1794930322.1404176,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794924739.3627248,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -58,16 +58,16 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
-    "Gold|4H": false,
+    "Gold|1H": false,
+    "Gold|4H": true,
     "Gold|1D": false,
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -76,7 +76,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -122,19 +122,19 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794929651.6237197,
+    "DXY|4H:top": 1794930323.4283001,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794929651.3853683,
+    "EUR/USD|4H:bot": 1794930323.1143947,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794909714.1726208,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794929650.5983195,
+    "Gold|4H:bot": 1794930322.261805,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794929650.5983348,
+    "GBP/USD|1D:bot": 1794930322.9753468,
+    "Gold|1D:bot": 1794930322.2618272,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794929948.718304,
-  "last_news": 1794929650.4199922,
+  "last_analysis": 1794930307.217267,
+  "last_news": 1794930319.026577,
   "seen_news": [
-    "BlackRock keeps 5-year US equity overweight on AI conviction despite tactical ca",
-    "Nam ca s\u0129 SN 1977 l\u00e0 doanh nh\u00e2n kh\u00f4ng v\u1ee3 con n\u00f3i th\u1eb3ng: \"T\u00f4i kh\u00f4ng mu\u1ed1n ch\u1ee9ng t\u1ecf",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
-    "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China,",
-    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
-    "America\u2019s Biggest Grid Operator Races to Keep Up With Data Center Boom",
     "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
     "'We slept here': Flight delays linger as airlines recover from ground stop, but ",
     "Which areas have the most jobs for 16 to 24-year-olds? Find out here",
@@ -456,6 +450,12 @@
     "Hungary central bank discussed rate-cut proposal on Tuesday, Governor says - Tra",
     "\u2018It is heartbreaking\u2019: My brother took over our ailing mother\u2019s life and finance",
     "Jensen Huang to appear before House panels Dec. 1; Nvidia lawyer slated to testi",
-    "We can't afford to hire under-25s, say firms. Will Milburn plans help?"
+    "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+    "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chines",
+    "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to t",
+    "OpenAI sued by California over Hugging Face attack",
+    "Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push",
+    "Former Nvidia CEO Jensen Huang to appear before U.S. House committees in Decembe",
+    "Home Depot earnings offer a mixed picture of the US consumer as spending improve"
   ]
 }
