@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794910334.3682039,
+  "last_signals": 1794910950.6892745,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -76,7 +76,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794910334.501842,
+    "Gold|1D:bot": 1794910950.870642,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794901970.3842292,
     "JPY Index|4H:bot": 1794901970.679947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794910326.894535,
-  "last_news": 1794910334.3674457,
+  "last_analysis": 1794910940.1792607,
+  "last_news": 1794910950.6886199,
   "seen_news": [
-    "Wall Street futures muted as Nvidia earnings loom amid AI jitters",
-    "Japan delays its first 2-year floating-rate JGB: what it says about BOJ bets",
-    "Di\u1ec5n vi\u00ean SN 1981 qu\u00ea Ninh B\u00ecnh b\u00e1n ch\u00e2n g\u00e0 chu c\u1ea5p ti\u1ec1n nu\u00f4i con, chi 400 tri\u1ec7u",
-    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
-    "Braskem creditors reject latest debt restructuring proposal, discuss new plan - ",
-    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
     "C\u00f4 g\u00e1i H\u00e0n Qu\u1ed1c s\u1edf h\u1eefu h\u00e0ng tr\u0103m m\u00f3n m\u1ef9 ph\u1ea9m nh\u01b0ng b\u00e0n trang \u0111i\u1ec3m v\u1eabn g\u1ecdn \u0111\u1eb9p nh",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Why Is NBIS Down Nearly 5% Overnight? - TradingView",
@@ -456,6 +450,12 @@
     "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
     "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
     "\u2018Breaking Bad\u2019 star Dean Norris is selling 11-acre California estate for $3.2 mi",
-    "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao"
+    "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
+    "EURUSD: Euro Breaks $1.10 for First Time Since April 2025, Exits Rising Channel ",
+    "\u2018Nvidia spooked me\u2019: Should I sell my stocks or ride out the market turmoil?",
+    "Here's what to expect when Disney reports earnings before the bell",
+    "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "The Army Just Did Something Extraordinary To Break China\u2019s Rare Earth Monopoly"
   ]
 }
