@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794936222.9854755,
+  "last_signals": 1794936828.3160236,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794936224.399325,
+    "DXY|1D:top": 1794936830.8354704,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794936223.946691,
-    "Gold|1D:bot": 1794936223.123913,
+    "GBP/USD|1D:bot": 1794936830.1037767,
+    "Gold|1D:bot": 1794936828.668928,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794936216.1868043,
-  "last_news": 1794936222.9846318,
+  "last_analysis": 1794936819.5437768,
+  "last_news": 1794936828.3153265,
   "seen_news": [
-    "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
-    "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
-    "RBA minutes: 6 members saw rates \u201cnot clearly sufficient\u201d, 3 warned of sharper d",
-    "Kh\u00f4ng kh\u00ed l\u1ea1nh tr\u00e0n v\u1ec1 r\u1ea5t m\u1ea1nh, c\u00e1c khu v\u1ef1c s\u1eafp m\u01b0a to nhi\u1ec1u ng\u00e0y li\u00ean t\u1ee5c",
-    "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
-    "Moreld ASA (MORLD) Board Member Sells 662 Shares, Retains 0.05% Stake - TradingV",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n \u0111ang tham gia BHYT, BHXH t\u1ef1 nguy\u1ec7n c\u1ea7n ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
     "Financial News & Top Stories \u2014 Market Analysis - TradingView",
@@ -456,6 +450,12 @@
     "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex",
     "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.83%",
     "Flight to safety concerns from continued cyber issues send stocks lower, yields ",
-    "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng \u0111\u1ed3ng lo\u1ea1t tuy\u1ec3n 17 v\u1ecb tr\u00ed, l\u00e0m vi\u1ec7c t\u1ea1i d\u1ef1 \u00e1n Olympic, S\u00e2"
+    "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng \u0111\u1ed3ng lo\u1ea1t tuy\u1ec3n 17 v\u1ecb tr\u00ed, l\u00e0m vi\u1ec7c t\u1ea1i d\u1ef1 \u00e1n Olympic, S\u00e2",
+    "Russian Crude Exports Hit Four-Month High",
+    "Spain stocks lower at close of trade; IBEX 35 down 1.61%",
+    "FX option expiries for 17 November 10am New York cut",
+    "\u0110\u01b0\u1eddng \u1ed1ng \u00e1p l\u1ef1c v\u1ee1, b\u00f9n \u0111\u00e1 tr\u00e0n ng\u1eadp nh\u00e0 m\u00e1y, n\u1eb1m im su\u1ed1t 5 n\u0103m: C\u00f4ng tr\u00ecnh th\u1ee7",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Sveafastigheter \u2013 Consensus estimates Q3 2026 - TradingView"
   ]
 }
