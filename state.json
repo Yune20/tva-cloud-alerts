@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794926571.3209214,
-  "last_bot4": 1794930322.1384087,
+  "last_bot4": 1794930948.4360614,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794930322.1404176,
+  "last_signals": 1794930948.436804,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794924739.3627248,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -122,19 +122,19 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794930323.4283001,
+    "DXY|4H:top": 1794930952.4093258,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794930323.1143947,
+    "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794909714.1726208,
+    "DXY|1D:top": 1794930952.409355,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794930322.261805,
+    "Gold|4H:bot": 1794930948.8770964,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794930322.9753468,
-    "Gold|1D:bot": 1794930322.2618272,
+    "GBP/USD|1D:bot": 1794930951.0721903,
+    "Gold|1D:bot": 1794930948.8771162,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794930620.1266055,
-  "last_news": 1794930319.026577,
+  "last_analysis": 1794930939.2135663,
+  "last_news": 1794930948.435297,
   "seen_news": [
-    "Key facts: Bitcoin ETFs lose $2.35B; BTCUSD drops, shorts surge - TradingView",
-    "'We slept here': Flight delays linger as airlines recover from ground stop, but ",
-    "Which areas have the most jobs for 16 to 24-year-olds? Find out here",
-    "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
-    "Iran says 4th tanker hit in 24 hours as UKMTO reports Hormuz attack near Oman",
-    "Ch\u1ecdn Nga x\u00e2y nh\u00e0 m\u00e1y \u0111i\u1ec7n h\u1ea1t nh\u00e2n 25 t\u1ef7 USD \u0111\u1ea7u ti\u00ean c\u1ee7a \u0111\u1ea5t n\u01b0\u1edbc, m\u1ed9t qu\u1ed1c gia",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Kyntra Bio Q3 2026 Earnings Call Is Live - TradingView",
     "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Pala",
@@ -456,6 +450,12 @@
     "OpenAI sued by California over Hugging Face attack",
     "Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push",
     "Former Nvidia CEO Jensen Huang to appear before U.S. House committees in Decembe",
-    "Home Depot earnings offer a mixed picture of the US consumer as spending improve"
+    "Home Depot earnings offer a mixed picture of the US consumer as spending improve",
+    "US bank services returning to normal after major outage",
+    "America\u2019s Biggest Grid Operator Races to Keep Up With Data Center Boom",
+    "HUM vs CVS vs UNH: value, quality, and growth compared",
+    "UK September ILO unemployment rate 4.6% vs 4.7% expected",
+    "'S\u1ed1t' tr\u00e0o l\u01b0u th\u1eafp \u0111\u00e8n \u1edf th\u01b0 vi\u1ec7n \u1ea3o \u0111\u1ec3 c\u00f9ng \u0111\u1ecdc s\u00e1ch online",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance"
   ]
 }
