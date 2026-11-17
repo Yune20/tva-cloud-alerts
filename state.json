@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794893750.8869038,
-  "last_bot4": 1794894055.811539,
+  "last_bot4": 1794894678.0636888,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794894353.3611531,
+  "last_signals": 1794894678.064515,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794879735.6446166,
     "5575146754|Gold|4H|range_in": 1794893750.8878078,
@@ -83,7 +83,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794887500.786393,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794894354.5309918,
+    "DXY|1D:top": 1794894680.3019702,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794894353.4825902,
+    "Gold|1D:bot": 1794894678.2839947,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794884050.4519162,
     "JPY Index|4H:bot": 1794884050.92296,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794894052.793902,
-  "last_news": 1794894353.360586,
+  "last_analysis": 1794894668.8092759,
+  "last_news": 1794894678.0628471,
   "seen_news": [
-    "Now\u2019s the perfect time for networking. Here\u2019s how to send a cringe-free email.",
-    "JPMorgan Chase says temporary software bug is affecting consumer banking",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Neighborhood Intelligence stock rises on $25M buyback plan",
-    "investingLive European news wrap: Risk sentiment remains negative",
-    "L\u00e3nh \u0111\u1ea1o VinaCapital: Ch\u1ee9ng kho\u00e1n Vi\u1ec7t Nam c\u1ea7n tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn d\u00e0i h\u1ea1n, thay ",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Can Underwater Data Centers Escape the Land-Based Backlash?",
     "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.41%",
@@ -456,6 +450,12 @@
     "CUBE: Scale, expense discipline and diversified growth underpin the 2026 outlook",
     "Kalshi plans to launch stock trading soon",
     "Heat pumps: How much heat does your home really need?",
-    "Why is Tencent stock sliding today?"
+    "Why is Tencent stock sliding today?",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
+    "Bitcoin Mining Difficulty Falls 9.13%, Giving Active Miners Some Breathing Room ",
+    "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving l",
+    "The grads ditching the UK for a fresh start abroad",
+    "Why is Alibaba stock sliding today?",
+    "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema"
   ]
 }
