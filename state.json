@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794912837.7517097,
+  "last_signals": 1794913408.6045983,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -81,13 +81,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794913670,
   "menu_prices": {
@@ -136,8 +136,8 @@
     "GBP/USD|1D:bot": 1794582033.074178,
     "Gold|1D:bot": 1794912837.922361,
     "Ethereum|4H:bot": 1794664803.0336702,
-    "USD/JPY|4H:bot": 1794901970.3842292,
-    "JPY Index|4H:bot": 1794901970.679947,
+    "USD/JPY|4H:bot": 1794913411.738723,
+    "JPY Index|4H:bot": 1794913412.4807494,
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1794324046.9828742,
     "DXY|4H:bot": 1793776186.638589,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794912786.820493,
-  "last_news": 1794912837.7511656,
+  "last_analysis": 1794913398.577759,
+  "last_news": 1794913408.6040535,
   "seen_news": [
-    "Ki\u1ec3m tra h\u00e0nh kh\u00e1ch \u0110inh Thanh H\u1ea3i chu\u1ea9n b\u1ecb l\u00ean chuy\u1ebfn bay VU1213, C\u00f4ng an S\u00e2n b",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Asia shares slide on tech weakness ahead of Nvidia earnings - TradingView",
-    "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could",
-    "Robot vessels take on the dangerous work of mine hunting",
-    "Asia shares stumble on tech weakness ahead of Nvidia earnings",
     "What H World Group (HTHT) Said on Its Q3 Earnings Call - TradingView",
     "California sues OpenAI over Hugging Face, other AI model loss of control",
     "Microsoft says services fully restored after day-long global outage",
@@ -456,6 +450,12 @@
     "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-y",
     "Home Depot names Richard McPhail as new CEO",
     "How a sex scandal at Nvidia is putting pressure on the White House",
-    "AI advances coincide with sharp rise in cyber incidents, Marsh data shows"
+    "AI advances coincide with sharp rise in cyber incidents, Marsh data shows",
+    "S\u1ef1 h\u1ebft th\u1eddi c\u1ee7a 1 ng\u00f4i sao: T\u1ef1 r\u1eddi b\u1ecf s\u1ef1 nghi\u1ec7p \u0111\u1ec9nh l\u01b0u, v\u1ec1 n\u01b0\u1edbc l\u00e0m ch\u1ee7 t\u1ecbch c",
+    "MSH: CTCP May S\u00f4ng H\u1ed3ng - Song Hong Garment JSC - VietstockFinance",
+    "Robust inflows, pullback in shorts lift rupee to seven-month peak - TradingView",
+    "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
+    "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+    "How the Jensen Huang scandal created a headache for business-friendly Singapore"
   ]
 }
