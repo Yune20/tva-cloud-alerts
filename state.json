@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794926571.3209214,
-  "last_bot4": 1794932595.3323114,
+  "last_bot4": 1794933469.1438792,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794931881.9620526
+    "Gold": 1794933469.143778
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794932847.6218553,
+  "last_signals": 1794933469.1446717,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794932849.313581,
+    "DXY|1D:top": 1794933471.0761113,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794932848.776647,
-    "Gold|1D:bot": 1794932847.798538,
+    "GBP/USD|1D:bot": 1794933470.4859753,
+    "Gold|1D:bot": 1794933469.3481636,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794933155.4286106,
-  "last_news": 1794932847.6211143,
+  "last_news": 1794933465.702596,
   "seen_news": [
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Japan futures slip as oil slumps and weaker Tokyo equities weigh - TradingView",
-    "My husband is happily retired at 64 and thinks I should keep working. Is he bein",
-    "Treasury yields are broadly flat as investors await retail sales data",
-    "Living with a stink? Technology might help",
-    "European shares slip on fresh U.S. chip curbs",
     "T\u00ecnh hu\u1ed1ng hy h\u1eefu: B\u1ed1 m\u1eb9 b\u1ecf qu\u00ean con trai 7 tu\u1ed5i tr\u00ean m\u00e1y bay",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
     "Embracer Group AB (EMBRAC_B) Repurchased 173,300 B Shares in Week 46 - TradingVi",
@@ -456,6 +450,12 @@
     "Senti Bio announces 1-for-33 reverse stock split - TradingView",
     "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement si",
     "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge"
+    "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
+    "U.S. OCT INDUSTRIAL PRODUCTION -0.4% M/M (VS +0.1% EXPECTED) - TradingView",
+    "U.S. officially loses measles elimination status amid ongoing outbreaks",
+    "Huang says he's willing to return as Nvidia boss in first remarks since resignat",
+    "Reliance Bets $1.6 Billion on India's Biogas Boom",
+    "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 1.85%",
+    "US Sept business inventories +0.5% vs +0.4% prior"
   ]
 }
