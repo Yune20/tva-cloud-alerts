@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794946060.0872726,
+  "last_signals": 1794946672.9559765,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -133,7 +133,7 @@
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794946060.8072283,
+    "GBP/USD|1D:bot": 1794946674.16597,
     "Gold|1D:bot": 1794943907.0287259,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794946051.3462539,
-  "last_news": 1794946060.086549,
+  "last_analysis": 1794946665.2958736,
+  "last_news": 1794946672.9552765,
   "seen_news": [
-    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
-    "Mapping the Market: Yen could weaken into danger zone for intervention - Trading",
-    "Nike hosts first investor day in 9 years as it tries to rightsize its business",
-    "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "Nvidia forms export-control committee after Huang affair raises security concern",
-    "More from Morgan Stanley: 8,700 S&P target and $5,250 gold lead its 2027 outlook",
     "Weekly Recap: 2026 outlook reaffirmed and 2027 backlog, supplier expansion - Tra",
     "Nvidia has lost $2 trillion in value. Here's what options traders expect from ea",
     "Where are the most jobs for 18-24 year-olds?",
@@ -456,6 +450,12 @@
     "Fed's Williams: The economy is getting stronger, inflation not moving in the rig",
     "4 m\u00e1y bay qu\u00e2n s\u1ef1 Nga b\u1ea5t ng\u1edd xu\u1ea5t hi\u1ec7n t\u1ea1i \u0110\u00e0 N\u1eb5ng: 2 oanh t\u1ea1c c\u01a1 chi\u1ebfn l\u01b0\u1ee3c g\u1ea7",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Can Europe Expansion Become a Long-Term Growth Driver for Lemonade? - TradingVie"
+    "Can Europe Expansion Become a Long-Term Growth Driver for Lemonade? - TradingVie",
+    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
+    "Crude oil erases recent gains despite no change in the US-Iran situation. What's",
+    "Ti\u1ec1n v\u00e0o ch\u1ee9ng kho\u00e1n b\u1ea5t ng\u1edd r\u01a1i xu\u1ed1ng th\u1ea5p nh\u1ea5t 21 th\u00e1ng, chuy\u1ec7n g\u00ec \u0111ang x\u1ea3y ra",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
+    "What's Going On With Supermicro Stock on Tuesday? - TradingView",
+    "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a "
   ]
 }
