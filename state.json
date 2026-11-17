@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794874342.165591,
+  "last_signals": 1794875011.8666792,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,14 +80,14 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794875268,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794870612.3981895,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794873733.6401885,
+    "EUR/USD|4H:bot": 1794875013.8053842,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794874641.3332932,
-  "last_news": 1794874342.1648955,
+  "last_analysis": 1794874999.5479782,
+  "last_news": 1794875011.8659892,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Weekly Recap: Board chair proposal and Sodexo Live! CEO appointment - TradingVie",
-    "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
-    "We're booking huge profits on a tech winner and making a chip stock swap",
-    "Some under-25s should get fewer benefits, Milburn review to say",
-    "China\u2019s Coal Power Generation Slumps as Wind and Solar Surge",
     "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng Zalo c\u1ea7n c\u1ea3nh gi\u00e1c v\u1edbi th\u1ee7 \u0111o\u1ea1n m\u1edbi n\u00e0y",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
     "Canamex Gold Corp. (CSQ) Grants 3.1M Options at C$0.05 - TradingView",
@@ -457,6 +451,12 @@
     "RBA\u2019s Bullock says inflation risks still skewed to upside ahead of 6-3 vote minu",
     "\u0110\u1ea1i h\u1ecdc B\u00e1ch khoa H\u00e0 N\u1ed9i x\u00e2y c\u01a1 s\u1edf 2 g\u1ea7n 70ha t\u1ea1i t\u1ec9nh s\u00e1t v\u00e1ch Th\u1ee7 \u0111\u00f4, \u0111\u1ed1i di\u1ec7n",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Everus Announces Authorization Of New $100 Million Share Repurchase Program - Tr"
+    "Everus Announces Authorization Of New $100 Million Share Repurchase Program - Tr",
+    "Iran drawing up dirty bomb options for Washington, 7 US officials say, not seen ",
+    "Kh\u00f4ng d\u00e1m tin \u0111\u00e2y l\u00e0 con g\u00e1i 11 tu\u1ed5i th\u1eeba k\u1ebf 1300 t\u1ef7 c\u1ee7a Kwon Sang Woo",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Rosemont to acquire Aytu BioPharma for $2.70 per share - TradingView",
+    "My husband is happily retired at 64 and thinks I should keep working. Is he bein",
+    "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade"
   ]
 }
