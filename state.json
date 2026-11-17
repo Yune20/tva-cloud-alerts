@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794935056.5216458,
+  "last_signals": 1794935615.0829177,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794935057.7190602,
+    "DXY|1D:top": 1794935616.6730912,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794935057.351759,
-    "Gold|1D:bot": 1794935056.6463027,
+    "GBP/USD|1D:bot": 1794935616.1920698,
+    "Gold|1D:bot": 1794935615.2735481,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794935003.156801,
-  "last_news": 1794935056.5210876,
+  "last_analysis": 1794935605.9678755,
+  "last_news": 1794935615.0821857,
   "seen_news": [
-    "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields ",
-    "Sun Group \u0111ang tuy\u1ec3n nh\u00e2n s\u1ef1 cho lo\u1ea1t v\u1ecb tr\u00ed qu\u1ea3n l\u00fd x\u00e2y d\u1ef1ng \u0111\u00e1ng ch\u00fa \u00fd t\u1ea1i nhi",
-    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
-    "Nasdaq EVP, CIO Sold Shares Worth Over $545K - TradingView",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure ",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "Where are the jobs for 16-24 year-olds? Use our look-up to find out",
     "Why Iraq Just Fast-Tracked Chevron\u2019s Takeover Of A 14-Billion-Barrel Supergiant",
     "Euro yields hold near 1-month peaks on relentless U.S. Treasury pull",
@@ -456,6 +450,12 @@
     "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
     "We couldn't afford a house alone, so we bought one with strangers",
     "Democrats Target Trump\u2019s $100 Billion Venezuela Oil Deal",
-    "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic"
+    "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",
+    "Jensen Huang signals openness to return as Nvidia CEO - TradingView",
+    "Parents told us what it\u2019s like to help their kids battle sports-gambling addicti",
+    "Jensen Huang breaks his silence ahead of Nvidia earnings \u2014 plus, 1 stock to buy ",
+    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "Japan Proposes an 'Asian IEA' to Protect Oil Supplies",
+    "COP31 AI pledge fails to lure US Big Tech"
   ]
 }
