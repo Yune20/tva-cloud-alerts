@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794919563.554805,
+  "last_signals": 1794920159.817989,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -73,8 +73,8 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
@@ -124,7 +124,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794888434.5382001,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794919564.4342477,
+    "EUR/USD|4H:bot": 1794920161.4658442,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794909714.1726208,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794918948.3844082,
+    "Gold|1D:bot": 1794920160.0703626,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794919865.2167819,
-  "last_news": 1794919563.554003,
+  "last_news": 1794920159.8174915,
   "seen_news": [
-    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
-    "Northern Dynasty Minerals Ltd. (NDM) Will Not Renominate Director Balakrishnan -",
-    "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
-    "Asia FX subdued as dollar hits 19-mth peak on Fed tightening bets",
-    "Morgan Stanley bets on gold at $5,250, the boldest bank call with bullion near $",
     "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
     "'An annoying buzz': The search for stealthier drones",
     "US probes why a router installation sparked mass flight grounding",
@@ -456,6 +450,12 @@
     "Speed camera fault may have allowed drivers to escape fines",
     "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting",
     "UK designates BlackRock, Bloomberg as critical third parties",
-    "NZ 1-year inflation expectations jump to 2.9%, but the 2-year anchor barely move"
+    "NZ 1-year inflation expectations jump to 2.9%, but the 2-year anchor barely move",
+    "After a 35% sell-off, Nvidia has never looked cheaper ahead of tonight\u2019s results",
+    "Surplus story takes the wheel in oil for now, nudging Brent lower",
+    "T\u1eebng khi\u1ebfn nh\u00e3n h\u00e0ng tr\u1ea3 1,8 t\u1ef7 \u0111\u1ed3ng cho 1 l\u1ea7n xu\u1ea5t hi\u1ec7n, \u201cth\u00e1nh \u0103n c\u00f4ng s\u1edf\u201d Ti\u1ec3",
+    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
+    "It\u2019s a bad time to unwind the Bank of Jensen Huang - TradingView",
+    "Now\u2019s the perfect time for networking. Here\u2019s how to send a cringe-free email."
   ]
 }
