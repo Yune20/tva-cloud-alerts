@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794915620.1728716,
-  "last_bot4": 1794920523.7834632,
+  "last_bot4": 1794921203.3481479,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794919868.131468
+    "Gold": 1794921203.348028
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794920523.7840726,
+  "last_signals": 1794921203.348933,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -73,10 +73,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794920523.934122,
+    "Gold|1D:bot": 1794921203.4822955,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794920514.5687373,
-  "last_news": 1794920523.7826703,
+  "last_analysis": 1794921191.2897186,
+  "last_news": 1794921200.346592,
   "seen_news": [
-    "U.S. Commerce Dept, DOJ say they investigated Nvidia partner Megaspeed in 2024",
-    "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
-    "H\u00e0ng b\u00e1nh r\u00e1n m\u1eb7n kh\u00f4ng bi\u1ec3n hi\u1ec7u trong ng\u00f5 H\u00e0 N\u1ed9i: 20kg b\u1ed9t m\u1ed7i ng\u00e0y, 18 gi\u1edd l\u00e0",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
-    "Galimedix Therapeutics, Inc. Plans 100-Patient Alzheimer's Trial - TradingView",
-    "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ir",
     "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
     "CZ denies Binance sold crypto as Bitcoin rebounds from lows - TradingView",
     "There's a growing 'property tax revolt' as homeowners face rising costs. How it ",
@@ -456,6 +450,12 @@
     "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "REG - Societe Generale SA SEGRO PLC - Form 8.3 - SEGRO plc - TradingView",
     "Tepper and Loeb among fund managers piling into Nvidia and other megacap tech st",
-    "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia"
+    "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
+    "Citadel\u2019s Rubner says equity volatility hits highest since April 2025",
+    "Solana's recovery hinges on the Fed and US-Iran breakthrough as risk sentiment r",
+    "Si\u00eau ph\u1ea9m c\u1ee7a \u0110\u00ecnh B\u1eafc",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Nvidia board forms committee for national security and export control oversight ",
+    "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CN"
   ]
 }
