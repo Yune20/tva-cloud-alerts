@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794931881.9631543,
+  "last_signals": 1794932235.4685764,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -59,9 +59,9 @@
     "JPY Index": true,
     "US 10Y": true,
     "Gold|1H": true,
-    "Gold|4H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -133,8 +133,8 @@
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794931883.0592177,
-    "Gold|1D:bot": 1794931882.1490734,
+    "GBP/USD|1D:bot": 1794932236.7495234,
+    "Gold|1D:bot": 1794932235.6454737,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794931869.8279111,
-  "last_news": 1794931879.2964017,
+  "last_analysis": 1794932224.930229,
+  "last_news": 1794932235.4678316,
   "seen_news": [
-    "Paratus Energy Services Ltd. (PLSV) CFO and Interim CEO Resigns - TradingView",
-    "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
-    "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesso",
-    "Poundland gets more time to secure a rescue deal as emergency talks continue",
-    "Airlines Face Fuel Crisis as Price Hedges Expire",
-    "Nvidia to halt chip sales to data centers renting over half to China - report",
     "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright s",
     "We couldn't afford a house alone, so we bought one with strangers",
     "Pricer shares jump 25% on VusionGroup takeover offer",
@@ -456,6 +450,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "YZY: Team allocation unlocks 29.17M tokens - 12 Feb 2027 - TradingView",
     "Nvidia investors will be clamoring for these answers during today\u2019s historic ear",
-    "Nvidia shares try to rebound ahead of earnings as company reels from Huang resig"
+    "Nvidia shares try to rebound ahead of earnings as company reels from Huang resig",
+    "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+    "Nasdaq stretching toward the swing area and 50% retracement targets.  Key suppor",
+    "C\u00f3 n\u00ean l\u1eafp camera trong ph\u00f2ng ng\u1ee7 kh\u00f4ng?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "BMO Capital maintains Nextpower at Outperform, lowers price target to $108 from ",
+    "Kalshi takes down controversial Trump 'mention' markets at CFTC's request"
   ]
 }
