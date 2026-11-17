@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794935615.0829177,
+  "last_signals": 1794936222.9854755,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794935616.6730912,
+    "DXY|1D:top": 1794936224.399325,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794935616.1920698,
-    "Gold|1D:bot": 1794935615.2735481,
+    "GBP/USD|1D:bot": 1794936223.946691,
+    "Gold|1D:bot": 1794936223.123913,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794935605.9678755,
-  "last_news": 1794935615.0821857,
+  "last_analysis": 1794936216.1868043,
+  "last_news": 1794936222.9846318,
   "seen_news": [
-    "Where are the jobs for 16-24 year-olds? Use our look-up to find out",
-    "Why Iraq Just Fast-Tracked Chevron\u2019s Takeover Of A 14-Billion-Barrel Supergiant",
-    "Euro yields hold near 1-month peaks on relentless U.S. Treasury pull",
-    "RBA\u2019s Bullock says inflation risks still skewed to upside ahead of 6-3 vote minu",
-    "Hotgirl Ly Meo v\u1eeba ra \u0111\u1ea7u th\u00fa l\u00e0 ai?",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
     "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
     "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
     "RBA minutes: 6 members saw rates \u201cnot clearly sufficient\u201d, 3 warned of sharper d",
@@ -456,6 +450,12 @@
     "Jensen Huang breaks his silence ahead of Nvidia earnings \u2014 plus, 1 stock to buy ",
     "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
     "Japan Proposes an 'Asian IEA' to Protect Oil Supplies",
-    "COP31 AI pledge fails to lure US Big Tech"
+    "COP31 AI pledge fails to lure US Big Tech",
+    "The latest tech failure: U.S. classified national security communications networ",
+    "FAA pauses installation of new routers after ground stop",
+    "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex",
+    "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.83%",
+    "Flight to safety concerns from continued cyber issues send stocks lower, yields ",
+    "T\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng \u0111\u1ed3ng lo\u1ea1t tuy\u1ec3n 17 v\u1ecb tr\u00ed, l\u00e0m vi\u1ec7c t\u1ea1i d\u1ef1 \u00e1n Olympic, S\u00e2"
   ]
 }
