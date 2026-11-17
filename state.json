@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794951704.0120902,
+  "last_signals": 1794952314.6533904,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794951029.7345557,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -133,7 +133,7 @@
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794951704.8082783,
+    "GBP/USD|1D:bot": 1794952315.4210145,
     "Gold|1D:bot": 1794943907.0287259,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794951697.008104,
-  "last_news": 1794951704.0116136,
+  "last_analysis": 1794952305.653977,
+  "last_news": 1794952314.6526742,
   "seen_news": [
-    "Malaysia Signs First Critical Minerals Pact With France",
-    "Anthropic IPO beneficiaries: The stocks with the most exposure",
-    "Kuroda, once Japan\u2019s great easer, says BOJ rates may need to rise above neutral",
-    "Nh\u00ecn b\u1ebfp c\u1ee7a 4 b\u00e0 n\u1ed9i tr\u1ee3 H\u00e0n Qu\u1ed1c, t\u00f4i m\u1edbi nh\u1eadn ra: C\u00f3 nh\u1eefng chi ti\u1ebft nh\u1ecf khi\u1ebfn",
-    "VSC: CTCP Container Vi\u1ec7t Nam - Viconship - VietstockFinance",
-    "BMO Business Outlook: Southern California Growth Becomes More Productivity-Drive",
     "U.S. Treasury yields catch their breath near one-month highs",
     "Morgan Stanley bets on gold at $5,250, the boldest bank call with bullion near $",
     "EU chuy\u1ec3n 1,71 t\u1ef7 euro cho Ukraine \u0111\u1ec3 mua v\u0169 kh\u00ed v\u00e0 h\u1ed7 tr\u1ee3 s\u1ea3n xu\u1ea5t qu\u1ed1c ph\u00f2ng",
@@ -456,6 +450,12 @@
     "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "Financial News & Top Stories \u2014 Market Analysis - TradingView",
     "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
-    "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvid"
+    "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvid",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Stocks fall with Nvidia in focus, dollar dips - TradingView",
+    "Why Salesforce\u2019s stock led the S&P 500\u2019s decliners amid tech jitters",
+    "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+    "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
+    "Applied Optoelectronics falls 8% on $550 million stock offering plan"
   ]
 }
