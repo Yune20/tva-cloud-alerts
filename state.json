@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794926571.3209214,
-  "last_bot4": 1794933469.1438792,
+  "last_bot4": 1794934394.1972306,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794933469.143778
+    "Gold": 1794934394.1971583
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794934065.3689702,
+  "last_signals": 1794934394.1980317,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794934066.6339538,
+    "DXY|1D:top": 1794934396.439876,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794934066.1930518,
-    "Gold|1D:bot": 1794934065.5132892,
+    "GBP/USD|1D:bot": 1794934395.7895908,
+    "Gold|1D:bot": 1794934394.4604752,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794933771.446625,
-  "last_news": 1794934065.368313,
+  "last_analysis": 1794934383.2792664,
+  "last_news": 1794934391.457306,
   "seen_news": [
-    "Japan Proposes an 'Asian IEA' to Protect Oil Supplies",
-    "Why is IQE stock rallying today?",
-    "China resumes crude stockpiling, leaving room for fuel exports at 3 times prewar",
-    "T\u1eadn th\u1ea5y c\u1ea3nh \u0111\u00e0o h\u1ea7m, kho\u00e9t n\u00fai s\u00e2u 500m d\u1ef1ng 'pin \u0111i\u1ec7n kh\u1ed5ng l\u1ed3' \u0111\u1ea7u ti\u00ean \u1edf Vi",
-    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Ibstock Announces Sale Of Ibstock\u2019S Calcined Clay Opportunity - TradingView",
     "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
     "Why is Avio stock surging today?",
     "FX option expiries for 17 November 10am New York cut",
@@ -456,6 +450,12 @@
     "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt fligh",
     "\u00d4ng Trump c\u1ea3nh b\u00e1o Iran 'tr\u1ea3 gi\u00e1 kh\u1ee7ng khi\u1ebfp ch\u01b0a t\u1eebng th\u1ea5y' n\u1ebfu \u0111i\u1ec1u n\u00e0y x\u1ea3y ra",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Deutsche Bank stock slides after reports of links to Epstein, Russia - TradingVi"
+    "Deutsche Bank stock slides after reports of links to Epstein, Russia - TradingVi",
+    "Jensen Huang says he would return as Nvidia boss if asked by the board",
+    "Why is Aytu BioPharma stock surging today?",
+    "investingLive Americas market news wrap: Chip stocks dump again",
+    "\u0110\u00e0m V\u0129nh H\u01b0ng khoe s\u1edf h\u1eefu th\u1ee9 \u201c\u0111\u1ed9c nh\u1ea5t v\u00f4 nh\u1ecb\u201d t\u1ea1i Vi\u1ec7t Nam",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Trinity Dips on Financing - TradingView"
   ]
 }
