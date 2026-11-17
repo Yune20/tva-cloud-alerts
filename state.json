@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794952314.6533904,
+  "last_signals": 1794952930.5360503,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794951029.7345557,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -79,13 +79,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -133,7 +133,7 @@
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794952315.4210145,
+    "GBP/USD|1D:bot": 1794952931.57562,
     "Gold|1D:bot": 1794943907.0287259,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794952305.653977,
-  "last_news": 1794952314.6526742,
+  "last_analysis": 1794952920.4708638,
+  "last_news": 1794952930.535369,
   "seen_news": [
-    "U.S. Treasury yields catch their breath near one-month highs",
-    "Morgan Stanley bets on gold at $5,250, the boldest bank call with bullion near $",
-    "EU chuy\u1ec3n 1,71 t\u1ef7 euro cho Ukraine \u0111\u1ec3 mua v\u0169 kh\u00ed v\u00e0 h\u1ed7 tr\u1ee3 s\u1ea3n xu\u1ea5t qu\u1ed1c ph\u00f2ng",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Home Depot Names New CEO, Raises Sales Outlook - TradingView",
-    "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trou",
     "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
     "Avoid this Black Friday scam - how to check it's a real deal",
     "Can Economic Populism Survive an Age of Scarcity?",
@@ -456,6 +450,12 @@
     "Why Salesforce\u2019s stock led the S&P 500\u2019s decliners amid tech jitters",
     "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
     "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
-    "Applied Optoelectronics falls 8% on $550 million stock offering plan"
+    "Applied Optoelectronics falls 8% on $550 million stock offering plan",
+    "UK Carbon Capture Keeps Advancing Despite Critics",
+    "Ardent Health stock tumbles on 7M share secondary offering",
+    "SEC reportedly probes Nvidia disclosures as Bessent demands answers within 10 da",
+    "Ch\u1ee9ng kho\u00e1n xu\u1ea5t hi\u1ec7n m\u1ee9c \u0111\u1ecbnh gi\u00e1 hi\u1ebfm th\u1ea5y, CTCK ch\u1ec9 \u0111i\u1ec3m 8 c\u1ed5 phi\u1ebfu ti\u1ec1m n\u0103ng",
+    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Canam Biotech Inc. Completes Subsidiary Spinout, Distributing 551,634 Shares - T"
   ]
 }
