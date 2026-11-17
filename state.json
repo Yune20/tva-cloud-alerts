@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794940222.5623248,
+  "last_signals": 1794940836.4759185,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -126,15 +126,15 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794940224.0243785,
+    "DXY|1D:top": 1794940838.1045265,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794940223.539748,
-    "Gold|1D:bot": 1794940222.712577,
+    "GBP/USD|1D:bot": 1794940837.5490913,
+    "Gold|1D:bot": 1794940836.626171,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794940212.4310048,
-  "last_news": 1794940222.5615742,
+  "last_analysis": 1794940825.8663085,
+  "last_news": 1794940836.4752028,
   "seen_news": [
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "The Hidden Cost Holding Back Europe\u2019s Energy Innovators",
-    "Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160",
-    "Japan delays its first 2-year floating-rate JGB: what it says about BOJ bets",
-    "C\u1eadu b\u00e9 3 tu\u1ed5i v\u1eabn ch\u01b0a bi\u1ebft n\u00f3i, th\u00edch nh\u00ecn c\u00e1i la b\u00e0n tr\u1edf th\u00e0nh thi\u00ean t\u00e0i thay ",
-    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "WSJ: US imposes chip export licenses on 5 countries to close China\u2019s data center",
     "16 n\u0103m tr\u01b0\u1edbc, Qu\u1ea3ng tr\u01b0\u1eddng Nh\u00e0 h\u00e1t L\u1edbn H\u00e0 N\u1ed9i thu h\u00fat ngh\u00ecn fan v\u00ec 1 ng\u01b0\u1eddi \u0111\u00e0n \u00f4",
     "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-y",
@@ -456,6 +450,12 @@
     "If you own a Nasdaq-100 fund, you\u2019ll own Anthropic shares after 15 trading days ",
     "Jensen Huang's Nvidia exit exposes succession and governance risks for companies",
     "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan",
-    "OpenAI releases updated Astra AI model with new safeguards"
+    "OpenAI releases updated Astra AI model with new safeguards",
+    "How much more money could you earn if you had a financial adviser? Here\u2019s what r",
+    "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
+    "Jensen Huang says he would return as Nvidia CEO if asked",
+    "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+    "Jensen Huang tuy\u00ean b\u1ed1 s\u1eb5n s\u00e0ng tr\u1edf l\u1ea1i v\u1ecb tr\u00ed CEO Nvidia"
   ]
 }
