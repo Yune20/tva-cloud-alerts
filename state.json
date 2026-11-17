@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794893750.8869038,
-  "last_bot4": 1794900036.852475,
+  "last_bot4": 1794900705.8286057,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794899373.92638
+    "Gold": 1794900705.828515
   },
   "bot_chats": {
     "bot4": [
@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794900036.853268,
+  "last_signals": 1794900705.829303,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1794896572.9724565,
+    "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1794809087.0715718,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -58,8 +58,8 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
-    "Gold|4H": true,
+    "Gold|1H": true,
+    "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
@@ -73,19 +73,19 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794900036.9820724,
+    "Gold|1D:bot": 1794900705.9586685,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794900037.9597728,
     "JPY Index|4H:bot": 1794900038.1978874,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794900029.9086273,
-  "last_news": 1794900036.851475,
+  "last_analysis": 1794900695.5018406,
+  "last_news": 1794900702.8965406,
   "seen_news": [
-    "Customers report service outages at major US banks",
-    "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
-    "Iran says 4th tanker hit in 24 hours as UKMTO reports Hormuz attack near Oman",
-    "Vay 2,5 t\u1ef7 mua chung c\u01b0, gia \u0111\u00ecnh \u1edf TP.HCM ch\u1eadt v\u1eadt tr\u1ea3 g\u1ea7n 30 tri\u1ec7u ti\u1ec1n l\u00e3i m\u1ed7",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Lexeo cardiomyopathy asset data prompts Street price target increases - TradingV",
     "Intel slides 7% as investors sue over PC slump disclosures, extends losses after",
     "Ng\u01b0\u1eddi Vi\u1ec7t t\u01b0\u1edfng Ajinomoto ch\u1ec9 l\u00e0m m\u00ec ch\u00ednh, \u00edt ai bi\u1ebft th\u01b0\u01a1ng hi\u1ec7u n\u00e0y \u0111ang n\u1eafm",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
@@ -456,6 +450,12 @@
     "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
     "Dollar hits fresh 19-mth peak on Fed tightening bets",
     "China house prices continue their downward spiral",
-    "V\u1ee3 V\u0129nh Thu\u1ef5 l\u00e0 ai, gia th\u1ebf ra sao?"
+    "V\u1ee3 V\u0129nh Thu\u1ef5 l\u00e0 ai, gia th\u1ebf ra sao?",
+    "BlackRock keeps 5-year US equity overweight on AI conviction despite tactical ca",
+    "Nam ca s\u0129 SN 1977 l\u00e0 doanh nh\u00e2n kh\u00f4ng v\u1ee3 con n\u00f3i th\u1eb3ng: \"T\u00f4i kh\u00f4ng mu\u1ed1n ch\u1ee9ng t\u1ecf",
+    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
+    "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China,",
+    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with",
+    "America\u2019s Biggest Grid Operator Races to Keep Up With Data Center Boom"
   ]
 }
