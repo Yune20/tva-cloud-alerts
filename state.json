@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794915620.1728716,
-  "last_bot4": 1794923466.4318419,
+  "last_bot4": 1794924084.8173141,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794923466.4325402,
+  "last_signals": 1794924084.8181145,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
     "5575146754|Gold|4H|tbot": 1794923466.4325402,
-    "5575146754|Gold|4H|dbot": 1794464106.9871757,
+    "5575146754|Gold|4H|dbot": 1794924084.8181145,
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794809087.0715718,
     "5575146754|Gold|4H|trap_dn": 1794817179.1977615,
@@ -76,7 +76,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -130,7 +130,7 @@
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1794923466.5641189,
+    "Gold|4H:bot": 1794924085.1293952,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794923777.0497065,
-  "last_news": 1794923463.7034755,
+  "last_news": 1794924084.8166354,
   "seen_news": [
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu: TPCP gi\u1eef nh\u1ecbp huy \u0111\u1ed9ng \u2013 TPDN ch\u1eadm l\u1ea1i - VietstockFinance",
-    "Bitcoin Mining Difficulty Falls 9.13%, Giving Active Miners Some Breathing Room ",
-    "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving l",
-    "The grads ditching the UK for a fresh start abroad",
-    "Why is Alibaba stock sliding today?",
-    "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema",
     "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker stru",
     "The tech helping crack decades-old cold cases",
     "Popular websites subverted in bid to steal crypto, target iPhone users",
@@ -456,6 +450,12 @@
     "EU chuy\u1ec3n 1,71 t\u1ef7 euro cho Ukraine \u0111\u1ec3 mua v\u0169 kh\u00ed v\u00e0 h\u1ed7 tr\u1ee3 s\u1ea3n xu\u1ea5t qu\u1ed1c ph\u00f2ng",
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Home Depot Names New CEO, Raises Sales Outlook - TradingView",
-    "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trou"
+    "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trou",
+    "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+    "Avoid this Black Friday scam - how to check it's a real deal",
+    "Can Economic Populism Survive an Age of Scarcity?",
+    "Home Depot names insider McPhail CEO, bets on sustained sales recovery",
+    "US Import prices 1.1% vs 0.7% est. Export prices 1.1% vs 0.5% est.",
+    "Sao n\u1eef h\u1ea1ng A 45 tu\u1ed5i m\u1edbi l\u1ea5y ch\u1ed3ng, con trai 3 tu\u1ed5i \u0111\u00e3 \u0111\u1eb7t m\u1ee5c ti\u00eau l\u00e0m \u201csinh v"
   ]
 }
