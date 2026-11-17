@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794906263.294126,
+  "last_signals": 1794906888.623355,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -61,7 +61,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794906263.3802803,
+    "Gold|1D:bot": 1794906888.7377372,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794901970.3842292,
     "JPY Index|4H:bot": 1794901970.679947,
@@ -146,7 +146,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794887500.6535351,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1794906263.5264025,
+    "USOIL|4H:bot": 1794906888.863677,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794906255.7037375,
-  "last_news": 1794906263.2933137,
+  "last_analysis": 1794906883.918258,
+  "last_news": 1794906888.6227617,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
-    "Greenland Energy 3Q 2026: Revenue $0, EPS ($0.14) \u2014 10-Q Summary - TradingView",
-    "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-    "Minister backs legal right to job support for young people",
-    "Why Iraq Just Fast-Tracked Chevron\u2019s Takeover Of A 14-Billion-Barrel Supergiant",
-    "Mayne Pharma shares surge on $407 mln takeover offer from Gedeon Richter",
     "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60%",
     "How a sex scandal at Nvidia is putting pressure on the White House",
     "Europe Has Already Drained 10% of Its Summer Gas Injections",
@@ -456,6 +450,12 @@
     "FX option expiries for 17 November 10am New York cut",
     "S\u1edf h\u1eefu 28 c\u00f4ng ty t\u1ea1i Vi\u1ec7t Nam, m\u1ed9t doanh nghi\u1ec7p Th\u00e1i Lan thu g\u1ea7n 49.000 t\u1ef7 \u0111\u1ed3ng",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
-    "REG - Fonix PLC - Holding(s) in Company - TradingView"
+    "REG - Fonix PLC - Holding(s) in Company - TradingView",
+    "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields ",
+    "Sun Group \u0111ang tuy\u1ec3n nh\u00e2n s\u1ef1 cho lo\u1ea1t v\u1ecb tr\u00ed qu\u1ea3n l\u00fd x\u00e2y d\u1ef1ng \u0111\u00e1ng ch\u00fa \u00fd t\u1ea1i nhi",
+    "MBS: CTCP Ch\u1ee9ng kho\u00e1n MB - MBS - VietstockFinance",
+    "Nasdaq EVP, CIO Sold Shares Worth Over $545K - TradingView",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure ",
+    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
   ]
 }
