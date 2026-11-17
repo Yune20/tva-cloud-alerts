@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794948528.6749613,
+  "last_news_report": 1794959492.5965407,
   "last_bot4": 1794958879.7556777,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794958879.7563605,
+  "last_signals": 1794959492.598934,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -58,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794958868.452485,
-  "last_news": 1794958876.903656,
+  "last_analysis": 1794959480.2170696,
+  "last_news": 1794959488.0931149,
   "seen_news": [
-    "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chines",
-    "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to t",
-    "OpenAI sued by California over Hugging Face attack",
-    "Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push",
-    "Former Nvidia CEO Jensen Huang to appear before U.S. House committees in Decembe",
-    "Home Depot earnings offer a mixed picture of the US consumer as spending improve",
     "US bank services returning to normal after major outage",
     "America\u2019s Biggest Grid Operator Races to Keep Up With Data Center Boom",
     "HUM vs CVS vs UNH: value, quality, and growth compared",
@@ -456,6 +450,12 @@
     "VSC: CTCP Container Vi\u1ec7t Nam - Viconship - VietstockFinance",
     "Accelerant Director Sold Shares Worth Over $6.4M - TradingView",
     "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband",
-    "Ukraine damages Putin\u2019s prized Crimea bridge as Zelenskyy lauds \u2018unprecedented o"
+    "Ukraine damages Putin\u2019s prized Crimea bridge as Zelenskyy lauds \u2018unprecedented o",
+    "TS. Nguy\u1ec5n V\u0103n \u0110\u00ednh: Th\u1ecb tr\u01b0\u1eddng b\u1ea5t \u0111\u1ed9ng s\u1ea3n ch\u1ea5m d\u1ee9t giai \u0111o\u1ea1n \u0111\u1ea7u c\u01a1, doanh ng",
+    "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
+    "Nvidia reports strong Q3 but inventory levels increase - TradingView",
+    "Roth 401(k) matches are 'surging,' report finds. What workers should know",
+    "Nvidia reports bumper results as firm says it's not reinstating Huang",
+    "Treasury yields pause near 1-month highs as traders brace for Fed signals"
   ]
 }
