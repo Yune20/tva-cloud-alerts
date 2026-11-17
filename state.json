@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794891857.7885664,
+  "last_signals": 1794892469.1150646,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794879735.6446166,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794887500.786393,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794890255.7303462,
+    "DXY|1D:top": 1794892470.326532,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794891239.140333,
+    "Gold|1D:bot": 1794892469.2460525,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794884050.4519162,
     "JPY Index|4H:bot": 1794884050.92296,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794891850.0960228,
-  "last_news": 1794891857.787762,
+  "last_analysis": 1794892461.8239403,
+  "last_news": 1794892469.1143575,
   "seen_news": [
-    "HVN: T\u1ed5ng C\u00f4ng ty H\u00e0ng kh\u00f4ng Vi\u1ec7t Nam - CTCP - Vietnam Airlines - VietstockFinan",
-    "It\u2019s a bad time to unwind the Bank of Jensen Huang - TradingView",
-    "Nvidia investors will be clamoring for these answers during a historic earnings ",
-    "Nvidia's Colette Kress confronts key questions in first earnings report since Je",
-    "The tech helping crack decades-old cold cases",
-    "Chevron closes in on $5 billion Beacon deal, FT reports",
     "Kalshi plans to launch stock trading soon",
     "Heat pumps: How much heat does your home really need?",
     "California sues\u00a0OpenAI over AI models\u2019 cyberattacks on Hugging Face, other compa",
@@ -456,6 +450,12 @@
     "H\u00e0ng b\u00e1nh r\u00e1n m\u1eb7n kh\u00f4ng bi\u1ec3n hi\u1ec7u trong ng\u00f5 H\u00e0 N\u1ed9i: 20kg b\u1ed9t m\u1ed7i ng\u00e0y, 18 gi\u1edd l\u00e0",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
     "Galimedix Therapeutics, Inc. Plans 100-Patient Alzheimer's Trial - TradingView",
-    "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ir"
+    "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ir",
+    "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "CZ denies Binance sold crypto as Bitcoin rebounds from lows - TradingView",
+    "There's a growing 'property tax revolt' as homeowners face rising costs. How it ",
+    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "Can Economic Populism Survive an Age of Scarcity?",
+    "U.S. tightens rules to restrict China\u2019s access to advanced AI chips overseas"
   ]
 }
