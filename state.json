@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794871831.440338,
-  "last_bot4": 1794878492.6484778,
+  "last_bot4": 1794879128.7568574,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,13 +29,12 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794878492.6492414,
+  "last_signals": 1794879128.7574525,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
     "5575146754|Gold|1H|trap_dn": 1794809087.0715718,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
-    "5575146754|Gold|4H|dtop": 1794273924.4828646,
     "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
     "5575146754|Gold|4H|tbot": 1794810643.7896209,
     "5575146754|Gold|4H|dbot": 1794464106.9871757,
@@ -59,7 +58,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -155,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794878767.62031,
-  "last_news": 1794878461.3423665,
+  "last_analysis": 1794879119.3641663,
+  "last_news": 1794879128.7561433,
   "seen_news": [
-    "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-    "Venezuela\u2019s Oil Comeback Faces a New Threat From Washington",
-    "Dollar rally gathers pace as Japan\u2019s economic slump puts yen under pressure",
-    "China factory output slows to 4.8% in October, retail sales up just 0.4% as dema",
-    "Vi\u1ec7t Nam c\u00f3 gia \u0111\u00ecnh tr\u00ed th\u1ee9c \u0111\u1eb7c bi\u1ec7t v\u1edbi 5 ng\u01b0\u1eddi con: Cha l\u00e0 Gi\u00e1o s\u01b0, m\u1eb9 qu\u1ed1c ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
     "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed be",
     "China house prices continue their downward spiral",
     "S\u1ebfp IMF c\u1ea3nh b\u00e1o: Kinh t\u1ebf to\u00e0n c\u1ea7u \"\u0111ang \u0111\u1ee9ng tr\u00ean 1 ch\u00e2n\"",
@@ -457,6 +450,12 @@
     "Europe Has Already Drained 10% of Its Summer Gas Injections",
     "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
     "RBA minutes: 6 members saw rates \u201cnot clearly sufficient\u201d, 3 warned of sharper d",
-    "Tin bu\u1ed3n: N\u1eef di\u1ec5n vi\u00ean phim gi\u1edd v\u00e0ng v\u1eeba qua \u0111\u1eddi \u0111\u1ed9t ng\u1ed9t \u1edf tu\u1ed5i 23 gi\u1eefa l\u00fac phi"
+    "Tin bu\u1ed3n: N\u1eef di\u1ec5n vi\u00ean phim gi\u1edd v\u00e0ng v\u1eeba qua \u0111\u1eddi \u0111\u1ed9t ng\u1ed9t \u1edf tu\u1ed5i 23 gi\u1eefa l\u00fac phi",
+    "Houthi Advance Puts Saudi Crude Exports at Risk",
+    "Microsoft reports phishing attack targeting firms with fake emails",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6715 \u2013 Reuters estimate",
+    "Gi\u00e1 v\u00e0ng 9999 PNJ h\u00f4m nay 17/11/2026 bao nhi\u00eau 1 ch\u1ec9?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Stem Announces Sale Of Athena Intellectual Property To Voltus - TradingView"
   ]
 }
