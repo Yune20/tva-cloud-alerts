@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794937449.4001484,
-  "last_bot4": 1794944209.5916438,
+  "last_bot4": 1794944829.8397858,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1794943583.600289
+    "Gold": 1794944829.8396955
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794944505.7864301,
+  "last_signals": 1794944829.8405106,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794931881.9631543,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -126,14 +126,14 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794944507.1628103,
+    "DXY|1D:top": 1794944831.3794022,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1794931552.211252,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
-    "GBP/USD|1D:bot": 1794944506.7018204,
+    "GBP/USD|1D:bot": 1794944830.869157,
     "Gold|1D:bot": 1794943907.0287259,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794944209.5906153,
-  "last_news": 1794944505.7858393,
+  "last_analysis": 1794944821.391854,
+  "last_news": 1794944827.3429828,
   "seen_news": [
-    "U.S. companies from Nvidia to Apple face a growing China dilemma",
-    "Where has the most jobs for 18-24 year-olds? Use our look-up to find out",
-    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
-    "Gold consolidates as growth concerns gain traction amid a falling stock market. ",
-    "C\u00f4ng an ph\u00e1t th\u00f4ng b\u00e1o quan tr\u1ecdng \u0111\u1ebfn ng\u01b0\u1eddi d\u00e2n nh\u1eadn \u0111\u01b0\u1ee3c tin nh\u1eafn SMS, Zalo, Fa",
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027",
     "Crude oil erases recent gains despite no change in the US-Iran situation. What's",
     "Th\u00f4ng tin m\u1edbi v\u1ec1 d\u1ef1 \u00e1n cao t\u1ed1c d\u00e0i g\u1ea7n 58km, tr\u1ecb gi\u00e1 14.802 t\u1ef7 \u0111\u1ed3ng n\u1ed1i Tuy\u00ean Qu",
@@ -456,6 +450,12 @@
     "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
     "AXT Faces Supplier Switch Risk if US-China Tensions Flare - TradingView",
     "Want to know what bitcoin is really worth? Check this chart.",
-    "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CN"
+    "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CN",
+    "Vietjet tuy\u1ec3n ti\u1ebfp vi\u00ean, t\u1ed1t nghi\u1ec7p THPT c\u00f3 th\u1ec3 \u1ee9ng tuy\u1ec3n, thu nh\u1eadp t\u1edbi 65 tri\u1ec7u",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Sandisk's Earnings Face a New Risk in a Key Chip Market - TradingView",
+    "My husband is happily retired at 64 and thinks I should keep working. Is he bein",
+    "Demis Hassabis\u2019 AI company raises $5 billion, months after he left as Google Dee",
+    "How a sex scandal at Nvidia is putting pressure on the White House"
   ]
 }
