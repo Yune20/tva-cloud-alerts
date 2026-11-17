@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794905650.7010052,
+  "last_signals": 1794906263.294126,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -67,7 +67,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -82,7 +82,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794905650.8302174,
+    "Gold|1D:bot": 1794906263.3802803,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794901970.3842292,
     "JPY Index|4H:bot": 1794901970.679947,
@@ -146,7 +146,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1794887500.6535351,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1794905650.9468687,
+    "USOIL|4H:bot": 1794906263.5264025,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794905642.683763,
-  "last_news": 1794905650.7004206,
+  "last_analysis": 1794906255.7037375,
+  "last_news": 1794906263.2933137,
   "seen_news": [
-    "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields ",
-    "\u0110\u01b0\u1eddng s\u1eaft t\u1ed1c \u0111\u1ed9 cao qua \u0110\u1eafk L\u1eafk, h\u01a1n 3.000 h\u1ed9 d\u00e2n c\u1ea7n t\u00e1i \u0111\u1ecbnh c\u01b0",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: S\u1ea3n xu\u1ea5t v\u00e0 xu\u1ea5t kh\u1ea9u gi\u1eef nh\u1ecbp, \u00e1p l\u1ef1c gi\u00e1 v\u1eabn hi\u1ec7n h\u1eefu - Vietsto",
-    "Nasdaq EVP, CIO Sold Shares Worth Over $545K - TradingView",
-    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure ",
-    "Some under-25s should get fewer benefits, Milburn review to say",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - Ni\u1ec1m tin d\u1ea7n tr\u1edf l\u1ea1i - VietstockFinance",
     "Greenland Energy 3Q 2026: Revenue $0, EPS ($0.14) \u2014 10-Q Summary - TradingView",
     "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
@@ -456,6 +450,12 @@
     "China resumes crude stockpiling, leaving room for fuel exports at 3 times prewar",
     "T\u1eadn th\u1ea5y c\u1ea3nh \u0111\u00e0o h\u1ea7m, kho\u00e9t n\u00fai s\u00e2u 500m d\u1ef1ng 'pin \u0111i\u1ec7n kh\u1ed5ng l\u1ed3' \u0111\u1ea7u ti\u00ean \u1edf Vi",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Ibstock Announces Sale Of Ibstock\u2019S Calcined Clay Opportunity - TradingView"
+    "Ibstock Announces Sale Of Ibstock\u2019S Calcined Clay Opportunity - TradingView",
+    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "Why is Avio stock surging today?",
+    "FX option expiries for 17 November 10am New York cut",
+    "S\u1edf h\u1eefu 28 c\u00f4ng ty t\u1ea1i Vi\u1ec7t Nam, m\u1ed9t doanh nghi\u1ec7p Th\u00e1i Lan thu g\u1ea7n 49.000 t\u1ef7 \u0111\u1ed3ng",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
+    "REG - Fonix PLC - Holding(s) in Company - TradingView"
   ]
 }
