@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794910950.6892745,
+  "last_signals": 1794911565.6545162,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
@@ -76,7 +76,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794910940.1792607,
-  "last_news": 1794910950.6886199,
+  "last_analysis": 1794911555.7776353,
+  "last_news": 1794911565.6538124,
   "seen_news": [
-    "C\u00f4 g\u00e1i H\u00e0n Qu\u1ed1c s\u1edf h\u1eefu h\u00e0ng tr\u0103m m\u00f3n m\u1ef9 ph\u1ea9m nh\u01b0ng b\u00e0n trang \u0111i\u1ec3m v\u1eabn g\u1ecdn \u0111\u1eb9p nh",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Why Is NBIS Down Nearly 5% Overnight? - TradingView",
-    "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the ",
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "The Hidden Cost Holding Back Europe\u2019s Energy Innovators",
     "Weekly Recap: Nine-month revenue growth and 2027 debt financing - TradingView",
     "OpenAI inks agreements with four independent evaluators to boost company's safet",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
@@ -456,6 +450,12 @@
     "\u2018Nvidia spooked me\u2019: Should I sell my stocks or ride out the market turmoil?",
     "Here's what to expect when Disney reports earnings before the bell",
     "Burnham says 'win-win' deal can be agreed between UK and EU",
-    "The Army Just Did Something Extraordinary To Break China\u2019s Rare Earth Monopoly"
+    "The Army Just Did Something Extraordinary To Break China\u2019s Rare Earth Monopoly",
+    "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on th",
+    "Data center policy dominated the midterms. The 'Virginia of Europe' is the lates",
+    "Some under-25s should get fewer benefits, Milburn review to say",
+    "Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites",
+    "Barclays turns bearish on European insurers as rally outpaces earnings growth",
+    "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print"
   ]
 }
