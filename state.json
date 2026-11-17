@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1794904703.558458,
-  "last_bot4": 1794914932.063217,
+  "last_news_report": 1794915620.1728716,
+  "last_bot4": 1794915620.173742,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794915249.8108895,
+  "last_signals": 1794915620.17433,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794900705.829303,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1794915877,
   "menu_prices": {
@@ -124,7 +124,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794888434.5382001,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794915251.138117,
+    "EUR/USD|4H:bot": 1794915621.4604785,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794909714.1726208,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -134,10 +134,10 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794915249.9897778,
+    "Gold|1D:bot": 1794915620.5663004,
     "Ethereum|4H:bot": 1794664803.0336702,
-    "USD/JPY|4H:bot": 1794915251.3051085,
-    "JPY Index|4H:bot": 1794915251.6489818,
+    "USD/JPY|4H:bot": 1794915621.6092522,
+    "JPY Index|4H:bot": 1794915621.920849,
     "EUR/USD|4H:top": 1793861309.7279906,
     "Bitcoin|1D:bot": 1794324046.9828742,
     "DXY|4H:bot": 1793776186.638589,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794915241.3046296,
-  "last_news": 1794915249.8099103,
+  "last_analysis": 1794915605.4890578,
+  "last_news": 1794915615.2531605,
   "seen_news": [
-    "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Panther Minerals Inc. (PURR) Options 100% of New Mexico Uranium Property - Tradi",
-    "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-    "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
-    "US banking websites are having problems",
     "Market's Nvidia obsession obscuring an opportunity in this name",
     "How video game remakes tap the power of nostalgia",
     "Why is Xpeng HK stock rallying today?",
@@ -456,6 +450,12 @@
     "Howitz, Champions! HFM Brings the Premier League Trophy to Cape Town",
     "Nga v\u1eeba t\u1ea1o ra th\u1ee9 khi\u1ebfn c\u1ea3 th\u1ebf gi\u1edbi ph\u1ea3i d\u00e8 ch\u1eebng: \"Ph\u1ea3 h\u01a1i n\u00f3ng\" v\u00e0o g\u00e1y M\u1ef9 - ",
     "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
-    "Symrise AG (SY1): BlackRock Reports Voting Rights Threshold Change - TradingView"
+    "Symrise AG (SY1): BlackRock Reports Voting Rights Threshold Change - TradingView",
+    "Ethereum's bearish trend could extend further without a dovish Fed pivot or a US",
+    "BIDV ghi d\u1ea5u \u1ea5n trong l\u0129nh v\u1ef1c t\u00e0i ch\u00ednh ph\u00e1i sinh",
+    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
+    "XAUUSD: Gold Hits $3,830 for Fresh One-Year Low After Double Bottom Fails - Trad",
+    "\u2018It is heartbreaking, exhausting and downright dirty\u2019: My brother took over our ",
+    "Disney beats fourth-quarter estimates, targets $3 billion in savings through cos"
   ]
 }
