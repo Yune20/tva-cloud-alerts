@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794875011.8666792,
+  "last_signals": 1794875677.022851,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794854305.7550435,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -80,14 +80,14 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794875938,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794870612.3981895,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794875013.8053842,
+    "EUR/USD|4H:bot": 1794875677.981072,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1792021669.0601008,
     "EUR/USD|1D:bot": 1794480353.615819,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794875312.8495739,
-  "last_news": 1794875011.8659892,
+  "last_analysis": 1794875666.579806,
+  "last_news": 1794875677.0221293,
   "seen_news": [
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng Zalo c\u1ea7n c\u1ea3nh gi\u00e1c v\u1edbi th\u1ee7 \u0111o\u1ea1n m\u1edbi n\u00e0y",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Canamex Gold Corp. (CSQ) Grants 3.1M Options at C$0.05 - TradingView",
-    "Parents told us what it\u2019s like to help their kids battle sports-gambling addicti",
-    "Social Security and the blue wave: What could happen to payroll taxes and senior",
-    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
     "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
     "Why is Texas Instruments stock sliding today?",
@@ -457,6 +451,12 @@
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
     "Rosemont to acquire Aytu BioPharma for $2.70 per share - TradingView",
     "My husband is happily retired at 64 and thinks I should keep working. Is he bein",
-    "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade"
+    "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "XELB: Losses narrowed, but liquidity and Nasdaq compliance remain critical risks",
+    "Nvidia fallout: Commerce targets loophole for China's data center use",
+    "'Complete system reset' needed to get 440,000 young people into work, says major",
+    "China\u2019s Coal Power Generation Slumps as Wind and Solar Surge",
+    "US air travel recovery stumbles on United pause as funding fight brews"
   ]
 }
