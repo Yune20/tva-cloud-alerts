@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794892469.1150646,
+  "last_signals": 1794893082.6964688,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794879735.6446166,
     "5575146754|Gold|4H|range_in": 1794374337.9838526,
@@ -73,7 +73,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794887500.786393,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794892470.326532,
+    "DXY|1D:top": 1794893084.2947671,
     "EUR/USD|1D:bot": 1794480353.615819,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -134,7 +134,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794582033.074178,
-    "Gold|1D:bot": 1794892469.2460525,
+    "Gold|1D:bot": 1794893082.8586957,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794884050.4519162,
     "JPY Index|4H:bot": 1794884050.92296,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794892461.8239403,
-  "last_news": 1794892469.1143575,
+  "last_analysis": 1794893074.9985373,
+  "last_news": 1794893082.6956952,
   "seen_news": [
-    "Kalshi plans to launch stock trading soon",
-    "Heat pumps: How much heat does your home really need?",
-    "California sues\u00a0OpenAI over AI models\u2019 cyberattacks on Hugging Face, other compa",
-    "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
-    "Nh\u00e2n vi\u00ean ng\u00e2n h\u00e0ng gi\u00e0nh gi\u1ea3i th\u01b0\u1edfng 5,2 t\u1ef7 \u0111\u1ed3ng nh\u1edd m\u1ed9t b\u1ee9c \u1ea3nh",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Living with a stink? Technology might help",
     "Russia stocks lower at close of trade; MOEX Russia Index down 1.20%",
     "China\u2019s October data shows the economy losing momentum on retail sales and indus",
@@ -456,6 +450,12 @@
     "There's a growing 'property tax revolt' as homeowners face rising costs. How it ",
     "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "Can Economic Populism Survive an Age of Scarcity?",
-    "U.S. tightens rules to restrict China\u2019s access to advanced AI chips overseas"
+    "U.S. tightens rules to restrict China\u2019s access to advanced AI chips overseas",
+    "News by CNBC TV18 on TradingView, 2026-11-17 \u2014 cnbctv:41a250c23094b:0 - TradingV",
+    "Nvidia's Colette Kress confronts key questions in first earnings report since Je",
+    "The Indian workers filming their work to train AI",
+    "India bank unions call strike over IDBI sale to Fairfax",
+    "Kuroda, once Japan\u2019s great easer, says BOJ rates may need to rise above neutral",
+    "Nh\u1eadn 36 t\u1ef7 USD sau khi ly h\u00f4n, v\u1ee3 c\u0169 c\u1ee7a t\u1ef7 ph\u00fa Amazon hi\u1ec7n s\u1ed1ng th\u1ebf n\u00e0o?"
   ]
 }
