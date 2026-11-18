@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795003154.097419,
-  "last_bot4": 1795012490.993931,
+  "last_bot4": 1795013390.9539664,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795013065.268337,
+  "last_signals": 1795013390.9553056,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1795013655,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795013065.5828934,
+    "Gold|4H:bot": 1795013391.2846112,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795012775.769456,
-  "last_news": 1795013065.2678561,
+  "last_analysis": 1795013384.3802407,
+  "last_news": 1795013390.9508905,
   "seen_news": [
-    "Huy \u0111\u1ed9ng m\u00e1y khoan h\u1ea7m \u0111\u01b0\u1eddng k\u00ednh 15m t\u1eeb Trung Qu\u1ed1c, thi c\u00f4ng \u0111\u01b0\u1eddng h\u1ea7m 6 l\u00e0n xe",
-    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Financial News & Top Stories \u2014 Market Analysis - TradingView",
-    "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and financ",
-    "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the ",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
     "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
     "Biocon\u2019s Pebrilzo becomes first biosimilar approved under EMA\u2019s tailored clinica",
     "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
@@ -457,6 +451,12 @@
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Happy Belly Food Group to acquire full ownership of Rosie's Burgers - TradingVie",
     "Only two \u2018Magnificent Seven\u2019 stocks have managed to beat the S&P 500 since the s",
-    "Trump admin insists recent closely timed tech outages aren't connected"
+    "Trump admin insists recent closely timed tech outages aren't connected",
+    "\u0110\u00ecnh B\u1eafc ch\u1ea5n th\u01b0\u01a1ng n\u1eb7ng",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Sumitomo Mitsui Financial Insiders Sold Shares Worth Over $3M - TradingView",
+    "How high must interest rates go to cool inflation? Possibly 100 basis points or ",
+    "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to le",
+    "Nvidia says it won't reinstate Huang as it reports soaring sales"
   ]
 }
