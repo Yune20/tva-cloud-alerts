@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795017101.704157,
+  "last_signals": 1795017718.6240962,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795017102.4042673,
+    "Ethereum|4H:bot": 1795017719.1462948,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795017093.5895736,
-  "last_news": 1795017101.7035716,
+  "last_analysis": 1795017711.2684891,
+  "last_news": 1795017718.6233888,
   "seen_news": [
-    "Nike lays out financial goals ahead of first investor day in 9 years",
-    "Why are more roofs not made of solar tiles?",
-    "US fracking hopeful hires American heavyweights for sensitive Western Australia ",
-    "Nvidia sees 75% revenue growth next year as Kress points to $2.5 trillion backlo",
-    "7 chi\u1ebfc iPhone b\u1ecb Apple khai t\u1eed \u0111ang r\u1edbt gi\u00e1 s\u00e2u nh\u1ea5t hi\u1ec7n nay",
-    "VSC: CTCP Container Vi\u1ec7t Nam - Viconship - VietstockFinance",
     "Treasury yields pause near 1-month highs as traders brace for Fed signals",
     "Nvidia board shuts the door on Huang\u2019s return, refuses to discuss his exit on ca",
     "\u0110\u1ea1i gia \u0111i\u1ebfu c\u00e0y L\u00ea Thanh Th\u1ea3n \u0111\u01b0a 2 ph\u01b0\u01a1ng \u00e1n kh\u1eafc ph\u1ee5c h\u1eadu qu\u1ea3",
@@ -457,6 +451,12 @@
     "China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global",
     "Deutsche Bank Names Top North America Telecom Services Stock",
     "UK October CPI +3.6% vs +3.6% y/y expected",
-    "M\u1ed9t \u0111\u01a1n v\u1ecb \u1edf \u0110\u1eafk L\u1eafk t\u1eb7ng ti\u1ec1n nam nh\u00e2n vi\u00ean d\u1ecbp Qu\u1ed1c t\u1ebf Nam gi\u1edbi"
+    "M\u1ed9t \u0111\u01a1n v\u1ecb \u1edf \u0110\u1eafk L\u1eafk t\u1eb7ng ti\u1ec1n nam nh\u00e2n vi\u00ean d\u1ecbp Qu\u1ed1c t\u1ebf Nam gi\u1edbi",
+    "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
+    "United Health, Crowdstrike among market cap stock movers on Wednesday",
+    "US October pending home sales -4.7% vs -2.0% expected",
+    "Ph\u00e1t hi\u1ec7n th\u1ee7 \u0111o\u1ea1n l\u1eeba \u0111\u1ea3o chuy\u1ec3n kho\u1ea3n m\u1edbi: Ng\u01b0\u1eddi d\u00e2n nh\u1eadn \u0111\u01b0\u1ee3c giao d\u1ecbch c\u00f3 n\u1ed9",
+    "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
+    "Asia stocks choppy after Nvidia earnings as Anthropic pricing looms - TradingVie"
   ]
 }
