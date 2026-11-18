@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794980037.674235,
+  "last_signals": 1794980651.331409,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794980029.4753613,
-  "last_news": 1794980037.6205227,
+  "last_analysis": 1794980642.2635186,
+  "last_news": 1794980651.3307045,
   "seen_news": [
-    "\u2018Can I pick your brain?\u2019 and other terrible things to say in a networking email",
-    "A generational flight from tech to defensive stocks is underway. How we\u2019re capit",
-    "The engine parts that 'fight the laws of the universe'",
-    "Wall Street slides on Nvidia earnings day, S&P 500 posts lowest close since July",
-    "investingLive European news wrap: Risk sentiment remains tentative amid hawkish ",
-    "Vi\u1ec7t Nam \u0111\u01b0a 250 t\u1ea5m k\u00ednh \u0111\u1eb7c bi\u1ec7t t\u1edbi v\u00f9ng n\u00fai T\u00e2y B\u1eafc, t\u1ea1o c\u00f4ng tr\u00ecnh d\u00e0i h\u01a1n ",
     "Graduates are managing AI - but are they learning much else?",
     "Huang pitches Nvidia comeback after sources say board not considering it",
     "Solana's recovery hinges on the Fed and US-Iran breakthrough as risk sentiment r",
@@ -457,6 +451,12 @@
     "D\u00f9 B\u1ea7u \u0110\u1ee9c tuy\u00ean b\u1ed1 \"n\u1ebfu 1-2 n\u0103m n\u1eefa m\u00e0 l\u1ed7, c\u1ee9 k\u00eau t\u00f4i ra ch\u1eedi\": C\u1ed5 phi\u1ebfu HAG xu",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "Moody's Ratings Removes Panama's Negative Outlook, Easing Junk-Downgrade Threat ",
-    "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mo"
+    "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mo",
+    "US October import price index +1.1% vs +0.7% expected",
+    "6 m\u00e0n th\u1ecb ph\u1ea1m th\u1eddi trang c\u1ee7a \"c\u00f4ng ch\u00faa Vbiz\" cao 1m58",
+    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Spot gold may extend loss into $3,745-$3,776 range - TradingView",
+    "Wall Street's fear gauge is surging again and this time it's not just about AI j",
+    "Security flaw found in Java, world's third-largest programming language"
   ]
 }
