@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795042612.237072,
+  "last_signals": 1795043245.2230322,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795038946.882499,
+    "GBP/USD|4H:bot": 1795043246.1075335,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795042917.8573003,
-  "last_news": 1795042612.2362428,
+  "last_analysis": 1795043234.9098039,
+  "last_news": 1795043245.2222908,
   "seen_news": [
-    "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and financ",
-    "Tech outages are causing people to panic buy. Costco is benefitting",
-    "How important are Nvidia and Jensen Huang to the US economy?",
-    "UK Carbon Capture Keeps Advancing Despite Critics",
-    "Java flaw leaves systems open to hackers, say US, South Korea, China\u2019s Tencent",
-    "New Zealand producer prices rise again in Q3, though at a slower pace",
     "Where are the most jobs for 18-24 year-olds?",
     "API Shows Substantial Crude Oil, Gasoline Inventory Builds",
     "U.S. Treasury yields catch their breath near one-month highs",
@@ -457,6 +451,12 @@
     "Long Ch\u00e2u h\u00e9 l\u1ed9 k\u1ebf ho\u1ea1ch ti\u00ean phong \u0111\u01b0a thu\u1ed1c hi\u1ebfm \u0111i\u1ec1u tr\u1ecb b\u1ec7nh th\u1ea7n kinh v\u1eadn \u0111",
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Golar LNG Q3 2026 Earnings Call Is Live - TradingView",
-    "The stock market is being rocked by the biggest shake-up in a generation as tech"
+    "The stock market is being rocked by the biggest shake-up in a generation as tech",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Binance Granted Court Order In Adgm Courts To Support Asset Recovery - TradingVi",
+    "How copper\u2019s plunge could hurt the AI buildout",
+    "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit",
+    "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+    "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies"
   ]
 }
