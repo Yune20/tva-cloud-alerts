@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794992822.2216318,
+  "last_signals": 1794993450.0094676,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,14 +80,14 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|1H": true,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|1H": true,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794993697,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794992813.453224,
-  "last_news": 1794992822.2208762,
+  "last_analysis": 1794993443.4868996,
+  "last_news": 1794993450.0088725,
   "seen_news": [
-    "Australian wages jump 1.1%, strongest since 2023, but real pay falls for a fourt",
-    "C\u00f4ng an s\u1ebd \u0111i\u1ec1u tra khi  ph\u00e1t hi\u1ec7n t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00f3 c\u00e1c giao d\u1ecbch chuy\u1ec3n t",
-    "VCI: CTCP Ch\u1ee9ng kho\u00e1n Vietcap - Vietcap - VietstockFinance",
-    "StickIt Technologies Inc. (STKT) Sets 1-for-2 Share Consolidation - TradingView",
-    "U.S. officially loses measles elimination status amid ongoing outbreaks",
-    "US bank services returning to normal after major outage",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
     "MedCognetics, Inc. AI Selected Across Texas Imaging Centers - TradingView",
     "JPMorgan Chase says temporary software bug is affecting consumer banking",
@@ -457,6 +451,12 @@
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Key facts: ConvaTec posts 6.6% growth, raises FY26 guidance; launches products -",
     "Trump lands in China for historic meeting with Xi, Putin",
-    "Avoid this Black Friday scam - how to check it's a real deal"
+    "Avoid this Black Friday scam - how to check it's a real deal",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Weekly Recap: Q3 loss, runway through readouts and analyst target cuts - Trading",
+    "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon",
+    "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+    "Back to the future! Nvidia earnings/forecast lifts Nasdaq futures 1.3%"
   ]
 }
