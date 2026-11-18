@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794960101.1478014,
+  "last_signals": 1794960755.4737797,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -155,14 +155,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794960406.184693,
-  "last_news": 1794960101.1470962,
+  "last_news": 1794960755.473225,
   "seen_news": [
-    "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
-    "Jensen Huang says open to return as CEO if board allows",
-    "H\u00e0 N\u1ed9i s\u1eafp m\u1edf b\u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i gi\u00e1 g\u1ea7n 30 tri\u1ec7u \u0111\u1ed3ng/m\u00b2",
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "Wockhardt turns to scientific publications to accelerate Zaynich adoption in US ",
-    "Nearly half of home builders are cutting prices and offering lower mortgage rate",
     "It's getting tough to believe all these internet outages are a coincidence",
     "S\u1ed1 ph\u1eadn n\u1eef di\u1ec5n vi\u00ean phim gi\u1edd v\u00e0ng c\u00f3 ch\u1ed3ng \u0111\u1ea1i gia \u0111i t\u00f9, b\u1ecb t\u1ecbch thu 151 th\u1ecfi ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
@@ -456,6 +450,12 @@
     "Europe\u2019s LNG Scramble Sends Shockwaves Through Asian Gas Markets",
     "Factbox-Multiple tech systems have been crashing. Here is how to protect yoursel",
     "New Zealand producer prices rise again in Q3, though at a slower pace",
-    "C\u00f4ng an \u0111i\u1ec1u tra lo\u1ea1t giao d\u1ecbch chuy\u1ec3n ti\u1ec1n t\u1ed5ng c\u1ed9ng h\u01a1n 200.000.000 \u0111\u1ed3ng c\u1ee7a h"
+    "C\u00f4ng an \u0111i\u1ec1u tra lo\u1ea1t giao d\u1ecbch chuy\u1ec3n ti\u1ec1n t\u1ed5ng c\u1ed9ng h\u01a1n 200.000.000 \u0111\u1ed3ng c\u1ee7a h",
+    "Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push",
+    "Kalshi loses bid to prevent Maryland from policing prediction market",
+    "Back to the future! Nvidia earnings/forecast lifts Nasdaq futures 1.3%",
+    "Ng\u1ee1 ng\u00e0ng Th\u00e2m Quy\u1ebfn: Th\u00e0nh ph\u1ed1 Trung Qu\u1ed1c \u0111i tr\u01b0\u1edbc t\u01b0\u01a1ng lai t\u1edbi 60 n\u0103m",
+    "U.S. companies from Nvidia to Apple face a growing China dilemma",
+    "Europe plans to catch the next computer chip wave"
   ]
 }
