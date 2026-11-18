@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795031852.9972513,
+  "last_signals": 1795032465.4536128,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,13 +62,13 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795031842.3434122,
-  "last_news": 1795031852.996583,
+  "last_analysis": 1795032456.2296312,
+  "last_news": 1795032465.4509652,
   "seen_news": [
-    "V\u0129nh Thu\u1ef5 v\u00e0 d\u00e0n xe ti\u1ec1n t\u1ef7",
-    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
-    "Elon Musk Makes Major Tesla Production Shift After Cybertruck Sales Collapse - T",
-    "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of ",
-    "Waymo pulls driverless taxis from all US freeways",
-    "As Meta bets big on Muse AI agent, early safety mishaps surface",
     "Zcash extends recovery but significant headwinds persist amid hawkish Fed and US",
     "Cao su \u0110\u00e0 N\u1eb5ng c\u00f3 T\u1ed5ng gi\u00e1m \u0111\u1ed1c m\u1edbi",
     "Trump arrives in China for historic meeting with Xi, Putin",
@@ -457,6 +451,12 @@
     "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
     "'An annoying buzz': The search for stealthier drones",
     "Dollar on 7th daily advance as Fed minutes reinforce rate hike bets",
-    "Bitcoin remains under pressure amid the negative risk sentiment caused by hawkis"
+    "Bitcoin remains under pressure amid the negative risk sentiment caused by hawkis",
+    "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
+    "Europe\u2019s clean-energy push deepens dependence on Chinese technology - TradingVie",
+    "\u2018GTA 6\u2019 is the biggest game of all time. What it means for Take-Two\u2019s stock.",
+    "Why Anthropic's hot IPO is bringing out sellers \u2014 plus, a silver lining of the d",
+    "The Indian workers filming their work to train AI",
+    "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis"
   ]
 }
