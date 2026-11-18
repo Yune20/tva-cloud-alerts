@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794999381.7555072,
+  "last_signals": 1794999991.5537665,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794997161.960974,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794996537.0663686,
+    "EUR/USD|4H:bot": 1794999994.0296135,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794999374.2989173,
-  "last_news": 1794999381.75469,
+  "last_analysis": 1794999982.5708728,
+  "last_news": 1794999991.5530376,
   "seen_news": [
-    "Zelenskyy says Starshield speed curbs still in place over 'occupied territories'",
-    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
-    "Nvidia\u2019s former sales chief had ties to customers in chip scandal- The Informati",
-    "TSMC reportedly demands cash up front from AI chip clients amid circular financi",
-    "Nh\u1eadn di\u1ec7n, ph\u1ea3n b\u00e1c lu\u1eadn \u0111i\u1ec7u xuy\u00ean t\u1ea1c v\u1ec1 Lu\u1eadt Th\u1ee7 \u0111\u00f4 n\u0103m 2026",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "Troubled Australian retailer David Jones to cut 1,500 jobs, union says",
     "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2",
     "Matcha Nh\u1eadt B\u1ea3n t\u1eebng r\u1ea5t r\u1ebb, v\u00ec sao gi\u1edd l\u1ea1i \u0111\u1eaft \u0111\u1ecf \u0111\u1ebfn v\u1eady?",
@@ -457,6 +451,12 @@
     "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
     "REG - Halma PLC - Director Declaration - TradingView",
     "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to fin",
-    "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trum"
+    "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trum",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "Apotex (APTX) Launches First Generic INLYTA in U.S. - TradingView",
+    "Nvidia\u2019s stock rises as blowout numbers help ease CEO transition fears",
+    "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s retu",
+    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
+    "Gulf Trade With Central Asia Surges as Energy Ties Deepen"
   ]
 }
