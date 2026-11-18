@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795035885.920856,
-  "last_bot4": 1795045072.34014,
+  "last_bot4": 1795045787.3033419,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795045072.340787,
+  "last_signals": 1795045787.3038964,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1795009614.5804982,
+    "5575146754|Gold|1H|range_in": 1795045787.3038964,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1795031244.373756,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795039559.6661558,
-    "Bitcoin|4H:bot": 1795045072.823472,
+    "Bitcoin|4H:bot": 1795045788.1059592,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
@@ -140,12 +140,12 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795045072.8234844,
+    "Bitcoin|1D:bot": 1795045788.105971,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795045073.3150847,
+    "GBP/USD|4H:bot": 1795045788.8202343,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795045062.6409876,
-  "last_news": 1795045069.996892,
+  "last_analysis": 1795045778.1923182,
+  "last_news": 1795045787.30264,
   "seen_news": [
-    "Tempus AI Extends AstraZeneca Partnership With $200 Million Five-Year Commitment",
-    "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over S",
-    "Vance scraps schedule to address tech outages as Trump admin insists incidents a",
-    "Living with a stink? Technology might help",
-    "US Oil Inventories On the Rise",
-    "Why is Space Exploration Technologies stock climbing today?",
     "Target shares rise 5% as retailer posts best sales growth in five years, hikes g",
     "Government backs welfare shake-up to prevent 'lost generation'",
     "China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global",
@@ -457,6 +451,12 @@
     "\u0110i\u1ec3m y\u1ebfu c\u1ee7a MC Kh\u00e1nh Vy",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "ANT: Anthropic Heads for IPO Pricing with Demand at Six Times Supply - TradingVi",
-    "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings"
+    "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
+    "4 con gi\u00e1p c\u00f3 c\u00e1t tinh h\u1ed7 tr\u1ee3, gi\u00e0u n\u1ee9t \u0111\u1ed1 \u0111\u1ed5 v\u00e1ch trong th\u00e1ng 10 \u00e2m",
+    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
+    "Minnesota abortion laws face novel constitutional challenge at US appeals court ",
+    "Anthropic IPO raises over $81 billion in largest offering on record, topping Spa",
+    "Claude-maker Anthropic poised for $1.4tn stock market debut",
+    "Exclusive-UniCredit and Germany reach broad agreement on Commerzbank takeover"
   ]
 }
