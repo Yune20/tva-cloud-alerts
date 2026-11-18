@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795033714.7629013,
+  "last_signals": 1795034329.84966,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795012490.9946232
+    "5575146754|Gold|1D|dn": 1795034329.84966
   },
   "sig_range": {
     "Gold": true,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795033716.5058837,
+    "DXY|4H:top": 1795034331.2147057,
     "Bitcoin|4H:bot": 1795027449.5569496,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795033715.9453168,
+    "GBP/USD|4H:bot": 1795034330.7778466,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795033706.8075764,
-  "last_news": 1795033714.7621975,
+  "last_analysis": 1795034318.9802775,
+  "last_news": 1795034329.8489645,
   "seen_news": [
-    "Mortgage demand turns lower, as interest rates shoot back up to the highest leve",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "EnQuest Exits UK North Sea in $960 Million Deal",
-    "Dollar finally dips after fresh 19-month peak, set to snap five-day win streak",
-    "Recap: Australian wages grow at fastest pace in nearly 3 years, yet swaps see a ",
-    "M\u00e1y bay ch\u1edf kh\u00e1ch si\u00eau \u00e2m c\u1ee7a Nga s\u1ebd xu\u1ea5t hi\u1ec7n trong v\u00f2ng 3 - 4 n\u0103m t\u1edbi",
     "NTIC Q4'26 Earnings: EPS estimate is 0.06 USD - TradingView",
     "Fed officials set to raise rates again in December, but the future still looks m",
     "Robot vessels take on the dangerous work of mine hunting",
@@ -457,6 +451,12 @@
     "The grads ditching the UK for a fresh start abroad",
     "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump",
     "NZDUSD sellers stay in control as price nears the 0.54808 floor",
-    "\u00cdt ai ng\u1edd, ng\u01b0\u1eddi g\u00e2y d\u1ef1ng th\u01b0\u01a1ng hi\u1ec7u \u201cTh\u1ea7n \u0111\u00e8n\u201d \u0111\u01b0\u1ee3c doanh nghi\u1ec7p c\u1ee7a t\u1ef7 ph\u00fa Ph"
+    "\u00cdt ai ng\u1edd, ng\u01b0\u1eddi g\u00e2y d\u1ef1ng th\u01b0\u01a1ng hi\u1ec7u \u201cTh\u1ea7n \u0111\u00e8n\u201d \u0111\u01b0\u1ee3c doanh nghi\u1ec7p c\u1ee7a t\u1ef7 ph\u00fa Ph",
+    "SIEB: Seven director nominees elected; Crowe LLP ratification received majority ",
+    "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work to play \u2014 and some companies ",
+    "U.S. soldier taken into military custody over suspected spying for Russia",
+    "How a sex scandal at Nvidia is putting pressure on the White House",
+    "Pennsylvania confirms eighth measles-related death amid US outbreak",
+    "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could wa"
   ]
 }
