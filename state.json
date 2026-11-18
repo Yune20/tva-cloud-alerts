@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795021824.249664,
+  "last_signals": 1795022435.4851665,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795021825.7153206,
+    "DXY|4H:top": 1795022439.2056801,
     "Bitcoin|4H:bot": 1795015245.5299354,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1794324046.9828742,
+    "Bitcoin|1D:bot": 1795022436.3591013,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795021815.9433846,
-  "last_news": 1795021821.9593732,
+  "last_analysis": 1795022427.2015662,
+  "last_news": 1795022435.4844584,
   "seen_news": [
-    "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-    "Nvidia earnings spark premarket rally in chipmakers, neocloud stocks",
-    "Supplier, lender, shareholder: how Nvidia became the \"Bank of AI\"",
-    "T\u1eeb 1/12, ng\u00e2n h\u00e0ng s\u1ebd t\u1ef1 \u0111\u1ed9ng tr\u1eeb t\u1eeb 80.000 \u0111\u1ed3ng/th\u00e1ng n\u1ebfu t\u00e0i kho\u1ea3n ph\u00e1t sinh g",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "StickIt Technologies Inc. (STKT) Sets 1-for-2 Share Consolidation - TradingView",
     "Vusion Unveils Its Strategic Ambitions for 2030 - TradingView",
     "What Wall Street analysts are now saying after Nvidia\u2019s beat-and-raise quarter",
     "Treasury yields hold steady as investors look ahead to Fed minutes",
@@ -457,6 +451,12 @@
     "Ford starts U.S. battery cell production using Chinese tech amid geopolitical te",
     "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon",
     "Democrats Could Slow Venezuela\u2019s Push Toward 3 Million Bpd",
-    "GBP/USD slide driven by dollar strength, not sterling weakness"
+    "GBP/USD slide driven by dollar strength, not sterling weakness",
+    "Jim Cramer looks at what turned the market lower and where stocks could go next",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "EU Moves to Fast-Track Renewables as Oil Import Costs Soar",
+    "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+    "It's getting tough to believe all these internet outages are a coincidence",
+    "Di\u1ec5n bi\u1ebfn m\u1edbi t\u1ea1i d\u1ef1 \u00e1n trung t\u00e2m h\u00e0nh ch\u00ednh g\u1ea7n 30.000 t\u1ef7 \u0111\u1ed3ng do Sun Group \u0111\u1ea7u"
   ]
 }
