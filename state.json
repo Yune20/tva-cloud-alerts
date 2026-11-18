@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794985039.8914301,
+  "last_signals": 1794985644.5196989,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,8 +74,8 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": false,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794985033.7183056,
-  "last_news": 1794985039.8908849,
+  "last_analysis": 1794985637.6515055,
+  "last_news": 1794985644.5190055,
   "seen_news": [
-    "Summit Therapeutics\u2019 stock tumbles again as FDA recommends new trial for lung-ca",
-    "Anthropic likely to price IPO above the current range of $70 to $78, sources tel",
-    "Nvidia reports bumper results as firm says it not reinstating Huang",
-    "Nvidia earnings beat estimates; firm won\u2019t take questions on resignation",
-    "US stocks fall; Dow stocks are the hardest hit with a drop of 1.65%",
-    "Gi\u00e1 v\u00e0ng SJC, v\u00e0ng nh\u1eabn tr\u01a1n 9999 s\u00e1ng ng\u00e0y 18/11",
     "US bankruptcy judge approves Spirit Airlines data sale to Google",
     "investingLive Americas market news wrap: US retail sales continue to show resili",
     "Th\u00e1ng 10 \u00e2m, 3 con gi\u00e1p d\u1ec5 c\u00f3 c\u1ea3 ti\u1ec1n l\u1eabn t\u00e0i s\u1ea3n: M\u1ed9t ng\u01b0\u1eddi c\u00f2n c\u00f3 v\u1eadn nh\u00e0 c\u1eeda ",
@@ -457,6 +451,12 @@
     "Samsung Electro-Mechanics shares jump on expanded Nvidia supply deal",
     "UK September ILO unemployment rate 4.6% vs 4.7% expected",
     "Ph\u01b0\u01a1ng M\u1ef9 Chi h\u1ee7y show",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance"
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
+    "Huy \u0111\u1ed9ng m\u00e1y khoan h\u1ea7m \u0111\u01b0\u1eddng k\u00ednh 15m t\u1eeb Trung Qu\u1ed1c, thi c\u00f4ng \u0111\u01b0\u1eddng h\u1ea7m 6 l\u00e0n xe",
+    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Financial News & Top Stories \u2014 Market Analysis - TradingView",
+    "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and financ",
+    "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the ",
+    "As Christmas rush looms, how do China-made toys find their way to the US?"
   ]
 }
