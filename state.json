@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794990357.757258,
+  "last_signals": 1794990968.44602,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,14 +80,14 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|1H": false,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|1H": false,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794991231,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794990350.8014648,
-  "last_news": 1794990357.7565014,
+  "last_analysis": 1794990959.186899,
+  "last_news": 1794990968.4452999,
   "seen_news": [
-    "Supplier, lender, shareholder: how Nvidia became the \"Bank of AI\"",
-    "Thi h\u00e0nh l\u1ec7nh b\u1eaft t\u1ea1m giam Nguy\u1ec5n Th\u00e1i B\u00ecnh H\u01b0ng SN 1985",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
-    "Lantern Pharma 3Q 2026: EPS ($0.37) \u2014 10-Q Summary - TradingView",
-    "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimm",
-    "OpenAI sued by California over Hugging Face attack",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Carrier Accelerates Integration of 75F Technology Across HVAC Portfolio - Tradin",
     "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
@@ -457,6 +451,12 @@
     "Deutsche Bank leaks test CEO Sewing's pledge to reform - TradingView",
     "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
     "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-    "Europe\u2019s LNG Scramble Sends Shockwaves Through Asian Gas Markets"
+    "Europe\u2019s LNG Scramble Sends Shockwaves Through Asian Gas Markets",
+    "Tu\u1ea7n n\u00e0o c\u0169ng bay t\u1eeb TP.HCM ra H\u00e0 N\u1ed9i h\u1ecdc \u0110\u1ea1i h\u1ecdc, c\u00f4 g\u00e1i SN 2002 ti\u1ebft l\u1ed9: Ri\u00eang",
+    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
+    "Ashland Inc. Stock 12\u2011Month Price Target Raised to $83.4, Implies 12% Upside - T",
+    "Putin says EU is losing industry, falling behind competition, ahead of meeting w",
+    "Europe plans to catch the next computer chip wave",
+    "Canada adjusts China ties, Carney says, aiming to clinch right deal with US"
   ]
 }
