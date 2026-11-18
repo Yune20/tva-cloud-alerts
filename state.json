@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795003154.097419,
-  "last_bot4": 1795011844.6586227,
+  "last_bot4": 1795012490.993931,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795011184.4908931
+    "Gold": 1795012490.9938488
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795011844.659227,
+  "last_signals": 1795012490.9946232,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795002161.1124783,
-    "5575146754|Gold|4H|dbot": 1795008381.4189456,
+    "5575146754|Gold|4H|dbot": 1795012490.9946232,
     "5575146754|Gold|4H|momo_dn": 1795005616.9634595,
     "5575146754|Gold|4H|dn": 1795006835.543666,
     "5575146754|Gold|4H|trap_dn": 1794998777.0695508,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1794990357.757258
+    "5575146754|Gold|1D|dn": 1795012490.9946232
   },
   "sig_range": {
     "Gold": true,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795011844.8232036,
+    "Gold|4H:bot": 1795012491.2107377,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795012147.9644294,
-  "last_news": 1795011844.6578593,
+  "last_analysis": 1795012462.2295845,
+  "last_news": 1795012487.9278655,
   "seen_news": [
-    "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $",
-    "Living with a stink? Technology might help",
-    "BNP Paribas\u2019 BNL targets over 20% return on equity by 2030 in strategy shift",
-    "Nvidia hands three directors export control oversight days after Huang exit",
-    "T\u0103ng t\u1ed1c thi c\u00f4ng d\u1ef1 \u00e1n h\u1ed3 \u0111i\u1ec1u h\u00f2a C\u1ef1 Kh\u1ed1i",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "API Shows Substantial Crude Oil, Gasoline Inventory Builds",
     "Samsung Electro-Mechanics shares jump on expanded Nvidia supply deal",
@@ -457,6 +451,12 @@
     "ANV: CTCP Nam Vi\u1ec7t - NAVICO - VietstockFinance",
     "REG - Hungarian Export-Imp - Repayment of domestic public bonds - TradingView",
     "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-    "The seven Anthropic founders who are about to become multi-billionaires"
+    "The seven Anthropic founders who are about to become multi-billionaires",
+    "U.S.-Iran Conflict Flares Again as Gulf Nations Brace for Attacks",
+    "Explainer-What is the EU\u2019s new \u20ac45 billion Ukraine loan plan?",
+    "What are the main events for today?",
+    "\"\u00d4ng ho\u00e0ng c\u1ea3i l\u01b0\u01a1ng\" t\u1eebng l\u00ean Google h\u1ecdc c\u00e1ch kinh doanh, th\u00fa nh\u1eadn thu\u00ea m\u1eb7t b\u1eb1n",
+    "GVR: T\u1eadp \u0111o\u00e0n C\u00f4ng nghi\u1ec7p Cao su Vi\u1ec7t Nam - CTCP - VRG - VietstockFinance",
+    "Most Gulf bourses in the red as US-Iran hostilities build - TradingView"
   ]
 }
