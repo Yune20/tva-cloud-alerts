@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795024912.0609865,
-  "last_bot4": 1795027756.6949792,
+  "last_bot4": 1795028745.8183947,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795027756.6948678
+    "Gold": 1795028745.8183005
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795028076.7591083,
+  "last_signals": 1795028745.8191116,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795028078.2241423,
+    "DXY|4H:top": 1795028748.5911877,
     "Bitcoin|4H:bot": 1795027449.5569496,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795028077.252338,
+    "Bitcoin|1D:bot": 1795028746.7269943,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795028068.4757965,
-  "last_news": 1795028076.7583828,
+  "last_analysis": 1795028734.0997047,
+  "last_news": 1795028742.8473577,
   "seen_news": [
-    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
-    "Dollar holds near 19-mth high in 7th daily advance on Fed hike bets",
-    "Crude oil extends losses despite no changes in the Middle East; demand concerns ",
-    "C\u00f4ng vi\u1ec7c ch\u00ednh m\u1edbi c\u1ee7a L\u01b0\u01a1ng Th\u1ebf Th\u00e0nh",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "Wolfe Research initiates coverage of Celsius Holdings at Outperform, sets price ",
     "Strategists say investors should start asking \u2018what could go right\u2019 after tech\u2019s",
     "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
     "Why the UK is dithering over what to do about e-scooters",
@@ -457,6 +451,12 @@
     "Gold analysis shows we may be in an interesting potential bottom zone",
     "Ti\u1ebfn s\u0129 ng\u01b0\u1eddi Vi\u1ec7t \u2018\u0111\u1ed1i \u0111\u1ea7u\u2019 v\u1edbi c\u00e1c nh\u00e0 khoa h\u1ecdc c\u1ee7a Google \u0111\u1ec3 t\u00ecm l\u1eddi gi\u1ea3i cho",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Why Target stock is trading up today - TradingView"
+    "Why Target stock is trading up today - TradingView",
+    "How the\u00a0Anthropic IPO stacks up against SpaceX",
+    "Fed's Barr supports further rate hikes as inflation remains too high",
+    "T&T Group c\u1ee7a b\u1ea7u Hi\u1ec3n \u0111\u1ec1 xu\u1ea5t \u0111\u1ea7u t\u01b0 lo\u1ea1t d\u1ef1 \u00e1n n\u0103ng l\u01b0\u1ee3ng t\u00e1i t\u1ea1o t\u1ea1i t\u1ec9nh r\u1ed9n",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "Why Pony AI stock is trading up today - TradingView",
+    "Nearly half of home builders are cutting prices and offering lower mortgage rate"
   ]
 }
