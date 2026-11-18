@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794959492.598934,
+  "last_signals": 1794960101.1478014,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -154,15 +154,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794959480.2170696,
-  "last_news": 1794959488.0931149,
+  "last_analysis": 1794960092.8768194,
+  "last_news": 1794960101.1470962,
   "seen_news": [
-    "US bank services returning to normal after major outage",
-    "America\u2019s Biggest Grid Operator Races to Keep Up With Data Center Boom",
-    "HUM vs CVS vs UNH: value, quality, and growth compared",
-    "UK September ILO unemployment rate 4.6% vs 4.7% expected",
-    "'S\u1ed1t' tr\u00e0o l\u01b0u th\u1eafp \u0111\u00e8n \u1edf th\u01b0 vi\u1ec7n \u1ea3o \u0111\u1ec3 c\u00f9ng \u0111\u1ecdc s\u00e1ch online",
-    "MSB: Ng\u00e2n h\u00e0ng TMCP H\u00e0ng h\u1ea3i Vi\u1ec7t Nam - MSB - VietstockFinance",
     "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
     "Jensen Huang says open to return as CEO if board allows",
     "H\u00e0 N\u1ed9i s\u1eafp m\u1edf b\u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i gi\u00e1 g\u1ea7n 30 tri\u1ec7u \u0111\u1ed3ng/m\u00b2",
@@ -456,6 +450,12 @@
     "Nvidia reports strong Q3 but inventory levels increase - TradingView",
     "Roth 401(k) matches are 'surging,' report finds. What workers should know",
     "Nvidia reports bumper results as firm says it's not reinstating Huang",
-    "Treasury yields pause near 1-month highs as traders brace for Fed signals"
+    "Treasury yields pause near 1-month highs as traders brace for Fed signals",
+    "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
+    "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+    "Europe\u2019s LNG Scramble Sends Shockwaves Through Asian Gas Markets",
+    "Factbox-Multiple tech systems have been crashing. Here is how to protect yoursel",
+    "New Zealand producer prices rise again in Q3, though at a slower pace",
+    "C\u00f4ng an \u0111i\u1ec1u tra lo\u1ea1t giao d\u1ecbch chuy\u1ec3n ti\u1ec1n t\u1ed5ng c\u1ed9ng h\u01a1n 200.000.000 \u0111\u1ed3ng c\u1ee7a h"
   ]
 }
