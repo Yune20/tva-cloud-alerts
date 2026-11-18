@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795029964.1061676,
+  "last_signals": 1795030573.1916587,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795030272.504772,
-  "last_news": 1795029964.1056187,
+  "last_news": 1795030573.191119,
   "seen_news": [
-    "Recap: Japan exports hit record \u00a511.8 trillion as AI chip demand extends run to ",
-    "C\u1ef1u CEO Nvidia Jensen Huang \u0111\u1ed3ng \u00fd ra \u0111i\u1ec1u tr\u1ea7n tr\u01b0\u1edbc Th\u01b0\u1ee3ng vi\u1ec7n M\u1ef9",
-    "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
-    "Nvidia's numbers impress but investors fret over CEO succession - TradingView",
-    "The Fed is tightening, the economy is slowing \u2014 and that\u2019s the perfect setup to ",
-    "Target posts best sales growth in five years, raises guidance",
     "T\u1ea5t c\u1ea3 nh\u1eefng ai l\u00e1i \u00f4 t\u00f4 h\u00e3y l\u01b0u \u00fd, n\u00ean thu\u1ed9c l\u00f2ng \"quy t\u1eafc v\u00e0ng\" n\u00e0y khi tr\u1eddi t",
     "B\u00e1o c\u00e1o Th\u1ecb tr\u01b0\u1eddng Tr\u00e1i phi\u1ebfu: Th\u00e1ng 10/2026 - VietstockFinance",
     "After $6.3 billion crypto heist, Binance plans Asia expansion - TradingView",
@@ -457,6 +451,12 @@
     "Dollar holds near 19-mth high in 7th daily advance on Fed hike bets",
     "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
     "Lo\u1ea1t v\u0169 kh\u00ed t\u1ed1i t\u00e2n s\u1eafp h\u1ed9i t\u1ee5 t\u1ea1i H\u00e0 N\u1ed9i: UAV s\u00e1t th\u1ee7 c\u1ee7a M\u1ef9, t\u00e0u ng\u1ea7m Th\u1ed5 Nh\u0129 ",
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance"
+    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minute",
+    "States to debate social security contributions cut",
+    "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers",
+    "Dollar on 7th daily advance as Fed minutes reinforce rate h",
+    "Crude oil extends losses despite no changes in the Middle East; demand concerns ",
+    "L\u00e3i su\u1ea5t h\u1ea1 nhi\u1ec7t, CTCK b\u1ea5t ng\u1edd g\u1ecdi t\u00ean 4 c\u1ed5 phi\u1ebfu c\u00f3 th\u1ec3 h\u01b0\u1edfng l\u1ee3i l\u1edbn"
   ]
 }
