@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795014006.928467,
-  "last_bot4": 1795021195.6470304,
+  "last_bot4": 1795021824.2490695,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795020523.3471558
+    "Gold": 1795021824.2490032
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795021195.647456,
+  "last_signals": 1795021824.249664,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -38,7 +38,7 @@
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795002161.1124783,
     "5575146754|Gold|4H|dbot": 1795012490.9946232,
-    "5575146754|Gold|4H|momo_dn": 1795005616.9634595,
+    "5575146754|Gold|4H|momo_dn": 1795021824.249664,
     "5575146754|Gold|4H|dn": 1795006835.543666,
     "5575146754|Gold|4H|trap_dn": 1795014628.047322,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795010915.7666965,
+    "DXY|4H:top": 1795021825.7153206,
     "Bitcoin|4H:bot": 1795015245.5299354,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795021189.7650256,
-  "last_news": 1795021195.6464512,
+  "last_analysis": 1795021815.9433846,
+  "last_news": 1795021821.9593732,
   "seen_news": [
-    "Nvidia stock up 3% as earnings beat expectations. Neoclouds surge",
-    "Petrol and diesel prices push inflation to highest in a year",
-    "Euro yields anchor near 1-month highs as traders brace for sticky inflation prin",
-    "Australian wages jump 1.1%, strongest since 2023, but real pay falls for a fourt",
-    "D\u1ef1 \u00e1n ngh\u1ec9 d\u01b0\u1ee1ng \u1ed3 \u1ea1t san \u0111\u1ea5t \u0111\u00e1, l\u1ea5n h\u00e0ng tr\u0103m m\u00e9t ra bi\u1ec3n Nha Trang",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
     "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
     "Nvidia earnings spark premarket rally in chipmakers, neocloud stocks",
     "Supplier, lender, shareholder: how Nvidia became the \"Bank of AI\"",
@@ -457,6 +451,12 @@
     "TP.HCM d\u00f9ng 3 l\u00f4 \u0111\u1ea5t Th\u1ee7 Thi\u00eam h\u01a1n 23.000 t\u1ef7 thanh to\u00e1n Trung t\u00e2m h\u00e0nh ch\u00ednh m\u1edbi",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Should You Continue to Hold Medtronic Stock in Your Portfolio? - TradingView",
-    "Nvidia sinks after earnings, dragging down neoclouds"
+    "Nvidia sinks after earnings, dragging down neoclouds",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "U.S. indexes are mixed after Nvidia earnings; gold declines - TradingView",
+    "Ford starts U.S. battery cell production using Chinese tech amid geopolitical te",
+    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon",
+    "Democrats Could Slow Venezuela\u2019s Push Toward 3 Million Bpd",
+    "GBP/USD slide driven by dollar strength, not sterling weakness"
   ]
 }
