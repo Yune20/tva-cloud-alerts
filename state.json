@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795035885.920856,
-  "last_bot4": 1795044158.222539,
+  "last_bot4": 1795045072.34014,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795044158.22249
+    "Gold": 1795045072.340058
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795044454.4765053,
+  "last_signals": 1795045072.340787,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795039559.6661558,
-    "Bitcoin|4H:bot": 1795044455.5031605,
+    "Bitcoin|4H:bot": 1795045072.823472,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
@@ -140,12 +140,12 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795029964.6225388,
+    "Bitcoin|1D:bot": 1795045072.8234844,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795044456.37287,
+    "GBP/USD|4H:bot": 1795045073.3150847,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795044752.6365504,
-  "last_news": 1795044454.4758441,
+  "last_analysis": 1795045062.6409876,
+  "last_news": 1795045069.996892,
   "seen_news": [
-    "Sang tay th\u1ecfa thu\u1eadn h\u01a1n 17.355 t\u1ef7 \u0111\u1ed3ng gi\u00e1 tr\u1ecb c\u1ed5 phi\u1ebfu trong th\u1eddi gian ng\u1eafn, th",
-    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
-    "Pony.ai robotaxi revenue fuels Q3 sales and profit beat - TradingView",
-    "Costco is benefiting from \u2018apocalyptic concerns\u2019 as customers stock up on goods,",
-    "Anthropic IPO: AI lab considers increasing the offering as investor demand surge",
-    "Graduates are managing AI - but are they learning much else?",
     "Tempus AI Extends AstraZeneca Partnership With $200 Million Five-Year Commitment",
     "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over S",
     "Vance scraps schedule to address tech outages as Trump admin insists incidents a",
@@ -457,6 +451,12 @@
     "U.S. Treasury yields catch their breath near one-month highs",
     "BOJ tipped to hike to 1.50% in December, its first three-hike year in 37 years",
     "H\u01a1n 3 n\u0103m tr\u01b0\u1edbc, \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng l\u00e0m m\u1ed9t vi\u1ec7c \u00edt ai ng\u1edd - Nay nh\u00ecn \u0111\u1ed1i th\u1ee7 \u1ed3",
-    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance"
+    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked los",
+    "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs",
+    "\u0110i\u1ec3m y\u1ebfu c\u1ee7a MC Kh\u00e1nh Vy",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "ANT: Anthropic Heads for IPO Pricing with Demand at Six Times Supply - TradingVi",
+    "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings"
   ]
 }
