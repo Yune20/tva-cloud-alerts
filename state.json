@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794977606.9857876,
+  "last_signals": 1794978210.888435,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -41,7 +41,7 @@
     "5575146754|Gold|4H|momo_dn": 1794502129.2577298,
     "5575146754|Gold|4H|dn": 1794974736.222014,
     "5575146754|Gold|4H|trap_dn": 1794817179.1977615,
-    "5575146754|Gold|1D|tbot": 1794880348.3421113,
+    "5575146754|Gold|1D|tbot": 1794978210.888435,
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794978474,
@@ -127,7 +127,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794977609.0617356,
+    "DXY|1D:top": 1794978212.2308228,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -135,7 +135,7 @@
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
-    "Gold|1D:bot": 1794943907.0287259,
+    "Gold|1D:bot": 1794978211.0203102,
     "Ethereum|4H:bot": 1794664803.0336702,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794977600.1182034,
-  "last_news": 1794977606.9843721,
+  "last_analysis": 1794978202.2335322,
+  "last_news": 1794978210.8876681,
   "seen_news": [
-    "Alibaba Q2 Earnings Preview: Why Should You Hold the Stock Now? - TradingView",
-    "Only two \u2018Magnificent Seven\u2019 stocks have managed to beat the S&P 500 since the s",
-    "Widespread outages hit banks, air travel and now Apple, disrupting seemingly eve",
-    "Where are the most jobs for 18-24 year-olds?",
-    "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
-    "Riddle: Buyers were more aggressive, yet stock prices fell. How is that possible",
     "L\u00e3i 9 th\u00e1ng v\u01b0\u1ee3t 50% k\u1ebf ho\u1ea1ch n\u0103m, \"\u00f4ng l\u1edbn\" v\u1ed1n h\u00f3a  170.000 t\u1ef7 \u0111\u00f3n c\u00fa h\u00edch t\u1eeb ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
     "Weekly Recap: 2026 outlook reaffirmed and 2027 backlog, supplier expansion - Tra",
@@ -457,6 +451,12 @@
     "US October industrial production -0.4% vs +0.1% expected",
     "Ph\u00e1t minh c\u1ee7a Trung Qu\u1ed1c l\u00e0m rung chuy\u1ec3n ng\u00e0nh \u0111i\u1ec7n: Bi\u1ebfn th\u00e2n hoa sen th\u00e0nh m\u00e1y",
     "CTD: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 87,500 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Earnings to watch: Ross Stores reports Q3 results tomorrow - TradingView"
+    "Earnings to watch: Ross Stores reports Q3 results tomorrow - TradingView",
+    "investingLive Asia-Pacific market news: Gold breaks below $3,800",
+    "MISA c\u00f4ng b\u1ed1 b\u01b0\u1edbc ti\u1ebfn m\u1edbi c\u1ee7a AI Agent: \u201cNh\u00e2n vi\u00ean AI\u201d tham gia to\u00e0n tr\u00ecnh b\u00e1n ",
+    "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
+    "What NRx Pharmaceuticals (NRXP) Said on Its Q3 Earnings Call - TradingView",
+    "China\u2019s slowdown deepens in October as industrial output, retail sales, investme",
+    "US government confirms investigation into tech firm Megaspeed"
   ]
 }
