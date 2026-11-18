@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795010239.295598,
+  "last_signals": 1795010914.462609,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795010240.454331,
+    "DXY|4H:top": 1795010915.7666965,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795010239.4209337,
+    "Gold|4H:bot": 1795010914.5864837,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795010231.0657835,
-  "last_news": 1795010239.294994,
+  "last_analysis": 1795010864.2244556,
+  "last_news": 1795010914.4620986,
   "seen_news": [
-    "Tesla to pull the plug on Cybertruck after years of poor sales",
-    "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
-    "\u0110\u1ec1 xu\u1ea5t n\u00e2ng ti\u00eau ch\u00ed ph\u00e2n lo\u1ea1i, x\u1ebfp h\u1ea1ng ng\u00e2n h\u00e0ng",
-    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "KDventures AB (publ) (KDV_B) Appoints Johan Dighed as CEO - TradingView",
-    "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
     "KLAR Vs AFRM: Which Fintech Is A Better Bet Now? - TradingView",
     "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
     "How important are Nvidia and Jensen Huang to the US economy?",
@@ -457,6 +451,12 @@
     "Speed camera fault may have allowed drivers to escape fines",
     "China Tests 250-Mile Electric Plane in Major Aviation Milestone",
     "Exclusive: GXO CEO confident in 2030 targets with room for upside",
-    "What tokenized stock supply shows that price and volume miss: the Nvidia test"
+    "What tokenized stock supply shows that price and volume miss: the Nvidia test",
+    "The AI power scramble is in full force. Which companies really stand to profit?",
+    "Worried about the AI bubble popping? How investing pros say to adjust your strat",
+    "Anthropic: The seven founders who are about to become multi-billionaires",
+    "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
+    "Tuesday\u2019s insider buys and sells: RA Capital invests $43M in PepGen",
+    "US October housing starts 1.309M vs 1.245M expected"
   ]
 }
