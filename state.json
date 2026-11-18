@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1794981268.4191465,
+  "last_news_report": 1794992211.2987602,
   "last_bot4": 1794991883.0179064,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794991596.9100494,
+  "last_signals": 1794992211.2996385,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794992467,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794991588.9584556,
-  "last_news": 1794991596.9068658,
+  "last_analysis": 1794992195.629932,
+  "last_news": 1794992207.0377345,
   "seen_news": [
-    "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-    "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate",
-    "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
-    "Jensen Huang says open to return as CEO if board allows",
-    "H\u00e0 N\u1ed9i: Th\u01b0 L\u00e2m \u0111\u1eb7t m\u1ee5c ti\u00eau ho\u00e0n th\u00e0nh 48/54 ti\u00eau ch\u00ed x\u00e3 XHCN v\u00e0o n\u0103m 2030",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
     "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
     "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
     "It's getting tough to believe all these internet outages are a coincidence",
@@ -457,6 +451,12 @@
     "ANT: Anthropic Heads for IPO Pricing with Demand at Six Times Supply - TradingVi",
     "Medicare Part B premiums rise due to higher healthcare spending",
     "U.S. companies from Nvidia to Apple face a growing China dilemma",
-    "States to debate social security contributions cut"
+    "States to debate social security contributions cut",
+    "dormakaba Holding AG (DOKA) Sets New Mid-Term Targets Through FY 2028/29 - Tradi",
+    "The S&P 500 just broke a crucial support level. Here\u2019s what history shows may ha",
+    "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+    "MP urges council to speed up heating oil payments",
+    "EU Moves to Fast-Track Renewables as Oil Import Costs Soar",
+    "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets"
   ]
 }
