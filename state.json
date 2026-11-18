@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794981268.4202552,
+  "last_signals": 1794981934.1867313,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,13 +77,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794981567.0356069,
-  "last_news": 1794981263.5071442,
+  "last_analysis": 1794981926.4924405,
+  "last_news": 1794981934.1859105,
   "seen_news": [
-    "Ethereum's bearish trend could extend further without a dovish Fed pivot or a US",
-    "M\u1ed9t '\u0111\u1ea1i gia' Vi\u1ec7t Nam n\u1eafm g\u1ea7n 16.000 t\u1ef7 \u0111\u1ed3ng ti\u1ec1n r\u00f2ng, g\u1ea7n b\u1eb1ng c\u1ea3 gi\u00e1 tr\u1ecb c\u00f4n",
-    "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
-    "Financial News & Top Stories \u2014 Market Analysis - TradingView",
-    "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
-    "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvid",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
     "Stocks fall with Nvidia in focus, dollar dips - TradingView",
     "Why Salesforce\u2019s stock led the S&P 500\u2019s decliners amid tech jitters",
@@ -457,6 +451,12 @@
     "A generational flight from tech to defensive stocks is underway. How we\u2019re capit",
     "Speed camera fault may have allowed drivers to escape fines",
     "China Tests 250-Mile Electric Plane in Major Aviation Milestone",
-    "TD Cowen names its best stock pick for 2027"
+    "TD Cowen names its best stock pick for 2027",
+    "The engine parts that 'fight the laws of the universe'",
+    "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
+    "California bans Waymo freeway operations after safety incidents",
+    "investingLive European news wrap: Risk sentiment remains tentative amid hawkish ",
+    "Tr\u1ecdng T\u1ea5n gi\u1edd ch\u1ec9 mu\u1ed1n tr\u1ed3ng rau, nu\u00f4i m\u00e8o",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance"
   ]
 }
