@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795020207.653718,
+  "last_signals": 1795020818.3765082,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795020518.962461,
-  "last_news": 1795020207.652663,
+  "last_news": 1795020818.3758533,
   "seen_news": [
-    "FX option expiries for 18 November 10am New York cut",
-    "Th\u1ebf gi\u1edbi \u0111ang \u0111\u00f3n m\u1ed9t m\u00f9a \u0111\u00f4ng k\u1ef3 l\u1ea1",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Key facts: ConvaTec posts 6.6% growth, raises FY26 guidance; launches products -",
-    "Trump lands in China for historic meeting with Xi, Putin",
-    "Avoid this Black Friday scam - how to check it's a real deal",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Weekly Recap: Q3 loss, runway through readouts and analyst target cuts - Trading",
     "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
@@ -457,6 +451,12 @@
     "How new US chip restrictions on South East Asia will hit China",
     "Hesai Group stock rises on $100M buyback program",
     "investingLive Americas market news wrap: US retail sales continue to show resili",
-    "C\u00f4ng an \u0111\u01b0a nh\u00f3m thanh thi\u1ebfu ni\u00ean \u0111ua xe, g\u00e2y r\u1ed1i \u0111\u1ebfn ngh\u0129a trang d\u1ecdn v\u1ec7 sinh"
+    "C\u00f4ng an \u0111\u01b0a nh\u00f3m thanh thi\u1ebfu ni\u00ean \u0111ua xe, g\u00e2y r\u1ed1i \u0111\u1ebfn ngh\u0129a trang d\u1ecdn v\u1ec7 sinh",
+    "Dow falls over 600 points, Nasdaq seesaws as post-earnings Nvidia bounce fades",
+    "Economic and event calendar in Asia 18 November 2026.",
+    "Vi\u1ec7t Nam c\u00f3 gi\u1ecdng ca 2 l\u1ea7n Th\u1ee7 khoa, 20 n\u0103m tr\u00f4i qua v\u1eabn h\u00e1t \u0111\u1eb3ng c\u1ea5p nh\u01b0 b\u1ecb th\u1edd",
+    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
+    "Bitcoin miners collect lowest yearly transaction fees since 2011 - TradingView",
+    "Oracle\u2019s stock is ridiculously cheap even in the most gloomy scenarios, analyst "
   ]
 }
