@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794978210.888435,
+  "last_signals": 1794978822.2341347,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794979087,
@@ -127,7 +127,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794978212.2308228,
+    "DXY|1D:top": 1794978823.4199984,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794978202.2335322,
-  "last_news": 1794978210.8876681,
+  "last_analysis": 1794978814.8335133,
+  "last_news": 1794978822.2333117,
   "seen_news": [
-    "L\u00e3i 9 th\u00e1ng v\u01b0\u1ee3t 50% k\u1ebf ho\u1ea1ch n\u0103m, \"\u00f4ng l\u1edbn\" v\u1ed1n h\u00f3a  170.000 t\u1ef7 \u0111\u00f3n c\u00fa h\u00edch t\u1eeb ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: NHNN mua ngo\u1ea1i t\u1ec7 giao ngay - B\u01a1m VND d\u00e0i h\u1ea1n, h\u1ed7 tr\u1ee3 gi\u1ea3m l\u00e3i su",
-    "Weekly Recap: 2026 outlook reaffirmed and 2027 backlog, supplier expansion - Tra",
-    "The U.S.\u2019s classified national-security communications network experiences tech ",
-    "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingl",
-    "Create more jobs for under-25s by cutting National Insurance, key report urges",
     "UnitedHealth Stocks Fall 4.62% as CMS Proposes Wider Medicare Advantage Audits -",
     "Private equity has been buying up hospice centers \u2014 with striking consequences",
     "Wall Street's fear gauge is surging again and this time it's not just about AI j",
@@ -457,6 +451,12 @@
     "La b\u00e0n \u0111\u1ea7u t\u01b0: Th\u00e1ng 11/2026 - \u0110\u1ecbnh gi\u00e1 h\u1ea5p d\u1eabn, ch\u1edd c\u00fa h\u00edch t\u00e1i \u0111\u1ecbnh gi\u00e1 - Viet",
     "What NRx Pharmaceuticals (NRXP) Said on Its Q3 Earnings Call - TradingView",
     "China\u2019s slowdown deepens in October as industrial output, retail sales, investme",
-    "US government confirms investigation into tech firm Megaspeed"
+    "US government confirms investigation into tech firm Megaspeed",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Earnings to watch: Elastic reports Q3 results tomorrow - TradingView",
+    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
+    "Where are the most jobs for 18-24 year-olds?",
+    "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
+    "What tokenized stock supply shows that price and volume miss: the Nvidia test"
   ]
 }
