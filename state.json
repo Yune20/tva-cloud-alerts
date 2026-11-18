@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794969115.0902407,
+  "last_signals": 1794969720.022697,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
     "JPY Index|4H": true,
@@ -127,7 +127,7 @@
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794930951.43599,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794949134.0995202,
+    "DXY|1D:top": 1794969721.1761296,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794969420.699708,
-  "last_news": 1794969112.4340584,
+  "last_news": 1794969720.0220816,
   "seen_news": [
-    "Iran and Oman Hold Talks on Strait of Hormuz Security as Tanker Attacks Surge",
-    "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
-    "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
-    "T\u00e2m th\u01b0 d\u00e0i g\u1ea7n 300 t\u1eeb \u00f4ng Jensen Huang v\u1eeba \u0111\u0103ng trong \u0111\u00eam",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
-    "Kyntra Bio Q3 2026 Earnings Call Is Live - TradingView",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "SKAN Group AG (SKAN) CFO Appeals First-Instance Conviction - TradingView",
     "If you own a Nasdaq-100 fund, you\u2019ll own Anthropic shares after 15 trading days ",
@@ -457,6 +451,12 @@
     "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
     "Kh\u00e1ch s\u1ea1n h\u01a1n 5.200 t\u1ef7 \u0111\u1ed3ng t\u1eebng li\u00ean quan V\u1ea1n Th\u1ecbnh Ph\u00e1t c\u1ee7a b\u00e0 Tr\u01b0\u01a1ng M\u1ef9 Lan l",
     "EIB: Ng\u00e2n h\u00e0ng TMCP Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam - EXIMBANK - VietstockFinance",
-    "Hogs Falling Lower on Tuesday, as Pork Shows Weak Noon Print - TradingView"
+    "Hogs Falling Lower on Tuesday, as Pork Shows Weak Noon Print - TradingView",
+    "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting",
+    "Minister backs legal right to job support for young people",
+    "Gulf Trade With Central Asia Surges as Energy Ties Deepen",
+    "+48%, +31%, +24%: Which AI-picked stocks are climbing while tech wobbles?",
+    "Onchain investors bought Nvidia\u2019s Huang sell-off: tokenized supply up 121% in a ",
+    "H\u01b0ng Y\u00ean nghi\u00ean c\u1ee9u s\u1eafp x\u1ebfp x\u00e3, th\u00e0nh l\u1eadp ph\u01b0\u1eddng, h\u01b0\u1edbng t\u1edbi l\u00ean th\u00e0nh ph\u1ed1"
   ]
 }
