@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795036482.8103912,
+  "last_signals": 1795037097.7635262,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795036485.3112245,
+    "DXY|4H:top": 1795037100.0639994,
     "Bitcoin|4H:bot": 1795035886.8575282,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795036484.4270375,
+    "GBP/USD|4H:bot": 1795037099.2912884,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795036472.9090831,
-  "last_news": 1795036482.8096542,
+  "last_analysis": 1795037086.596812,
+  "last_news": 1795037097.7624202,
   "seen_news": [
-    "Booking Holdings Unveils Booking Partner Division to Accelerate B2B Travel Innov",
-    "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r",
-    "Exclusive: Most retail futures traders leaning into volatility, NinjaTrader find",
-    "investingLive European news wrap: Risk sentiment remains negative amid rising gr",
-    "C\u00f4ng ty con c\u1ee7a Hanel Mirolin l\u00e0m ch\u1ee7 \u0111\u1ea7u t\u01b0 c\u1ee5m c\u00f4ng nghi\u1ec7p Vi\u1ec7t Ng\u1ecdc",
     "Cessna jet maker Textron to sell industrial business for $1.2 billion",
     "investingLive Asia-Pacific market news: Gold breaks below $3,800",
     "Ch\u00e2n dung t\u00e2n Gi\u00e1m \u0111\u1ed1c T\u00e0i ch\u00ednh Eximbank: 15 n\u0103m g\u1eafn b\u00f3 v\u1edbi h\u1ec7 sinh th\u00e1i Techco",
@@ -457,6 +451,12 @@
     "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate h",
     "The tech helping crack decades-old cold cases",
     "EnQuest Exits UK North Sea in $960 Million Deal",
-    "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027"
+    "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027",
+    "What\u2019s next for the AI trade after Nvidia\u2019s blowout results are met with a shrug",
+    "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+    "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "Anthropic weighs IPO pricing of $80-$85 a share, Bloomberg reports",
+    "Fed's Waller calls for more aggressive action to break psychology that 3% inflat",
+    "Vietjet: H\u00e0nh tr\u00ecnh chinh ph\u1ee5c b\u1ea7u tr\u1eddi t\u1eeb \u0111\u01b0\u1eddng b\u0103ng v\u1ed1n t\u1ef7 USD"
   ]
 }
