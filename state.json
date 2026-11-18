@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794959492.5965407,
-  "last_bot4": 1794967554.4993932,
+  "last_bot4": 1794968189.3096805,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794967554.4999416,
+  "last_signals": 1794968189.3121684,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -44,7 +44,8 @@
     "5575146754|Gold|1D|tbot": 1794880348.3421113,
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
-    "5575146754|Gold|1H|dbot": 1794718478.4873762
+    "5575146754|Gold|1H|dbot": 1794718478.4873762,
+    "5575146754|Gold|1D|dn": 1794968189.3121684
   },
   "sig_range": {
     "Gold": true,
@@ -61,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -154,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794967861.6228204,
-  "last_news": 1794967551.5583045,
+  "last_analysis": 1794968178.5099368,
+  "last_news": 1794968189.3086402,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Target Q3 earnings on deck: What to expect - TradingView",
-    "Why Salesforce\u2019s stock is leading S&P 500 decliners amid tech jitters",
-    "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "Alphabet\u2019s Google acquires AI scheduling startup Howie to bolster agent lineup",
     "ServiceTitan's Homh is seen as 'game changer' for software company: BTIG - Tradi",
     "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over S",
     "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
@@ -456,6 +451,12 @@
     "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to fin",
     "LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free"
+    "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
+    "Salesforce starts fresh round of job cuts, Business Insider reports",
+    "Ueda keeps December hike in play as BOJ wants inflation anchored around 2%",
+    "4 th\u1ef1c ph\u1ea9m quen thu\u1ed9c \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"b\u1ea3o b\u1ed1i\" d\u01b0\u1ee1ng ph\u1ed5i m\u00f9a \u0111\u00f4ng: \u0102n \u0111\u00fang c\u00e1ch g",
+    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "UnitedHealth (UNH) vs. Humana (HUM): Buy the Dip? - TradingView",
+    "OpenAI bugging case defendant Alfozan set for trial in January"
   ]
 }
