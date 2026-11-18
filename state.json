@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795027448.7988021,
+  "last_signals": 1795028076.7591083,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795027451.2510152,
+    "DXY|4H:top": 1795028078.2241423,
     "Bitcoin|4H:bot": 1795027449.5569496,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -136,11 +136,11 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795027449.9129725,
+    "Ethereum|4H:bot": 1795028077.441771,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795027449.5569656,
+    "Bitcoin|1D:bot": 1795028077.252338,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795027754.1733818,
-  "last_news": 1795027448.7980978,
+  "last_analysis": 1795028068.4757965,
+  "last_news": 1795028076.7583828,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
-    "Apotex (APTX) Launches First Generic INLYTA in U.S. - TradingView",
-    "Nvidia\u2019s stock rises as blowout numbers help ease CEO transition fears",
-    "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s retu",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "Gulf Trade With Central Asia Surges as Energy Ties Deepen",
     "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
     "Dollar holds near 19-mth high in 7th daily advance on Fed hike bets",
     "Crude oil extends losses despite no changes in the Middle East; demand concerns ",
@@ -457,6 +451,12 @@
     "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick pro",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
     "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise",
-    "Newsmax sues Fox to block $22 billion Roku acquisition"
+    "Newsmax sues Fox to block $22 billion Roku acquisition",
+    "Cathedral's staff review 'difficult but necessary'",
+    "Panama files criminal complaint tied to CK Hutchison ports dispute",
+    "Gold analysis shows we may be in an interesting potential bottom zone",
+    "Ti\u1ebfn s\u0129 ng\u01b0\u1eddi Vi\u1ec7t \u2018\u0111\u1ed1i \u0111\u1ea7u\u2019 v\u1edbi c\u00e1c nh\u00e0 khoa h\u1ecdc c\u1ee7a Google \u0111\u1ec3 t\u00ecm l\u1eddi gi\u1ea3i cho",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Why Target stock is trading up today - TradingView"
   ]
 }
