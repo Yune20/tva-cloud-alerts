@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794986634.8838766,
+  "last_signals": 1794987242.2113447,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1794987503,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794986625.1594536,
-  "last_news": 1794986634.8824384,
+  "last_analysis": 1794987229.8368876,
+  "last_news": 1794987242.210599,
   "seen_news": [
-    "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "Nvidia stock rises after hours as revenue forecast beats estimates - TradingView",
-    "Republicans outspent Democrats for first time in over a decade in record 2026 mi",
-    "Government backs welfare shake-up to prevent 'lost generation'",
-    "Cuba\u2019s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
-    "S&P downgrades Wendy\u2019s to \u2018B\u2019 on elevated leverage and persistent sales declines",
     "Homebuilder sentiment plunges to 14-year low, leading more builders to drop pric",
     "How new US chip restrictions on South East Asia will hit China",
     "U.S. Opens New Front in Campaign to Cut Off Iran\u2019s Supply Routes",
@@ -457,6 +451,12 @@
     "Higher fuel prices push UK inflation to 3.6%",
     "Dollar holds near 19-mth high on Fed hike bets",
     "UK October CPI +3.6% vs +3.6% y/y expected",
-    "\u00d4ng Nguy\u1ec5n \u0110\u1ee9c Qu\u00e2n t\u1eeb nhi\u1ec7m Th\u00e0nh vi\u00ean H\u0110QT Ch\u1ee9ng kho\u00e1n APEC"
+    "\u00d4ng Nguy\u1ec5n \u0110\u1ee9c Qu\u00e2n t\u1eeb nhi\u1ec7m Th\u00e0nh vi\u00ean H\u0110QT Ch\u1ee9ng kho\u00e1n APEC",
+    "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
+    "Canada\u2019s La Caisse in talks for stake in Bain\u2019s Bridge Data Centres, sources say",
+    "Nvidia\u2019s missing 10-Q: three reasons to be alert, not alarmed",
+    "L\u00e0o Cai c\u00f3 n\u1eef B\u00ed th\u01b0 T\u1ec9nh \u0110o\u00e0n 35 tu\u1ed5i",
+    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "China's October youth jobless rate falls to 17.2% - TradingView"
   ]
 }
