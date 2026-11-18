@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794997160.7698138,
+  "last_signals": 1794997774.9347703,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,19 +74,19 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794997151.7493794,
-  "last_news": 1794997160.7692227,
+  "last_analysis": 1794997765.4167948,
+  "last_news": 1794997774.934013,
   "seen_news": [
-    "\"T\u00f3m g\u1ecdn\" bu\u1ed5i h\u1eb9n h\u00f2 1,2 tri\u1ec7u \u0111\u1ed3ng c\u1ee7a Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai v\u00e0 t\u00ecnh m\u1edb",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Cotton Bouncing on Turnaround Tuesday - TradingView",
-    "Nvidia takes positive step forward with stronger sales outlook. Here\u2019s our thoug",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "Russian Crude Exports Hit Four-Month High",
     "Gas starts flowing from Jackdaw after government green light",
     "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6",
     "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
@@ -457,6 +451,12 @@
     "BDMS: 3Q growth and November momentum reinforced FY2026 revenue guidance - Tradi",
     "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lo",
     "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick pro",
-    "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises"
+    "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises",
+    "Key facts: FuboTV Target Cut; International Review; Pay-TV Expansion - TradingVi",
+    "\u2018New Girl\u2019 star Jake Johnson sells Pasadena home in just 2 weeks for $530K over ",
+    "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge",
+    "How video game remakes tap the power of nostalgia",
+    "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise",
+    "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump"
   ]
 }
