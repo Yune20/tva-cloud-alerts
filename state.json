@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795003154.097419,
-  "last_bot4": 1795006510.3811827,
+  "last_bot4": 1795007162.2024577,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795005904.3671432
+    "Gold": 1795007162.2024038
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795006835.543666,
+  "last_signals": 1795007162.2029898,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795006836.7836683,
+    "GBP/USD|4H:bot": 1795007163.0126011,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795006827.67608,
-  "last_news": 1795006835.542675,
+  "last_analysis": 1795007152.8110104,
+  "last_news": 1795007159.1780756,
   "seen_news": [
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "Earnings to watch: Elastic reports Q3 results tomorrow - TradingView",
-    "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, accordi",
-    "Where are the most jobs for 18-24 year-olds?",
-    "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
-    "What tokenized stock supply shows that price and volume miss: the Nvidia test",
     "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingl",
     "Create more jobs for under-25s by cutting National Insurance, key report urges",
     "Asia FX subdued as dollar holds near 19-mth high on Fed hike bets",
@@ -457,6 +451,12 @@
     "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
     "5 c\u00e2y c\u1ea3nh \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"chi\u1ebfn binh xanh\", kh\u00f4ng ch\u0103m v\u1eabn s\u1ed1ng dai, l\u1eb7ng l\u1ebd tr\u1ea5n ",
     "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
-    "Microsoft Makes Major AI Move With DeepSeek Partnership - TradingView"
+    "Microsoft Makes Major AI Move With DeepSeek Partnership - TradingView",
+    "3 ng\u00e0y th\u00e1ng 12, H\u1ed3 G\u01b0\u01a1m th\u00e0nh c\u00f4ng vi\u00ean c\u00f4ng ngh\u1ec7: \u0110i \u0111\u00e2u, xem g\u00ec, m\u1ea5y gi\u1edd ra l",
+    "EIB: Ng\u00e2n h\u00e0ng TMCP Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam - EXIMBANK - VietstockFinance",
+    "REG - FIL Limited Intertek Group Plc - Form 8.3 - INTERTEK GROUP PLC - TradingVi",
+    "Measles cases in the U.S. are at a 35-year high. Here\u2019s the staggering cost of t",
+    "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate h",
+    "Why Gen Z are planning for life without a state pension"
   ]
 }
