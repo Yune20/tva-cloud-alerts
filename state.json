@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794982544.297464,
+  "last_signals": 1794983206.731939,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,13 +77,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794982534.7897594,
-  "last_news": 1794982544.2968912,
+  "last_analysis": 1794983197.2992213,
+  "last_news": 1794983206.7312474,
   "seen_news": [
-    "UK Carbon Capture Keeps Advancing Despite Critics",
-    "Ardent Health stock tumbles on 7M share secondary offering",
-    "SEC reportedly probes Nvidia disclosures as Bessent demands answers within 10 da",
-    "Ch\u1ee9ng kho\u00e1n xu\u1ea5t hi\u1ec7n m\u1ee9c \u0111\u1ecbnh gi\u00e1 hi\u1ebfm th\u1ea5y, CTCK ch\u1ec9 \u0111i\u1ec3m 8 c\u1ed5 phi\u1ebfu ti\u1ec1m n\u0103ng",
-    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Canam Biotech Inc. Completes Subsidiary Spinout, Distributing 551,634 Shares - T",
     "Nvidia hands three directors export control oversight days after Huang exit",
     "Ngh\u1ec7 An d\u1ef1 ki\u1ebfn r\u00f3t 40 t\u1ef7 \u0111\u1ed3ng tri\u1ec3n khai ch\u00ednh s\u00e1ch m\u1edbi gi\u00fap b\u00e0 con kh\u1ea5p kh\u1edfi m",
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "\u0110\u1ec1 xu\u1ea5t n\u00e2ng ti\u00eau ch\u00ed ph\u00e2n lo\u1ea1i, x\u1ebfp h\u1ea1ng ng\u00e2n h\u00e0ng",
     "IDC: Khuy\u1ebfn ngh\u1ecb T\u0102NG T\u1ef6 TR\u1eccNG v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 42,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - Vietstock",
     "KDventures AB (publ) (KDV_B) Appoints Johan Dighed as CEO - TradingView",
-    "My older brother, who has no children, cut our only sister out of his will. I\u2019ll"
+    "My older brother, who has no children, cut our only sister out of his will. I\u2019ll",
+    "KLAR Vs AFRM: Which Fintech Is A Better Bet Now? - TradingView",
+    "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
+    "How important are Nvidia and Jensen Huang to the US economy?",
+    "Why is LendLease stock collapsing today?",
+    "What are the main events for today?",
+    "M\u00f4i gi\u1edbi ch\u1ed1t h\u01a1n 250 B\u0110S cao c\u1ea5p, b\u00e1n li\u1ec1n 14 c\u0103n cho m\u1ed9t kh\u00e1ch VIP v\u00e0 k\u1ec3 v\u1ec1 de"
   ]
 }
