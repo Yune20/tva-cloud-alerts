@@ -1,6 +1,6 @@
 {
   "last_news_report": 1794981268.4191465,
-  "last_bot4": 1794986008.0772064,
+  "last_bot4": 1794986634.8831213,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794986008.078021,
+  "last_signals": 1794986634.8838766,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794986311.2570086,
-  "last_news": 1794986005.245805,
+  "last_analysis": 1794986625.1594536,
+  "last_news": 1794986634.8824384,
   "seen_news": [
-    "Nvidia\u2019s missing 10-Q: three reasons to be alert, not alarmed",
-    "Starup xe \u0111i\u1ec7n m\u1edbi th\u00e0nh l\u1eadp 2 th\u00e1ng c\u00f4ng b\u1ed1 chi 250 t\u1ef7 x\u00e2y trung t\u00e2m R&D, nh\u00e0 m",
-    "DGC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Nvidia earnings beat estimates; attention turns to call - TradingView",
-    "Nike lays out financial goals ahead of first investor day in 9 years",
-    "Avoid this Black Friday scam - how to check it's a real deal",
     "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
     "Nvidia stock rises after hours as revenue forecast beats estimates - TradingView",
     "Republicans outspent Democrats for first time in over a decade in record 2026 mi",
@@ -457,6 +451,12 @@
     "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
     "Anthropic likely to price IPO above the current range of $70 to $78, sources tel",
     "How long will humans be needed for translation?",
-    "U.S. Treasury yields catch their breath near one-month highs"
+    "U.S. Treasury yields catch their breath near one-month highs",
+    "Costco is benefiting from \u2018apocalyptic concerns\u2019 as customers stock up on goods,",
+    "Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
+    "Higher fuel prices push UK inflation to 3.6%",
+    "Dollar holds near 19-mth high on Fed hike bets",
+    "UK October CPI +3.6% vs +3.6% y/y expected",
+    "\u00d4ng Nguy\u1ec5n \u0110\u1ee9c Qu\u00e2n t\u1eeb nhi\u1ec7m Th\u00e0nh vi\u00ean H\u0110QT Ch\u1ee9ng kho\u00e1n APEC"
   ]
 }
