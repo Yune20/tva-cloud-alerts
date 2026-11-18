@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794995002.097576,
+  "last_signals": 1794995601.061002,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794995305.9039588,
-  "last_news": 1794995002.0970058,
+  "last_news": 1794995601.0603194,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
-    "Why Lucky Strike stock is trading up today - TradingView",
-    "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could",
-    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "Reliance seeks manufacturing partners for its 1,600-satellite network - Bloomber",
-    "Nasdaq stretching toward the swing area and 50% retracement targets.  Key suppor",
     "HDG: CTCP T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4 - HADOCO.,JSC - VietstockFinance",
     "Good News For Palantir Stock Investors - TradingView",
     "Medicare Part B premiums rise due higher healthcare spending",
@@ -457,6 +451,12 @@
     "Treasury yields hold steady as investors look ahead to Fed minutes",
     "My hometown shows that high streets have to change or die",
     "Reliance Bets $1.6 Billion on India's Biogas Boom",
-    "Why is Hewlett Packard Enterprise stock rallying today?"
+    "Why is Hewlett Packard Enterprise stock rallying today?",
+    "U.S. officially loses measles elimination status amid ongoing outbreaks",
+    "We couldn't afford a house alone, so we bought one with strangers",
+    "Democrats Target Trump\u2019s $100 Billion Venezuela Oil Deal",
+    "Why is Super Micro Computer stock rallying today?",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6654 \u2013 Reuters estimate",
+    "XSMN 18/11- K\u1ebft qu\u1ea3 x\u1ed5 s\u1ed1 mi\u1ec1n Nam h\u00f4m nay 18/11/2026 - KQXSMN ng\u00e0y 18 th\u00e1ng 11"
   ]
 }
