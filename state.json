@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794995926.9720845,
+  "last_signals": 1794996535.9291635,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,10 +74,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1794931553.7856047,
     "Bitcoin|4H:bot": 1794664802.864167,
-    "EUR/USD|4H:bot": 1794989072.8405354,
+    "EUR/USD|4H:bot": 1794996537.0663686,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794995915.312164,
-  "last_news": 1794995926.97139,
+  "last_analysis": 1794996525.5324547,
+  "last_news": 1794996535.928462,
   "seen_news": [
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Gold hits over one-year low ahead of Fed minutes - TradingView",
-    "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to fin",
-    "LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
     "Salesforce starts fresh round of job cuts, Business Insider reports",
     "Ueda keeps December hike in play as BOJ wants inflation anchored around 2%",
     "4 th\u1ef1c ph\u1ea9m quen thu\u1ed9c \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"b\u1ea3o b\u1ed1i\" d\u01b0\u1ee1ng ph\u1ed5i m\u00f9a \u0111\u00f4ng: \u0102n \u0111\u00fang c\u00e1ch g",
@@ -457,6 +451,12 @@
     "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
     "Europe's car makers are in crisis. Will the threat of war rescue them?",
     "After $6.3 billion crypto heist, Binance plans Asia expansion",
-    "Japan\u2019s trade deficit comes in at half the expected size as exports jump 20.5%"
+    "Japan\u2019s trade deficit comes in at half the expected size as exports jump 20.5%",
+    "Deutsche Bank shares extend losses after Epstein-linked payment reports",
+    "Gold analysis shows we may be in an interesting potential bottom zone",
+    "Khu v\u1ef1c s\u1eafp c\u00f3 m\u01b0a to li\u00ean t\u1ee5c, c\u00f3 n\u01a1i xu\u1ed1ng d\u01b0\u1edbi 10 \u0111\u1ed9 C",
+    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Sinopec Co-Hosts Final of Youth Cultural Ambassador Competition in Algiers - Tra",
+    "DJ Zedd sells his Hollywood Hills home for $4 million"
   ]
 }
