@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794997774.9347703,
+  "last_signals": 1794998346.5664854,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794997765.4167948,
-  "last_news": 1794997774.934013,
+  "last_analysis": 1794998339.9966185,
+  "last_news": 1794998346.5658078,
   "seen_news": [
-    "Gas starts flowing from Jackdaw after government green light",
-    "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6",
-    "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
-    "Kh\u00e1ch s\u1ea1n h\u01a1n 5.200 t\u1ef7 \u0111\u1ed3ng t\u1eebng li\u00ean quan V\u1ea1n Th\u1ecbnh Ph\u00e1t c\u1ee7a b\u00e0 Tr\u01b0\u01a1ng M\u1ef9 Lan l",
-    "EIB: Ng\u00e2n h\u00e0ng TMCP Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam - EXIMBANK - VietstockFinance",
-    "Hogs Falling Lower on Tuesday, as Pork Shows Weak Noon Print - TradingView",
     "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting",
     "Minister backs legal right to job support for young people",
     "Gulf Trade With Central Asia Surges as Energy Ties Deepen",
@@ -457,6 +451,12 @@
     "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge",
     "How video game remakes tap the power of nostalgia",
     "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise",
-    "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump"
+    "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump",
+    "Target is set to report earnings before the bell. Here's what to expect",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
+    "India stocks lower at close of trade; Nifty 50 down 0.63%",
+    "Bitcoin remains under pressure amid the negative risk sentiment caused by hawkis",
+    "Vietjet: H\u00e0nh tr\u00ecnh chinh ph\u1ee5c b\u1ea7u tr\u1eddi t\u1eeb \u0111\u01b0\u1eddng b\u0103ng v\u1ed1n t\u1ef7 USD"
   ]
 }
