@@ -29,11 +29,11 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794968189.3121684,
+  "last_signals": 1794968790.336671,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
-    "5575146754|Gold|1H|trap_dn": 1794966871.9946048,
+    "5575146754|Gold|1H|trap_dn": 1794968790.336671,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|1H|momo_dn": 1794495389.4085383,
     "5575146754|Gold|4H|tbot": 1794923466.4325402,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1794968492.9128554,
-  "last_news": 1794968189.3086402,
+  "last_news": 1794968790.336112,
   "seen_news": [
-    "ServiceTitan's Homh is seen as 'game changer' for software company: BTIG - Tradi",
-    "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over S",
-    "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
-    "Gas starts flowing from Jackdaw after government green light",
-    "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6",
-    "Canada October CPI 3.1% vs +3.2% expected",
     "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "Minister backs legal right to job support for young people",
     "Gulf Trade With Central Asia Surges as Energy Ties Deepen",
@@ -457,6 +451,12 @@
     "4 th\u1ef1c ph\u1ea9m quen thu\u1ed9c \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"b\u1ea3o b\u1ed1i\" d\u01b0\u1ee1ng ph\u1ed5i m\u00f9a \u0111\u00f4ng: \u0102n \u0111\u00fang c\u00e1ch g",
     "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "UnitedHealth (UNH) vs. Humana (HUM): Buy the Dip? - TradingView",
-    "OpenAI bugging case defendant Alfozan set for trial in January"
+    "OpenAI bugging case defendant Alfozan set for trial in January",
+    "\"T\u00f3m g\u1ecdn\" bu\u1ed5i h\u1eb9n h\u00f2 1,2 tri\u1ec7u \u0111\u1ed3ng c\u1ee7a Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai v\u00e0 t\u00ecnh m\u1edb",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Cotton Bouncing on Turnaround Tuesday - TradingView",
+    "Nvidia takes positive step forward with stronger sales outlook. Here\u2019s our thoug",
+    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "Russian Crude Exports Hit Four-Month High"
   ]
 }
