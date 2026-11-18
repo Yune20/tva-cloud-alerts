@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795029347.5347779,
+  "last_signals": 1795029964.1061676,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795009614.5804982,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795029348.0361145,
+    "Bitcoin|1D:bot": 1795029964.6225388,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795029340.329148,
-  "last_news": 1795029347.5339582,
+  "last_analysis": 1795029957.9674711,
+  "last_news": 1795029964.1056187,
   "seen_news": [
-    "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers",
-    "UBS sees FTSE 100 at 11,500 by end-2027 as earnings and growth hold firm",
-    "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2",
-    "Mua 14 t\u1ea5m v\u00e9 s\u1ed1, ng\u01b0\u1eddi ph\u1ee5 n\u1eef tr\u00fang li\u1ec1n 7 gi\u1ea3i \u0111\u1ed9c \u0111\u1eafc tr\u1ecb gi\u00e1 31,8 t\u1ef7 \u0111\u1ed3ng",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
-    "Investigation into deadly Air India crash in final stage, India says - TradingVi",
     "Recap: Japan exports hit record \u00a511.8 trillion as AI chip demand extends run to ",
     "C\u1ef1u CEO Nvidia Jensen Huang \u0111\u1ed3ng \u00fd ra \u0111i\u1ec1u tr\u1ea7n tr\u01b0\u1edbc Th\u01b0\u1ee3ng vi\u1ec7n M\u1ef9",
     "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
@@ -457,6 +451,12 @@
     "TC Energy Plans NGTL Expansion Amid Rising Alberta Gas Demand - TradingView",
     "Fed minutes show growing unease about the outlook for inflation",
     "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands",
-    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp"
+    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
+    "MP urges council to speed up heating oil payments",
+    "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
+    "Dollar holds near 19-mth high in 7th daily advance on Fed hike bets",
+    "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
+    "Lo\u1ea1t v\u0169 kh\u00ed t\u1ed1i t\u00e2n s\u1eafp h\u1ed9i t\u1ee5 t\u1ea1i H\u00e0 N\u1ed9i: UAV s\u00e1t th\u1ee7 c\u1ee7a M\u1ef9, t\u00e0u ng\u1ea7m Th\u1ed5 Nh\u0129 ",
+    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance"
   ]
 }
