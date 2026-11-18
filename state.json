@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1794996535.9291635,
+  "last_signals": 1794997160.7698138,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,10 +74,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1794931553.7856047,
+    "DXY|4H:top": 1794997161.960974,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1794996537.0663686,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1794996525.5324547,
-  "last_news": 1794996535.928462,
+  "last_analysis": 1794997151.7493794,
+  "last_news": 1794997160.7692227,
   "seen_news": [
-    "Salesforce starts fresh round of job cuts, Business Insider reports",
-    "Ueda keeps December hike in play as BOJ wants inflation anchored around 2%",
-    "4 th\u1ef1c ph\u1ea9m quen thu\u1ed9c \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 \"b\u1ea3o b\u1ed1i\" d\u01b0\u1ee1ng ph\u1ed5i m\u00f9a \u0111\u00f4ng: \u0102n \u0111\u00fang c\u00e1ch g",
-    "MWG: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 106,000 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "UnitedHealth (UNH) vs. Humana (HUM): Buy the Dip? - TradingView",
-    "OpenAI bugging case defendant Alfozan set for trial in January",
     "\"T\u00f3m g\u1ecdn\" bu\u1ed5i h\u1eb9n h\u00f2 1,2 tri\u1ec7u \u0111\u1ed3ng c\u1ee7a Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai v\u00e0 t\u00ecnh m\u1edb",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
     "Cotton Bouncing on Turnaround Tuesday - TradingView",
@@ -457,6 +451,12 @@
     "Khu v\u1ef1c s\u1eafp c\u00f3 m\u01b0a to li\u00ean t\u1ee5c, c\u00f3 n\u01a1i xu\u1ed1ng d\u01b0\u1edbi 10 \u0111\u1ed9 C",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Sinopec Co-Hosts Final of Youth Cultural Ambassador Competition in Algiers - Tra",
-    "DJ Zedd sells his Hollywood Hills home for $4 million"
+    "DJ Zedd sells his Hollywood Hills home for $4 million",
+    "Nhan s\u1eafc 20 n\u0103m kh\u00f4ng gi\u00e0 gi\u00fap Minh H\u1eb1ng \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed \u0111\u1eb9p nh\u1ea5t th\u1ebf gi\u1edbi",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
+    "BDMS: 3Q growth and November momentum reinforced FY2026 revenue guidance - Tradi",
+    "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lo",
+    "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick pro",
+    "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises"
   ]
 }
