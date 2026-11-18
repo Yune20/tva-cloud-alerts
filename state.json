@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795005008.8316545,
+  "last_signals": 1795005616.9634595,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1794957251.4701235,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -38,7 +38,7 @@
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795002161.1124783,
     "5575146754|Gold|4H|dbot": 1795004429.72844,
-    "5575146754|Gold|4H|momo_dn": 1795000617.5007887,
+    "5575146754|Gold|4H|momo_dn": 1795005616.9634595,
     "5575146754|Gold|4H|dn": 1794988464.3661916,
     "5575146754|Gold|4H|trap_dn": 1794998777.0695508,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
     "Bitcoin|4H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795005011.094325,
+    "DXY|4H:top": 1795005618.139217,
     "Bitcoin|4H:bot": 1794664802.864167,
     "EUR/USD|4H:bot": 1795004430.7064688,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795005009.0902488,
+    "Gold|4H:bot": 1795005617.0985777,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795005000.268909,
-  "last_news": 1795005008.8310003,
+  "last_analysis": 1795005611.9968672,
+  "last_news": 1795005616.9563482,
   "seen_news": [
-    "AguilaTrades Closes 1,500 BTC Short Position at a $238,400 Loss - TradingView",
-    "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "Robot vessels take on the dangerous work of mine hunting",
-    "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027",
-    "NAHB housing market index for November 25 vs 29 estimate",
-    "\u201cTh\u00e1nh nh\u1ea1c suy\u201d Vi\u1ec7t Nam v\u1eeba \u0111\u1ea1t 1 t\u1ef7 view: Hit qu\u1ed1c d\u00e2n ch\u1ea5t \u0111\u1ed1ng, c\u1ee9 m\u1edf show ",
     "The tech helping crack decades-old cold cases",
     "Brazil\u2019s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bi",
     "US October industrial production -0.4% vs +0.1% expected",
@@ -457,6 +451,12 @@
     "Value Convergence Appoints Zhang Xueqiang As Chairman - TradingView",
     "Nvidia\u2019s leadership saga unfolds as demand is surging for Anthropic\u2019s IPO",
     "China\u2019s military seeks Nvidia\u2019s advanced chips for AI capabilities, commission s",
-    "How a sex scandal at Nvidia is putting pressure on the White House"
+    "How a sex scandal at Nvidia is putting pressure on the White House",
+    "Mortgage demand turns lower, as interest rates shoot back up to the highest leve",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "EnQuest Exits UK North Sea in $960 Million Deal",
+    "Dollar finally dips after fresh 19-month peak, set to snap five-day win streak",
+    "Recap: Australian wages grow at fastest pace in nearly 3 years, yet swaps see a ",
+    "M\u00e1y bay ch\u1edf kh\u00e1ch si\u00eau \u00e2m c\u1ee7a Nga s\u1ebd xu\u1ea5t hi\u1ec7n trong v\u00f2ng 3 - 4 n\u0103m t\u1edbi"
   ]
 }
