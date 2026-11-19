@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795082365.3949318,
+  "last_signals": 1795082979.8092785,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -75,7 +75,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795082368.2167466,
-    "EUR/USD|1D:bot": 1795082367.6129405,
+    "DXY|1D:top": 1795082981.1343336,
+    "EUR/USD|1D:bot": 1795082980.8579926,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795082366.298475,
+    "Bitcoin|1D:bot": 1795082980.3229625,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795082676.62358,
-  "last_news": 1795082365.394219,
+  "last_news": 1795082979.80867,
   "seen_news": [
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "What Workspace Group (WKP) Said on Its H1 Earnings Call - TradingView",
-    "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-    "Graduates are managing AI - but are they learning much else?",
-    "Copper Heads for Longest Weekly Losing Streak in Two Years",
-    "After $6.3 billion crypto heist, Binance plans Asia expansion",
     "PBOC sets USD/ CNY reference rate for today at 6.7128 (vs. estimate at 6.6684)",
     "Mitsubishi Outlander \u0111\u1eddi m\u1edbi t\u1ea1i Vi\u1ec7t Nam l\u1ed9 th\u00f4ng tin v\u1eadn h\u00e0nh: \u0110\u1ed9ng c\u01a1 hybrid ",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 10/2026 - VietstockFinance",
@@ -457,6 +451,12 @@
     "The engine parts that 'fight the laws of the universe'",
     "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an \u201cAcquisition\u201d",
     "Tereos cuts profit outlook after poor French sugar beet harvest",
-    "More from Ueda: real rates still low, and BOJ finances can withstand further hik"
+    "More from Ueda: real rates still low, and BOJ finances can withstand further hik",
+    "Close Brothers shares plunge 10% on margin pressure warning",
+    "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack",
+    "Th\u00eam 2 xe m\u00e1y \u0111i\u1ec7n m\u1edbi c\u1ee7a VinFast: C\u00f3 m\u1eabu maxi-scooter gi\u00e1 g\u1ea7n 80 tri\u1ec7u \u0111\u1ed3ng, c",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Kenya chooses US consortium to develop critical minerals project - TradingView",
+    "The real beneficiary of the AI tech revolution fueled by Anthropic may surprise "
   ]
 }
