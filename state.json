@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795116621.5823357,
+  "last_signals": 1795117229.2523625,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795116622.8110948,
+    "EUR/USD|1D:bot": 1795117231.810896,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795116609.88056,
-  "last_news": 1795116619.1488383,
+  "last_analysis": 1795117220.2181828,
+  "last_news": 1795117229.2518222,
   "seen_news": [
-    "Musk says Anthropic wants another 10 gigawatts of SpaceX compute, over 30 times ",
-    "T\u1ed5ng B\u00ed th\u01b0, Ch\u1ee7 t\u1ecbch n\u01b0\u1edbc T\u00f4 L\u00e2m nh\u1eafc t\u00ean Viettel, VinFast, FPT, THACO, Vinamil",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
-    "Magnum Posts Q3 2026 Revenue Of 521.6 Million RGT - TradingView",
-    "This closely-watched investing guru just sold all of his stocks",
-    "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
     "IOSCO warns quantum upgrades could slow blockchains, leave security gaps - Tradi",
     "My husband is happily retired at 64 and thinks I should keep working. Is he bein",
@@ -457,6 +451,12 @@
     "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
     "EU Moves to Overhaul Emergency Oil Stockpiles",
     "Anthropic shares slide 14% from debut high as $2 trillion valuation faces pressu",
-    "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack"
+    "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack",
+    "As Christmas rush looms, how do China-made toys find their way to the US?",
+    "Global Cooling Demand Overtakes Heating for the First Time",
+    "Bank of America banker Stewart Barry to join Allen & Company, sources say",
+    "Gold's selloff may be nearing exhaustion as growth concerns challenge hawkish ex",
+    "N\u1eafm \"n\u00fai\" ti\u1ec1n g\u1eedi h\u01a1n 22.000 t\u1ef7, l\u1ee3i su\u1ea5t c\u1ed5 t\u1ee9c l\u00ean t\u1edbi 18%, m\u1ed9t doanh nghi\u1ec7p ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance"
   ]
 }
