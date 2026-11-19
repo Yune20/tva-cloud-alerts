@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795122804.7981808,
+  "last_signals": 1795123415.056207,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,17 +77,17 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|1H": false,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1795123679,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795122806.0030363,
+    "USOIL|1D:bot": 1795123415.665204,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795122797.0297718,
-  "last_news": 1795122804.7972095,
+  "last_analysis": 1795123405.5765512,
+  "last_news": 1795123415.0519385,
   "seen_news": [
-    "V\u00e9 m\u00e1y bay T\u1ebft \u0110inh M\u00f9i 2027 cho c\u00f3 th\u1ec3 v\u01b0\u1ee3t 40 tri\u1ec7u \u0111\u1ed3ng, nhi\u1ec1u gia \u0111\u00ecnh \u0111\u1ed5i s",
-    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
-    "Nasdaq futures climb on optimism ahead of Anthropic's market debut - TradingView",
-    "This closely watched investing guru just sold all of his stocks",
-    "Walmart hikes outlook, as CEO tells CNBC retailer aims to keep prices low despit",
-    "Robot vessels take on the dangerous work of mine hunting",
     "Heating bills, chocolate and cat food: What the inflation figures mean for you",
     "Thames Water's Rescue Deal Comes With a Dirty Catch",
     "Over 100,000 UK retail investors pile into Anthropic IPO, FT reports",
@@ -457,6 +451,12 @@
     "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
     "AUDUSD moves to a new low.   Price action is ping ponging down and up and back d",
     "C\u1ed5 phi\u1ebfu \"th\u1ee7ng \u0111\u00e1y\", FPT b\u1ea5t ng\u1edd h\u00e9 l\u1ed9 k\u1ebf ho\u1ea1ch m\u1edbi",
-    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance"
+    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance",
+    "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over S",
+    "Gap names new Athleta CEO, lowers full-year guidance",
+    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
+    "TD Cowen highlights catalysts for a 2027 Best Idea stock",
+    "No relief for US stocks. Major indices trade to new lows",
+    "4 m\u00e1y bay kh\u1ed5ng l\u1ed3 c\u1ee7a Nga c\u1ea5t c\u00e1nh r\u1eddi \u0110\u00e0 N\u1eb5ng: C\u00f3 chi\u1ebfc cao g\u1ea7n b\u1eb1ng t\u00f2a nh\u00e0 5"
   ]
 }
