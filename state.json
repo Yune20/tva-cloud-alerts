@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795113155.1634028,
-  "last_bot4": 1795114399.2576742,
+  "last_bot4": 1795115064.3468275,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795114399.2583828,
+  "last_signals": 1795115064.3473022,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -66,7 +66,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795114401.3919961,
+    "EUR/USD|1D:bot": 1795115065.434491,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795114400.1320074,
+    "Bitcoin|1D:bot": 1795115064.739445,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795114388.529778,
-  "last_news": 1795114396.3265803,
+  "last_analysis": 1795115057.0702827,
+  "last_news": 1795115064.3463204,
   "seen_news": [
-    "Hall Chadwick Adds $15 Million PIPE Financing for REEcycle Business Combination ",
-    "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what ",
-    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Berenberg sees Wacker Neuson growth slowing as machinery demand weakens",
-    "Crude oil extends losses amid growth concerns but risk of US strikes keeps the d",
-    "Th\u01b0\u01a1ng hi\u1ec7u xa x\u1ec9 120 n\u0103m tu\u1ed5i khai tr\u01b0\u01a1ng kh\u00f4ng gian m\u1edbi t\u1ea1i TP.HCM: D\u00e0n sao Vi",
     "How long will humans be needed for translation?",
     "Why is Investec stock sliding today?",
     "Nvidia chair tells staff there is no Jensen clone, as leaders pledge strategy co",
@@ -457,6 +451,12 @@
     "India\u2019s Oil Imports Hit Record High as Saudi Shipments Surge",
     "Dollar idles near 19-month peak on hawkish Fed minutes",
     "European stocks close lower. Anthropic opens 34% above its IPO price.",
-    "Chuy\u00ean gia l\u00fd gi\u1ea3i nguy\u00ean nh\u00e2n gi\u00e1 v\u00e0ng gi\u1ea3m s\u1ed1c"
+    "Chuy\u00ean gia l\u00fd gi\u1ea3i nguy\u00ean nh\u00e2n gi\u00e1 v\u00e0ng gi\u1ea3m s\u1ed1c",
+    "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
+    "After $6.3 billion crypto heist, Binance plans Asia expansion",
+    "Trump weighs another strike on Iran as Hormuz shipping risks mount. Returns to W",
+    "B\u00e1n r\u00f2ng h\u00e0ng tri\u1ec7u c\u1ed5 phi\u1ebfu m\u1ed7i ng\u00e0y, kh\u1ed1i ngo\u1ea1i c\u00f2n n\u1eafm bao nhi\u00eau FPT?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "Bath & Body Works Q3 2027 Earnings Call Is Live - TradingView"
   ]
 }
