@@ -29,11 +29,11 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795102535.3745503,
+  "last_signals": 1795103148.9846735,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
-    "5575146754|Gold|1H|trap_dn": 1795031244.373756,
+    "5575146754|Gold|1H|trap_dn": 1795103148.9846735,
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795064603.258178,
+    "5575146754|Gold|1D|dn": 1795103148.9846735,
     "5575146754|Gold|1D|trap_dn": 1795075551.351679
   },
   "sig_range": {
@@ -63,10 +63,10 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": true,
+    "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795102538.1992862,
+    "EUR/USD|1D:bot": 1795103150.077666,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795102536.6430867,
+    "Bitcoin|1D:bot": 1795103149.5090961,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795102525.2592013,
-  "last_news": 1795102535.3732846,
+  "last_analysis": 1795103139.0945575,
+  "last_news": 1795103148.9835677,
   "seen_news": [
-    "Vance scraps schedule to address tech outages as Trump admin insists incidents a",
-    "How important are Nvidia and Jensen Huang to the US economy?",
-    "Google Signs Landmark Superhot Geothermal Deal",
-    "Exclusive-UniCredit and Germany reach broad agreement on Commerzbank takeover",
-    "Anthropic confirms $83 IPO price on 980 million shares in an $81 billion deal",
-    "Google ph\u00e1t hi\u1ec7n AI t\u1ef1 \u0111\u1ed9ng bi\u1ebfn b\u1ea3n v\u00e1 l\u1ed7i th\u00e0nh v\u0169 kh\u00ed t\u1ea5n c\u00f4ng m\u1ea1ng",
     "Asia stocks choppy after Nvidia earnings as Anthropic pricing looms - TradingVie",
     "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
     "My hometown shows that high streets have to change or die",
@@ -457,6 +451,12 @@
     "Trump says Americans should \u2018relax\u2019 as Washington scrambles to get to the bottom",
     "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% o",
     "Gilts v kilts: What is happening with Scottish government bonds?",
-    "Venezuela Turns to AI to Cut Methane Leaks"
+    "Venezuela Turns to AI to Cut Methane Leaks",
+    "\u2018Buyers are out for blood\u2019 as housing market finally hits rock bottom",
+    "CEO turned informant: How the FDA built a case against executives promising chea",
+    "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
+    "Short seller Hunterbrook shorts AMD citing concerns over China exports",
+    "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day ai"
   ]
 }
