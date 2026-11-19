@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795058116.9209797,
-  "last_bot4": 1795064914.4766462,
+  "last_bot4": 1795065541.285842,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795065207.4841309,
+  "last_signals": 1795065541.2863255,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795061218.935979,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
-    "5575146754|Gold|4H|dbot": 1795047608.0312972,
+    "5575146754|Gold|4H|dbot": 1795065541.2863255,
     "5575146754|Gold|4H|momo_dn": 1795025873.6620207,
     "5575146754|Gold|4H|dn": 1795058116.9218357,
     "5575146754|Gold|4H|trap_dn": 1795043849.0482004,
@@ -75,7 +75,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -126,13 +126,13 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795056828.5232282,
     "Bitcoin|4H:bot": 1795053378.116071,
-    "EUR/USD|4H:bot": 1795065208.5352395,
+    "EUR/USD|4H:bot": 1795065542.26592,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795050546.8036187,
+    "Gold|4H:bot": 1795065541.416351,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795065207.949674,
+    "Bitcoin|1D:bot": 1795065541.7228427,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795064911.5148585,
-  "last_news": 1795065207.4836063,
+  "last_analysis": 1795065536.1684496,
+  "last_news": 1795065541.2852356,
   "seen_news": [
-    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
-    "Sparta Capital Ltd. Announces Resumption of Trading - TradingView",
-    "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate h",
-    "The tech helping crack decades-old cold cases",
-    "EnQuest Exits UK North Sea in $960 Million Deal",
-    "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027",
     "What\u2019s next for the AI trade after Nvidia\u2019s blowout results are met with a shrug",
     "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
     "Heating bills, chocolate and cat food: What the inflation figures mean for you",
@@ -458,6 +452,12 @@
     "The grads ditching the UK for a fresh start abroad",
     "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes",
     "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount",
-    "iPhone 18 Pro Max kh\u00f4ng \u0111\u1eaft"
+    "iPhone 18 Pro Max kh\u00f4ng \u0111\u1eaft",
+    "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014",
+    "U.S. companies from Nvidia to Apple face a growing China dilemma",
+    "Robot vessels take on the dangerous work of mine hunting",
+    "Thames Water's Rescue Deal Comes With a Dirty Catch",
+    "Dollar finally dips after fresh 19-month peak, set to snap five-day win streak",
+    "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales"
   ]
 }
