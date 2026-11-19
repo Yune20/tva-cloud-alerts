@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795129938.7033973,
+  "last_signals": 1795130552.231816,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795129941.4434104,
+    "DXY|4H:top": 1795130553.9566658,
     "Bitcoin|4H:bot": 1795129286.8858066,
-    "EUR/USD|4H:bot": 1795129940.877572,
+    "EUR/USD|4H:bot": 1795130553.5652301,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795129939.9667456,
+    "Ethereum|4H:bot": 1795130553.0148005,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795129930.1055036,
-  "last_news": 1795129938.7019272,
+  "last_analysis": 1795130542.9526072,
+  "last_news": 1795130552.230451,
   "seen_news": [
-    "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
-    "Volkswagen demands pay freeze, flexible hours in looming showdown with union",
-    "Strong Anthropic IPO gives new life to the AI trade. Shares indicated to open at",
-    "Kh\u00f3i \u0111en cu\u1ed3n cu\u1ed9n bao tr\u00f9m nh\u00e0 kho c\u00f4ng ty nh\u1ef1a \u1edf T\u00e2y Ninh",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
-    "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView",
     "Traders in new market bet on big IPO pop for Anthropic",
     "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "Insmed shares jump more than 6% on report Sanofi is weighing acquisition",
@@ -457,6 +451,12 @@
     "California attorney general issues Nvidia subpoena in probe of China chip divers",
     "'An annoying buzz': The search for stealthier drones",
     "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
-    "Musk\u2019s SpaceXSI denies liability in UK lawmaker\u2019s lawsuit over Grok images"
+    "Musk\u2019s SpaceXSI denies liability in UK lawmaker\u2019s lawsuit over Grok images",
+    "Anthropic was supposed to save the AI trade. What went wrong?",
+    "The Indian workers filming their work to train AI",
+    "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse",
+    "Bausch + Lomb stock slips as eye pain drug misses endpoint",
+    "Euro breaks below $1.10 as French election risk builds; three banks see $1.08 ne",
+    "Tin t\u01b0\u1edfng Nga 100%, qu\u1ed1c gia ch\u00e2u \u00c1 x\u00e2y c\u00f4ng tr\u00ecnh \u0111\u1eaft nh\u1ea5t l\u1ecbch s\u1eed, v\u1eeba \u0111\u00f3n \u201ctr"
   ]
 }
