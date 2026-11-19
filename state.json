@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795063672.924997,
+  "last_signals": 1795064275.5732512,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795061218.935979,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795056828.5232282,
     "Bitcoin|4H:bot": 1795053378.116071,
-    "EUR/USD|4H:bot": 1795063674.7782247,
+    "EUR/USD|4H:bot": 1795064277.7828298,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795063673.7588959,
+    "Bitcoin|1D:bot": 1795064276.54406,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795063981.3091233,
-  "last_news": 1795063672.9243,
+  "last_news": 1795064275.5725772,
   "seen_news": [
-    "L\u1ee3i nhu\u1eadn c\u1ee7a AEON Mall Vi\u1ec7t Nam trong n\u1eeda \u0111\u1ea7u n\u0103m t\u00e0i kh\u00f3a 2026 t\u0103ng h\u01a1n 35% l\u00ea",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "LOW Q3'26 Earnings: EPS estimate is 2.88 USD - TradingView",
-    "Google turns to a volcano and rock-melting technology in a wild new bid to power",
-    "Mortgage demand turns lower, as interest rates shoot back up to the highest leve",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes",
     "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
     "Vietcap \u0111\u1ecbnh gi\u00e1 Long Ch\u00e2u h\u01a1n 44.000 t\u1ef7 \u0111\u1ed3ng, g\u1ea5p 18 l\u1ea7n FPT Shop: H\u00e9 l\u1ed9 nh\u00f3m c",
@@ -458,6 +452,12 @@
     "UK October CPI +3.6% vs +3.6% y/y expected",
     "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng tr\u00fang x\u1ed5 s\u1ed1 gi\u1ea3i nh\u1ea5t l\u1eabn gi\u1ea3i nh\u00ec c\u00f9ng m\u1ed9t l\u00fac, nh\u1eadn t\u1ed5ng gi\u1ea3i th",
     "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
-    "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Acquisition"
+    "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Acquisition",
+    "investingLive Asia-Pacific market news: Gold breaks below $3,800",
+    "Nam danh ca 89 tu\u1ed5i \u0111\u01b0\u1ee3c t\u1eb7ng 500 \u0111\u00f4 bay v\u1ec1 M\u1ef9, t\u00e2m nguy\u1ec7n an ngh\u1ec9 \u1edf Vi\u1ec7t Nam",
+    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "Regeneron Pharmaceuticals Director Sold Shares Worth Over $1.9M - TradingView",
+    "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s retu",
+    "How a sex scandal at Nvidia is putting pressure on the White House"
   ]
 }
