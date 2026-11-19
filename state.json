@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795102183.334369,
-  "last_bot4": 1795101856.013179,
+  "last_bot4": 1795102535.3740003,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795102183.335235,
+  "last_signals": 1795102535.3745503,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795102185.3264875,
+    "EUR/USD|1D:bot": 1795102538.1992862,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795102184.1749797,
+    "Bitcoin|1D:bot": 1795102536.6430867,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795102183.8896947,
+    "USOIL|1D:bot": 1795102536.2283921,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795102169.168138,
-  "last_news": 1795102178.3672283,
+  "last_analysis": 1795102525.2592013,
+  "last_news": 1795102535.3732846,
   "seen_news": [
-    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
-    "News by CNBC TV18 on TradingView, 2026-11-19 \u2014 cnbctv:2696ea9ee094b:0 - TradingV",
-    "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
-    "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a di",
-    "Nvidia says it won't reinstate Huang as it reports soaring sales",
-    "Exor to increase stake in bioM\u00e9rieux to 8.53% from 3.87%",
     "Vance scraps schedule to address tech outages as Trump admin insists incidents a",
     "How important are Nvidia and Jensen Huang to the US economy?",
     "Google Signs Landmark Superhot Geothermal Deal",
@@ -457,6 +451,12 @@
     "Insmed shares jump more than 6% on report Sanofi is weighing acquisition",
     "Bitcoin buyers make a play off swing area support.  What do buyers have to do to",
     "Nh\u1eefng \u0111\u1ed3ng ti\u1ec1n l\u00e2u \u0111\u1eddi nh\u1ea5t c\u00f2n l\u01b0u h\u00e0nh tr\u00ean th\u1ebf gi\u1edbi",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance"
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
+    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "CoreWeave's $30 Million Insider Bond Bet Comes Amid Debt Fears - TradingView",
+    "Trump says Americans should \u2018relax\u2019 as Washington scrambles to get to the bottom",
+    "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% o",
+    "Gilts v kilts: What is happening with Scottish government bonds?",
+    "Venezuela Turns to AI to Cut Methane Leaks"
   ]
 }
