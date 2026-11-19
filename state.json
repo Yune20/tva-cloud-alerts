@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795067987.0476887,
+  "last_signals": 1795068586.7434158,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795067374.2060905,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -126,13 +126,13 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795056828.5232282,
     "Bitcoin|4H:bot": 1795053378.116071,
-    "EUR/USD|4H:bot": 1795067988.7981474,
+    "EUR/USD|4H:bot": 1795068589.3312333,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795067987.2774348,
+    "Gold|4H:bot": 1795068587.1992683,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795067987.7838466,
+    "Bitcoin|1D:bot": 1795068587.9203691,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -157,14 +157,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795068295.4472005,
-  "last_news": 1795067987.0469728,
+  "last_news": 1795068586.7428288,
   "seen_news": [
-    "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
-    "Anthropic prices IPO at $83, above range, setting up Thursday\u2019s Nasdaq debut as ",
-    "Ch\u00ednh th\u1ee9c t\u1eeb h\u00f4m nay (19/11), to\u00e0n b\u1ed9 xe m\u00e1y, \u00f4 t\u00f4 t\u1ea1i H\u00e0 N\u1ed9i c\u1ea7n l\u01b0u \u00fd khi qua",
-    "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "GRRR Q3'26 Earnings: EPS estimate is (0.58) USD - TradingView",
-    "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
     "Hu\u1ebf mi\u1ec5n ph\u00ed v\u00e9 tham quan di t\u00edch cho du kh\u00e1ch n\u1ed9i \u0111\u1ecba d\u1ecbp Ng\u00e0y V\u0103n h\u00f3a Vi\u1ec7t Nam",
     "CTR: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n C\u00f4ng tr\u00ecnh Viettel - VIETTEL CONSTRUCTION - VietstockF",
     "US stocks end mixed after Nvidia; Anthropic on deck - TradingView",
@@ -458,6 +452,12 @@
     "Australia jobs preview. Employment expected to rebound after September\u2019s drop. W",
     "Phong c\u00e1ch Pochettino l\u00e0 '\u00e1c m\u1ed9ng' c\u1ee7a c\u1ea7u th\u1ee7 Man Utd?",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - VietstockFinance",
-    "Sunrun Inc. Stock 12\u2011Month Price Target Cut to $13.04, Implies 79% Upside - Trad"
+    "Sunrun Inc. Stock 12\u2011Month Price Target Cut to $13.04, Implies 79% Upside - Trad",
+    "Security flaw found in Java, world's third-largest programming language",
+    "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
+    "Dollar pinned at 19-month high amid hawkish signals from Fed\u2019s Waller, minutes",
+    "investingLive European news wrap: Risk sentiment remains negative amid rising gr",
+    "Th\u1ed1ng \u0111\u1ed1c Fed: Ng\u00e2n h\u00e0ng trung \u01b0\u01a1ng s\u1ebd 'g\u00e2y s\u1ed1c' khi t\u0103ng l\u00e3i su\u1ea5t 0,5% v\u00e0o th\u00e1n",
+    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi"
   ]
 }
