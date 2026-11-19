@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795115691.2590742,
+  "last_signals": 1795116288.821532,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795115692.1743898,
+    "EUR/USD|1D:bot": 1795116289.8105247,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795115691.6618893,
+    "Bitcoin|1D:bot": 1795116289.286546,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795115994.6189349,
-  "last_news": 1795115688.3126774,
+  "last_news": 1795116288.8208966,
   "seen_news": [
-    "Japan\u2019s AI stocks lose their premium as three threats emerge after Nvidia\u2019s CEO ",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 th\u1ebb BHYT tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd th\u00f4ng b\u00e1o m\u1edbi nh\u1ea5t t\u1eeb BHXH Vi\u1ec7t ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "CBOT wheat may fall to $5.62-1/2 - TradingView",
-    "Palo Alto stock surges as all signs point to how important cybersecurity is in t",
-    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
     "Global Cooling Demand Overtakes Heating for the First Time",
     "Global chip stocks rally as Anthropic\u2019s record IPO boosts confidence in AI trade",
     "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the othe",
@@ -457,6 +451,12 @@
     "Medicare beneficiaries could skip the nursing home for cheaper care at home unde",
     "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treat",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Federal regulators approve Cheniere\u2019s Sabine Pass expansion project"
+    "Federal regulators approve Cheniere\u2019s Sabine Pass expansion project",
+    "The surprising reason the U.S. economy is speeding up \u2014 and might have more room",
+    "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of c",
+    "Living with a stink? Technology might help",
+    "From anti-war physicist to AI power broker, Amodei takes his safety approach pub",
+    "Crude oil extends losses amid growth concerns but risk of US strikes keeps the d",
+    "Vi\u1ec7t Nam \u0111\u00f3n tin vui c\u00f9ng l\u00fac t\u1eeb M\u1ef9, \u0110\u1ee9c"
   ]
 }
