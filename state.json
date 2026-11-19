@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795047010.4304514,
-  "last_bot4": 1795048021.1028821,
+  "last_bot4": 1795048675.2806354,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795048021.1035674,
+  "last_signals": 1795048675.281548,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1795045787.3038964,
+    "5575146754|Gold|1H|range_in": 1795048675.281548,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1795031244.373756,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
@@ -59,13 +59,13 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795048021.3242295,
+    "Gold|4H:bot": 1795048675.4214325,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795048022.167645,
+    "GBP/USD|4H:bot": 1795048676.1879985,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795048280.6823943,
-  "last_news": 1795047975.3744254,
+  "last_analysis": 1795048635.81498,
+  "last_news": 1795048643.6551516,
   "seen_news": [
-    "Bullish Reports Third Quarter 2026 Results - TradingView",
-    "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over ",
-    "Two new housing reports point to bleak winter ahead, with record low sales",
-    "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-    "Europe\u2019s LNG Scramble Sends Shockwaves Through Asian Gas Markets",
-    "Off-price retailer TJX lifts annual forecast on strong holiday demand, shares ju",
     "CoreWeave\u2019s stock drops as Nvidia talks up a \u2018disciplined\u2019 approach to financing",
     "Jeffries wins Democratic House speaker race, on track to make history in January",
     "Europe plans to catch the next computer chip wave",
@@ -457,6 +451,12 @@
     "Moody's Says Nvidia Leads AI Data Center Computing and Networking - TradingView",
     "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
     "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global"
+    "China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global",
+    "Inside India newsletter: Foreign flows helped the market recover. Now it faces t",
+    "Why has Waymo pulled all its driverless cars from US freeways?",
+    "Sanofi\u2019s pill becomes first US-approved drug for rare neurological disorder",
+    "UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks a",
+    "Tri\u1ec7u t\u1eadp nhi\u1ec1u ng\u01b0\u1eddi li\u00ean quan v\u1ee5 Gi\u00e1m \u0111\u1ed1c C\u00f4ng ty L\u00e2m nghi\u1ec7p La Ng\u00e0 b\u1ecb b\u1eafn v\u00e0o",
+    "KINH T\u1ebe V\u0128 M\u00d4 & TH\u1eca TR\u01af\u1edcNG CH\u1ee8NG KHO\u00c1N - VietstockFinance"
   ]
 }
