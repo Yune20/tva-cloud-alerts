@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795091165.565242,
-  "last_bot4": 1795095267.0499442,
+  "last_bot4": 1795095955.3201075,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795094373.1289723
+    "Gold": 1795095955.3199828
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795095591.3644593,
+  "last_signals": 1795095955.3208468,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795095593.0170202,
-    "EUR/USD|1D:bot": 1795095592.5693483,
+    "DXY|1D:top": 1795095956.7800767,
+    "EUR/USD|1D:bot": 1795095956.46648,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795095591.8820822,
+    "Bitcoin|1D:bot": 1795095955.8225722,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795095591.7176492,
+    "USOIL|1D:bot": 1795095955.64406,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795095582.5344462,
-  "last_news": 1795095591.3638408,
+  "last_analysis": 1795095944.407812,
+  "last_news": 1795095952.656279,
   "seen_news": [
-    "Security flaw found in Java, world's third-largest programming language",
-    "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
-    "Dollar pinned at 19-month high amid hawkish signals from Fed\u2019s Waller, minutes",
-    "investingLive European news wrap: Risk sentiment remains negative amid rising gr",
-    "Th\u1ed1ng \u0111\u1ed1c Fed: Ng\u00e2n h\u00e0ng trung \u01b0\u01a1ng s\u1ebd 'g\u00e2y s\u1ed1c' khi t\u0103ng l\u00e3i su\u1ea5t 0,5% v\u00e0o th\u00e1n",
-    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
     "Taiwan stocks lower at close of trade; Taiwan Weighted down 4.60%",
     "Anthropic prices IPO at $83, above range, setting up Thursday\u2019s Nasdaq debut as ",
     "To\u00e0n c\u1ea3nh ba c\u00e2y c\u1ea7u b\u1eafc qua s\u00f4ng H\u1ed3ng v\u01b0\u1ee3t ti\u1ebfn \u0111\u1ed9 thi c\u00f4ng",
@@ -457,6 +451,12 @@
     "C\u00f4 g\u00e1i 3 n\u0103m \u0111\u1eb7t h\u01a1n 400 \u0111\u01a1n h\u00e0ng r\u1ed3i \u0111\u00f2i ho\u00e0n ti\u1ec1n v\u1eeba b\u1ecb b\u1eaft v\u00ec chi\u1ebfm \u0111o\u1ea1t 17.",
     "C\u1eadp nh\u1eadt k\u1ebft qu\u1ea3 kinh doanh n\u0103m 2026 - VietstockFinance",
     "Microsoft (MSFT) Expands Long-Term Intel Agreement for Azure Infrastructure - Tr",
-    "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite"
+    "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite",
+    "Nh\u1eadn ti\u1ec1n 'b\u1ea3o k\u00ea' v\u1ec9a h\u00e8, 5 th\u00e0nh vi\u00ean tr\u1eadt t\u1ef1 \u0111\u00f4 th\u1ecb ph\u01b0\u1eddng l\u00e3nh \u00e1n t\u00f9",
+    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - VietstockFinance",
+    "NetEase Q3 2026 Earnings Call Is Live - TradingView",
+    "Gold's bad year is getting worse. Why its price keeps falling",
+    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r",
+    "Traders Seek Long-Term Crude Supply Deals with Qatar"
   ]
 }
