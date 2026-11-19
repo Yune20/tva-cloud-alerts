@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795124635.5035956,
+  "last_signals": 1795125241.4794734,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795103148.9846735,
+    "5575146754|Gold|1D|dn": 1795125241.4794734,
     "5575146754|Gold|1D|trap_dn": 1795075551.351679
   },
   "sig_range": {
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795124635.8785858,
+    "USOIL|1D:bot": 1795125241.9192004,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795124625.2333443,
-  "last_news": 1795124635.5029154,
+  "last_analysis": 1795125234.217413,
+  "last_news": 1795125241.4787896,
   "seen_news": [
-    "Nh\u1eadn ti\u1ec1n 'b\u1ea3o k\u00ea' v\u1ec9a h\u00e8, 5 th\u00e0nh vi\u00ean tr\u1eadt t\u1ef1 \u0111\u00f4 th\u1ecb ph\u01b0\u1eddng l\u00e3nh \u00e1n t\u00f9",
-    "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - VietstockFinance",
-    "NetEase Q3 2026 Earnings Call Is Live - TradingView",
-    "Gold's bad year is getting worse. Why its price keeps falling",
-    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r",
-    "Traders Seek Long-Term Crude Supply Deals with Qatar",
     "Woodward Q4 Earnings Call Highlights - TradingView",
     "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
     "Security flaw found in Java, world's third-largest programming language",
@@ -457,6 +451,12 @@
     "TCB: Ng\u00e2n h\u00e0ng TMCP K\u1ef9 th\u01b0\u01a1ng Vi\u1ec7t Nam - TECHCOMBANK - Th\u1ed1ng k\u00ea giao d\u1ecbch - Viet",
     "Quant rating on Coatue Management top holdings: TSM, MU, META, LRCX - TradingVie",
     "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-    "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion"
+    "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+    "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
+    "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
+    "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days.",
+    "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite",
+    "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "Anthropic hits $2 trillion market value in debut; major indexes fall"
   ]
 }
