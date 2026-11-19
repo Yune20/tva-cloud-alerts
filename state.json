@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795102183.334369,
-  "last_bot4": 1795105311.7357464,
+  "last_bot4": 1795105964.0588498,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795104694.1385622
+    "Gold": 1795105964.0587826
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795105634.8830464,
+  "last_signals": 1795105964.059429,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1795105636.2836866,
-    "JPY Index|4H:top": 1795105636.6035972,
+    "USD/JPY|4H:top": 1795105965.11776,
+    "JPY Index|4H:top": 1795105965.4788764,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795072047.7312384,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795105636.0317836,
+    "EUR/USD|1D:bot": 1795105964.9886014,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795105635.3698633,
+    "Bitcoin|1D:bot": 1795105964.4462152,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795105635.1957724,
+    "USOIL|1D:bot": 1795105964.3123295,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795105627.9227853,
-  "last_news": 1795105634.8822687,
+  "last_analysis": 1795105952.0051382,
+  "last_news": 1795105961.0811849,
   "seen_news": [
-    "Inside India newsletter: Foreign flows helped the market recover. Now it faces t",
-    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-    "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
-    "Canada adjusts China ties, Carney says, aiming to clinch right deal with US",
-    "New Zealand producer prices rise again in Q3, though at a slower pace",
-    "Vi\u1ec7t Nam c\u00f3 1 ca s\u0129 nh\u00ed m\u1edbi 10 tu\u1ed5i \u0111\u00e3 \u201cv\u01b0\u1ee3t m\u1eb7t\u201d S\u01a1n T\u00f9ng M-TP, l\u1eadp k\u1ef7 l\u1ee5c MV 1",
     "Europe plans to catch the next computer chip wave",
     "Toyota to recall over 314,000 US vehicles over Takata air bag rupture risk, NHTS",
     "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives",
@@ -457,6 +451,12 @@
     "Amazon launches in-app push against Mamdani-backed delivery bill in New York Cit",
     "More support for households reliant on heating oil",
     "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
-    "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows"
+    "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
+    "A CoreWeave co-founder just made an unconventional $30 million wager on its batt",
+    "AMD falls on short-seller report of alleged China exposure",
+    "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+    "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
+    "Visa, Mastercard and JPMorgan customer data leaked in third-party cyberattack",
+    "The broader indices are benefiting from the Anthropic enthusiasm, but there is w"
   ]
 }
