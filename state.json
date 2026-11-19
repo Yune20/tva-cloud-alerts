@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795076167.655759,
+  "last_signals": 1795076777.2149117,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795076168.947719,
-    "EUR/USD|1D:bot": 1795076168.6648962,
+    "DXY|1D:top": 1795076778.6729214,
+    "EUR/USD|1D:bot": 1795076778.3694317,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795076168.1302176,
+    "Bitcoin|1D:bot": 1795076777.700528,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795076162.2207472,
-  "last_news": 1795076167.6550155,
+  "last_analysis": 1795076769.718696,
+  "last_news": 1795076777.2142198,
   "seen_news": [
-    "Two new housing reports point to bleak winter ahead, with record low sales",
-    "Government backs welfare shake-up to prevent 'lost generation'",
-    "KPMG Canada confirms cyber incident, unauthorized access to some clients\u2019 tax do",
-    "Crude oil is trading lower after yesterday's run to the upside found willing sel",
-    "T\u1eeb 5/10/2026, m\u1ed9t nh\u00f3m gia \u0111\u00ecnh ch\u0103m s\u00f3c ng\u01b0\u1eddi th\u00e2n t\u1ea1i nh\u00e0 c\u00f3 th\u1ec3 nh\u1eadn 540.000 ",
-    "Ch\u00ednh s\u00e1ch th\u00e0nh vi\u00ean - VietstockFinance",
     "Europe plans to catch the next computer chip wave",
     "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
     "Canada adjusts China ties, Carney says, aiming to clinch right deal with US",
@@ -457,6 +451,12 @@
     "Moody\u2019s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growt",
     "Gi\u00e1 v\u00e0ng SJC, v\u00e0ng nh\u1eabn 9999 chi\u1ec1u ng\u00e0y 19/11",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
-    "REG - JD Sports Fashion - Q3 2026/27 TRADING STATEMENT - TradingView"
+    "REG - JD Sports Fashion - Q3 2026/27 TRADING STATEMENT - TradingView",
+    "Vingroup c\u1ee7a t\u1ef7 ph\u00fa Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng ch\u00ednh th\u1ee9c kh\u1edfi c\u00f4ng d\u1ef1 \u00e1n nh\u00e0 \u1edf x\u00e3 h\u1ed9i l\u1edbn ",
+    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
+    "Prospect Prediction Markets Inc. (MKT) Nominates VanEck Canada CEO to Board - Tr",
+    "This closely-watched guru just sold everything",
+    "Russia says Putin in \u2018excellent mood\u2019 after Trump meeting, ahead of trilateral w",
+    "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut"
   ]
 }
