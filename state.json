@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795049928.5642214,
+  "last_signals": 1795050546.6725152,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795048675.281548,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795049928.7754457,
+    "Gold|4H:bot": 1795050546.8036187,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795049918.242048,
-  "last_news": 1795049928.563195,
+  "last_analysis": 1795050539.0366592,
+  "last_news": 1795050546.6719465,
   "seen_news": [
-    "Dow falls over 600 points, Nasdaq seesaws as post-earnings Nvidia bounce fades",
-    "Economic and event calendar in Asia 18 November 2026.",
-    "Vi\u1ec7t Nam c\u00f3 gi\u1ecdng ca 2 l\u1ea7n Th\u1ee7 khoa, 20 n\u0103m tr\u00f4i qua v\u1eabn h\u00e1t \u0111\u1eb3ng c\u1ea5p nh\u01b0 b\u1ecb th\u1edd",
-    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
-    "Bitcoin miners collect lowest yearly transaction fees since 2011 - TradingView",
-    "Oracle\u2019s stock is ridiculously cheap even in the most gloomy scenarios, analyst ",
     "Kalshi loses bid to prevent Maryland from policing prediction market",
     "FX option expiries for 18 November 10am New York cut",
     "TP.HCM d\u00f9ng 3 l\u00f4 \u0111\u1ea5t Th\u1ee7 Thi\u00eam h\u01a1n 23.000 t\u1ef7 thanh to\u00e1n Trung t\u00e2m h\u00e0nh ch\u00ednh m\u1edbi",
@@ -457,6 +451,12 @@
     "Canada adjusts China ties, Carney says, aiming to clinch right deal with US",
     "US weekly crude oil inventories +3380K vs +58K expected",
     "1 ng\u00e0y tr\u01b0\u1edbc khi b\u1ecb t\u01b0\u1edbc v\u01b0\u01a1ng mi\u1ec7n c\u1ee7a Qu\u1ef3nh Anh",
-    "Doanh nghi\u1ec7p AZ - VietstockFinance"
+    "Doanh nghi\u1ec7p AZ - VietstockFinance",
+    "Musk says he felt \u2019pretty foolish\u2019 about scale of midterm spending after Republi",
+    "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives",
+    "TPHCM \u0111\u1eb7t m\u1ee5c ti\u00eau ph\u00e1t tri\u1ec3n 960km metro v\u00e0o n\u0103m 2050",
+    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
+    "Elon Musk: Firing Jensen Huang Is Like Benching Michael Jordan - TradingView",
+    "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over "
   ]
 }
