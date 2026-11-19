@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795064275.5732512,
+  "last_signals": 1795064603.258178,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795061218.935979,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -45,7 +45,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795034329.84966,
+    "5575146754|Gold|1D|dn": 1795064603.258178,
     "5575146754|Gold|1D|trap_dn": 1795053748.2707767
   },
   "sig_range": {
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -84,7 +84,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795056828.5232282,
     "Bitcoin|4H:bot": 1795053378.116071,
-    "EUR/USD|4H:bot": 1795064277.7828298,
+    "EUR/USD|4H:bot": 1795064605.8905206,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795064276.54406,
+    "Bitcoin|1D:bot": 1795064604.428961,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795063981.3091233,
-  "last_news": 1795064275.5725772,
+  "last_analysis": 1795064592.5757263,
+  "last_news": 1795064603.257465,
   "seen_news": [
-    "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes",
-    "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
-    "Vietcap \u0111\u1ecbnh gi\u00e1 Long Ch\u00e2u h\u01a1n 44.000 t\u1ef7 \u0111\u1ed3ng, g\u1ea5p 18 l\u1ea7n FPT Shop: H\u00e9 l\u1ed9 nh\u00f3m c",
-    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
-    "Goldman Sachs discloses over $1B in spot Bitcoin ETF holdings - TradingView",
-    "Lowe's posts strong online sales, raises outlook despite slow housing market",
     "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014",
     "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trum",
     "Robot vessels take on the dangerous work of mine hunting",
@@ -458,6 +452,12 @@
     "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "Regeneron Pharmaceuticals Director Sold Shares Worth Over $1.9M - TradingView",
     "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s retu",
-    "How a sex scandal at Nvidia is putting pressure on the White House"
+    "How a sex scandal at Nvidia is putting pressure on the White House",
+    "Siba Group mu\u1ed1n g\u00f3p th\u00eam 101 t\u1ef7 \u0111\u1ed3ng v\u00e0o c\u00f4ng ty con ch\u1ebf bi\u1ebfn s\u1eefa",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Coffee Prices Retreat on Bigger Supplies from Brazil - TradingView",
+    "Three things to watch as Trump, Xi and Putin meet in China",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "\u2019GTA VI\u2019 to supercharge Sony \u2014 just not in Japan"
   ]
 }
