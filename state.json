@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795069228.1399019,
-  "last_bot4": 1795077090.41404,
+  "last_bot4": 1795077752.1075888,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795077388.259906,
+  "last_signals": 1795077752.1084528,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795077389.7907434,
-    "EUR/USD|1D:bot": 1795077389.4556272,
+    "DXY|1D:top": 1795077755.1200047,
+    "EUR/USD|1D:bot": 1795077754.458627,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795077388.7997348,
+    "Bitcoin|1D:bot": 1795077753.1016462,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795077087.4314673,
-  "last_news": 1795077388.2592819,
+  "last_analysis": 1795077744.7306135,
+  "last_news": 1795077752.1066496,
   "seen_news": [
-    "Musk says he felt \u2019pretty foolish\u2019 about scale of midterm spending after Republi",
-    "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives",
-    "TPHCM \u0111\u1eb7t m\u1ee5c ti\u00eau ph\u00e1t tri\u1ec3n 960km metro v\u00e0o n\u0103m 2050",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
-    "Elon Musk: Firing Jensen Huang Is Like Benching Michael Jordan - TradingView",
-    "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over ",
     "Loar 10% Owner Sold Shares Worth Over $182M - TradingView",
     "One of the world's most contested seas is proving too much for Asia's leaders to",
     "Where are the most jobs for 18-24 year-olds?",
@@ -457,6 +451,12 @@
     "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
     "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "Why is Soitec stock surging today?",
-    "UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks a"
+    "UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks a",
+    "Inside India newsletter: Foreign flows helped the market recover. Now it faces t",
+    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
+    "Canada adjusts China ties, Carney says, aiming to clinch right deal with US",
+    "New Zealand producer prices rise again in Q3, though at a slower pace",
+    "Vi\u1ec7t Nam c\u00f3 1 ca s\u0129 nh\u00ed m\u1edbi 10 tu\u1ed5i \u0111\u00e3 \u201cv\u01b0\u1ee3t m\u1eb7t\u201d S\u01a1n T\u00f9ng M-TP, l\u1eadp k\u1ef7 l\u1ee5c MV 1"
   ]
 }
