@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795124022.5203602,
-  "last_bot4": 1795126765.4091494,
+  "last_bot4": 1795127384.54802,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795127063.6383033,
+  "last_signals": 1795127384.5493457,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,10 +65,10 @@
     "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795127065.0493002,
+    "DXY|4H:top": 1795127386.8234537,
     "Bitcoin|4H:bot": 1795113158.3869355,
-    "EUR/USD|4H:bot": 1795127064.7582428,
+    "EUR/USD|4H:bot": 1795127386.2780435,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795127064.2655864,
+    "Ethereum|4H:bot": 1795127385.4942358,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795127063.9651697,
+    "USOIL|1D:bot": 1795127384.9605432,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795126763.1255062,
-  "last_news": 1795127063.637786,
+  "last_analysis": 1795127377.3751793,
+  "last_news": 1795127384.5473113,
   "seen_news": [
-    "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
-    "The Indian workers filming their work to train AI",
-    "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-    "Musk pledges higher Tesla output at China plant, Chinese state media says",
-    "US November Philly Fed 6.3 vs 20.0 expected",
-    "Th\u1ee9c u\u1ed1ng c\u1ee7a Starbucks khi\u1ebfn h\u1ed9i m\u00ea c\u00e0 ph\u00ea ch\u1edd c\u1ea3 n\u0103m: Ng\u01b0\u1eddi khen ngon m\u00ea, ng\u01b0\u1edd",
     "Nh\u00e0 n\u00e0o \u0111ang tr\u1ed3ng c\u00e2y thi\u1ebft m\u1ed9c lan n\u00ean nh\u1edb 4 \u0111i\u1ec1u quan tr\u1ecdng",
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
     "Guggenheim maintains Everpure at Buy, keeps price target at $215 - TradingView",
@@ -457,6 +451,12 @@
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
     "Analysts push back on theory linking Anthropic IPO to Bitcoin's slide - TradingV",
     "Anthropic\u2019s stock surges in its debut \u2014 and the rest of the market dives anyway",
-    "3-step method to influence people and win them over, from a Stanford expert: \u2018Yo"
+    "3-step method to influence people and win them over, from a Stanford expert: \u2018Yo",
+    "C\u00f3 b\u1ed1, c\u00f3 m\u1eb9 nh\u01b0ng con g\u00e1i kh\u00f4ng d\u00e1m xin ti\u1ec1n \u0103n: \u0110o\u1ea1n tin nh\u1eafn l\u00fac 18h35 khi\u1ebfn ",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "NextPlat Corp (NXPL) Selected for 150-Patient Medicare Pilot - TradingView",
+    "UnitedHealth\u2019s stock tumbles after government signals crackdown on Medicare Adva",
+    "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, expert",
+    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r"
   ]
 }
