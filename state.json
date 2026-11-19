@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795061836.8938363,
+  "last_signals": 1795062453.970937,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795061218.935979,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -78,7 +78,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -126,7 +126,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795056828.5232282,
     "Bitcoin|4H:bot": 1795053378.116071,
-    "EUR/USD|4H:bot": 1795061838.6691291,
+    "EUR/USD|4H:bot": 1795062454.9941463,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795061837.6716027,
+    "Bitcoin|1D:bot": 1795062454.390226,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795061828.6264355,
-  "last_news": 1795061836.893173,
+  "last_analysis": 1795062444.1004336,
+  "last_news": 1795062453.9702184,
   "seen_news": [
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng Viettel tr\u00ean c\u1ea3 n\u01b0\u1edbc ch\u00fa \u00fd th\u00f4ng b\u00e1o kh\u1ea9n c\u1ea5p",
-    "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
-    "DLR Boosts Frankfurt Data Center Capacity With New Power Connection - TradingVie",
-    "Nvidia reverses, metals crash ahead of Anthropic IPO",
-    "Waymo pulls driverless taxis from all US freeways",
-    "Sterling today: Pound slips as U.S. rate bets outweigh UK CPI rise to 3.6%",
     "Citi Bank Slashes Dell And HPE Price Targets Ahead Of Earnings - TradingView",
     "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s retu",
     "The grads ditching the UK for a fresh start abroad",
@@ -458,6 +452,12 @@
     "45 m\u1ef9 nh\u00e2n \u0111\u01b0\u1ee3c g\u1ecdi t\u00ean l\u00e0m Bond Girl, khi\u1ebfn James Bond ph\u1ea3i d\u00e8 ch\u1eebng: Zendaya q",
     "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance",
     "Tom Lee: Bitcoin, Ethereum, Solana Are \u2018Still at the Beginning\u2019 - TradingView",
-    "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and financ"
+    "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and financ",
+    "N\u00d3NG: California Fitness ph\u00e1t th\u00f4ng b\u00e1o m\u1edbi, \u0111\u00fang 30 ng\u00e0y sau khi CEO ch\u1eafp tay x",
+    "TCB: Ng\u00e2n h\u00e0ng TMCP K\u1ef9 th\u01b0\u01a1ng Vi\u1ec7t Nam - TECHCOMBANK - Th\u1ed1ng k\u00ea giao d\u1ecbch - Viet",
+    "Huddlestock Fintech AS (HUDL) Signs Tied-Agent LOI With Firi - TradingView",
+    "Why Anthropic's hot IPO is bringing out sellers \u2014 plus, a silver lining of the d",
+    "'An annoying buzz': The search for stealthier drones",
+    "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis"
   ]
 }
