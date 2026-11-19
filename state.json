@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795091165.565242,
-  "last_bot4": 1795093029.5771773,
+  "last_bot4": 1795093710.4172456,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795093347.7905667,
+  "last_signals": 1795093710.4179466,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,13 +77,13 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795093349.2806945,
-    "EUR/USD|1D:bot": 1795093349.025162,
+    "DXY|1D:top": 1795093711.6208177,
+    "EUR/USD|1D:bot": 1795093711.3950894,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795093348.2550783,
+    "Bitcoin|1D:bot": 1795093710.7932143,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795093348.090359,
+    "USOIL|1D:bot": 1795093710.6570287,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795093341.238513,
-  "last_news": 1795093347.789844,
+  "last_analysis": 1795093702.0973413,
+  "last_news": 1795093710.4164507,
   "seen_news": [
-    "South Korean entertainment stocks surge up to 30% on China trade deal",
-    "Goldman cuts KOSPI target to 7,500 but says gloom is overdone, sees 48% upside",
-    "C\u01a1 quan Thu\u1ebf th\u00f4ng b\u00e1o: T\u1ea5t c\u1ea3 c\u00e1 nh\u00e2n c\u00f3 t\u00ean trong danh s\u00e1ch sau \u0111\u00e3 b\u1ecb t\u1ea1m ho\u00e3n",
-    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
-    "Asian bonds attract biggest monthly foreign inflow in four months - TradingView",
-    "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate h",
     "\u0110i\u1ec1u ch\u01b0a t\u1eebng x\u1ea3y ra trong gi\u1edbi gi\u1ea3i tr\u00ed",
     "D\u1eef li\u1ec7u C\u00e1n c\u00e2n thanh to\u00e1n qu\u1ed1c t\u1ebf Vi\u1ec7t Nam - VietstockFinance",
     "Viant Technology Inc. Stock 12\u2011Month Price Target Raised to $19.32, Implies 70% ",
@@ -457,6 +451,12 @@
     "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "ABB Ltd (ABBN) Repurchased 640,659 Shares in One Week - TradingView",
     "If the AI trade unwinds, other pillars holding up the U.S. economy are \u2018irreleva",
-    "Family offices move more money into stocks, hedge AI risk, according to CNBC Fam"
+    "Family offices move more money into stocks, hedge AI risk, according to CNBC Fam",
+    "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes",
+    "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
+    "M\u1ef9 nh\u00e2n Vi\u1ec7t duy nh\u1ea5t 2 l\u1ea7n d\u1ef1 th\u1ea3m \u0111\u1ecf Weibo, \u0111\u01b0\u1ee3c truy\u1ec1n th\u00f4ng Trung tung h\u00f4 l\u00ea",
+    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
+    "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Takeover - ",
+    "I have two children. How can I turn them into millionaires by the time they reti"
   ]
 }
