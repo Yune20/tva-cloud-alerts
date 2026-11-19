@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795121576.1451037,
+  "last_signals": 1795122196.3253932,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1795122450,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795121579.2129555,
+    "EUR/USD|1D:bot": 1795122197.4044492,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795121564.1563396,
-  "last_news": 1795121576.1444163,
+  "last_analysis": 1795122186.240451,
+  "last_news": 1795122196.324674,
   "seen_news": [
-    "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount",
-    "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef SN 1969 \u1edf TP H\u1ea3i Ph\u00f2ng chuy\u1ec3n kho\u1ea3n 33.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n M",
-    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "ABB Ltd (ABBN) Repurchased 640,659 Shares in One Week - TradingView",
-    "If the AI trade unwinds, other pillars holding up the U.S. economy are \u2018irreleva",
-    "Family offices move more money into stocks, hedge AI risk, according to CNBC Fam",
     "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes",
     "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
     "M\u1ef9 nh\u00e2n Vi\u1ec7t duy nh\u1ea5t 2 l\u1ea7n d\u1ef1 th\u1ea3m \u0111\u1ecf Weibo, \u0111\u01b0\u1ee3c truy\u1ec1n th\u00f4ng Trung tung h\u00f4 l\u00ea",
@@ -457,6 +451,12 @@
     "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014",
     "Congress passes bill to protect older investors from financial fraud",
     "How a sex scandal at Nvidia is putting pressure on the White House",
-    "China Coking Coal Hits Three-Month Low as Supply Recovers"
+    "China Coking Coal Hits Three-Month Low as Supply Recovers",
+    "Fed\u2019s Goolsbee says he sees no clear path back to 2% inflation",
+    "\u1ee6y ban Basel l\u01b0u \u00fd m\u1ed9t s\u1ed1 r\u1ee7i ro \u0111\u1ed1i v\u1edbi h\u1ec7 th\u1ed1ng ng\u00e2n h\u00e0ng",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Hall Chadwick Adds $15 Million PIPE Financing for REEcycle Business Combination ",
+    "Amazon app warns New York of higher costs if Mamdani delivery law passes",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand"
   ]
 }
