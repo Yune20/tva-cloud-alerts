@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1795035885.920856,
+  "last_news_report": 1795047010.4304514,
   "last_bot4": 1795046681.109301,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,14 +29,14 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795046394.0678763,
+  "last_signals": 1795047010.431319,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795045787.3038964,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1795031244.373756,
     "5575146754|Gold|1D|range_in": 1794470762.6038463,
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
-    "5575146754|Gold|4H|tbot": 1795002161.1124783,
+    "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795012490.9946232,
     "5575146754|Gold|4H|momo_dn": 1795025873.6620207,
     "5575146754|Gold|4H|dn": 1795031244.373756,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795014007.1356306,
+    "Gold|4H:bot": 1795047010.791924,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795046396.3437548,
+    "GBP/USD|4H:bot": 1795047012.5329497,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795046385.7211006,
-  "last_news": 1795046394.0672617,
+  "last_analysis": 1795046996.1840258,
+  "last_news": 1795047005.4697647,
   "seen_news": [
-    "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
-    "United Health, Crowdstrike among market cap stock movers on Wednesday",
-    "US October pending home sales -4.7% vs -2.0% expected",
-    "Ph\u00e1t hi\u1ec7n th\u1ee7 \u0111o\u1ea1n l\u1eeba \u0111\u1ea3o chuy\u1ec3n kho\u1ea3n m\u1edbi: Ng\u01b0\u1eddi d\u00e2n nh\u1eadn \u0111\u01b0\u1ee3c giao d\u1ecbch c\u00f3 n\u1ed9",
-    "C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1: c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? - VietstockFinan",
-    "Asia stocks choppy after Nvidia earnings as Anthropic pricing looms - TradingVie",
     "Cuba\u2019s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
     "McDonald\u2019s vs Yum Brands: value and income versus growth and momentum",
     "Crude oil is trading lower after yesterday's run to the upside found willing sel",
@@ -457,6 +451,12 @@
     "How important are Nvidia and Jensen Huang to the US economy?",
     "US Oil Inventories On the Rise",
     "Exclusive-Anthropic clinches biggest-ever IPO with $81 billion offering",
-    "As Bitcoin consolidates, the technical resistance gets closer and closer to the "
+    "As Bitcoin consolidates, the technical resistance gets closer and closer to the ",
+    "Google Signs Landmark Superhot Geothermal Deal",
+    "China\u2019s Jetour to start Brazil car production in 2027, plans $69 million investm",
+    "Anthropic confirms $83 IPO price on 980 million shares in an $81 billion deal",
+    "Cu\u1ed9c s\u1ed1ng vi\u00ean m\u00e3n c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 4 l\u1ea7n nh\u1eadn Hu\u00e2n ch\u01b0\u01a1ng Lao \u0111\u1ed9ng h\u1ea1ng Ba",
+    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
+    "Woodward's shares slip as growth outlook slows - TradingView"
   ]
 }
