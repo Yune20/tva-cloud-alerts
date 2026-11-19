@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795050546.6725152,
+  "last_signals": 1795051169.5194395,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795048675.281548,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795039559.6661558,
-    "Bitcoin|4H:bot": 1795049341.8656619,
+    "Bitcoin|4H:bot": 1795051170.4270356,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795050539.0366592,
-  "last_news": 1795050546.6719465,
+  "last_analysis": 1795051159.5092413,
+  "last_news": 1795051169.5186446,
   "seen_news": [
-    "Kalshi loses bid to prevent Maryland from policing prediction market",
-    "FX option expiries for 18 November 10am New York cut",
-    "TP.HCM d\u00f9ng 3 l\u00f4 \u0111\u1ea5t Th\u1ee7 Thi\u00eam h\u01a1n 23.000 t\u1ef7 thanh to\u00e1n Trung t\u00e2m h\u00e0nh ch\u00ednh m\u1edbi",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Should You Continue to Hold Medtronic Stock in Your Portfolio? - TradingView",
-    "Nvidia sinks after earnings, dragging down neoclouds",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "U.S. indexes are mixed after Nvidia earnings; gold declines - TradingView",
     "Ford starts U.S. battery cell production using Chinese tech amid geopolitical te",
@@ -457,6 +451,12 @@
     "TPHCM \u0111\u1eb7t m\u1ee5c ti\u00eau ph\u00e1t tri\u1ec3n 960km metro v\u00e0o n\u0103m 2050",
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
     "Elon Musk: Firing Jensen Huang Is Like Benching Michael Jordan - TradingView",
-    "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over "
+    "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over ",
+    "Loar 10% Owner Sold Shares Worth Over $182M - TradingView",
+    "One of the world's most contested seas is proving too much for Asia's leaders to",
+    "Where are the most jobs for 18-24 year-olds?",
+    "Permian Growth Turns Moderate Despite War",
+    "Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute",
+    "Australian unemployment jumps to 4.9% as jobs fall 43,500, taking RBA hikes off "
   ]
 }
