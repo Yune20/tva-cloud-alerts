@@ -1,6 +1,6 @@
 {
-  "last_news_report": 1795102183.334369,
-  "last_bot4": 1795112228.941769,
+  "last_news_report": 1795113155.1634028,
+  "last_bot4": 1795113157.8587582,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795112228.9416952
+    "Gold": 1795113157.858691
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795112530.9071524,
+  "last_signals": 1795113157.859707,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -66,7 +66,7 @@
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": false
   },
@@ -124,11 +124,11 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795072047.7312384,
-    "Bitcoin|4H:bot": 1795111916.4202316,
+    "Bitcoin|4H:bot": 1795113158.3869355,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795112531.789058,
+    "EUR/USD|1D:bot": 1795113159.1737428,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795112531.287037,
+    "Bitcoin|1D:bot": 1795113158.3869534,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795112531.1554124,
+    "USOIL|1D:bot": 1795113158.2191744,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795112827.5105238,
-  "last_news": 1795112530.9064445,
+  "last_analysis": 1795113142.8409984,
+  "last_news": 1795113151.5810373,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "Vulcan Energy Resources Limited (VUL) Granted Five-Year Landau-Ost Licence - Tra",
-    "Intel signs first external customer for advanced 18A chips",
-    "Living with a stink? Technology might help",
-    "India\u2019s Oil Imports Hit Record High as Saudi Shipments Surge",
-    "After $6.3 billion crypto heist, Binance plans Asia expansion",
     "Denmark ratifies Trump security deal over Greenland after months of diplomatic t",
     "How video game remakes tap the power of nostalgia",
     "Mozambique Approves Exxon\u2019s Redesigned $30 Billion Rovuma LNG Plan",
@@ -457,6 +451,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Elior profit falls as Italian rail contract dispute weighs - TradingView",
     "My wife pays for her family to visit us in New York. How do I tell her we can\u2019t ",
-    "AMD dives on short-seller report of alleged China exposure"
+    "AMD dives on short-seller report of alleged China exposure",
+    "Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng 126.000 t\u1ef7 t\u1eeb \u0111\u1ea7u n\u0103m 2026, k\u1ef7 l\u1ee5c ch\u01b0a t\u1eebng c\u00f3",
+    "Doanh nghi\u1ec7p AZ - VietstockFinance",
+    "BP weighs selling key West Africa LNG plant - Bloomberg - TradingView",
+    "\u2018Rockets are hard\u2019 \u2014 yet this analyst thinks AST SpaceMobile\u2019s stock is ready to",
+    "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+    "Anthropic raises $81bn in record-breaking stock market debut"
   ]
 }
