@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795072046.2156832,
+  "last_signals": 1795072368.2878802,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -82,13 +82,13 @@
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1795072632,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
-    "EUR/USD|1D:bot": 1795072047.4071941,
+    "EUR/USD|1D:bot": 1795072369.2997634,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795072046.725499,
+    "Bitcoin|1D:bot": 1795072368.6778889,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795071749.676017,
-  "last_news": 1795072046.2149518,
+  "last_analysis": 1795072361.0187793,
+  "last_news": 1795072368.2871726,
   "seen_news": [
-    "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scot",
-    "Gilts v kilts: What is happening with Scottish government bonds?",
-    "U.S. Treasury yields catch their breath near one-month highs",
-    "BOJ tipped to hike to 1.50% in December, its first three-hike year in 37 years",
-    "H\u01a1n 3 n\u0103m tr\u01b0\u1edbc, \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng l\u00e0m m\u1ed9t vi\u1ec7c \u00edt ai ng\u1edd - Nay nh\u00ecn \u0111\u1ed1i th\u1ee7 \u1ed3",
-    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked los",
     "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs",
     "\u0110i\u1ec3m y\u1ebfu c\u1ee7a MC Kh\u00e1nh Vy",
@@ -458,6 +452,12 @@
     "Th\u1ee7 khoa \u0110H B\u00e1ch khoa H\u00e0 N\u1ed9i l\u00e0 Gi\u00e1m \u0111\u1ed1c t\u1ea1i T\u1eadp \u0111o\u00e0n c\u1ee7a \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng v\u1eeb",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
     "Macquarie maintains Ballys at Neutral, keeps price target at $12 - TradingView",
-    "How copper\u2019s plunge could hurt the AI buildout"
+    "How copper\u2019s plunge could hurt the AI buildout",
+    "Moody\u2019s cuts Nvidia outlook to stable, saying Huang\u2019s exit clouds strategy and p",
+    "Chuy\u00ean gia n\u01b0\u1edbc ngo\u00e0i d\u1ef1 t\u00ednh m\u1ea5t \u00edt nh\u1ea5t 5 n\u0103m, Vi\u1ec7t Nam ch\u1ec9 c\u1ea7n h\u01a1n 800 ng\u00e0y \u0111",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
+    "News by CNBC TV18 on TradingView, 2026-11-19 \u2014 cnbctv:fc2d1d2e2094b:0 - TradingV",
+    "What the \u2018death cross\u2019 in small-cap stocks means for the rest of the market",
+    "CEO turned informant: How the FDA built a case against executives promising chea"
   ]
 }
