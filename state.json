@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795054367.8512611,
+  "last_signals": 1795054982.9473712,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795053377.295151,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795054368.6999228,
+    "Bitcoin|1D:bot": 1795054983.380867,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795054357.922776,
-  "last_news": 1795054367.850722,
+  "last_analysis": 1795054973.2325547,
+  "last_news": 1795054982.9466,
   "seen_news": [
-    "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mo",
-    "Why are more roofs not made of solar tiles?",
-    "Palliser Capital urges Chemring to launch strategic review",
-    "BoC\u2019s Gravelle says policy scenarios help build credibility",
-    "Ng\u00e0y 19/11, g\u1eedi d\u01b0\u1edbi 100 tri\u1ec7u 6 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, Sacombank, S",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
     "Fed\u2019s Daly says inflation has been too high for too long as consumer spending ho",
     "Ai s\u1ebd thay th\u1ebf Qu\u1ef3nh Anh sau khi b\u1ecb t\u01b0\u1edbc danh hi\u1ec7u?",
@@ -458,6 +452,12 @@
     "BOJ\u2019s Ueda expects to keep raising rates, warning inflation could overshoot 2% t",
     "\u0110\u1ec1 xu\u1ea5t gi\u1ea3m 85% ti\u1ec1n ph\u1ea1t h\u1ed9 kinh doanh k\u00ea khai \u0111\u00f3ng m\u00e3 s\u1ed1 thu\u1ebf",
     "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "JAPAN GOVT MAINTAINS VIEW: MACHINERY ORDERS SHOWING SIGNS OF PICKUP - TradingVie"
+    "JAPAN GOVT MAINTAINS VIEW: MACHINERY ORDERS SHOWING SIGNS OF PICKUP - TradingVie",
+    "BlackRock says bitcoin\u2019s fading link to stocks strengthens the case for allocati",
+    "C\u1ea5p t\u1eadp tr\u00ean c\u00f4ng tr\u01b0\u1eddng c\u1ea7u tr\u0103m t\u1ef7 b\u1eafc qua s\u00f4ng M\u00e3",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "Why Is AMD Stock Rising Overnight? - TradingView",
+    "Target shares rise 7% as retailer posts best sales growth in five years, hikes g",
+    "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn"
   ]
 }
