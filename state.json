@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795075225.0018404,
+  "last_signals": 1795075551.351679,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -46,7 +46,7 @@
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
     "5575146754|Gold|1D|dn": 1795064603.258178,
-    "5575146754|Gold|1D|trap_dn": 1795053748.2707767
+    "5575146754|Gold|1D|trap_dn": 1795075551.351679
   },
   "sig_range": {
     "Gold": true,
@@ -66,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -84,8 +84,8 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|1H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -128,8 +128,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1794980039.4820323,
-    "EUR/USD|1D:bot": 1795075226.6008823,
+    "DXY|1D:top": 1795075553.4989758,
+    "EUR/USD|1D:bot": 1795075553.0179632,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795075225.7333357,
+    "Bitcoin|1D:bot": 1795075552.090607,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795074928.8328547,
-  "last_news": 1795075225.0011976,
+  "last_analysis": 1795075542.5751398,
+  "last_news": 1795075551.35074,
   "seen_news": [
-    "M\u1ed9t b\u00e0i h\u00e1t \u0111em l\u1ea1i 3,8 t\u1ef7 \u0111\u1ed3ng",
-    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Moody's Says Nvidia Leads AI Data Center Computing and Networking - TradingView",
-    "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global",
     "Inside India newsletter: Foreign flows helped the market recover. Now it faces t",
     "Why has Waymo pulled all its driverless cars from US freeways?",
     "Sanofi\u2019s pill becomes first US-approved drug for rare neurological disorder",
@@ -458,6 +452,12 @@
     "Google Signs Landmark Superhot Geothermal Deal",
     "Exclusive-UniCredit and Germany reach broad agreement on Commerzbank takeover",
     "Anthropic confirms $83 IPO price on 980 million shares in an $81 billion deal",
-    "Google ph\u00e1t hi\u1ec7n AI t\u1ef1 \u0111\u1ed9ng bi\u1ebfn b\u1ea3n v\u00e1 l\u1ed7i th\u00e0nh v\u0169 kh\u00ed t\u1ea5n c\u00f4ng m\u1ea1ng"
+    "Google ph\u00e1t hi\u1ec7n AI t\u1ef1 \u0111\u1ed9ng bi\u1ebfn b\u1ea3n v\u00e1 l\u1ed7i th\u00e0nh v\u0169 kh\u00ed t\u1ea5n c\u00f4ng m\u1ea1ng",
+    "Asia stocks choppy after Nvidia earnings as Anthropic pricing looms - TradingVie",
+    "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+    "My hometown shows that high streets have to change or die",
+    "Why is JD Health International stock sliding today?",
+    "FX option expiries for 19 November 10am New York cut",
+    "\u0110i\u1ec1u kh\u00f4ng t\u01b0\u1edfng x\u1ea3y ra v\u1edbi Nga"
   ]
 }
