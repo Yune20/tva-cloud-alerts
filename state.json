@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795091486.6708384,
+  "last_signals": 1795092124.9966047,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795091487.9828908,
-    "EUR/USD|1D:bot": 1795091487.6757526,
+    "DXY|1D:top": 1795092126.2046082,
+    "EUR/USD|1D:bot": 1795092125.949992,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795091487.0556982,
+    "Bitcoin|1D:bot": 1795092125.397266,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795091480.4314682,
-  "last_news": 1795091486.670146,
+  "last_analysis": 1795092115.7076569,
+  "last_news": 1795092124.9960485,
   "seen_news": [
-    "Siba Group mu\u1ed1n g\u00f3p th\u00eam 101 t\u1ef7 \u0111\u1ed3ng v\u00e0o c\u00f4ng ty con ch\u1ebf bi\u1ebfn s\u1eefa",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Coffee Prices Retreat on Bigger Supplies from Brazil - TradingView",
-    "Three things to watch as Trump, Xi and Putin meet in China",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "\u2019GTA VI\u2019 to supercharge Sony \u2014 just not in Japan",
     "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Takeover - ",
     "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
     "The grads ditching the UK for a fresh start abroad",
@@ -457,6 +451,12 @@
     "REG - River Global PLC River Global - RVRB - Director/PDMR Shareholding - Tradin",
     "Can Anthropic\u2019s IPO do for the stock market what Nvidia\u2019s earnings couldn\u2019t?",
     "Anthropic IPO could create thousands of multimillionaire employees",
-    "Waymo pulls driverless taxis from all US freeways"
+    "Waymo pulls driverless taxis from all US freeways",
+    "EASYJET PLC (EZJ) Receives Major Holdings Notification From Bank of America - Tr",
+    "Deutsche Bank got its dollar call for 2026 wrong. Why it\u2019s shifting tack now.",
+    "Walmart hikes outlook as top execs tell CNBC the retailer is gaining market shar",
+    "How a sex scandal at Nvidia is putting pressure on the White House",
+    "China Coking Coal Hits Three-Month Low as Supply Recovers",
+    "Sterling today: Pound slips as U.S. rate bets outweigh UK CPI rise to 3.6%"
   ]
 }
