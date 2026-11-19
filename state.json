@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795128349.1759412,
+  "last_signals": 1795128947.6492305,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795128350.6185553,
     "Bitcoin|4H:bot": 1795113158.3869355,
-    "EUR/USD|4H:bot": 1795128350.3430488,
+    "EUR/USD|4H:bot": 1795128948.7287278,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795128349.8973486,
+    "Ethereum|4H:bot": 1795128948.3047564,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795128349.5047894,
+    "USOIL|1D:bot": 1795128948.007458,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795128657.3827982,
-  "last_news": 1795128347.4820304,
+  "last_news": 1795128947.648673,
   "seen_news": [
-    "T\u00e0i x\u1ebf ch\u1ea1y 101km/h tr\u00ean \u0111\u01b0\u1eddng gi\u1edbi h\u1ea1n 60km/h \u1edf B\u1eafc Ninh",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "VivoSim Labs surges 82% premarket on seven-figure pharma deal - TradingView",
-    "Ron Johnson\u2019s Social Security gaffe buried important news",
-    "Inside Wealth: Anthropic IPO, AI wealth spawn a new, leaner kind of family offic",
-    "The grads ditching the UK for a fresh start abroad",
     "Initial jobless claims unexpectedly increase in past week - TradingView",
     "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
     "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
@@ -457,6 +451,12 @@
     "Intuit to sell Mailchimp at about a third of its 2021 purchase price, shares slu",
     "More from Fed\u2019s Goolsbee: AI boom a \u2018pig through the python\u2019 that risks overheat",
     "Tuy\u1ec3n Vi\u1ec7t Nam \u0111\u01b0\u1ee3c b\u00e1o Anh \u201cm\u00e1ch n\u01b0\u1edbc\u201d tr\u01b0\u1edbc tr\u1eadn g\u1eb7p B\u1ec9 \u1edf World Cup",
-    "D\u1eef li\u1ec7u T\u1ef7 gi\u00e1 trung t\u00e2m USD/VND Vi\u1ec7t Nam - VietstockFinance"
+    "D\u1eef li\u1ec7u T\u1ef7 gi\u00e1 trung t\u00e2m USD/VND Vi\u1ec7t Nam - VietstockFinance",
+    "Procter & Gamble targets up to $10 billion in productivity savings as costs stac",
+    "Economic and event calendar in Asia Friday, November 20, 2026: Fed's Paulson, Ja",
+    "Ch\u1ec9 c\u1ea7n nh\u00ecn ng\u01b0\u1eddi \u0111\u00f3n con tan h\u1ecdc l\u00e0 bi\u1ebft ngay ho\u00e0n c\u1ea3nh gia \u0111\u00ecnh: Ki\u1ec3u cu\u1ed1i c\u00f9",
+    "C\u1eadp nh\u1eadt k\u1ebft qu\u1ea3 kinh doanh n\u0103m 2026 - VietstockFinance",
+    "Helmerich & Payne FY 2026: Revenue $4.08B, EPS ($5.72) \u2014 10-K Summary - TradingV",
+    "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies"
   ]
 }
