@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795119102.9146764,
+  "last_signals": 1795119742.9324055,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795119103.9783313,
+    "EUR/USD|1D:bot": 1795119746.5767174,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795119097.4459698,
-  "last_news": 1795119102.9140983,
+  "last_analysis": 1795119719.1322985,
+  "last_news": 1795119742.931791,
   "seen_news": [
-    "Solana's downtrend remains intact despite easing selling pressure. What could ch",
-    "T\u00e2m tr\u1ea1ng c\u1ee7a ng\u01b0\u1eddi c\u1ee9 mua v\u00e0ng xong l\u00e0 gi\u00e1 gi\u1ea3m: Chuy\u00ean gia nh\u1eafc 1 vi\u1ec7c!",
-    "TCB: Ng\u00e2n h\u00e0ng TMCP K\u1ef9 th\u01b0\u01a1ng Vi\u1ec7t Nam - TECHCOMBANK - Th\u1ed1ng k\u00ea giao d\u1ecbch - Viet",
-    "REG - FIL Limited Prologis, Inc. SEGRO PLC - Form 8.3 - SEGRO PLC - TradingView",
-    "Sandisk\u2019s stock split is almost here. This is what investors need to know.",
-    "Walmart raises sales and earnings outlook as e-commerce sales jump again",
     "Tr\u00f9m Deal L\u00ean Live 21.11 c\u1ee7a ShopeeFood \u0111\u1ed5 b\u1ed9: Ch\u00e2n \u00e1i s\u0103n deal c\u1ef1c h\u1eddi gi\u1ea3m \u0111\u1ebfn",
     "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
     "REG - River Global PLC River Global - RVRB - Director/PDMR Shareholding - Tradin",
@@ -457,6 +451,12 @@
     "Michael Burry Zeroes In on One AI Giant's $500 Billion Push - TradingView",
     "Intel signs first external customer for advanced 18A chips",
     "How high is UK inflation and how will you be affected?",
-    "The AI boom is keeping the dollar strong: What comes next in 2027?"
+    "The AI boom is keeping the dollar strong: What comes next in 2027?",
+    "KDA Group Inc. (KDA) Raises $545.4K in Private Placement - TradingView",
+    "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove g",
+    "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "Wall Street slides as Anthropic\u2019s debut fails to revive AI enthusiasm",
+    "Canada seeks interim U.S. tariff deal by year-end, CBC reports",
+    "B\u1eaft \u0111\u1ea7u t\u1eeb h\u00f4m nay (20/11), Qu\u1ed1c h\u1ed9i s\u1ebd bi\u1ec3u quy\u1ebft th\u00f4ng qua nhi\u1ec1u lu\u1eadt, ngh\u1ecb qu"
   ]
 }
