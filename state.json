@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795120363.7085543,
+  "last_signals": 1795120957.8022385,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": true,
+    "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": true,
+    "JPY Index|4H": false,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1795121217,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795120364.9115996,
+    "EUR/USD|1D:bot": 1795120958.6932666,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795120340.1278386,
-  "last_news": 1795120363.7079742,
+  "last_analysis": 1795120949.543239,
+  "last_news": 1795120957.783239,
   "seen_news": [
-    "EASYJET PLC (EZJ) Receives Major Holdings Notification From Bank of America - Tr",
-    "Deutsche Bank got its dollar call for 2026 wrong. Why it\u2019s shifting tack now.",
-    "Walmart hikes outlook as top execs tell CNBC the retailer is gaining market shar",
-    "How a sex scandal at Nvidia is putting pressure on the White House",
-    "China Coking Coal Hits Three-Month Low as Supply Recovers",
-    "Sterling today: Pound slips as U.S. rate bets outweigh UK CPI rise to 3.6%",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "Why is Zscaler stock surging today?",
     "What are the main events for today?",
@@ -457,6 +451,12 @@
     "Why Walmart is making a bigger bet on fast-food delivery",
     "Ford starts U.S. battery cell production using Chinese tech amid geopolitical te",
     "My hometown shows that high streets have to change or die",
-    "New York sues IHG, others over Holiday Inn accused of exploiting immigrant worke"
+    "New York sues IHG, others over Holiday Inn accused of exploiting immigrant worke",
+    "Nvidia\u2019s stock falls further. It has lost $611 billion in six trading days.",
+    "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
+    "Waymo pulls driverless taxis from all US freeways",
+    "Bank of Montreal revives US oil and gas investment banking",
+    "GBPUSD breaks to a new 2026 low. The daily chart shows room to the downside.",
+    "C\u1ea3nh gi\u00e1c b\u1eaby cho thu\u00ea t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng, ti\u1ebfp tay cho t\u1ed9i ph\u1ea1m"
   ]
 }
