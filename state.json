@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795117846.8485446,
+  "last_signals": 1795118457.938907,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,8 +68,8 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|1H": false,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -78,7 +78,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795117231.810896,
+    "EUR/USD|1D:bot": 1795118460.7658134,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795117833.2432435,
-  "last_news": 1795117846.8478968,
+  "last_analysis": 1795118447.9626012,
+  "last_news": 1795118457.9381888,
   "seen_news": [
-    "Alibaba\u2019s cloud business is thriving. But those profits are completely offset by",
-    "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick pro",
-    "How high is UK inflation and how will you be affected?",
-    "The AI boom is keeping the dollar strong: What comes next in 2027?",
-    "ETH whales keep buying through the slide while bitcoin whales send coins to exch",
-    "B\u1ecb sa th\u1ea3i xong kh\u00f4ng \u0111i l\u00e0m v\u0103n ph\u00f2ng n\u1eefa, h\u1ecd \u0111ang ki\u1ebfm ti\u1ec1n th\u1ebf n\u00e0o?",
     "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
     "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
     "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
@@ -457,6 +451,12 @@
     "Why Micron, Broadcom and other AI stocks have given up their gains",
     "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what ",
     "How long will humans be needed for translation?",
-    "Offshore yuan dip looks like a liquidity blip, not a trend shift"
+    "Offshore yuan dip looks like a liquidity blip, not a trend shift",
+    "Elon Musk becomes the latest tech billionaire to make a peace offering to Democr",
+    "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+    "Why are more roofs not made of solar tiles?",
+    "Wall Street slides as questions over AI trade linger despite record Anthropic IP",
+    "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs",
+    "FPT t\u0103ng gi\u00e1 9% v\u1edbi 55 kh\u00e1ch h\u00e0ng Nh\u1eadt B\u1ea3n khi\u1ebfn doanh thu k\u00fd m\u1edbi ch\u1eadm l\u1ea1i, th\u00eam"
   ]
 }
