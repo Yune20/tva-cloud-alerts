@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795058116.9218357,
+  "last_signals": 1795058729.9426064,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795053377.295151,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -66,11 +66,11 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795054983.380867,
+    "Bitcoin|1D:bot": 1795058730.762156,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795058103.7783568,
-  "last_news": 1795058111.3763654,
+  "last_analysis": 1795058721.7454197,
+  "last_news": 1795058729.942005,
   "seen_news": [
-    "Gi\u00e1 v\u00e0ng SJC, v\u00e0ng nh\u1eabn 9999 s\u00e1ng ng\u00e0y 19/11",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
-    "TC Energy Plans NGTL Expansion Amid Rising Alberta Gas Demand - TradingView",
-    "Fed minutes show growing unease about the outlook for inflation",
-    "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands",
-    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp",
     "MP urges council to speed up heating oil payments",
     "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
     "Dollar holds near 19-mth high in 7th daily advance on Fed hike bets",
@@ -458,6 +452,12 @@
     "Sumitomo Mitsui Financial Insiders Sold Shares Worth Over $3M - TradingView",
     "'Parasite' backer and other South Korean media, gaming and travel stocks rally o",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "Tencent shares hit 2-1/2 yr low on Q3 earnings miss"
+    "Tencent shares hit 2-1/2 yr low on Q3 earnings miss",
+    "VPR Brands 3Q 2026: Revenue $548.14K, EPS $0.2 \u2014 10-Q Summary - TradingView",
+    "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick pro",
+    "How long will humans be needed for translation?",
+    "As Meta bets big on Muse AI agent, early safety mishaps surface",
+    "Japan\u2019s AI stocks lose their premium as three threats emerge after Nvidia\u2019s CEO ",
+    "2 tr\u01b0\u1eddng h\u1ee3p t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng b\u1ecb phong t\u1ecfa theo quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t"
   ]
 }
