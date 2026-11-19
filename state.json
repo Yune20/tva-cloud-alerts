@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795069228.1399019,
-  "last_bot4": 1795070138.0621119,
+  "last_bot4": 1795070824.6200526,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795070458.4058871,
+  "last_signals": 1795070824.6207757,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795069526.9165292,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -60,7 +60,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -81,10 +81,10 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
@@ -124,15 +124,15 @@
     "JPY Index|4H:top": 1794560369.1786976,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795070459.6097744,
+    "DXY|4H:top": 1795070827.3687477,
     "Bitcoin|4H:bot": 1795053378.116071,
-    "EUR/USD|4H:bot": 1795070459.3944633,
+    "EUR/USD|4H:bot": 1795070826.7862802,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
     "EUR/USD|1D:bot": 1794939604.2491262,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795069851.3704693,
+    "Gold|4H:bot": 1795070824.9254575,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1794956035.4986737,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795070458.794373,
+    "Bitcoin|1D:bot": 1795070825.5509431,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795070452.6410995,
-  "last_news": 1795070458.4051225,
+  "last_analysis": 1795070813.8687847,
+  "last_news": 1795070824.6192615,
   "seen_news": [
-    "Moody\u2019s cuts Nvidia credit outlook to stable after CEO Jensen Huang exits",
-    "Dow continues its fall with a decline of 561 points. Nasdaq rebounds",
-    "Long Ch\u00e2u h\u00e9 l\u1ed9 k\u1ebf ho\u1ea1ch ti\u00ean phong \u0111\u01b0a thu\u1ed1c hi\u1ebfm \u0111i\u1ec1u tr\u1ecb b\u1ec7nh th\u1ea7n kinh v\u1eadn \u0111",
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Golar LNG Q3 2026 Earnings Call Is Live - TradingView",
-    "The stock market is being rocked by the biggest shake-up in a generation as tech",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
     "Binance Granted Court Order In Adgm Courts To Support Asset Recovery - TradingVi",
     "How copper\u2019s plunge could hurt the AI buildout",
@@ -458,6 +452,12 @@
     "TCX: CTCP Ch\u1ee9ng kho\u00e1n K\u1ef9 Th\u01b0\u01a1ng - Techcom Securities - VietstockFinance",
     "GRRR Q3'26 Earnings: EPS estimate is (0.58) USD - TradingView",
     "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% o",
-    "The seven Anthropic founders who are about to become multi-billionaires"
+    "The seven Anthropic founders who are about to become multi-billionaires",
+    "Ra quy\u1ebft \u0111\u1ecbnh kh\u1edfi t\u1ed1 Ma Tu\u1ea5n Linh SN 1995 li\u00ean quan \u0111\u1ebfn 273 chi\u1ebfc k\u00e9t s\u1eaft",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Golub Capital BDC Q4 Earnings Call Highlights - TradingView",
+    "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+    "Leftover pumpkins help deliver 1,000th free meal",
+    "Husqvarna files anti-dumping complaint on Chinese robotic mowers"
   ]
 }
