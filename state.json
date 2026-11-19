@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795124022.5203602,
-  "last_bot4": 1795129285.63996,
+  "last_bot4": 1795129938.7027712,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795129285.6406007,
+  "last_signals": 1795129938.7033973,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,12 +63,12 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795128350.6185553,
+    "DXY|4H:top": 1795129941.4434104,
     "Bitcoin|4H:bot": 1795129286.8858066,
-    "EUR/USD|4H:bot": 1795129288.4747636,
+    "EUR/USD|4H:bot": 1795129940.877572,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795129287.2851985,
+    "Ethereum|4H:bot": 1795129939.9667456,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795129260.7487302,
-  "last_news": 1795129283.6994326,
+  "last_analysis": 1795129930.1055036,
+  "last_news": 1795129938.7019272,
   "seen_news": [
-    "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold",
-    "Increase in direct cremations since pandemic",
-    "Australia Explores Gas Phase-Out Deal in Talks on Reservation Scheme",
-    "Why is Coherent stock surging today?",
-    "USDCAD sellers make a play after a new high for the year",
-    "To\u00e0n c\u1ea3nh cu\u1ed9c h\u1ed9i \u0111\u00e0m ba b\u00ean l\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed c\u1ee7a l\u00e3nh \u0111\u1ea1o Trung - Ng",
     "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
     "Volkswagen demands pay freeze, flexible hours in looming showdown with union",
     "Strong Anthropic IPO gives new life to the AI trade. Shares indicated to open at",
@@ -457,6 +451,12 @@
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "What's Going On With Dell Technologies Stock Thursday? - TradingView",
     "Family offices move more money into stocks, hedge AI risk, according to CNBC Fam",
-    "Security flaw found in Java, world's third-largest programming language"
+    "Security flaw found in Java, world's third-largest programming language",
+    "D\u1eef li\u1ec7u C\u00e1n c\u00e2n thanh to\u00e1n qu\u1ed1c t\u1ebf Vi\u1ec7t Nam - VietstockFinance",
+    "eXoZymes Q3 2026 Earnings Call Is Live - TradingView",
+    "California attorney general issues Nvidia subpoena in probe of China chip divers",
+    "'An annoying buzz': The search for stealthier drones",
+    "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
+    "Musk\u2019s SpaceXSI denies liability in UK lawmaker\u2019s lawsuit over Grok images"
   ]
 }
