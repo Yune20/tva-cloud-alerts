@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795047010.4304514,
-  "last_bot4": 1795052769.2823257,
+  "last_bot4": 1795053748.2698789,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795052108.2149308
+    "Gold": 1795053748.2697504
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795053377.295151,
+  "last_signals": 1795053748.2707767,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795053377.295151,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -45,7 +45,8 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795034329.84966
+    "5575146754|Gold|1D|dn": 1795034329.84966,
+    "5575146754|Gold|1D|trap_dn": 1795053748.2707767
   },
   "sig_range": {
     "Gold": true,
@@ -65,7 +66,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -80,13 +81,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": false,
+    "USD/JPY|1H": true,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": false,
+    "JPY Index|1H": true,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -140,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795053378.1160917,
+    "Bitcoin|1D:bot": 1795053748.6853104,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795053079.9048781,
-  "last_news": 1795053377.2945876,
+  "last_analysis": 1795053735.6515367,
+  "last_news": 1795053745.3102098,
   "seen_news": [
-    "VSC: CTCP Container Vi\u1ec7t Nam - Viconship - VietstockFinance",
-    "B of A Securities maintains Tyson Foods at Neutral, raises price target to $65 f",
-    "Social Security should be shut down, this Republican senator says",
-    "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-    "We couldn't afford a house alone, so we bought one with strangers",
-    "Mozambique Approves Exxon\u2019s Redesigned $30 Billion Rovuma LNG Plan",
     "It\u2019s not too late to add U.S. energy companies to your 401(k). They\u2019ve been maki",
     "Target shares rise 7% as retailer posts best sales growth in five years, hikes g",
     "How long will humans be needed for translation?",
@@ -457,6 +452,12 @@
     "The engine parts that 'fight the laws of the universe'",
     "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an \u201cAcquisition\u201d",
     "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-    "Japan machinery orders up 13.4% y/y: what this early capex signal tells you"
+    "Japan machinery orders up 13.4% y/y: what this early capex signal tells you",
+    "Investigators make progress in hunt for cause of FAA ground stop",
+    "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "Inside the Army\u2019s 75 Year Plan to Escape China\u2019s Rare Earth Dominance",
+    "Wall Street futures climb ahead of Anthropic\u2019s $1.5 trillion mega IPO",
+    "More from Ueda: real rates still low, and BOJ finances can withstand further hik",
+    "L\u00e3i su\u1ea5t ti\u1ebft ki\u1ec7m ti\u1ebfp t\u1ee5c xu h\u01b0\u1edbng gi\u1ea3m"
   ]
 }
