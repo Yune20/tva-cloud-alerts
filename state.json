@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1795047010.4304514,
+  "last_news_report": 1795058116.9209797,
   "last_bot4": 1795057727.13526,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795057445.6027415,
+  "last_signals": 1795058116.9218357,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795053377.295151,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -39,7 +39,7 @@
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795047608.0312972,
     "5575146754|Gold|4H|momo_dn": 1795025873.6620207,
-    "5575146754|Gold|4H|dn": 1795031244.373756,
+    "5575146754|Gold|4H|dn": 1795058116.9218357,
     "5575146754|Gold|4H|trap_dn": 1795043849.0482004,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
     "5575146754|Gold|1D|dbot": 1794925335.572049,
@@ -63,14 +63,14 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795057437.1366405,
-  "last_news": 1795057445.602128,
+  "last_analysis": 1795058103.7783568,
+  "last_news": 1795058111.3763654,
   "seen_news": [
-    "How the\u00a0Anthropic IPO stacks up against SpaceX",
-    "Fed's Barr supports further rate hikes as inflation remains too high",
-    "T&T Group c\u1ee7a b\u1ea7u Hi\u1ec3n \u0111\u1ec1 xu\u1ea5t \u0111\u1ea7u t\u01b0 lo\u1ea1t d\u1ef1 \u00e1n n\u0103ng l\u01b0\u1ee3ng t\u00e1i t\u1ea1o t\u1ea1i t\u1ec9nh r\u1ed9n",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
-    "Why Pony AI stock is trading up today - TradingView",
-    "Nearly half of home builders are cutting prices and offering lower mortgage rate",
     "Gi\u00e1 v\u00e0ng SJC, v\u00e0ng nh\u1eabn 9999 s\u00e1ng ng\u00e0y 19/11",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "TC Energy Plans NGTL Expansion Amid Rising Alberta Gas Demand - TradingView",
@@ -458,6 +452,12 @@
     "Nvidia chair tells staff there is no Jensen clone, as leaders pledge strategy co",
     "CaraWorld ghi d\u1ea5u n\u0103ng l\u1ef1c ki\u1ebfn t\u1ea1o \u0111i\u1ec3m \u0111\u1ebfn \u0111a ti\u1ec7n \u00edch t\u1ea1i B\u00e3i D\u00e0i, Cam Ranh",
     "VSC: CTCP Container Vi\u1ec7t Nam - Viconship - VietstockFinance",
-    "Interparfums Projects 6% Sales Growth to $1.58 Billion in 2027 - TradingView"
+    "Interparfums Projects 6% Sales Growth to $1.58 Billion in 2027 - TradingView",
+    "\u0110o\u1ea1n clip khi\u1ebfn Ninh D\u01b0\u01a1ng Lan Ng\u1ecdc ph\u1ea3i ra m\u1eb7t b\u00eanh v\u1ef1c Qu\u1ed1c Anh",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "Sumitomo Mitsui Financial Insiders Sold Shares Worth Over $3M - TradingView",
+    "'Parasite' backer and other South Korean media, gaming and travel stocks rally o",
+    "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+    "Tencent shares hit 2-1/2 yr low on Q3 earnings miss"
   ]
 }
