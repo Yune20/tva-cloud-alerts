@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795047010.4304514,
-  "last_bot4": 1795051476.5245922,
+  "last_bot4": 1795052108.215014,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795050863.0094767
+    "Gold": 1795052108.2149308
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795051776.0359538,
+  "last_signals": 1795052108.2156599,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795048675.281548,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -69,7 +69,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795039559.6661558,
-    "Bitcoin|4H:bot": 1795051776.7903876,
+    "Bitcoin|4H:bot": 1795052109.424124,
     "EUR/USD|4H:bot": 1795010240.2059612,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795051476.5236166,
-  "last_news": 1795051776.0354545,
+  "last_analysis": 1795052094.3674324,
+  "last_news": 1795052105.4067855,
   "seen_news": [
-    "Jim Cramer looks at what turned the market lower and where stocks could go next",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "EU Moves to Fast-Track Renewables as Oil Import Costs Soar",
-    "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
-    "It's getting tough to believe all these internet outages are a coincidence",
-    "Di\u1ec5n bi\u1ebfn m\u1edbi t\u1ea1i d\u1ef1 \u00e1n trung t\u00e2m h\u00e0nh ch\u00ednh g\u1ea7n 30.000 t\u1ef7 \u0111\u1ed3ng do Sun Group \u0111\u1ea7u",
     "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an \u201cAcquisition\u201d",
     "Governments warn Java flaw leaves computer systems open to hackers",
     "US Sept business inventories +0.5% vs +0.4% prior",
@@ -457,6 +451,12 @@
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "F: Layered protections underpin retail, REV, lease and floorplan ABS funding - T",
     "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-    "Can Anthropic's record-breaking IPO stop the AI bubble bursting?"
+    "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+    "Democrats Could Slow Venezuela\u2019s Push Toward 3 Million Bpd",
+    "GBP/USD slide driven by dollar strength, not sterling weakness",
+    "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflati",
+    "M\u00f3n qu\u00e0 h\u01a1n 2 t\u1ef7 \u0111\u1ed3ng c\u1ee7a con trai \u00f4ng Ph\u1ea1m Nh\u1eadt V\u01b0\u1ee3ng t\u1eb7ng tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc 70 n\u0103",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "RBNZ Governor Sees Fuel Costs Potentially Feeding Broader Inflation - TradingVie"
   ]
 }
