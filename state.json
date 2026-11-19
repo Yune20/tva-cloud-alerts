@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795091165.565242,
-  "last_bot4": 1795093710.4172456,
+  "last_bot4": 1795094373.1290658,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795093029.5770996
+    "Gold": 1795094373.1289723
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795093710.4179466,
+  "last_signals": 1795094373.129801,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795093711.6208177,
-    "EUR/USD|1D:bot": 1795093711.3950894,
+    "DXY|1D:top": 1795094374.500397,
+    "EUR/USD|1D:bot": 1795094374.178331,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795093710.7932143,
+    "Bitcoin|1D:bot": 1795094373.550984,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795093710.6570287,
+    "USOIL|1D:bot": 1795094373.4155214,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795093702.0973413,
-  "last_news": 1795093710.4164507,
+  "last_analysis": 1795094364.4488845,
+  "last_news": 1795094370.4716713,
   "seen_news": [
-    "\u0110i\u1ec1u ch\u01b0a t\u1eebng x\u1ea3y ra trong gi\u1edbi gi\u1ea3i tr\u00ed",
-    "D\u1eef li\u1ec7u C\u00e1n c\u00e2n thanh to\u00e1n qu\u1ed1c t\u1ebf Vi\u1ec7t Nam - VietstockFinance",
-    "Viant Technology Inc. Stock 12\u2011Month Price Target Raised to $19.32, Implies 70% ",
-    "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimm",
-    "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-    "CK Hutchison shares fall as Panama files criminal complaint amid ports dispute",
     "L\u1eddi khuy\u00ean cho nh\u1eefng gia \u0111\u00ecnh k\u00ea b\u00e0n h\u1ecdc c\u1ee7a con ngay c\u1ea1nh gi\u01b0\u1eddng",
     "C\u1eadp nh\u1eadt k\u1ebft qu\u1ea3 kinh doanh n\u0103m 2026 - VietstockFinance",
     "SLM Corporation Stock 12\u2011Month Price Target Raised to $24.38, Implies 56% Upside",
@@ -457,6 +451,12 @@
     "M\u1ef9 nh\u00e2n Vi\u1ec7t duy nh\u1ea5t 2 l\u1ea7n d\u1ef1 th\u1ea3m \u0111\u1ecf Weibo, \u0111\u01b0\u1ee3c truy\u1ec1n th\u00f4ng Trung tung h\u00f4 l\u00ea",
     "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
     "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Takeover - ",
-    "I have two children. How can I turn them into millionaires by the time they reti"
+    "I have two children. How can I turn them into millionaires by the time they reti",
+    "V\u00e9 m\u00e1y bay T\u1ebft \u0110inh M\u00f9i 2027 cho c\u00f3 th\u1ec3 v\u01b0\u1ee3t 40 tri\u1ec7u \u0111\u1ed3ng, nhi\u1ec1u gia \u0111\u00ecnh \u0111\u1ed5i s",
+    "VCG: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam - VINACONEX.,JSC -",
+    "Nasdaq futures climb on optimism ahead of Anthropic's market debut - TradingView",
+    "This closely watched investing guru just sold all of his stocks",
+    "Walmart hikes outlook, as CEO tells CNBC retailer aims to keep prices low despit",
+    "Robot vessels take on the dangerous work of mine hunting"
   ]
 }
