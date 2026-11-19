@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795124022.5203602,
-  "last_bot4": 1795128349.1752553,
+  "last_bot4": 1795129285.63996,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795128349.175167
+    "Gold": 1795129285.6398735
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795128947.6492305,
+  "last_signals": 1795129285.6406007,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -124,8 +124,8 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795128350.6185553,
-    "Bitcoin|4H:bot": 1795113158.3869355,
-    "EUR/USD|4H:bot": 1795128948.7287278,
+    "Bitcoin|4H:bot": 1795129286.8858066,
+    "EUR/USD|4H:bot": 1795129288.4747636,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795128948.3047564,
+    "Ethereum|4H:bot": 1795129287.2851985,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795128948.007458,
+    "USOIL|1D:bot": 1795129286.4745243,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795128657.3827982,
-  "last_news": 1795128947.648673,
+  "last_analysis": 1795129260.7487302,
+  "last_news": 1795129283.6994326,
   "seen_news": [
-    "Initial jobless claims unexpectedly increase in past week - TradingView",
-    "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
-    "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-    "The tech helping crack decades-old cold cases",
-    "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse",
-    "US gas exporters more comfortable signing European deals after EU delays methane",
     "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold",
     "Increase in direct cremations since pandemic",
     "Australia Explores Gas Phase-Out Deal in Talks on Reservation Scheme",
@@ -457,6 +451,12 @@
     "Ch\u1ec9 c\u1ea7n nh\u00ecn ng\u01b0\u1eddi \u0111\u00f3n con tan h\u1ecdc l\u00e0 bi\u1ebft ngay ho\u00e0n c\u1ea3nh gia \u0111\u00ecnh: Ki\u1ec3u cu\u1ed1i c\u00f9",
     "C\u1eadp nh\u1eadt k\u1ebft qu\u1ea3 kinh doanh n\u0103m 2026 - VietstockFinance",
     "Helmerich & Payne FY 2026: Revenue $4.08B, EPS ($5.72) \u2014 10-K Summary - TradingV",
-    "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies"
+    "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies",
+    "Canada October producer price index +12.6% vs +14.5% y/y prior",
+    "L\u00e3nh \u0111\u1ea1o Trung - Nga - M\u1ef9 th\u1ed1ng nh\u1ea5t nh\u1eefng v\u1ea5n \u0111\u1ec1 g\u00ec t\u1ea1i Th\u00e2m Quy\u1ebfn?",
+    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "What's Going On With Dell Technologies Stock Thursday? - TradingView",
+    "Family offices move more money into stocks, hedge AI risk, according to CNBC Fam",
+    "Security flaw found in Java, world's third-largest programming language"
   ]
 }
