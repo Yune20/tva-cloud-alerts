@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795078359.4298878,
+  "last_signals": 1795078978.2896311,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795078360.5630443,
-    "EUR/USD|1D:bot": 1795078360.340904,
+    "DXY|1D:top": 1795078980.6416774,
+    "EUR/USD|1D:bot": 1795078980.145718,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795078359.8168426,
+    "Bitcoin|1D:bot": 1795078979.1364617,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795078353.202113,
-  "last_news": 1795078359.4291804,
+  "last_analysis": 1795078970.1079483,
+  "last_news": 1795078978.289058,
   "seen_news": [
-    "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
-    "S\u1ebfp VinFast: C\u00e2n nh\u1eafc xu\u1ea5t kh\u1ea9u xe t\u1eeb Indonesia",
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "F: Layered protections underpin retail, REV, lease and floorplan ABS funding - T",
-    "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-    "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "Democrats Could Slow Venezuela\u2019s Push Toward 3 Million Bpd",
     "GBP/USD slide driven by dollar strength, not sterling weakness",
     "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflati",
@@ -457,6 +451,12 @@
     "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives",
     "C\u00f4ng an ki\u1ec3m tra 50 c\u00f4ng nh\u00e2n c\u1ee7a 1 c\u00f4ng ty",
     "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
-    "REG - HICL Infrastructure - Second Quarterly Interim Dividend - TradingView"
+    "REG - HICL Infrastructure - Second Quarterly Interim Dividend - TradingView",
+    "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over ",
+    "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear",
+    "Why has Waymo pulled all its driverless cars from US freeways?",
+    "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
+    "Evotec shares rise after second IND acceptance with Bristol Myers",
+    "Australian unemployment jumps to 4.9% as jobs fall 43,500, taking RBA hikes off "
   ]
 }
