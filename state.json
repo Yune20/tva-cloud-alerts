@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795102183.334369,
-  "last_bot4": 1795105964.0588498,
+  "last_bot4": 1795106629.813418,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795105964.059429,
+  "last_signals": 1795106629.8140602,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -119,8 +119,8 @@
     "Ethereum|4H:top": 1793836359.7262256,
     "Gold|4H:top": 1794276120.30651,
     "Bitcoin|4H:top": 1793299861.0619802,
-    "USD/JPY|4H:top": 1795105965.11776,
-    "JPY Index|4H:top": 1795105965.4788764,
+    "USD/JPY|4H:top": 1795106630.9492295,
+    "JPY Index|4H:top": 1795106631.2313278,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795072047.7312384,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795105964.9886014,
+    "EUR/USD|1D:bot": 1795106630.8228855,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795105964.4462152,
+    "Bitcoin|1D:bot": 1795106630.2685437,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795105964.3123295,
+    "USOIL|1D:bot": 1795106630.135908,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795106264.5210752,
-  "last_news": 1795105961.0811849,
+  "last_analysis": 1795106621.7831988,
+  "last_news": 1795106629.8127496,
   "seen_news": [
-    "Europe plans to catch the next computer chip wave",
-    "Toyota to recall over 314,000 US vehicles over Takata air bag rupture risk, NHTS",
-    "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives",
-    "C\u00f4ng an ki\u1ec3m tra 50 c\u00f4ng nh\u00e2n c\u1ee7a 1 c\u00f4ng ty",
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
-    "REG - HICL Infrastructure - Second Quarterly Interim Dividend - TradingView",
     "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over ",
     "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear",
     "Why has Waymo pulled all its driverless cars from US freeways?",
@@ -457,6 +451,12 @@
     "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
     "Visa, Mastercard and JPMorgan customer data leaked in third-party cyberattack",
-    "The broader indices are benefiting from the Anthropic enthusiasm, but there is w"
+    "The broader indices are benefiting from the Anthropic enthusiasm, but there is w",
+    "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our ",
+    "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we",
+    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "Dollar index hits 52-week high, driven by haven demand and rate expectations",
+    "Walmart continues the relatively upbeat commentary on consumers",
+    "Profile c\u1ee7a n\u1eef PGS.TS B\u1ec7nh vi\u1ec7n B\u1ea1ch Mai \u0111ang viral v\u1edbi 1,2 tri\u1ec7u view: H\u1ecdc t\u1eadp "
   ]
 }
