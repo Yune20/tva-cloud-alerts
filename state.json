@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795088041.5649433,
+  "last_signals": 1795088651.4066403,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795088042.7406082,
-    "EUR/USD|1D:bot": 1795088042.5119839,
+    "DXY|1D:top": 1795088654.7096364,
+    "EUR/USD|1D:bot": 1795088653.9833252,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795088041.98406,
+    "Bitcoin|1D:bot": 1795088652.5032632,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795088034.0710955,
-  "last_news": 1795088041.5643477,
+  "last_analysis": 1795088641.4311078,
+  "last_news": 1795088651.405961,
   "seen_news": [
-    "Read Jim Cramer\u2019s full interview with Nvidia\u2019s Colette Kress: Demand, buybacks a",
-    "How high is UK inflation and how will you be affected?",
-    "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
-    "ETH whales keep buying through the slide while bitcoin whales send coins to exch",
-    "C\u00f3 100 tri\u1ec7u \u0111\u1ed3ng, n\u00ean mua v\u00e0ng m\u1ed9t l\u1ea7n hay mua d\u1ea7n?",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
     "Anthropic clinches biggest IPO ever with $81 billion offering",
     "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day ai",
     "45 m\u1ef9 nh\u00e2n \u0111\u01b0\u1ee3c g\u1ecdi t\u00ean l\u00e0m Bond Girl, khi\u1ebfn James Bond ph\u1ea3i d\u00e8 ch\u1eebng: Zendaya q",
@@ -457,6 +451,12 @@
     "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the othe",
     "Minh H\u1eb1ng m\u1eb7c \u0111\u1eb9p qu\u00ean tu\u1ed5i t\u00e1c, b\u1ea3o g\u00e1i 20+ kh\u1ed1i ng\u01b0\u1eddi tin",
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
-    "BTIG maintains Palo Alto Networks at Buy, raises price target to $442 from $425 "
+    "BTIG maintains Palo Alto Networks at Buy, raises price target to $442 from $425 ",
+    "Musk says Anthropic wants another 10 gigawatts of SpaceX compute, over 30 times ",
+    "T\u1ed5ng B\u00ed th\u01b0, Ch\u1ee7 t\u1ecbch n\u01b0\u1edbc T\u00f4 L\u00e2m nh\u1eafc t\u00ean Viettel, VinFast, FPT, THACO, Vinamil",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: C\u00e1n c\u00e2n th\u01b0\u01a1ng m\u1ea1i b\u1ee9t ph\u00e1 - c\u01a1 h\u1ed9i n\u00e0o cho Th\u1ee7y s\u1ea3n v\u00e0 D\u1ec7t may? ",
+    "Magnum Posts Q3 2026 Revenue Of 521.6 Million RGT - TradingView",
+    "This closely-watched investing guru just sold all of his stocks",
+    "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands"
   ]
 }
