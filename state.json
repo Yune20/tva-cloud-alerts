@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795080211.6003785,
+  "last_signals": 1795080829.5720658,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -75,7 +75,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": true,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795080212.7003686,
-    "EUR/USD|1D:bot": 1795080212.4593468,
+    "DXY|1D:top": 1795080830.6909711,
+    "EUR/USD|1D:bot": 1795080830.4440384,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795080211.9809084,
+    "Bitcoin|1D:bot": 1795080829.972535,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795080508.707643,
-  "last_news": 1795080207.4575946,
+  "last_analysis": 1795080822.3910098,
+  "last_news": 1795080829.5712268,
   "seen_news": [
-    "Bubba Goodcrumb Black Friday Sale: 30% Off Sitewide Through Cyber Monday - Tradi",
-    "Jeffries wins Democratic House speaker race, on track to make history in January",
-    "The engine parts that 'fight the laws of the universe'",
-    "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an \u201cAcquisition\u201d",
-    "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-    "Japan machinery orders up 13.4% y/y: what this early capex signal tells you",
     "Investigators make progress in hunt for cause of FAA ground stop",
     "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "Inside the Army\u2019s 75 Year Plan to Escape China\u2019s Rare Earth Dominance",
@@ -457,6 +451,12 @@
     "Anthropic huy \u0111\u1ed9ng 81 t\u1ef7 USD trong th\u01b0\u01a1ng v\u1ee5 IPO k\u1ef7 l\u1ee5c th\u1ebf gi\u1edbi",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "RVRC Q1 2027 Earnings Call Is Live - TradingView",
-    "Here\u2019s the precise moment when cyberattacks started increasing exponentially"
+    "Here\u2019s the precise moment when cyberattacks started increasing exponentially",
+    "Democrats Could Slow Venezuela\u2019s Push Toward 3 Million Bpd",
+    "Euro yields idle near 1-month peaks on hawkish Fed and ECB rhetoric trap",
+    "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflati",
+    "Bitcoin, ETH lao d\u1ed1c, c\u1ed5 phi\u1ebfu AI suy gi\u1ea3m: D\u00f2ng ti\u1ec1n \u0111ang \u0111\u1ed5 v\u1ec1 \u0111\u00e2u?",
+    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
+    "GomSpace Group AB (GOMX) Secures 8 MEUR Lunar Mission Contract - TradingView"
   ]
 }
