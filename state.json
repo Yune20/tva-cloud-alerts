@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795089634.207456,
+  "last_signals": 1795090254.688439,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795053378.116071,
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795089635.409201,
-    "EUR/USD|1D:bot": 1795089635.1654074,
+    "DXY|1D:top": 1795090257.604585,
+    "EUR/USD|1D:bot": 1795090257.0033684,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795089634.5879202,
+    "Bitcoin|1D:bot": 1795090255.6448274,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795089626.29735,
-  "last_news": 1795089634.2064137,
+  "last_analysis": 1795090245.9188797,
+  "last_news": 1795090254.6876986,
   "seen_news": [
-    "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
-    "Tuy\u1ebfn cao t\u1ed1c 415km \u0111\u01b0\u1ee3c t\u1ef7 ph\u00fa \"\u0103n chay\" Xu\u00e2n Tr\u01b0\u1eddng \u0111\u1ec1 xu\u1ea5t r\u00f3t 72.000 t\u1ef7 \u0111\u1ed3ng",
-    "Putin says EU is losing industry, falling behind competition, ahead of meeting w",
-    "Waymo pulls driverless taxis from all US freeways",
-    "Dollar hits fresh 19-mth peak on hawkish Fed; Aussie slides after weak jobs data",
-    "What are the main events for today?",
     "The Indian workers filming their work to train AI",
     "Sterling today: Pound slips as U.S. rate bets outweigh UK CPI rise to 3.6%",
     "UK October CPI +3.6% vs +3.6% y/y expected",
@@ -457,6 +451,12 @@
     "How high is UK inflation and how will you be affected?",
     "The AI boom is keeping the dollar strong: What comes next in 2027?",
     "ETH whales keep buying through the slide while bitcoin whales send coins to exch",
-    "B\u1ecb sa th\u1ea3i xong kh\u00f4ng \u0111i l\u00e0m v\u0103n ph\u00f2ng n\u1eefa, h\u1ecd \u0111ang ki\u1ebfm ti\u1ec1n th\u1ebf n\u00e0o?"
+    "B\u1ecb sa th\u1ea3i xong kh\u00f4ng \u0111i l\u00e0m v\u0103n ph\u00f2ng n\u1eefa, h\u1ecd \u0111ang ki\u1ebfm ti\u1ec1n th\u1ebf n\u00e0o?",
+    "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
+    "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
+    "ActivTrades Relaunches ActivPartner: A Partner Programme Built Around Each Partn",
+    "\u0110\u1ebfn Trung Qu\u1ed1c d\u1ef1 APEC, Th\u1ee7 t\u01b0\u1edbng Th\u00e1i Lan li\u1ec1n n\u00f3i ti\u1ebfng Qu\u1ea3ng \u0110\u00f4ng: \u0110\u01b0\u1ee3c h\u1ecfi '",
+    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance"
   ]
 }
