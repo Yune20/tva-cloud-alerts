@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1795091165.565242,
+  "last_news_report": 1795102183.334369,
   "last_bot4": 1795101856.013179,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795101564.0376556,
+  "last_signals": 1795102183.335235,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795101564.9701855,
+    "EUR/USD|1D:bot": 1795102185.3264875,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -140,7 +140,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795101564.4408715,
+    "Bitcoin|1D:bot": 1795102184.1749797,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795101564.3029523,
+    "USOIL|1D:bot": 1795102183.8896947,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795101555.0381627,
-  "last_news": 1795101564.0369945,
+  "last_analysis": 1795102169.168138,
+  "last_news": 1795102178.3672283,
   "seen_news": [
-    "Anthropic IPO raises over $81 billion in largest offering on record, topping Spa",
-    "Gilts v kilts: What is happening with Scottish government bonds?",
-    "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
-    "Tesla to continue increasing China production, state media reports",
-    "Japan\u2019s trade deficit comes in at half the expected size as exports jump 20.5%",
-    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 \u00f4 t\u00f4, xe m\u00e1y ch\u00fa \u00fd \u0111\u1ec1 xu\u1ea5t quy \u0111\u1ecbnh m\u1edbi nh\u1ea5t t\u1eeb B\u1ed9 C\u00f4ng an v",
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "News by CNBC TV18 on TradingView, 2026-11-19 \u2014 cnbctv:2696ea9ee094b:0 - TradingV",
     "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
@@ -457,6 +451,12 @@
     "Strong Anthropic IPO gives new life to the AI trade. Shares indicated to open at",
     "Kh\u00f3i \u0111en cu\u1ed3n cu\u1ed9n bao tr\u00f9m nh\u00e0 kho c\u00f4ng ty nh\u1ef1a \u1edf T\u00e2y Ninh",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
-    "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView"
+    "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView",
+    "Traders in new market bet on big IPO pop for Anthropic",
+    "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "Insmed shares jump more than 6% on report Sanofi is weighing acquisition",
+    "Bitcoin buyers make a play off swing area support.  What do buyers have to do to",
+    "Nh\u1eefng \u0111\u1ed3ng ti\u1ec1n l\u00e2u \u0111\u1eddi nh\u1ea5t c\u00f2n l\u01b0u h\u00e0nh tr\u00ean th\u1ebf gi\u1edbi",
+    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance"
   ]
 }
