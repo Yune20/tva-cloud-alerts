@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795069228.1399019,
-  "last_bot4": 1795072648.0246553,
+  "last_bot4": 1795073394.8660188,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795071752.5545843
+    "Gold": 1795073394.86593
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795073025.797913,
+  "last_signals": 1795073394.8667464,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795071441.5493846,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -85,7 +85,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": false,
+    "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -129,7 +129,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1794980039.4820323,
-    "EUR/USD|1D:bot": 1795073026.789907,
+    "EUR/USD|1D:bot": 1795073397.107375,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -141,7 +141,7 @@
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795073026.2113748,
+    "Bitcoin|1D:bot": 1795073395.859717,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -156,15 +156,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795073019.7401042,
-  "last_news": 1795073025.797168,
+  "last_analysis": 1795073382.5244112,
+  "last_news": 1795073391.8903217,
   "seen_news": [
-    "4 con gi\u00e1p c\u00f3 c\u00e1t tinh h\u1ed7 tr\u1ee3, gi\u00e0u n\u1ee9t \u0111\u1ed1 \u0111\u1ed5 v\u00e1ch trong th\u00e1ng 10 \u00e2m",
-    "GMD: CTCP T\u1eadp \u0111o\u00e0n Gemadept - T\u1eadp \u0111o\u00e0n Gemadept - VietstockFinance",
-    "Minnesota abortion laws face novel constitutional challenge at US appeals court ",
-    "Anthropic IPO raises over $81 billion in largest offering on record, topping Spa",
-    "Claude-maker Anthropic poised for $1.4tn stock market debut",
-    "Exclusive-UniCredit and Germany reach broad agreement on Commerzbank takeover",
     "Brazil Senate approves fiscal package as government seeks to calm markets - Trad",
     "Vance scraps schedule to address tech outages as Trump admin insists incidents a",
     "How important are Nvidia and Jensen Huang to the US economy?",
@@ -458,6 +452,12 @@
     "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
     "U.S. Treasury yields catch their breath near one-month highs",
     "BOJ tipped to hike to 1.50% in December, its first three-hike year in 37 years",
-    "MoMo \u0111ang gi\u1ea3m 10.000 - 200.000 \u0111\u1ed3ng cho h\u00e0ng tri\u1ec7u ng\u01b0\u1eddi chuy\u1ec3n ti\u1ec1n, mua s\u1eafm, "
+    "MoMo \u0111ang gi\u1ea3m 10.000 - 200.000 \u0111\u1ed3ng cho h\u00e0ng tri\u1ec7u ng\u01b0\u1eddi chuy\u1ec3n ti\u1ec1n, mua s\u1eafm, ",
+    "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+    "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+    "Asia stocks slide as Taiwan drops 4%, AI jitters blunt Anthropic IPO optimism",
+    "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs",
+    "B\u1ea7u \u0110\u1ee9c r\u00f3t ti\u1ec1n v\u00e0o m\u1ed9t l\u0129nh v\u1ef1c ho\u00e0n to\u00e0n m\u1edbi",
+    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance"
   ]
 }
