@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795118457.938907,
+  "last_signals": 1795119102.9146764,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -81,13 +81,13 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
-    "USD/JPY|4H": false,
+    "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": true,
-    "JPY Index|4H": false,
+    "JPY Index|4H": true,
     "JPY Index|1D": false
   },
   "chain_lease_until": 1795119349,
@@ -128,7 +128,7 @@
     "EUR/USD|4H:bot": 1795071442.4780033,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
-    "EUR/USD|1D:bot": 1795118460.7658134,
+    "EUR/USD|1D:bot": 1795119103.9783313,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795118764.7186873,
-  "last_news": 1795118457.9381888,
+  "last_analysis": 1795119097.4459698,
+  "last_news": 1795119102.9140983,
   "seen_news": [
-    "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-    "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
-    "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
-    "ActivTrades Relaunches ActivPartner: A Partner Programme Built Around Each Partn",
-    "\u0110\u1ebfn Trung Qu\u1ed1c d\u1ef1 APEC, Th\u1ee7 t\u01b0\u1edbng Th\u00e1i Lan li\u1ec1n n\u00f3i ti\u1ebfng Qu\u1ea3ng \u0110\u00f4ng: \u0110\u01b0\u1ee3c h\u1ecfi '",
-    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance",
     "Solana's downtrend remains intact despite easing selling pressure. What could ch",
     "T\u00e2m tr\u1ea1ng c\u1ee7a ng\u01b0\u1eddi c\u1ee9 mua v\u00e0ng xong l\u00e0 gi\u00e1 gi\u1ea3m: Chuy\u00ean gia nh\u1eafc 1 vi\u1ec7c!",
     "TCB: Ng\u00e2n h\u00e0ng TMCP K\u1ef9 th\u01b0\u01a1ng Vi\u1ec7t Nam - TECHCOMBANK - Th\u1ed1ng k\u00ea giao d\u1ecbch - Viet",
@@ -457,6 +451,12 @@
     "Why are more roofs not made of solar tiles?",
     "Wall Street slides as questions over AI trade linger despite record Anthropic IP",
     "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs",
-    "FPT t\u0103ng gi\u00e1 9% v\u1edbi 55 kh\u00e1ch h\u00e0ng Nh\u1eadt B\u1ea3n khi\u1ebfn doanh thu k\u00fd m\u1edbi ch\u1eadm l\u1ea1i, th\u00eam"
+    "FPT t\u0103ng gi\u00e1 9% v\u1edbi 55 kh\u00e1ch h\u00e0ng Nh\u1eadt B\u1ea3n khi\u1ebfn doanh thu k\u00fd m\u1edbi ch\u1eadm l\u1ea1i, th\u00eam",
+    "C\u1ef1u sinh vi\u00ean B\u00e1ch khoa t\u1ed1t nghi\u1ec7p Ti\u1ebfn s\u0129 \u0110H top 2 Nh\u1eadt B\u1ea3n, v\u1ec1 \u0111\u1ea7u qu\u00e2n cho ng",
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
+    "Michael Burry Zeroes In on One AI Giant's $500 Billion Push - TradingView",
+    "Intel signs first external customer for advanced 18A chips",
+    "How high is UK inflation and how will you be affected?",
+    "The AI boom is keeping the dollar strong: What comes next in 2027?"
   ]
 }
