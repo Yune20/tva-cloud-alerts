@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795140260.3546114,
+  "last_signals": 1795140872.137855,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795136791.931478,
+    "DXY|4H:top": 1795140874.5613189,
     "Bitcoin|4H:bot": 1795139041.4300306,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795129286.4745243,
+    "USOIL|1D:bot": 1795140872.6627514,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795140253.018575,
-  "last_news": 1795140260.3539717,
+  "last_analysis": 1795140863.3615716,
+  "last_news": 1795140872.1370363,
   "seen_news": [
-    "The engine parts that 'fight the laws of the universe'",
-    "Exclusive: Upstart CEO sees path to high growth as business transforms",
-    "Fed's Goolsbee: Job market is stable, but inflation is \"way higher\" than Fed's 2",
-    "Ng\u00e0y 20/11, g\u1eedi d\u01b0\u1edbi 100 tri\u1ec7u \u0111\u1ed3ng k\u1ef3 h\u1ea1n 12 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank,",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Implantica Q3 2026 Earnings Call Is Live - TradingView",
     "US stocks race lower.  There is some market indigestion from the Anthropic IPO",
     "Vi\u1ec7t Nam c\u00f3 ng\u01b0\u1eddi th\u1ea7y \u0111\u1eb7c bi\u1ec7t ch\u1ec9 d\u1ea1y h\u1ecdc 5 n\u0103m, sau \u0111\u00f3 b\u1ea5t ng\u1edd ngh\u1ec9 vi\u1ec7c \u0111i \u0111",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -457,6 +451,12 @@
     "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView",
     "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate h",
     "How important are Nvidia and Jensen Huang to the US economy?",
-    "Australia\u2019s NextDC faces \u2019second strike\u2019 on pay report, shares fall"
+    "Australia\u2019s NextDC faces \u2019second strike\u2019 on pay report, shares fall",
+    "7,000 Egyptian Factories Will Soon Be Solar-powered",
+    "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
+    "ICYMI: AMD slides 8% as short seller Hunterbrook ties its firmware to a blacklis",
+    "Nh\u00e0 m\u00e1y th\u1ee7y \u0111i\u1ec7n n\u1eb1m trong l\u00f2ng n\u00fai \u1edf Vi\u1ec7t Nam: Ph\u00eda tr\u00ean l\u00e0 l\u1edbp \u0111\u00e1 ph\u1ee7 h\u01a1n 1.0",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Solo Brands (SBDS) Launches Lloyd 2.0 Fireplace at $549.99 - TradingView"
   ]
 }
