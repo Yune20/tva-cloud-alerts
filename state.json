@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795169025.0246992,
+  "last_signals": 1795169636.1856277,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795147432.6715949,
+    "5575146754|Gold|1D|dn": 1795169636.1856277,
     "5575146754|Gold|1D|trap_dn": 1795075551.351679
   },
   "sig_range": {
@@ -78,7 +78,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -126,8 +126,8 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795169025.5757744,
-    "DXY|1D:top": 1795169026.2780263,
+    "Ethereum|1D:bot": 1795169636.7422528,
+    "DXY|1D:top": 1795169637.3939571,
     "EUR/USD|1D:bot": 1795169026.0247884,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795169017.2795947,
-  "last_news": 1795169025.023658,
+  "last_analysis": 1795169629.2886171,
+  "last_news": 1795169636.1848433,
   "seen_news": [
-    "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, ",
-    "Poland's Tusk: It doesn't look probable that Russia will be ready to negotiate p",
-    "Quy ho\u1ea1ch s\u00f4ng H\u1ed3ng: \u0110\u1ed9ng l\u1ef1c ph\u00e1t tri\u1ec3n m\u1edbi c\u1ee7a Th\u1ee7 \u0111\u00f4 t\u1eeb h\u1ed9i t\u1ee5 h\u1ec7 th\u1ed1ng giao ",
-    "Ch\u1ee9ng quy\u1ec1n ACB.6M.SSV.C.EU.Cash.26.03 HOSE: CACB2633 - VietstockFinance",
-    "DDMP REIT Posts QTRLY Net Income Attributable 420.3 Million Pesos - TradingView",
-    "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
     "Chuy\u1ec7n ch\u01b0a t\u1eebng k\u1ec3 v\u1ec1 nh\u1eefng nh\u00e0 gi\u00e1o r\u1eddi b\u1ee5c gi\u1ea3ng \u0111\u1ec3 l\u1eadp n\u00ean ng\u00e2n h\u00e0ng t\u1ea7m c\u1ee1,",
     "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
     "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView",
@@ -457,6 +451,12 @@
     "Bitcoin extends losses as growth concerns increase amid stock market rout. What ",
     "Cen Land tho\u00e1i v\u1ed1n t\u1ea1i m\u1ed9t c\u00f4ng ty con",
     "H\u1ee3p \u0111\u1ed3ng t\u01b0\u01a1ng lai - VietstockFinance",
-    "Energiekontor AG (EKT) Analyst Cuts Price Target to \u20ac42 From \u20ac49 - TradingView"
+    "Energiekontor AG (EKT) Analyst Cuts Price Target to \u20ac42 From \u20ac49 - TradingView",
+    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "Dollar takes a breather near 19-month peak; Yen jumps on hot CPI",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6731 \u2013 Reuters estimate",
+    "Thu ng\u00e2n s\u00e1ch \u0111\u1ea1t 99,9% d\u1ef1 to\u00e1n, nhi\u1ec1u \u0111\u1ecba ph\u01b0\u01a1ng v\u1ec1 \u0111\u00edch s\u1edbm",
+    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Official List Notice - TradingView"
   ]
 }
