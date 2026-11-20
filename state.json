@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795187176.7202086,
+  "last_signals": 1795187787.3632667,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -71,13 +71,13 @@
     "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
-    "US30|1H": true,
+    "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795187178.8497288,
-    "EUR/USD|1D:bot": 1795187178.2488647,
+    "DXY|1D:top": 1795187789.9330776,
+    "EUR/USD|1D:bot": 1795187789.4259624,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795187168.4614756,
-  "last_news": 1795187176.7182672,
+  "last_analysis": 1795187778.6388347,
+  "last_news": 1795187787.3624926,
   "seen_news": [
-    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
-    "Arbitrum to Close Applications for Mentorship Cohort 2 on December 6th - Trading",
-    "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies",
-    "3-step method to influence people and win them over, from a Stanford expert: \u2018Yo",
-    "Speed camera fault may have allowed drivers to escape fines",
-    "Dollar holds near 19-mth peak amid Fed tightening bets; Aussie hits 11-mth low",
     "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "Isofol to present at upcoming investor meetings in December - TradingView",
     "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stoc",
@@ -457,6 +451,12 @@
     "MedLife Q3 2026 Earnings Call Is Live - TradingView",
     "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from t",
     "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r"
+    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r",
+    "Belite Bio shares slide as FDA extends tinlarebant review by three months",
+    "Bitcoin tests key swing area low. A break below will target the 2026 lows",
+    "Chu\u1ea9n b\u1ecb \u0111\u00f3ng c\u1eeda bi\u00ean gi\u1edbi v\u1edbi Nga trong 6 th\u00e1ng, n\u01b0\u1edbc l\u00e1ng gi\u1ec1ng EU th\u1eeba nh\u1eadn ",
+    "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
+    "Why are Micron and SanDisk stocks plunging sharply in premarket today? - Trading",
+    "Bitcoin's regulation bull case is played out. What could drive crypto gains movi"
   ]
 }
