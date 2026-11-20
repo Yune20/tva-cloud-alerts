@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795182785.3913183,
+  "last_signals": 1795183390.2939692,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -75,7 +75,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -124,11 +124,11 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795158200.6377797,
-    "Bitcoin|4H:bot": 1795182785.8044815,
+    "Bitcoin|4H:bot": 1795183391.2953672,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795182785.990799,
-    "DXY|1D:top": 1795182786.9031396,
-    "EUR/USD|1D:bot": 1795182786.625122,
+    "Ethereum|1D:bot": 1795183391.6588802,
+    "DXY|1D:top": 1795183393.4679344,
+    "EUR/USD|1D:bot": 1795183392.7845857,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795182779.5684834,
-  "last_news": 1795182785.390746,
+  "last_analysis": 1795183383.4261737,
+  "last_news": 1795183390.290188,
   "seen_news": [
-    "Hall Chadwick Adds $15 Million PIPE Financing for REEcycle Business Combination ",
-    "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
-    "Why is the Japanese yen rising today?",
-    "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount",
     "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
     "GTA 6 breaks records as estimated sales top $2.3bn",
     "Taiwan stocks lower at close of trade; Taiwan Weighted down 6.63%",
@@ -457,6 +451,12 @@
     "Fish and eggs al desko? The dos and don'ts of lunch at work",
     "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
     "What are the main events for today?",
-    "Nh\u00e2n vi\u00ean t\u1eed vong khi \u0111\u00f3ng vai ma treo c\u1ed5, ch\u1ee7 c\u01a1 s\u1edf escape room b\u1ecb truy t\u1ed1"
+    "Nh\u00e2n vi\u00ean t\u1eed vong khi \u0111\u00f3ng vai ma treo c\u1ed5, ch\u1ee7 c\u01a1 s\u1edf escape room b\u1ecb truy t\u1ed1",
+    "These little-known investments could be among the best bargains in a crash",
+    "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
+    "Robot vessels take on the dangerous work of mine hunting",
+    "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+    "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs ",
+    "C\u1eb7p \u0111\u00f4i Vbiz l\u1ec7ch 6 tu\u1ed5i sang t\u1eadn Maldives h\u1eb9n h\u00f2"
   ]
 }
