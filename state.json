@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795172714.4796386,
+  "last_signals": 1795173312.1790695,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
@@ -126,7 +126,7 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795172715.3386898,
+    "Ethereum|1D:bot": 1795173312.6889422,
     "DXY|1D:top": 1795170244.6581948,
     "EUR/USD|1D:bot": 1795169026.0247884,
     "US30|1D:top": 1792595589.8777509,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1795164989.080409,
+    "USOIL|4H:bot": 1795173312.4081085,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795172706.0164833,
-  "last_news": 1795172714.4788797,
+  "last_analysis": 1795173303.758329,
+  "last_news": 1795173312.178412,
   "seen_news": [
-    "Trafigura Not Rushing to Alternative Marine Fuels",
-    "Sterling today: Pound flat as dollar holds firm; UK Gen Z confidence slumps",
-    "PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)",
-    "Dow Jones lao d\u1ed1c h\u01a1n 1.100 \u0111i\u1ec3m, S&P 500 s\u1ee5t 6 phi\u00ean li\u00ean ti\u1ebfp, k\u00e9o theo TTCK c",
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
-    "Needham maintains McGraw Hill at Buy, keeps price target at $19 - TradingView",
     "+82% since entry - a cloud software name our models picked keeps climbing",
     "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
     "T\u1eadp \u0111o\u00e0n \u0110\u00e0i Loan (Trung Qu\u1ed1c) c\u00f3 si\u00eau t\u1ed5 h\u1ee3p kh\u1ed5ng l\u1ed3 h\u01a1n 3.300 ha ven bi\u1ec3n Mi\u1ec1",
@@ -457,6 +451,12 @@
     "ES: S&P 500 Futures Slip as Global Selloff Deepens. Index Falls Through Long-Ter",
     "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retireme",
     "Anthropic defies the odds, holding record IPO despite \u2018massively disruptive\u2019 mar",
-    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon"
+    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon",
+    "Oasis Harvest Corporation Reports Q3 Revenue 12.85 Million RGT - TradingView",
+    "Apple seems to be building its own AI agent. This could be bad news for Meta\u2019s M",
+    "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+    "Anthropic raises $81bn in record-breaking stock market debut",
+    "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
+    "Elev8 launches CFD trading on Anthropic, PBC (ANT) following historic IPO"
   ]
 }
