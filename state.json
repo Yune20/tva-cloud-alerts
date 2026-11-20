@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795187787.3632667,
+  "last_signals": 1795188400.5828304,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,10 +74,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795187789.9330776,
-    "EUR/USD|1D:bot": 1795187789.4259624,
+    "DXY|1D:top": 1795188403.0937905,
+    "EUR/USD|1D:bot": 1795188402.6186807,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795187778.6388347,
-  "last_news": 1795187787.3624926,
+  "last_analysis": 1795188391.0387316,
+  "last_news": 1795188400.5822105,
   "seen_news": [
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Isofol to present at upcoming investor meetings in December - TradingView",
-    "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stoc",
-    "Security flaw found in Java, world's third-largest programming language",
-    "Japan stocks lower at close of trade; Nikkei 225 down 4.77%",
-    "Canada October producer price index +12.6% vs +14.5% y/y prior",
     "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
     "As tech stocks go on sale, don\u2019t wait for Black Friday to get 55% off InvestingP",
     "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs",
@@ -457,6 +451,12 @@
     "Chu\u1ea9n b\u1ecb \u0111\u00f3ng c\u1eeda bi\u00ean gi\u1edbi v\u1edbi Nga trong 6 th\u00e1ng, n\u01b0\u1edbc l\u00e1ng gi\u1ec1ng EU th\u1eeba nh\u1eadn ",
     "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
     "Why are Micron and SanDisk stocks plunging sharply in premarket today? - Trading",
-    "Bitcoin's regulation bull case is played out. What could drive crypto gains movi"
+    "Bitcoin's regulation bull case is played out. What could drive crypto gains movi",
+    "Cathie Wood\u2019s ARK Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018q",
+    "The seven Anthropic founders who are about to become multi-billionaires",
+    "Why is Alphabet stock rallying today?",
+    "Greer says US-China trade truce extension hinges on rare earths",
+    "Nghi\u00eam c\u1ea5m mua b\u00e1n, cho thu\u00ea danh t\u00ednh \u0111i\u1ec7n t\u1eed v\u00e0 s\u1eed d\u1ee5ng AI gi\u1ea3 m\u1ea1o sinh tr\u1eafc h",
+    "TIG: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 Th\u0103ng Long - THANG LONG INVESTGROUP.,JSC - VietstockFi"
   ]
 }
