@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795176801.597615,
+  "last_signals": 1795177467.3958695,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -68,7 +68,7 @@
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1795176801.8522635,
+    "USOIL|4H:bot": 1795177467.904123,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795177104.6025412,
-  "last_news": 1795176801.5970428,
+  "last_analysis": 1795177460.027326,
+  "last_news": 1795177467.394732,
   "seen_news": [
-    "Inside India newsletter: Foreign flows helped the market recover. Now it faces t",
-    "Graduates are managing AI - but are they learning much else?",
-    "Offshore yuan dip looks like a liquidity blip, not a trend shift",
-    "UBS cuts global stocks to Neutral, days after Morgan Stanley went maximum overwe",
-    "Cao Ph\u00fa Qu\u00fd - \u201ccon trai Duy H\u01b0ng\u201d tr\u00ean phim gi\u1edd v\u00e0ng VTV: 12 tu\u1ed5i \u0111\u01b0\u1ee3c trao h\u1ecdc ",
-    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "GTA 6 breaks records as sales top $2.3bn - industry estimate",
     "Exclusive-US should restrict investments in China\u2019s aerospace sector, not certif",
     "No, the Fed isn\u2019t pumping $1.756 billion into markets on Friday morning: what th",
@@ -457,6 +451,12 @@
     "Nasdaq futures falter as Anthropic debut fails to quell AI anxieties",
     "Zcash's bearish trend remains intact as the path to recovery depends on two majo",
     "Chuy\u00ean gia b\u1ea5t \u0111\u1ed9ng s\u1ea3n: N\u1ebfu ch\u1edd l\u00e3i su\u1ea5t gi\u1ea3m th\u00eam 2 \u0111i\u1ec3m ph\u1ea7n tr\u0103m, ng\u01b0\u1eddi mua ",
-    "Ch\u00ednh s\u00e1ch th\u00e0nh vi\u00ean - VietstockFinance"
+    "Ch\u00ednh s\u00e1ch th\u00e0nh vi\u00ean - VietstockFinance",
+    "Barclays upgrades Freenet as better Telef\u00f3nica deal lifts outlook, shares rise",
+    "Is Nvidia stock a buy or sell? My opinion and 'buy the dip' trade plan",
+    "'Ch\u1ed1t' ho\u00e0n t\u1ea5t k\u1ebft qu\u1ea3 ki\u1ec3m tra 15 th\u1eeda \u0111\u1ea5t c\u1ee7a ng\u01b0\u1eddi c\u00f3 ngh\u1ec7 danh L\u00fd Nh\u00e3 K\u1ef3",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
+    "PATRIZIA SE (PAT) Aberdeen Group Falls Below 3% Voting Rights - TradingView",
+    "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that"
   ]
 }
