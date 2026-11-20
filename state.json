@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795179065.3520098,
-  "last_bot4": 1795186512.1594052,
+  "last_bot4": 1795187176.7193024,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795186810.6390376,
+  "last_signals": 1795187176.7202086,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,13 +62,13 @@
     "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": true,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795186812.55888,
-    "EUR/USD|1D:bot": 1795186812.1820955,
+    "DXY|1D:top": 1795187178.8497288,
+    "EUR/USD|1D:bot": 1795187178.2488647,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795186509.0604224,
-  "last_news": 1795186810.638417,
+  "last_analysis": 1795187168.4614756,
+  "last_news": 1795187176.7182672,
   "seen_news": [
-    "The seven Anthropic founders who are about to become multi-billionaires",
-    "Singapore\u2019s DayOne pauses U.S. IPO plans amid AI market volatility - Bloomberg",
-    "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger Dece",
-    "C\u1eadn c\u1ea3nh c\u1ea7u g\u1ed7 Ph\u00fa Ki\u1ec3ng 25 n\u0103m b\u1eafc qua s\u00f4ng C\u00e1i Nha Trang s\u1eafp \u0111\u01b0\u1ee3c thay th\u1ebf",
-    "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
-    "NextPlat Corp (NXPL) Selected for 150-Patient Medicare Pilot - TradingView",
     "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
     "Arbitrum to Close Applications for Mentorship Cohort 2 on December 6th - Trading",
     "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies",
@@ -457,6 +451,12 @@
     "Anthropic becomes one of world's most valuable public companies in stock market ",
     "Historic Superpower Summit Delivers Big Promises but Few Breakthroughs",
     "Apollo-backed insurer Athora weighs sale of Belgian unit, Bloomberg reports",
-    "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks"
+    "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
+    "Th\u00e1ng 10 \u00e2m 2 con gi\u00e1p c\u00f3 c\u00e1t tinh tr\u1ee3 gi\u00fap, ti\u1ec1n b\u1ea1c r\u1ee7ng r\u1ec9nh, 2 con gi\u00e1p l\u1ea1i ",
+    "Th\u1ed1ng k\u00ea giao d\u1ecbch c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "MedLife Q3 2026 Earnings Call Is Live - TradingView",
+    "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from t",
+    "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r"
   ]
 }
