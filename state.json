@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795166821.1180835,
+  "last_signals": 1795167429.840283,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -126,9 +126,9 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795166821.736595,
+    "Ethereum|1D:bot": 1795167430.3580205,
     "DXY|1D:top": 1795164385.672575,
-    "EUR/USD|1D:bot": 1795163772.5629132,
+    "EUR/USD|1D:bot": 1795167430.7794425,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795166814.019159,
-  "last_news": 1795166821.1173563,
+  "last_analysis": 1795167420.911873,
+  "last_news": 1795167429.8395836,
   "seen_news": [
-    "Pro-Palestinian Berkeley Law group sues to regain university recognition - Tradi",
-    "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthro",
-    "Fish and eggs al desko? The dos and don'ts of the lunch break",
-    "Canada Builds an Energy Exit From the U.S.",
-    "Senate Republicans reject legislation to end Iran war",
-    "Japan CPI misses on all three measures, but core stays above 2% ahead of a BoJ h",
     "BOXABL Inc. (BXBL) Q3 Revenue More Than Triples to $578K - TradingView",
     "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savi",
     "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we",
@@ -457,6 +451,12 @@
     "Sterling today: Pound edges up on UK retail beat, dollar caps gains",
     "11-day Bitcoin redemption freeze: the risk hiding inside BTC-backed tokens",
     "D\u1ef1 ki\u1ebfn g\u1ea7n 11.300 t\u1ef7 \u0111\u1ea7u t\u01b0 5 d\u1ef1 \u00e1n giao th\u00f4ng t\u1ea1i Qu\u1ea3ng Tr\u1ecb",
-    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance"
+    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
+    "Dollar index hits 52-week high, driven by haven demand and rate expectations",
+    "Nikkei slides 4.5% and KOSPI tumbles as Wall Street\u2019s AI reversal hits Asian chi",
+    "Nh\u00ecn \u00f4ng b\u1ed1 n\u1ed5i ti\u1ebfng, ti\u1ec1n nhi\u1ec1u nh\u01b0 n\u01b0\u1edbc n\u00e0y m\u1edbi th\u1ea5y: C\u00f3 m\u1ed9t \"l\u1eddi nguy\u1ec1n\" c\u1ea7n",
+    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
+    "Red River Bancshares Declares $0.25 Quarterly Cash Dividend - TradingView",
+    "A CoreWeave co-founder just made an unconventional $30 million wager on its batt"
   ]
 }
