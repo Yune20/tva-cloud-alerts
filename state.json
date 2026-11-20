@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795134876.6757116,
-  "last_bot4": 1795137718.1057947,
+  "last_bot4": 1795138448.0779765,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,11 +29,11 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795138061.683024,
+  "last_signals": 1795138448.079659,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
-    "5575146754|Gold|1H|trap_dn": 1795132383.7358153,
+    "5575146754|Gold|1H|trap_dn": 1795138448.079659,
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -124,7 +124,7 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795136791.931478,
-    "Bitcoin|4H:bot": 1795136790.5264006,
+    "Bitcoin|4H:bot": 1795138448.5467613,
     "EUR/USD|4H:bot": 1795138062.7518408,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795138062.2092018,
+    "Ethereum|4H:bot": 1795138448.6789558,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795138052.2903955,
-  "last_news": 1795138061.6823196,
+  "last_analysis": 1795138408.3078547,
+  "last_news": 1795138416.5758731,
   "seen_news": [
-    "Cathedral's staff review 'difficult but necessary'",
-    "Permian Growth Turns Moderate Despite War",
-    "Euro yields idle near 1-month peaks on hawkish Fed and ECB rhetoric trap",
-    "AMD shares tumble after Hunterbrook flags China export risks. What about the tec",
-    "T\u00e0u bi\u1ec3n kh\u1ed5ng l\u1ed3 tr\u1ecdng t\u1ea3i g\u1ea7n 12.000 t\u1ea5n \u0111\u1ebfn Vi\u1ec7t Nam: D\u00e0i g\u1ea7n 3 s\u00e2n b\u00f3ng \u0111\u00e1, ",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
     "Tr\u1ee5 s\u1edf qu\u1ef9 \u0111\u1ea7u t\u01b0 qu\u1ed1c gia \u1ea2 r\u1eadp X\u00ea \u00fat tr\u00fang t\u00ean l\u1eeda, bi\u1ec3u t\u01b0\u1ee3ng t\u00e0i ch\u00ednh c\u1ee7a \u0111",
     "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
@@ -457,6 +451,12 @@
     "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we",
     "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "US Oil and Gas Deal Boom Lures BMO Back Into the Market",
-    "Wall Street futures fall as Anthropic debut fails to revive AI trade"
+    "Wall Street futures fall as Anthropic debut fails to revive AI trade",
+    "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retireme",
+    "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilate",
+    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "How Energy Security Is Reshaping Global Investment Decisions",
+    "GBP/USD slide driven by dollar strength, not sterling weakness",
+    "PBOC is expected to set the USD/CNY reference rate at 6.6731 \u2013 Reuters estimate"
   ]
 }
