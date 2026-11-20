@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795134876.6757116,
-  "last_bot4": 1795141786.274517,
+  "last_bot4": 1795142466.3060217,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795142100.9809806,
+  "last_signals": 1795142466.3069239,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -123,8 +123,8 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795142102.4391894,
-    "Bitcoin|4H:bot": 1795139041.4300306,
+    "DXY|4H:top": 1795142467.6931958,
+    "Bitcoin|4H:bot": 1795142466.7788477,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795049929.8886595,
+    "GBP/USD|4H:bot": 1795142467.29065,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795142094.5067859,
-  "last_news": 1795142100.980242,
+  "last_analysis": 1795142459.811479,
+  "last_news": 1795142466.3053339,
   "seen_news": [
-    "AMD Stock Falls After Hunterbrook Raises China Export Concerns - TradingView",
-    "Forget data centers. The next great AI stocks are hiding in plain sight in these",
-    "Amid recent banking outages, should you start carrying cash again? Top advisors ",
-    "Graduates are managing AI - but are they learning much else?",
-    "Trafigura Not Rushing to Alternative Marine Fuels",
-    "Sterling today: Pound flat as dollar holds firm; UK Gen Z confidence slumps",
     "Denmark ratifies Trump security deal over Greenland after months of diplomatic t",
     "How video game remakes tap the power of nostalgia",
     "India\u2019s Oil Imports Hit Record High as Saudi Shipments Surge",
@@ -457,6 +451,12 @@
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
     "Edgewater Wireless Systems Inc. (YFI) Settles $71.1K Interest With 1.42M Shares ",
     "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
-    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon"
+    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon",
+    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
+    "Adtran Holdings, Inc. (ADTN) Receives BlackRock Major Holdings Notification - Tr",
+    "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a di",
+    "Anthropic raises $81bn in record-breaking stock market debut",
+    "Exclusive-Citi underestimated risky assets by $35 billion after incorrectly reco",
+    "China holds loan prime rates for an 18th month as the overnight rate takes over"
   ]
 }
