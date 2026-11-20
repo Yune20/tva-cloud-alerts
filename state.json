@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795166217.1050615,
+  "last_signals": 1795166821.1180835,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
+    "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -126,7 +126,7 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795166217.650346,
+    "Ethereum|1D:bot": 1795166821.736595,
     "DXY|1D:top": 1795164385.672575,
     "EUR/USD|1D:bot": 1795163772.5629132,
     "US30|1D:top": 1792595589.8777509,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795166208.162751,
-  "last_news": 1795166217.1043694,
+  "last_analysis": 1795166814.019159,
+  "last_news": 1795166821.1173563,
   "seen_news": [
-    "Trump cyber director Sean Cairncross to leave post- Axios",
-    "Nikkei slides 4.5% and KOSPI tumbles as Wall Street\u2019s AI reversal hits Asian chi",
-    "\u201cKinh t\u1ebf b\u1ea1c\u201d v\u00e0 xu h\u01b0\u1edbng \u0111\u1ecbnh h\u00ecnh m\u00f4 h\u00ecnh b\u1ea5t \u0111\u1ed9ng s\u1ea3n an c\u01b0 m\u1edbi t\u1ea1i Vi\u1ec7t Nam",
-    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
-    "Red River Bancshares Declares $0.25 Quarterly Cash Dividend - TradingView",
-    "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our ",
     "Pro-Palestinian Berkeley Law group sues to regain university recognition - Tradi",
     "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthro",
     "Fish and eggs al desko? The dos and don'ts of the lunch break",
@@ -457,6 +451,12 @@
     "Airbnb's divisive new house rules come into force",
     "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
     "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
-    "Gold's panic selling signals capitulation, but a catalyst is needed for a bottom"
+    "Gold's panic selling signals capitulation, but a catalyst is needed for a bottom",
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minute",
+    "Gilts v kilts: What is happening with Scottish government bonds?",
+    "Sterling today: Pound edges up on UK retail beat, dollar caps gains",
+    "11-day Bitcoin redemption freeze: the risk hiding inside BTC-backed tokens",
+    "D\u1ef1 ki\u1ebfn g\u1ea7n 11.300 t\u1ef7 \u0111\u1ea7u t\u01b0 5 d\u1ef1 \u00e1n giao th\u00f4ng t\u1ea1i Qu\u1ea3ng Tr\u1ecb",
+    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance"
   ]
 }
