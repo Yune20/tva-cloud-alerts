@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795180933.7449615,
+  "last_signals": 1795181554.6875968,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795180934.192781,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795179986.92814,
-    "DXY|1D:top": 1795180934.9654853,
-    "EUR/USD|1D:bot": 1795180934.7120152,
+    "DXY|1D:top": 1795181555.9015982,
+    "EUR/USD|1D:bot": 1795181555.6435955,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795180925.759311,
-  "last_news": 1795180933.744441,
+  "last_analysis": 1795181545.72435,
+  "last_news": 1795181554.6868439,
   "seen_news": [
-    "The tech helping crack decades-old cold cases",
-    "Mercosur\u2019s Tax Break Is Fueling Brazil\u2019s Oil Push Into Europe",
-    "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
-    "Paulson tells Q&A the Fed has more tightening to do, after a speech with no rate",
-    "C\u00f4ng ty gi\u1ea5y n\u00f3i g\u00ec v\u1ec1 v\u1ee5 ch\u00e1y kho nguy\u00ean li\u1ec7u r\u1ed9ng 20.000m\u00b2 t\u1ea1i C\u1ea7n Th\u01a1?",
-    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance",
     "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
     "What Halma (HLMA) Said on Its H1 Earnings Call - TradingView",
     "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
@@ -457,6 +451,12 @@
     "Bank of America strategist warns doom loop could hit stocks with Wall Street und",
     "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns fr",
     "How a sex scandal at Nvidia is putting pressure on the White House",
-    "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide"
+    "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
+    "Anthropic\u2019s stock slides closer to IPO price and drags down the AI trade",
+    "AI can help find holiday deals \u2014 but it's not great at spotting scams, experts s",
+    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
+    "India\u2019s LPG Consumption Hits 8-Month High as Supply Rebounds",
+    "Why is Invesco QQQ Trust sliding today?",
+    "investingLive European news wrap: Stock markets remain under pressure, bonds ral"
   ]
 }
