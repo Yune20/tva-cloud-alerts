@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795164988.8441887,
+  "last_signals": 1795165600.838406,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -69,7 +69,7 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": true,
+    "EUR/USD|1H": false,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -126,7 +126,7 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795164989.340363,
+    "Ethereum|1D:bot": 1795165601.8274064,
     "DXY|1D:top": 1795164385.672575,
     "EUR/USD|1D:bot": 1795163772.5629132,
     "US30|1D:top": 1792595589.8777509,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795164982.5014064,
-  "last_news": 1795164988.8434744,
+  "last_analysis": 1795165594.8514092,
+  "last_news": 1795165600.8376906,
   "seen_news": [
-    "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-    "Airbnb's divisive new house rules come into force",
-    "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
-    "UK tribunal confirms government order demanding access to Apple data",
-    "The mood shifted in a hurry",
-    "Quy\u1ebft \u0111\u1ecbnh truy t\u00ecm\u00a0Tr\u1ea7n H\u1ea3i Anh SN 2002",
     "Dollar index hits 52-week high, driven by haven demand and rate expectations",
     "The broader indices are benefiting from the Anthropic enthusiasm, but there is w",
     "V\u00ec sao ch\u00eca kh\u00f3a xe m\u00e1y n\u00e0y n\u1ed5 \u0111\u01b0\u1ee3c xe kia?",
@@ -457,6 +451,12 @@
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "Anthropic founders mint $1.95B from record-breaking IPO - TradingView",
     "Japan core inflation soars to highest this year as energy subsidy expiry pushes ",
-    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'"
+    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "Kh\u00f4ng c\u1ea7n pin hay nhi\u00ean li\u1ec7u, Trung Qu\u1ed1c t\u00ecm ra c\u00e1ch c\u1ea5p \u0111i\u1ec7n cho smartphone b\u1eb1n",
+    "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Fincantieri wins Carnival contract for two next-generation cruise ships - Tradin",
+    "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, expert",
+    "Tens of thousands of UK fridges secured from hackers in secret nationwide operat",
+    "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade"
   ]
 }
