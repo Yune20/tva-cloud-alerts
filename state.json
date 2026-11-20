@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795194983.1234941,
+  "last_signals": 1795195597.8688662,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795194987.0911834,
-    "EUR/USD|1D:bot": 1795194986.3561263,
+    "DXY|1D:top": 1795195599.1332803,
+    "EUR/USD|1D:bot": 1795195598.8595922,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795194973.8455884,
-  "last_news": 1795194983.1200743,
+  "last_analysis": 1795195591.7644622,
+  "last_news": 1795195597.868249,
   "seen_news": [
-    "M\u00f3n \u0103n \u0111\u1eaft nh\u1ea5t th\u1ebf gi\u1edbi",
-    "D\u1eef li\u1ec7u \u0110\u0103ng k\u00fd Gi\u1ea3i ng\u00e2n Vi\u1ec7t Nam - VietstockFinance",
-    "Original-Research: Energiekontor AG (von First Berlin Equity Research GmbH): Buy",
-    "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shar",
-    "Fish and eggs al desko? The dos and don'ts of the lunch break",
-    "Canada Builds an Energy Exit From the U.S.",
     "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "US Oil and Gas Deal Boom Lures BMO Back Into the Market",
     "Deutsche Bank shares fall 3.2% amid compliance crisis fallout",
@@ -457,6 +451,12 @@
     "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
     "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
     "Sterling today: Pound edges up on UK retail beat, dollar caps gains",
-    "NASDAQ composite is now down on the year"
+    "NASDAQ composite is now down on the year",
+    "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
+    "Dollar index hits 52-week high, driven by haven demand and rate expectations",
+    "Could Jensen Huang end up at SpaceX? Dan Ives thinks he could work alongside Elo",
+    "Vi\u1ec7t Nam th\u00e0nh c\u00f4ng \u0111\u01b0a 1.012 c\u1ed1i \u0111\u00e1 x\u1ebfp ch\u1ed3ng l\u00ean nhau, l\u00e0m n\u00ean c\u00f4ng tr\u00ecnh thu\u1ed9",
+    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance"
   ]
 }
