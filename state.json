@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795179065.3520098,
-  "last_bot4": 1795179068.2277677,
+  "last_bot4": 1795179986.1978931,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795179068.2276878
+    "Gold": 1795179986.1977897
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795179660.4166975,
+  "last_signals": 1795179986.1986327,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -75,7 +75,7 @@
     "US30|4H": false,
     "US30|1D": false,
     "GBP/USD|1H": false,
-    "GBP/USD|4H": false,
+    "GBP/USD|4H": true,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -124,11 +124,11 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795158200.6377797,
-    "Bitcoin|4H:bot": 1795179068.610701,
+    "Bitcoin|4H:bot": 1795179986.7636437,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795179661.0743542,
-    "DXY|1D:top": 1795179661.8271124,
-    "EUR/USD|1D:bot": 1795179661.5412514,
+    "Ethereum|1D:bot": 1795179986.92814,
+    "DXY|1D:top": 1795179987.7675412,
+    "EUR/USD|1D:bot": 1795179987.4542003,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1795179660.75065,
+    "USOIL|4H:bot": 1795179986.5383477,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795179379.369534,
-  "last_news": 1795179393.0687776,
+  "last_analysis": 1795179973.8265548,
+  "last_news": 1795179983.7062585,
   "seen_news": [
-    "US November Philly Fed 6.3 vs 20.0 expected",
-    "22 qu\u1ef9 \u0111\u1ea7u t\u01b0 \u0111\u1ed3ng lo\u1ea1t \"x\u1ea3\" m\u1ed9t c\u1ed5 phi\u1ebfu ng\u00e2n h\u00e0ng, \u0111i\u1ec1u g\u00ec \u0111ang di\u1ec5n ra?",
-    "D\u1eef li\u1ec7u Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng v\u00e0 d\u00e2n s\u1ed1 Vi\u1ec7t Nam - VietstockFinance",
-    "A lot of bears in this zoo - TradingView",
-    "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
-    "Waymo pulls driverless taxis from all US freeways",
     "M\u00f3n n\u1ee3 g\u1ea7n 1.000 t\u1ef7 \u0111\u1ed3ng d\u01b0\u1edbi th\u1eddi c\u1ef1u Ch\u1ee7 t\u1ecbch Ocean Bank H\u00e0 V\u0103n Th\u1eafm \u0111ang \u0111\u01b0\u1ee3c",
     "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
     "AKESO Repurchases 200,000 Shares Again at About HKD12M - TradingView",
@@ -457,6 +451,12 @@
     "Anthropic shares fall around 10% premarket as tech sell off continues",
     "A December BoJ hike may not be enough: why a fuzzy endpoint keeps yen bears circ",
     "Tu\u1ea7n t\u1edbi, mi\u1ec1n B\u1eafc l\u1ea1i \u0111\u00f3n kh\u00f4ng kh\u00ed l\u1ea1nh m\u1ea1nh",
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp "
+    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
+    "Exclusive-Citi underestimated risky assets by $35 billion after incorrectly reco",
+    "Is ANT stock a buy or sell?",
+    "Di\u1ec5n \u0111\u00e0n K\u1ebft n\u1ed1i \u0111\u1ea7u t\u01b0 2026: \u0110i\u1ec3m h\u1eb9n \u0111\u1ec3 doanh nghi\u1ec7p FDI n\u1eafm b\u1eaft c\u01a1 h\u1ed9i v\u00e0 h\u1ee3p",
+    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
+    "RGCO Q4'26 Earnings: EPS estimate is 0.24 USD - TradingView",
+    "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era pro"
   ]
 }
