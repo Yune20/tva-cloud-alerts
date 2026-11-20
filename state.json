@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795200792.563068,
-  "last_bot4": 1795210701.3850472,
+  "last_bot4": 1795211373.7453625,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795210078.7420943
+    "Gold": 1795211373.7452688
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795210701.385706,
+  "last_signals": 1795211373.7460592,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795201724.993164,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1795206076.099468,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795210701.728672,
+    "Gold|4H:bot": 1795211374.0362842,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795210701.9632041,
+    "USOIL|1D:bot": 1795211374.3446054,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795211004.9523335,
-  "last_news": 1795210701.3843262,
+  "last_analysis": 1795211361.6136928,
+  "last_news": 1795211370.751849,
   "seen_news": [
-    "Strategy stock falls as analyst warns MSTR could crash to $23 - TradingView",
-    "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs ",
-    "Fish and eggs al desko? The dos and don'ts of lunch at work",
-    "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
-    "What are the main events for today?",
-    "Nh\u00e2n vi\u00ean t\u1eed vong khi \u0111\u00f3ng vai ma treo c\u1ed5, ch\u1ee7 c\u01a1 s\u1edf escape room b\u1ecb truy t\u1ed1",
     "These little-known investments could be among the best bargains in a crash",
     "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
     "Robot vessels take on the dangerous work of mine hunting",
@@ -457,6 +451,12 @@
     "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cen",
     "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vend",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
-    "India\u2019s LPG Consumption Hits 8-Month High as Supply Rebounds"
+    "India\u2019s LPG Consumption Hits 8-Month High as Supply Rebounds",
+    "The hidden catch in Anthropic\u2019s IPO: Billions of locked-up shares are waiting in",
+    "Anthropic raises $93.5 billion total as underwriters scoop up \u2018greenshoe\u2019 overal",
+    "Graduates are managing AI - but are they learning much else?",
+    "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
+    "Anthropic falls 8.5%, nears IPO price as AI bubble fears fuel post-listing sello",
+    "Nvidia falls after SEC probe on potential accounting issues"
   ]
 }
