@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795168040.633672,
-  "last_bot4": 1795173677.782701,
+  "last_bot4": 1795174339.499567,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795173677.7834594,
+  "last_signals": 1795174339.500167,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -69,15 +69,15 @@
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": false,
+    "Ethereum|4H": true,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -126,8 +126,8 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795173678.4179556,
-    "DXY|1D:top": 1795170244.6581948,
+    "Ethereum|1D:bot": 1795174339.9976385,
+    "DXY|1D:top": 1795174340.6932757,
     "EUR/USD|1D:bot": 1795169026.0247884,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1795173678.0354345,
+    "USOIL|4H:bot": 1795174339.7744846,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795173665.8618622,
-  "last_news": 1795173675.2088678,
+  "last_analysis": 1795174332.9324641,
+  "last_news": 1795174339.4987884,
   "seen_news": [
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "MFB Bancorp Offers Up to 1,035,000 Shares at $10 Each - TradingView",
-    "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House",
-    "Government backs welfare shake-up to prevent 'lost generation'",
-    "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
-    "Asian shares head for worst week since 2020 as AI trade gloom fails to abate",
     "Espey wins largest-ever $2.7M sustainment contract for M777 howitzer - TradingVi",
     "Amid recent banking outages, should you start carrying cash again? Top advisors ",
     "Where are the most jobs for 18-24 year-olds?",
@@ -457,6 +451,12 @@
     "Trafigura Not Rushing to Alternative Marine Fuels",
     "\u2019Black Friday\u2019 brings consumer spending into focus for AI-rocked market",
     "Oil prices remain under pressure as focus shifts from supply disruptions to dema",
-    "HAGL th\u00e0nh l\u1eadp c\u00f4ng ty con m\u1edbi, 'r\u00f3t' th\u00eam v\u1ed1n \u0111\u1ec3 tr\u1ed3ng c\u00e0 ph\u00ea"
+    "HAGL th\u00e0nh l\u1eadp c\u00f4ng ty con m\u1edbi, 'r\u00f3t' th\u00eam v\u1ed1n \u0111\u1ec3 tr\u1ed3ng c\u00e0 ph\u00ea",
+    "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
+    "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
+    "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
+    "T\u00ecnh tr\u1ea1ng c\u1ee7a B\u1ea3o Thy sau khi gi\u1ea3m 6kg trong 2 th\u00e1ng",
+    "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
+    "EU's Hansen says US trade uncertainty is drawing Mexico, Europe closer - Trading"
   ]
 }
