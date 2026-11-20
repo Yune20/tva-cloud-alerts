@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795133022.5613804,
+  "last_signals": 1795133628.7795866,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
-    "5575146754|Gold|4H|momo_dn": 1795025873.6620207,
+    "5575146754|Gold|4H|momo_dn": 1795133628.7795866,
     "5575146754|Gold|4H|dn": 1795131775.5512795,
     "5575146754|Gold|4H|trap_dn": 1795120363.7085543,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
@@ -123,7 +123,7 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795133023.8151672,
+    "DXY|4H:top": 1795133630.3804593,
     "Bitcoin|4H:bot": 1795129286.8858066,
     "EUR/USD|4H:bot": 1795132384.8088746,
     "Ethereum|1D:bot": 1793059155.904477,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795133023.0614982,
+    "Ethereum|4H:bot": 1795133629.4762638,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795133331.2121258,
-  "last_news": 1795133022.560804,
+  "last_news": 1795133628.7788959,
   "seen_news": [
-    "Brazilian real near 52-week lows as fiscal concerns weigh on currency",
-    "The mood shifted in a hurry",
-    "Ph\u00e1t hi\u1ec7n c\u1ef1u sinh vi\u00ean t\u1eebng n\u1ee3 38 tri\u1ec7u \u0111\u1ed3ng ti\u1ec1n h\u1ecdc ph\u00ed, ph\u1ea3i nh\u1edd tr\u01b0\u1edfng khoa",
-    "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Five Straight Losses, One Divergence: Where the Major Indexes Stand Now - Tradin",
-    "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and su",
     "Vi\u1ec7t Nam c\u00f3 1 ca kh\u00fac ra \u0111\u1eddi n\u0103m 1970 gi\u00fap t\u00e1c gi\u1ea3 mua \u0111\u01b0\u1ee3c bi\u1ec7t th\u1ef1 g\u1ea7n 300m\u00b2 \u1edf",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "BBWI Q3 Earnings Beat Estimates on Digital & Wholesale Gains - TradingView",
@@ -457,6 +451,12 @@
     "Gilts v kilts: What is happening with Scottish government bonds?",
     "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
     "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia sca",
-    "Fed's Paulson keeps quiet on December, says October\u2019s pause was never meant as a"
+    "Fed's Paulson keeps quiet on December, says October\u2019s pause was never meant as a",
+    "Japan inflation picks up less than forecast as core-core slows to 2.2%",
+    "H\u1ed9i ngh\u1ecb Th\u01b0\u1ee3ng \u0111\u1ec9nh ch\u1ec9 k\u00e9o d\u00e0i \u0111\u00fang 81 ph\u00fat, \u00f4ng Trump, \u00f4ng T\u1eadp v\u00e0 \u00f4ng Putin \u0111",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "ESE: Record FY26 results and Megger acquisition underpin FY27 growth guidance - ",
+    "AMD dives on short seller report of alleged China exposure",
+    "California targets Nvidia in China AI chip probe"
   ]
 }
