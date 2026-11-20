@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795211373.7460592,
+  "last_signals": 1795211990.03383,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1795201724.993164,
+    "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1795201117.9756987,
     "5575146754|Gold|1H|momo_dn": 1795144976.2652962,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1795206076.099468,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795211374.0362842,
+    "Gold|4H:bot": 1795211990.3276682,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795211374.3446054,
+    "USOIL|1D:bot": 1795211990.5705009,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795211361.6136928,
-  "last_news": 1795211370.751849,
+  "last_analysis": 1795211982.6008904,
+  "last_news": 1795211990.033005,
   "seen_news": [
-    "These little-known investments could be among the best bargains in a crash",
-    "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
-    "Robot vessels take on the dangerous work of mine hunting",
-    "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
-    "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs ",
-    "C\u1eb7p \u0111\u00f4i Vbiz l\u1ec7ch 6 tu\u1ed5i sang t\u1eadn Maldives h\u1eb9n h\u00f2",
     "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
     "Market is telling the Fed that rates are \"unsustainably high\": Citi",
     "Morning Kickstart. Anthropic slides after its IPO and gold breaks lower",
@@ -457,6 +451,12 @@
     "Graduates are managing AI - but are they learning much else?",
     "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
     "Anthropic falls 8.5%, nears IPO price as AI bubble fears fuel post-listing sello",
-    "Nvidia falls after SEC probe on potential accounting issues"
+    "Nvidia falls after SEC probe on potential accounting issues",
+    "Hall Chadwick Adds $15 Million PIPE Financing for REEcycle Business Combination ",
+    "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actu",
+    "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright sp",
+    "Fish and eggs al desko? The dos and don'ts of lunch at work",
+    "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation dat",
+    "Is ANT stock a buy or sell?"
   ]
 }
