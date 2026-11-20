@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795181554.6875968,
+  "last_signals": 1795182166.1380959,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -74,8 +74,8 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
     "EUR/USD|4H": true,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795180934.192781,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795179986.92814,
-    "DXY|1D:top": 1795181555.9015982,
-    "EUR/USD|1D:bot": 1795181555.6435955,
+    "DXY|1D:top": 1795182167.466001,
+    "EUR/USD|1D:bot": 1795182167.2192922,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795181545.72435,
-  "last_news": 1795181554.6868439,
+  "last_analysis": 1795182160.3768237,
+  "last_news": 1795182166.1373968,
   "seen_news": [
-    "HSG: CTCP T\u1eadp \u0111o\u00e0n Hoa Sen - HOA SEN GROUP (HSG) - VietstockFinance",
-    "What Halma (HLMA) Said on Its H1 Earnings Call - TradingView",
-    "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
-    "Living with a stink? Technology might help",
-    "Softbank Group shares slump 15% on AI rout; Son regrets not buying into Anthropi",
-    "What are the main events for today?",
     "Amazon app warns New York of higher costs if Mamdani delivery law passes",
     "Robot vessels take on the dangerous work of mine hunting",
     "Why is Advantest stock tumbling 10% today?",
@@ -457,6 +451,12 @@
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "India\u2019s LPG Consumption Hits 8-Month High as Supply Rebounds",
     "Why is Invesco QQQ Trust sliding today?",
-    "investingLive European news wrap: Stock markets remain under pressure, bonds ral"
+    "investingLive European news wrap: Stock markets remain under pressure, bonds ral",
+    "investingLive Asia-Pacific market news: Red Friday as Asia\u2019s AI trade unravels",
+    "H\u00e0 N\u1ed9i m\u1edf c\u01a1 ch\u1ebf giao tr\u1ef1c ti\u1ebfp ch\u1ee7 \u0111\u1ea7u t\u01b0 d\u1ef1 \u00e1n nh\u00e0 \u1edf cho thu\u00ea",
+    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Takeover - ",
+    "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014",
+    "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
   ]
 }
