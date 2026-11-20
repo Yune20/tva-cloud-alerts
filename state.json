@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795136180.7238445,
+  "last_signals": 1795136789.8164413,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,10 +65,10 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -123,8 +123,8 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795136182.2596362,
-    "Bitcoin|4H:bot": 1795135200.6747324,
+    "DXY|4H:top": 1795136791.931478,
+    "Bitcoin|4H:bot": 1795136790.5264006,
     "EUR/USD|4H:bot": 1795135813.0273182,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795136181.4963934,
+    "Ethereum|4H:bot": 1795136790.7737374,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795136170.5557575,
-  "last_news": 1795136178.173677,
+  "last_analysis": 1795136780.4893339,
+  "last_news": 1795136789.8154836,
   "seen_news": [
-    "D\u00e2n m\u1ea1ng khoe nh\u1eefng s\u1edf th\u00edch ra ti\u1ec1n: Ban \u0111\u1ea7u ch\u1ec9 l\u00e0m cho vui, ai ng\u1edd thu nh\u1eadp n",
-    "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
-    "Marathon Petroleum declares force majeure on North Dakota oil deliveries - Tradi",
-    "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lo",
-    "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilate",
-    "Why has Waymo pulled all its driverless cars from US freeways?",
     "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
     "S&P 500 typical pattern shows a rally after the holiday\u2019s rollercoaster - Tradin",
     "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger ",
@@ -457,6 +451,12 @@
     "V\u00ec sao ch\u00eca kh\u00f3a xe m\u00e1y n\u00e0y n\u1ed5 \u0111\u01b0\u1ee3c xe kia?",
     "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
     "Japan's Tama Home paid up to 18% repair commissions - TradingView",
-    "A CoreWeave co-founder just made an unconventional $30 million wager on its batt"
+    "A CoreWeave co-founder just made an unconventional $30 million wager on its batt",
+    "Trump cyber director Sean Cairncross to leave post- Axios",
+    "Nikkei slides 4.5% and KOSPI tumbles as Wall Street\u2019s AI reversal hits Asian chi",
+    "\u201cKinh t\u1ebf b\u1ea1c\u201d v\u00e0 xu h\u01b0\u1edbng \u0111\u1ecbnh h\u00ecnh m\u00f4 h\u00ecnh b\u1ea5t \u0111\u1ed9ng s\u1ea3n an c\u01b0 m\u1edbi t\u1ea1i Vi\u1ec7t Nam",
+    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
+    "Red River Bancshares Declares $0.25 Quarterly Cash Dividend - TradingView",
+    "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our "
   ]
 }
