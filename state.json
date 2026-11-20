@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795179065.3520098,
-  "last_bot4": 1795184931.814274,
+  "last_bot4": 1795185590.0873494,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795185228.1285615,
+  "last_signals": 1795185590.0880072,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,10 +74,10 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": false,
-    "GBP/USD|4H": true,
+    "GBP/USD|1H": true,
+    "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -124,11 +124,11 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795158200.6377797,
-    "Bitcoin|4H:bot": 1795185228.891433,
+    "Bitcoin|4H:bot": 1795185590.6043859,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795185229.111996,
-    "DXY|1D:top": 1795185230.2362797,
-    "EUR/USD|1D:bot": 1795185229.8003929,
+    "Ethereum|1D:bot": 1795185590.7734606,
+    "DXY|1D:top": 1795185591.5718129,
+    "EUR/USD|1D:bot": 1795185591.1931345,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795184928.7370534,
-  "last_news": 1795185228.101379,
+  "last_analysis": 1795185582.8784137,
+  "last_news": 1795185590.0865486,
   "seen_news": [
-    "TCB: Ng\u00e2n h\u00e0ng TMCP K\u1ef9 th\u01b0\u01a1ng Vi\u1ec7t Nam - TECHCOMBANK - Th\u1ed1ng k\u00ea giao d\u1ecbch - Viet",
-    "Key facts: UniCredit backs Frankfurt listing; \u20ac1.4bn cuts, 2027 vote - TradingVi",
-    "Anthropic\u2019s stock surges in its debut \u2014 and the rest of the market dives anyway",
-    "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite",
-    "Anthropic becomes one of world's most valuable public companies in stock market ",
-    "Global bond yields plunge as AI rout triggers flight to safety",
     "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days.",
     "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
     "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r",
@@ -457,6 +451,12 @@
     "The bull market has a new problem. The 'smart money' is selling",
     "Mouldy, infested housing for vulnerable people sold as ethical investments abroa",
     "Europe Has Already Drained 11% of Its Summer Gas Injections",
-    "Should you accumulate Anthropic stock early after paring debut day gains?"
+    "Should you accumulate Anthropic stock early after paring debut day gains?",
+    "Anthropic shares fall after blockbuster opening",
+    "Dealmaker Orcel\u2019s decades-long quest to shake up European banking",
+    "No way back for oil after Hormuz, says IEA\u2019s Birol, but Goldman still sees Brent",
+    "Ra quy\u1ebft \u0111\u1ecbnh kh\u1edfi t\u1ed1 Nguy\u1ec5n Ph\u01b0\u1edbc Hi\u1ec1n SN 1997 li\u00ean quan xe \u00f4 t\u00f4 Toyota Avanza ",
+    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
+    "STARTRADER Launches Anthropic Stock CFDs Following Nasdaq Debut - TradingView"
   ]
 }
