@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795148670.9658256,
+  "last_signals": 1795149281.195581,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1H|momo_dn": 1795144976.2652962,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
-    "5575146754|Gold|4H|momo_dn": 1795145589.5645547,
+    "5575146754|Gold|4H|momo_dn": 1795149281.195581,
     "5575146754|Gold|4H|dn": 1795147432.6715949,
     "5575146754|Gold|4H|trap_dn": 1795134577.8385713,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
@@ -82,13 +82,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1795149541,
   "menu_prices": {
@@ -123,12 +123,12 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795148672.346009,
+    "DXY|4H:top": 1795149282.610506,
     "Bitcoin|4H:bot": 1795148671.4227867,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795148672.3460252,
-    "EUR/USD|1D:bot": 1795148672.088427,
+    "DXY|1D:top": 1795149282.6105251,
+    "EUR/USD|1D:bot": 1795149282.3067176,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -145,7 +145,7 @@
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
     "JPY Index|1D:bot": 1792954957.2799993,
-    "GBP/USD|4H:bot": 1795148671.9412644,
+    "GBP/USD|4H:bot": 1795149282.1535678,
     "Gold|1H:bot": 1794718478.637119,
     "USOIL|4H:bot": 1794980038.0361793,
     "DXY|1D:bot": 1793822783.600698,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795148663.2336679,
-  "last_news": 1795148670.9648757,
+  "last_analysis": 1795149272.8767085,
+  "last_news": 1795149281.194803,
   "seen_news": [
-    "TIG: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 Th\u0103ng Long - THANG LONG INVESTGROUP.,JSC - VietstockFi",
-    "The return of Roaring Kitty sends Nintendo and GameStop higher - TradingView",
-    "Why Walmart is making a bigger bet on fast-food delivery",
-    "Ford starts U.S. battery cell production using Chinese tech amid geopolitical te",
-    "My hometown shows that high streets have to change or die",
-    "New York sues IHG, others over Holiday Inn accused of exploiting immigrant worke",
     "Nvidia\u2019s stock falls further. It has lost $611 billion in six trading days.",
     "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
     "Waymo pulls driverless taxis from all US freeways",
@@ -457,6 +451,12 @@
     "Dinari Inc. Launches Anthropic Tokenized Shares on First Trading Day - TradingVi",
     "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of c",
     "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-    "The AI boom is keeping the dollar strong: What comes next in 2027?"
+    "The AI boom is keeping the dollar strong: What comes next in 2027?",
+    "Ubisoft Entertainment Q2 2027 Earnings Call Is Live - TradingView",
+    "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treat",
+    "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "Why did Kuaishou Technology stock hit a record low today?",
+    "Canada seeks interim U.S. tariff deal by year-end, CBC reports",
+    "B\u1ecb t\u1ed1 qu\u00e1t m\u1eafng nh\u00e2n vi\u00ean b\u1ea3o v\u1ec7, nh\u00e0 h\u00e0ng M\u00f9a Craft Sake kh\u1eb3ng \u0111\u1ecbnh th\u00f4ng tin s"
   ]
 }
