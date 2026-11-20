@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795194356.7896304,
+  "last_signals": 1795194983.1234941,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,8 +62,8 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
-    "USOIL|4H": false,
+    "USOIL|1H": false,
+    "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795194358.5102224,
-    "EUR/USD|1D:bot": 1795194358.208236,
+    "DXY|1D:top": 1795194987.0911834,
+    "EUR/USD|1D:bot": 1795194986.3561263,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795194348.771943,
-  "last_news": 1795194356.788895,
+  "last_analysis": 1795194973.8455884,
+  "last_news": 1795194983.1200743,
   "seen_news": [
-    "Dollar index hits 52-week high, driven by haven demand and rate expectations",
-    "Nikkei slides 4.5% and KOSPI tumbles as Wall Street\u2019s AI reversal hits Asian chi",
-    "Nh\u00ecn \u00f4ng b\u1ed1 n\u1ed5i ti\u1ebfng, ti\u1ec1n nhi\u1ec1u nh\u01b0 n\u01b0\u1edbc n\u00e0y m\u1edbi th\u1ea5y: C\u00f3 m\u1ed9t \"l\u1eddi nguy\u1ec1n\" c\u1ea7n",
-    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
-    "Red River Bancshares Declares $0.25 Quarterly Cash Dividend - TradingView",
-    "A CoreWeave co-founder just made an unconventional $30 million wager on its batt",
     "M\u00f3n \u0103n \u0111\u1eaft nh\u1ea5t th\u1ebf gi\u1edbi",
     "D\u1eef li\u1ec7u \u0110\u0103ng k\u00fd Gi\u1ea3i ng\u00e2n Vi\u1ec7t Nam - VietstockFinance",
     "Original-Research: Energiekontor AG (von First Berlin Equity Research GmbH): Buy",
@@ -457,6 +451,12 @@
     "Can Bank of America Sustain Its Robust Capital Returns in 2027? - TradingView",
     "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
     "Airbnb's divisive new house rules come into force",
-    "The 2026 Midterms Have Changed the Battle for American Energy"
+    "The 2026 Midterms Have Changed the Battle for American Energy",
+    "Hims & Hers Launches Peptides+ to Expand Personalized Health Care - TradingView",
+    "AMD dives on short seller report of alleged China exposure",
+    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+    "Sterling today: Pound edges up on UK retail beat, dollar caps gains",
+    "NASDAQ composite is now down on the year"
   ]
 }
