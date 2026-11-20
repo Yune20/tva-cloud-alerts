@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795202333.8445463,
+  "last_signals": 1795202943.5957942,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795201724.993164,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": false,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795202334.1620674,
+    "USOIL|1D:bot": 1795202943.8280733,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795202326.6961672,
-  "last_news": 1795202333.84377,
+  "last_analysis": 1795202932.1919014,
+  "last_news": 1795202943.5950928,
   "seen_news": [
-    "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questi",
-    "Khoan th\u0103m d\u00f2 600m v\u00e0o l\u00f2ng \u0111\u1ea5t, ph\u00e1t hi\u1ec7n m\u1ecf ch\u1ee9a l\u01b0\u1ee3ng l\u1edbn v\u00e0ng, b\u1ea1c v\u00e0 \u0111\u1ed3ng t",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
-    "Dollar extends rally as risk appetite fades - TradingView",
-    "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savi",
-    "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
     "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
     "HC Wainwright & Co. maintains Halozyme Therapeutics at Buy, keeps price target a",
     "Citi warns a key stock-market signal is close to flashing red",
@@ -457,6 +451,12 @@
     "The Buckle Q3 2027 Earnings Call Is Live - TradingView",
     "SpaceX\u2019s stock falls back below its IPO price \u2014\u00a0and Anthropic\u2019s could be next",
     "Trump says he still has confidence in Lutnick",
-    "Why has Waymo pulled all its driverless cars from US freeways?"
+    "Why has Waymo pulled all its driverless cars from US freeways?",
+    "3M Announces Upcoming Investor Event - TradingView",
+    "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+    "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
+    "Anthropic raises $81bn in record-breaking stock market debut",
+    "US Data Center Boom Faces a New Political Reality",
+    "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator\u2019s"
   ]
 }
