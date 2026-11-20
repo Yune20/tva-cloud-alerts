@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795136789.8164413,
+  "last_signals": 1795137416.1960738,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
-    "5575146754|Gold|4H|momo_dn": 1795133628.7795866,
+    "5575146754|Gold|4H|momo_dn": 1795137416.1960738,
     "5575146754|Gold|4H|dn": 1795135810.961105,
     "5575146754|Gold|4H|trap_dn": 1795134577.8385713,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
@@ -78,7 +78,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": true,
@@ -125,7 +125,7 @@
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795136791.931478,
     "Bitcoin|4H:bot": 1795136790.5264006,
-    "EUR/USD|4H:bot": 1795135813.0273182,
+    "EUR/USD|4H:bot": 1795137418.372892,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795136790.7737374,
+    "Ethereum|4H:bot": 1795137417.4824247,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795136780.4893339,
-  "last_news": 1795136789.8154836,
+  "last_analysis": 1795137391.732941,
+  "last_news": 1795137416.1947246,
   "seen_news": [
-    "IDC: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "S&P 500 typical pattern shows a rally after the holiday\u2019s rollercoaster - Tradin",
-    "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger ",
-    "We're adding to a consumer stock as the market enters oversold territory",
-    "Government backs welfare shake-up to prevent 'lost generation'",
-    "How Energy Security Is Reshaping Global Investment Decisions",
     "Anthropic\u2019s IPO poses this big risk to an already shaky stock market",
     "Trump praises \u2018great relationship\u2019 with Putin after meeting, as Ukraine war take",
     "Leftover pumpkins help deliver 1,000th free meal",
@@ -457,6 +451,12 @@
     "\u201cKinh t\u1ebf b\u1ea1c\u201d v\u00e0 xu h\u01b0\u1edbng \u0111\u1ecbnh h\u00ecnh m\u00f4 h\u00ecnh b\u1ea5t \u0111\u1ed9ng s\u1ea3n an c\u01b0 m\u1edbi t\u1ea1i Vi\u1ec7t Nam",
     "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
     "Red River Bancshares Declares $0.25 Quarterly Cash Dividend - TradingView",
-    "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our "
+    "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our ",
+    "Pro-Palestinian Berkeley Law group sues to regain university recognition - Tradi",
+    "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthro",
+    "Fish and eggs al desko? The dos and don'ts of the lunch break",
+    "Canada Builds an Energy Exit From the U.S.",
+    "Senate Republicans reject legislation to end Iran war",
+    "Japan CPI misses on all three measures, but core stays above 2% ahead of a BoJ h"
   ]
 }
