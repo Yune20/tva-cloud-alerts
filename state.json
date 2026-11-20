@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795124022.5203602,
-  "last_bot4": 1795133334.3347197,
+  "last_bot4": 1795133965.5617907,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795133628.7795866,
+  "last_signals": 1795133965.5622222,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": true,
     "USD/JPY|4H": false,
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795133630.3804593,
-    "Bitcoin|4H:bot": 1795129286.8858066,
-    "EUR/USD|4H:bot": 1795132384.8088746,
+    "DXY|4H:top": 1795133966.7362268,
+    "Bitcoin|4H:bot": 1795133965.9518664,
+    "EUR/USD|4H:bot": 1795133966.4742591,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795133629.4762638,
+    "Ethereum|4H:bot": 1795133966.090144,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795133331.2121258,
-  "last_news": 1795133628.7788959,
+  "last_analysis": 1795133958.5582807,
+  "last_news": 1795133965.5612278,
   "seen_news": [
-    "Vi\u1ec7t Nam c\u00f3 1 ca kh\u00fac ra \u0111\u1eddi n\u0103m 1970 gi\u00fap t\u00e1c gi\u1ea3 mua \u0111\u01b0\u1ee3c bi\u1ec7t th\u1ef1 g\u1ea7n 300m\u00b2 \u1edf",
-    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
-    "BBWI Q3 Earnings Beat Estimates on Digital & Wholesale Gains - TradingView",
-    "\u2018Buyers are out for blood\u2019: With homes sales at a record low, buyers are calling",
-    "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
     "Stocks look to blockbuster Anthropic IPO to break losing streak - TradingView",
     "Want to create more competition in grocery delivery? Let DoorDash and Instacart ",
     "Amazon launches in-app push against Mamdani-backed delivery bill in New York Cit",
@@ -457,6 +451,12 @@
     "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
     "ESE: Record FY26 results and Megger acquisition underpin FY27 growth guidance - ",
     "AMD dives on short seller report of alleged China exposure",
-    "California targets Nvidia in China AI chip probe"
+    "California targets Nvidia in China AI chip probe",
+    "Kh\u00f4ng mua nh\u00e0, 10 n\u0103m l\u00e0m \"c\u00f4ng ch\u00faa ph\u00f2ng tr\u1ecd\": C\u00f4 g\u00e1i c\u1ea3i t\u1ea1o c\u0103n h\u1ed9 \u0111\u1eb9p nh\u01b0 m",
+    "B\u1ed9 l\u1ecdc c\u1ed5 phi\u1ebfu - VietstockFinance",
+    "Asia stocks choppy after Nvidia earnings as Anthropic pricing looms - TradingVie",
+    "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+    "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "Brazilian real near 52-week lows as fiscal concerns weigh on currency"
   ]
 }
