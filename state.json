@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795217240.6103137,
+  "last_signals": 1795217855.9457116,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -128,10 +128,10 @@
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
     "DXY|1D:top": 1795217242.5054832,
-    "EUR/USD|1D:bot": 1795217241.9292326,
+    "EUR/USD|1D:bot": 1795217857.0580451,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795217240.7889254,
+    "Gold|4H:bot": 1795217856.117428,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795217240.9512951,
+    "USOIL|1D:bot": 1795217856.2521734,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795217230.6481276,
-  "last_news": 1795217240.609379,
+  "last_analysis": 1795217848.1106758,
+  "last_news": 1795217855.9449985,
   "seen_news": [
-    "BSR: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
-    "This proposed Social Security fix could add trillions to the national debt",
-    "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-    "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-    "China\u2019s Oil Imports from Persian Gulf Jump to Wartime High",
     "Nvidia\u2019s stock heads for a stretch of weekly losses unseen since 2008",
     "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
     "Speed camera fault may have allowed drivers to escape fines",
@@ -457,6 +451,12 @@
     "D\u1eebng x\u00e2y d\u1ef1ng kh\u1ea9n c\u1ea5p t\u00f2a nh\u00e0 cao g\u1ea5p 1,3 l\u1ea7n Landmark 81, v\u1ed1n \u0111\u1ea7u t\u01b0 51.000 t\u1ef7",
     "SHS: CTCP Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n - H\u00e0 N\u1ed9i - SHS - VietstockFinance",
     "Michael Burry Halves SMH, Nvidia Puts but Keeps Nasdaq 100 Bet - TradingView",
-    "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 wh"
+    "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 wh",
+    "N\u1eef ngh\u1ec7 s\u0129 SN 1985 l\u00e0 ch\u1ee7 3 tr\u01b0\u1eddng m\u1ea7m non: Y\u00eau \u0111\u1ea1i gia sau 10 ng\u00e0y quen, \u0111\u01b0\u1ee3c t",
+    "D\u1eef li\u1ec7u Ch\u1ec9 s\u1ed1 gi\u00e1 v\u00e0 l\u1ea1m ph\u00e1t Vi\u1ec7t Nam - VietstockFinance",
+    "POSCO Strengthens Lithium Growth Prospects With CATL Supply Deal - TradingView",
+    "Bitcoin's regulation bull case is played out. What could drive crypto gains movi",
+    "Anthropic becomes one of world's most valuable public companies in stock market ",
+    "GTCR explores potential takeover of payments firm Global Payments"
   ]
 }
