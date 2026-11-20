@@ -29,9 +29,9 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795189018.0754418,
+  "last_signals": 1795189616.212782,
   "signal_ts": {
-    "5575146754|Gold|1H|range_in": 1795161910.7552416,
+    "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
     "5575146754|Gold|1H|trap_dn": 1795142100.9809806,
     "5575146754|Gold|1H|momo_dn": 1795144976.2652962,
@@ -59,10 +59,10 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": false,
+    "Gold|1H": true,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": false,
+    "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795189020.6369202,
-    "EUR/USD|1D:bot": 1795189020.0776172,
+    "DXY|1D:top": 1795189618.4785278,
+    "EUR/USD|1D:bot": 1795189617.965902,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795189322.5154078,
-  "last_news": 1795189018.0746205,
+  "last_news": 1795189616.2117712,
   "seen_news": [
-    "Euro breaks below $1.10 as French election risk builds; three banks see $1.08 ne",
-    "Nam NS\u01afT c\u00f3 9 ch\u00e1u n\u1ed9i, 3 ch\u00e1u c\u1ed1, 12 anh em v\u1ee3, bi\u1ec7t th\u1ef1 tr\u1ea3i d\u00e0i: \"\u0110\u00f3 l\u00e0 h\u1ea1nh ",
-    "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
-    "Goldman Sachs discloses over $1B in spot Bitcoin ETF holdings - TradingView",
-    "Anthropic was supposed to save the AI trade. What went wrong?",
-    "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
     "Tesla, Inc. Stock 12\u2011Month Price Target Raised to $429.16, Implies 15% Upside - ",
     "California attorney general issues Nvidia subpoena in probe of China chip divers",
@@ -457,6 +451,12 @@
     "This proposed Social Security fix could add trillions to the national debt",
     "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
     "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-    "China\u2019s Oil Imports from Persian Gulf Jump to Wartime High"
+    "China\u2019s Oil Imports from Persian Gulf Jump to Wartime High",
+    "Nvidia\u2019s stock heads for a stretch of weekly losses unseen since 2008",
+    "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+    "Speed camera fault may have allowed drivers to escape fines",
+    "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
+    "Why is Marvell Technology stock sliding today?",
+    "Canada seeks interim U.S. tariff deal by year-end, CBC reports"
   ]
 }
