@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795150501.0506105,
+  "last_signals": 1795151109.7865717,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -38,7 +38,7 @@
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
     "5575146754|Gold|4H|momo_dn": 1795149281.195581,
-    "5575146754|Gold|4H|dn": 1795147432.6715949,
+    "5575146754|Gold|4H|dn": 1795151109.7865717,
     "5575146754|Gold|4H|trap_dn": 1795134577.8385713,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
     "5575146754|Gold|1D|dbot": 1794925335.572049,
@@ -81,14 +81,14 @@
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
-    "USD/JPY|4H": true,
-    "USD/JPY|1D": false,
+    "USD/JPY|4H": false,
+    "USD/JPY|1D": true,
     "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
-    "JPY Index|4H": true,
-    "JPY Index|1D": false
+    "JPY Index|4H": false,
+    "JPY Index|1D": true
   },
   "chain_lease_until": 1795151374,
   "menu_prices": {
@@ -123,12 +123,12 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795150503.0459263,
+    "DXY|4H:top": 1795151112.1773968,
     "Bitcoin|4H:bot": 1795148671.4227867,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795150503.0459414,
-    "EUR/USD|1D:bot": 1795150502.637963,
+    "EUR/USD|1D:bot": 1795151111.631905,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795150501.4877489,
+    "USOIL|1D:bot": 1795151110.2586136,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795150494.0674598,
-  "last_news": 1795150501.049449,
+  "last_analysis": 1795151102.7721786,
+  "last_news": 1795151109.7858396,
   "seen_news": [
-    "Fed\u2019s Goolsbee says he sees no clear path back to 2% inflation",
-    "\u1ee6y ban Basel l\u01b0u \u00fd m\u1ed9t s\u1ed1 r\u1ee7i ro \u0111\u1ed1i v\u1edbi h\u1ec7 th\u1ed1ng ng\u00e2n h\u00e0ng",
-    "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Hall Chadwick Adds $15 Million PIPE Financing for REEcycle Business Combination ",
-    "Amazon app warns New York of higher costs if Mamdani delivery law passes",
-    "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "Europe's car makers are in crisis. Will the threat of war rescue them?",
     "Mercosur\u2019s Tax Break Is Fueling Brazil\u2019s Oil Push Into Europe",
     "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
@@ -457,6 +451,12 @@
     "D\u1eef li\u1ec7u Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng v\u00e0 d\u00e2n s\u1ed1 Vi\u1ec7t Nam - VietstockFinance",
     "A lot of bears in this zoo - TradingView",
     "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
-    "Waymo pulls driverless taxis from all US freeways"
+    "Waymo pulls driverless taxis from all US freeways",
+    "M\u00f3n n\u1ee3 g\u1ea7n 1.000 t\u1ef7 \u0111\u1ed3ng d\u01b0\u1edbi th\u1eddi c\u1ef1u Ch\u1ee7 t\u1ecbch Ocean Bank H\u00e0 V\u0103n Th\u1eafm \u0111ang \u0111\u01b0\u1ee3c",
+    "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
+    "AKESO Repurchases 200,000 Shares Again at About HKD12M - TradingView",
+    "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014",
+    "Congress passes bill to protect older investors from financial fraud",
+    "How a sex scandal at Nvidia is putting pressure on the White House"
   ]
 }
