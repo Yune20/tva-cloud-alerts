@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795179065.3520098,
-  "last_bot4": 1795179986.1978931,
+  "last_bot4": 1795180595.1563046,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795179986.1986327,
+  "last_signals": 1795180595.1574078,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,12 +63,12 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": true,
+    "Ethereum|1H": false,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795179986.7636437,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795179986.92814,
-    "DXY|1D:top": 1795179987.7675412,
-    "EUR/USD|1D:bot": 1795179987.4542003,
+    "DXY|1D:top": 1795180596.3818405,
+    "EUR/USD|1D:bot": 1795180596.1350136,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -156,14 +156,8 @@
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795180298.8191564,
-  "last_news": 1795179983.7062585,
+  "last_news": 1795180595.1555636,
   "seen_news": [
-    "M\u00f3n n\u1ee3 g\u1ea7n 1.000 t\u1ef7 \u0111\u1ed3ng d\u01b0\u1edbi th\u1eddi c\u1ef1u Ch\u1ee7 t\u1ecbch Ocean Bank H\u00e0 V\u0103n Th\u1eafm \u0111ang \u0111\u01b0\u1ee3c",
-    "Monthly Updates on Macroeconomics and Financial Market - VietstockFinance",
-    "AKESO Repurchases 200,000 Shares Again at About HKD12M - TradingView",
-    "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014",
-    "Congress passes bill to protect older investors from financial fraud",
-    "How a sex scandal at Nvidia is putting pressure on the White House",
     "The rise and fall of Jensen Huang - how the tech superstar became mired in scand",
     "Asia FX struggles as dollar holds near 19-mth high, Aussie hits 11-month low",
     "investingLive Asia-Pacific market news: Red Friday as Asia\u2019s AI trade unravels",
@@ -457,6 +451,12 @@
     "Di\u1ec5n \u0111\u00e0n K\u1ebft n\u1ed1i \u0111\u1ea7u t\u01b0 2026: \u0110i\u1ec3m h\u1eb9n \u0111\u1ec3 doanh nghi\u1ec7p FDI n\u1eafm b\u1eaft c\u01a1 h\u1ed9i v\u00e0 h\u1ee3p",
     "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
     "RGCO Q4'26 Earnings: EPS estimate is 0.24 USD - TradingView",
-    "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era pro"
+    "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era pro",
+    "K\u1ef9 s\u01b0 \u0110\u1ee9c x\u00e2y c\u00e2y c\u1ea7u ch\u01b0a t\u1eebng c\u00f3 tr\u00ean th\u1ebf gi\u1edbi, \"khai t\u1eed\" ho\u00e0n to\u00e0n b\u00ea t\u00f4ng, b",
+    "HCM: CTCP Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - HSC - VietstockFinance",
+    "REG - Squarepoint Ops LLC Bodycote PLC - Form 8.3 - Bodycote PLC - TradingView",
+    "These 5 defense stocks are drawing millions in insider bets ahead of military-sp",
+    "Anthropic raises $93.5 billion total as underwriters scoop up \u2018greenshoe\u2019 overal",
+    "GTA 6 drives spike in download demand, as estimated sales top $2.3bn"
   ]
 }
