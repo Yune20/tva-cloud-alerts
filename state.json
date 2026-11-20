@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795163771.624821,
+  "last_signals": 1795164384.2959926,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
@@ -78,7 +78,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": true,
+    "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -126,8 +126,8 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795163772.1644878,
-    "DXY|1D:top": 1795163772.8008728,
+    "Ethereum|1D:bot": 1795164384.89964,
+    "DXY|1D:top": 1795164385.672575,
     "EUR/USD|1D:bot": 1795163772.5629132,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795163763.6894932,
-  "last_news": 1795163771.6243155,
+  "last_analysis": 1795164376.3271015,
+  "last_news": 1795164384.2890024,
   "seen_news": [
-    "TechnipFMC secures up to $1.25B in Exxon Guyana contracts - TradingView",
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minute",
-    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "Citigroup misbooked trades at European unit, underestimated risk by $35 bln, Reu",
-    "Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide",
-    "Gi\u00e1 v\u00e0ng h\u00f4m nay 20/11: V\u00e0ng mi\u1ebfng SJC b\u00e1n ra 136,2 tri\u1ec7u \u0111\u1ed3ng/l\u01b0\u1ee3ng, v\u00e0ng th\u1ebf g",
     "Gold Stocks Fall: What's Going On? - TradingView",
     "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
     "Tens of thousands of UK fridges secured from hackers in secret nationwide operat",
@@ -457,6 +451,12 @@
     "AMD dives on short seller report of alleged China exposure",
     "California targets Nvidia in China AI chip probe",
     "US AI chip curbs hit China tech stocks, spur self-sufficiency push",
-    "Japan inflation picks up less than forecast as core-core slows to 2.2%"
+    "Japan inflation picks up less than forecast as core-core slows to 2.2%",
+    "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "Brazilian real near 52-week lows as fiscal concerns weigh on currency",
+    "Barclays: Back-to-back Fed hikes give the dollar staying power that a jumbo 50bp",
+    "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 55 tu\u1ed5i l\u1ea7n n\u00e0o \u0103n m\u00ec c\u0169ng cho gi\u1ea5m, \u0111\u1ebfn khi \u0111i kh\u00e1m, b\u00e1c s\u0129 th\u1edf d",
+    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
+    "Tingsvalvet Q3 Operating Surplus Up At SEK 155.2 Mln - TradingView"
   ]
 }
