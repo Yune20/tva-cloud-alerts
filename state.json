@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795177467.3958695,
+  "last_signals": 1795178088.1108766,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -78,7 +78,7 @@
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
-    "EUR/USD|4H": false,
+    "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
@@ -124,11 +124,11 @@
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
     "DXY|4H:top": 1795158200.6377797,
-    "Bitcoin|4H:bot": 1795161249.2724404,
+    "Bitcoin|4H:bot": 1795178089.100405,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795176176.8004684,
+    "Ethereum|1D:bot": 1795178089.401555,
     "DXY|1D:top": 1795174340.6932757,
-    "EUR/USD|1D:bot": 1795169026.0247884,
+    "EUR/USD|1D:bot": 1795178090.4600832,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1795177467.904123,
+    "USOIL|4H:bot": 1795178088.7607877,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795177460.027326,
-  "last_news": 1795177467.394732,
+  "last_analysis": 1795178081.2102177,
+  "last_news": 1795178088.1101508,
   "seen_news": [
-    "GTA 6 breaks records as sales top $2.3bn - industry estimate",
-    "Exclusive-US should restrict investments in China\u2019s aerospace sector, not certif",
-    "No, the Fed isn\u2019t pumping $1.756 billion into markets on Friday morning: what th",
-    "\u0110\u00fang ng\u00e0y 20/11, khu du l\u1ecbch \u0110\u1ea1i Nam c\u1ee7a v\u1ee3 ch\u1ed3ng b\u00e0 Nguy\u1ec5n Ph\u01b0\u01a1ng H\u1eb1ng ph\u00e1t \u0111i ",
-    "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
-    "How video game remakes tap the power of nostalgia",
     "Ng\u01b0\u1eddi ph\u1ee5 n\u1eef 48 tu\u1ed5i t\u1eed vong v\u00ec ti\u1ec3u \u0111\u01b0\u1eddng, b\u00e1c s\u0129 h\u1ecfi ng\u01b0\u1eddi nh\u00e0: \"Sao \u0111\u1ec3 b\u00e0 \u1ea5y ",
     "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu Ti\u1ec1n t\u1ec7: T\u1ef7 gi\u00e1 USD/VND ti\u1ebfp t\u1ee5c gi\u1ea3m th\u00e1ng th\u1ee9 t\u01b0 li\u00ean ti\u1ebfp ",
     "Dinari Inc. Launches Anthropic Tokenized Shares on First Trading Day - TradingVi",
@@ -457,6 +451,12 @@
     "'Ch\u1ed1t' ho\u00e0n t\u1ea5t k\u1ebft qu\u1ea3 ki\u1ec3m tra 15 th\u1eeda \u0111\u1ea5t c\u1ee7a ng\u01b0\u1eddi c\u00f3 ngh\u1ec7 danh L\u00fd Nh\u00e3 K\u1ef3",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
     "PATRIZIA SE (PAT) Aberdeen Group Falls Below 3% Voting Rights - TradingView",
-    "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that"
+    "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that",
+    "V\u00ec sao C\u00e0 Mau c\u1ea5m tr\u1ed3ng hoa ng\u0169 s\u1eafc, lo\u00e0i c\u00e2y \u0111\u01b0\u1ee3c ngh\u1ec7 nh\u00e2n \u1ea4n \u0110\u1ed9 ch\u1ebf t\u00e1c th\u00e0nh",
+    "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
+    "EASYJET PLC (EZJ) Receives Major Holdings Notification From Bank of America - Tr",
+    "GameStop has transformed from a meme stock into a \u2018real company,\u2019 analysts say",
+    "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better cloth",
+    "The engine parts that 'fight the laws of the universe'"
   ]
 }
