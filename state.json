@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795134577.8385713,
+  "last_signals": 1795135200.3143353,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": true,
     "USD/JPY|1D": false,
     "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": true,
     "JPY Index|1D": false
   },
@@ -123,9 +123,9 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795134580.3377664,
-    "Bitcoin|4H:bot": 1795134578.710641,
-    "EUR/USD|4H:bot": 1795134579.841682,
+    "DXY|4H:top": 1795135201.5094934,
+    "Bitcoin|4H:bot": 1795135200.6747324,
+    "EUR/USD|4H:bot": 1795135201.2854595,
     "Ethereum|1D:bot": 1793059155.904477,
     "DXY|1D:top": 1795101565.2347565,
     "EUR/USD|1D:bot": 1795122808.4873848,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795134579.0554557,
+    "Ethereum|4H:bot": 1795135200.8488197,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795134569.9574635,
-  "last_news": 1795134577.83787,
+  "last_analysis": 1795135192.6768596,
+  "last_news": 1795135200.3136394,
   "seen_news": [
-    "A CoreWeave co-founder just made an unconventional $30 million wager on its batt",
-    "AMD falls on short-seller report of alleged China exposure",
-    "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
-    "Visa, Mastercard and JPMorgan customer data leaked in third-party cyberattack",
-    "The broader indices are benefiting from the Anthropic enthusiasm, but there is w",
     "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our ",
     "Palo Alto stock jumps on earnings beat and company's big bet on securing open-we",
     "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
@@ -457,6 +451,12 @@
     "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
     "Citigroup misbooked trades at European unit, underestimated risk by $35 bln, Reu",
     "Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide",
-    "Gi\u00e1 v\u00e0ng h\u00f4m nay 20/11: V\u00e0ng mi\u1ebfng SJC b\u00e1n ra 136,2 tri\u1ec7u \u0111\u1ed3ng/l\u01b0\u1ee3ng, v\u00e0ng th\u1ebf g"
+    "Gi\u00e1 v\u00e0ng h\u00f4m nay 20/11: V\u00e0ng mi\u1ebfng SJC b\u00e1n ra 136,2 tri\u1ec7u \u0111\u1ed3ng/l\u01b0\u1ee3ng, v\u00e0ng th\u1ebf g",
+    "Gold Stocks Fall: What's Going On? - TradingView",
+    "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "Tens of thousands of UK fridges secured from hackers in secret nationwide operat",
+    "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
+    "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
+    "11-day Bitcoin redemption freeze: the risk hiding inside BTC-backed tokens"
   ]
 }
