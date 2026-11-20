@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795152961.458375,
+  "last_signals": 1795153579.4441247,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -74,7 +74,7 @@
     "US30|1H": false,
     "US30|4H": false,
     "US30|1D": false,
-    "GBP/USD|1H": true,
+    "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
     "EUR/USD|1H": true,
@@ -123,12 +123,12 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795152962.7016096,
-    "Bitcoin|4H:bot": 1795152961.8665106,
+    "DXY|4H:top": 1795153581.9267197,
+    "Bitcoin|4H:bot": 1795153580.2652595,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795152962.7016294,
-    "EUR/USD|1D:bot": 1795152962.4368992,
+    "DXY|1D:top": 1795153581.9267406,
+    "EUR/USD|1D:bot": 1795153581.4379864,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795152953.3762448,
-  "last_news": 1795152961.4576876,
+  "last_analysis": 1795153570.8177462,
+  "last_news": 1795153579.4434328,
   "seen_news": [
-    "Suckers' rally 2.0? Nasdaq rebounds amid Anthropic enthusiasm despite growing ma",
-    "Vi\u1ec7t Nam c\u00f3 gia \u0111\u00ecnh kh\u1edfi nghi\u1ec7p t\u1eeb x\u01b0\u1edfng nh\u1ef1a v\u1edbi 3 chi\u1ebfc m\u00e1y c\u0169, nay g\u00e2y d\u1ef1ng ",
-    "TCB: Ng\u00e2n h\u00e0ng TMCP K\u1ef9 th\u01b0\u01a1ng Vi\u1ec7t Nam - TECHCOMBANK - Th\u1ed1ng k\u00ea giao d\u1ecbch - Viet",
-    "Quant rating on Coatue Management top holdings: TSM, MU, META, LRCX - TradingVie",
-    "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-    "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
     "BVH: T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t - T\u1eadp \u0110o\u00e0n B\u1ea3o Vi\u1ec7t - VietstockFinance",
     "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
     "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days.",
@@ -457,6 +451,12 @@
     "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
     "Living with a stink? Technology might help",
     "Softbank Group shares slump 15% on AI rout; Son regrets not buying into Anthropi",
-    "What are the main events for today?"
+    "What are the main events for today?",
+    "Amazon app warns New York of higher costs if Mamdani delivery law passes",
+    "Robot vessels take on the dangerous work of mine hunting",
+    "Why is Advantest stock tumbling 10% today?",
+    "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
+    "N\u00e2ng th\u00e0nh c\u00f4ng v\u00f2m th\u00e9p r\u1ed9ng 20.000m2 l\u1edbn nh\u1ea5t th\u1ebf gi\u1edbi v\u00e0o \u0111\u00fang v\u1ecb tr\u00ed, Vi\u1ec7t N",
+    "TIG: CTCP T\u1eadp \u0111o\u00e0n \u0110\u1ea7u t\u01b0 Th\u0103ng Long - THANG LONG INVESTGROUP.,JSC - VietstockFi"
   ]
 }
