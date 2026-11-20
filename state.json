@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795168040.633672,
-  "last_bot4": 1795172996.6612024,
+  "last_bot4": 1795173677.782701,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795172391.972047
+    "Gold": 1795173677.7826023
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795173312.1790695,
+  "last_signals": 1795173677.7834594,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,11 +65,11 @@
     "USOIL|1H": true,
     "USOIL|4H": false,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
-    "Ethereum|4H": true,
+    "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
     "US30|4H": false,
@@ -126,7 +126,7 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795173312.6889422,
+    "Ethereum|1D:bot": 1795173678.4179556,
     "DXY|1D:top": 1795170244.6581948,
     "EUR/USD|1D:bot": 1795169026.0247884,
     "US30|1D:top": 1792595589.8777509,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1795173312.4081085,
+    "USOIL|4H:bot": 1795173678.0354345,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795173303.758329,
-  "last_news": 1795173312.178412,
+  "last_analysis": 1795173665.8618622,
+  "last_news": 1795173675.2088678,
   "seen_news": [
-    "+82% since entry - a cloud software name our models picked keeps climbing",
-    "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
-    "T\u1eadp \u0111o\u00e0n \u0110\u00e0i Loan (Trung Qu\u1ed1c) c\u00f3 si\u00eau t\u1ed5 h\u1ee3p kh\u1ed5ng l\u1ed3 h\u01a1n 3.300 ha ven bi\u1ec3n Mi\u1ec1",
-    "C\u00f4ng c\u1ee5 Ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt - VietstockFinance",
-    "Plurilock Security Inc. (PLUR) Shareholders Approve C$0.28-Per-Share Takeover - ",
-    "One of the world's most contested seas is proving too much for Asia's leaders to",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
     "MFB Bancorp Offers Up to 1,035,000 Shares at $10 Each - TradingView",
     "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House",
@@ -457,6 +451,12 @@
     "White House replaces cyber director Sean Cairncross amid widespread tech outages",
     "Anthropic raises $81bn in record-breaking stock market debut",
     "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-    "Elev8 launches CFD trading on Anthropic, PBC (ANT) following historic IPO"
+    "Elev8 launches CFD trading on Anthropic, PBC (ANT) following historic IPO",
+    "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for",
+    "'An annoying buzz': The search for stealthier drones",
+    "Trafigura Not Rushing to Alternative Marine Fuels",
+    "\u2019Black Friday\u2019 brings consumer spending into focus for AI-rocked market",
+    "Oil prices remain under pressure as focus shifts from supply disruptions to dema",
+    "HAGL th\u00e0nh l\u1eadp c\u00f4ng ty con m\u1edbi, 'r\u00f3t' th\u00eam v\u1ed1n \u0111\u1ec3 tr\u1ed3ng c\u00e0 ph\u00ea"
   ]
 }
