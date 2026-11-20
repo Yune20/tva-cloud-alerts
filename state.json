@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795190556.4844682,
+  "last_signals": 1795191167.557347,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": false,
+    "DXY|1H": true,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795190557.7391813,
-    "EUR/USD|1D:bot": 1795190557.3910072,
+    "DXY|1D:top": 1795191170.0857794,
+    "EUR/USD|1D:bot": 1795191169.5747075,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795190547.7580514,
-  "last_news": 1795190556.483718,
+  "last_analysis": 1795191157.2307842,
+  "last_news": 1795191167.556561,
   "seen_news": [
-    "European shares near 1-month lows as Anthropic\u2019s debut fails to halt tech rout",
-    "UK October retail sales +0.7% vs +0.0% m/m expected",
-    "Tin vui cho ng\u01b0\u1eddi d\u00f9ng Gemini mi\u1ec5n ph\u00ed",
-    "Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Nike's M\u00f3nica Gil resigns from board and Compensation Committee - TradingView",
-    "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday",
     "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign laun",
     "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
     "Barclays warns of further equity weakness as hawkish Fed bets build",
@@ -457,6 +451,12 @@
     "The grads ditching the UK for a fresh start abroad",
     "Pfizer near-term support and resistance levels",
     "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
-    "N\u1eef \u0111\u1ea1i t\u00e1 \u0111\u1ee9ng sau th\u00e0nh c\u00f4ng c\u1ee7a 4 NSND, 10 NS\u01afT v\u00e0 nhi\u1ec1u ca s\u0129 n\u1ed5i ti\u1ebfng"
+    "N\u1eef \u0111\u1ea1i t\u00e1 \u0111\u1ee9ng sau th\u00e0nh c\u00f4ng c\u1ee7a 4 NSND, 10 NS\u01afT v\u00e0 nhi\u1ec1u ca s\u0129 n\u1ed5i ti\u1ebfng",
+    "Keysight Forecasts 20% Revenue Growth for 2027 on Strong Demand - TradingView",
+    "Our top 10 things to watch in the stock market Friday",
+    "Should AI be judging our credit worthiness?",
+    "Nasdaq slides in choppy trading as AI trade rout slams tech stocks",
+    "AI-linked stocks slide. Sandisk leads 14 names down more than 9%",
+    "\u0110\u00fang chi\u1ec1u ng\u00e0y 20/11, s\u00e2n bay N\u1ed9i B\u00e0i th\u1ef1c hi\u1ec7n nghi th\u1ee9c phun v\u00f2i r\u1ed3ng \u0111\u00f3n 1 c"
   ]
 }
