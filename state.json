@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795164384.2959926,
+  "last_signals": 1795164988.8441887,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -84,7 +84,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -126,7 +126,7 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795164384.89964,
+    "Ethereum|1D:bot": 1795164989.340363,
     "DXY|1D:top": 1795164385.672575,
     "EUR/USD|1D:bot": 1795163772.5629132,
     "US30|1D:top": 1792595589.8777509,
@@ -147,7 +147,7 @@
     "JPY Index|1D:bot": 1792954957.2799993,
     "GBP/USD|4H:bot": 1795150502.3846087,
     "Gold|1H:bot": 1794718478.637119,
-    "USOIL|4H:bot": 1794980038.0361793,
+    "USOIL|4H:bot": 1795164989.080409,
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795164376.3271015,
-  "last_news": 1795164384.2890024,
+  "last_analysis": 1795164982.5014064,
+  "last_news": 1795164988.8434744,
   "seen_news": [
-    "Gold Stocks Fall: What's Going On? - TradingView",
-    "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-    "Tens of thousands of UK fridges secured from hackers in secret nationwide operat",
-    "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
-    "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
-    "11-day Bitcoin redemption freeze: the risk hiding inside BTC-backed tokens",
     "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
     "Airbnb's divisive new house rules come into force",
     "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
@@ -457,6 +451,12 @@
     "Barclays: Back-to-back Fed hikes give the dollar staying power that a jumbo 50bp",
     "Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng 55 tu\u1ed5i l\u1ea7n n\u00e0o \u0103n m\u00ec c\u0169ng cho gi\u1ea5m, \u0111\u1ebfn khi \u0111i kh\u00e1m, b\u00e1c s\u0129 th\u1edf d",
     "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Tingsvalvet Q3 Operating Surplus Up At SEK 155.2 Mln - TradingView"
+    "Tingsvalvet Q3 Operating Surplus Up At SEK 155.2 Mln - TradingView",
+    "Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide",
+    "V\u1eeba nh\u1eadn B\u1eb1ng khen c\u1ee7a Th\u1ee7 t\u01b0\u1edbng, PGS.TS.NS\u01afT T\u00e2n Nh\u00e0n ra m\u1eaft MV tri \u00e2n ngh\u1ec1 gi\u00e1",
+    "VietstockFinance \u2013 D\u1eef li\u1ec7u t\u00e0i ch\u00ednh v\u00e0 c\u00f4ng c\u1ee5 \u0111\u1ea7u t\u01b0 ch\u1ee9ng kho\u00e1n - VietstockFi",
+    "Anthropic founders mint $1.95B from record-breaking IPO - TradingView",
+    "Japan core inflation soars to highest this year as energy subsidy expiry pushes ",
+    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'"
   ]
 }
