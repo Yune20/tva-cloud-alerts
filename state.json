@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795198664.7110925,
+  "last_signals": 1795199276.4934897,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -62,7 +62,7 @@
     "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
-    "USOIL|1H": true,
+    "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
@@ -80,13 +80,13 @@
     "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
-    "USD/JPY|1H": true,
+    "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
-    "JPY Index|1H": true,
+    "JPY Index|1H": false,
     "JPY Index|4H": false,
     "JPY Index|1D": true
   },
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795198666.231954,
-    "EUR/USD|1D:bot": 1795198665.893585,
+    "DXY|1D:top": 1795199278.033347,
+    "EUR/USD|1D:bot": 1795199277.6611507,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795198664.860181,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795198656.7448995,
-  "last_news": 1795198664.7103424,
+  "last_analysis": 1795199266.5173867,
+  "last_news": 1795199276.4928117,
   "seen_news": [
-    "How important are Nvidia and Jensen Huang to the US economy?",
-    "7,000 Egyptian Factories Will Soon Be Solar-powered",
-    "Why is ASML stock sliding today?",
-    "ICYMI: AMD slides 8% as short seller Hunterbrook ties its firmware to a blacklis",
-    "L\u00fd do Hoa h\u1eadu Th\u00f9y L\u00e2m v\u1eabn tr\u1ebb \u0111\u1eb9p su\u1ed1t 18 n\u0103m",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure",
     "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying i",
     "Sau tu\u1ed5i 60, c\u00f3 5 kho\u1ea3n ti\u1ec1n nh\u1ea5t \u0111\u1ecbnh ph\u1ea3i gi\u1eef l\u1ea1i cho m\u00ecnh, d\u00f9 con c\u00e1i c\u00f3 hi\u1ebfu",
@@ -457,6 +451,12 @@
     "Fed\u2019s Cook says monetary policy isn\u2019t restrictive enough",
     "Ng\u00e0y 21/11, g\u1eedi d\u01b0\u1edbi 100 tri\u1ec7u \u0111\u1ed3ng k\u1ef3 h\u1ea1n 3 th\u00e1ng t\u1ea1i MB, VPBank, Techcombank, ",
     "H\u0110TL ch\u1ec9 s\u1ed1 VN30 01 th\u00e1ng HNX: VN30F1M - VietstockFinance",
-    "Are Options Traders Betting on a Big Move in Mattel Stock? - TradingView"
+    "Are Options Traders Betting on a Big Move in Mattel Stock? - TradingView",
+    "Bitcoin extends losses as growth concerns increase amid stock market rout. What ",
+    "Vi\u1ec7t Nam \u0111\u00f3n m\u1ed9t tin c\u1ef1c vui t\u1eeb Campuchia",
+    "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
+    "Why Nebius Stock Is Falling Today Despite Strong AI Cloud Demand? - TradingView",
+    "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lo",
+    "We\u2019re making another small buy as the market sell-off deepens"
   ]
 }
