@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795202943.5957942,
+  "last_signals": 1795203553.5043242,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795201724.993164,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,13 +77,13 @@
     "GBP/USD|1H": false,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795202943.8280733,
+    "USOIL|1D:bot": 1795203554.0522964,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795202932.1919014,
-  "last_news": 1795202943.5950928,
+  "last_analysis": 1795203546.139084,
+  "last_news": 1795203553.5035822,
   "seen_news": [
-    "PDR: CTCP Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t - C\u00f4ng ty C\u1ed5 ph\u1ea7n PTB\u0110S Ph\u00e1t \u0110\u1ea1t - Vi",
-    "HC Wainwright & Co. maintains Halozyme Therapeutics at Buy, keeps price target a",
-    "Citi warns a key stock-market signal is close to flashing red",
-    "Lumentum CEO defends Marvell deal after stock plunge: 'We've got work to do' wit",
-    "Government backs welfare shake-up to prevent 'lost generation'",
-    "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
     "NLG: CTCP \u0110\u1ea7u t\u01b0 Nam Long - NLG CORP - VietstockFinance",
     "'Black Friday' brings consumer spending into focus for AI-rocked market - Tradin",
     "Gap names new Athleta CEO, lowers full-year guidance",
@@ -457,6 +451,12 @@
     "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
     "Anthropic raises $81bn in record-breaking stock market debut",
     "US Data Center Boom Faces a New Political Reality",
-    "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator\u2019s"
+    "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator\u2019s",
+    "Tesla opens first Argentina store, deepening Latin America push",
+    "Elev8 launches CFD trading on Anthropic, PBC (ANT) following historic IPO",
+    "\u0110\u1ea1i gia g\u1ed1c Thanh H\u00f3a t\u1eebng thi c\u00f4ng v\u00f2m th\u00e9p l\u1edbn nh\u1ea5t h\u00e0nh tinh g\u00f3p m\u1eb7t t\u1ea1i c\u00f4ng",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t kh\u1ea9u b\u1ee9t ph\u00e1, gi\u00e1 nhi\u00ean li\u1ec7u cao gi\u1eef CPI tr\u00ean 5% - Vietstock",
+    "Flowers Foods Declares $0.03 Quarterly Dividend, Payable Dec. 18 - TradingView",
+    "The Fed is too busy fighting inflation to rescue the stock market"
   ]
 }
