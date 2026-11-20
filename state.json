@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795140872.137855,
+  "last_signals": 1795141492.9180653,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -37,7 +37,7 @@
     "5575146754|Gold|1H|momo_dn": 1794972897.894177,
     "5575146754|Gold|4H|tbot": 1795047010.431319,
     "5575146754|Gold|4H|dbot": 1795069851.231938,
-    "5575146754|Gold|4H|momo_dn": 1795137416.1960738,
+    "5575146754|Gold|4H|momo_dn": 1795141492.9180653,
     "5575146754|Gold|4H|dn": 1795139655.4176545,
     "5575146754|Gold|4H|trap_dn": 1795134577.8385713,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795140863.3615716,
-  "last_news": 1795140872.1370363,
+  "last_analysis": 1795141484.8209321,
+  "last_news": 1795141492.9174688,
   "seen_news": [
-    "US stocks race lower.  There is some market indigestion from the Anthropic IPO",
-    "Vi\u1ec7t Nam c\u00f3 ng\u01b0\u1eddi th\u1ea7y \u0111\u1eb7c bi\u1ec7t ch\u1ec9 d\u1ea1y h\u1ecdc 5 n\u0103m, sau \u0111\u00f3 b\u1ea5t ng\u1edd ngh\u1ec9 vi\u1ec7c \u0111i \u0111",
-    "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
-    "Elior profit falls as Italian rail contract dispute weighs - TradingView",
-    "My wife pays for her family to visit us in New York. How do I tell her we can\u2019t ",
-    "AMD dives on short-seller report of alleged China exposure",
     "Kh\u1ed1i ngo\u1ea1i b\u00e1n r\u00f2ng 126.000 t\u1ef7 t\u1eeb \u0111\u1ea7u n\u0103m 2026, k\u1ef7 l\u1ee5c ch\u01b0a t\u1eebng c\u00f3",
     "Doanh nghi\u1ec7p AZ - VietstockFinance",
     "BP weighs selling key West Africa LNG plant - Bloomberg - TradingView",
@@ -457,6 +451,12 @@
     "ICYMI: AMD slides 8% as short seller Hunterbrook ties its firmware to a blacklis",
     "Nh\u00e0 m\u00e1y th\u1ee7y \u0111i\u1ec7n n\u1eb1m trong l\u00f2ng n\u00fai \u1edf Vi\u1ec7t Nam: Ph\u00eda tr\u00ean l\u00e0 l\u1edbp \u0111\u00e1 ph\u1ee7 h\u01a1n 1.0",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
-    "Solo Brands (SBDS) Launches Lloyd 2.0 Fireplace at $549.99 - TradingView"
+    "Solo Brands (SBDS) Launches Lloyd 2.0 Fireplace at $549.99 - TradingView",
+    "GTA 6 breaks records as sales top $2bn - industry estimate",
+    "Exclusive-Trump administration weighs forcing US firms to disclose Chinese AI us",
+    "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying i",
+    "Xe \u0111i\u1ec7n Mitsubishi ngang c\u1ee1 Xforce c\u00f3 gi\u00e1 quy \u0111\u1ed5i t\u1eeb g\u1ea7n 800 tri\u1ec7u \u0111\u1ed3ng: N\u1ec1n t\u1ea3n",
+    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
+    "Vietnam dong, gold rates - November 20 - TradingView"
   ]
 }
