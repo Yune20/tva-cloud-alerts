@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795189945.079492,
+  "last_signals": 1795190556.4844682,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -59,7 +59,7 @@
     "DXY": true,
     "JPY Index": true,
     "US 10Y": true,
-    "Gold|1H": true,
+    "Gold|1H": false,
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": true,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795189946.4698033,
-    "EUR/USD|1D:bot": 1795189946.1937559,
+    "DXY|1D:top": 1795190557.7391813,
+    "EUR/USD|1D:bot": 1795190557.3910072,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795189934.2339354,
-  "last_news": 1795189941.6250255,
+  "last_analysis": 1795190547.7580514,
+  "last_news": 1795190556.483718,
   "seen_news": [
-    "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
-    "Should AI be judging our credit worthiness?",
-    "Indonesia asks Google to explain removal of 19,000 YouTube channels",
-    "FX option expiries for 20 November 10am New York cut",
-    "Ph\u00e1t hi\u1ec7n h\u01a1n 500 xe t\u1ea3i \u0111\u1ea5t r\u1eddi kh\u1ecfi c\u00f4ng tr\u01b0\u1eddng m\u1ed7i \u0111\u00eam, \u0111\u1ed5 th\u00eam 13.200 m\u00b3 b\u00ea ",
-    "C\u1eacP NH\u1eacT KINH T\u1ebe V\u0128 M\u00d4 VI\u1ec6T NAM \u2014 Th\u00e1ng 10/2026 (H\u00e0ng th\u00e1ng) - VietstockFinance",
     "European shares near 1-month lows as Anthropic\u2019s debut fails to halt tech rout",
     "UK October retail sales +0.7% vs +0.0% m/m expected",
     "Tin vui cho ng\u01b0\u1eddi d\u00f9ng Gemini mi\u1ec5n ph\u00ed",
@@ -457,6 +451,12 @@
     "This closely watched investing guru just sold all of his stocks",
     "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks wi",
     "The Indian workers filming their work to train AI",
-    "Why is Western Digital stock sliding today?"
+    "Why is Western Digital stock sliding today?",
+    "Investors fled to healthcare stocks for safety. Now insurance and hospital share",
+    "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+    "The grads ditching the UK for a fresh start abroad",
+    "Pfizer near-term support and resistance levels",
+    "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
+    "N\u1eef \u0111\u1ea1i t\u00e1 \u0111\u1ee9ng sau th\u00e0nh c\u00f4ng c\u1ee7a 4 NSND, 10 NS\u01afT v\u00e0 nhi\u1ec1u ca s\u0129 n\u1ed5i ti\u1ebfng"
   ]
 }
