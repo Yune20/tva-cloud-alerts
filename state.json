@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795195597.8688662,
+  "last_signals": 1795196212.8062592,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795195599.1332803,
-    "EUR/USD|1D:bot": 1795195598.8595922,
+    "DXY|1D:top": 1795196215.3949783,
+    "EUR/USD|1D:bot": 1795196214.7912853,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795195591.7644622,
-  "last_news": 1795195597.868249,
+  "last_analysis": 1795196205.2412772,
+  "last_news": 1795196212.8055446,
   "seen_news": [
-    "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "US Oil and Gas Deal Boom Lures BMO Back Into the Market",
-    "Deutsche Bank shares fall 3.2% amid compliance crisis fallout",
-    "Japan CPI misses on all three measures, but core stays above 2% ahead of a BoJ h",
-    "Qu\u1ed1c h\u1ed9i ch\u1ed1t \u00e1p thu\u1ebf 0,2% v\u1edbi \u0111\u1ea5t b\u1ecf hoang t\u1eeb 1/7/2027",
-    "Giao d\u1ecbch nh\u00e0 \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i - VietstockFinance",
     "How Energy Security Is Reshaping Global Investment Decisions",
     "Why is Deutsche Bank stock declining today?",
     "Bitcoin extends losses as growth concerns increase amid stock market rout. What ",
@@ -457,6 +451,12 @@
     "Dollar index hits 52-week high, driven by haven demand and rate expectations",
     "Could Jensen Huang end up at SpaceX? Dan Ives thinks he could work alongside Elo",
     "Vi\u1ec7t Nam th\u00e0nh c\u00f4ng \u0111\u01b0a 1.012 c\u1ed1i \u0111\u00e1 x\u1ebfp ch\u1ed3ng l\u00ean nhau, l\u00e0m n\u00ean c\u00f4ng tr\u00ecnh thu\u1ed9",
-    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance"
+    "CTG: T\u1ed5ng h\u1ee3p cu\u1ed9c h\u1ecdp nh\u00e0 \u0111\u1ea7u t\u01b0 (17/11/2026) - VietstockFinance",
+    "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
+    "Gold breaks below the 50% midpoint. Can buyers hold the old breakout area?",
+    "Thay \u0111\u1ed5i \u0111\u00e1ng l\u01b0u \u00fd v\u1ec1 k\u1ef3 chi tr\u1ea3 l\u01b0\u01a1ng h\u01b0u th\u00e1ng 12/2026: Ng\u01b0\u1eddi nh\u1eadn l\u01b0\u01a1ng h\u01b0u,",
+    "D\u1eef li\u1ec7u ng\u00e0nh VS-Sector - VietstockFinance",
+    "KDA Group Inc. (KDA) Raises $545.4K in Private Placement - TradingView",
+    "Medicare beneficiaries could skip the nursing home for cheaper care at home unde"
   ]
 }
