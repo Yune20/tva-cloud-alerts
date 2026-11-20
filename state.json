@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795145879.5495193,
-  "last_bot4": 1795154500.3928185,
+  "last_bot4": 1795155154.6975012,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795154789.6770568,
+  "last_signals": 1795155154.6982784,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -39,7 +39,7 @@
     "5575146754|Gold|4H|dbot": 1795069851.231938,
     "5575146754|Gold|4H|momo_dn": 1795152961.458375,
     "5575146754|Gold|4H|dn": 1795151109.7865717,
-    "5575146754|Gold|4H|trap_dn": 1795134577.8385713,
+    "5575146754|Gold|4H|trap_dn": 1795155154.6982784,
     "5575146754|Gold|1D|tbot": 1794978210.888435,
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
@@ -123,12 +123,12 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795154791.9100676,
-    "Bitcoin|4H:bot": 1795154790.4397886,
+    "DXY|4H:top": 1795155155.9171605,
+    "Bitcoin|4H:bot": 1795155155.115635,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795154790.7045264,
-    "DXY|1D:top": 1795154791.910082,
-    "EUR/USD|1D:bot": 1795154791.4364018,
+    "Ethereum|1D:bot": 1795155155.2609124,
+    "DXY|1D:top": 1795155155.917179,
+    "EUR/USD|1D:bot": 1795155155.6722283,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -136,7 +136,7 @@
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795154790.7045114,
+    "Ethereum|4H:bot": 1795155155.2608933,
     "USD/JPY|4H:bot": 1794916290.0034947,
     "JPY Index|4H:bot": 1794916290.5678422,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795154497.9681456,
-  "last_news": 1795154789.6765344,
+  "last_analysis": 1795155147.9375534,
+  "last_news": 1795155154.6967661,
   "seen_news": [
-    "Markets are sending troubling signals about the state of the economy",
-    "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-    "Anthropic becomes one of world's most valuable public companies in stock market ",
-    "Traders Seek Long-Term Crude Supply Deals with Qatar",
-    "Dollar pinned at 19-month high amid hawkish signals from Fed\u2019s Waller, minutes",
-    "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
     "J.P. Morgan now sees three straight Fed hikes, dropping its \u2018December and done\u2019 ",
     "Xu h\u01b0\u1edbng c\u01b0\u1edbi xin m\u1edbi \u1edf Trung Qu\u1ed1c: G\u1ecdi t\u00e0i tr\u1ee3 t\u1eeb c\u00e1c nh\u00e3n h\u00e0ng \u0111\u1ec3 ti\u1ebft ki\u1ec7m ti",
     "L\u1ecbch s\u1ef1 ki\u1ec7n - VietstockFinance",
@@ -457,6 +451,12 @@
     "Taiwan stocks lower at close of trade; Taiwan Weighted down 6.63%",
     "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
     "N\u1eef Gi\u00e1o s\u01b0 duy nh\u1ea5t c\u1ee7a \u0110H B\u00e1ch khoa H\u00e0 N\u1ed9i v\u1eeba nh\u1eadn b\u1eb1ng khen c\u1ee7a B\u1ed9 tr\u01b0\u1edfng B\u1ed9 ",
-    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance"
+    "PVT: T\u1ed5ng C\u00f4ng ty c\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed - PV TRANS CORP - VietstockFinance",
+    "Mouldy, infested housing for vulnerable people sold as ethical investments abroa",
+    "5 Energy Stocks to Benefit from Anthropic\u2019s $1.5 Trillion Debut",
+    "TD Cowen names top software stock for 2027",
+    "Gold at $3,625: five forces behind the sell-off, and four reasons buyers haven\u2019t",
+    "13 doanh nghi\u1ec7p Israel t\u00ecm ki\u1ebfm nh\u00e0 cung \u1ee9ng h\u00e0ng h\u00f3a Vi\u1ec7t Nam",
+    "TPB: Ng\u00e2n h\u00e0ng TMCP Ti\u00ean Phong - TPBank - VietstockFinance"
   ]
 }
