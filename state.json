@@ -1,5 +1,5 @@
 {
-  "last_news_report": 1795179065.3520098,
+  "last_news_report": 1795189945.0785816,
   "last_bot4": 1795189325.343251,
   "watch_symbols": [],
   "watch_by_chat": {
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795189616.212782,
+  "last_signals": 1795189945.079492,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795189616.212782,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -83,7 +83,7 @@
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
     "USD/JPY|1D": true,
-    "DXY|1H": true,
+    "DXY|1H": false,
     "DXY|4H": true,
     "DXY|1D": false,
     "JPY Index|1H": false,
@@ -127,8 +127,8 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795189618.4785278,
-    "EUR/USD|1D:bot": 1795189617.965902,
+    "DXY|1D:top": 1795189946.4698033,
+    "EUR/USD|1D:bot": 1795189946.1937559,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795189322.5154078,
-  "last_news": 1795189616.2117712,
+  "last_analysis": 1795189934.2339354,
+  "last_news": 1795189941.6250255,
   "seen_news": [
-    "B\u00e1o c\u00e1o Tr\u00e1i phi\u1ebfu ti\u1ec1n t\u1ec7 10/2026 - VietstockFinance",
-    "Tesla, Inc. Stock 12\u2011Month Price Target Raised to $429.16, Implies 15% Upside - ",
-    "California attorney general issues Nvidia subpoena in probe of China chip divers",
-    "Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign lau",
-    "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
-    "This discount retailer is among TD Cowen\u2019s \u2018best ideas\u2019 for 2027",
     "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
     "Should AI be judging our credit worthiness?",
     "Indonesia asks Google to explain removal of 19,000 YouTube channels",
@@ -457,6 +451,12 @@
     "Speed camera fault may have allowed drivers to escape fines",
     "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
     "Why is Marvell Technology stock sliding today?",
-    "Canada seeks interim U.S. tariff deal by year-end, CBC reports"
+    "Canada seeks interim U.S. tariff deal by year-end, CBC reports",
+    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
+    "Spotting winners: Shake Shack and modern fast food stocks in Q3 - TradingView",
+    "This closely watched investing guru just sold all of his stocks",
+    "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks wi",
+    "The Indian workers filming their work to train AI",
+    "Why is Western Digital stock sliding today?"
   ]
 }
