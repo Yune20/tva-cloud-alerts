@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795170862.3517628,
+  "last_signals": 1795171498.654065,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795161910.7552416,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -77,7 +77,7 @@
     "GBP/USD|1H": true,
     "GBP/USD|4H": false,
     "GBP/USD|1D": false,
-    "EUR/USD|1H": false,
+    "EUR/USD|1H": true,
     "EUR/USD|4H": false,
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
@@ -126,7 +126,7 @@
     "DXY|4H:top": 1795158200.6377797,
     "Bitcoin|4H:bot": 1795161249.2724404,
     "EUR/USD|4H:bot": 1795139656.6815112,
-    "Ethereum|1D:bot": 1795170862.9080544,
+    "Ethereum|1D:bot": 1795171499.195707,
     "DXY|1D:top": 1795170244.6581948,
     "EUR/USD|1D:bot": 1795169026.0247884,
     "US30|1D:top": 1792595589.8777509,
@@ -137,10 +137,10 @@
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
     "Ethereum|4H:bot": 1795161249.597906,
-    "USD/JPY|4H:bot": 1794916290.0034947,
-    "JPY Index|4H:bot": 1794916290.5678422,
+    "USD/JPY|4H:bot": 1795171499.751289,
+    "JPY Index|4H:bot": 1795171500.0117512,
     "EUR/USD|4H:top": 1793861309.7279906,
-    "Bitcoin|1D:bot": 1795170862.7533731,
+    "Bitcoin|1D:bot": 1795171499.0509396,
     "DXY|4H:bot": 1793776186.638589,
     "GBP/USD|1D:top": 1793918983.2774374,
     "USD/JPY|1D:bot": 1792954956.926514,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795170856.3013055,
-  "last_news": 1795170862.3511796,
+  "last_analysis": 1795171491.767546,
+  "last_news": 1795171498.6535065,
   "seen_news": [
-    "GTA 6 breaks records as sales top $2bn - industry estimate",
-    "Exclusive-Trump administration weighs forcing US firms to disclose Chinese AI us",
-    "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying i",
-    "Xe \u0111i\u1ec7n Mitsubishi ngang c\u1ee1 Xforce c\u00f3 gi\u00e1 quy \u0111\u1ed5i t\u1eeb g\u1ea7n 800 tri\u1ec7u \u0111\u1ed3ng: N\u1ec1n t\u1ea3n",
-    "B\u00e1o c\u00e1o Chi\u1ebfn l\u01b0\u1ee3c: K\u1ef3 v\u1ecdng b\u01b0\u1edbc v\u00e0o giai \u0111o\u1ea1n t\u0103ng tr\u01b0\u1edfng - VietstockFinance",
-    "Vietnam dong, gold rates - November 20 - TradingView",
     "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questi",
     "Quy \u0111\u1ecbnh v\u1ec1 ti\u1ec1n l\u01b0\u01a1ng v\u00e0 th\u1eddi gian c\u00f4ng t\u00e1c \u0111\u1ec3 t\u00ednh h\u01b0\u1edfng ch\u1ebf \u0111\u1ed9 \u0111\u1ed1i v\u1edbi qu\u00e2n n",
     "DCM: Khuy\u1ebfn ngh\u1ecb MUA v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 38,200 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinance",
@@ -457,6 +451,12 @@
     "Here\u2019s what happened next after previous times the S&P 500 losing streak reached",
     "Putin scores \u2018massive win\u2019 at first trilateral meeting, rebuilding standing as U",
     "Nvidia says it won't reinstate Huang as it reports soaring sales",
-    "Exclusive-Beijing to bar young \u2019red-chip\u2019 firms from listing outside mainland Ch"
+    "Exclusive-Beijing to bar young \u2019red-chip\u2019 firms from listing outside mainland Ch",
+    "How important are Nvidia and Jensen Huang to the US economy?",
+    "7,000 Egyptian Factories Will Soon Be Solar-powered",
+    "Why is ASML stock sliding today?",
+    "ICYMI: AMD slides 8% as short seller Hunterbrook ties its firmware to a blacklis",
+    "L\u00fd do Hoa h\u1eadu Th\u00f9y L\u00e2m v\u1eabn tr\u1ebb \u0111\u1eb9p su\u1ed1t 18 n\u0103m",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance"
   ]
 }
