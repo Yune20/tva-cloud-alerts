@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795151722.9801474,
+  "last_signals": 1795152334.422769,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795099727.508787,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -63,7 +63,7 @@
     "Gold|4H": false,
     "Gold|1D": false,
     "USOIL|1H": true,
-    "USOIL|4H": true,
+    "USOIL|4H": false,
     "USOIL|1D": false,
     "Bitcoin|1H": false,
     "Bitcoin|4H": false,
@@ -123,12 +123,12 @@
     "JPY Index|4H:top": 1795110701.1306558,
     "USOIL|4H:top": 1794826432.0586598,
     "US30|4H:top": 1792769367.4440548,
-    "DXY|4H:top": 1795151724.1555545,
-    "Bitcoin|4H:bot": 1795151723.3609016,
+    "DXY|4H:top": 1795152338.4307904,
+    "Bitcoin|4H:bot": 1795152336.1708696,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1793059155.904477,
-    "DXY|1D:top": 1795151724.1555932,
-    "EUR/USD|1D:bot": 1795151723.8847003,
+    "DXY|1D:top": 1795152338.4308105,
+    "EUR/USD|1D:bot": 1795152337.722344,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
     "Gold|4H:bot": 1795070824.9254575,
@@ -155,15 +155,9 @@
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795151712.8539069,
-  "last_news": 1795151722.9794736,
+  "last_analysis": 1795152324.9526331,
+  "last_news": 1795152334.4220228,
   "seen_news": [
-    "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over S",
-    "Gap names new Athleta CEO, lowers full-year guidance",
-    "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more",
-    "TD Cowen highlights catalysts for a 2027 Best Idea stock",
-    "No relief for US stocks. Major indices trade to new lows",
-    "4 m\u00e1y bay kh\u1ed5ng l\u1ed3 c\u1ee7a Nga c\u1ea5t c\u00e1nh r\u1eddi \u0110\u00e0 N\u1eb5ng: C\u00f3 chi\u1ebfc cao g\u1ea7n b\u1eb1ng t\u00f2a nh\u00e0 5",
     "Robot vessels take on the dangerous work of mine hunting",
     "Gap cuts annual forecasts, flags weak apparel demand ahead of holidays",
     "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
@@ -457,6 +451,12 @@
     "investingLive Asia-Pacific market news: Red Friday as Asia\u2019s AI trade unravels",
     "Ph\u00e1t hi\u1ec7n n\u1eef gi\u00e1o vi\u00ean v\u1edbi thu nh\u1eadp ti\u1ec1n t\u1ef7 m\u1ed7i n\u0103m",
     "DCM: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "PDD Q3 Earnings Call Highlights - TradingView"
+    "PDD Q3 Earnings Call Highlights - TradingView",
+    "The tech helping crack decades-old cold cases",
+    "Mercosur\u2019s Tax Break Is Fueling Brazil\u2019s Oil Push Into Europe",
+    "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
+    "Paulson tells Q&A the Fed has more tightening to do, after a speech with no rate",
+    "C\u00f4ng ty gi\u1ea5y n\u00f3i g\u00ec v\u1ec1 v\u1ee5 ch\u00e1y kho nguy\u00ean li\u1ec7u r\u1ed9ng 20.000m\u00b2 t\u1ea1i C\u1ea7n Th\u01a1?",
+    "GAS: T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - CTCP - PV Gas - VietstockFinance"
   ]
 }
