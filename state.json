@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795263850.7084188,
+  "last_signals": 1795264467.2453692,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,7 +64,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -126,7 +126,7 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795263852.4849966,
+    "DXY|1D:top": 1795264468.3119233,
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
@@ -150,19 +150,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795263851.0658429,
+    "USOIL|1D:bot": 1795264467.4677331,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795263840.254043,
-  "last_news": 1795263850.7077322,
+  "last_analysis": 1795264459.2046592,
+  "last_news": 1795264467.2446332,
   "seen_news": [
-    "\u0110\u1ed7 V\u0103n Quang SN 1996 chuy\u1ec3n kho\u1ea3n 100.000.000 \u0111\u1ed3ng v\u00e0o t\u00e0i kho\u1ea3n c\u1ee7a Cao Th\u1ecb Thu",
-    "Kinh t\u1ebf Vi\u1ec7t Nam b\u01b0\u1edbc v\u00e0o ch\u1eb7ng n\u01b0\u1edbc r\u00fat v\u1edbi n\u1ec1n t\u1ea3ng t\u0103ng tr\u01b0\u1edfng \u0111\u01b0\u1ee3c c\u1ee7ng c\u1ed1 -",
-    "US Consumer Sentiment Strengthens With a Brighter Post-Election Outlook - Tradin",
-    "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
-    "As Christmas rush looms, how do China-made toys find their way to the US?",
-    "Bitcoin falls 5.10% to $55,830",
     "Is Nvidia stock a buy or sell? My opinion and 'buy the dip' trade plan",
     "FPT chi 1.886 t\u1ef7 \u0111\u1ed3ng chia c\u1ed5 t\u1ee9c gi\u1eefa nh\u1ecbp \u0111i\u1ec1u ch\u1ec9nh th\u1ecb tr\u01b0\u1eddng: N\u1ec1n t\u1ea3ng gi\u00e1 ",
     "Chi\u1ebfn l\u01b0\u1ee3c \u0111\u1ea7u t\u01b0 - VietstockFinance",
@@ -456,6 +450,12 @@
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
     "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView",
     "Trump says he still has confidence in Lutnick",
-    "How important are Nvidia and Jensen Huang to the US economy?"
+    "How important are Nvidia and Jensen Huang to the US economy?",
+    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
+    "Solv Protocol: Unlocks 2.7% of circulating SOLV supply - Aug 2027 - TradingView",
+    "Larry McDonald survived Lehman\u2019s collapse. Now he warns the credit market is sig",
+    "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott say",
+    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bon",
+    "AI tech rout prompts US investors to rush into value stocks"
   ]
 }
