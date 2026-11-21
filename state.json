@@ -1,6 +1,6 @@
 {
   "last_news_report": 1795233446.0345857,
-  "last_bot4": 1795242783.7748628,
+  "last_bot4": 1795243450.56194,
   "watch_symbols": [],
   "watch_by_chat": {
     "5575146754": [
@@ -11,7 +11,7 @@
   "sym_report_ts": {
     "Bitcoin": 1791648077.590062,
     "US30": 1791648079.7120564,
-    "Gold": 1795242161.7178967
+    "Gold": 1795243450.5618525
   },
   "bot_chats": {
     "bot4": [
@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795242783.7756736,
+  "last_signals": 1795243450.5626917,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -64,10 +64,10 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
-    "Ethereum|1H": false,
+    "Ethereum|1H": true,
     "Ethereum|4H": false,
     "Ethereum|1D": false,
     "US30|1H": false,
@@ -126,16 +126,16 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795242784.9573357,
+    "DXY|1D:top": 1795243452.7998574,
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795242783.9148724,
+    "Gold|4H:bot": 1795243450.804716,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
     "Gold|1D:bot": 1794978211.0203102,
-    "Ethereum|4H:bot": 1795242784.3081937,
+    "Ethereum|4H:bot": 1795243451.5719285,
     "USD/JPY|4H:bot": 1795186812.3757231,
     "JPY Index|4H:bot": 1795186812.7718518,
     "EUR/USD|4H:top": 1793861309.7279906,
@@ -150,19 +150,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795242784.0383945,
+    "USOIL|1D:bot": 1795243451.0450268,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795242776.2887776,
-  "last_news": 1795242783.774068,
+  "last_analysis": 1795243438.419039,
+  "last_news": 1795243448.581467,
   "seen_news": [
-    "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "Missouri judge approves Bayer\u2019s $7.25 billion Roundup settlement",
-    "investingLive European news wrap: Stock markets remain under pressure, bonds ral",
-    "H\u1ebft th\u1eddi t\u0103ng n\u00f3ng, chuy\u00ean gia h\u00e9 l\u1ed9 tri\u1ec3n v\u1ecdng gi\u00e1 v\u00e0ng",
-    "REE: CTCP C\u01a1 \u0110i\u1ec7n L\u1ea1nh - REE CORP - VietstockFinance",
-    "Compass Therapeutics Disclosed Failure to Satisfy a Continued Listing Rule or St",
     "U.S. Treasury yields and global bond yields plunge as traders flee AI rout",
     "The stock market's wealth effect: why it matters even if you don't own stocks",
     "Nh\u00e0 gi\u00e1o \u01afu t\u00fa ngo\u00e0i 90 tu\u1ed5i c\u00f3 nhi\u1ec1u h\u1ecdc tr\u00f2 l\u00e0 ngh\u1ec7 s\u0129 l\u1eebng danh, m\u1eaft m\u1edd v\u1eabn c",
@@ -456,6 +450,12 @@
     "Biofrontera Disclosed Failure to Satisfy a Continued Listing Rule or Standard - ",
     "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actu",
     "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns fr",
-    "Robot vessels take on the dangerous work of mine hunting"
+    "Robot vessels take on the dangerous work of mine hunting",
+    "SpaceX\u2019s subsidiary Cursor tells lawmakers it's considering phasing out Chinese ",
+    "Mouldy, infested housing for vulnerable people sold as ethical investments abroa",
+    "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
+    "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
+    "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs ",
+    "T\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00e2n c\u00f3 l\u01b0\u01a1ng h\u01b0u, tr\u1ee3 c\u1ea5p ch\u00fa \u00fd th\u00f4ng b\u00e1o quan tr\u1ecdng t\u1eeb BHXH Vi\u1ec7t N"
   ]
 }
