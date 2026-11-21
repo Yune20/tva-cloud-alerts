@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795250542.554979,
+  "last_signals": 1795251153.3876677,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -126,11 +126,11 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795250543.7518535,
+    "DXY|1D:top": 1795251154.6463726,
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795250542.6725497,
+    "Gold|4H:bot": 1795251153.5540776,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -150,19 +150,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795250542.7959373,
+    "USOIL|1D:bot": 1795251153.6780813,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795250535.6376007,
-  "last_news": 1795250540.502508,
+  "last_analysis": 1795251147.7492232,
+  "last_news": 1795251153.3871202,
   "seen_news": [
-    "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign laun",
-    "\u2019Black Friday\u2019 brings consumer spending into focus for AI-rocked market",
-    "UK October retail sales +0.7% vs +0.0% m/m expected",
-    "Danh t\u00ednh ch\u00e0ng trai Hu\u1ebf t\u1eebng ng\u1ee7 ngo\u00e0i c\u00f4ng vi\u00ean v\u00ec h\u1ebft ti\u1ec1n thu\u00ea nh\u00e0 nay n\u1ed5i t",
-    "CTG: B\u00e1o c\u00e1o c\u1eadp nh\u1eadt KQKD Q3/2026 - VietstockFinance",
-    "Fannie Mae sets retention awards for CFO Chryssa Halley and CIO Erik Bisso - Tra",
     "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
     "Sun Group s\u1ebd l\u00e0m khu \u0111\u00f4 th\u1ecb l\u1ea5n bi\u1ec3n 72.200 t\u1ef7 \u0111\u1ed3ng t\u1ea1i h\u00f2n \u0111\u1ea3o \u0111\u1eb9p b\u1eadc nh\u1ea5t ch\u00e2",
     "B\u1ea3n \u0111\u1ed3 th\u1ecb tr\u01b0\u1eddng - VietstockFinance",
@@ -456,6 +450,12 @@
     "Norway\u2019s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
     "Singaporean extradited to face US charges over global insider trading scheme",
     "What are the main events for today?",
-    "Ng\u01b0\u1eddi lao \u0111\u1ed9ng c\u00f3 th\u00eam quy\u1ec1n l\u1ee3i khi \u0111\u00f3ng BHXH sau tu\u1ed5i ngh\u1ec9 h\u01b0u"
+    "Ng\u01b0\u1eddi lao \u0111\u1ed9ng c\u00f3 th\u00eam quy\u1ec1n l\u1ee3i khi \u0111\u00f3ng BHXH sau tu\u1ed5i ngh\u1ec9 h\u01b0u",
+    "investingLive Asia-Pacific market news: Red Friday as Asia\u2019s AI trade unravels",
+    "\u0110\u00f4i r\u1ed3ng cao 10 m b\u00ean H\u1ed3 G\u01b0\u01a1m \u0111\u01b0\u1ee3c th\u00e1o d\u1ee1 ch\u1edbp nho\u00e1ng",
+    "D\u1eef li\u1ec7u Th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng v\u00e0 d\u00e2n s\u1ed1 Vi\u1ec7t Nam - VietstockFinance",
+    "Key facts: Anthropic Reports $33.2B Revenue, Raises $10B; Cash Could Exceed $230",
+    "Cathie Wood\u2019s Ark Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018q",
+    "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow"
   ]
 }
