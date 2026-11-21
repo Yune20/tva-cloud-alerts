@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795219082.0219793,
+  "last_signals": 1795219712.1462667,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": false,
+    "Bitcoin|1H": true,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -82,13 +82,13 @@
     "EUR/USD|1D": false,
     "USD/JPY|1H": false,
     "USD/JPY|4H": false,
-    "USD/JPY|1D": true,
+    "USD/JPY|1D": false,
     "DXY|1H": true,
     "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
-    "JPY Index|1D": true
+    "JPY Index|1D": false
   },
   "chain_lease_until": 1795219957,
   "menu_prices": {
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795219082.3962681,
+    "Gold|4H:bot": 1795219712.3364275,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795219082.768971,
+    "USOIL|1D:bot": 1795219712.4875038,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795219073.941709,
-  "last_news": 1795219082.021229,
+  "last_analysis": 1795219703.9208724,
+  "last_news": 1795219712.1455865,
   "seen_news": [
-    "Investors fled to healthcare stocks for safety. Now insurance and hospital share",
-    "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-    "The grads ditching the UK for a fresh start abroad",
-    "Pfizer near-term support and resistance levels",
-    "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
-    "N\u1eef \u0111\u1ea1i t\u00e1 \u0111\u1ee9ng sau th\u00e0nh c\u00f4ng c\u1ee7a 4 NSND, 10 NS\u01afT v\u00e0 nhi\u1ec1u ca s\u0129 n\u1ed5i ti\u1ebfng",
     "Keysight Forecasts 20% Revenue Growth for 2027 on Strong Demand - TradingView",
     "Our top 10 things to watch in the stock market Friday",
     "Should AI be judging our credit worthiness?",
@@ -457,6 +451,12 @@
     "Bitcoin tests key swing area low. A break below will target the 2026 lows",
     "Doanh nghi\u1ec7p x\u1ed5 s\u1ed1 trong di\u1ec7n b\u1ecb thanh tra l\u00e0m \u0103n ra sao?",
     "D\u1eef li\u1ec7u C\u00e1n c\u00e2n thanh to\u00e1n qu\u1ed1c t\u1ebf Vi\u1ec7t Nam - VietstockFinance",
-    "Greenland Mines to Repurchase 7,045 Series C Shares for $8.99 Million - TradingV"
+    "Greenland Mines to Repurchase 7,045 Series C Shares for $8.99 Million - TradingV",
+    "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+    "Ford, Honda, Stellantis, VW sue New Jersey to block \u2019extortionate\u2019 vehicle repai",
+    "Greer says US-China trade truce extension hinges on rare earths",
+    "Th\u1ea7y gi\u00e1o d\u1ea1y V\u0103n cao 1m86 \u0111ang hot r\u1ea7n r\u1ea7n tr\u00ean MXH, c\u00f3 m\u00e0n m\u1eebng 20/11 \u0111\u1ed9c l\u1ea1 c",
+    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance"
   ]
 }
