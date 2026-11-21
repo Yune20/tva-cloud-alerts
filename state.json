@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795218468.8496397,
+  "last_signals": 1795219082.0219793,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -128,10 +128,10 @@
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
     "DXY|1D:top": 1795217242.5054832,
-    "EUR/USD|1D:bot": 1795218470.7801218,
+    "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795218469.199072,
+    "Gold|4H:bot": 1795219082.3962681,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795218469.4595082,
+    "USOIL|1D:bot": 1795219082.768971,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795218460.5336616,
-  "last_news": 1795218468.8485591,
+  "last_analysis": 1795219073.941709,
+  "last_news": 1795219082.021229,
   "seen_news": [
-    "HHV: CTCP \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng Giao th\u00f4ng \u0110\u00e8o C\u1ea3 - DII - VietstockFinance",
-    "Spotting winners: Shake Shack and modern fast food stocks in Q3 - TradingView",
-    "This closely watched investing guru just sold all of his stocks",
-    "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks wi",
-    "The Indian workers filming their work to train AI",
-    "Why is Western Digital stock sliding today?",
     "Investors fled to healthcare stocks for safety. Now insurance and hospital share",
     "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
     "The grads ditching the UK for a fresh start abroad",
@@ -457,6 +451,12 @@
     "Key facts: FDA Extends Deramiocel Review; Capricor Reports Q3 Loss - TradingView",
     "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
     "The seven Anthropic founders who are about to become multi-billionaires",
-    "China\u2019s Oil Imports from Persian Gulf Jump to Wartime High"
+    "China\u2019s Oil Imports from Persian Gulf Jump to Wartime High",
+    "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation r",
+    "Wonder explores sale of Grubhub, Wall Street Journal reports",
+    "Bitcoin tests key swing area low. A break below will target the 2026 lows",
+    "Doanh nghi\u1ec7p x\u1ed5 s\u1ed1 trong di\u1ec7n b\u1ecb thanh tra l\u00e0m \u0103n ra sao?",
+    "D\u1eef li\u1ec7u C\u00e1n c\u00e2n thanh to\u00e1n qu\u1ed1c t\u1ebf Vi\u1ec7t Nam - VietstockFinance",
+    "Greenland Mines to Repurchase 7,045 Series C Shares for $8.99 Million - TradingV"
   ]
 }
