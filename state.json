@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795234657.2638175,
+  "last_signals": 1795235255.7033226,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -44,7 +44,7 @@
     "5575146754|Gold|1D|dbot": 1794925335.572049,
     "5575146754|Gold|1H|tbot": 1794632581.2173889,
     "5575146754|Gold|1H|dbot": 1794718478.4873762,
-    "5575146754|Gold|1D|dn": 1795213219.9125333,
+    "5575146754|Gold|1D|dn": 1795235255.7033226,
     "5575146754|Gold|1D|trap_dn": 1795075551.351679
   },
   "sig_range": {
@@ -84,7 +84,7 @@
     "USD/JPY|4H": false,
     "USD/JPY|1D": false,
     "DXY|1H": true,
-    "DXY|4H": true,
+    "DXY|4H": false,
     "DXY|1D": false,
     "JPY Index|1H": false,
     "JPY Index|4H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795234657.4004228,
+    "Gold|4H:bot": 1795235256.0748076,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795234657.5563433,
+    "USOIL|1D:bot": 1795235256.42666,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
   "last_analysis": 1795234960.9820573,
-  "last_news": 1795234657.2628338,
+  "last_news": 1795235255.7027204,
   "seen_news": [
-    "Zcash's bearish trend remains intact as the path to recovery depends on two majo",
-    "Chu Di\u1ec7p Anh - \u201cc\u00f4ng ch\u00faa n\u01b0\u1edbc m\u1eaft\u201d phim gi\u1edd v\u00e0ng VTV: 11 tu\u1ed5i l\u00ean b\u00e1o M\u1ef9, 15 tu",
-    "B\u00e1o c\u00e1o V\u0129 m\u00f4: Th\u00e1ng 11/2026 - VietstockFinance",
-    "Nvidia tumbles as SEC probe explores accounting issues: report - TradingView",
-    "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
-    "A massive bearish trade just happened in the chip stocks",
     "MWG: Khuy\u1ebfn ngh\u1ecb KH\u1ea2 QUAN v\u1edbi gi\u00e1 m\u1ee5c ti\u00eau 81,400 \u0111\u1ed3ng/c\u1ed5 phi\u1ebfu - VietstockFinan",
     "US SEC's Nvidia probe is examining potential accounting issues, sources say - Tr",
     "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s s",
@@ -457,6 +451,12 @@
     "Flowers Foods Declares $0.03 Quarterly Dividend, Payable Dec. 18 - TradingView",
     "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimm",
     "Trump threatens ban on US firms building AI data centres overseas",
-    "Nvidia\u2019s accounting is a focus of US SEC investigation, sources say"
+    "Nvidia\u2019s accounting is a focus of US SEC investigation, sources say",
+    "Adtran Holdings, Inc. (ADTN) Receives BlackRock Major Holdings Notification - Tr",
+    "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "Bitcoin falls 3.57% to $56,814",
+    "How have interest rate expectations changed after this week's events?",
+    "T\u00e0i s\u1ea3n m\u1edbi trong cu\u1ed9c \u0111ua \u0111\u01b0a doanh nghi\u1ec7p Vi\u1ec7t ra th\u1ecb tr\u01b0\u1eddng qu\u1ed1c t\u1ebf"
   ]
 }
