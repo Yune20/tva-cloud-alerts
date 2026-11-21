@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795244480.4664197,
+  "last_signals": 1795245094.2285953,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|4H": true,
     "USOIL|1D": false,
     "Bitcoin|1H": true,
-    "Bitcoin|4H": false,
+    "Bitcoin|4H": true,
     "Bitcoin|1D": false,
     "Ethereum|1H": true,
     "Ethereum|4H": true,
@@ -126,11 +126,11 @@
     "Bitcoin|4H:bot": 1795186811.3922966,
     "EUR/USD|4H:bot": 1795139656.6815112,
     "Ethereum|1D:bot": 1795186811.5350614,
-    "DXY|1D:top": 1795244481.5366635,
+    "DXY|1D:top": 1795245095.586921,
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795244480.5847616,
+    "Gold|4H:bot": 1795245094.3602855,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -150,19 +150,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795244480.7138774,
+    "USOIL|1D:bot": 1795245094.5027328,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795244469.989623,
-  "last_news": 1795244477.5478055,
+  "last_analysis": 1795245086.5425851,
+  "last_news": 1795245094.228038,
   "seen_news": [
-    "Erasca Reports ERAS-0015 Response Data, Accelerates Pancreatic Cancer Phase 3 - ",
-    "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from t",
-    "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in his",
-    "Exclusive-Lutnick asked battery startup Pure Lithium to accept US takeover, docu",
-    "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunge",
     "Wall Street regulator proposes to\u00a0take\u00a0control of\u00a0market\u00a0surveillance tool",
     "Nasdaq 100 posts worst week since March 2020",
     "D\u1eebng x\u00e2y d\u1ef1ng kh\u1ea9n c\u1ea5p t\u00f2a nh\u00e0 cao g\u1ea5p 1,3 l\u1ea7n Landmark 81, v\u1ed1n \u0111\u1ea7u t\u01b0 51.000 t\u1ef7",
@@ -456,6 +450,12 @@
     "investingLive European news wrap: Stock markets remain under pressure, bonds ral",
     "\"B\u00e9\" Xu\u00e2n Mai SN 1995 k\u1ebft h\u00f4n n\u0103m 19 tu\u1ed5i, v\u1eeba k\u1ef7 ni\u1ec7m 12 n\u0103m ng\u00e0y c\u01b0\u1edbi",
     "VCB: Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i th\u01b0\u01a1ng Vi\u1ec7t Nam - VIETCOMBANK - VietstockFinance",
-    "Intellia Therapeutics Preps Gene-Editing Launch as FDA Review Advances - Trading"
+    "Intellia Therapeutics Preps Gene-Editing Launch as FDA Review Advances - Trading",
+    "The stock market's wealth effect: why it matters even if you don't own stocks",
+    "Vi\u1ec7t Nam c\u00f3 gi\u1ecdng ca t\u1eebng \u0111\u1ed7 Th\u1ee7 khoa, \u0111\u01b0\u1ee3c M\u1ef9 T\u00e2m khuy\u00ean thi hoa h\u1eadu: B\u1ed1 m\u1eb9 b\u00e1n",
+    "VND: CTCP Ch\u1ee9ng kho\u00e1n VNDIRECT - VNDIRECT - VietstockFinance",
+    "Trump Wants Jensen Huang to Apologize Before Returning to Lead Nvidia - TradingV",
+    "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "How China is using summits to expand its global influence"
   ]
 }
