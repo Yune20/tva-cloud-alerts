@@ -29,7 +29,7 @@
     "bot1": 488112752,
     "bot3": 959191732
   },
-  "last_signals": 1795228146.275835,
+  "last_signals": 1795228750.191673,
   "signal_ts": {
     "5575146754|Gold|1H|range_in": 1795211990.03383,
     "5575146754|Gold|4H|range_in": 1794900036.853268,
@@ -65,7 +65,7 @@
     "USOIL|1H": false,
     "USOIL|4H": true,
     "USOIL|1D": false,
-    "Bitcoin|1H": true,
+    "Bitcoin|1H": false,
     "Bitcoin|4H": false,
     "Bitcoin|1D": false,
     "Ethereum|1H": false,
@@ -131,7 +131,7 @@
     "EUR/USD|1D:bot": 1795219084.7588778,
     "US30|1D:top": 1792595589.8777509,
     "GBP/USD|4H:top": 1793872672.8934612,
-    "Gold|4H:bot": 1795228146.465337,
+    "Gold|4H:bot": 1795228750.3134625,
     "USD/JPY|1D:top": 1794613837.6545832,
     "JPY Index|1D:top": 1794613838.275553,
     "GBP/USD|1D:bot": 1795098127.2054656,
@@ -151,19 +151,13 @@
     "DXY|1D:bot": 1793822783.600698,
     "US30|4H:bot": 1793908566.5728915,
     "EUR/USD|1D:top": 1793918983.6142447,
-    "USOIL|1D:bot": 1795228146.6182115,
+    "USOIL|1D:bot": 1795228750.4461963,
     "US30|1D:bot": 1793994574.9259112,
     "DXY|1H:top": 1794718479.8483286
   },
-  "last_analysis": 1795228138.7534983,
-  "last_news": 1795228146.275158,
+  "last_analysis": 1795228742.919272,
+  "last_news": 1795228750.1907449,
   "seen_news": [
-    "Bitcoin extends losses as growth concerns increase amid stock market rout. What ",
-    "Vi\u1ec7t Nam \u0111\u00f3n m\u1ed9t tin c\u1ef1c vui t\u1eeb Campuchia",
-    "Ch\u1ee9ng quy\u1ec1n ACB/BSC/C/9M/EU/Cash/2025-01 HOSE: CACB2630 - VietstockFinance",
-    "Why Nebius Stock Is Falling Today Despite Strong AI Cloud Demand? - TradingView",
-    "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lo",
-    "We\u2019re making another small buy as the market sell-off deepens",
     "B\u00e1o c\u00e1o V\u0129 m\u00f4: Xu\u1ea5t nh\u1eadp kh\u1ea9u l\u1eadp k\u1ef7 l\u1ee5c trong T10 - VietstockFinance",
     "DarioHealth Corp. (DRIO) Expects WebMD Partnership Revenue in 2027 - TradingView",
     "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery stu",
@@ -457,6 +451,12 @@
     "Congressman Dumps Stocks for Treasury Note: Is This a Warning Sign? - TradingVie",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minute",
     "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs"
+    "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
+    "Dutch Bros vs. Starbucks: Which Coffee Stock Has Stronger Prospects? - TradingVi",
+    "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+    "Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generat",
+    "Trump: Secured two new trade deals. 10 others coming very soon."
   ]
 }
